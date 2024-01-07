@@ -1,5 +1,6 @@
 from datetime import timedelta, datetime
-
+import pandas as pd
+import json
 from airflow.decorators import dag, task
 from airflow.providers.sqlite.hooks.sqlite import SqliteHook
 from airflow.providers.sqlite.operators.sqlite import SqliteOperator
@@ -63,15 +64,48 @@ CREATE TABLE IF NOT EXISTS location (
 @task()
 def extract():
     """Extract data from jobs.csv."""
+    df=pd.read_csv('../source/jobs.csv')
+    return df.to_csv('../staging/extracted.txt', sep='\t', index=False) 
 
 @task()
 def transform():
     """Clean and convert extracted elements to json."""
+    with open('../staging/extracted.txt', 'r') as txt_file:
+        lines = txt_file.readlines()
 
+    columns = lines[0].strip().split('\t')
+    data = []
+
+    for line in lines[1:]:
+        values = line.strip().split('\t')
+        row = dict(zip(columns, values))
+        data.append(row)
+
+    with open('../staging/transformed.json', 'w') as json_file:
+        return json.dump(data, json_file, indent=2)
+     
 @task()
 def load():
     """Load data to sqlite database."""
+    json_file_path = 'staging/transformed.json'
+
+    with open(json_file_path, 'r') as json_file:
+        data = json.load(json_file)
+
     sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
+    connection = sqlite_hook.get_conn()
+    cursor = connection.cursor()
+
+    for row in data:
+        columns = ', '.join(row.keys())
+        values = ', '.join(['?' for _ in row.values()])
+        insert_query = f"INSERT INTO table_name ({columns}) VALUES ({values})"
+
+        cursor.execute(insert_query, tuple(row.values()))
+
+    connection.commit()
+    connection.close()
+
 
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
