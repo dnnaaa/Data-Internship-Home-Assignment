@@ -1,102 +1,81 @@
+
+import sqlite3
 from datetime import timedelta, datetime
+from airflow import DAG
+from airflow.operators.python_operator import PythonOperator
+from db_operations import (CREATE_JOB_TABLE, CREATE_COMPANY_TABLE, CREATE_EDUCATION_TABLE, 
+                           CREATE_EXPERIENCE_TABLE, CREATE_SALARY_TABLE, CREATE_LOCATION_TABLE)
 
-from airflow.decorators import dag, task
-from airflow.providers.sqlite.hooks.sqlite import SqliteHook
-from airflow.providers.sqlite.operators.sqlite import SqliteOperator
+from extract_task import extract_jobs
+from transform_task import transform_data
+from load_task import load_data_into_db
 
-TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    title VARCHAR(225),
-    industry VARCHAR(225),
-    description TEXT,
-    employment_type VARCHAR(125),
-    date_posted DATE
-);
 
-CREATE TABLE IF NOT EXISTS company (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    name VARCHAR(225),
-    link TEXT,
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
+def create_tables():
+    # open a connection to the SQLite database
+    conn = sqlite3.connect('my_db.db')
+    c = conn.cursor()
 
-CREATE TABLE IF NOT EXISTS education (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    required_credential VARCHAR(225),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
+    # SQL commands 
+    sql_commands = [
+        CREATE_JOB_TABLE,
+        CREATE_COMPANY_TABLE,
+        CREATE_EDUCATION_TABLE,
+        CREATE_EXPERIENCE_TABLE,
+        CREATE_SALARY_TABLE,
+        CREATE_LOCATION_TABLE
+    ]
 
-CREATE TABLE IF NOT EXISTS experience (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    months_of_experience INTEGER,
-    seniority_level VARCHAR(25),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
+    # execute each SQL command
+    for command in sql_commands:
+        c.execute(command)
 
-CREATE TABLE IF NOT EXISTS salary (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    currency VARCHAR(3),
-    min_value NUMERIC,
-    max_value NUMERIC,
-    unit VARCHAR(12),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
+    # commit the changes 
+    conn.commit()
+    conn.close()
 
-CREATE TABLE IF NOT EXISTS location (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    country VARCHAR(60),
-    locality VARCHAR(60),
-    region VARCHAR(60),
-    postal_code VARCHAR(25),
-    street_address VARCHAR(225),
-    latitude NUMERIC,
-    longitude NUMERIC,
-    FOREIGN KEY (job_id) REFERENCES job(id)
-)
-"""
-
-@task()
-def extract():
-    """Extract data from jobs.csv."""
-
-@task()
-def transform():
-    """Clean and convert extracted elements to json."""
-
-@task()
-def load():
-    """Load data to sqlite database."""
-    sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
-
+# DAG default arguments
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
+    'start_date': datetime(2019, 2, 15),
+    'end_date': datetime(2019, 2, 15),  
     "retries": 3,
     "retry_delay": timedelta(minutes=15)
 }
 
-@dag(
-    dag_id="etl_dag",
-    description="ETL LinkedIn job posts",
-    tags=["etl"],
-    schedule="@daily",
-    start_date=datetime(2024, 1, 2),
-    catchup=False,
-    default_args=DAG_DEFAULT_ARGS
+dag = DAG(
+    'etl',
+    default_args=DAG_DEFAULT_ARGS,
+    description='A simple ETL pipeline using Airflow and SQLite',
+    schedule_interval=timedelta(days=1),
 )
-def etl_dag():
-    """ETL pipeline"""
 
-    create_tables = SqliteOperator(
-        task_id="create_tables",
-        sqlite_conn_id="sqlite_default",
-        sql=TABLES_CREATION_QUERY
-    )
 
-    create_tables >> extract() >> transform() >> load()
+create_tables_task = PythonOperator(
+    task_id='create_tables',
+    python_callable=create_tables,
+    dag=dag,
+)
+extract_task = PythonOperator(
+    task_id='extract',
+    python_callable=extract_jobs,
+    dag=dag,
+)
 
-etl_dag()
+transform_task = PythonOperator(
+    task_id='transform',
+    python_callable=transform_data,
+    dag=dag,
+)
+
+load_task = PythonOperator(
+    task_id='load',
+    python_callable=load_data_into_db,
+    dag=dag,
+)
+
+# defining the pipeline sequence
+create_tables_task >> extract_task >> transform_task >> load_task
+
+
+
