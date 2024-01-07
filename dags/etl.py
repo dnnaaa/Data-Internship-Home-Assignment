@@ -4,6 +4,10 @@ from airflow.decorators import dag, task
 from airflow.providers.sqlite.hooks.sqlite import SqliteHook
 from airflow.providers.sqlite.operators.sqlite import SqliteOperator
 
+from extract import extract_jobs_csv
+from transform import transform_extracted_files
+from load import load_to_database
+
 TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     title VARCHAR(225),
@@ -63,15 +67,19 @@ CREATE TABLE IF NOT EXISTS location (
 @task()
 def extract():
     """Extract data from jobs.csv."""
+    extract_jobs_csv('source/jobs.csv', 'staging/extracted')
 
 @task()
 def transform():
     """Clean and convert extracted elements to json."""
+    transform_extracted_files('staging/extracted', 'staging/transformed')
 
 @task()
 def load():
     """Load data to sqlite database."""
     sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
+    load_to_database('staging/transformed')
+
 
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
@@ -100,3 +108,8 @@ def etl_dag():
     create_tables >> extract() >> transform() >> load()
 
 etl_dag()
+
+
+
+
+
