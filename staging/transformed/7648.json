@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer (NLP)",
+    "industry": "Health, Wellness and Fitness",
+    "description": "ltpgtltstronggtabout usltstronggtltpgtltpgtltspangtat ginger we believe that everyone deserves access to incredible mental healthcare our ondemand system brings together behavioral health coaches therapists and psychiatrists who work as a team to deliver personalized care right through your smartphoneampnbspthe ginger app provides members with access to the support they need within seconds days a year millions of people have access to ginger through leading employers health plans and our network of partnersltspangtltpgtltpgtginger has been recognized by the world economic forum as a technology pioneer and by fast company as one of the most innovative companies in healthcareampnbspltpgtltpgtltbrgtltpgtltpgtltstronggtabout the roleltstronggtltpgtltpgtwe are looking for an outstanding candidate who has worked in machine learning and is passionate about helping people be their best selves you will be working closely with our data science product engineering and care teams key responsibilities will include building and maintaining machine learning models that move the needle for the companyltpgtltpgtltbrgtltpgtltpgtltstronggtwhat youll doltstronggtltpgtltpgtas a core part of a closeknit data science team youllltpgtltulgtltligtdesign train and validate algorithms to derive as much actionable information from our data text media activity etc as possibleltligtltligtengineer informative nlp features that allow us to summarize salient passages infer quality of care etcltligtltligtdevelop and deploy algorithms that boost coach and clinician awareness of member goals status history and probable future conditionsltligtltligtwrite new algorithms to recommend specific personalized healthpromoting content eg modules in the app based on a range of featuresltligtltligtintegrate streaming activity and sleep data directly from the phone or via services to expand our capacity to provide meaningful insight and careampnbspltligtltligtcollaborate with engineers to integrate algorithms efficiently with backend production servicesampnbspltligtltligtwork with product team to define solutions and integrate them into the roadmapltligtltligthelp us scale our services using gpus and modern distributed processing tools in the cloud awsltligtltligtdig into data withampnbspad hoc analysis as necessary for technical clinical customer etc needsltligtltligtimprove and help define the data teams processes and toolingltligtltligtsee that we remain at the bleeding edge of advanced analytical capability in our effort to provide unparalleled levels of personalized careltligtltligtemploy data to keep our eyes on the prize improved mentalhealth outcomes for all membersltligtltulgtltpgtltbrgtltpgtltpgtltstronggtnecessary skillsltstronggtltpgtltulgtltligtmachine learning yearsltligtltligtdata science yearsltligtltligtpython yearsltligtltligtnatural language processing nlp yearsltligtltligtfoundation in statisticsltligtltligtmathematically fluentltligtltligtmasters in technical field or experiential equivalentltligtltulgtltpgtltbrgtltpgtltpgtltstronggtpreferred skillsltstronggtltpgtltulgtltligtmodern nlp tools such as spacy corenlp gensim nltk yearsltligtltligtdeep net ml development experience using pytorch tensorflow etcltligtltligtdistributed ml via spark or similarampnbspltligtltligtml on gpusampnbspltligtltligtdeploying to production systems with active customersampnbspltligtltligtpython yearsltligtltligtnumpyscipypandas yearsltligtltligtdeep learning for text understanding and generationltligtltligtamazon web services aws yearsltligtltligtdockerampnbspltligtltligtaws lambda sagemakerltligtltligtstrong on statsltligtltligtstrong data visualization skillsltligtltligttime series analysisltligtltligtexperience in the healthcare spaceltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T20:48:22.000Z"
+  },
+  "company": {
+    "name": "Ginger",
+    "link": "https://www.linkedin.com/company/carebyginger"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

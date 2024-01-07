@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtwhat youll achieveltstronggtltpgtltpgtas a site reliability engineer you will become part of a global engineering team delivering cloudiq a cloudnative solution that provides proactive health monitoring and predictive analyticsampnbspcloudiq is softwareasaservice application built on a modern platform with state of the art opensource technologies and a continuous delivery modelampnbspas a site reliability engineer you will work in a highly collaborative environment ensuring that our mission critical application and underlying systems are healthy and designed for scale the candidate is passionate about a role that involves full stack visibility a broad knowledge in application databases servers virtualization networking and requires extensive automationltemgtampnbspltemgtbring your passion and dedication to work with an amazing team to quickly turn ideas into great productltpgtltpgtltbrgtltpgtltpgtltstronggtyou willltstronggtltpgtltpgtltbrgtltpgtltulgtltligtdevelop tools to identify reliability risks monitor application growth and triage production issuesltligtltligtcoordinate with infrastructure and platform teams on regular maintenance improve availability scalability and performance of the environmentltligtltligtrespond to incidents perform root cause analysis and drive change management to prevent recurrenceltligtltligtparticipate in oncall support with engineering infrastructure and platform teams during outage or maintenance activityltligtltligtcollaborate with development teams and work crossfunctionally with it and vendors to implement the infrastructure required to support application use casesltligtltligtactively engage with internal teams to develop tooling framework to drive full observability and automation of the environmentltligtltulgtltpgtltstronggttake the first step towards your dream careerltstronggtltpgtltpgtltbrgtltpgtltpgtltstronggtevery dell technologies team member brings something unique to the table heres what we are looking for with this roleltstronggtltpgtltpgtltstronggtltspan classqlcursorgtltspangtltstronggtltpgtltpgtltstronggtessential requirementsltstronggtltpgtltpgtltbrgtltpgtltulgtltligt years of related experience with a bachelors degree or years with a masters degree or years with a phd or equivalent experienceampnbspampnbspbachelors degree in computer science or equivalent experience in systems engineeringltligtltligtability to work in a highly collaborative environment and communicate effectively with cross functional teams and vendorsltligtltligtexperience analyzing and troubleshooting large scale distributed systems operating solutions based on a microservice architectureltligtltligtexperience in integrating and automating solutions to provide a highly scalable high throughput platformltligtltligtstrong scripting and automation skills python perl groovy ansible or equivalentltligtltligtexperience working with one or more of the following kubernetes cloud foundry azure aws rabbitmq kafka postgres cassandra redis mongodb elasticsearchltligtltulgtltpgtltstronggtdesirable requirements ltstronggtltpgtltpgtltbrgtltpgtltulgtltligtexperience with unixlinux operating system internals and administration filesystems networkingltligtltligtexperience with vmware virtualization preferred but not necessaryltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T16:27:34.000Z"
+  },
+  "company": {
+    "name": "Dell Technologies",
+    "link": "https://www.linkedin.com/company/delltechnologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

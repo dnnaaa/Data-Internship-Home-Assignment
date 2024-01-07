@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtdescriptionltbrgtltbrgtltstronggtltstronggtcompany overviewltbrgtltbrgtltstronggtshamrock trading corporation is the parent company for a family of brands in transportation services finance and technology headquartered in overland park ks shamrock has consistently been named best places to work by the ltemgtkansas city business journalltemgt we also have offices in chicago dallas laredo midland nashville and atlantaltbrgtltbrgtwith an average annual revenue growth of since shamrocks success is attributed to three key factors hiring the best people cultivating longterm relationships with our customers and continually evolving in the marketplaceltbrgtltbrgtltstronggtresponsibilitiesltbrgtltbrgtltstronggtshamrock trading corporation is looking for a site reliability engineer to join the development team the site reliability engineer will focus on collaborating with software developers and other it staff members to design new internal solutions that increase operational efficiency an ideal candidate will be a detailoriented problem solver with proven experience the site reliability engineer should be familiar with multiple cicd processes and tools and be able to guide developers in the sdlcltbrgtltulgtltligtdesign and implement deployment pipelines ltligtltligtmonitor troubleshoot and upgrade database servers mongo postgres sql server ltligtltligtpartner with internal service owners and teams to evaluate technical data plan and execute service upgrades and changes ltligtltligtdevelop tools and solutions to increase the operational efficiency of the development team with a focus on building strong working relationships ltligtltligtmonitor mission critical systems creating alerts on performance metrics to identify resource constraints ltligtltligtact as subject matter expert for cloud infrastructure guiding the development team using best practices ltbrgtltbrgtltligtltulgtltstronggtqualificationsltbrgtltstronggtltulgtltligtbachelors degree in computer science engineering or a related technical field or equivalent practical experience ltligtltligtexperience with cloudbased infrastructure eg aws gcp azure ltligtltligtexperience in automation with scripting or programming languages eg bash python java javascript ltligtltligtfamiliar with the system administration of various operating systems eg linux macos ios android windows ltligtltligtknowledge of networking and web standards eg dns dhcp tcpip http web security mechanisms proxies firewalls load balancers ltligtltligtsystematic problemsolving approach coupled with a strong sense of ownership and driveltligtltligtadaptable to changing prioritiesltligtltligtability to prioritize work effectively ltligtltligtstrong communication and leadership skills ltligtltligtpreferred but not required qualifications include ltligtltligtexperience building and deploying products in aws ltligtltligtexperience with deployment and orchestration technologies eg docker kubernetes openstack puppet chef gradle ltligtltligtexperience with continuous integration systems and build and deployment automation eg jenkins codebuild codedeploy ltligtltligtstrong understanding of complex it infrastructure and ability to troubleshoot issues ltligtltligtunderstanding of it change management best practices ltligtltligtability to make progress when high ambiguity and uncertainty existltbrgtltbrgtltligtltulgtltstronggtbenefits packageltbrgtltbrgtltstronggtat shamrock we hire bright ambitious people and give them the tools they need to be successful by investing in training and development we hope to become a longterm career for employees where there are always opportunities for advancement shamrock also offers a premier set of benefits for employees and their familiesltbrgtltulgtltligtmedical fullypaid healthcare dental and vision premiums for employees and eligible dependents ltligtltligtfinancial generous company k contributions and employee stock ownership after one year ltligtltligtwellness onsite gym jogging trail and discounted membership to nearby fitness center ltligtltligtworklife balance competitive pto and paid leave optionsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:41:58.000Z"
+  },
+  "company": {
+    "name": "Shamrock Trading Corporation",
+    "link": "https://www.linkedin.com/company/shamrock-trading-corp-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 84600,
+    "max_value": 122000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Overland Park",
+    "region": "KS",
+    "postal_code": "66214",
+    "street_address": null,
+    "latitude": 38.97482,
+    "longitude": -94.6836
+  }
+}

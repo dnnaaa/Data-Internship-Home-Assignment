@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Financial Services,Internet",
+    "description": "fueled by a fundamental belief that having access to financial services creates opportunity paypal nasdaq pypl is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy our open digital payments platform gives paypals million active account holders the confidence to connect and transact in new and powerful ways whether they are online on a mobile device in an app or in person through a combination of technological innovation and strategic partnerships paypal creates better ways to manage and move money and offers choice and flexibility when sending payments paying or getting paid available in more than markets around the world the paypal platform including braintree venmo and xoom enables consumers and merchants to receive money in more than currencies withdraw funds in currencies and hold balances in their paypal accounts in currenciesltbrgtltbrgtltstronggtjob description summaryltbrgtltstronggthoney is a fastgrowing company based in los angeles and weve recently joined the paypal family to help supercharge our mission of creating fairness and value for everyone weve built a community of over million online shoppers and use the collective insights of our members to power an online shopping platform that allows everyone to shop smarter together with that we are excited to say were hiring we are actively seeking a senior backend engineer on the honey offers teamltbrgtltbrgtltstronggtjob descriptionltbrgtltstronggtltstronggtabout the teamltbrgtltbrgtltstronggtthe product catalog data teams mission is to catalog the shoppable internet for honey the pcd team is part of the broader product catalog team and is responsible for the quality and availability of data that serves a host of honey products including droplist offers and tips with hundreds of millions of products in its datastores and an aggressive scaling strategy as it integrates more with paypals products doing so requires sophisticated techniques for data intelligence as well the pcd team therefore includes a mix of data engineers and data scientists working together to build a clear and accurate view of the products available across the internetltbrgtltbrgtltstronggtabout the roleltbrgtltbrgtltstronggtas a data scientist on the product catalog data team youll work closely with the team engineers and the catalogs massive datastores to produce and deploy models for understanding things like observation prioritizations relationships between products and product lifecycle your contribution will impact how honey provides a better way to buy online and make money more fair for everyoneltbrgtltbrgtltstronggtwhat youll doltbrgtltbrgtltstronggtas a data scientist on the product catalog data team at honey you willltbrgtltulgtltligtperform exploratory data analyses and bring together datasets from across honey over its lifetime to power insights for machine learning models ltligtltligtresearch develop and build machine learning models based on evolving product needs and requirements ltligtltligtpartner with engineering to deploy models to and automate learning on a data pipeline that will soon scale to billions of merchant products ltligtltligtown and refine outcomes on models that accommodate an everchanging landscape of merchant websites across the internet ltligtltligtwork with data scientists across honey to build tools and set best practices for automating and transforming data at scale ltbrgtltbrgtltligtltulgtltstronggtabout youltbrgtltstronggtltulgtltligtyou enjoy working in a team environment and love a good discussion held on the facts ltligtltligtyou have effective written and verbal communication skills ltligtltligtyou are capable of working in a mix of remote environments and inperson ltligtltligtyou have a masters degree in statistics mathematics computer science or a related quantitative field or you have a bs and a significant track record years working on a data team ltligtltligtyou have experience in deploying models to production environments at scale behind either an api or in stream bonus points for both ltligtltligtyou have proven work experience with machine learning on large datasets using r python or related software ltligtltligtyou have a solid understanding of statistical and machine learning models including assumptions and limitations ltligtltligtyou have the ability to manage multiple priorities in a fastpaced environment ltligtltligtyou love learning and seek opportunities for mentorship because of what it can teach you ltbrgtltbrgtltligtltulgtltstronggtnicetohave qualificationsltbrgtltstronggtltulgtltligtphd degree in a quantitative discipline ltligtltligtpassion for online shopping or at least like a deal ltligtltligtexperience with web search technology product crawlers andor ecommerce ltligtltligtunderstanding of functional languages like scala ltbrgtltbrgtltligtltulgtat honey we are committed to building a diverse and inclusive company we seek to create a culture where everyone can belong because we believe that people do their best work when they can show up every day as their authentic selves we seek people of different backgrounds experiences abilities and perspectivesltbrgtltbrgtwere a purposedriven company whose beliefs are the foundation for how we conduct business every day we hold ourselves to our one team behaviors which demand that we hold the highest ethical standards to empower an open and diverse workplace and strive to treat everyone who is touched by our business with dignity and respect our employees challenge the status quo ask questions and find solutions we want to break down barriers to financial empowerment join us as we change the way the world defines financial freedomltbrgtltbrgtpaypal provides equal employment opportunity eeo to all persons regardless of age color national origin citizenship status physical or mental disability race religion creed gender sex pregnancy sexual orientation gender identity andor expression genetic information marital status status with regard to public assistance veteran status or any other characteristic protected by federal state or local law in addition paypal will provide reasonable accommodations for qualified individuals with disabilitiesltbrgtltbrgtreq id r",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T07:38:23.000Z"
+  },
+  "company": {
+    "name": "Honey",
+    "link": "https://www.linkedin.com/company/honey-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 178000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

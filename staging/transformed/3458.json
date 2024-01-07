@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Backend Software Engineer (NY)",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "philo is building the future of television our product lets you watch your favorite shows on all the devices you care about with seamless playback insightful discovery and effortless sharing in short were building the tv experience that weve always wanted for ourselvesltbrgtltbrgtcurrently there are over channels included in our basic package they include many popular cable networks includingaampampe accuweather animal planet axs tv bbc america bet cheddar comedycentral cmt discovery channel food network game show network hallmark hgtv ifc insplifetime mtv newsy nickelodeon own paramount network sundance tv one vice and vh we also offer premium addon channels from starz and epix there is a lot more programming on the wayltbrgtltbrgtwere a company that puts people first both our subscribers and our team at philo our philosophy is to empower our colleagues to do their best work while supporting each other in pursuing shared goals we value pragmatism pride in our work and passion we believe in having transparency and openness across all parts of the companyltbrgtltbrgtwe are committed to diversity and inclusion as we grow the philo team and shape the future of tv we believe that a diverse set of voices and perspectives on our team enables us to innovate faster and create the best experience for our subscribersltbrgtltbrgtphilo is headquartered in san francisco with additional offices in new york and cambridge ma our leadership team includes a cofounder of facebook as well as alums of meraki and hbo philo is backed by nea and industry partners including discovery viacom amc and aampampeltbrgtltbrgtltstronggthack the full stackltbrgtltbrgtltstronggtphilos engineers hack up and down the technology stack its not uncommon for a philo engineer to go from backend coding to user experience design from the video encoding pipeline to system scalability from site maintenance to iosandroid development philo engineers own what they build from start to finish we ship to production multiple times per day and keep unnecessary process to a minimum so we can maintain our pace of rapid developmentltbrgtltbrgtwe are actively hiring engineers who are looking to build a completely new kind of product and who have a passion for backend andor frontend developmentltbrgtltbrgtltstronggtinfrastructureltbrgtltbrgtltstronggtphilos infrastructure consists of thousands of connected machines in nearly datacenters across the country with new machines spinning up every week philo is harnessing petabyte storage and petaflop compute power in a highly distributed environment our systems ingest roughly gb of video per second then transcode segment and encrypt it to deliver live television to our users meanwhile our dvr storage system writes millions of episodes to disk every day we operate in two different environments on commercial cloud infrastructure as well as within the unpredictable world of remotely managed hardware in a wide variety of hosting environments across the countryltbrgtltbrgtltstronggtas a backend engineer you will be responsible forltbrgtltstronggtltulgtltligtbrainstorming designing implementing and rolling out the next generation of philos system to handle an order of magnitude more channels users and recordingsltligtltligtdeveloping our video pipeline building a highly available transcoding segmentation and video hosting and storage systemltligtltligtautomating system configuration since were a small team constantly deploying both new hardware systems and code in cloud infrastructure we have no choice but to heavily automate our infrastructureltligtltligthacking on our monitoring and management system we graph track and alert on all kinds of metrics up and down our stack giving us important insight into performance trends and helping us catch issues before they impact our usersltligtltligtfinding cheaper faster better solutions both in our cloud environment and our hardwarebased systems were always trying to reduce costs and improve our productltbrgtltligtltulgtwe are language agnostic but most of our serverside code is written in golang node and ruby with some c and python our centralized infrastructure is built out on kubernetes and we practice continuous deployment across all of our systemsltbrgtltbrgtltstronggtstatusltstronggt fulltimeltbrgtltbrgtltstronggtlocationltstronggt brooklyn nyltbrgtltbrgtltstronggtcompensationltstronggt includes competitive salary company stock options and health benefitsltbrgtltbrgtwe value a diverse and inclusive workplace and we welcome people of different backgrounds experiences skills and perspectives philo is an equal opportunity employer we believe that everyone does their best work when they are supported by each other and the company and we offer a generous set of benefits to make sure the philo team is happy and healthy here is a sampling of the benefits we offer our teamltbrgtltulgtltligtfull health dental and vision coverage for you and your familyltligtltligtflexible working hoursltligtltligtgenerous paid parental leaveltligtltligtunlimited paid time off for vacation and sick leaveltligtltligt annual vacation bonus we pay you to take a two week vacationltligtltligt annually for professional development and educational assistanceltligtltligt tv stipend for new employees to upgrade their home watching setupltligtltligtdogfriendly officeltligtltligtand much moreltbrgtltligtltulgtfor california residents philos ccpa notice at collection employees applicants owners directors officers and contractors",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T05:09:50.000Z"
+  },
+  "company": {
+    "name": "Philo",
+    "link": "https://www.linkedin.com/company/philo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Brooklyn",
+    "region": "NY",
+    "postal_code": "11239",
+    "street_address": null,
+    "latitude": 40.692528,
+    "longitude": -73.991
+  }
+}

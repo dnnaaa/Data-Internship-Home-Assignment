@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "can you imagine writing software with no debugger or logging and you only get to run it every few weeks thats what building hardware is like for many product companies and it results in incredible wastes of time money and materials instrumentals manufacturing optimization system solves this problem we start by collecting data that no one else can then we use machine learning and visualizations to automatically identify defects and help product companies understand their assembly processes as a result product and process problems are caught and solved earlier before they create delays and cost millionsltbrgtltbrgtour product is delighting customers and the instrumental customer list is growing across a diverse set of manufacturing applicationsltbrgtltbrgtwith people we are a small but mighty team we value an inclusive environment and actively work to promote diversity in our team as an example our founderceo anna has run the women in stem mentorship program since if you are looking for a place where you can collaborate with friendly people and have an outsized impact on entire industries then keep readingltbrgtltbrgtltstronggt about the role ltbrgtltbrgtltstronggtwere hiring a machine learning engineer at instrumental to contribute to production systems that enable teams to derive value from data on their manufacturing lines you will contribute to computer vision and machine learning developments to more accurately diagnose potential failures during the hardware development processltbrgtltbrgtyou will explore and implement ways to generate insights about our customers product and manufacturing processes and leverage existing computer vision tools to develop novel image analysis technology that will be run on large ampamp continuously growing datasets of images to this end scalability of algorithms repeatability of measurements and robustness of data extraction are paramount youll be our ideal candidate if you can identify impactful applications of computer vision andor machine learning and implement them in a way that delivers highly accurate and repeatable results for our customersltbrgtltbrgtltstronggt what youll do ltbrgtltstronggtltulgtltligtbuild and own machine learning features and pipelines endtoend for us this meansltligtltligtidentify opportunities to use machine learning to improve our productltligtltligtguide efforts to acquire highquality datasetsltligtltligtdevelop models using the relevant stateoftheart ai approaches to solve the problemltligtltligtquickly prototype and iterate on new algorithmic concepts and prioritize them based on customer needsltligtltligtwork side by side with other software engineers to bring your research to production and ship it as part of the productltligtltulgtwhat youll need to be successfulltbrgtltulgtltligt years of experience writing production code ltligtltligtdemonstrated experience in machine learning deep learning computer vision or related fieldsltligtltligta background in computer science or a closely related engineering discipline with solid fundamentals in algorithms and the math behind them experience with computer vision machine learning and related fields in production setting is a bonus but not necessary ltligtltligtobsesses over our customers needs specifically accuracy and repeatabilityltligtltligtcan balance attention to detail with the ability to be scrappy and get stuff doneltligtltligtcan communicate complex ideas effectively with technical and nontechnical team members alikeltligtltulgtwe are an equal opportunity employer committed to a diverse workforce in an inclusive working environment we do not discriminate on the basis of race ethnicity religion gender gender identity sexual orientation age marital status veteran status or disability status all candidates must have the unrestricted right to work in the united states",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T17:08:34.000Z"
+  },
+  "company": {
+    "name": "Instrumental Inc.",
+    "link": "https://www.linkedin.com/company/instrumental-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 104000,
+    "max_value": 176000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

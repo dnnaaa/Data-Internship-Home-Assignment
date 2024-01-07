@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer",
+    "industry": "Civil Engineering",
+    "description": "peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy as the worlds leading mission capability integrator and transformative enterprise it provider we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure peraton serves as a valued partner to essential government agencies across the intelligence space cyber defense civilian health and state and local markets every day our employees do the cant be done solving the most daunting challenges facing our customersltbrgtltbrgtperaton is seeking a ltstronggtfull stack software engineerltstronggt to join our team of qualified diverse individuals this position will be located in mcleanherndon va with some remote work possible the qualified applicant will become part of peratons department of state dos consular systems modernization csm program for the bureau of consular affairs ca this initiative is intended to modernize and consolidate the operational environment under a common technology framework in order to better support the services provided to cas customersltbrgtltbrgtif challenge growth and the ability to have a positive impact on your customer and fellow team members is something that interests you this job is worth your considerationltbrgtltbrgtas part of the modernization program the full stack software engineer will be responsible for supporting the full software development lifecycle sdlc including software systems engineering activities requirements definition prototyping software design implementation testing and maintenanceltbrgtltbrgtltstronggtltugtroles and responsibilitiesltbrgtltugtltstronggtltulgtltligtwork with the system engineering team to understand customer business needs and prioritiesltligtltligtdefine software requirements both functional and nonfunctional as high level epics features and user stories to support safe agile methodologyltligtltligtdevelop prototypes to support product andor technology evaluationsltligtltligtdesign software using industry standard design patterns and best practices to improve maintainability flexibility performance security and availabilityltligtltligtdefine the software design using a modelbased engineering strategy sysmlumlltligtltligtimplement enterprise webbased applications java technology stack within a safe agile environmentltligtltligtdevelop single page applications using a clientside rendering frameworkltligtltligtdevelop servicebased solutions restbased web services using microservices architectureltligtltligtdevelop database solutions for managing structured and unstructured data ltligtltligtdevelop automated unit and integration tests that can be incorporated into cicd pipelineltligtltligtsupport cicd initiatives and utilize static code analyzers to ensure high quality source codeltligtltligtsupport software testing activities including ivampampv and provide timely software defect resolutionsltligtltligtprovide production and operational support as needed to ensure deployed software meets functional and nonfunctional requirements ltbrgtltligtltulgtdoscsmltbrgtltbrgtltstronggtltugtbasic qualificationsltbrgtltbrgtltugtltstronggtto be considered for this position you must minimally meet the knowledge skills and abilities listed belowltbrgtltulgtltligtbachelors degree in stem and at least two years experienceltligtltligtexperience in software development and maintenance projects with involvement in requirements management technical designdevelopment and deployment steps within sdlcltligtltligtexperience supporting software development activities for software projects specializing in development of enterprise web applicationsltligtltligtexperience with fullstack development using the java technology stack to implement enterprise webbased applicationsltligtltligtexperience developing compliant solutionsltligtltligtexcellent communication skills both verbally and in writingltligtltligtmust have a current active secret or higher clearance interim clearances are acceptableltbrgtltligtltulgtltstronggtpreferred qualificationsltbrgtltbrgtltstronggtcandidates with these desired skills will be given preferential considerationltbrgtltulgtltligtexperience in cloud based environments including the development of software that supports architectures that involve publichybrid cloudsltligtltligtexperience developing single page applications using a clientside rendering framework react angular etc and responsive css framework bootstrap material design etcltligtltligtexperience developing servicebased solutions using the java technology stack building restbased services spring mvc spring boot etc and deploying in a containerbased microservices architecture docker spring boot kubernetes etcltligtltligtexperience with static code analyzers cast hp fortify sonarqube etcltligtltligtexperience developing high volume highly available and secure software systemsltligtltligtexperience in enterprise software system modernization effortsltligtltligtexperience developing and deploying software systems in an incremental manner using the safe agile methodologyltbrgtltligtltulgtltemgtwe are an equal opportunityaffirmative action employer we consider applicants without regard to race color religion age national origin ancestry ethnicity gender gender identity gender expression sexual orientation marital status veteran status disability genetic information citizenship status or membership in any other group protected by federal state or local lawltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:08:10.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

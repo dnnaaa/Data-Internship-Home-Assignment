@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer - Site Reliability Engineering",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtthe apple media products engineering team is one of the most exciting examples of apples longheld passion for combining art and technology these are the people who power the app store apple tv apple music apple podcasts and apple books and they do it on a massive scale meeting apples high expectations with high performance to deliver a huge variety of entertainment in over languages to more than countriesltbrgtltbrgtltbrgtthese engineers build secure endtoend solutions they develop the custom software used to process all the creative work the tools that providers use to deliver that media all the serverside systems and the apis for many apple servicesltbrgtltbrgtltbrgtthanks to apples unique integration of hardware software and services engineers here partner to get behind a single unified vision that vision always includes a deep commitment to strengthening apples privacy policy one of apples core values although services are a bigger part of apples business than ever before these teams remain small nimble and crossfunctional offering greater exposure to the array of opportunities hereltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtdeep understanding of the linux operating system including kernel memory process threads cgroups static shared libraries ipc signals standard unix utilities programs and packagingltbrgtltbrgtltbrgtextensive experience in configuration management and fleet orchestration via puppet chef ansible or othersltbrgtltbrgtltbrgtunderstanding of basic internet infrastructure services including dns dhcp ldap server virtualization server monitoring cloud services aws seccloudfrontsteps or equivalentltbrgtltbrgtltbrgtdemonstrated history in automating operations processes via services and toolsltbrgtltbrgtltbrgtfluency in one or more highlevel programming languages like java python go ruby or equivalentltbrgtltbrgtltbrgtconsistent track record of troubleshooting and resolving issues in live production environments and implementing strategies to eliminate them ltbrgtltbrgtltbrgtdriven approach to continually improving service levels ltbrgtltbrgtpreferredltbrgtltbrgtcomfortable working with largescale server deployments both on premise and in public cloudsltbrgtltbrgtltbrgtknowledge of data platforms including but not limited to apache kafka solr redis mysql cassandra hadoop ltbrgtltbrgtltbrgtknowledge of continuous integration testing methodologies tdd and agile development methodologiesltbrgtltbrgtltbrgtstrong ability and enthusiasm to learn new technologies in a short time we seek a self starter visionary person with strong leadership capabilities ltbrgtltbrgtltbrgtexperience in understanding how applications operate across distributed resources in diverse geographiesltbrgtltbrgtltbrgtextraordinary communication skills for collaborating across many participating teamsltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtarchitect author and deliver software to improve the availability scalability and security of apple media products internal data infrastructureltbrgtltbrgtltbrgtbuild and manage systems infrastructure and applications through automationltbrgtltbrgtltbrgtdeploy support and monitor new and existing services platforms and application stacksltbrgtltbrgtltbrgtengage in improving the whole lifecycle of services from inception through deployment operations and refinementltbrgtltbrgtltbrgtprovide handson technical expertise during service impacting eventsltbrgtltbrgtltbrgtcollaborate with other engineers on code reviews internal infrastructure improvements and process enhancements ltbrgtltbrgtltbrgtuse scalability testing to measure tune and optimize system performanceltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs degree in computer science or equivalent field with years experience or ms degree with years experience or equivalentltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgtparticipate in periodic x oncall dutiesltbrgtltbrgtthis role may require occasional international traveltransatlantic travelltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T07:52:00.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

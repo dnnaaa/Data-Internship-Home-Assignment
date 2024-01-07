@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Hardware Test Engineer",
+    "industry": "Medical Devices,Biotechnology,Hospital &amp; Health Care",
+    "description": "ltpgtltstronggtposition senior hardware test engineerltstronggtltpgtltpgtltstronggtlocation san jose ca ltstronggtltpgtltpgtltstronggtduration months contractltstronggtltpgtltpgtltstronggtampnbspltstronggtltpgtltpgtltstronggtpay rate hr hr depending on experienceltstronggtltpgtltpgtltstronggtampnbspltstronggtltpgtltpgtltstronggtrelocation expenses assistance noltstronggtltpgtltpgtltstronggtampnbspltstronggtltpgtltpgtltstronggtjob descriptionltstronggtltpgtltulgtltligtwe are looking for a senior rampampd hardware test engineer with strong experience in instrumentation measurements both analog and digital ltligtltligtknowledgeable in pcb test standards fpga testing and highspeed board test design methodologies of calibration and understanding of measurements uncertainty six sigma and ictdftfctltligtltligtthe candidate will work closely with the hardware design teams throughout the product life cycle by defining and specifying test requirements you will be supporting pretesting of the hardware developed by the design teams and supporting the team through product execution ultimately leading the manufacturing test team to leverage your ate test platformltligtltligtthe ideal candidate must be responsive flexible and able to succeed within an open collaborative peer environment across multiple projects simultaneouslyltligtltligtinterface with the rampampd designers and other hardware engineers to define the most efficient and accurate measurement for testing the boards functionalityltligtltligtdesign the test fixturesltligtltligtability to remotely manage computers using ssh or vnc protocol using git version controlltligtltligtwork closely with validation test engineers to insure that the test fixtures would satisfy module automated testingltligtltligtdrive system verification of solutions through atefctltligtltligtsupport the hw team with sub system bringup and test fixturesltligtltligtresponsibility for test definition and calibration of the ateltligtltligtcollaborate with hw design engineers to develop and execute hardware verification test plansltligtltligtboard level functional testingltligtltligtdesign build and program test systems used in hw testing as well as generate automated reports tracking for test resultsltligtltligtanalyze test results and test data to determine if design meets functional and performance specificationsltligtltligtextensive experience in testing of digital and analogmixed signal circuitsltligtltligtexperience using rf measurement instruments highspeed oscilloscopes signal generators arbitrary waveform generatorsltligtltligtability to read and interpret pcb schematics and perform basic digital and analog circuit analysisltligtltligtexperience designing and analyzing test procedures to minimize measurement errorltligtltligtknowledge of industrial controls systems and their communications interfaces and protocols such as ethernetipltligtltligtproficiency with measurement automation tools and scripting languages such as python labview labwindows and matlabltligtltligtexperience with electronic hardware design tools such as cadence or mentor graphicsltligtltligtfamiliarity and experience working with gigabit ethernet fpd link can spi ic lin and rsltligtltulgtltpgtampnbspltpgtltpgtltstronggtminimum qualificationsltstronggtltpgtltulgtltligtbachelors degree in electrical engineering or similar technical disciplineltligtltligtmsee preferredltligtltligtminimum years of experience as a test engineer supporting product introductionltligtltulgtltpgtltstronggtampnbspltstronggtltpgtltpgtltstronggtdesired skillsltstronggtltpgtltulgtltligtability to install and configure a linux distribution on desktop or embedded systemsltligtltligtfamiliarity with the prebuilt highperformance computing hpc software stack used in amd xilinx devicesltligtltligtcomfortable installing prebuilt linux packages with the occasional build from sourceltligtltligtwrite humble highlevel test scripts in python using precompiled software to support that aspirations lowlevel realtime dsp designersltligtltligtict fctltligtltligtfpga bist high speed serdes testing ibertltligtltligtanalog measurements noise jitter oscilloscope spectrum dmmltligtltligtadc and dac testing noise dynamic rangeltligtltligtinstrument and test calibration proceduresltligtltligtgum analysisltligtltligtsix sigma application dfssltligtltulgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-31T00:12:21.000Z"
+  },
+  "company": {
+    "name": "Amerit Consulting",
+    "link": "https://www.linkedin.com/company/amerit-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

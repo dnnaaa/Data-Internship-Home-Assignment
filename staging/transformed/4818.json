@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtabout verkadaltbrgtltbrgtltugtltstronggtat verkada we rethink what it means to be physically safe we build disruptive outofthebox security solutions that detect action identify danger and keep people and places safe using a combination of software and hardware were transforming a space that has seen little innovation for decades today we support thousands of customers and we are only getting started we envision a world in which security systems feel as seamless and modern as the organizations they protectltbrgtltbrgtour growth efforts are no exception you will join the special projects team to empower verkada growth via automated datadriven decisionmaking you will build autonomous infrastructure that turns people into paying customers and scale it from mmm to bb in annual bookingsltbrgtltbrgtone of the core projects is an engine that autonomously executes ad campaigns and learns winning strategies in real time through experimentation using rl and nlpltbrgtltbrgtour backend stack is a set of multithreaded python flask and django apps hosted on gcp and aws that talk to postgres bigquery and various saas apis the front end is in plain js you need to be very comfortable with at least one web framework eg django basic dom manipulation plain jsjquery or reactvue and modern devops lifecycleltbrgtltbrgtyou also need to have a founder mentality and ability to reduce complex problems to simple practical solutions firstprinciples thinkers from stanford princeton and mit around you will support you along the wayltbrgtltbrgtltstronggtltugtideal qualificationsltbrgtltugtltstronggtltulgtltligt years of work experience with backend applications in python preferred ltligtltligt year of frontend experience jquery or any singlepage application framework ltligtltligta hackers type mentality full of curiosity and creativity ltligtltligtexperience with linux programming and distributed systems is a plus but not required ltbrgtltligtltulgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtbuild and own web applications that help marketers automate campaign execution ltligtltligtdesign scalable reliable and testable architecture ltligtltligtquickly iterate on optimal design make intelligent tradeoffs ltligtltligtinteract crossfunctionally to identify the most promising areas of contributing to the team ltbrgtltligtltulgtltstronggtltugtabout our teamltbrgtltbrgtltugtltstronggtbehind the scenes were a team of computer scientists hardware engineers and experienced founders who saw a chance to make a real impact were united by the challenge of building beautiful products designed for real peopleand by our commitment to using technology responsibly we believe keeping data private and secure is core to our safety as individuals businesses and communities and we put great care into building systems that embody our values as people likewise many of silicon valleys top investors believe in us were backed by sequoia capital firstround meritech and siemens nextltbrgtltbrgtverkada is an equal opportunity employer and value diversity at our company we do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability status and encourage all qualified applicants to apply",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T02:12:58.000Z"
+  },
+  "company": {
+    "name": "Verkada",
+    "link": "https://www.linkedin.com/company/verkada"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

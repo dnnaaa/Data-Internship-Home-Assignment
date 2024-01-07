@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr IT Specialist (Bus. Title: Sr. Data Engineer)",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Hospital &amp; Health Care",
+    "description": "ltstronggtltugtsummaryltbrgtltbrgtltugtltstronggtthe sr it specialist sr data engineer role is a highly versatile backend developer for our information systems supporting sql development for our web applications etl processes data automation and report development sr it specialists sr data engineers work closely with client services teams to support client data deliverables as well as operational teams across the business to support functional data needs for business processes strong sr it specialists sr data engineers are collaborative openminded and strategic problem solvers who excel at learning new skills and putting them to useltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt design and develop data report extracts processes and comprehensive systems to support the needs of the business and functionality of web applicationsltligtltligt build systems and reports to support various types of data status inquiriesltligtltligt quickly identify and resolve production issues related to data matching ingestion merge or reporting exportltligtltligt responsible for automated inbound lab result data ingestion processes utilizing ssis tsql and sql agent jobs ltligtltligt develop and maintain complex matching logic systems and stored procedures for merging inbound patient results data from flat files or staging tables to existing patient profile records ltligtltligt continuous fine tuning and optimization of data integration systems to promote stability and eliminate exceptions requiring human interventionltligtltligt work with business and client liaisons to create standardized approaches to data sharing and integrationltligtltligt document data workflow diagrams for major servicesltligtltligt build and manage monitoring systems and tests for production data qualityltligtltligt build data systems and processes to enable easy troubleshooting and exception reconciliation by the data ops teamltligtltligt develop procedures to enhance reporting and query capabilities to improve efficiency and accuracyltligtltligt design and build data visualizations interactive dashboards and report extracts to support the internal business and clientsltligtltligt collaborate with software development team on database architecture and processes to support applicationsltligtltligt collaborate with and support client services teams for service implementation and troubleshootingltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltbrgtltugtltstronggtlicensecertificationeducation normally requires a bs degree in computer science w years experienceltbrgtltbrgtltstronggtltugtqualifications and requirementsltbrgtltugtltstronggtltulgtltligt years working in information systems development roles or proven technical skills coupled with a degreecertification in computer science info systems or similar field ltligtltligt exceptional skills in relational database systems ms sql serverltligtltligt ms sql server tsql dynamic sql scripting reporting services and integration services flat file automation pull postltligtltligt ability to identify and diagnose etl and database related issues perform root cause analysis and recommend corrective actionsltligtltligt python and other data scripting language experience is a plusltligtltligt data visualization design and development capability in tableau or other toolslanguagesltligtltligt highly proficient with sql server integration services sql server agent automationltligtltligt ability to work with complex business requirements in developing sql stored proceduresltligtltligt solid understanding of flat file formats and file format conversionltligtltligt understanding of edi file formatsltligtltligt solid communication skills for documenting complex processes and oral communication skills in communicating with technical and nontechnical employeesltligtltligt data workflow mapping in visio or other similar toolltligtltligt must be highly proficient with all common microsoft office features including the desktop applicationsltligtltligt experience with azure platform as a service sql database and other data automation products preferredltligtltligt occasional working evening and weekend hours to resolve production issues or urgent client needsltbrgtltligtltulgtshiftltbrgtltbrgtltbrgtltbrgtscheduleltbrgtltbrgtmf am pm",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:35:51.000Z"
+  },
+  "company": {
+    "name": "Labcorp",
+    "link": "https://www.linkedin.com/company/labcorp"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Liverpool",
+    "region": "NY",
+    "postal_code": "13090",
+    "street_address": null,
+    "latitude": 43.102867,
+    "longitude": -76.20637
+  }
+}

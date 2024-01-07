@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Research,Biotechnology",
+    "description": "with over nationalities and a range of backgrounds represented in our benevolent team we aim to build an inclusive environment where our people can bring their authentic selves to work be respected for who they are and the exceptional work they do we welcome and actively encourage applications from all sections of society and are committed to offering equal employment opportunities regardless of sex race religion or belief ethnic or national origin marital domestic or civil partnership status sexual orientation gender identity parental status disability age citizenship or any other basis we see our diversity as an asset as we tackle challenging problems that bridge the gap between drug discovery and technologyltbrgtltbrgtthe roleltbrgtltbrgtas a site reliability engineer you will be working alongside our autonomous crossfunctional squads you will advocate highquality engineering and bestpractice in production software as well as providing the infrastructure to both build rapid prototypes and launch productionquality services you must be a strong communicator who can explain what is required to build and deliver top quality software products you will be keen to work with the rest of the team and develop collaborativelyltbrgtltbrgtyou will promote testdriven development and other agile best practices for ensuring the software is resilient enough for our scientists to rely upon you will be a core team member building and maintaining the underlying infrastructure that supports our aidriven technology you will also be adding your input into diverse areas such as authentication network topology sharded databases scalable web services and interfaces to external data sources and apisltbrgtltbrgtltstronggtltugtprimary responsibilitiesltbrgtltugtltstronggtltulgt ltligtimplementing software solutions for cloud infrastructure in accordance with specifications and best engineering practicesltligt ltligtworking towards improving longterm infrastructure availability and reliabilityltligt ltligtmonitoring and handling incident response of the infrastructure platforms and core engineering servicesltligt ltligtconstructing pipelines to automate infrastructure and software deploymentsltligt ltligttroubleshooting infrastructure network and software issuesltligt ltligtstaying up to date with recent technology trends and toolsltligt ltligtautomating repetitive manual processes and proceduresltligt ltligtparticipating in oncall rotation to support benevolent employees in their daytoday activitiesltligt ltbrgtltbrgtltulgtwe are looking for someone withltbrgtltulgt ltligt years of sredevops experience in a commercial settingltligt ltligtability to code and fluency in at least one programming language pythonjavagoc preferredltligt ltligthandson experience with kubernetesltligt ltligtgood understanding and experience in administering cloud technologieswe work with aws but experience with other cloud providers is also a benefitltligt ltligtgood understanding of infrastructureascode and tools such as ansible terraform helmltligt ltligtcomfortable working with unixbased operating systemsltligt ltligtexperience with cloud networking cloud operations automation and orchestrationltligt ltligtexperience with monitoring and alerting solutions for example influxdbgrafanaprometheusltligt ltligtunderstanding of quality of service measurement tools slis slos slasltligt ltligtunderstanding of database technologiesfor example relational nosql graph and their basic use casesltligt ltligtbasic understanding of network protocols such as tcp https and load balancing and the contexts in which they are usedfor example understanding the differences between aws application load balancer against aws network load balancerltligt ltbrgtltbrgtltulgtltstronggtltugtabout usltbrgtltbrgtltugtltstronggtbenevolentai unites ai with human expertise to discover new and more effective medicines our unique computational rampampd platform spans every step of the drug discovery process powering an inhouse pipeline of over drug programmes we advance our mission to reinvent drug discovery by harnessing the power of a diverse team rich with different backgrounds experiences opinions and personalities in our offices in london and new york and research facility in cambridge uk we work in highly collaborative multidisciplinary teams harnessing skills across biology chemistry engineering ai machine learning informatics precision medicine and drug discoveryltbrgtltbrgtwe share a passion for being part of a mission that matters and we are always looking for curious and collaborative people who share our values and want to be part of our journey if that sounds like a fit for you hit the apply button and join usltbrgtltbrgtwant to do a little more research before you applyltbrgtltbrgthead over to our glassdoor page to learn about our benefits culture and to find out what our team think about life at benevolent you can also find out more about us on linkedin and twitter",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T15:38:21.000Z"
+  },
+  "company": {
+    "name": "BenevolentAI",
+    "link": "https://uk.linkedin.com/company/benevolentai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtwhat youll doltstronggtltpgtltpgtthe senior sre kubernetes specialist is a software engineer responsible for ensuring that ads platform services are designed implemented deployed and operated such that they are highly available highly performing and scalableltpgtltpgta site reliability engineer typically selfidentifies as a hacker who uses his ability as a jack of all trades to bring to bear some deeper knowledge thats closer to his interestsltpgtltpgtthe ideal candidate has deep knowledge and strong interest in software defined networking and routing linux system administration and approaches it from the perspective of a software engineer challenges of globally distributed services deciding what and when state should be shared and simulating failure scenarios should drive youltpgtltpgtrelevant industry experience is important but ultimately less so than your demonstrated abilities and attitudeltpgtltpgtyou will work with some incredibly talented and passionate developers within an engineering team with a strong technological background as well as working in a small team of sres supporting a mediumsized team of software engineers working on building the next generation of the companys administrative interfaces ad decisioning delivery data processing and analytics systemsltpgtltpgtin this position the chosen candidate is expected to have a handson problemsolving approach and a friendly humanfacing side to communicate and manage expectationsltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtcoarchitect new services including failure tolerance and selfhealing bydesign as well as establishing clear scalingout pathsltligtltligtevaluating and benchmarking new solutions establishing capacity and growth plansltligtltligtimplementing deployment and configuration strategies for new services including provisioning resources and goliveltligtltligtadministration of services whether built inhouse or from external vendorsltligtltligtcontinuous optimization of services on all layers hardware software for high performanceltligtltligtcontinuous improvement of internal services for ease of packaging configuration and deploymentltligtltligtmonitoring of all critical services sharing pager duty troubleshooting and addressing problems as they arise including any needed changes in code topology resources or configurationltligtltligtbackupdr implementation plans documentation and exercisesltligtltligtcoown technical relationships with several service providers and vendorsltligtltulgtltpgtltstronggtrequired skills andor experienceltstronggtltpgtltulgtltligtstrong expertise administrating and scaling kubernetes on bare metal and cka preferredltligtltligtexperience with service meshesltligtltligtstrong understanding of distributed systems and client server architecturesltligtltligtexperience working in a micro services environmentltligtltligtfull competency in at least supporting language bash sql pythonltligtltligtstrong linux system administration and troubleshooting skills including strong knowledge of how the various components work kernel cpu memory disk networkltligtltligtfamiliarity with configuration management systemsltligtltligtfamiliarity with distributed multidatacenter web systemsltligtltulgtltpgtltstronggtgeneral skillsltstronggtltpgtltulgtltligtgood communication skills and capacitywillingness to work in a multiteamdistributed environmentltligtltligtbe resourceful inventive and passionate about technologiesltligtltligtyou are eager to challenge the status quo and willing to learn new programming languagesltligtltligtdemonstrated ability to prioritize tasks and resolve problems in a timely mannerltligtltligtability to work autonomously multitask and work in a fastpaced environmentltligtltligtbe proactive addressing potential problems before they occurltligtltligtstrong attention to detailltligtltligtyou have a track record of making things better and leading solutions that remove technical pain points and facilitate growthltligtltligtyou enjoy working with others who are smart and passionate about building useful reliable highperformance productsltligtltligtexcellent communication skills in english french is an assetltligtltulgtltpgtltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-06T21:44:08.000Z"
+  },
+  "company": {
+    "name": "WorldLink US",
+    "link": "https://www.linkedin.com/company/worldlink-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Aviation &amp; Aerospace",
+    "description": "ltstronggtltugtabout wingltbrgtltbrgtltugtltstronggtwing is an alphabet company that offers drone delivery as a safer faster and cleaner alternative to pickup or delivery by road today wing delivers food medicine and other supplies directly to homes on three continents including two national capitals with tens of thousands of flights to customers in the united states finland and australia in addition wing is demonstrating traffic management technology to help all drone operators share the skies originally created in within x the moonshot factory wing is now an alphabet company and the first drone air carrier certified in the united statesltbrgtltbrgtltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtwing is looking for a software engineer to join our simulation team based in palo alto ca simulation is a core technology for wing it enables testing of systems in scenarios and at scales not possible in real world flight testing simulation is central to wings development workflow where our tools provide rapid feedback for rampampd simulation is also heavily used for continuous verification where it is critical for ensuring the safety of our fleet of autonomous aircraftltbrgtltbrgtthe simulation teams work spans vehicle physics and sensor modelling camera image generation large scale simulation frameworks continuous vehicle performance monitoring and avionics hardware testing in addition we build user facing tools to allow efficient configuration of simulations and analysis of resultsltbrgtltbrgtin this role youll collaborate to architect design and implement simulation software for wings full stack endtoend system your work will be a key part of development and validation of new technology as wing launches unique airspace and delivery products to the public the ideal candidate has demonstrated experience building production software and the ability to deliver results as part of a dynamic crossfunctional team were looking for highly skilled software engineers but previous experience in simulation is not a hard requirementltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligt work with teams across wing to define requirements for new simulation tools and environments ltligtltligt design simulation based tests and expand continuous test coverage ltligtltligt develop reliable and scalable infrastructure supporting evaluation of wings endtoend software and hardware at scale ltligtltligt build tools and systems to aid interpretation and visualization of simulation results ltbrgtltligtltulgtltstronggtltugtwhat youll needltbrgtltugtltstronggtltulgtltligt years experience designing and developing software ltligtltligt a technical degree or equivalent practical experience ltligtltligt proficiency in at least two of python c or typescript ltligtltligt demonstrated experience inventing solutions to novel problems ltligtltligt an interdisciplinary focus since youll work closely with software and hardware teams across the company ltbrgtltligtltulgtltstronggtltugtbonusltbrgtltugtltstronggtltulgtltligt passion for aviation and developing new technologies ltligtltligt front end experience in particular angulartypescript ltligtltligt skills in data analysis statistics optimization or numerical methods ltligtltligt experience in engineering disciplines beyond software ltligtltligt knowledge of google production technologies ltligtltligt experience with software quality assurance in particular verification and validation testingltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T18:51:20.000Z"
+  },
+  "company": {
+    "name": "Wing",
+    "link": "https://www.linkedin.com/company/wing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

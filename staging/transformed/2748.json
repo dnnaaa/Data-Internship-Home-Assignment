@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (REMOTE)",
+    "industry": "Computer Software,Information Services,Information Technology and Services",
+    "description": "logic is looking for an experienced site reliability engineer to join our team to support the development and operations of a largescale application running in kubernetes and using angular nodejs ms sql cltbrgtltbrgtthe work will include both ongoing operational support and technical dept reductionltbrgtltbrgtwithin the team structure you will be increasing the systems reliability scalability and operational efficiency through automationltbrgtltbrgtin this role you will use a diverse set of technical expertise including backend frontend development devops tooling troubleshooting and debugging skills cloud computing codingscripting beyond your technical qualification you will also have a healthy combination of crossgroup collaboration skills communication and relationship building skillsltbrgtltbrgtltstronggtservice deskltbrgtltstronggtltulgtltligtknowledge of incident management release management ltligtltligtresponsible for analyzing and triaging user identified issuesltligtltligtresponsible for triggering first line services repair actions ltligtltligtcomplete root cause analysis rca investigationsltligtltligtresponsible for communicating incident postmortem process to tpm and stakeholders ltligtltligtimprove team practices in handoffs of work and incidents ltligtltligtgenerate incidents data including ltligtltulgtltligtrecommendations for development team ltligtltligtrunbooks for future incident response ltligtltligtnew monitoringalerting thresholds ltligtltligtadditional logging required ltligtltulgtltligtexperience with jira compass pagerduty or xmatters ltbrgtltligtltulgtltstronggtmonitoring and incident responseltbrgtltstronggtltulgtltligtapplication level monitoring splunk appdynamics ltligtltligtinfrastructure monitoring grafana ltligtltligtrespond to automated reporting notificationsltligtltligtresolve identified problems notify stakeholders about progress ltligtltligtescalate application issues not directly related to application ltligtltligtresponsible for creating implementing and monitoring alert mechanisms and thresholds ltbrgtltligtltulgtltstronggtbacklog management ltbrgtltstronggtltulgtltligtprovide identified issues to team for prioritization ltligtltligtupdate tickets based on progress and log final resolution sltligtltligtidentify production issue patterns and propose solutions to address problems ltbrgtltligtltulgtltstronggtdevops ltbrgtltstronggtltulgtltligthandson experience with gitlab ltligtltligtexperience with kubernetes mesos and marathon ltligtltligtsome knowledgeexperience with microservices and use of containers ltbrgtltligtltulgtltstronggtadministration ltbrgtltstronggtltulgtltligtsupport access administration ltligtltligtmaintain and manage security and access to the application ltligtltligtmaintain kubernetes gitlab cicd pipeline including capacity management ltbrgtltligtltulgtltstronggtdevelopmentltbrgtltstronggtltulgtltligt years of database experience ms sql building stored procedures troubleshooting query execution analyzing data flow ltligtltligt years software development experience with c angular and nodejs ltligtltligtbabs degree in computer science or related software engineering field or equivalent practical experience ltligtltligtexperience implementing test automation ltligtltligtexperience working with azure ltbrgtltligtltulgtltstronggtcommunicationltbrgtltstronggtltulgtltligtgood communication skills both verbal and written are essential ltligtltligtselfstarted capable of dealing with ambiguity and minimally defined requirements ltligtltligtcomfortable talking about technical things with business people and business things with technical people able to express complex concepts in plain language to reach broader audiences ltligtltligtability to craft a compelling message and tailor it for a given audience ability to mix deep technical expertise with simple everyday language to deliver a story that is memorable and useful ltbrgtltligtltulgtdo you also have a demonstrated ability to learn new technical concepts combined with a high degree of intellectual curiosity come join usltbrgtltbrgtltstronggtltugtabout logic ltbrgtltbrgtltugtltstronggtlogic is one of seattles fastestgrowing consulting firms we hire remarkable people to create simple efficient solutions for complex problemsltbrgtltbrgtalthough we make it look like magic our success is due to our approach methodical and structured and the people we hire smart motivated and team oriented together these enable us to consistently exceed client expectationsand our reputation is growingltbrgtltbrgtfor the past five years weve placed in the top ten of seattle business magazines best companies to work for from engaged leadership and wideranging benefits to career mentorship and diverse internal opportunities we pride ourselves on being one of the best companies to work with and work forltbrgtltbrgtwe hire people that are selfmotivated comfortable conceiving strategies on the fly and enjoy working individually and as part of a team our work is highenergy and demanding but new hires will quickly feel at home among colleagues as friendly and focused as they are we bring our best to every opportunity driving change in industries across the west coast join us and you can too",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T04:20:35.000Z"
+  },
+  "company": {
+    "name": "Logic20/20, Inc.",
+    "link": "https://www.linkedin.com/company/logic20-20-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

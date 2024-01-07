@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Airlines/Aviation,Information Technology and Services,Computer Software",
+    "description": "the sre works with developers to improve the reliability and resiliency of delta it applications to meet the business requirements by implementing sre tools processes and best practices sre is what happens when you ask a software engineer to design an operations function the sre helps to design develop test debug and automate tasks for applications they troubleshoot incidents to address failure patterns automate remediation through runbooks and document application optimizationltbrgtltulgtltligt this role may be located in atlanta ga or minneapolis mn ltbrgtltligtltulgtltstronggtltugtresponsibilities in this roleltbrgtltugtltstronggtltulgtltligtbe willing to learn whatever technologies tools or patterns necessary to solve a problem be inquisitive ask a lot of questions to learn from everyoneltligtltligtwork collaboratively with business stakeholders developers managers and leaders to create solutions for real world problems build domain knowledge and understand the user ampamp business problems youre solvingltligtltligtuse various tools and techniques to ensure application resiliency availability reliability and performance of applicationsltligtltligtconduct blameless postmortems provide training to other teams on sre best practices and benefitsltligtltligtgather and maintain sops sats one pagers slos slis slas how tos and other useful sre documentation on sre wiki pageltligtltligtactively implement new features and maintain existing web applications created by sre teamltligtltligtgathering metrics from various sources and displaying them in meaningful and insightful ways on single page applicationsltligtltligtfostering an environment of selfservice by collaborating with members from other teams during build phase for sre apps which they will be consumingltligtltligtadapt quickly to changing business needs and tools ecosystem at deltaltligtltligtcreating systems that are maintainable scalable and extensible and well architectedltligtltligttake ownership of problems comes to your attention effectively communicate work decisions ideas have good conversations with colleagues ltligtltligtlook for ways to make the work environment better for everyone share knowledge generously mentor new membersltligtltligt site reliability engineering knowledge of the theories and methodologies of reliability engineering ability to design develop and support various tools services and applications to maintain a reliable site environmentltligtltligtperformance measurement and tuning knowledge of system performance testing and programming ability to monitor measure and optimize system performance and network communicationltligtltligt expertise with monitoring solutions elk sumo logic prometheus dynatrace grafana ltligtltligt knowledge of continuous integrationdelivery ecosystem gitlab mavengradle jenkins docker nexus selenium unix skills are required ltligtltligtshould have experience with unix shell scriptingltligtltligtexperience in cyber security with knowledge of devsecops pipeline tools for sastdastltligtltligtexperience with modern container orchestration systems kubernetes swarmltligtltligtexperience with infrastructure configuration and automations processes and tools ansibleltligtltligtexperience with pagerduty servicenow ltligtltligtexperience leading support bridge calls for production systems issue resolution ltligtltligtexperience in supporting application teams and troubleshooting in all dev to production environmentsltligtltligtembraces diverse people thinking and stylesltligtltligtconsistently makes safety and security of self and others the priority ltligtltligt where permitted by applicable law must have received or be willing to receive the covid vaccine by date of hire to be considered for usbased job if not currently employed by delta air lines inc ltligtltligtrequires a bachelors degree in computer science engineering or information systems or any equivalent combination of experience education andor training in the computer systems engineering fieldltligtltligtknowledge or related experience in the travel tour or hospitality industries preferredltligtltligtworked in an agile environment is a plusltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-29T01:44:25.000Z"
+  },
+  "company": {
+    "name": "Delta Air Lines",
+    "link": "https://www.linkedin.com/company/delta-air-lines"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

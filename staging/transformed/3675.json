@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Information Services",
+    "description": "ltpgtltstronggtmust havesltstronggtltpgtltulgtltligt years of experience designing building deploying testing maintaining monitoring and owning scalable resilient and distributed machine learning algorithms and systemsltligtltligtexpertise with machine learning algorithms applied to recommender systems and searchltligtltligtproficiency in operating machine learning solutions at scale covering the endtoend ml workflowltligtltligtexperience with offline experimentation and ab testingltligtltligtdeep knowledge of ml tools and frameworks tensorflow keras pytorch scikitlearn spark ltligtltligtproficiency in programming languages such as python or scalaltligtltligtstrong understanding of modern approaches to recommendation or search gbdt cnn lstm gru hrnn transformers siamese neural networks variational autoencoders ltligtltligtexperience with at least one of deep learning contextual multiarmed bandits reinforcement learning causal inferenceltligtltligtfamiliarity with realworld ml systems configuration data collection data verification feature extraction resource and process management analytics training serving validation experimentation monitoringltligtltulgtltpgtltbrgtltpgtltpgtltstronggtnice to havesltstronggtltpgtltulgtltligtunderstanding of batch and streaming data processing techniquesltligtltligtobsession for service observability instrumentation monitoring and alertingltligtltligtknowledge of aws or similar cloud platformsltligtltligtfamiliarity with cicd tools circleci jenkins or similar to automate building testing and deployment of the ml algorithms and to manage the infrastructure pulumi terraform or cloudformationltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T19:52:49.000Z"
+  },
+  "company": {
+    "name": "Majhi Group",
+    "link": "https://www.linkedin.com/company/majhigroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

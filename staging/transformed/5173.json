@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "the database market is massive the idc estimates it to be b by and mongodb is at the head of its disruption the mongodb community is transforming industries and empowering developers to build amazing apps that people use every day we are the leading modern data platform and the first database provider to ipo in over years join our team and be at the forefront of innovation and creativityltbrgtltbrgtthe mongodb cloud team is a diverse collection of individuals working together to provide mongodb in the cloud at global scale the cloud team is responsible for several services including mongodb atlas our database as a service offering and fastest growing product mongodb realm our serverless platform offering that allows developers to build apps on mongodb without managing any infrastructure and our newest offering atlas data lakeltbrgtltbrgtthe cloud site reliability engineering team designs and builds the global infrastructure on which we deploy our services as our customers grow and globalize our services must satisfy demands for lowlatency requests around the globe and comply with various data sovereignty requirements the sre teams mission is to build this increasingly complex infrastructure while continually lowering the operational burden associated with it and increasing our internal visibility into the health of the system we are strong believers in infrastructureascode and selfhealing systems the sre team is fully integrated with all the other cloud teams and the teams work closely together with a soft and traversable boundary between their areas of responsibilityltbrgtltbrgtthis role is based out of our new york city officeltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtdesign and build the infrastructure for a global cloud service that comprises hundreds of thousands of mongodb clusters processes a billion metrics per day and replicates tens of billions of database writes to our backup serviceltligtltligtdesign implement and troubleshoot the automation and monitoring of services that seamlessly spans the globe including several cloud providersltligtltligtbecome an expert in infrastructure performance helping us optimize from the application level all the way through the firmwareltligtltligtbuild for resilience our goal is that nobodys pager goes off ever are we there yet no are we really close very while we work on that participate in a weekly oncall rotationltligtltligtimprove our infrastructure capabilities optimizing for cost simplicity and maintainabilityltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtyou have experience running a mission critical service at scaleltligtltligtan understanding of information security issuesltligtltligtprior experience running critical production systems in a linux environmentltligtltligtfirm grasp of at least one modern programming language beyond basic scriptingltligtltligtsolid understanding of web and network protocols and standards http tls dns etcltligtltligtbachelors degree in computer science or equivalent experienceltligtltligtexperience writing automation tools ampamp eagerness to automate all the thingsltbrgtltligtltulgtltstronggtnice to havesltbrgtltstronggtltulgtltligtexperience building large applications from scratch complete with cicd infrastructureltligtltligtexperience in networking security hardware or os performance tuningltligtltligtexperience with at least one of the major cloud providers amazon web services google compute microsoft azureltligtltligtexperience managing kubernetes clusters or some other container orchestration infrastructureltligtltligtexperience with observability of large scale distributed systemsltbrgtltligtltulgtltstronggtltugtwhats in it for youltbrgtltugtltstronggtltulgtltligtgenerous compensation package toprange salary we pay in the top percentile and our package includes equity and generous benefitsltligtltligtopportunities to learn on the job time to up skill in new technologiesltligtltligthigh level of independence in your day to day workltbrgtltligtltulgtto drive the personal growth and business impact of our employees were committed to developing a supportive and enriching culture for everyone from employee affinity groups to fertility assistance and a generous parental leave policy we value our employees wellbeing and want to support them along every step of their professional and personal journeys learn more about what its like to work at mongodb and help us make an impact on the worldltbrgtltbrgtmongodb is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process to request an accommodation due to a disability please inform your recruiterltbrgtltbrgtmongodb inc provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race color religion age sex national origin disability status genetics protected veteran status sexual orientation gender identity or expression or any other characteristic protected by federal state or local laws",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T21:57:06.000Z"
+  },
+  "company": {
+    "name": "MongoDB",
+    "link": "https://www.linkedin.com/company/mongodbinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60400,
+    "max_value": 90700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

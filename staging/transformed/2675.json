@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "title site reliability engineerltbrgtlocation seattle wa remote ltbrgtposition type full timeltbrgtltbrgttitle site reliability engineerltbrgtposition type full timeltbrgtlocation seattle waltbrgtltbrgtjob descriptionltbrgtltbrgtsummary of experienceltbrgt ltbrgt coding and operations experience years combinedltbrgt designing supporting and deploying all types of applications and tools yearsltbrgt support of cicd dev tooling yearsltbrgt operating complex largescale enterprise applications or web sites yearsltbrgt experience working in an environment that implemented agile yearsltbrgt ecommerce experience yearsltbrgt ltbrgtrequired knowledge skills and abilitiesltbrgt ltbrgt continuous delivery tooling ltbrgt cloud experience preferably with aws amp terraformltbrgt security experience akamai cdn amp bot managerltbrgt keen understanding of branching versioning and release strategiesltbrgt scripting languages such as python bash perlltbrgt infrastructure as code terraformltbrgt hands on experience with jenkins and artifact repository nexus administrationltbrgt experience with automating software tests in a pipelineltbrgt proven experience with elk stack new relic netdata graphite grafana ltbrgt commercial retail website architectureltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T18:35:21.000Z"
+  },
+  "company": {
+    "name": "Cloudix Inc.",
+    "link": "https://www.linkedin.com/company/cloudix-cloudix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

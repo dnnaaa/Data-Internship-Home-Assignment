@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer (R&amp;D)",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "site reliability engineers are responsible for ensuring that our platform is stable and healthy we break down barriers by fostering developer ownership and empowering developers we support them by building creative and robust solutions to operations problems we use our background as generalists to work closely with product development teams from the early stages of design all the way through identifying and resolving production issues we see the big picture we help create and enforce standards while facilitating an agile and learning culture we use sre principals such as blameless postmortems and operational load caps to ensure were constantly improving our knowledge and maintaining a good quality of life overall were passionate about automation learning and participating in dynamic day to day workltbrgtltbrgtsite reliability is about combining development and operations knowledge and skills to help make the organization better whether you have a development background and are interested in learning more about operations or are a devopssystems engineer who is interested in developing internal tools cvent sre can benefit from your skillsets ultimately we are looking for passionate people who love learning and technologyltbrgtltbrgtwe use a wide variety of technologies and avoid getting locked into a single path if we find something that works better than what we have we always are open to trying it outltbrgtltbrgtltstronggthere is a taste of the technologies youll get to work withltbrgtltstronggtltulgtltligtaws ec ecs lambda rds s route dynamodbltligtltligtdockerltligtltligtjava net rubyltligtltligtlinux windowsltligtltligtpostgresql sqlserverltligtltligtkafka couchbase couchmobileltligtltligtchef puppetltligtltligtdatomicltligtltligtconsulltligtltligtterraform cloudformationltligtltligtjenkinsltligtltligtreactnativeltligtltligtnative ios and androidltbrgtltligtltulgtltstronggtltugtwhat you will be doingltbrgtltbrgtltugtltstronggtas a leadprincipal site reliability engineer you will use your advanced development and operations knowledge to identify and prioritize issues find universal solutions to common problems and mentor and support junior staffltbrgtltulgtltligtenlighten enable and empower a fastgrowing set of multidisciplinary teams across multiple applications and locationsltligtltligttackle complex development automation and business process problemsltligtltligtchampion cvent standards and best practicesltligtltligtensure the scalability performance and resilience of our suite of productsltligtltligtwork with the development and product team of a new application to establish the right monitoring and alerting strategyltligtltligtwork with a new acquisitions devops team to crosspollinate best practices educate and close gaps in cvent standardsltligtltligtdevelop build test and deployment automation that seamlessly targets multiple onpremises and aws regionsltligtltligthelp a dev team working on a legacy code base to realize zerodowntime deploymentsltligtltligt give back by working on and contributing to open source projects httpsgithubcomcventltligtltligtautomate all the thingsltbrgtltligtltulgtltstronggtltugtwhat you need for this positionltbrgtltbrgtltugtltstronggtwe believe that passion and willingness to learn outweigh any list of skills however having experience in some of the areas below would help you hit the ground running and show that you can be successful as an sre at cventltbrgtltulgtltligtobjectoriented software development in java scala etcltligtltligtci server administration and support jenkinsltligtltligtconfiguration automation using chef or puppetltligtltligtbuilding tools and scripting frameworks from scratchltligtltligtsolid windows and linux administration skillsltligtltligtworking with apm monitoring and logging tools new relic datadog splunkltligtltligtproject management tools like jira trelloltligtltligtnosql etc couchbase cassandraltligtltligtsql databases mssql postgresql etcltligtltligtmessage queues rabbitmqltligtltligtscripting languages like ruby groovy bash powershell or pythonltligtltligtbachelors or masters degree in a technical field requiredltbrgtltligtltulgtltemgtat cvent we celebrate support and are committed to creating a diverse and inclusive environment we are proud to be an equal opportunity employer all qualified applicants will receive consideration for employment without regard to race color religion gender gender identity or expression sexual orientation national origin genetics disability age veteran status or any other legally protected characteristics cvent maintains a drugfree workplaceltbrgtltbrgteeoaaminoritiesfemalesdisabledveteransltbrgtltbrgtltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:41:46.000Z"
+  },
+  "company": {
+    "name": "Cvent",
+    "link": "https://www.linkedin.com/company/cvent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 98000,
+    "max_value": 165000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oregon",
+    "region": "United States",
+    "postal_code": "97350",
+    "street_address": null,
+    "latitude": 43.938683,
+    "longitude": -120.558105
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Data Engineer",
+    "industry": "Internet",
+    "description": "expected compensation per hourltbrgtltbrgthireart is helping toyota research institute tri find a machine learning data engineer to contribute to stateoftheart machine learning data infrastructure and relevant software specific to data management data analysis and data mining at unparalleled scale in this role youll implement robust software and data pipelines for a tremendous amount of data and analyze large scale data for the practical scenarios of autonomous driving last but not least you will deploy your algorithms and systems to explore the meaningful scenarios in tris data sea and beyondltbrgtltbrgtthe ideal candidate will possess the basic requirements outlined below as well as years of experience within the autonomous vehicle industryltbrgtltbrgtltstronggtltugtas a machine learning data engineer you willltbrgtltugtltstronggtltulgtltligtaddress large scale challenges in the machine learning development cycle especially around cloud and data engineeringltligtltligtmanipulate highvolume highdimensionality structured data from driving logs for training and testing deep networksltligtltligtbuild a robust data platform that enables ml practitioners to build and maintain their own data pipelines and datasetsltligtltligtstay up to date on the stateoftheart in deep learning ideas and software in collaboration with other divisions in the companyltligtltligtsolve challenging problems with cutting edge design and algorithmsltligtltligtwork in a multidisciplinary team and collaborate with other teams across the companyltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtexperience as a statistical machine learning andor data engineer and a degree in computer science math physics or related fieldltligtltulgtltligtbachelors degree with years of experienceltligtltligtmasters degree with years of experienceltligtltligtphd with year of experienceltligtltulgtltligtsolid proficiency in pythonltligtltligtstrong software engineering practices with machine learning experience in a production settingltligtltligtproficient in sql and gitltligtltligtexperience with pipeline orchestration tooling eg airflow aws step function metaflow kubeflow etcltligtltligtexperience with aws azure or gcpltligtltligtclear grasp on basic linear algebra optimization statistics and algorithmsltbrgtltligtltulgtltstronggtltugtnicetohave experienceltbrgtltugtltstronggtltulgtltligtexperience with data analysis data munging and relative machine learning skillsltligtltligtexperience with building endtoend ml workflows data mining data preparation modelingltligtltligtstrong knowledge of ml dataset management data annotations and exposure to dataset versioning tools such as dvcltligtltligtexperience with ml data annotation pipeline restful apis apache sparkltligtltligtexposure to perception prediction andor planning stacks for roboticsavsltligtltligtexperience in av or automotive industryltbrgtltligtltulgtltstronggtcommitmentltstronggt ltemgtthis is a fulltime hours per week ongoing contract position staffed via hireart and based in los altos ca this position can be fully remote and is open to usbased candidates who are able to work during pst business hours candidates local to los altos ca are encouraged to applyltbrgtltbrgtltemgtltemgthireart values diversity and is an equal opportunity employer we are interested in every qualified candidate who is eligible to work in the united states unfortunately we are not able to sponsor visas or employ corptocorpltbrgtltbrgtltemgtltemgttri provides equal employment opportunity without regard to the applicants race color creed gender gender identity or expression sexual orientation national origin age physical or mental disability medical condition religion marital status genetic information veteran status or any other status protected under federal state or local lawsltbrgtltbrgtltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T11:21:53.000Z"
+  },
+  "company": {
+    "name": "Toyota Research Institute",
+    "link": "https://www.linkedin.com/company/toyota-research-institute"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "lead site reliability engineer- Starbucks Technology",
+    "industry": "Consumer Goods,Food &amp; Beverages,Retail",
+    "description": "ltstronggtltugtjob summary and missionltbrgtltbrgtltugtltstronggtif youve got what it takes to help transform one of the most iconic brands in the world into a lean efficient and highly automated platform wed like to talk to youltbrgtltbrgtas a lead site reliability engineer starbucks technology you will be responsible for engineering solutions to address daytoday maintenance administration and reliability of internetbased enterprise systems on an ongoing basis this position will identify root causes of operational issues in order to resolve them as required this position will help engineering teams improve quality reduce time to market and make web applications faster and more reliableltbrgtltbrgtthis role requires your agame deep technical proficiency in both enterprisescale systems as well as next gen cloud native applications are required so if you believe like we do that a cup of coffee can change a life and change our world come check us out and help us deliver that same amazing experience to our customers around the globeltbrgtltbrgtltstronggtltugtsummary of key responsibilitiesltbrgtltugtltstronggtltulgtltligt automate repetitive tasks eliminate toilltligtltligt seek opportunities and implement solutions to improve site reliability reducing mean time to diagnosis mean time to resolution system selfhealing etcltligtltligt participate in oncall production supportltligtltligt support software releases cicd pipeline support infrastructure automation process improvementltligtltligt vulnerability management patching systems and implementing security controls in compliance with starbucks global securityltligtltligt create and maintain systems and infrastructure documentationltligtltligt plan and execute on prioritized project tasksltligtltligt provide technical guidance and training to junior team membersltbrgtltligtltulgtmodels and acts in accordance with starbucks guiding principlesltbrgtltbrgtltstronggtltugtsummary of experienceltbrgtltugtltstronggtltulgtltligt coding and operations experience years combinedltligtltligt designing supporting and deploying mission critical products or services yearsltligtltligt operating complex largescale enterprise guestfacing applications or web sites yearsltligtltligt deploying containerized workloads into kubernetes yearsltligtltligt public cloud experience such as azure aws gcp yearsltligtltligt writing and maintaining configuration as code yearsltligtltligt worked in an environment that implemented agile or lean principals yearsltbrgtltligtltulgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligt years of professional industry experience with software engineeringltligtltligt years of software engineering and design at high volume or large scaleltligtltligt bachelors degree in engineering computer science computer information systems or related fieldltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligt aptitude to pick up new technologies and trendsltligtltligt experience with a variety of build deployment and ci tools such as jenkins webpack ansible puppet and octopus deployltligtltligt experience automating deployments with githubltligtltligt experience in designing implementing and managing kubernetesltligtltligt experience in writing debugging and maintaining helm chartsltligtltligt experience with docker and have experience in establishing container image repositories building docker files container images and using docker in establishing continuous integrationcontinuous deployment cicd deployment pipelinesltligtltligt experience with tools enabling automated testing and integrationltligtltligt expertise in linux and windows system installation configuration administration troubleshooting performance tuning preventative maintenance capacity planning monitoring and security proceduresltligtltligt experience installing and configuring azure services using terraformltligtltligt experience in at least two relevant scripting or programming languages go python ruby perl shell powershell etcltligtltligt experience hardening and maintaining secure systems safe harbor or pci experience a plusltligtltligt proven ability to participate with other functional teams in systems integration and design including writing operational specifications test plans and requirements management with attention to detailltligtltligt ability to produce system documentation including writing requirements operational specifications system architecture test plans and asbuilt documentation all with attention to detailltligtltligt ability to build strong relationships and influence others across the organizationltligtltligt demonstrated knowledge of agilelean methodologiesltligtltligt experience working with itil and service management best practices is a plusltbrgtltligtltulgtltstronggtltugtcore competenciesltbrgtltbrgtltugtltstronggtltstronggtputs the customer firstltstronggt has a relentless focus on the customer understands what the customer wants and how to best deliver the experienceltbrgtltbrgtltstronggtworks well with othersltstronggt listens and communicates well with others within and outside of starbucks creates a team environment that is positive and productiveltbrgtltbrgtltstronggtleads courageouslyltstronggt takes personal responsibility to do the right thing and persists in times of challenge or uncertainty adapts quickly to change and makes timely thoughtful decisionsltbrgtltbrgtltstronggtdevelops continuouslyltstronggt continuously seek opportunities to improve self and others leads with trust honesty and commitment to hire coach and develop partners to achieve their potentialltbrgtltbrgtltstronggtachieves resultsltstronggt understands what drives overall business success and is accountable to prioritize and deliver quality results demonstrates knowledge of core products and processes to get results anticipates obstacles and takes action to prevent or minimize their impactltbrgtltbrgtltemgtstarbucks and its brands are an equal opportunity employer of all qualified individuals including minorities women veterans and individuals with disabilities starbucks will consider for employment qualified applicants with criminal histories in a manner consistent with all federal state and local ordinancesltbrgtltbrgtltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:09:45.000Z"
+  },
+  "company": {
+    "name": "Starbucks",
+    "link": "https://www.linkedin.com/company/starbucks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 84200,
+    "max_value": 144000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

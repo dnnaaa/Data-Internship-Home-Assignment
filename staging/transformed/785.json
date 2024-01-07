@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "the engineering team at root strives to be one of the most transformative engineering teams ever were changing the way an industry works by leveraging technology and data to build the best products possible even with our significant growth we operate in small teams that are given ownership over projects and results weve found that the people closest to the problems are the best at solving themltbrgtltbrgtltstronggtltugtour tech stack includesltbrgtltbrgtltugtltstronggtruby rails backend rspec for testingltbrgtltbrgtjavascript react native frontend mocha for testingltbrgtltbrgtsmall amounts of native ios and androidltbrgtltbrgtdeployment to aws ecs using containersltbrgtltbrgtbuildkite for ciltbrgtltbrgtwere scaling rapidly and we recently launched a b ipoltbrgtltbrgthttpswwwnasdaqcomarticlesrootinsuranceipopoisedtodisrupttheinsurancemarketltbrgtltbrgtour team excels at delivering software to solve the problems in front of us at root presently a suite of worldclass mobile web and serverbased products obsessed with the customer experience weve shaped our team and process around this we know that constant iteration and experimentation produce the best resultsltbrgtltbrgtfor more information on engineering at root see rootengineeringltbrgtltbrgtwe divide the areas of responsibility for engineers into three major areasltbrgtltbrgtltstronggttechnicalltstronggt the skills and knowledge that make up an engineers basic problemsolving toolboxltbrgtltbrgtltstronggtplanning and executionltstronggt the ability to plan and execute assigned work beyond basic technical solutionsltbrgtltbrgtltstronggtworking with others ltstronggtthe ability to work effectively with other engineers and people in other functionsltbrgtltbrgtltstronggtltugttechnical skillsltbrgtltbrgtltugtltstronggtltstronggtwhat we look for in a software engineer iltbrgtltstronggtltulgtltligtexcellent command of basic programming skillsltligtltligtsolid knowledge of to languages familiar with othersltligtltligtexperienced with at least one common programming paradigmltligtltligtbasic understanding of clientserver architecture and web technologiesltligtltligtfluent usage of version control toolsltligtltligtbasic knowledge of databases and sqlltbrgtltligtltulgtltstronggtplanning and executionltbrgtltstronggtltulgtltligtwrites clean functional welltested codeltligtltligtcompletes medium preplanned tasks in an efficient manner making changes that touch multiple aspects of the applicationltligtltligtfollows existing patterns and aims for consistency with the rest of the codeltligtltligtable to take on small unplanned feature work and bugfixesltligtltligtstarts understanding and taking business goals into account when making implementation decisionsltbrgtltligtltulgtltstronggtltugtworking with othersltbrgtltugtltstronggtltulgtltligtprovides good feedback on other teammates work in code reviewsltligtltligtworks with the engineering lead and teammates to answer questions about their workltligtltligtunderstands and implements feedback from peers into own workltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T03:52:56.000Z"
+  },
+  "company": {
+    "name": "Root Inc.",
+    "link": "https://www.linkedin.com/company/rootinsurance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "OH",
+    "postal_code": "43272",
+    "street_address": null,
+    "latitude": 39.96276,
+    "longitude": -82.99629
+  }
+}

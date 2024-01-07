@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Internet",
+    "description": "facebooks mission is to give people the power to build community and bring the world closer together through our family of apps and services were building a different kind of company that connects billions of people around the world gives them ways to share what matters most to them and helps bring people closer together whether were creating new products or helping a small business expand its reach people at facebook are builders at heart our global teams are constantly iterating solving problems and working together to empower people around the world to build community and connect in meaningful ways together we can help people build stronger communities were just getting startedltbrgtltbrgtfacebook reality labs frl focuses on delivering facebooks vision through virtual reality vr and augmented reality ar the compute performance and power efficiency requirements of virtual and augmented reality require custom silicon facebook silicon team is driving the state of the art forward with breakthrough work in computer vision machine learning mixed reality graphics displays sensors and new ways to map the human body our chips will enable ar ampamp vr devices where our real and virtual world will mix and match throughout the day we believe the only way to achieve our goals is to look at the entire stack from transistor through architecture firmware and algorithmswe are growing our asic design and architecture team within frl and are seeking engineers at all levels who will work with a worldclass group of researchers and engineers using your skills to implement and contribute to the development and optimization of low power machine learning accelerators and stateoftheart socsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtdevelop software toolingmethodologies for efficient design of ml acceleratorsltligtltligtwork closely with compiler and ml researchers to enhance machine learning acceleration capabilitiesltligtltligtassist with performancepower analysis of machine learning modelsltligtltligtwork closely with system architects to enable new ml use casesltligtltligtwork with fpga engineers and firmware teams to perform early prototypingltligtltligtalgorithmic modeling of machine learning workloadsltbrgtltligtltulgtltstronggtminimum qualificationltbrgtltstronggtltulgtltligtbs electrical engineering computer science or equivalent experienceltligtltligt years experience as a silicon architectltligtltligtexperience with ml models algorithms or accelerator architectureltligtltligtexperience in either rtl coding or performance modelingltbrgtltligtltulgtltstronggtltugtpreferred qualificationltbrgtltugtltstronggtltulgtltligtms in electrical engineering or computer scienceltligtltligtexperience with ml graphics or computer vision acceleratorltligtltligtexperience with tensorflow pytorch or similar machine learning toolsetsltligtltligtexperience with at least one procedural programming language c c python etcltligtltligtexperience in asic design flow design verification integration synthesisltbrgtltligtltulgtfacebook is proud to be an equal opportunity and affirmative action employer we do not discriminate based upon race religion color national origin sex including pregnancy childbirth or related medical conditions sexual orientation gender gender identity gender expression transgender status sexual stereotypes age status as a protected veteran status as an individual with a disability or other applicable legally protected characteristics we also consider qualified applicants with criminal histories consistent with applicable federal state and local law facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process if you need any assistance or accommodations due to a disability please let us know at accommodationsextfbcom",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T06:15:11.000Z"
+  },
+  "company": {
+    "name": "Facebook",
+    "link": "https://www.linkedin.com/company/facebook"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

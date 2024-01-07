@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "do you want to work for an emmy awardwinning company at audible magic we are building the most revolutionary media recognition technology and rights management solutions for the global music movie and television industry our customers and partners include some of the largest and most recognized brands in the industry we win awards because we keep driving to provide better solutions for our customers solutions that meet the needs of the everchanging music and entertainment industry at audible magic we believe our customers are paramount and our reputation and integrity are the foundation of our businessltbrgtltbrgtwe are seeking a software engineer to join our team developing and supporting an existing music streaming platform the successful candidate will join a small team of engineers supporting and extending this profitable and growing product lineltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgt ltligtmaintain and extend code base for delivering music streams and downloads to enterprise customersltligt ltligtdevelop new features for music streaming serviceltligt ltligtpartner with product management and engineering leadership to design new features and review technical architecture and specificationsltligt ltligtwork with broader engineering team on technology upgrades for the music streaming serviceltligt ltligtpartner with other engineering teams to fulfill product development and customer deliverablesltligt ltligtclearly communicate status and open issues to team leads and managersltligt ltligtcreate and maintain product documentation and developer docsltligt ltbrgtltbrgtltulgtltstronggtltugtrequirementsltbrgtltbrgtltugtltstronggtsolid basic java skills we use some spring but mostly for dependency injectionltbrgtltulgt ltligt solid rdbmssql skillsltligt ltligt solid oracle and plsql experienceltligt ltligt sql servertransact sql knowledgeltligt ltligt cnet and javascript skillsltligt ltligt good knowledge of web services both soap and restltligt ltligt proficiency with xml and related concepts and technologiesltligt ltligt proficiency with shell scriptingltligt ltbrgtltulgtltstronggtnice to haveltbrgtltstronggtltulgt ltligt familiarity with wildfly formerly jboss java application serverltligt ltligt familiarity with tomcat web containerltligt ltligt familiarity with apache http serverltligt ltligt knowledge of perl programming languageltligt ltligt familiarity with lucene text indexing frameworkltligt ltligt knowledge of postgres dbsltligt ltligt knowledge of apache cxf web services frameworkltligt ltligt experience with dw design and concepts ltligt ltligt basic understanding of tcpip concepts and networking in generalltligt ltligt basic knowledge of cdnsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-17T03:23:57.000Z"
+  },
+  "company": {
+    "name": "Audible Magic",
+    "link": "https://www.linkedin.com/company/audible-magic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 86600,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

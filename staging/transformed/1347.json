@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer - Web Applications II",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtdesign develop and maintain the ux for various applicationsltligtltligtensure responsive implementationltligtltligtapply clientside design approaches that enables applications to be scalable on the dimensions of data and usersltligtltligtdesign clientside solutions using established brand and design guidelines to ensure ux consistencyltligtltligtensure clientside product quality by doing comprehensive ui testing with automationltligtltligtdefine the web apis necessary to support the uxltligtltligtsource ideas from the open source community to help keep the product suite currentltligtltligtensure that clientside applications adhere to security standards and guidelinesltligtltligtensure that clientside applications adhere to coding standardsltligtltligtcollaborate with fellow developers designers and analysts to solve problemsltbrgtltbrgtltligtltulgtltstronggtltugtexperienceltbrgtltbrgtltugtltstronggtthe ideal candidate would possess the followingltbrgtltulgtltligtminimum years of industry experience working with complex web tiers in javascript html css svgltligtltligtextensive experience using typescript with angular and bootstrap ltligtltligtexperience applying design patterns to develop and support web pages that run on multiple browsers including mobilehandheld devicesltligtltligtexperience building hightraffic scalable and highperformance web sitesltligtltligtexperience developing solutions using an agile approach like scrumltligtltligtexperience apply security technologies such as tls saml and oauth and openidltbrgtltbrgtltligtltulgtltstronggtltugtskills and qualificationsltbrgtltbrgtltugtltstronggtthe ideal candidate would have some experience or familiarity with the following frontend technologiesltbrgtltulgtltligtexcellent web development skills using javascript html html css css lessltligtltligtstrong knowledge of typescript with angular ltligtltligtresponsive ui design and development using bootstrapltligtltligtknowledge of restful services and web apisltligtltligtbuild tooling grunt bower npmltligtltligttesting mocha karmaltligtltligtfamiliarity with api frameworks such as swagger or ramlltbrgtltligtltulgtpowered by jazzhrltbrgtltbrgtpamwwouv",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-20T07:02:55.000Z"
+  },
+  "company": {
+    "name": "Zealogics LLC",
+    "link": "https://www.linkedin.com/company/zealogics-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Montvale",
+    "region": "NJ",
+    "postal_code": "07645",
+    "street_address": null,
+    "latitude": 41.04014,
+    "longitude": -74.03271
+  }
+}

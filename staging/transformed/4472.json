@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Trust",
+    "industry": "Hospitality,Internet,Leisure, Travel &amp; Tourism",
+    "description": "airbnb is a missiondriven company dedicated to helping create a world where anyone can belong anywhere it takes a unified team committed to our core values to achieve this goal airbnbs various functions embody the companys innovative spirit and our fastmoving team is committed to leading as a st century companyltbrgtltbrgtltstronggtltugttrust engineering at airbnbltbrgtltbrgtltugtltstronggteveryone at airbnb thinks about trust but our team obsesses over it daily at the core of trust is safety and thus we spend a significant amount of our time and energy keeping the community safe the trust organization is responsible for protecting our community and platform from fraud while also ensuring our hosts guests homes and experiences meet our high standards we constantly work to fight against online fraud such as chargebacks compromised accounts spam and scam in messages fake inventory etc as well as offline fraud theft property damage personal safety etc we also work on onboarding and screening of users and think about complex topics like identity and reputation to ensure that every interaction with airbnb helps build trust in us and our community trust engineering is responsible for the technology vision and development of a complex stack that runs on every key interaction on the platformltbrgtltbrgtwere looking for a seasoned engineer to join our foundational modeling team that is responsible for a machine learning platform a core capability that enables the trust product teams to build machine learning solutions to stop bad actors from doing bad things on airbnbltbrgtltbrgtltstronggtltugtwhat does being an machine learning engineer look likeltbrgtltbrgtltugtltstronggtas a machine learning engineer you help keep airbnb users safe by working across diverse teams and systems to enable sophisticated safety strategies you are eager to understand complex systems top to bottom and thrive working across technologies and codebases your contributions take a variety of shapesltbrgtltulgtltligtdevelop reusable highly differentiating and highperforming machine learning algorithmsframeworkstools to enable trust product teams to build productionize and operate bestinclass machine learning solutions that keep airbnb community safeltligtltligtdevelop scalable reliable data pipelines and feature store that are reused by multiple machine learning use cases to generate and manage high quality data setsltligtltligtbuild cutting edge machine learning models that are used as building blocks to create intelligent solutions that detect risks on airbnb platform or help humans make decisions ltligtltligtwork with crossfunctional teams with design product data science and research partners to drive engineering decisionsltbrgtltligtltulgtltstronggtltugtwho are we looking forltbrgtltugtltstronggtltulgtltligt years industry experienceltligtltligtstrong coding skills in scala python javaltligtltligtdeep understanding of machine learning algorithms and best practicesltligtltligtstrong industry experience in architectural patterns of large datadriven applications api design and data modelingltligtltligtexperience with one or more of these technologies docker kubernetes spark airflow or equivalent tensorflow pytorch kafka or equivalent data warehouse eg hiveltligtltligtexperience or desire to work collaboratively with crossfunctional teams in design product data science operations and researchltligtltligtindustry experience building and productionization of machine learning models in fraud detection and customer support is a big plusltligtltligtindustry experience building endtoend machine learning infrastructure is a big plusltbrgtltligtltulgtltemgtwe are an equal opportunity employer and value diversity at our company we do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability statusltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Airbnb",
+    "link": "https://www.linkedin.com/company/airbnb"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

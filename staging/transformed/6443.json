@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst, ICQA",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtessential job duties and responsibilitiesltbrgtltbrgtltulgtltligteffectively identify and communicate analytical findings and trends to drive business changes that improve the customer experience and journeyltligtltligtdata validation mining and discoveryltligtltligtperform adhoc analysis and provide business leaders actionable insights as neededltligtltligtwrite sql queriesltligtltligtcreation of reports and dashboards utilizing excel and power biltligtltligtcollaborate with the bi team to support reporting efforts for the icqa teamltligtltligtidentify and define kpisltbrgtltbrgtltligtltulgtltstronggtltugtbasic and preferred qualifications education andor experienceltbrgtltbrgtltugtltstronggtltulgtltligtbachelors degree in computer science it information systems math statistics or quantitative discipline with years of professional experience in analyticsbusiness intelligenceltligtltligtexperience in inventory control or fulfillment centers a plusltligtltligtexperience working with complex data in large corporate environment a plusltligtltligta selfstarter mentality and ability to operate within a fastpaced and ambiguous environmentltligtltligtdata visualization tools such as power bi tableau and sqlltligtltligtproficiency in sql query building and report writingltligtltligtstrong sql knowledge including but not limited to complex queries ctes temp tables stored procedures cursorsltligtltligtadvanced in ms excel including vlookups pivot tables charts power query index matchesltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:00:51.000Z"
+  },
+  "company": {
+    "name": "GameStop",
+    "link": "https://www.linkedin.com/company/gamestop"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Grapevine",
+    "region": "TX",
+    "postal_code": "76051",
+    "street_address": null,
+    "latitude": 32.93656,
+    "longitude": -97.0867
+  }
+}

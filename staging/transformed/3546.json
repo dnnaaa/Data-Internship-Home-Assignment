@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - 100% Remote",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "bigtincan is an aipowered sales enablement and automation platform that adapts to your sales process delivering the right content for selling training and coaching for all your teamsltbrgtltbrgtsince our inception in bigtincan has grown into a global company headquartered in waltham massachusetts with offices in london and sydney australia weve partnered with apple atampampt and other technology leaders and are used by the largest most successful companies in the world such as exxon titleist guess jeans and amazon to accelerate their sales and marketing initiatives our award winning platform is recognized by gartner as the only solution in their sales engagement platform category to meet all of their feature requirementsltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltbrgtltugtltstronggtltstronggtrequirementsltbrgtltstronggtltulgtltligtwork primarily in multiple aws accounts serving different development and application environmentsltligtltligtserve as a point of contact for the availability scalability and performance of our applicationsltligtltligtsupport our existing aurora rds mysql databasesltligtltligtwrite detailed rcas root cause analysis on issues and share results with the team organization and leadershipltligtltligtparticipate in oncall that adopts a follow the sun oncall rotation programltligtltligtprovide frontline support for escalations outages and incidents pertaining to our revenuegenerating and developmental endpointsltligtltligtbuild and maintain automation systems to help us manage our rapidly growing infrastructure using iac tools ie terraform and cloud formationltligtltligtassist our software engineering teams to ensure proper monitoring and metrics are being built into the applications to upkeep our sla requirementsltligtltligtmaintain and develop custom scripts to improve our ability to further automate deploymentltligtltligtassist in the rollout and deployment of new product features to productionltligtltligtgain and use knowledge of monitoring systems such as datadog and configuration management systems awsbased tools terraform config management ie chef ansible puppet ltligtltligtdocument current and future configuration processes and policiesltbrgtltligtltulgtyoud be a fantastic match for this role if you bringltbrgtltulgtltligt years of experience managing cloud infrastructure in such environments as amazon web servicesltligtltligtworked in a role where your team was responsible for sla uptime and reportingltligtltligtprior work with terraform or any other iac toolsltligtltligtexperience with kubernetes lambda functions and supporting serverless environmentsltligtltligtexperience in an internetfacing technical operations role with high uptime requirementsltligtltligtstrong personal and professional initiative with a focus on the success of the team and organizationltligtltligtselfstarter who is able to take ownership of technical issues and be a productive member in the oncall rotation and certain offhours shiftsltligtltligtstrong troubleshooting skills that cover vpcs autoscaling and refactoring build and release pipelines to eliminate human and manual interactionltligtltligtexperience with netcorejavajee architecturesltligtltligtstrong scripting ability in bash ruby perl andor pythonltligtltligtaws solutions architect associate a plusltbrgtltligtltulgtltugtltstronggtbenefitsltbrgtltbrgtltstronggtltugtour benefits include tremendous career growth opportunities competitive salary stock options health benefits pto days k company events ampamp outings trips to our offices on the us east coast boston ma europe glasgow scotland and australia sydney brisbane and of course a fun team of bigtincaners to work withltbrgtltbrgtbigtincan asx bth helps sales and service teams increase win rates and customer satisfaction leading brands including atampampt thermo fisher merck anz bank and others rely on bigtincan to enhance sales productivity and fuel customer engagement with global sales and marketing headquartered in boston bigtincan also has offices across emea australia and asia to discover more about us please visit wwwbigtincancomltbrgtltbrgtbigtincan is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race color religion sex nationality",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T04:19:37.000Z"
+  },
+  "company": {
+    "name": "Bigtincan",
+    "link": "https://www.linkedin.com/company/bigtincan"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

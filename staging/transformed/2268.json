@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "foursquare is the leading independent location technology company powered by our deep understanding of how people move throughout the world our solutions help businesses make smarter decisions developers create more engaging experiences and brands build more effective marketing strategiesltbrgtltbrgtfoursquares platform includes attribution audience proximity places pilgrim sdk and visits as the industrys first and only accredited company for location data from the media rating council mrc this foundation powers all our solutions those that exist today and those we have yet to build over billion consumerverified place visit confirmations help us keep our map and models fresh and uptodate building a phoneseyeview of the world with million unique places of interest worldwideltbrgtltbrgtltstronggtltugtabout the teamltbrgtltbrgtltugtltstronggtlos angeles teams contribute to our places audience proximity and visits products our teams help to build data processing infrastructure to derive insights from billions of location data points every day in this role you will ship products with high visibility and of strategic importance to foursquare and contribute directly to revenue help us build and collaborate with product engineering and data science teams to create tools and processes to bring research and machine learning models to productionltbrgtltbrgtltstronggtour tech stackltbrgtltstronggtltulgt ltligtlanguages java scala python clojure rubyltligt ltligttools for pipeline orchestration airflow luigiltligt ltligtframeworks spark mapreduce scalding spring bootltligt ltligtinfrastructure aws hadoop kubernetes dockerltligt ltligtother technologies postgres hive hbase mongodbltligt ltbrgtltbrgtltulgtltstronggtltugtresponsibilities of the roleltbrgtltugtltstronggtltulgt ltligtinfluence key decisions on architecture and implementation of scalable data processing and analytics structureltligt ltligtwork with the data science team to bring machine learning models into productionltligt ltligtbuild hadoop mapreduce and spark processing pipelinesltligt ltligtfocus on performance throughput and latency and drive these throughout our architectureltligt ltligtwrite test automation conduct code reviews and take endtoend ownership of deployments to productionltligt ltligtwrite deploy and monitor services for data access by systems across our infrastructureltligt ltligtparticipate in oncall rotation dutiesltligt ltbrgtltbrgtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgt ltligtbsba in a technical field such as computer science or equivalent experienceltligt ltligt years of experience in software development working with production level codeltligt ltligtproficiency in one or more of the programming languages we useltligt ltligtexcellent communication skills including the ability to identify and communicate datadriven insightsltligt ltligtstrong algorithms and data structures knowledgeltligt ltligtcomfort with unixlinux and the command lineltligt ltbrgtltbrgtltulgtltstronggtltugtnice to haveltbrgtltugtltstronggtltulgt ltligtexperience with hadoop mapreduce andor spark data processing pipelines and machine learning technologiesltligt ltligtexperience with relational or documentoriented database systemsltligt ltligtprior software internship experienceltligt ltbrgtltbrgtltulgtltstronggtltugtperks and benefitsltbrgtltugtltstronggtltulgt ltligtlearning and development programs from ics to managersltligt ltligtindividual professional coaching for all fulltime employeesltligt ltligtflexible time off rest and recharge when you need itltligt ltligtcomprehensive and competitive health vision dental life insuranceltligt ltligtk with company matchltligt ltligthome office setup you get all necessary hardware and internet reimbursement ltligt ltligtfamily planning programs via carrot and mavenltligt ltligtemployee resource groups to help you stay connectedltligt ltbrgtltulgtfoursquare is proud to foster an inclusive environment that is free from discrimination we strongly believe in order to build the best products we need a diversity of perspectives and backgrounds this leads to a more delightful experience for our users and team members we value listening to every voice and we encourage everyone to come be a part of building a company and products we loveltbrgtltbrgtfoursquare is an equal opportunity employer all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability protected veteran status or any other characteristic protected by law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T02:46:31.000Z"
+  },
+  "company": {
+    "name": "Foursquare",
+    "link": "https://www.linkedin.com/company/foursquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103000,
+    "max_value": 135000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

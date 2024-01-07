@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Computer Networking",
+    "description": "please note this posting is to advertise potential job opportunities this exact role may not be open today but could open in the near future when you apply a cisco representative may contact you directly if a relevant position opensltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltbrgtltugtltstronggtltulgtltligt actively support and lead the planning design implementation and integration of recently released software solutions in customer environments ltligtltligt drive solution delivery improvements through automation testing and best practices implementation to optimize deployments accelerate customer valuerealization and improve overall online service reliability ltligtltligt practice sre delivery principles including building cicd pipelines and measure kpis via service level indicators slis service level objectives slos and service level agreement slas ltligtltligt collaborate in transformational initiatives to define and improve new delivery methodologies in accordance with devops and sre models ltligtltligt interact with professional services delivery product management and bu teams to integrate automation in our offers to improve quality and customer experience ltbrgtltligtltulgtltstronggtltugtwho we areltbrgtltbrgtltugtltstronggtyou will be part of the sre cross domain team in ciscos customer experience cx technology and transformation group for the americas region service reliability engineering sre is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems at cisco we practice sre principles to create scalable and highly reliable software systems and solutions we focus on fixing reliability problems in our solutions as well as building tools and systems that will contribute to the reliability of the systems that it supportsltbrgtltbrgtltstronggtltugtminimum qualificationsltbrgtltugtltstronggtltulgtltligt years experience after a bs or ms in computer science electrical engineering or a related field ltligtltligt years of hands on sre experience ltligtltligt ability to define good sli slo and error budget to maintain reliability of any system wile utilizingtools such as appdynamics thousandeyes prometheus grafana datadog ltligtltligt subject matter expertise in software development docker openstack kubernetes programmability python java angular django automation ansible terraform and devops related tools git jenkins ltbrgtltligtltulgtltstronggtltstronggtwhy ciscoltbrgtltbrgtltstronggtltstronggtat cisco each person brings their unique talents to work as a team and make a differenceltbrgtltbrgtyes our technology changes the way the world works lives plays and learns but our edge comes from our people we connect everything people process data and things and we use those connections to change our world for the betterltbrgtltbrgtwe innovate everywhere from launching a new era of networking that adapts learns and protects to building cisco services that accelerate businesses and business results our technology powers entertainment retail healthcare education and more from smart cities to your everyday devicesltbrgtltbrgtwe benefit everyone we do all of this while striving for a culture that empowers every person to be the difference at work and in our communitiesltbrgtltbrgtcolorful hair dont care tattoos show off your ink like polka dots t",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T05:25:19.000Z"
+  },
+  "company": {
+    "name": "Cisco",
+    "link": "https://www.linkedin.com/company/cisco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 143000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

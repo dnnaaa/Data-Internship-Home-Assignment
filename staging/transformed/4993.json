@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Electrical Engineer",
+    "industry": "Computer Software",
+    "description": "ltpgtltstronggtdescriptionltstronggtltpgtltpgtltbrgtltpgtltpgtponyai is a startup colocated in silicon valley and china our mission is to revolutionize the future of transportation by building the safest and most reliable technology for autonomous vehicles armed with the latest breakthroughs in artificial intelligence we aim to deliver our technology at a global scale we believe our work has the potential to transform lives and industries for the better we are looking for a senior electrical engineer to join our fantastic teamltpgtltpgtltbrgtltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtdesign prototype and test next gen power supply upwards of a per phase and kwltligtltligtperform schematic capture in orcad and specify physical constraints for layout in allegro for embedded systems and motherboardsltligtltligtperform signal integrity and power integrity analysis pdn models and characterization on pam g serdes ddr ddr sata sas pcie gen cxl etcltligtltligtdesign effective and reliable hardware architecture solutions for computing sensing and control embedded systemsltligtltligtsystems requirement document publication and io assignment with embedded software engineerltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligthand on use of hfss cadence orcad allegro siwave hyperlynx etcltligtltligtknowledge of computation processor cpu gpu fpga isp and soc and computer architectureltligtltligtfamiliarity with ic spi jtag pmbus impi etc interfacesltligtltligtknowledge of network and storage interfaces media provisioning and deploymentltligtltligthandson experience with an oscilloscope van spectrum analyzer signal generator and other debug toolsltligtltligtdesign experience in datacenter server optical transport network or ran will be a plusltligtltligtfamiliarity with automotive electromechanical system is a plusltligtltligtminimum of a masters degree in electrical engineering or equivalent with years experienceltligtltulgtltpgtltbrgtltpgtltpgtltstronggtabout ponyailtstronggtltpgtltpgtltbrgtltpgtltpgtponyai inc ponyai is pursuing an ambitious vision for autonomous mobility we aim to bring safe sustainable and accessible mobility to the entire world we believe that autonomous technology can make our roads exponentially safer for travelers founded in late ponyai has been a pioneer in autonomous mobility technologies and services across the us and china spearheading publicfacing robotaxi pilots in both markets the company is currently valued at b and some of its major investors include toyota otpp sequoia capital china and idg capitalltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:41:24.000Z"
+  },
+  "company": {
+    "name": "Pony.ai",
+    "link": "https://www.linkedin.com/company/pony-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

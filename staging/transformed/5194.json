@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Food &amp; Beverages,Computer Software,Food Production",
+    "description": "founded in bowery farming is on a mission to democratize access to highquality local safe and sustainable produce bowery builds smart indoor farms near cities growing fresher pesticidefree protected produce with bold flavor in precisely controlled environments days a year at the heart of each farm is the proprietary boweryos which integrates software hardware sensors ai computer vision systems machine learning models and robotics to orchestrate and automate the entirety of its operations as a result each farm creates far less waste and uses a fraction of the water and land compared to traditional agricultureltbrgtltbrgtltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtsres at bowery deliver highlyavailable and faulttolerant hybrid cloud infrastructure that services the most technologically advanced indoor farms in the world in addition to our public cloud footprint we design deploy and monitor bowerys distributed onpremise server and network infrastructure at each of our farms the next sre at bowery will be primarily focused on the management and observability of our onpremise systems this sre will help us design and build the server and network infrastructure of our farms using best practice standards for server and data center management while also updating our existing systems to be in line with these standards in addition to our onpremise environments bowery uses the public cloud for many of our workloads which you will help monitor and maintain you will work within a small infrastructure team to help establish the culture and processes bowery will need to scale the business over the next yearsltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtprovisioning and monitoring bowerys server fleet using automation tools and infrastructure as code so we can easily repeat work at each of our farmsltligtltligtconfiguring and administering the onpremise services that we provide to our stakeholders like a durable messaging client scada postgresql monitoring agents and moreltligtltligtdesigning the software and data infrastructure that underpins out hybrid cloud setupltligtltligtbuilding out the teams and processes that bowery will need in order to manage the datacenter footprint at our farms distributed all around the country and eventually the worldltligtltligtresponding to server and network incidents at the farmsltbrgtltligtltulgtltstronggtltugtwho you areltbrgtltugtltstronggtltulgtltligtyou are selfmotivated and autonomous in your work youll be working on large complex problems that dont have clear answers youll be expected to break these problems down into smaller chunks and complete the work in a selfdirected mannerltligtltligtyou love to dry dont repeat yourself up your work and appreciate that youre a multiplier everything you can automate now will allow bowery to scale faster in the futureltligtltligtyou are proactive in seeking out work not waiting for tasks to come to you you will be on a small team and must be comfortable taking initiative and making decisions on your own with support from the teamltligtltligtyou have handson experience with managing onpremise environments and are comfortable traveling on site when necessaryltligtltligtyou always strive to do things the right way but you also understand that we must move fast and that sometimes done is better than rightltligtltligtyou have programming experience and are comfortable writing small services and tools when there is nothing offtheshelf that solves our use caseltligtltligtyou are compassionate and kind to the core and are willing to work with and provide services to folks of all different backgrounds and technical abilitiesltbrgtltligtltulgtbased in new york city bowery is the largest vertical farming company in the united states serving major ecommerce platforms and more than grocery stores in the northeast and midatlantic regions including albertsons companies safeway and acme amazon fresh giant food walmart weis whole foods market and specialty grocers with produce thats harvested yearround at peak freshness delivered within days of harvest bowery has raised million from leading investors including fidelity management ampamp research company llc temasek gv formerly google ventures general catalyst ggv capital first round capital and individuals including henry kravis jeff wilke as well as some of the foremost thought leaders in food including tom colicchio jos andrs and david barber of blue hill for more information on bowery and its products please visit wwwboweryfarmingcom press kit httpsboweryfarmingcompress",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T18:08:25.000Z"
+  },
+  "company": {
+    "name": "Bowery Farming",
+    "link": "https://www.linkedin.com/company/bowery-farming"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtimmediate need for a talentedampnbspltstronggtsite reliability engineerltstronggtampnbspthis is aampnbspltstronggtcontract to hire fte ltstronggtemploymentampnbspopportunity and isampnbspin ltstronggtatlanta ga initially remoteltstronggtampnbspplease review the job description belowltpgtltpgtltbrgtltpgtltpgtltstronggttop must have ltstronggtaws some software development experience some linux experienceltpgtltpgtltbrgtltpgtltpgtltstronggtwhat you will do ltstronggtltpgtltpgt automate anything and everything infrastructure build out testing deploying monitoring etcltpgtltpgt design and assist in the authoring of software tools that reliably manage application deliveryltpgtltpgt design and assist in the setup and maintenance of application monitoring and alertingltpgtltpgt engage with developmentcapability teams to ensure best practices are implementedltpgtltpgt improve predictability and reliability of software releases workflows and operating softwareltpgtltpgt reduce application deployment windows by leading company towards a continuous deployment environmentltpgtltpgt reduce mean time to recovery mttr by helping troubleshoot monitor alert and automating recoveryltpgtltpgtltbrgtltpgtltpgtltstronggtthe skills we require ltstronggtltpgtltpgt python ruby go or other systems programming moderate skills requiredltpgtltpgt experience with configuration management systems octopus chef puppetltpgtltpgt experience rolling out redundant missioncritical applications in a highly available production environmentltpgtltpgt experience with version control systems git or svnltpgtltpgt experience with cloud computing platforms amazon aws kubernetes heroku etcltpgtltpgt experience with continuous integration tools jenkins circleci etc artifactory or nexusltpgtltpgt excellent written communication problem solving and process management skillsltpgtltpgt desire to work in a fast paced evolving growing dynamic environmentltpgtltpgtltbrgtltpgtltpgtltstronggtthe skills we prefer ltstronggtltpgtltpgt linux system engineering expertiseltpgtltpgt vmware virtualbox experienceltpgtltpgt experience supporting ruby or java applicationsltpgtltpgt experience supporting database server infrastructure mysql postgres etcltpgtltpgt networking knowledgeltpgtltpgt experience with hashicorp tools vagrant terraform packer etc linux containers docker rocketltpgtltpgt experience with java build tools such as ant maven gant or gradleltpgtltpgt experience with agile development continuous integration and automated testingltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T17:27:22.000Z"
+  },
+  "company": {
+    "name": "Pyramid Consulting, Inc",
+    "link": "https://www.linkedin.com/company/pyramid-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

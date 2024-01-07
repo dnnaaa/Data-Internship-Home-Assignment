@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Cloud Infrastructure / DevOps Engineer",
+    "industry": "",
+    "description": "ltpgtwe are looking for enthusiastic and highly motivated software engineers with solid devops experience to help support quansights growing cloud and onprem infrastructure as well as act as a support resource for internal and client hosted systems we are hiring at both junior and senior engineer levelsltpgtltpgtltbrgtltpgtltpgtltstronggtwho we areltstronggtltpgtltpgtquansight has its roots in the python data science community our mission is to connect companies to opensource communities to create sustainable datadriven solutions that benefit the whole ecosystem we accomplish this mission by providing a variety of services ranging from opensource software development to training and consulting we believe in a culture of doers learners and collaborators we are looking for people who are motivated humble curious and respectful of othersltpgtltpgtltbrgtltpgtltpgtltstronggtwhat youll doltstronggtltpgtltpgtas a cloud infrastructure engineer you will be responsible for working with infrastructure deployed on aws gcp digital ocean azure and in some cases onpremises these deployments will range from cloud kubernetes deployments of jupyterhub and dask gateway to onpremises hpc clusters at quansight we strive to make these deployments reproducible and testable thus we use common infrastructure as code tooling like terraform vagrant helm and ansibleampnbsp all of our deployments revolve around data science workflows which use conda environments jupyterhub jupyterlab and dask your work will enable teams to do computations on large datasets working as a cloud infrastructure engineer will regularly use unix skills such as file permissions managing file systems networking and user managementampnbspltpgtltpgtampnbspltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtcontributing to qhub httpsqhubdev an open source tool for deploying jupyterhub dask and other tools from pydata ecosystem on to cloud or onpremise via infrastructure as codeltligtltligtdeveloping and managing scalable data science deployments on cloud and onpremise including conda environments infrastructure and jupyterhubs ecosystem of servicesltligtltligtdeveloping and managing quansight hosted services such as discourse qhub and helping to organize the many existing cloud projects and client accounts that quansight works withltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligtexperience using some form of infrastructureascode tooling ie ansible salt puppet terraform etcltligtltligtexperience with at least one major cloud platform aws azure gcpltligtltligtcomfort with at least one dynamic highlevel programming language preferably pythonltligtltligtfamiliarity with software engineering best practices including unit tests code review version control production monitoring cicd etcltligtltligtadditionally one or more of the following skills will help you stand outltligtltligtexposure to the python datascience stack pandas numpy dask etcltligtltligtexperience with python packaging and conda environmentsltligtltligtexperience with kubernetesltligtltligtexperience deploying jupyterhubltligtltulgtltpgtltbrgtltpgtltpgtwe offer competitive compensation and a comprehensive benefit package including medical vision dental k and flexible paid time off we offer flexibility in work times and locations vacation time is not just encouraged but celebrated and modeledampnbspltpgtltpgtltbrgtltpgtltpgtour engineering team is fully remote we are headquartered in austin texas and much of the team is us based we also have a significant presence in europe and south america and will consider applicants anywhere overlap with us or european time zones is preferredltpgtltpgtltbrgtltpgtltpgtyou must be currently authorized to work fulltime in the united states on a permanent basisltpgtltpgtltbrgtltpgtltpgtquansight is committed to creating a diverse and inclusive work environment and is proud to be an equal opportunity employer all qualified applicants will receive equal consideration for recruitment interviews employment training compensation promotion and related activities without regard to race color religion gender gender identity or expression sexual orientation national origin genetics disability age veteran status or any and all other protected classes and in accordance with all applicable lawsltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:30:27.000Z"
+  },
+  "company": {
+    "name": "Quansight",
+    "link": "https://www.linkedin.com/company/quansight"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

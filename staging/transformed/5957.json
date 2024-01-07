@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Management Consulting,Information Technology and Services,Biotechnology",
+    "description": "ltpgtthe machine learning engineer will be responsible for leading teams in client projects to deliver belowltpgtltpgtltbrgtltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtbuild refine and use ml engineering platforms and componentsltligtltligtscaling machine learning algorithms to work on massive data sets and strict slasltligtltligtbuild and orchestrate model pipelines including feature engineering inferencing and continuous model trainingltligtltligtimplement ml ops including model kpi measurements tracking model drift ampamp model feedback loopltligtltligtcollaborate with client facing teams to understand business context at a high level and contribute in technical requirement gatheringltligtltligtimplement basic features aligning with technical requirementsltligtltligtwrite productionready code that is easily testable understood by other developers and accounts for edge cases and errorsltligtltligtensure highest quality of deliverables by following architecturedesign guidelines coding best practices periodic designcode reviewsltligtltligtwrite unit tests as well as higher level tests to handle expected edge cases and errors gracefully as well as happy pathsltligtltligtuses bug tracking code review version control and other tools to organize and deliver workltligtltligtparticipate in scrum calls and agile ceremonies and effectively communicate work progress issues and dependenciesltligtltligtconsistently contribute in researching ampamp evaluating latest architecture patternstechnologies through rapid learning conducting proofofconcepts and creating prototype solutionsltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligt years experience in deploying and productionizing ml modelsltligtltligtbachelors degreeltligtltligtexpertise in crafting ml models for high performance and scalabilityltligtltligtexperience in the followingltligtltligtimplementing feature engineering inferencing pipelines and real time model predictionsltligtltligtml ops to measure and track model performancespark or other distributed computing frameworksltligtltligtstrong programming expertise in python scala or javaltligtltligtml platforms like sagemaker mlflow kubeflow or other platformsltligtltligtdeploying models to cloud services like aws azure gcpltligtltligtgood fundamentals of machine learning and deep learningltligtltligtknowledgeable of core cs concepts such as common data structures and algorithmsltligtltligtcollaborate well with teams with different backgrounds expertise functionsltligtltulgtltpgtltemgta plusltemgtltpgtltulgtltligtunderstanding of devops ci cd data security experience in designing on cloud platformltligtltligtexperience in data engineering in big data systemsltligtltligtwillingness to travel to other global offices as needed to work with client or other internal project teamsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T12:39:35.000Z"
+  },
+  "company": {
+    "name": "Career Techniques Inc.",
+    "link": "https://www.linkedin.com/company/career-techniques-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

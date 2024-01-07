@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cellular System Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtin this role you will be at the center of a silicon design group responsible for designing and productizing state of the art cellular socs as a cellular system engineer you will be responsible for architecture simulation bringup and validation of endtoend cellular systemsltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtexperience in design and bringup of wireless communication systems with experience in cellular systems preferred ltbrgtltbrgtgood understanding of communication theory and signal processing agc beamforming tx power control mitigation of radio impairments calibration algorithms ltbrgtltbrgtstrong technical background in gnrlteumts gg physical layer and protocols is a plusltbrgtltbrgtexperience with silicon prototyping emulation systems and virtual platforms a plusltbrgtltbrgthands on experience in bring up of real silicon in lab ability to efficiently use lab equipment such as spectrum analyzer signal generator power meter etcltbrgtltbrgtgood experience with matlab python and cc and efficient analysis and automation scriptingltbrgtltbrgtstrong working knowledge of multiple gg signaling and physical layer test equipment keysightanritsurampamps along with their automation interfaces is a plusltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgt understanding and mapping of systems algorithms and requirements to hwfw architectureltbrgtltbrgt simulation based validation of the control flows and algorithmsltbrgtltbrgt implement fixedpoint models and perform detailed performance investigation to allow performance signoff and enable rtl bitexact developmentltbrgtltbrgt presilicon prototyping and emulation based bringup and validation of the cellular systemltbrgtltbrgt bringup of the cellular endtoend system including characterization and optimization of performance in the labltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtms or phd with years experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:35:08.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

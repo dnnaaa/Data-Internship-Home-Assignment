@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Medical Devices,Biotechnology,Pharmaceuticals",
+    "description": "ltstronggtltugtgeneral descriptionltbrgtltbrgtltugtltstronggtmanage the company enterprise data warehouse edw ensure data is sourced appropriately and data is cleaned validated reconciled and ready to use for analytics lead data governance efforts this role is preferably located in the leihi utah area we may consider remote worker candidates who can be in lehi ut on a frequent and as need basis preference is to be on premise at company hqltbrgtltbrgtltstronggtltugtessential duties and job functionsltbrgtltugtltstronggtltulgtltligtbuild data systems and pipelines scope define and document data warehousingextract transform load etl requirements through implementation and testing identify opportunities for data acquisition such as writing application program interfaces api to obtain delivery statuscosts for all fedex shipments provide production support to ensure stability and efficiencyltligtltligtedw management manage enterprise data warehouse edw architecture and improve performance implement database technology solutions that are robust and scalable based on the business requirementltligtltligtedw performance analysis establish measures to chart progress related to completeness and quality of data and metadata for enterprise information to support reduction of data redundancy and fragmentation elimination of unnecessary movement of data and improvement of data quality stand up design review board for analytics and data platforms using industry best practices ltligtltligtreconcileqa data develop automated systems to monitor data integrityquality and data lineage able to validate and reconcile big data setsltligtltligtdatabase admin develop implement and monitor database backup and recovery procedures design and document process to manage users and permissionsltligtltligtdata governance establish standards processes and tools for data strategy data life cycle data ownership data definition and data classification to be used across the organization define the process to resolve crossorganizational data management issues ensure departmentalsoftware development standards are being followed by the teamltligtltligtdata solutions lead research design and implementation of maintainable scalable reusable and performant software solutions that meet functional and nonfunctional requirements and that are aligned with strategic directionltligtltligtcontinuous improvement contribute to the continuous improvement of the overall data infrastructure identify ways data can be more accurate trustworthy and timely provide thought leadership around best practices and emerging concepts in data ampamp analytics domain find opportunities for automating operational database activities to enable the organization to scale and reduce costsltligtltligtperform other duties as requiredltbrgtltbrgtltligtltulgtltstronggtltugtminimum qualificationsltbrgtltugtltstronggtltulgtltligt years relevant experienceltligtltligtexcellent programming skills in writing complex stored procedures queries views user defined functions cursors and common table expressions using sqlltligtltligtmust have demonstrated the ability to solve complex problems with minimal directionltligtltligtability to balance multiple tasks simultaneouslyltligtltligtextreme attention to detail and data accuracyltligtltligtstrong interpersonal and communication skillsltligtltligtbachelors degree in analytics mathematics computer science engineering business or related fieldltligtltligtexperience with snowflake talend vba python json andor bash a plusltbrgtltbrgtltligtltulgtltstronggtltugtknowledge skills and abilitiesltbrgtltbrgtltugtltstronggtphysical demands and work environmentltbrgtltbrgtthe physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position reasonable accommodations may be made to enable individuals with disabilities to perform the functions while performing the duties of this position the employee is regularly required to talk or hear the employee frequently is required to use hands or fingers handle or feel objects tools or controls the employee is occasionally required to stand walk sit and reach with hands and armsltbrgtltbrgtpowered by jazzhrltbrgtltbrgtkurmghcvio",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T07:13:10.000Z"
+  },
+  "company": {
+    "name": "Grimaldi Staffing Services",
+    "link": "https://www.linkedin.com/company/grimaldi-staffing-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ServiceNow Developer",
+    "industry": "Information Technology and Services,Government Administration",
+    "description": "ltpgtltstronggtltugtjob descriptionltugtltstronggtltpgtltpgtltbrgtltpgtltpgtltstronggtltugtrequired us citizen onlyltugtltstronggtltpgtltpgtltbrgtltpgtltpgt actively participate in agile daily scrums and ceremonies updating stories daily in snow documenting development progress and collaborating across platform teamsltpgtltpgt support and participate in customer requirement workshops working with product ownerstakeholders to configure requested items and tasks using flow designer to manage processes and meet business requirementsltpgtltpgt develop applications scoped and out of the box working with servicenow studioltpgtltpgt design create and configure notifications ui pages ui macros script includes formatters etcltpgtltpgt design create and configure business rules ui policies ui actions client scripts and acls including advanced scripting of each including cmsservice portalltpgtltpgt support in the development of use cases and testing procedures ensuring product functionality debugging and testing is completed prior to production deploymentltpgtltpgt create and maintain system design and operations documentationltpgtltpgt build automated testing in servicenow atfltpgtltpgt ensure all development is created in alignment with servicenow technical best practicesltpgtltpgtltbrgtltpgtltpgtltstronggtltugteducation and requirements ltugtltstronggtltpgtltpgtltbrgtltpgtltpgt minimum of bachelors degree or equivalency and years experienceltpgtltpgt extensive understanding of the ways in which servicenow can be configured and customized and scripting within the toolltpgtltpgt experience integrating servicenow with external systems through soap or rest web servicesltpgtltpgt experience with the servicenow studio ideltpgtltpgt experience using the workflow editor to configure workflowsltpgtltpgt experience with html java javascript jquery css angularjsltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:28:31.000Z"
+  },
+  "company": {
+    "name": "The Judge Group",
+    "link": "https://www.linkedin.com/company/the-judge-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Virginia",
+    "region": "United States",
+    "postal_code": "23038",
+    "street_address": null,
+    "latitude": 37.512905,
+    "longitude": -78.697624
+  }
+}

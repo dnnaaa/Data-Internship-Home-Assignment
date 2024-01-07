@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Site Reliability Engineer, Factory Software Systems",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "roleltbrgtltbrgtthe ignition support team at tesla manages our ignition deployment and infrastructure as an sre on the ignition support team youll be responsible for automating the deployment configuration management and monitoring of ignition as well as troubleshooting issues with the ignition application and assisting us with upgrading to version ltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtsupport our ignition deployment and infrastructure in every way possibleltligtltligt to ensure its reliability availability and securityltligtltligtassist software controls manufacturing and other engineering teams with onboarding to ignitionltligtltligtautomate deployment configuration management and monitoring of ignitionltligtltligtensure best practices and observability of the ignition such as metrics logging tracing and alertingltligtltligtconsult on and design infrastructure systems and application architecturesltligtltligthelp develop automation for ignition ltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtexperience with virtualization vsphereltligtltligtexpert skills in linux and its administration ubuntu ltligtltligtunderstanding of networking routingswitching vlans firewalls and load balancersltligtltligtexperience in a highlevel language such as go python andor javaltligtltligtobservability influxdb kapacitor prometheus alertmanager grafana andor splunkltligtltligtinfrastructure as code terraformansibleltligtltligtcicd pipeline experience github enterpriseltligtltligtartifact management artifactoryltligtltligtbaremetal imaging experience ubuntu netboot pxeltligtltligtstrong bias for action vs endless planning willing to get hands dirty and make mistakes sometimesltligtltligt years as devopssite reliability engineerltligtltligthabitual documenter and spreader of knowledgeltligtltligtwilling to mentor other team members and engineers with less sreit type knowledgeltligtltligtcomfortable on an oncall rotationltligtltligtcomfortable doing live troubleshooting of issues on noc bridgesoutage callsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-22T05:58:53.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

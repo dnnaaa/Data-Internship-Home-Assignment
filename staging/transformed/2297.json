@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtltugtprojects the candidate will be working onltbrgtltugtltstronggtltulgtltligtprovide support for production aws cloud environments for a state government customerltbrgtltligtltulgtltstronggtltugtideal backgroundltbrgtltugtltstronggtltulgtltligthealthcare is a plus but the ideal background is several years experience working in aws supporting production workloadsltbrgtltligtltulgtltstronggtltugtteam and team sizeltbrgtltugtltstronggtltulgtltligtcurrent team is members with a mixture of people being on and offshore all the team members are devops engineers that are supporting the production environments ltbrgtltligtltulgtltstronggtltugttop responsibilitiesltbrgtltugtltstronggtltulgtltligtwork closely with the product support teams to be able to troubleshoot production issuesltligtltligtbe able to deploy new releases or hotfixes to a linux environmentltligtltligtable to create new automation jobs to assist with common tasksltligtltligtbe able to manage an oracle database so that new scripts can be run against it as well as perform adhoc queriesltligtltligtability to manage usersrole on ad oracle database operating systemltligtltligtability to triage infrastructure issues on prodltligtltligtsupport all production services o ec ebs s efs cloudfront waf alb secretsmanagercloudtrail cloudwatch dynamodb redis sqs ses sns iam inspector gaurdduty workspaces certificate manager directory services lambda aws batch step function vpc sg nacl disaster recovery kms oracleltbrgtltligtltulgtltstronggtltugtskillsattributes requiredltbrgtltugtltstronggtltulgtltligtlinux hands on comfortable with command line yearsltligtltligtaws management yearsltligtltligtoracle yearsltbrgtltligtltulgtltstronggtltugtskillsattributes preferredltbrgtltugtltstronggtltulgtltligtthe more experience with aws setting up and managing services the betterltbrgtltligtltulgtltstronggtltugtworking timeltbrgtltugtltstronggtltulgtltligtability to work night shifts would be idealltbrgtltligtltulgtltstronggtltugtinterview processltbrgtltugtltstronggtltulgtltligthow many rounds technical managerltligtltligtvideo phone or in person videophoneltligtltligthow technical will the interviews be veryltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:01:13.000Z"
+  },
+  "company": {
+    "name": "Horizontal Talent",
+    "link": "https://www.linkedin.com/company/horizontal-talent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "job type freelance contract position no agencies see notes belowltbrgtltbrgtlocation remote usa and canada onlyltbrgtltbrgthourly range our client is looking to pay usd hrltbrgtltbrgtestimated duration hrsweek long term ongoing projectltbrgtltbrgtltstronggtltugtabout usltbrgtltbrgtltugtltstronggthighlevel qualificationsltbrgtltbrgtbraintrust usebraintrustcom is a usercontrolled talent network where you keep of what you earn and actually get to own the platform weve been onboarding some big clients and specifically need a ltstronggtmachine learning data engineer ltstronggtfor our clientltbrgtltbrgtltstronggtltugtposition summaryltugtltstronggt ltulgtltligtwayfairs customercentric marketing team has built centralized codebases which automateltligtltulgtltligtbuilding features for ml models andltligtltligtdeploying models into productionltligtltulgtltligtusing these and other automation tools we have made it manageable for each individual data scientist to own and manage dozens of models in productionltligtltligthowever the process of generating training labels has remained an adhoc process without equivalently nice tools ltligtltligtwe are looking for a contractor to join the marketing data science team to build a selfservice tool for defining how training labels are generated which will allow users to share patterns and best practices across projects ltbrgtltligtltulgtltstronggtltugttechnical skillsltugtltstronggt ltulgtltligtcommercial experience in working with dataproc bigquery and airflow in google cloud platformltligtltligtstrong programming skills in python and some experience with a the pyspark and bigquery python apis and b python machine learning ecosystemltligtltligtexperience with cicd environment such as jenkins or buildkite version control git containerization docker and artifact management such as pypiltligtltligtbonusltligtltulgtltligtexperience working with event data in a data lakeltligtltulgtltligtfamiliarity with databuildtooldbt kedro and similar technologies ltbrgtltligtltulgtltstronggtdeliverables and outcomesltbrgtltstronggtltulgtltligta selfservice tool that allows data scientists data engineers and ml engineers on the marketing data science team to define and version code that generates their training labels while allowing for code reuse between projects and usersltligtltligtcross platform support on bigquery and dataproc for delivering the final training labels ltbrgtltligtltulgtltstronggtltugtabout the hiring processltbrgtltbrgtltugtltstronggtqualified candidates will be invited to do a screening interview with the braintrust staff we will answer your questions about the project and our platform if we determine it is the right fit for both parties well invite you to join the platform and create a profile to apply directly for this projectltbrgtltbrgtcc candidates this role is not available to cc candidates working with an agency if you are a professional contractor who has created an llccorp around their consulting practice this is well aligned with braintrust and wed welcome your applicationltbrgtltbrgtbraintrust values the multitude of talents and perspectives that a diverse workforce brings all qualified applicants will receive consideration for employment without regard to race national origin religion age color sex sexual orientation gender identity disability or protected veteran status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T16:58:13.000Z"
+  },
+  "company": {
+    "name": "Braintrust",
+    "link": "https://www.linkedin.com/company/usebraintrust"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

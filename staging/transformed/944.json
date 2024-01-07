@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Computer Software,Information Technology and Services,Leisure, Travel &amp; Tourism",
+    "description": "ltstronggtltugtsoftware engineer iltbrgtltbrgtltugtltstronggtas a software development engineer in expedia groups platform ampamp marketplaces ecommerce loyalty team you will translate requirements into code perform testing and debugging tasks and develop software in conjunction with peers and mentors in a small team environment expect to become an integral part of the team communicating regularly with your teammates and adhere to software engineering processes established by the team as you gain in experience and knowledge you will be expected to propose improvements to designs and processesltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtyou will develop debug and modify components of software applications and toolsltligtltligtyou will resolve problems and roadblocks with help from peers andor managers follow through on details and drive issues to closureltligtltligtyou will actively participate as a key team member in code and design reviewsltbrgtltbrgtltligtltulgtltstronggtltugtwho you areltbrgtltugtltstronggtltulgtltligtbachelors degree in computer science mathematics or related technical field andor equivalent work experienceltligtltligtstrong communication skillsltligtltligtexperience using code versioning tools eg gitltligtltligtexperience with agile development methodologyltligtltligt years experience in software development in a team environment work experience or school projectsltligtltligtsolid experience in java or other objectoriented languages eg python c c etcltligtltligtwe work with the following technologies and expect basic understanding or strong willingness to learnltbrgtltulgtltligtrestful micro servicesltligtltligtjava kotlin and scala programming languagesltligtltligthtml csslesssassltligtltligtjavascriptjquery react nodejs qunit or javascript unit testingltligtltligtapache tomcat spring mvc spring boot maven or gradleltligtltligtaws ec s lambda dynamodb dockerltligtltligtworking knowledge of sql queriesltbrgtltbrgtltligtltulgtltligtltulgtltstronggtltugtabout expedia groupltbrgtltbrgtltugtltstronggtexpedia group nasdaq expe powers travel for everyone everywhere through our global platform driven by the core belief that travel is a force for good we help people experience the world in new ways and build lasting connections we provide industryleading technology solutions to fuel partner growth and success while facilitating memorable experiences for travelers expedia groups family of brands includes brand expedia hotelscom expedia partner solutions vrbo egencia trivago orbitz travelocity hotwire wotif ebookers cheaptickets expedia group media solutions expedia local expert carrentalscom and expedia cruisesltbrgtltbrgt expedia inc all rights reserved trademarks and logos are the property of their respective owners cst ltbrgtexpedia is committed to creating an inclusive work environment with a diverse workforce all qualified applicants will receive consideration for employment without regard to race color religion gender gender identity or expression sexual orientation national origin genetics disability age or veteran status this employer participates in everify the employer will provide the social security administration ssa and if necessary the department of homeland security dhs with information from each new employees i to confirm work authorization",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-07T17:30:32.000Z"
+  },
+  "company": {
+    "name": "Expedia Group",
+    "link": "https://www.linkedin.com/company/expedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78400,
+    "max_value": 141000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

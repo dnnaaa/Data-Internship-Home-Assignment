@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Blockchain",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "we are mythical games a venturebacked nextgeneration game technology company at the intersection of video games and economics led by industry veterans our goal is to lead the industry with the launch of exceptional video game experiences that leverage distributed ledger technology dlt while also providing a platform of robust tools that will allow any other game developers to do the sameltbrgtltbrgtwe are looking for a talented and driven blockchain engineer who will be responsible for designing building and maintaining mythicals game platform offerings this position is blockchain focused and a successful candidate will have an interest and understanding of some of the following ltbrgtltbrgtltulgt ltligt byte serialization for various specifications ltligt ltligt designing maintaining and deploying smart contractsltligt ltligt focus on security and best practices for contract developmentltligt ltligt configuring and deploying nodes in a networkltligt ltligt reliable state managementltligt ltligt developing higherlevel apis on top of blockchain primitivesltligt ltligt interoperability ltligt ltligt staying current with the latest blockchain developmentsltligt ltligt primarily elixir async backend systems to handle blockchain ltligt ltbrgtltulgtrequired experienceltbrgtltbrgtltulgt ltligt bs or greater preferably in a science or engineering disciplineltligt ltligt years of professional experience in software developmentltligt ltligt deep knowledge of elixir rust solidity c or javascriptltligt ltligt handson engineering experience and expertise in one or more of the following blockchain technologies ethereum or eosltligt ltligt experience developing for a multitenant cloud environment aws gcp azureltligt ltligt experience with docker and kubernetesltligt ltligt experience designing and developing for large horizontally scalable hightransaction volume systemsltligt ltligt selfdriven able to innovate plan and execute with autonomyltligt ltbrgtltulgtour team values diversity and believe that it strengthens our games products and communities we strongly encourage poc folks with disabilities those belonging to the lgbtqia communities and folks across all gender identities to applyltbrgtltbrgtwe offer our team benefits such as but not limited to highquality vision dental and health care generous parental leave and unlimited pto to ensure that they actually take time off without the stress of needing to accrue timeltbrgtltbrgtif you need assistance around accommodations due to a disability please reach out to accessibilitymythicalgames well be with you as soon as possible our goal is to ensure an accessible and equitable interview process for everyone",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T05:15:31.000Z"
+  },
+  "company": {
+    "name": "Mythical Games",
+    "link": "https://www.linkedin.com/company/mythical"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

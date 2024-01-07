@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevSecOps Engineer / Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "at ford motor company we believe freedom of movement drives human progress we also believe in providing you with the freedom to define and realize your dreams with our incredible plans for the future of mobility we have a wide variety of opportunities for you to accelerate your career potential as you help us define tomorrows transportationltbrgtltbrgtin enterprise connectivity we create lifetime value for our customers by delivering sticky connected experiences and solutions that are purposeful and differentiated with simplicity and ingenuity to generate sustainable returns for ford we equip the enterprise to derive value from connected vehicle data to generate sustainable savingsltbrgtltbrgtin this position youll be involved in crossenterprise initiatives and largescale vehicle and product launches driving site reliability engineering sre and devsecops principles culture tools and processes we have multiple openings on multiple teamsltbrgtltbrgtwere not just building a product were building a community of expertise and engagement around site reliability and devsecops at fordltbrgtltbrgtltstronggtltugtwhat youll be able to doltbrgtltugtltstronggtltulgtltligtsupport and develop automation solutions that enable our product teams to build and deploy code efficiently and consistently ltligtltligtuse metrics to validate needs and drive technical decisions ltligtltligtensure that ford systems have reliability and availability appropriate for customer needs ltligtltligtpromote sre and devsecops principles and culture ltligtltligtencourage tool adoption to help teams with their observability and automation needs ltligtltligtleverage and recommend cloud technologies that result in fast provisioning and appropriate reliability ltligtltulgtltstronggtthe minimum requirements we seekltbrgtltstronggtltulgtltligtbachelors degree in computer science computer engineer software engineering or a related scientific fieldltligtltligt years of work experience implementing andor supporting cloudbased platforms in an enterprise environment such as google cloud platform gcp amazon web services aws or microsoft azure ltligtltligt years of experience building and configuring continuous integrationcontinuous delivery cicd pipelines with tools like jenkins tekton circle ci concourse or others ltligtltligt years of experience working with container environments like kubernetes or openshift ltligtltligt years of experience with infrastructure as code tools like terraform or helm ltligtltulgtltstronggtour preferred requirements ltbrgtltstronggtltulgtltligt years of experience using tools like prometheus grafana dynatrace datadog or others for monitoring debugging and troubleshooting distributed systems ltligtltligtexperience spreading sre and devsecops culture across large organizations ltligtltligtexcellent communication skills ltligtltligtstrong knowledge of cloud infrastructure application monitoring and cloud deployment practices ltligtltligtexperience designing writing supporting and troubleshooting software and systems in a distributed environment ltligtltligtfamiliarity with extreme programming xp practices including pairmob programming and testdriven development ltbrgtltligtltulgtltstronggtltugtwhat youll receive in returnltbrgtltbrgtltugtltstronggtas part of the ford family youll enjoy excellent compensation and a comprehensive benefits package that includes generous pto retirement savings and stock investment plans incentive compensation and much more youll also experience exciting opportunities for professional and personal growth and recognitionltbrgtltbrgtif you have what it takes to help us redefine the future of mobility wed love to have you join usltbrgtltbrgtvisa sponsorship may be available for this positionltbrgtltbrgtwe are an equal opportunity employer committed to a culturally diverse workforce all qualified applicants will receive consideration for employment without regard to race religion color age sex national origin sexual orientation gender identity disability status or protected veteran statusltbrgtltbrgtltemgtfor information on fords salary and benefits please visit ltemgthttpscorporatefordcomcontentdamcorporateusenusdocumentscareersbenefitsandcompgsrsalplanpdf",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-10T02:27:39.000Z"
+  },
+  "company": {
+    "name": "Ford Motor Company",
+    "link": "https://www.linkedin.com/company/ford-motor-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dearborn",
+    "region": "MI",
+    "postal_code": "48120",
+    "street_address": null,
+    "latitude": 42.32214,
+    "longitude": -83.17594
+  }
+}

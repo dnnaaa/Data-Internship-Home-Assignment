@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtjob titleltstronggt senior site reliability engineerltpgtltpgtltstronggtjob locationltstronggt remoteltpgtltpgtltstronggtjob typeltstronggt permanentltpgtltpgtltstronggtsalaryltstronggt k plus benefits and sign on bonusltpgtltpgtltbrgtltpgtltpgtjob overview our client is seeking a senior site reliability engineer for a directhire opportunity this sre role requires object oriented programming skills since the sre applies full lifecycle software development techniques production operation from scaling to handle big data analytics to building resilient reliable infrastructure for multiple data centers and multiple cloud platformsltpgtltpgtltbrgtltpgtltpgtthe sres are embedded in their perspective product working the fulllifecycle of each product you will be working closely with them to design code test run and evolve our systems we work closely with dozens of teams to drive the adoption of modern reliability practices like slos error budget policies actionable alerts followthesun oncall incident retrospectives chaos testing with endtoend ownership sres are crucial contributors to nearly every product team that has big traffic big data or high availability and performance requirementsltpgtltpgtltbrgtltpgtltpgtresponsibilitiesltpgtltulgtltligtdesign develop ship and motivate the creation of software and systems to increase product reliability and organizational efficiencyltligtltligtguide reliability practices through the entire software development lifecycle through activities like architecture reviews code reviews creating platforms and frameworks capacity planning and chaos testingltligtltligtmaintain service health through monitoring and followthesun incident responseltligtltligtimprove service reliability through blameless postincident reviews and using cde to prevent or respond to problem recurrenceltligtltligtabout youltligtltligtmulty what cloud platformltligtltligtexperience writing code in java go shell perl python r ruby or a similar languageltligtltligtexperience in data structures algorithms and software designltligtltligtability to debug optimize code and automate routine tasksltligtltligtstrong interest in sre topics like slos resilience scaling performance and moreltligtltulgtltpgtltbrgtltpgtltpgttechnology stackltpgtltulgtltligtlanguages java python go php r rubyltligtltligtapache projects used hadoop kafka mahout mesos tomcat lucene spark ant ivy stormltligtltligtalgorithms inverted index distributed systems compression functional programming java etc mapreduceltligtltligtapis rest api and data extract api google api such as google maps etcltligtltligtfrontend javascript html cssltligtltligtjavascript libraries jquery react redux google closureltligtltligtwebapp technologies spring framework bootstrap frontend framework django frameworkltligtltligtdatabases hbase hadoop mongodb mysql nosql hdfs hadoop distributed storage redisltligtltligtstorage framework hadoopltligtltligtdata analytics imhotep pigltligtltligtmessage broker rabbitmq resqueltligtltligtsearch engine elasticsearchltligtltligtdistributed caching platform memcachedltligtltligtversion control gitltligtltligtcontinuous integration jenkinsltligtltligtsoftware containerization platform dockerltligtltligtmobile os ios androidltligtltligtclient technologies imhotep proctor boxcarltligtltligtanomaly detection written in python twitters anomalydetection and breakoutdetectionltligtltulgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtthank youltpgtltpgtdeepak sharmaltpgtltpgtdeepaksharmamatrixrescomltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T16:48:12.000Z"
+  },
+  "company": {
+    "name": "MATRIX Resources",
+    "link": "https://www.linkedin.com/company/matrix-resources"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

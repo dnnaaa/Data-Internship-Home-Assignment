@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Grad",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtwho we areltbrgtltbrgtltugtltstronggtnuro exists to better everyday life through robotics we have an elite team of entrepreneurs and engineers designers and scientists we believe ai and robotics are at the cusp of transforming daily life and we are dedicated to building meaningful products with this technology join us and play a critical role in our missionltbrgtltbrgtjoin us in our mission as youll play a significant role in our development and impact on everyday livesltbrgtltbrgtltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtour software team is growing and we are looking for talented engineers who are graduating by june to join us and be instrumental to one of the following areas product engineering infrastructure embedded systems machine learning mapping ampamp localization perception prediction or planning ampamp controlsltbrgtltbrgtltstronggtltugtabout the workltbrgtltbrgtltugtltstronggtdepending on your skillset and areas of interest you will work on some or all of the followingltbrgtltulgt ltligtltstronggtproduct engineeringltstronggt building a robust and automated service for our clients partners and customers including backend frontend and fullstack softwareltligt ltligtltstronggtinfrastructure ltstronggtbuilding foundational software to support product engineering autonomy hardware and operations including but not limited to storage systems processing pipelines security bot connectivity simulation data collection and machine learning infrastructureltligt ltligtltstronggtsite reliability engineering ltstronggtproviding a solid foundation of infrastructure through metrics monitoring operational support and collaboration with infrastructure teams this team is where everything comes togetherltligt ltligtltstronggtsecurity ltstronggtarchitects and builds our security infrastructure and processes ltligt ltligtltstronggtembedded systemsltstronggt design the brain stem software of nuros robots the critical code that makes the robot sense and move in the worldltligt ltligtltstronggtautonomyltstronggtltligtltulgtltulgt ltligtltstronggtmachine learningltstronggt work across the software organization to research and develop novel machine learning methods and algorithmsltligt ltligtltstronggtmapping ampamp localizationltstronggt research develop and deploy algorithms to resolve largescale mapping and realtime localization problems for our fleet of selfdriving delivery robotsltligt ltligtltstronggtperceptionltstronggt research develop and deploy algorithms to understand the scene around the robot from sensor data resolve realworld perception problems like object detection tracking and classification using computer vision machine learning sensor fusion and state estimationltligt ltligtltstronggtpredictionltstronggt develop novel algorithms that process large amounts of realworld data to train and tune behavior models for a variety of agents around our autonomous vehiclesltligt ltligtltstronggtplanning ampamp controlltstronggt work on manipulating and controlling our selfdriving vehicles including path planning navigation optimization and controlltligt ltulgt ltbrgtltbrgtltstronggtltugtabout youltbrgtltugtltstronggtltulgt ltligtyou are a current bachelors degree or masters degree candidate in computer science electrical engineering robotics or related field graduating before june phd candidates please apply to specific phd jobsltligt ltligtyou have experience in one or more of the following areas backend api design applications development largescale distributed systems data storage and processing systems advanced algorithms using c and python machine learning multithreading x architecture and software performance tuning and optimization robotics software frameworks different compute modalities cpu gpu fpga etcltligt ltligtyou have strong problem solving and programming skillsltligt ltligtyou are passionate about our mission to accelerate the benefits of robotics for everyday lifeltligt ltbrgtltulgtltemgtat nuro we celebrate differences and are committed to a diverse workplace that fosters inclusion and psychological safety for all employees nuro is proud to be an equal opportunity employer and expressly prohibits any form of workplace discrimination based on race color religion gender sexual orientation gender identity or expression national origin age genetic information disability veteran status or any other legally protected characteristicsltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T05:08:33.000Z"
+  },
+  "company": {
+    "name": "Nuro",
+    "link": "https://www.linkedin.com/company/nuro-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 122000,
+    "max_value": 163000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

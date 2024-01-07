@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Research Scientist, Circuit Design",
+    "industry": "Internet",
+    "description": "facebooks mission is to give people the power to build community and bring the world closer together through our family of apps and services were building a different kind of company that connects billions of people around the world gives them ways to share what matters most to them and helps bring people closer together whether were creating new products or helping a small business expand its reach people at facebook are builders at heart our global teams are constantly iterating solving problems and working together to empower people around the world to build community and connect in meaningful ways together we can help people build stronger communities were just getting startedltbrgtltbrgtfacebook arvr focuses on delivering facebooks vision through augmented reality ar and virtual reality vr the compute performance and power efficiency requirements of virtual and augmented reality require custom silicon facebook silicon team is driving the state of the art forward with breakthrough work in computer vision machine learning mixed reality graphics displays sensors and new ways to map the human body our chips will enable ar and vr devices where our real and virtual world will mix and match throughout the day we believe the only way to achieve our goals is to look at the entire stack from transistor through architecture to firmware and algorithms on this role you will work with a worldclass group of researchers creating low power and energy efficient circuits and systems in advanced cmos process nodes for our next generation arvr integrated systems this role is based out of our menlo park ca campusltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtdesign and develop new circuit architectures for low power integrationltligtltligtchip top level architecture descriptionltligtltligtestimate at architectural level architecture and emerging technologies performancesltligtltligtfunctional verification at rtl levelltligtltligtexplore applications mapping at hw level to estimate performancesltbrgtltligtltulgtltstronggtminimum qualificationltbrgtltstronggtltulgtltligtphd in ee or equivalent experienceltligtltligt years experience as an ic research designer and architect with digitalmixed signal experienceltligtltligtexperience with chip design flow and chips tapeoutltligtltligtexperience in mixedsignal design and top level mixedsignal integration constraintsltbrgtltligtltulgtltstronggtltugtpreferred qualificationltbrgtltugtltstronggtltulgtltligtexposure to new emerging technologies like d integration and nonvolatile memoriesltligtltligtexperience with embedded learning architectures and circuits or ar applicationsltbrgtltligtltulgtfacebook is proud to be an equal opportunity and affirmative action employer we do not discriminate based upon race religion color national origin sex including pregnancy childbirth or related medical conditions sexual orientation gender gender identity gender expression transgender status sexual stereotypes age status as a protected veteran status as an individual with a disability or other applicable legally protected characteristics we also consider qualified applicants with criminal histories consistent with applicable federal state and local law facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process if you need any assistance or accommodations due to a disability please let us know at accommodationsextfbcom",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:13:24.000Z"
+  },
+  "company": {
+    "name": "Facebook",
+    "link": "https://www.linkedin.com/company/facebook"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 122000,
+    "max_value": 239000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

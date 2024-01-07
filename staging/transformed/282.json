@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (Node.js)",
+    "industry": "Entertainment",
+    "description": "ltpgtnbcuniversals operations ampamp technology media engineering group is responsible for the design implementation and operation of services key to the processing and delivery of content for nbcuniversals consumerfacing digital products and experiences our group of product managers software engineers software quality engineers and operations folks are based in new york city area los angeles belarus and points in betweenltpgtltpgtltbrgtltpgtltpgtwe are looking for an experienced ltstronggtnodejsltstronggt software engineer with a broad background to participate in the ongoing development of a very large microservicesbased system we have a very collaborative environment and a distributed team and we need an experienced engineer who can influence and educate their fellow technologists we are a mature agilescrum shop and work in twoweek sprintsltpgtltpgtltbrgtltpgtltpgtthe ltstronggtsenior software engineerltstronggt willltpgtltpgt develop highly scalable services following a microservice architectureltpgtltpgt design develop and deliver software on progressive and growing platforms primarily using ltstronggtaws lambda and nodejsltstronggtltpgtltpgt implement and troubleshoot suggest necessary features and identifying enhancement opportunitiesltpgtltpgt complete tasks as part of an agile team and adapt to dynamic business requirementsltpgtltpgt closely partner with other software engineers and software quality engineers and engage in team effortsltpgtltpgt work with architecture and engineering teams to produce highquality technology solutionsltpgtltpgtltbrgtltpgtltpgtltstronggtqualificationsrequirementsltstronggtltpgtltpgt must have a bachelors degree in computer science or equivalent work experienceltpgtltpgt must have ltstronggt yearsltstronggt of experience in the fieldltpgtltpgt must have handson experience building serverless applications using ltstronggtaws lambda and nodejs ltstronggtusing best practicesltpgtltpgt must have handson experience with aws cloud infrastructure as well as different aws services such as ltstronggtlambda sqs sns kinesis dynamodb elasticsearch api gateway cloudformationltstronggtltpgtltpgt must have handson experience with ltstronggtnosqlltstronggt databases as well as with relational databasesltpgtltpgt must have handson experience building low latency and high throughput transactional services with continuous integration and automation testingltpgtltpgt must have experience leading software development teams that have automated qa testing in an agilescrum settingltpgtltpgt must have experience collaborating and contributing insights to solution design ensuring success of the product and adherence to enterprise architecture principlesltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T00:03:50.000Z"
+  },
+  "company": {
+    "name": "NBCUniversal Media, LLC",
+    "link": "https://www.linkedin.com/company/nbcuniversal-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92500,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood Cliffs",
+    "region": "NJ",
+    "postal_code": "07632",
+    "street_address": null,
+    "latitude": 40.880516,
+    "longitude": -73.951256
+  }
+}

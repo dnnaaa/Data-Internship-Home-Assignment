@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "ains has an exciting opening for a ltstronggtmachine learning engineerltstronggt specializing in designing developing and deploying ai modelsltbrgtltbrgtwe are looking for an aiml engineer with a specialization in nlp based applications to join a team of data scientists in designing and developing advanced technologybased solutions for contract research and development projects and then applying these solutions to the design and deployment of missionfocused systemsltbrgtltbrgtthe ltstronggtmachine learning engineerltstronggt will work with a team of system engineers to help design subsystems and components work with other senior data scientists to expand on existing aiml models and to evaluate third party servicesltbrgtltbrgtltstronggtcltstronggtltstronggt urrently all staff are telecommuting for the foreseeable future ltbrgtltbrgtltstronggtltstronggtltugtrequired skillsltbrgtltugtltstronggtltulgtltligtrelevant experience in building endtoend natural language processing applicationsltligtltligthandson experience with data modeling and data engineering feature engineering model lifecycle management and cloud infrastructure supervised and unsupervised deep learning algorithms such as convolutional neural networks cnns recurrent neural networks rnns like gated recurrent unitsgrus and longshort term memory lstms and working in data analysis modeling and visualization packages in deep learning frameworks like tensorflow keras and pytorch and developing or integrating analytics in programming languages such as pythonltligtltligtexperience with the following python libraries extensively numpy scipy scikitlearn pandas opencv matplotlibseabornltligtltligtexperience using python nlp toolkits like spacy nltk and stanzaltbrgtltligtltulgtltstronggtltugtadditional required skillsltbrgtltugtltstronggtltulgtltligtsupervised learning linear and logistic regression knn svms decision trees random forests gradient boostingltligtltligtunsupervised learning clustering algorithms like kmeans gaussian mixture modelltligtltligtbasics of linear algebra calculusltligtltligtback propagation loss cost accuracy gradient descent batching variancebias tradeoff regularization hyper parameter tuning dimensionality reductionltligtltligtsentence and document level embeddings wordvec bagofwords modelltligtltligtknowledge of autoencoders gans attention models and reinforcement learning is a plusltbrgtltligtltulgtltstronggtltugteducationltbrgtltugtltstronggtltulgtltligta degree in engineering computer science data science or a related discipline such as statistics or applied mathematicsltbrgtltligtltulgtltstronggtltugtclearanceltbrgtltbrgtltugtltstronggtltstronggtus citizen with an active or interim secret clearanceltbrgtltbrgtltstronggtsdl",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-14T06:59:57.000Z"
+  },
+  "company": {
+    "name": "AINS, Inc.",
+    "link": "https://www.linkedin.com/company/ains_inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

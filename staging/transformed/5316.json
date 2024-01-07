@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Solr DevOps/SRE Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtapples applied machine learning team has built systems for a number of largescale data science applications we work on many highimpact projects that serve various apple lines of business we utilise the latest in open source technology and as committers on some of these projects we are pushing the envelope working with multiple lines of business we manage many streams of applescale data we bring it all together and extract the value we do all this with an outstanding group of software engineers data scientists sredevops engineers and managersltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtexperience in managing large scale solr clustersltbrgtltbrgtexpertise in configuration management such as ansible salt for deploying configuring and managing servers and systemsltbrgtltbrgthave a passion for automation by creating tools using python java or other jvm languagesltbrgtltbrgtexperience deploying and managing cicd pipelinesltbrgtltbrgtexperience managing infrastructure in awsltbrgtltbrgthave a strong experience in managing distributed computing systems eg nosql cassandra hadoopltbrgtltbrgtstrong expertise in troubleshooting complex production issuesltbrgtltbrgtexperience in managing data ingestion pipelines for large big data infrastructureltbrgtltbrgtexpert understanding of unixlinux based operating systemltbrgtltbrgtexcellent problem solving critical thinking and interpersonal skillsltbrgtltbrgtthe candidate should be adapt at prioritizing multiple issues in a high pressure environmentltbrgtltbrgtshould be able to understand complex architectures and be comfortable working with multiple teamsltbrgtltbrgtability to conduct performance analysis and troubleshoot large scale distributed systemsltbrgtltbrgtshould be highly proactive with a keen focus on improving uptime availability of our missioncritical servicesltbrgtltbrgtcomfortable working in a fast paced environment while continuously evaluating emerging technologiesltbrgtltbrgtthe position requires solid knowledge of secure coding practices and experience with the open source technologiesltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgt monitor production staging test and development environments for a myriad of applications in an agile and multifaceted organization ltbrgtltbrgt you are an independent problemsolver who is selfdirected and capable of exhibiting deftness to handle multiple simultaneous competing priorities and deliver solutions in a timely mannerltbrgtltbrgt provide incident resolution for all technical production issues ltbrgtltbrgt create and maintain accurate uptodate documentation reflecting configuration and responsible for writing justifications training users in complex topics writing status reports documenting procedures and interacting with other apple staff and managementltbrgtltbrgt provide guidance to improve the stability security efficiency and scalability of systems ltbrgtltbrgt determine future needs for capacity and investigate new products andor features ltbrgtltbrgt strong troubleshooting ability will be used daily will take steps on their own to isolate issues and resolve root cause through investigative analysis in environments where the candidate has little knowledgeexperiencedocumentation ltbrgtltbrgt administer and ensure the accurate execution of the backup systems ltbrgtltbrgt provide x oncall support to handle urgent critical issuesltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs in computer science with years or ms plus years experience or related experienceltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgtexperience with kubernetes docker or other container orchestration frameworkltbrgtltbrgtexperience with big data technologies hadoop hive sparkltbrgtltbrgtexperience building and operating large scale search infrastructure ltbrgtltbrgtexperience in workflow and data pipeline orchestration oozie jenkins etcltbrgtltbrgtltbrgtapple is an equal opportunity employer that is committed to inclusion and diversity we also take affirmative action to offer employment and advancement opportunities to all applicants including minorities women protected veterans and individuals with disabilities apple will not discriminate or retaliate against applicants who inquire about disclose or discuss their compensation or that of other applicantsltbrgtltbrgtltbrgtapple participates in the everify program in certain locations as required by lawltbrgtltbrgtltbrgtapples committed to working with and providing reasonable accommodation to applicants with physical and mental disabilitiesltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:37:33.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtdoes serving ads to billions of search requests daily and finding the most relevant ads for a search page from billions of ads in s of milliseconds excite youltbrgtltbrgtthe sponsored products search relevance team owns identifying the relevant ads to surface to customers when they search for products on amazon we strive to understand our customers intent and identify relevant ads which enable them to discover new and alternate products this also enables sellers on amazon to showcase their products to customers which may at times be buried deeper in the search resultsltbrgtltbrgtour systems and algorithms operate on one of the worlds largest product catalogs matching shoppers with products with a high relevance bar and strict latency constraints we are a team of machine learning scientists and software engineers working on complex solutions to understand the customer intent and present them with ads that are not only relevant to their actual shopping experience but also nonobtrusive this area is of strategic importance to amazon retail and marketplace business driving long termgrowthltbrgtltbrgtwe are looking for a software engineer ml who can drive appropriate technology choices for the business you will build services to handle billions of requests per day while maintaining response latencies in milliseconds and meeting strict sla requirements it is quite routine for our systems to operate on massive datasets using distributed frameworks you will design and code troubleshoot and support high volume and low latency distributed systems the solutions you create would drive step increases in coverage of sponsored ads across the retail website and ensure relevant ads are served to amazons customers you will directly impact our customers shopping experience while helping our sellers get the maximum roi from advertising on amazon this role will provide exposure to cuttingedge innovations in product search information retrieval natural language processing nlp deep learning and image processingltbrgtltbrgtltbrgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligt programming experience with at least one modern language such as java c or c including objectoriented designltligtltligt bachelors degree in computer science related fields or years equivalent experience in software developmentltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligt industry experience in software developmentltligtltligt experience with machine learning in productionltligtltligt experience with big data technologies such as aws hadoop spark pig hive pig hive presto hbase etcltligtltligt excellent software systems design expereinceltligtltligt experience with ml librariesframeworks such as tensorflow aws sagemaker keras pytorch etcltligtltligt coursework or thesis in machine learning data mining information retrieval statistics or natural language processingltligtltligt advanced knowledge of performance scalability enterprise system architecture and engineering best practicesltbrgtltbrgtltligtltulgtltstronggtcompanyltstronggt amazoncom services llcltbrgtltbrgtjob id a",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T00:42:02.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65300,
+    "max_value": 101000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

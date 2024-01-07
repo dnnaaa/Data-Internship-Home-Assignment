@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Java Designer/Developer)",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "at ford motor company we believe freedom of movement drives human progress we also believe in providing you with the freedom to define and realize your dreams with our incredible plans for the future of mobility we have a wide variety of opportunities for you to accelerate your career potential as you help us define tomorrows transportationltbrgtltbrgtas a key member of our information technology group youll play a critical part in shaping the future of mobility if youre looking for the chance to leverage advanced technology to redefine the transportation landscape enhance the customer experience and improve peoples lives this is the opportunity for you join us and challenge your it expertise and analytical skills to help create vehicles that are as smart as you areltbrgtltbrgtltstronggtltugtwhat youll be able to doltbrgtltbrgtltugtltstronggtresponsible for designing and developing capabilities for a java application used for viewing requesting and using data exchange services at ford this role requires crossorganizational interaction communicating with users and ensuring the quality of existing and new capabilitiesltbrgtltulgtltligtwork with cross functional team members and business owners to identify requirementsltligtltligtdesigndevelop application capabilities from scratch including all front and backend aspectsltligtltligtcreate technical specifications and runbooksltligtltligtlead in testdriven developmentltligtltligtpartner with a technical anchor and architects to design the architectureltligtltligtassure correct security and data protection settings ltligtltligtresponsible for maintaining application endtoendltbrgtltligtltulgtltstronggtltugtthe minimum requirements we seekltbrgtltugtltstronggtltulgtltligtbachelors degree in information technology computer science or other scientific field of studyltligtltligt years of experience as a full stack java developer including design development and implementation which includes rest api based on spring boot microservices architecture and angular based ui development ltligtltligt years of experience with cicd tools jenkins github or nexus with code deployment in pivotal cloud foundryltligtltligt years of experience with codeapi security using sonarqube crunch or checkmarxltligtltligt years of experience with messaging interoperability with rabbit mq and experience with global applicationltbrgtltligtltulgtltstronggtltugtthe preferred requirements we seekltbrgtltugtltstronggtltulgtltligtself starter and problem solverltligtltligtexcellent verbal and presentation skillsltligtltligtjava certificationsltligtltligtfamiliar with agile methodology ltbrgtltligtltulgtltstronggtltugtwhat you will receive in returnltbrgtltbrgtltugtltstronggtas part of the ford family you will enjoy excellent compensation and a comprehensive benefits package that includes generous pto retirement savings and stock investment plans incentive compensation and much more you will also experience exciting opportunities for professional and personal growth and recognitionltbrgtltbrgtif you have what it takes to help us redefine the future of mobility we would love to have you join usltbrgtltbrgtcandidates for positions with ford motor company must be legally authorized to work in the united states verification of employment eligibility will be required at the time of hire visa sponsorship is not available for this position ltbrgtltbrgtwe are an equal opportunity employer committed to a culturally diverse workforce all qualified applicants will receive consideration for employment without regard to race religion color age sex national origin sexual orientation gender identity disability status or protected veteranltbrgtltbrgtfor information on fords benefits and compensation click here httpscorporatefordcomcontentdamcorporateusenusdocumentscareersbenefitsandcompgsrsalplanpdf",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T21:53:44.000Z"
+  },
+  "company": {
+    "name": "Ford Motor Company",
+    "link": "https://www.linkedin.com/company/ford-motor-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60100,
+    "max_value": 108000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dearborn",
+    "region": "MI",
+    "postal_code": "48120",
+    "street_address": null,
+    "latitude": 42.32214,
+    "longitude": -83.17594
+  }
+}

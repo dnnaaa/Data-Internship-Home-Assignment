@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Hospital &amp; Health Care",
+    "description": "ltpgtas a site reliability engineer you will be hands on in building maintaining and scaling current healths internal and customerfacing services this will includeltbrgtltbrgtltpgtltbrgtltulgt ltligtimproving and maintaining the availability performance security and scalability of the platformltligt ltligtbuild new and maintain existing platform infrastructure through the use of infrastructure as code configuration as code cicd and custom toolingltligt ltligtworking with software engineering teams on new system designs or rearchitecting existing services to meet new requirementsltligt ltligtproviding education documentation support and tooling to enable the software engineering teams in taking full ownership of their services from inception through development to production operationsltligt ltbrgtltulgtltpgtrequirementsltbrgtltbrgtltpgtltpgtltstronggtwhat experience would i needltbrgtltbrgtltstronggtltpgtltbrgtltulgt ltligtbroad commercial experience in aws services linux networking infrastructure as code configuration as code and managing distributed systemsltligt ltligtdevelopment experience in at least one modern high level programming language eg java python javascripttypescript goltligt ltligtexperience with service and microservice based distributed architecturesltligt ltligtan eye for both high level infrastructuralarchitectural optimisation opportunities and low level code and data level onesltligt ltligtan ability to methodically tackle problems with a large number of unknownsltligt ltligtan eye for detail from infrastructural to the code levelltligt ltulgtltbrgtltpgtltbrgtltbrgtltpgtltbrgtltpgtltstronggtwhat tech will i be usingltbrgtltbrgtltstronggtltpgtltbrgtltpgtinfrastructure ampamp configuration terraform puppet serverless framework cdkltbrgtltbrgtltpgtltbrgtltpgtlanguages java python typescript goltbrgtltbrgtltpgtltbrgtltpgtoperating systems ubuntu ltsltbrgtltbrgtltpgtltbrgtltpgtruntimes dockernomad on aws ec aws ecs fargate aws lambdaltbrgtltbrgtltpgtltbrgtltpgtdatastores rds postgresql couchbase dynamodb elasticache redis sltbrgtltbrgtltpgtltbrgtltpgtmessaging rabbitmq snssqs kinesisltbrgtltbrgtltbrgtltpgtltpgtbenefitsltbrgtltbrgtltpgtltpgtltbrgtltbrgtltbrgtltpgtltbrgtltulgt ltligtk contribution up to a maximum of on base salaryltligt ltligt contribution towards health optical and dental plans including partner and familyltligt ltligt x life ampamp adampampd insuranceltligt ltligtholidays days per year inclusive of public holidaysltligt ltligtflexible autonomous working environmentltligt ltligttravel expenses coveredltligt ltligtspec your own environmentltligt ltligtemployee assistance programltligt ltligtteam eventsltligt ltligtmonthly snack boxltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T16:36:31.000Z"
+  },
+  "company": {
+    "name": "Current Health",
+    "link": "https://www.linkedin.com/company/currenthealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

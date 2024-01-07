@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Apple Media Products",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtapple media products amp first delighted users with downloadable music in april with the opening of the itunes store since then amp has delivered countless innovations around the digital delivery of audio and video and in revolutionized smartphone app distribution with the launch of the app store being the source for so much digital content requires maintaining relationships with a vast number of providers from record labels to movie studios to app developers the digital supply chain engineering team dsce is tasked with ensuring that new content is uploaded processed cataloged and available on our storefronts when the provider expects it to be top notch qualityltbrgtltbrgtltbrgtamp media workflow engineering team is seeking a forwardthinking selfstarter to join our team amp is an increasingly vital and central component of apples ecosystem and continues to rely heavily on processing of media at ever more massive scale at a level of quality unmatched in the industry join us in building apples platform for audio and video ingestion and processing at the heart of apple tv and participate in the innovation that will drive the next generation of media features services at appleltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtat least three years of relevant experience in ml and cv algorithmsltbrgtltbrgtskilled in deep learning for imagevideo classification recognition object detection segmentation ocr and etcltbrgtltbrgtknowledge and experience on processing sequential data such as audio and video familiar with models that deal with sequential data such as rnn lstm bert or sequencetosequence modelltbrgtltbrgtpractical understanding of the mathematics behind modern machine learning linear algebra and statisticsltbrgtltbrgtgood publication record in machine learningdeep learningcomputer vision desirableltbrgtltbrgtknowledge and experience with popular deep learning frameworks eg pytorch tensorflow keras caffeltbrgtltbrgtstrong programming and debugging skills in python cc or equivalentltbrgtltbrgtexperience in collaborating with infrastructure engineers to deliver final products or servicesltbrgtltbrgtattention to detail data accuracy and quality of outputltbrgtltbrgtyou bring passion and dedication to your job and are committed to our visionltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtwe are in search of a software engineer to provide new and enhanced tools in order to support its fast paced growth join our exciting team that is dedicated to providing the highest quality media products services to our customers our team is responsible for the software that drives workflows for encoding all audio and video content for the our apple tv store including movies music audio books tv shows apple tv and more we are looking for a standout colleague who is able to tackle problems under tight deadline constraints and deliver imaginative solutions responsibilities include building tools and workflows to support new mediarelated customervisible features services across apples ecosystem optimization of existing workflows to improve throughput and utilization of massive server farm across multiple data centers creating internal tools to support quality control of our media content to achieve this the ideal candidate will have experience developing largescale serverside systems using objectoriented languagesltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtms or phd in computer vision machine learning computer science or equivalent industry experienceltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgt years of relevant machine learning experience with ms degree preferred or years of related ml work experience with phd degreeltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T16:23:37.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 111000,
+    "max_value": 158000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

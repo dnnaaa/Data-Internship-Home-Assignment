@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - New Grad",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtabout ripplingltbrgtltbrgtltugtltstronggtrippling is the first way for businesses to manage their hr ampamp it from payroll and benefits to employee computers and apps all in one modern systemltbrgtltbrgtin just seconds a company can set up or disable an employees payroll health insurance work computer and thirdparty apps like gmail microsoft office and slack its the only platform that truly unifies every employee system and automates all of the administrative workltbrgtltbrgtrippling is headquartered in san francisco and has raised over m from toptier investors including founders fund greenoaks capital coatue management kleiner perkins and ycombinatorltbrgtltbrgtltstronggtltugtabout our teamsltbrgtltbrgtltugtltstronggtltstronggtdevice teamltbrgtltbrgtltstronggtthe device management product enables it admins to secure and manage company devices and data effortlessly when a customer hires a new employee rippling ships them a laptop that is preconfigured with the new employees user account all of the companys security settings and any software the new employee needs this makes onboarding easy for new hires and saves hours of an it admins time our device management team is building out an entire product vertical that competes against multibillion dollar incumbents like jamf and by building our device management product on top of an employee system of record were able to build better automation and outcompete those standalone device management productsltbrgtltbrgtthe tech stack on the device management team is broader than most other teams within rippling in addition to fullstack web development in python and javascript the device team also runs chef and ruby on managed devices with a lot of bash and powershell to interact with the os and infrastructure to manage clusters of devices across linux mac and windowsltbrgtltbrgtltstronggtidentity teamltbrgtltbrgtltstronggtour identity product automates the management of employee accounts in cloud services when one of our customers hires an employee our system automatically creates the employees accounts in g suite slack dropbox github aws etc adds the user to the right groups and permissions and allows the employee to sign in to those services using saml or rpass ripplings endtoend encrypted password manager we work closely with our integration partners and our business development team to build new integrations manage our existing partnerships and most importantly build an integration ecosystem that is a key long term moat for ripplings businessltbrgtltbrgtltstronggthris teamltbrgtltbrgtltstronggtthe human resource information systemsltstronggt ltstronggthris team is responsible for building products for employee lifecycle management employee experience management compliance management documents management and talent management each product as a standalone is part of a multibillion dollar marketltbrgtltbrgtengineers working on this team will get to develop products that are used by rippling customers and internal engineering teams they will work on scaling the existing products help in reducing latency and in making the products more secureltbrgtltbrgtltstronggtplatform teamltbrgtltbrgtltstronggtthe platform team builds both the product and technology foundations of rippling were responsible for the core service framework permissioning and any other core technologies needed to write backend code at ripplingltbrgtltbrgtwere also responsible for core product platforms like data reporting products workflows search and rql rippling query language which are both external and internal facing projects like our workflow product allows company admins to define bespoke action and triggers to customize their rippling ecosystemltbrgtltbrgtltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtwe are looking for highly motivated upcoming grads or recent grads to join our team you will have an opportunity to enjoy our fast paced and innovative environment you will get the opportunity to build products and features that fulfill our mission free smart people to work on hard problemsltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtdevelop high quality software with attention to detailltligtltligtdesign develop code and test software systems improvements products and userfacing experiencesltligtltligtwork alongside software architects and senior developers doing stateoftheart development workltligtltligtcontribute to product design and implementation discussionsltligtltligtfind and build unique solutions to implement projects from the idea phase to productionltligtltligtconnect with peers new teammates and colleagues from across the business ltligtltligtbecome the inhouse expert on rippling customers and competitionltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligtyou have recently graduated in may or will be graduating in with a bachelors masters or phd in computer science or related fieldltligtltligtknowledge of algorithms data structures and systems architecture ltligtltligtyou care about product ownership and solving problems for our customersltligtltligtyoure passionate about being in a product focused environment where everyone cares deeply about customer impactltbrgtltligtltulgtltstronggteven if you dont meet all of the requirements listed here we still encourage you to apply skills can be used in lots of different ways and your life and professional experience may be relevant beyond what a list of requirements will captureltbrgtltbrgtltstronggtltemgtltstronggtrippling is an equal opportunity employerltstronggtltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T00:20:54.000Z"
+  },
+  "company": {
+    "name": "Rippling",
+    "link": "https://www.linkedin.com/company/rippling"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Commercial Real Estate,Information Technology and Services,Research",
+    "description": "software engineerltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtcostar delivers realtime verified commercial real estate data that helps clients confidently spot great opportunities and make smart choices ahead of competitors by combining the power of costars independent research organization the industrys largest with global data delivery software and application solutions clients can act on opportunities with confidenceltbrgtltbrgtcostars software developers build products that facilitate of commercial real estate transactions in the united states these transactions range from a small business owner leasing their first office space to a large multinational buying a new headquarters campus on any given day our developers are building products that manage nearly a trillion dollars of potential real estate transactionsltbrgtltbrgtltstronggtltugtresponsibilities bullet points outlining top requirements of the roleltbrgtltugtltstronggtltulgtltligtbuild big distributed apidriven systems for tens of thousands of usersltligtltligtproduce bulletproof code that is robust efficient and maintainable our primary tools are c net framework react javascript angularjs json sql serverltligtltligtdrive and lead software design development standards code reviewsltligtltligtcontinually evaluate emerging technologies to identify opportunities trends and best practices that can be leveraged to strength costars technology platform and develop practicesltbrgtltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligt years experience in a c and net frameworkltligtltligt years experience working in javascriptltligtltligtdemonstrated experience in architecting designing and building large scale distributed servicesoriented systems and web applications in an agile environmentltligtltligt years data modeling experienceltligtltligtbachelors degreeltbrgtltbrgtltligtltulgtltstronggtltugtpreferred qualifcations and skills nice to havesltbrgtltugtltstronggtltulgtltligtstrong communication skills to both business and technical partnersltligtltligtbachelors degree ltligtltligtknowledge of sql experienceltligtltligtdata modeling experience from conceptual logical and physical designsltligtltligtexperience with restful web servicesltbrgtltbrgtltligtltulgtcostar group is an equal employment opportunity employer we maintain a drugfree workplace and perform preemployment substance abuse testing",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:10:08.000Z"
+  },
+  "company": {
+    "name": "CoStar Group",
+    "link": "https://www.linkedin.com/company/costar-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 71000,
+    "max_value": 122000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

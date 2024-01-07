@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer, SRE",
+    "industry": "Internet",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggttwitter is whats happening and what people are talking about right now for us lifeampaposs not about a job itampaposs about purpose we feel real change starts with conversation here your voice matters come as you are and together weampaposll do whatampaposs right not whatampaposs easy to serve the public conversationltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtltstronggtwho we are ltbrgtltbrgtltstronggtsres site reliability engineers work on improving the availability scalability performance and reliability of twitters production servicesltbrgtltbrgtour core infrastructure receives hundreds of millions of tweets per day and serves tens of billions of api requests we also serve over billion search queries per day render m ad impressions and process hundreds of terabytes of log and interaction data dailyltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltbrgtltugtltstronggtas a member of the organization you will be dedicated to improving the reliability of our endtoend platform your work will integrate directly with twitterampaposs products you will investigate sophisticated and difficult operational issues from the software systems automation and process perspectives you will understand the challenges around integrating disparate infrastructures into a new facility processes and proceduresltbrgtltbrgtthis is an opportunity to work with opensource technologies and the wider sre community and actively participate in the vision to move away from high operational cost tasks such as breakfix cluster migrations new service buildouts abuse etc our team contributes to services that can shrink and expand based on demand self heal automatically rollout etcltbrgtltbrgtltstronggtltugtresponsibilities include but limited toltbrgtltugtltstronggtltulgtltligtperforming deep dives into both systemic and latent reliability issues partnering with software and systems engineers across the organization to produce and roll out fixesltligtltligttackling issues across the entire stack hardware software application and networkltligtltligtdriving standardization efforts across multiple fields and services in conjunction with embedded sres throughout the organizationltligtltligtmentoring sres on standard methodology for everything from supervising to fixing complex code issuesltligtltligtidentifying and leading opportunities to improve automation for the company scoping and building automation for deployment management and visibility of our servicesltligtltligtparticipating in code reviews for projects primarily written in java and scala built on open source libraries such as finagle and running on both physical and virtualized platformsltligtltligtrepresenting the sre organization in design reviews and operational readiness exercises for new and existing servicesltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtltstronggtwho you are you have ltbrgtltstronggtltulgtltligtan understanding of systems and application design including the operational tradeoffs of various designsltligtltligta practical knowledge of various aspects of service design like messaging protocols ampamp behavior caching strategies and software design practicesltligtltligta deep understanding of shell scripting and at least one higherlevel language python or scala preferredltligtltligtdemonstrated knowledge ampamp experience of linux servers specifically rhelcentos tcpip http and experience supporting multitier web application architecturesltligtltligtexperience in handling services in a large scale environmentltligtltligtpractical experience in java or scalaltligtltligtwork well with and be able to influence a myriad of personalities at all levelsltligtltligtability to prioritize tasks and work independentlyltligtltligtadaptability and are able to focus on the simplest most efficient ampamp reliable solutionsltligtltligta track record of successful practical problem solving excellent written and social communication and documentation skillsltligtltligta bs in computer science or similar field or comparable experienceltbrgtltligtltulgtltstronggtltugtdesired experienceltbrgtltugtltstronggtltulgtltligtability to lead technical teams through design and implementation across an organizationltligtltligtexperience with existing open source projects such as scribe zookeeper and apache mesosltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T01:16:57.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

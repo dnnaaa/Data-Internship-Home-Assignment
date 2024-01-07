@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "",
+    "description": "observability engineer will build and maintain solutions for getting insights on infrastructure and services supporting applications with focus on logs metrics and application traces that improve observability observability engineer will think about the problem end to end automation of data collection from common data sources store data efficiently in application performance managing and monitoring tool render this information for the user based on the defined slos and slis and finally focus on the actions based on these insights candidate must have hands on experience in monitoring tools app dynamics dyna trac splunk elk moogsoft sumo logic and experience in application performance managing real user monitoring infrastructure monitoring and log analysis tool such as dynatrace nagios sensu and splunk responsibilities design and build new features for infrastructure and services observability dive into new technologies and figure out how to best monitor them develop solution to implement the slo sli requirements including visualization of the monitoring dashboard write code within the monitoring solution collaborate with other development teams quality engineering team and documentation team to execute on product deliverables ltbrgtltbrgtskills and experience requirements years of hands on experience with cloud based technologies and tools in configuration management deployment monitoring and operations candidate must have hands on experience in monitoring tools app dynamics dyna trac splunk elk moogsoft sumo logic and experience in application performance managing real user monitoring infrastructure monitoring and log analysis tool such as dynatrace nagios sensu and splunk yrs of experience with devops continuous delivery expertise in working in partnership with colleagues throughout the firm and in leading collaborative teams to achieve common goals experience in an agile delivery environment experience as a hands on software engineer so you understand the core principles of the engineering work experience supporting customer problems and communication experience or interest in speaking presenting at tech conferences experience in communication and organization in large distributed teams hands",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-06T14:51:29.000Z"
+  },
+  "company": {
+    "name": "New York Technology Partners",
+    "link": "https://www.linkedin.com/company/new-york-technology-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

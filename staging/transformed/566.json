@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "Construction,Staffing and Recruiting,Hospital &amp; Health Care",
+    "description": "ltstronggtour client has a highprofile position open for an experienced qa tester your career will need to demonstrate extensive experience in advanced softwere testing projects but functional and automated and in an agile environment ltbrgtltbrgtltstronggtltstronggtexcellent global company flexible and employeefocused and expanding this is an opportunity to advance your career in a permanent position job is onsite in florida or remote with occasional travel possible compensation open depends on job fit contract duration initially then conversion to inhouse fulltime hireltbrgtltstronggtltulgtltligtdevelop automation scriptsltligtltligtwork closely with development team to guide root cause analysis and keep improving automated quality processesltligtltligtdesign and execute test strategies as part of an agile scrum teamltligtltligtdesign code test debug and document programs by using agile development practicesltligtltligttranslate user stories and requirements to test casesltligtltligtparticipate in product design reviews to provide input on testability of functional requirements and product designsltligtltligtcollaborate with devops and continuous integration project leads to guide test automation infrastructure across multiple productsltbrgtltligtltulgtltstronggtltugtrequired skillsltbrgtltugtltstronggtltulgtltligt years of software test engineer experienceltligtltligtability to focus on deadlines and deliverablesltligtltligta quick learner a selfstarter able to work independently and able to keep up with a fastpaced environmentltligtltligtstrong verbal written and interpersonal communication skillsltligtltligtexperience in testing knowledge of automation framework design and implementation using selenium tool is requiredltligtltligtexperience working in both agile and waterfall methodologiesltligtltligtexperience working on cross functional teamsltligtltligtmust understand version control softwareltligtltligtwrite writing clear concise and comprehensive test plansltligtltligtexperience using azure devopsltligtltligtexperience with net framework and sql serverltligtltligtknowledge of devops concepts and cicd toolsltligtltligtexperience using automation tools to test web services rest pcf ltligtltligtexperience with sdlc and qa methodologies including functional testing ee testing automation compatibility testing regression testing and usability testingltligtltligtwrite and maintain test automation scriptsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Gallin Associates",
+    "link": "https://www.linkedin.com/company/gallin-associates-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 64900,
+    "max_value": 104000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jacksonville",
+    "region": "FL",
+    "postal_code": "32277",
+    "street_address": null,
+    "latitude": 30.325968,
+    "longitude": -81.65676
+  }
+}

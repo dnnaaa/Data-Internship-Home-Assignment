@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist II, Machine Learning",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "coursera was launched in by two stanford computer science professors andrew ng and daphne koller with a mission to provide universal access to worldclass learning it is now one of the largest online learning platforms in the world with million registered learners as of june coursera partners with over leading university and industry partners to offer a broad catalog of content and credentials including guided projects courses specializations certificates and bachelors and masters degrees institutions around the world use coursera to upskill and reskill their employees citizens and students in many highdemand fields including data science technology and business coursera became a b corp in february ltbrgtltbrgtat coursera our data science team is helping to build the future of education through datapowered products and datadriven decisions in machine learning we define develop and launch the models and algorithms that power content discovery personalized learning and machineassisted teaching and grading in decision science we drive product and business strategy through measurement experimentation and causal inference we believe the next generation of teaching and learning should be personalized accessible and efficient with our scale data technology and talent coursera and its data science team are positioned to make that vision a realityltbrgtltbrgtwe are looking for a creative and collaborative machine learning data scientist with strong experience in cloud services in this role you will own courseras content forecasting engine power our ability to identify content and skills gaps and help scale our ml systems our ideal candidate possesses a strong statistical and computational skillset is collaborative and impactdriven and shares our passion for educationltbrgtltbrgtltstronggtltugtyour responsibilitiesltbrgtltugtltstronggtltulgtltligtideate prototype and productionize ml solutions to improve courseras content forecasting engine perform learner and content segmentation and identify content and skills gapsltligtltligtdesign deploy and scale endtoend machine learning deep learning pipelines and models with aws cloud servicesltligtltligtextend existing ml libraries and frameworksltligtltligtpartner with product managers and engineers to identify and articulate opportunities build efficient and scalable ml solutions and proactively drive data product adoptionltligtltligtdistill insights from complex data andor data product results communicate findings clearly to both technical and nontechnical audiencesltligtltligtdevelop metrics to evaluate data product performance and drive improvementsltbrgtltligtltulgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligt years of work experience in deployment and scaling of machine learning and deep learning algorithms on aws cloud services sagemaker lambda cloudwatch etcltligtltligt years of experience with one or more of the following forecasting models natural language processing ranking systems or similarltligtltligtsolid background in machine learning frameworks like tensorflow pytorch scikit learn etcltligtltligtknowledge of software development tools like git cicd docker etcltligtltligtexperience with one or more programming languages eg python r and proficient with relational databases and sqlltligtltligtmasters degree or above ltligtltligt years of research andor industry experienceltligtltligtstrong project management and crossfunctional collaboration skillsltligtltligtexcellent problem solving critical thinking analytical and interpersonal skillsltbrgtltligtltulgtltstronggtif this opportunity interests you you might like these courses on courseraltbrgtltstronggtltulgtltligt machine learning ltligtltligt neural networks and deep learning ltligtltligt sentiment analysis with deep learning using bert ltbrgtltligtltulgtcoursera is an equal employment opportunity employer and considers all qualified applicants without regard to race color religion sex sexual orientation gender identity age marital status national origin protected veteran status disability or any other legally protected classltbrgtltbrgtif you are an individual with a disability and require a reasonable accommodation to complete any part of the application process please contact us at accommodationscourseraorgltbrgtltbrgtplease review our ccpa applicant notice here",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T21:32:50.000Z"
+  },
+  "company": {
+    "name": "Coursera",
+    "link": "https://www.linkedin.com/company/coursera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

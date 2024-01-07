@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Marketplace",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "ubers marketplace engineering team creates the technology behind our ridesharing marketplace by connecting riders with drivers at the push of a button our solutions expand user access deliver reliability and provide more transportation choices to users across our global marketsltbrgtltbrgtltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtthe matching team is responsible for dispatching the best driver for the trip we do this by building scalable realtime systems that analyze thousands of trip assignments every second to improve marketplace throughput this team has a direct impact on ubers growth and profitability by running the marketplace more efficiently improving rider convenience and driver utilizationltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtdesign and deliver softwares and tools powering matching platformltligtltligtanalyze production data and metrics to identify opportunities for improvementltligtltligtparticipate in periodic oncall rotations and be available for critical issuesltbrgtltligtltulgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligtbachelors degree in computer science or related technical field or equivalent practical experienceltligtltligtexperience coding with c java python or goltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligtat least two years of software engineering experienceltligtltligtexperience with distributed systems and performance optimizationltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T15:12:18.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 115000,
+    "max_value": 166000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

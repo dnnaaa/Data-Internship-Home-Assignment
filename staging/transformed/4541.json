@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Internet",
+    "description": "ltpgtltstronggtthis candidate must have authorization to work in the us full time this position does not offer sponsorship now or in the near future at this timeltstronggtltpgtltpgtltbrgtltpgtltpgtm is a global and diversified technology company that is ranked by forbes as one of the top fastest growing innovative companies in the world in through our awardwinning digital platform mdlinxcom we provide healthcare professionals with the clinical education training research and career opportunities they need to succeedltpgtltpgtltbrgtltpgtltpgtwe are wellestablished in our market with a loyal following high quality offerings and over years of experience and history in the digital space due to our continued growth and expansion we are currently hiring for a software engineer for our physician platform who will develop and improve mdlinxcom ms awardwinning service that helps to inform educate and save time for busy physicians and other health care professionals with the opportunity to receive frequent feedback from users via regular interviews develop product enhancements and new services participating in all parts of the process from architecture and design to development and production deployment to monitoring reporting and iterative enhancementltpgtltpgtltbrgtltpgtltpgtthe software engineer will use their knowledge of react typescript and graphql on the frontend andor python flask docker and kubernetes on the backend to deliver services that help reduce the burden of keeping up with new medical research and taxing overworked health care professionalsltpgtltpgtltbrgtltpgtltpgtduties and responsibilitiesltpgtltulgtltligtprototype design and develop software services for doctors supporting desktop and mobile devicesltligtltligtwork closely with a crossfunctional team including engineers product and design staff to develop a great user experience and achieve product objectivesltligtltligtdevelop apis and api clients as necessary to connect frontend and backend services thirdparty services etcltligtltligtreview and help to improve other engineers code and application designsltligtltligtunderstand business objectives and physician user needs and actively work to improve the effectiveness and usability of our productsltligtltligtwrite unit functional and endtoend testsltligtltligtrespond to and troubleshoot production issuesltligtltulgtltpgtltbrgtltpgtltpgtrequirementsltpgtltulgtltligttwo or more years of experience designing implementing and maintaining production web applications full timeltligtltligtexpertise with at least one serverside web framework and programming languageltligtltligtexpertise with javascript andor ideally typescript and at least year of experience with reactltligtltligtsolid understanding and knowledge of web protocols and technologies such as http html css etcltligtltligtability and desire to quickly pick up new technologies and frameworksltligtltligtexperience working as part of a team to develop software preferably using an agile processltligtltligtexcellent written communication skillsltligtltligtbachelors degree from a fouryear university in computer science or equivalent work experience and foundational knowledge of software engineeringltligtltligtexperience working with containers docker infrastructure automation technologies ideally terraform continuous integration and continuous deployment circleci kubernetesltligtltligtexpertise developing mobile applicationsltligtltligtexperience with development using iaas platforms preferably aws andor gcpltligtltligtdata analysis experience and expertiseltligtltulgtltpgtltbrgtltpgtltpgtbenefitsltpgtltpgta career opportunity with m usa offers competitive wages and benefits such asltpgtltulgtltligthealth and dentalltligtltligtlife accident and disability insuranceltligtltligtprescription planltligtltligtflexible spending accountltligtltligtk plan and matchltligtltligtpaid holidays and vacationltligtltligtsick days and personal daysltligtltulgtltpgtm reserves the right to change this job description to meet the business needs of the organizationltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T13:42:21.000Z"
+  },
+  "company": {
+    "name": "M3 USA",
+    "link": "https://www.linkedin.com/company/so-net-m3"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cleveland",
+    "region": "OH",
+    "postal_code": "44144",
+    "street_address": null,
+    "latitude": 41.505547,
+    "longitude": -81.6915
+  }
+}

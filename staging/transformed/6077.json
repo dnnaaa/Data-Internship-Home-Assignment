@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Visual Analytics",
+    "industry": "Computer Software,Information Technology and Services,Marketing and Advertising",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggtepsilon is the leader in outcomebased marketing we enable marketing thats built on proof not promises through epsilon peoplecloud the marketing platform for personalizing consumer journeys with performance transparency epsilon helps marketers anticipate activate and prove measurable business outcomes powered by core id the most accurate and stable identity management platform representing million people epsilons awardwinning data and technology is rooted in privacy by design and underpinned by powerful ai with more than years of experience in personalization and performance working with the worlds top brands agencies and publishers epsilon is a trusted partner leading crm digital media loyalty and email programs positioned at the core of publicis groupe epsilon is a global company with over employees in over offices around the world for more information visit epsiloncom follow us on twitter at epsilonmktgltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtas a data scientist in our decision sciences visualization team you will create innovative visual analytics systems that reveal explore and explain complex patterns and phenomena from epsilons petascale and massivelydimensional digital marketing ecosystem you will reduce this complexity into sophisticated interactive visual metaphors and stories that demonstrate the business value of epsilons platform directly to our stakeholders and global customers which includes some of the worlds largest brands our visualization challenges span hundreds of millions of highly detailed individual profiles across hundreds of millions of web sites and apps tied together by sophisticated realtime analytics that make near instantaneous decisions on messaging to those profiles trillions of times a day this provides an incredibly rich environment of business questions and answers that are hidden within petabytes of dataltbrgtltbrgtin this role you will be a key member of a multidisciplinary rampampd team creating a fullstack visual analytics system that connects to big data platforms and machine learning systems to present complex enterprisecritical information in an engaging intuitive and informative manner this is a multifaceted team effort involving an array of technologies such as python pyspark scala sql hadoophdfs elastic search gpu clusters djs reactjs and more we are looking for strong candidates with extensive experience in clustering dimensionality reduction and machine learning particularly unsupervised techniques on large scale computing clusters and who are driven by the desire to see those results translated into actionable insightsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtdevelop an understanding of epsilons digital media services dms personalization platform and proprietary datasetsltligtltligtwork closely with internal and external stakeholders and data providers to support data ingestion insights aggregations and trending projectsltligtltligtmanage data logistics including data transfers understanding data structures business rules and beyond to enable project executionltligtltligtdesign implement and validate your solutions in using sqlhiveql scala spark or python pyspark on a large stateoftheart cluster in some cases the solutions may be based on gpucomputation or elastic search platforms as wellltligtltligtwork with our engineering teams to develop and integrate your solutions into epsilons dms platformltligtltligtparticipate fully in our collaborative approach to research and applications projectsltligtltligtbe a supportive and positive contributor in a highly collaborative multidisciplinary rampampd team with shared and overlapping responsibilities all in support of a strong mission with purpose and proven resultsltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligtmasters degree in computer science data science statistics engineering mathematics or a related scientific disciplineltligtltligt years of relevant industrial experienceltligtltligt years of handson industry use in sql or hiveqlltligtltligtextensive experience with spark scala or python on largedata platforms such as hadoop hdfs awsltligtltligtdesire to work in a highly collaborative environment with team members having a broad set of skills including data engineering full stack systems data science data visualization ui and uxltbrgtltligtltulgtltstronggtltugtadditional but not required skillsltbrgtltugtltstronggtltulgtltligtexperience with data engineering at scale in a production environmentltligtltligtexperience with realtime compute systems for data query and algorithms such as elastic search and gpu clustersltligtltligtexperience with machine learning techniques supervised and unsupervised as well as feature engineeringltligtltligtexperience with tensorflow cuda or other systems for gpuaccelerated processingltligtltligtexperience with docker for deploying data applications via containersltligtltligtexperience with aspects of full stack developmentltbrgtltligtltulgtltstronggtltugtadditional informationltbrgtltbrgtltugtltstronggtltstronggtgreat people deserve great benefitsltbrgtltbrgtltstronggtwe know that we have some of the brightest and most talented associates in the world and we believe in rewarding them accordingly if you work here expect competitive pay comprehensive health coverage and endless opportunities to advance your careerltbrgtltbrgtepsilon is an equal opportunity employer epsilons policy is not to discriminate against any applicant or employee based on actual or perceived race age sex or gender including pregnancy marital status national origin ancestry citizenship status mental or physical disability religion creed color sexual orientation gender identity or expression including transgender status veteran status genetic information or any other characteristic protected by applicable federal state or local law epsilon also prohibits harassment of applicants and employees based on any of these protected categoriesltbrgtltbrgtepsilon will provide accommodations to applicants needing accommodations to complete the application processltbrgtltbrgtrefvltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T18:10:26.000Z"
+  },
+  "company": {
+    "name": "Epsilon",
+    "link": "https://www.linkedin.com/company/epsilon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

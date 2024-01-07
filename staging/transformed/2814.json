@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "ltstronggtthe roleltbrgtltbrgtltstronggtas a member of the new sre team at tesla motors you will automate away toil help teams in aws and build tools to make development seamless the sre team is embedded amongst several developments that are responsible for some of the most trafficked applications within tesla motors this role presents a prime opportunity to ensure reliability maintainability performance scalability and security are at the forefront of our teams productsltbrgtltbrgtltstronggtltugtwhat were looking forltbrgtltbrgtltugtltstronggtthe staff site reliability engineer will partner with the application development and main infrastructure teams to architect and operate reliable scalable and performant services you will have a huge impact on how we do things and help take our engineering excellence to the next level you will report to the senior manager of site reliability engineeringltbrgtltbrgtltstronggtyou willltbrgtltstronggtltulgtltligt partner with application developers and architects to ensure services are built for scale and performanceltligtltligt develop the monitoring solutions on top of existing observability platformsltligtltligt refine the development build and deployment processes on top of our main infrastructureltligtltligt work with the engineering teams to architect and build our platform services to simplify realtime troubleshooting and operational response to incidents and outagesltligtltligt be the expert on how to best use aws technologies to build our nextgeneration platformltligtltligt bridge the divide between our core application engineers and our main infrastructure teamsltligtltligt provide capacity management expertise to ensure our deployments are managed for robustness and costltligtltligt bring best practices and own environment management ensuring all of our devtestprod environments are reproducible with high availabilityltbrgtltligtltulgtltstronggtyou haveltbrgtltstronggtltulgtltligt a minimum years experience operating in a largescale environmentltligtltligt experience improving the services and customer experiences of the platforms you supportltligtltligt experience in application architecture designs and implementations including the operational tradeoffs of different designsltligtltligt knowledge of different aspects of service design including messaging protocols and behavior caching strategies and software design practicesltligtltligt experience making strategic tradeoffs that are in priority when neededltligtltligt developed accomplished sre engineers ranging from junior to senior levels of experienceltbrgtltligtltulgtltstronggtltugtwhat we provideltbrgtltugtltstronggtltulgtltligt ltstronggtopportunitiesltstronggt ltstronggttoltstronggt ltstronggtdevelopltstronggt ltstronggtandltstronggt ltstronggtgrowltstronggt ltstronggtasltstronggt ltstronggtanltstronggt ltstronggtengineerltstronggt we are always expanding into new areas working with opensource projects and contributing back and exploring new technologiesltligtltligt ltstronggta team of incredibly capable and dedicated peersltstronggt all the way from engineering to product management and customer supportltligtltligt ltstronggtgrowthltstronggt ltstronggtandltstronggt ltstronggtmentorshipltstronggt we believe in growing engineers through ownership and leadership opportunities we also believe that mentors help both sides of the equationltligtltligt ltstronggta stable collaborative and supportive work environment ltstronggtwe work in an open environment work together to get things done and adapt to the changing needs for the teamltligtltligt ltstronggtbalanceltstronggt we dont expect people to work hour days we want you to be successful outside of work too want to work from home sometimes no problem we trust our colleagues to be responsible with their time and commitment and believe that balance helps cultivate a positive environmentltligtltligt ltstronggtfunltstronggt we have frequent group outings and team building events we are committed to having every employee want to give it their all be respectful and a part of the family and have a smile on their face while doing itltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T18:07:11.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 188000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

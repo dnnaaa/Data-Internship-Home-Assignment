@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "ltstronggtltugtjob summaryltbrgtltbrgtltugtltstronggtthe red hat software engineering team is looking for a senior site reliability engineer sre to join our application site reliability engineering appsre team in westford ma in this role you will help architect modify improve and support the platform running all userfacing softwareasaservice saas offerings on top of red hat openshift using your expertise in sre principles of automation and continuous improvement you will help create an environment where availability reliability and security are threaded through the entire application life cycle not treated as an afterthought as a senior site reliability engineer you will write new software as required to automate software deployments upgrades scaling monitoring alerting and testingltbrgtltbrgtltstronggtltugtprimary job responsibilitiesltbrgtltugtltstronggtltulgtltligtdevelop secure service architecture using cloudnative technologiesltligtltligtdevelop systems primarily in python and golang to prevent outages through automatic scanning and remediationltligtltligtestablish and enforce sre best practices through platform constraints and highfidelity system modelingltligtltligtparticipate in an oncall rotationltbrgtltligtltulgtltstronggtltugtrequired skillsltbrgtltugtltstronggtltulgtltligtunderstanding of distributed systems and common distributed system failure domainsltligtltligtsolid background in computer networking computer security linux or unix operating systems system administration jenkins continuous integration ci or continuous delivery cd pipelines git or gitopsltligtltligtexperience writing reliable enterprisegrade softwareltligtltligtfamiliarity with cloudbased relational databases object stores and virtual machinesltligtltligtability to effectively work in a globally distributed teamltbrgtltligtltulgtltstronggtltugtthe following experience is considered a plusltbrgtltugtltstronggtltulgtltligtmanaging a production service with red hat openshift or kubernetesltligtltligtdesigning and carrying out security incident response proceduresltligtltligtdeveloping a kubernetes controller operator or platform componentltligtltligtcontributing to the design or codebase for a cloudnative service mesh solutionltligtltligtoperations experience with a production userfacing applicationltbrgtltligtltulgtltstronggtltugtabout red hatltbrgtltbrgtltugtltstronggtred hat is the worlds leading provider of enterprise open source software solutions using a communitypowered approach to deliver reliable and highperforming linux hybrid cloud container and kubernetes technologies red hat helps customers integrate new and existing it applications develop cloudnative applications standardize on our industryleading operating system and automate secure and manage complex environments awardwinning support training and consulting services make red hat a trusted adviser to the fortune as a strategic partner to cloud providers system integrators application vendors customers and open source communities red hat can help organizations prepare for the digital futureltbrgtltbrgtltstronggtltugtbenefitsltbrgtltugtltstronggtltulgtltligtcomprehensive medical dental and vision coverageltligtltligtflexible spending account healthcare and dependent careltligtltligthealth savings account high deductible medical planltligtltligtretirement k with employer matchltligtltligtpaid time off and holidaysltligtltligtpaid parental leave plans for all new parentsltligtltligtleave benefits including disability paid family medical leave and paid military leaveltligtltligtadditional benefits including employee stock purchase plan family planning reimbursement tuition reimbursement transportation expense account employee assistance program and more ltbrgtltligtltulgtltstronggtnoteltstronggt these benefits are only applicable to full time permanent associates at red hat located in the united statesltbrgtltbrgtred hat is proud to be an equal opportunity workplace and an affirmative action employer we review applications for employment without regard to their race color religion sex sexual orientation gender identity national origin ancestry citizenship age veteran status genetic information physical or mental disability medical condition marital status or any other basis prohibited by lawltbrgtltbrgtred hat does not seek or accept unsolicited resumes or cvs from recruitment agencies we are not responsible for and will not pay any fees commissions or any other payment related to unsolicited resumes or cvs except as required in a written contract between red hat and the recruitment agency or party requesting payment of a fee",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:51:51.000Z"
+  },
+  "company": {
+    "name": "Red Hat",
+    "link": "https://www.linkedin.com/company/red-hat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westford",
+    "region": "MA",
+    "postal_code": "01886",
+    "street_address": null,
+    "latitude": 42.581127,
+    "longitude": -71.43963
+  }
+}

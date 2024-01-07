@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "ltpgtltstronggtabout the teamltstronggtltpgtltpgtworkday is building a new sre team responsible for deploying operating and supporting a state of the art cloud native service platform the platform is built using cloud native httpswwwcncfio technologies on a foundation of kubernetes in both public cloud and private cloud environments this provides a secure platform on which dozens of workday service teams and platform development teams can build and test their prerelease code through deployment to production on a continuous basisltstronggtabout the roleltstronggtltpgtltpgtthe primary function of the sre team is to ensure the reliability and availability of the platform to meet the desired slas reduce operational load and to scale sustainably in alignment with business growth we work closely with a dedicated environment operations team in supporting the customer facing environments for our end customers including patching our customer environments and pursuing resolutions to issues found during that patch processltpgtltpgtltbrgtltpgtltpgtall sre responsibilities and team growth will be supported by service level objectives slosltpgtltpgthave ownership of ltpgtltpgtltbrgtltpgtltulgtltligtoverall system health and holding engineering teams accountable to meet agreed slos such as latency and error ratesltligtltligtweekly platform release preparation including evolving the automation towards zero touch follow through on improvements identified postpatchltligtltligtvulnerability management holding teams accountable to meet customer facing service level agreements slasltligtltligtltbrgtltligtltulgtltpgtbe responsible forltpgtltpgtltbrgtltpgtltulgtltligtupdating the platform continuously in line with the major and minor release cycles of open source projects such as kubernetes istio calicoltligtltligtproviding expert level support for the buildout of new customer environmentsltligtltligtcollaborating with cross functional teams to come up with automation solutionsltligtltligtleading new service team onboarding engagements in partnership with platform engineering architects and product managersltligtltulgtltpgtltbrgtltpgtltpgtltstronggtltspan classqlcursorgtltspangtabout youltstronggtltpgtltpgtyou have a passion for identifying and solving problems on distributed environments scaling across configuration linux operating system and network you have handson experience handling distributed environments kubernetes experience is a big plus you have a keen interest in improving operational efficiency and believe that automation is the key to operating largescale systems you are driven to ensure customer successltpgtltpgtbasic qualificationsltpgtltpgtltbrgtltpgtltulgtltligtbs in computer science or related fieldltligtltligt years experience in managing and troubleshooting distributed systems aws gcp kubernetes dockerltligtltligt years of solid sre experience in a distributed systems environmentltligtltligtextensive engineering experience with linuxltligtltligtproficiency with at least one of golang python ruby preferably golang goltligtltligtbash and scripting experienceltligtltligtunderstanding of software development standard methodologies such as code management cicdltligtltulgtltpgtother qualificationsltpgtltpgtltbrgtltpgtltulgtltligtpassionate automator with a track record of referenceable examplesltligtltligtcan work independently and with the attitude that everything can be automatedltligtltligtskills and enthusiasm to operate maintain support and sustain the platformltligtltligtexcited by working in a fastpaced environmentltligtltligtexperience collaborating with cross functional global and remote teams with a diverse set of backgroundsltligtltligtexcellent documentation skills experience with developing detailed runbooks processesltligtltligtideally you have knowledge and experience of public cloud platforms such as aws gcp azure etcltligtltulgtltpgtworkday is an equal opportunity employer including individuals with disabilities and protected veteransltpgtltpgtltbrgtltpgtltpgthttpsworkdaywdmyworkdayjobscomworkdayjobusacapleasantonsrsitereliabilityengineermulticloudplatformjrltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T18:31:21.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

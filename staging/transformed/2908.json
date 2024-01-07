@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Retail,Financial Services",
+    "description": "ltstronggtltugtwhats cool about this jobltbrgtltbrgtltugtltstronggtwe currently have an exciting opportunity to join our experiences agile team as a ltstronggtsoftware engineerltstronggt this team builds and maintains the systems at the core of delivering on our mission to inspire educate and outfit for a lifetime of outdoor adventure and stewardship experiences offerings include instructorled classes and events guided day and multiday trips group outings gear rentals and more all centered around a variety of outdoor activities camping hiking running stewardship water sports snow sports and many others were on a mission to revolutionize our customer experience by making our digital offerings seamless and painless while decreasing the time it takes to meet up gear up and get outside weve set some lofty goals and the challenges that lie ahead are many and diverse but staying true to our values in action we go further together we invite you to join us on our journey bring your passion curiosity and respect for your fellow humans and join a talented team focused on making our experiences offerings among the best on the planetltbrgtltulgtltligt knowledge of professional software engineering practices ampamp best practices for the full software development life cycle including coding standards code reviews source control management build processes testing and operations ltligtltligt ability to take a project from scoping requirements through actual launch of the project ltligtltligt experience in communicating with users other technical teams and management to collect requirements describe software product features and technical designs ltligtltligt contribute to a strong mutually supportive work spirit and culture where people can do their best ltligtltligt experience working in an ecommerce retailhospitality environment preferred ltbrgtltligtltulgtltstronggtbring your passion and expertiseltbrgtltstronggtltulgtltligt years experience in hand coding proofing and troubleshooting standardscompliant html css and javascript ltligtltligt years experience with javascript eses related frontend frameworks tools and bundlers currently we use vuejs npm nodejs webpack rollup mocha chai to name a few ltligtltligt experience using css preprocessors and an ability to discuss their strengths and weaknesses we use less and sass ltligtltligt crossbrowser and crossplatform design and testing experience in manual debugging and automated tooling we use babel for crossbrowser transpilation ltligtltligt experience with ajaxes fetch techniques as well json and xml to consume back end experience for complex web apps ltligtltligt experience integrating tracking and other analytics tags ltligtltligt experience working on large websites with many interconnected systems ltligtltligt ability to participate in oncall x incident response rotation about week per ltbrgtltligtltulgtjob function information technologyltbrgtltbrgtcity seattleltbrgtltbrgtstate washingtonltbrgtltbrgtstore seattle hqltbrgtltbrgtremote eligible yesltbrgtltbrgtplease visit theltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:54:47.000Z"
+  },
+  "company": {
+    "name": "REI",
+    "link": "https://www.linkedin.com/company/rei"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83300,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

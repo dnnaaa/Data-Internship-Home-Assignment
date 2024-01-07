@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "ltstronggtltugtour companyltbrgtltbrgtltugtltstronggtchanging the world through digital experiences is what adobes all about we give everyonefrom emerging artists to global brandseverything they need to design and deliver exceptional digital experiences were passionate about empowering people to create beautiful and powerful images videos and apps and transform how companies interact with customers across every screenltbrgtltbrgtwere on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity we realize that new ideas can come from everywhere in the organization and we know the next big idea could be yoursltbrgtltbrgtltstronggtthe challengeltbrgtltbrgtltstronggtadobe stock team is looking for an exceptional site reliability engineer sre to support the innovation we are bringing to the market through microservice and continuous integrationcontinuous deployment processes we provide designers and businesses access to hundreds of millions highquality curated royaltyfree photos videos vectors illustrations templates and d assets for all their creative project needs adobe stock is both a highly interactive web site and as well as integrated right into adobes desktop and mobile apps providing search browse and purchase integration we are a team with the excitement and energy of a startup but the resources of a large software company committed to providing outstanding value to its customersltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtbuild and run largescale highly distributed faulttolerant systemsltligtltligtdevelop tools and automated solutions in support of hosted servicesltligtltligthandle and resolve issues raised in the production environmentltligtltligttackle performance reliability and scalability issuesltligtltligtcollaborate with application engineers and train developers as neededltbrgtltligtltulgtltstronggtltugtwhat you need to succeedltbrgtltugtltstronggtltulgtltligtthis sre position requires strong technical skills excellent communications and problemsolving skills and the ability to engage and work well with other teamsltligtltligtthe ideal candidate will have skills and experience operating and supporting internet hosted applications and protocolsltligtltligtbuild on industry leading infrastructure tools and technologies such as terraform chef aws to create tailored solutions solving resultsoriented problems at scaleltbrgtltligtltulgtltstronggtltugtmust haveltbrgtltugtltstronggtltulgtltligtbsc in computer science or equivalentltligtltligt years programming experience with web technologies infrastructure automationltligtltligtknowledge of the best engineering practices around building high performance reliable and scalable web servicesltligtltligtexperience in administration and automation of linux servers both in cloud and in data centersltligtltligtability to dig deep debug and solve problems on distributed systemsltligtltligtgit proficiencyltligtltligtwillingness to be part of a team oncall rotationltligtltligtprevious experience as a lead or in management a plusltbrgtltligtltulgtltstronggtltugttechnologies we useltbrgtltugtltstronggtltulgtltligtamazon web servicesltligtltligtnew relic datadog nagiosltligtltligtterraform chefltligtltligtpython php bash rubyltligtltligtjenkinsltligtltligtsplunkltligtltligtpostgresql elasticsearchltligtltligtnginx haproxyltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-08T04:49:09.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

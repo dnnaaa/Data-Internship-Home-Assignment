@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Ground Stations Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtwelcome to planet we believe in using space to help life on earthltbrgtltbrgtltstronggtplanet designs builds and operates the largest constellation of imaging satellites in history this constellation delivers an unprecedented dataset of empirical information via a revolutionary cloudbased platform to authoritative figures in commercial environmental and humanitarian sectors we are both a space company and data company all rolled into oneltbrgtltbrgtcustomers and users across the globe use planets data to develop new technologies drive revenue power research and solve our worlds toughest obstaclesltbrgtltbrgtas we control every component of hardware design manufacturing data processing and software engineering our office is a truly inspiring mix of experts from a variety of domainsltbrgtltbrgtwe have a peoplecentric approach toward culture and community and we strive to iterate in a way that puts our team members first and prepares our company for growth join planet and be a part of our mission to change the way people see the worldltbrgtltbrgtplanet is headquartered in san francisco california earthltbrgtltbrgtltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtas an sre at planet you will be a member of an operations team focused on ampgt uptime of a geographically diverse ground station network the network is composed of a mix of cloud infrastructure physical servers networking equipment and industrial controllers working in unison to autonomously track and communicate with planets satellite constellationltbrgtltbrgtplanets satellites generate a substantial dataset and moving that data across the ground station network daily poses ever changing design goals for our operations team the ground station team works closely with spacecraft operators and mission control engineers to autonomously control the spacecraft and bring the data back to earthltbrgtltbrgtltstronggtimpact youll ownltbrgtltstronggtltulgtltligtcontribute to the design operation and reliability of a growing global ground station network spanning continentsltligtltligtyou will partner and collaborate with various teams with planet ranging from mission operations to spacecraft design to ensure the ground station network meets all of the needs to achieve planets missionsltbrgtltligtltulgtltstronggtltugtwhat you bringltbrgtltugtltstronggtltulgtltligta software development experience to help our team automate build and manage a diverse and evolving mixture of software and hardwareltligtltligtexperience in operating systems over worldwide networks and how to troubleshoot complex network and software issuesltligtltligtan engineering mindset of empirically improving the availability and performance of our ground station networkltbrgtltligtltulgtltstronggtltugtwhat makes you stand outltbrgtltugtltstronggtltulgtltligthave you ever sshd into a satellite let us knowltligtltligtsoftware development experience in python bash or another modern languageltligtltligtexperience developing testing and deploying software in a production environment especially with docker or other container technologiesltligtltligtexperience provisioning automating and monitoring software on linuxltligtltligtextensive use of configuration management tools like ansibleltligtltligtexperience installing and troubleshooting network routing and switching infrastructureltligtltligtstrong understanding of rf communication and satellite communication protocolsltligtltligtstrong understanding of the osi model vpns tcp bgp and other network protocolsltligtltligtstrong understanding of security best practices in production environmentsltligtltligtexperience developing deep software instrumentation logging and analyzing aggregated information especially timeseries dataltligtltligtstrong mentorship andor leadership qualitiesltbrgtltligtltulgtltstronggtltugtbenefits while working at planetltbrgtltugtltstronggtltulgtltligtcomprehensive health planltligtltligtwellness program and onsite massages in specific officesltligtltligtflexible time offltligtltligtrecognition programsltligtltligtcommuter benefitsltligtltligtlearning and tuition reimbursementltligtltligtparental leaveltligtltligtoffsites and happy hoursltligtltligtvolunteering benefitsltbrgtltligtltulgtltstronggtltugtsome press about usltbrgtltbrgtltugtltstronggtour ceo will marshall featured on ted and featured in a planet blogltbrgtltbrgtplanet bringing space back down to earthltbrgtltbrgttiny privately owned satellites are changing how we view the earth features in nbc newsltbrgtltbrgtplanet and rocket lab create mission patch to honor women in aerospace planet blogltbrgtltbrgtltstronggtltugtwhy we care so much about belongingltbrgtltbrgtltugtltstronggtwere dedicated to helping the whole planet and to do that we must strive to represent all of it within each of our offices and on all of our teams thats why planet is guided by an ultimate north star of belonging dreaming big as we approach our ongoing work with diversity equity and inclusion if this job intrigues you but youre thinking you might not have all the qualifications please do apply at planet we are looking for wellrounded people from around the world who can contribute to more ways than just what is listed in this job description we dont just fill positions we aspire to fulfill peoples careers most excited about folks who are motivated by our underlying humanitarian efforts we are a few orbits around the sun before we get to where we want to be so we hope youre excited to come along for the rideltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T00:24:22.000Z"
+  },
+  "company": {
+    "name": "Planet",
+    "link": "https://www.linkedin.com/company/planet-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltbrgtltbrgtltstronggtthe positionltbrgtltbrgtltstronggtwe are looking for a ltstronggtmachine learning engineer data scientistltstronggt to devise and execute machine learning and data science strategies specific to our mission this leads to the design build and automation of data modeling processes and the creationenhancement of algorithms and predictive models to extract and analyze insights for action by our clients and the ultimate improvement of healthcare outcomes and delivery working on our care and team product suite this person will work daily with the development product and delivery teams but will also collaborate with customers company leadership and sales and marketing the position reports to the chief product officer and is matrixed to the chief data scientistltbrgtltbrgtltstronggtltugtresponsibilities and skillsltbrgtltugtltstronggtltulgtltligtstatistical analysis identify patterns in data this includes having a keen sense of pattern detection and anomaly detection solid applied knowledge of advanced statistical techniques and concepts regression clustering properties of distributions statistical tests and proper usage etc and experience with applications r spss or sasltligtltligtmachine learning create write and implement algorithms and statistical models to enable supervised machine learning solid applied knowledge of a variety of machine learning techniques ensemble of supervised learning algorithms etc and their realworld advantagesdrawbacks analyzing the ml algorithms that could be used to solve a given problem and ranking them by their success probability training models and tuning their hyperparameters analyzing the errors of the model and designing strategies to overcome them deploying models to productionltligtltligtdata engineering exploring and visualizing data to gain an understanding of it then identifying differences in data distribution that could affect performance when deploying the model in the real world verifying data quality andor ensuring it via data cleaning supervising the data acquisition process if more data is needed finding and evaluating available datasets that could be used for training defining data validation strategies and the preprocessing or feature engineering to be done on a given dataset defining data augmentation pipelinesltligtltligtcomputer science and programming write computer programs and analyze large datasets to uncover answers to complex problems comfortable writing code working in a variety of languages and toolsltligtltligt experience and or exposure with postgresql python scikitlearn tensorflow pandas numpy dockerkubernetes and aws s redshift athena lambda dashboards tableau powerbi quicksight and rest apisltligtltligtdata storytelling communicate actionable insights using data often for a nontechnical audience converting data into digestible bites that nontechnical members of an organization can understand understanding the functions and systems within hospitals and using data findings to support decisionmakingltligtltligtbecome intimate with business objectives develop models that help to achieve them along with metrics to track their progress and ongoing improvementltbrgtltligtltulgtltstronggtltugtideal backgroundltbrgtltugtltstronggtltulgtltligta minimum of years of professional experience and demonstrated track record of success in using data to drive business success and growth outcomesltligtltligtadept at using very large data sets b to find opportunities for product and process optimization and using models to test the effectiveness of different courses of actionltligtltligtexperience using a variety of data miningdata analysis methodstoolsltligtltligta statistical and or mathematics background is idealltligtltligtexperience building and implementing models usingcreating algorithms and creatingrunning simulationsltligtltligtcomfortable working with a wide range of stakeholders and functional teams including engineering and product sales and marketing delivery and customer engagementltligtltligtability to establish and maintain effective respectful and trusting relationships with clients consumers and colleagues with varying needs personalities and stylesltligtltligthealthcare acumen and exposure to population health claims data and clinical workflows preferredltligtltligtexperience with jira or similar systems for agile software developmentltligtltligtexperience with office software skills eg ms office or google suite requiredltbrgtltbrgtltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T01:04:10.000Z"
+  },
+  "company": {
+    "name": "Conexess Group",
+    "link": "https://www.linkedin.com/company/conexess-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "TN",
+    "postal_code": "37064",
+    "street_address": null,
+    "latitude": 35.923653,
+    "longitude": -86.86783
+  }
+}

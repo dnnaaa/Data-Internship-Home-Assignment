@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services,Investment Banking,Investment Management",
+    "description": "ltstronggtltugtcompany profileltbrgtltbrgtltugtltstronggtat morgan stanley we advise originate trade manage and distribute capital for governments institutions and individuals and always do so with a standard of excellence we are a leading global financial services firm that conducts its business through three principal business segments institutional securities wealth management wm and investment management the firms employees serve clients worldwide from more than offices in countriesltbrgtltbrgtour wm business is one of the largest in the world with more than trillion in client assets billion in lending balances and nearly financial advisors in offices across the us our financial advisors focus on delivering timely customized solutions and services that help clients meet their financial and life goals our offering includes brokerage and investment advisory services financial and wealth planning access to credit and lending cash management annuities and insurance and retirement servicesltbrgtltbrgtas a market leader the talent and passion of our people is critical to our success together we share a common set of values rooted in integrity excellence and strong team ethic morgan stanley can provide a superior foundation for building a professional career a place for people to learn to achieve and grow a philosophy that balances personal lifestyles perspectives and needs is an important part of our cultureltbrgtltbrgtltstronggtltugtdepartment profileltbrgtltbrgtltugtltstronggtglobal banking technology gbt is a dynamic and fastpaced area within the firms wm technology division we are responsible for creating innovative technology solutions for the private banking group pbg one of the strategic growth areas of the firm providing cash management and lending products and services to our wm clients this includes stateoftheart technology for a nationwide network of private bankers and product specialists who work with financial advisors to provide access to products and services such as online banking cards deposit products residential mortgages securitiesbased loans and tailored lending if you are an exceptional individual who is interested in solving complex problems and building sophisticated solutions in a dynamic team environment gbt is the place for youltbrgtltbrgtltstronggtltugtjob summaryltbrgtltbrgtltugtltstronggtwe are looking for a devopssite reliability engineer with a minimum of years of industry experience preferably working in the financial it community the position in the global banking technology team is focused on delivering exceptional services to both bu and dev partners to minimizeavoid any production outages the role will focus on production support within the global banking technology automating deployments and working with the agile teams to build and support stable and reliable production systems the ideal candidate will be passionate about automation and skilled in one of the programming language pythonperlshell ruby java c or the like candidate should possess a strong understanding of database concepts job scheduler mq web services unixlinuxwindows os as well as experience with debugging applications we are looking for a team player with excellent communications skills who is committed to continuously improving and delivering results candidate should be organized disciplined detailoriented selfmotivated and deliveryfocusedltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtneed to work closely with supportdevelopment teams to design build and maintain systemsltligtltligttroubleshoot both nonprod and production issues across the entire stack hardware software application and networkltligtltligtidentify and drive opportunities to improve automation for the company scope and create automation for deployment management and visibility of our servicesltligtltligtrepresent the sre organization in design reviews and operational readiness exercises for new and existing servicesltligtltligthelp design and implement telemetry and statistics gathering in order to locate areas of the plant where effort needs to be focused in order to make improvementsltligtltligtmaintain applications once they are live by measuring and monitoring availability latency and overall system health with a focus on business activities and continuously evaluate cost and wasteltligtltligtwork closely with application development to ensure that the support team has excellent knowledge of the application set own and maintain support knowledgebase and documentsltligtltligtbe flexible to provide weekend on call rotation and attend calls with other team members from other time zones ltbrgtltligtltulgtltstronggtltugtskills requiredltbrgtltugtltstronggtltulgtltligt years of relevant experience bachelorsmasters degree in computer science information systems or related fieldltligtltligtautomationrelated experience using one of the following scripting languages python or perl or shell scriptingltligtltligtstrong database skills with db sybase or oracleltligtltligthandson experience with linuxunixltligtltligtpractical experience on agile methodology eg scrumltligtltligtawareness of and ability to reason about modern software ampamp systems architectures including loadbalancing queueing caching distributed systems failure modes micro services cloud etc ltbrgtltligtltulgtltstronggtltugtskills desiredltbrgtltugtltstronggtltulgtltligtknowledge of cloud based deployment security networking concepts in azure and awsltligtltligtknowledge of autosys or other batch scheduling softwareltligtltligtexperience in continuous integration and continuous deploymentltligtltligtknowledge and handson experience on with monitoring tools like splunk ip soft sockeyeltligtltligtknowledge or experience with automating deployments using jenkins train or windeploy ltbrgtltligtltulgtltstronggtposting dateltbrgtltbrgtltstronggtaug ltbrgtltbrgtltstronggtprimary locationltbrgtltbrgtltstronggtamericasunited states of americageorgiaalpharettaltbrgtltbrgtltstronggteducation levelltbrgtltbrgtltstronggtbachelors degreeltbrgtltbrgtltstronggtjobltbrgtltbrgtltstronggtdevelopmentltbrgtltbrgtltstronggtemployment typeltbrgtltbrgtltstronggtfull timeltbrgtltbrgtltstronggtjob levelltbrgtltbrgtltstronggtassociateltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T19:09:06.000Z"
+  },
+  "company": {
+    "name": "Morgan Stanley",
+    "link": "https://www.linkedin.com/company/morgan-stanley"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

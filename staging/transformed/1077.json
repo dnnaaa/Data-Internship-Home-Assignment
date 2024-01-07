@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "ltpgtthe role of a data scientist has evolved and expanded from that of a data analyst as with an analyst they organize and analyze data collected by an organization such as sales figures logistics or market research etc the difference is that data scientist will use their strong business sense along with an ability to communicate findings to both business and it leaders in a way that can influence how an organization approaches a business challengeltpgtltpgtltbrgtltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltpgtltbrgtltpgtltulgtltligtperform datamining modeling and hypothesis generation in support of highlevel business goalsltligtltligtstay current with emerging tools and techniques in machine learning statistical modeling ampamp analyticsltligtltligtsuccessful data scientists often have strong aptitudes for business technology mathematics ampamp statisticsltligtltligtneed strong oral ampamp written communication skills to present data as a concise story for diverse audiencesltligtltligtbig data scientists develop customized algorithms to solve analytical problems with incomplete data setsltligtltligtbig data scientists often use data visualizations eg heat maps to analyze and present complex trendsltligtltligtmany data scientists use hadoop an opensource apache framework to analyze ampamp mine big data setsltligtltligtsome data scientists have computer programming skills such as sql python unix php r and java ltligtltligtwhich they use to modify or develop custom analytical solutionsltligtltligtdata scientists often work in a team setting with managers it administrators programmers statisticiansltligtltligtgraphic designers and experts in the companys products or servicesltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltpgtltbrgtltpgtltpgtbachelors degree in graphic design or related fieldltpgtltulgtltligtltstronggtindepth knowledge in rltstronggtampnbspr is used for data analysis as a programming language as an environment for statistical analysis data visualizationltligtltligtltstronggtpython codingampnbspltstronggtpython is majorly preferred to implement mathematical models and concepts because python has rich librariespackages to build and deploy modelsltligtltligtltstronggtms excelampnbspltstronggtmicrosoft excel is considered a basic requirement for all data entry jobs it is of great use in data analysis applying formulae equations diagrams out of a messy lot of dataltligtltligtltstronggthadoop platformltstronggtampnbspit is an open source distributed processing framework it is used for managing the processing and storage of big data applicationsltligtltligtltstronggtsql databasecodingltstronggtampnbspit is mainly used for the preparation and extraction of datasetsampnbspit can also be used for problems like graph and network analysis search behaviour fraud detection etcltligtltligtltstronggttechnologyltstronggtampnbspsince there is so much unstructured data out there one also should know how to access that data this can be done in a variety of ways via apis or via web serversltligtltulgtltpgtltbrgtltpgt",
+    "employment_type": "PART_TIME",
+    "date_posted": "2021-07-20T06:03:08.000Z"
+  },
+  "company": {
+    "name": "Theax",
+    "link": "https://in.linkedin.com/company/theax-webinars"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

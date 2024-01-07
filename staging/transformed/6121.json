@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Remote)",
+    "industry": "Information Technology and Services,Automotive,Financial Services",
+    "description": "ltstronggtwho we areltbrgtltbrgtltstronggtkar global powers the worlds most trusted automotive marketplaces through innovation technology and people our endtoend platform serves the remarketing needs of the worlds largest oems dealers fleet operators rental companies and financial institutionsltbrgtltbrgtltulgtltligtwere a technology company delivering next generation tools to accelerate and simplify remarketingltligtltligtwere an analytics company leveraging data to inform and empower our customers with clear actionable insightsltligtltligtand were an auction company powering the worlds most advanced and integrated mobile digital and physical auction marketplacesltbrgtltbrgtltligtltulgtat kar the service operations team designs deploys and operates infrastructure and applications across multiple environments and around the globe we are a dynamic and innovative team which aims to provide exceptional customer experience by leveraging best in class automation and orchestration practices for infrastructure and applications as a site reliability engineer you will utilize your software and systems engineering background to build and run largescale distributed faulttolerant systems we strive to hire people who are looking to make an impact and thrive in a freedom filled environment driven by contextltbrgtltbrgtltstronggtabout our candidateltbrgtltbrgtltstronggtyour role is to ensure that our systems both internally and externally facinghave reliability and maximum uptime our current team focuses on optimizing existing systems building infrastructure and eliminating work through automation you are responsible for the big picture of how our systems relate to each other we use a breadth of tools and approaches to solve a broad spectrum of problems practices such as limiting time spent on manual operational work postmortems and proactive identification of potential outages factor into iterative improvement that is key to both product quality and technical standardsltbrgtltbrgtltstronggtthe challenge aheadltbrgtltbrgtltstronggtltulgtltligtbuild scalable systems using best practices around automation pushing changes that improve reliability and velocityltligtltligtsupport services before they go live through activities such as system design consulting developing software platforms and frameworks planning and reviewsltligtltligtmaintain services once they are live by measuring and monitoring availability latency and overall system healthltligtltligtprovide mentorship and training to other team members on technologies and processes drive education and knowledge transfer of design patterns technical practices and relevant technologies and toolsltligtltligtdrive high standards around incident response practices and policiesltbrgtltbrgtltligtltulgtltstronggtyou should have the followingltbrgtltbrgtltstronggtltulgtltligt years of experience in an it operational devops site reliability engineer or software engineering roleltligtltligtindepth experience with cloud computing and solid experience of setup and management of cloud infrastructureltligtltligtyou can write code in any language youve implemented your work to productionltligtltligtexperience with configuration management and infrastructure automation tools such as ansible artifacts buildrelease pipelines docker github hashicorp kubernetes etcltligtltligtexperience with large scale distributed systems in the cloud and concerns like load balancing and disaster recoveryltligtltligtexperience with the operational aspects of software systems such as monitoring centralized logging and alerting with tools such as splunk appdynamics honeycombio datadog prometheusltbrgtltbrgtltligtltulgttechjobs",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T13:20:35.000Z"
+  },
+  "company": {
+    "name": "KAR Global",
+    "link": "https://www.linkedin.com/company/karglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 71700,
+    "max_value": 83800,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Carmel",
+    "region": "IN",
+    "postal_code": "46032",
+    "street_address": null,
+    "latitude": 39.978386,
+    "longitude": -86.12707
+  }
+}

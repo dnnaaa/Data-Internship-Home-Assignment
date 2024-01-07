@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Observability)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "observability oy at mlb has a focus on providing tools and software to various technical teams throughout the organization to help keep eyes on our running systems monitoring and to aid software development teams understand the performance of their systems apm and to give them tools to help debug extant issues logs dashboards etc the technical stack at mlb covers a large surface area covering everything from environmental and ups battery state in ballparks to kubernetes cluster health in the cloud we want to enable visibility into all important parts of the technical landscape at mlbltbrgtltbrgtas an sre focused on oy at mlb you willltbrgtltulgtltligt write code in python golang bash typescript javascript hcl and maybe ccltligtltligt use and administer grafanaltligtltligt write and maintain plugins for grafana both open source and closedltligtltligt interface with technical teams to help drive good oy practices and cultureltligtltligt help enhance the next generation of apm toolingltligtltligt be oncall for oy managed servicesltligtltligt use google cloud platformltligtltligt use and understand statisticsltbrgtltligtltulgtltstronggtltugta good fit for this role willltbrgtltugtltstronggtltulgtltligt have an eagerness to be a selfstarter and get things doneltligtltligt have written code in a compiled language that runs in production somewhereltligtltligt have written code in interpreted languagesltligtltligt have worked with time series data extensivelyltligtltligt have worked with oy tools extensivelyltligtltligt have some experience with terraformltligtltligt be able to communicate effectively and asynchronouslyltligtltligt understand the documentation is a productltligtltligt have worked with and gained a solid understanding of grafana and its ecosystemltbrgtltligtltulgtltstronggtltugtprojects you will almost certainly work onltbrgtltugtltstronggtltulgtltligt help enhancing our inhouse apm product to support rumltligtltligt exposing stackdriver logs in grafanaltligtltligt exemplars for latencyerror based alertsltligtltligt supporting app release annotationsltbrgtltligtltulgtltstronggtwhat is it like to work at mlbltbrgtltbrgtltstronggtmajor league baseball mlb is the most historic of the major professional sports leagues in the united states and canada employees love working at mlb because of the culture of growth teamwork and professionalism employees who are most successful at mlb take initiative know how to identify problems and provide solutions and always put the team first for those ready to step up to the plate and join the major leagues mlb takes the same approach as teams do with their players empowering them to be at their best by engineering experiences that put employees in the best position to succeed major league baseball is looking for candidates who are passionate about growing americas pastime to best serve its fans for decades to comeltbrgtltbrgtmlbs vision is to be the global sport of choice for youth to play fans of all backgrounds to enjoy and a desired destination for employment with a belief that the journey to growth and greatness is ongoing mlb gives employees the opportunity to continue learning and honing their skills with programs such as tuition reimbursement mentorship programs lunch and learns online course subscriptions paid industry certifications business resource groups and moreltbrgtltbrgtmlb provides its employees with exceptional medical dental and vision coverage premiums are employer covered to help employees focus on being their bestltbrgtltbrgtall inoffice positions are subject to mlbs mandatory covid vaccine policy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-06T01:05:39.000Z"
+  },
+  "company": {
+    "name": "Major League Baseball",
+    "link": "https://www.linkedin.com/company/major-league-baseball"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

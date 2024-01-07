@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "ltpgtltstronggtour amazing teamsparkpostltstronggtltpgtltpgtsparkpost is the industrys most trusted email optimization platform sparkpost helps senders reliably reach the inbox with powerful solutions to help them plan execute and optimize their email programs the sparkpost platform is powered by the industrys largest data network a team of email experts to help brands elevate every aspect of their email program and a security and compliance posture to support even the most regulated industries sparkpost is the worlds largest sender delivering of all commercial email trillion sent annually and also boasts the worlds largest data footprint to help enterpriselevel brands make datadriven decisions to improve their email performance the worlds most sophisticated senders including the new york times zillow adobe and bookingcom trust sparkpost to elevate their emailltpgtltpgtampnbspltpgtltpgtampnbspltpgtltpgtltstronggtwhat youll do in this role to add valueltstronggtltpgtltpgtat sparkpost we value site reliability engineering methodologies and concepts sres play a critical role at sparkpost and are largely responsible for designing building and maintaining the solutions forampnbsp infrastructure and application deployment management with an emphasis in scalability fault tolerance performance and monitoringltpgtltpgtltbrgtltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtbuild and maintain tooling to automate and continuously improve the provisioning of infrastructure in aws with emphasis on scalability reliability resiliency zero downtime and ability to rollbackampnbspltligtltligtdesign and develop tools scripts and frameworks to enable selfservice capabilitiesampnbspltligtltligtdesign and develop automation workflows performing unit tests and conducting reviews to make sure your work and work of others is elegantly coded and tuned effectively with emphasis in platform performance and resiliencyampnbspltligtltligtdesign and implement monitoring and alerting that are actionable and backed with detailed documentation on how to take action on alertsampnbspltligtltligtability to effectively coordinate with architecture sres and engineering teams to propose and develop solutionsampnbspltligtltligtwork closely with software development and testing teams assuring that software is reliable and scalableampnbspltligtltligtexcellent system and network troubleshooting skills with linuxunixampnbspltligtltligtparticipate in x oncall rotation to support customersampnbspltligtltulgtltpgtampnbspltpgtltpgtltstronggtrequired skillsqualificationsltstronggtltpgtltulgtltligtstrong knowledge of test driven developmentampnbspltligtltligtcomfortable with architecture modelling plus for familiarity with the c model of architecture diagramsltligtltligt years of experience working under a scrum modelampnbspltligtltligt years of experience working with public cloud infrastructure either aws azure or google cloud platformampnbspltligtltligt years of experience implementing and operating production workloads in public cloud provider preferably with aws using automated provisioningampnbspltligtltligt years of experience with gitampnbspltligtltligtampnbsp years of experience building with infrastructureascode and configuration management tools cloudformation terraform chef puppet or ansibleampnbspltligtltligtampnbsp years of experience in software development or scripting including deep knowledge of at least one of the following languages bash java ruby or typescriptampnbspltligtltligtampnbsp years of experience in application monitoring and log analytics tools datadog new relic splunkelk with a solid understanding of how to implement effective automated application monitoring for mission critical applicationsampnbspltligtltligt years of experience in leading mediumtolarge scale deployments of applications hosted on aws which includes automating every aspect of delivering those applicationsampnbspltligtltligt years of experience in a public facing hightraffic production web or email operations environmentampnbspltligtltligtindepth understanding of smtp http tcp rest apis and related protocolsampnbspltligtltligtexperience with apachenginx load balancers dns ntp virtual machines and openvpnampnbspltligtltligtstrong understanding of modern virtualized server hardware ability to identify resource issues related to utilization of cpus memory disk io and network ioampnbspltligtltligt years of experience with sql and nosql databasesampnbspltligtltligt years of experience implementing monitoringalerting systems in an automated fashion using services such as circonus datadog new relic nagios etcampnbspltligtltligtstrong analytical and problemsolving skills including the ability to quickly identify trends and patterns and ability to identify root causes of problems and candidate solutionsltligtltligtampnbspability to work collaboratively across multiple teams in multiple locations participate in code reviewsltligtltligtproven track record of selfmotivated expansion of technical knowledgeampnbspltligtltulgtltpgtampnbspltpgtltpgtltstronggtdesired skillsexperienceltstronggtltpgtltulgtltligtcertification in aws either devops sysops or saltligtltligtexperience with either javascript c or lualtligtltligtexperience with bgp internet routing and aws network stack would be a plusltligtltulgtltpgtampnbspltpgtltpgtltemgtsparkpost provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race color religion age sex national origin disability status genetics protected veteran status sexual orientation gender identity or expression or any other characteristic protected by federal state or local lawsltemgtltpgtltpgtampnbspltpgtltpgtltemgtthis policy applies to all terms and conditions of employment including recruiting hiring placement promotion termination layoff recall transfer leaves of absence compensation and trainingltemgtltpgtltpgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T00:28:07.000Z"
+  },
+  "company": {
+    "name": "SparkPost",
+    "link": "https://www.linkedin.com/company/sparkpost"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

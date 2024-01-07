@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - Healthtech Startup",
+    "industry": "Computer Software,Internet,Hospital &amp; Health Care",
+    "description": "canceriqs technology makes it possible for providers to recognize and empower patients who have increased risk for cancer at scale offering patients cancer risk assessment genetic counseling and genetic testing is the right thing to do but most hospitals cancer centers breast centers and womens health providers simply dont have the time or the resources to do it canceriqs unique technology enables providers to screen assess and manage entire patient populations based on individual genetic risks that means they can prevent deadly earlyonset cancersltbrgtltbrgtproviders who partner with canceriq can also improve quality of care and staff satisfaction increase revenues and efficiencies address social determinants of health meet guidelinesrequirements and enhance customer loyaltyltbrgtltbrgtcanceriq is seeking a data engineer with a mission to create a data pipeline that allows our data to be flexible and reliable in efficient ways to gain clinical insights in the cancer prevention and genetics space the data engineer position will have the unique opportunity of working independently to understand and monitor data performance and identify areas of improvement both internally and for clientsltbrgtltbrgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgt ltligtarchitect and automate our teams data infrastructure and pipelines including finding appropriate data sources filtering postprocessing deduplicating and versioningltligt ltligtdesign and develop data structures that support downstream analysis and other strategies that optimize data operational efficiency and quality ltligt ltligtdesign and develop sustainable etl processes using sql by strategizing how to store process and load highly confidential data efficiently and how we can gain insights from this data ltligt ltligtwrite welltested production ready code in python andor sql before shipping ltligt ltligtdefine design and build data testing and quality frameworks ltligt ltligtimprove the efficiency reliability and latency of our data system ltligt ltligtcreate processes to identify prioritize and illustrate data quality issues and remediation efforts ltligt ltligthelp ensure data quality and meet data delivery slas ltligt ltligtdesigning building and managing the reporting environment including data sources processes security and metadata including troubleshooting ltligt ltligtprocessing confidential data and information according to compliance guidelinesltligt ltligtidentify analyze and interpret trends or patterns in complex data sets and provide ongoing reports and future projects ltligt ltligtlead additional data projects such as import export of additional data sets and data sources ltligt ltligtacquiring data from other primary or secondary data sources and integrating into existing data architecture ltligt ltligtwork with senior leaders to prioritize business and information needs to understand their data and evaluation needs to develop tools that make it easy for individuals to consume data ltligt ltligtstay uptodate with highpotential new technologies and can evaluate and present to the team for canceriqs use case ltligt ltbrgtltbrgtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgt ltligt experience in healthcare technology space preferred ltligt ltligtis exceptional at taking ownership when solving problems in an independent manner ltligt ltligttechnical expertise regarding data models and database design development ltligt ltligtvery experienced in python and sql ltligt ltligtstrong experience writing queries and automating a data pipeline process ltligt ltligtyou enjoy iterating quickly and building tools that are easy to use and extensible ltligt ltligtyou thrive in a fastpaced research environment where solutions are ambiguous and require creative problem solving and autonomy ltligt ltligtstrong analytical skills with the ability to collect organize analyze and disseminate significant amounts of information with attention to detail and accuracy ltligt ltligtability to translate business requirements into nontechnical lay terms ltligt ltligthighlevel written and verbal communication skills and strong attention to detail ltligt ltligtis passionate about preventing cancer and canceriqs mission to improve healthcare through technologyltligt ltbrgtltbrgtltulgtltugtltstronggtbenefitsltbrgtltstronggtltugtltulgt ltligtcompetitive pay and benefits health insurance travel subsidies discount programsltligt ltligtpassionate highenergy culture surrounding yourself with people that are excited to get stuff done and make an impact is motivating ltligt ltligtbuilding things to save livesltligt ltbrgtltbrgtltulgtwe are an equal opportunity employer all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability or protected veteran statusltbrgtltbrgtnote at canceriq the safety and wellness of our employees is our top priority to provide our employees with the support they may need to maintain their personal health and wellness our office is open and available for those employees who are interested in using it our longterm goal is for canceriq employees to return to our chicago office however working remotely will be an option until everyone is comfortable and it is safe for all to returnltbrgtltbrgtcanceriq requires you are authorized to work in the us as a precondition of employment we are unable to grant sponsorships at this time",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-16T01:02:42.000Z"
+  },
+  "company": {
+    "name": "Cancer IQ",
+    "link": "https://www.linkedin.com/company/cancer-iq-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - (100% REMOTE)",
+    "industry": "Computer Software,Financial Services,Real Estate",
+    "description": "exp realty is one of the fastest growing real estate brands in north america with thousands of agents operating across the united states canada and around the world as a fullservice real estate brokerage exp realty provides access to collaborative tools training and socialization for real estate brokers and agents through its d fullyimmersive cloud office environmentltbrgtltbrgtexp realty attracts the most talented people from all fields whether youre a real estate professional engineer marketer accountant or another field youll be challenged and inspired every day join us on this incredible journeyltbrgtltbrgtwe are fully remoteltbrgtltbrgtltstronggtltugtgeneral summaryltbrgtltbrgtltugtltstronggtexp realty is hiring a site reliability engineer sre to join our devops engineering team this role is for a highperforming handson engineer committed to the practices required to support critical customerfacing platforms requiring consistent uptime while driving continuous improvement and innovation we are building the next generation saas operations organization to enable our product development teams to effectively deliver saas products and service offerings to our customersltbrgtltbrgtthis sre role will be focused on continually improving our operational practices and automating them to reduce toil through code or use of modern tools along with being engaged in activities for improving availability and reliability of our infrastructure systems and servicesltbrgtltbrgtfocus will be around designing effective monitoring alerting for conditions such as applicationerrors high memory usage and log aggregation approaches to quickly access logs for troubleshooting or generate reports for trend analysis to proactively notify stakeholders of issues and communicate metricsltbrgtltbrgtltstronggtltugtmajor responsibilitiesltbrgtltugtltstronggtltulgtltligtmonitor measure and improve the reliability availability and scalability of it infrastructure applications and servicesltligtltligtparticipate in rotational shifts for handling production operation issuesltligtltligtengage in incident response and participate in postmortem analysis to investigate root cause and capture contributing factors for remediationltligtltligtperform analytics on previous incidents and trendusage patterns to better predict issues and take proactive actionsltligtltligtidentify manual routine operational practices and build robust automation capabilities using code and modern toolsltligtltligtcollaborate with devops team members and business stakeholders to gather requirements for enabling and improving performance monitoring for applications and servicesltligtltligtdesign and build custom tools as needed to support process optimization and continually strive to challenge the statusquo and improve operational efficiencyltligtltligtengage in service capacity planning and demand forecasting software performance analysis and system tuningltligtltligtcreate meaningful dashboardsreports for application telemetry and infrastructure health for proactively identifying performance constraints and bottlenecksltbrgtltligtltulgtltstronggtltugteducationltbrgtltugtltstronggtltulgtltligtbachelors degree in computer science information systems engineering or equivalent experienceltligtltligtaws certifications would be a plusltbrgtltligtltulgtltstronggtltugtrequired skills and experienceltbrgtltugtltstronggtltulgtltligt years of experience managing aws infrastructureltligtltligtstrong understanding of cloudbased architecture and cloud operations demonstrable experience with monitoring alerting tools such as new relic sitex pagerduty etcltligtltligtexperience with log aggregation tools such as sumologic fluentd scribe splunkltligtltligthandson experience with amazon web services andor equivalent public cloud technologyltligtltligtfoundational understanding of infrastructure and platform technology stacksltligtltligtstrong understanding of networking concepts and theories such as different protocols tcpip udp icmp etc mac addresses ip packets dns osi layers and load balancingltligtltligtworking knowledge of infrastructure and application monitoring platforms such as solarwinds datadog newrelic bigpanda elasticstack thousandeyes cloudwatch or equivalentltligtltligtunderstanding of the core devops practices cicd pipeline release management etcltligtltligtability to write code using any one modern programming language phython javascript ruby etc ltligtltligtconfiguration management platform understanding and experience chefpuppetansibleltligtltligtservice availability oriented mindset with a proactive approach to problem solving ltligtltligtan ideal candidate should be able to develop automated solutions to prevent recurring problemsltligtltligtpossesses the ability and willingness to challenge the statusquo and optimize current procedures and processesltligtltligtstrong sense of ownership and an ability to drive crossfunctional process improvementltligtltligtpossesses excellent interpersonal written and verbal communications skillsltligtltligtanalytical and logical approach to problemsolving and a willingness to automate repetitive tasks and reduce manualreactive workloadltligtltligtability and willingness to coach and mentor team members and colleaguesltbrgtltligtltulgtltstronggtltugtdesired experienceltbrgtltugtltstronggtltulgtltligtprior experience in cloud management automation tools terraform cloudformation etcltligtltligtexperience with source code management software and api automationltligtltligtcloud certifications or equivalent experience highly regardedltbrgtltligtltulgtexp realty is an equal employment opportunity employer all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin protected veteran status or disability or any other characteristic protected by lawltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:14:09.000Z"
+  },
+  "company": {
+    "name": "eXp Realty",
+    "link": "https://www.linkedin.com/company/exp-realty"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services,Banking,Information Technology and Services",
+    "description": "ltpgtour engineers enjoy reducing or completely eliminating manual tasks are excellent problem solvers and know automation is key to operating a largescale systemltpgtltpgtsres make sure that our applications highly available and service level objectives slo are met sres work directly on scrum teams with our software engineers using their interest in operations and development skills to ensure new features follow sre best practices and are supportableltpgtltpgtltbrgtltpgtltpgtltugtresponsibilities includeltugtltpgtltpgtltbrgtltpgtltulgtltligtcicdltligtltligtmonitor and resolve issues in all environments ensure slo and uptime are metltligtltligtbe a member of scrum teams to ensure sre concerns are addressed from the time a feature is designed through its deployment to productionltligtltligtengage in capacity planning and demand forecasting anticipating performance bottlenecks and scaling the environment as neededltligtltligtchange managementltligtltligtuptime and slo reportingltligtltulgtltpgtltbrgtltpgtltpgtltugtltspan classqlcursorgtltspangtrequirementsltugtltpgtltpgtltbrgtltpgtltulgtltligtexpertlevel knowledge of at least one configuration management system chef ansible puppet etcltligtltligtexperience with build automation and configuration management tools eg puppet chef ansibleltligtltligtstrong knowledge of theampnbspamazon web services awsampnbspecosystem and other core aws technologiesltligtltligtsoftware development background preferredltligtltligtexperience with a microservice architecture running in containers docker or other containerization technologyltligtltligtexperience with docker tooling and ecosystemltligtltligtexperience supporting x high availability internet application environments that include web application and database servers and load balancing systemsltligtltligtbachelors degree or higher in computer science or equivalent experienceltligtltligtaws certification a plusltligtltligtexcellent written and communication skillsltligtltulgtltpgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T16:32:28.000Z"
+  },
+  "company": {
+    "name": "Lumin Digital",
+    "link": "https://www.linkedin.com/company/lumindigital"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

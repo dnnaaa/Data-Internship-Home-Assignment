@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer I",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "who we are looking forltbrgtltbrgtltstronggtltugtwe seek passionate engineers who can bring the followingltbrgtltugtltstronggtltulgtltligtability to observe diagnose code and test fixes for production issues quickly and efficientlyltligtltligtability to develop and drive real time supervising solutions that provide visibility into site health and key performance indicatorsltligtltligtstrong communication skills written and verbal with ability to articulate issues and their impacts write concise runbooks and give technical demosltligtltligtcapable in reporting and communicating metrics with an understanding of the business landscape and how site reliability influences our consumersltligtltligtworking understanding of it service management incident problem change and knowledge managementltligtltligtability to work across teams business and technical to continuously analyze system performance troubleshoot for avoidancerootcause and proactively identify areas in need of optimizationltligtltligtpassion for continuous learning partnership and collaborationltligtltulgt what you will work onltbrgtltbrgtas a site reliability engineer i in the retail and athlete tools team you will be passionate about maximum availability observability reliability security and performance of nikes digital experiences in stores and in our digital call centers around the globe you will build applications tools and automation with an operational attitude and use your technical skills to provide deep problem analysis detect system faults or code defects define report and create observability processes for key performance indicators kpis and work with product delivery teams to provide long term scalable solutions to production issuesltbrgtltbrgtwhat you bringltbrgtltulgtltligtbachelors degree in computer science information systems business or other relevant subject arealtligtltligt years of professional experience in software development testing andor devops engineeringltligtltligtdesign and development experience with microservice based architecture in java nodejs or similar language preferredltligtltligtdesign and development experience with frontend ui languages such as javascript react swift or similar preferredltligtltligtexperience building deploying and supporting cloudbased systems in aws preferredltligtltligtexperience with at least one database layer such as sql dynamodb cassandra etcltligtltligtunderstanding of basic network and infrastructure concepts such as dns virtualization linuxltligtltligtexperience with docker andor serverless patterns a plusltligtltligtexperience with observability monitoring tools such as splunk signalfx new relic or catchpoint a plusltligtltligtbackground with itil or lean a plusltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-28T04:09:20.000Z"
+  },
+  "company": {
+    "name": "Nike",
+    "link": "https://www.linkedin.com/company/nike"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

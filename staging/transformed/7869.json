@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer, Monitoring",
+    "industry": "Computer &amp; Network Security,Computer Software,Information Technology and Services",
+    "description": "we are looking for an experienced site reliability engineer to join oktas technical operations team at okta our motto is always on and nowhere do we embrace that more than in technical operations we strive to build the most reliable and performant systems on the planet through the skillful use of automation weve created an integrated system that securely connects any person via any device to the technologies they need to do their most significant workltbrgtltbrgtthis role is ideal for someone who not only enjoys working on large scale cloud production systems but gains pride from seeing those systems handle anything the internet can throw at themltbrgtltbrgtif you like to be challenged and have a passion for solving problems at scale with automation testing and tuning then we would love to hear from you the ideal candidate is someone who exemplifies the ethics of if you have to do something more than once automate it and who can rapidly selfeducate on new concepts and tools this engineer can be in our bellevue san francisco andor san jose office or can be remoteltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtdesign build and monitor oktas global production infrastructureltligtltligtrespond to production incidents and determine preventive solutionsltligtltligttroubleshoot complex reliability and performance issuesltligtltligtautomate manual processes evolve our monitoring tools and develop technical documentationltligtltligtsupport a highly available and large scale online environment as part of an oncall rotation once per quarterltbrgtltligtltulgtltstronggtltugtqualifications ampamp requirementsltbrgtltugtltstronggtltulgtltligtexperience with federal and dod compliance requirements fedramp illtligtltligtbackground using and supporting splunk zabbix wavefront elasticsearch logstash kibana or related toolsltligtltligtpassionate about automationltligtltligtexperience in chatops tooling slack automation pagerduty integrationltligtltligtbackground with linux systems administration and strong scripting skills in bash ruby python go etcltligtltligtexperience supporting docker containers and web applications running on java apache tomcat in a live production environmentltligtltligtstrong expertise with production services in aws such as ec ecs kms kinesis cloudwatchltligtltligtprevious experience with automating systems and infrastructure via ansible chef or terraformltligtltligtsolid understanding of networking concepts and ip protocolsltligtltligtexperience with multicloud infrastructure is desiredltligtltligtcomputer science plus or relevant experienceltbrgtltligtltulgtltstronggtltugteducation and trainingltbrgtltugtltstronggtltulgtltligtbs computer science plus or relevant experienceltbrgtltligtltulgtokta is rethinking the traditional work environment providing our employees with the flexibility to be their most creative and successful versions of themselves no matter where the employees are located we enable a flexible approach to work meaning you can work from the office or home regardless of where you live okta invests in the best technologies and provides flexible benefits and collaborative work environmentsexperiences empowering employees to work productively in a setting that best and uniquely suits their needs find your place at okta httpswwwoktacomcompanycareersltbrgtltbrgtokta is an equal opportunity employerltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T04:53:02.000Z"
+  },
+  "company": {
+    "name": "Okta",
+    "link": "https://www.linkedin.com/company/okta-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Las Vegas",
+    "region": "NV",
+    "postal_code": "89159",
+    "street_address": null,
+    "latitude": 36.16909,
+    "longitude": -115.14058
+  }
+}

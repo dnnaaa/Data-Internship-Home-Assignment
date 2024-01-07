@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "ltpgtmicrosoft systems engineers and systems administrators teams can have a wide range of responsibilities they are responsible for the systems and infrastructure that run the it department and organization as well as serve as an escalation point to the service desk aka help deskltpgtltpgt ltpgtltpgtltstronggtltugtcommon responsibilitiesltugtltstronggtltpgtltpgtevery member of microsoft systems engineers will have active directory experience it houses all of our user and computer accounts as well as service accounts it is also the bouncer that checks your password when you attempt to sign into an app or device itltpgtltpgtltbrgtltpgtltpgtsystems engineers often must build new servers for multiple environments including the live one that users are using which is called production lower environments are for testing and they serve different purposes some examples of lower environments are production stage uat dev some organizations have many environments which means a lot of servers to build and maintain ltpgtltpgtltbrgtltpgtltpgtservers have to be maintained to remain functional and secure we secure servers through multiple and many ways some examples are securing servers with group policy objects gpos gpos are a native function of active directory and have broad reach of control of what they can do examples would be mapping a printer or file share others would be to secure the server in addition it is common to secure servers with antivirus ltpgtltpgtltbrgtltpgtltpgtanother common way to secure servers and desktop operating systems is to keep up with the latest updates these updates must be managed and tested before they can be deployed to productionltpgtltpgtltbrgtltpgtltpgtother responsibilities include but are not limited toltpgtltpgtmonitor all systems both on premise and cloud through various monitoring tools ltpgtltpgtltbrgtltpgtltpgtprepare for and configure high availability high availability means that even if one server for a cluster node becomes unresponsive the application remains available ltpgtltpgtltbrgtltpgtltpgtprepare for and configure disaster recovery disaster recovery means that if a system goes down in a larger outage we can recover through our disaster recovery plan to a different site or locationltpgtltpgtltbrgtltpgtltpgtbackups and restoresltpgtltpgtltbrgtltpgtltpgtmaintain virtualization software virtualization software enables the ability to run multiple virtual servers on a single physical server or cluster of physical serversltpgtltpgtltbrgtltpgtltpgt serve as an escalation point for service deskltpgtltpgtltbrgtltpgtltpgtltstronggtltugtcommon toolsltugtltstronggtltpgtltpgtltstronggtactive directoryltstronggtltpgtltpgtltstronggtazure active directoryltstronggtltpgtltpgtltstronggtexchangeltstronggtltpgtltpgtltstronggtintuneltstronggtltpgtltpgtltstronggtmonitoring software ex systems center operations manager scomltstronggtltpgtltpgtltstronggtoffice ltstronggtltpgtltpgtltstronggtsharepointltstronggtltpgtltpgtltstronggtvmwareltstronggtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:50:21.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 57300,
+    "max_value": 76300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta Metropolitan Area",
+    "region": null,
+    "postal_code": "30317",
+    "street_address": null,
+    "latitude": 33.74975,
+    "longitude": -84.38857
+  }
+}

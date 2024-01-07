@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - NLP",
+    "industry": "Consumer Electronics,Automotive",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtwe are seeking a data scientist with familiarity in deep learning models for nlp in this role you will be responsible for the algorithms and models that analyze customer feedback from surveys and reviews you will apply your practical experience dealing with messy data your deep understanding of machine learning fundamentals and algorithms your willingness to write code to explore problems and understand data and your ability to implement solutions from scratchltbrgtltbrgtltstronggtltugtrequirementsltbrgtltbrgtltugtltstronggtms or phd in computer science statistics or related fieldltbrgtltbrgtproven expertise years in the fundamentals and practical application of machine learningltbrgtltbrgtltstronggtltugtexperience with most ofltbrgtltugtltstronggtltulgtltligtdata manipulation sql python sparkltligtltligtstatistical modeling packages pandas numpy scipy ltligtltligtdeep learning bert gptltligtltligtplatforms aws lambasecssagemaker databricks snowflakeltligtltligtfamiliarity with using luceneelasticsearch or other information retrieval systemsltligtltligtability to create prototypes in python to demonstrate various algorithmic approaches and evaluate their performanceltligtltligtexperience working with big data crunching millions of samples for data mining statistical modeling in classification clustering and prediction usecasesltligtltligtdemonstrated ability to work effectively in a crossfunctional team ltbrgtltligtltulgtltstronggtltugtwhats in it for youltbrgtltbrgtltugtltstronggtbe a part of and work with a small multidisciplinary and agile teamltbrgtltbrgtbuild your career with people like you who want to solve problems and have fun togetherltbrgtltbrgtwork on adding innovative capabilities to world class bose business servicesltbrgtltbrgtexcellent work life balance and a continuous learning environmentltbrgtltbrgthighly competitive package as well as a comprehensive benefits programltbrgtltbrgtbose is an equal opportunity employer that is committed to inclusion and diversity we evaluate qualified applicants without regard to race color religion sex sexual orientation gender identity genetic information national origin age disability veteran status or any other legally protected characteristics for additional information please review the eeo is the law poster httpwwwdolgovofccpregscomplianceposterspdfofccpeeosupplementfinaljrfqacpdf and its supplements httpwwwdolgovofccpregscompliancepostersofccposthtm please note the companys pay transparency is available at httpwwwdolgovofccppdfeoprescribednondiscriminationpostinglanguagejrfqacpdf bose is committed to working with and providing reasonable accommodations to individuals with disabilities if you need a reasonable accommodation because of a disability for any part of the application or employment process please send an email to wellbeingbosecom and let us know the nature of your request and your contact information",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T01:17:26.000Z"
+  },
+  "company": {
+    "name": "Bose Corporation",
+    "link": "https://www.linkedin.com/company/bose-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79800,
+    "max_value": 174200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Framingham",
+    "region": "MA",
+    "postal_code": "01703",
+    "street_address": null,
+    "latitude": 42.28156,
+    "longitude": -71.41882
+  }
+}

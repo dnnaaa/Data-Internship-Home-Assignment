@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Embedded Systems",
+    "industry": "Internet",
+    "description": "facebooks mission is to give people the power to build community and bring the world closer together through our family of apps and services were building a different kind of company that connects billions of people around the world gives them ways to share what matters most to them and helps bring people closer together whether were creating new products or helping a small business expand its reach people at facebook are builders at heart our global teams are constantly iterating solving problems and working together to empower people around the world to build community and connect in meaningful ways together we can help people build stronger communities were just getting startedltbrgtltbrgtfacebook is seeking a software engineer to join our server design team our servers and data centers are the foundation upon which our rapidly scaling infrastructure efficiently operates and upon which our innovative services are delivered by holding this role you will be an integral member of a small team and play a key role in building open source software stack to deploy and operate in a largescale data center environment you will own the delivery of software solution for the fastgrowing facebook infrastructure come work alongside our expert software engineers to build nextgeneration software stack this position is fulltime and located in our menlo park officeltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtown design develop test and maintain software stack for leading edge hardware devices and systems to enable facebook infrastructures fast growthltligtltligtdesign and develop the code base of software framework for scalability and extensibility which will enable faster developmentltligtltligtactively collaborate with industry partners to build and evolve open source ecosystem to support long term growth of our software stackltligtltligttake full ownership of driving our vendor partners on active engineering engagement to ensure high quality of software releasesltligtltligtbuild strong partnership with crossfunction infrastructure teams and ensure smooth deployment and operation in our data center environmentltbrgtltligtltulgtltstronggtminimum qualificationltbrgtltstronggtltulgtltligtbachelors degree in computer science computer engineering or equivalent combination of educationltligtltligtexperience coding in cc and python for system software developmentltligtltligtexperience in developing multithreaded applications on embedded linux environmentltligtltligtcommunication troubleshooting and analytical experienceltbrgtltligtltulgtltstronggtltugtpreferred qualificationltbrgtltugtltstronggtltulgtltligtfamiliar with linux kernel ipc and device driver modelltligtltligtfamiliar with various hardware elements of latest data center environmentltligtltligtfamiliar with embedded systems software stackltbrgtltligtltulgtfacebook is proud to be an equal opportunity and affirmative action employer we do not discriminate based upon race religion color national origin sex including pregnancy childbirth or related medical conditions sexual orientation gender gender identity gender expression transgender status sexual stereotypes age status as a protected veteran status as an individual with a disability or other applicable legally protected characteristics we also consider qualified applicants with criminal histories consistent with applicable federal state and local law facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process if you need any assistance or accommodations due to a disability please let us know at accommodationsextfbcom",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:12:02.000Z"
+  },
+  "company": {
+    "name": "Facebook",
+    "link": "https://www.linkedin.com/company/facebook"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

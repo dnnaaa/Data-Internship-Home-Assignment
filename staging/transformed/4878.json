@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Research",
+    "description": "berkeley labs national energy research scientific computing center nersc has an opening for a ltstronggtsite reliability engineerltstronggt within the operations area the operations team manages the nersc hpc data center to ensure resources are available to global users on a x basis the team also manages a data warehouse and notification infrastructure that must be available to continuously collect or queue data from heterogeneous data sources throughout the nersc computational facilityltbrgtltbrgtin this shiftbased role you will provide a variety of engineering support services in a x environment for the primary scientific computational facility for the office of science in the us department of energy doe to ensure that nersc is accessible reliable secure and available to our scientific users additionally this role will work with teams to provide solutions on the servicenow platform as well as implement deliver applications and integrations in open source platforms in a fastpaced agile projectbased environmentltbrgtltbrgtltstronggtltugtmanagement of the data centerltbrgtltbrgtltugtltstronggtltstronggtwhat you will doltbrgtltstronggtltulgtltligt work shifts per week to manage the nersc hpc facility some days may be onsite some may be offsite and the schedule will be determined by staffing needs ltligtltligt review and respond to alerts from computer systems storage network and other data centerfacility related systems by triaging or calling appropriate oncall staff ltligtltligt respond to alerts from the omni cluster data warehouse to ensure that the system continues to collect data x to provide real time information for diagnoses ltligtltligt management of the now platformdevelop solutions to address general updates and configuration changesrequests ltligtltligt data analysis and visualization use kibana and grafana to analyze and diagnose the health of hpc systems using plots and data analysis ltligtltligt create new plots and alerting schemes as new data sets become available ltbrgtltligtltulgtltstronggtltugtwhat is requiredltugtltstronggt ltulgtltligt bachelors degree in computer science or a similar discipline and years of relevant experience or an equivalent combination of work experience education and certifications ltligtltligt handson experience as a linux or similar type of operating system system administrator or system engineer in a customerfacing environment supporting data clusters managing the replacement of hardware and ensuring its continued availability to the user community this can include assisting in the deployment of new nodes and internal switches into production resolving ticket incidents and working with vendors on hardware warranty replacements ltligtltligt handson application software development in the now framework or similar platform must understand itom processes such as incident management change management and problem management within the now framework ltligtltligt demonstrated experience in a unix or linux environment with an understanding of systems storage and network administration to be able to respond to data center facility issues and alerts from systems mentioned ltligtltligt demonstrated experience as a site reliability engineer or similar position with demonstrated skills in the followingltligtltulgtltligt container management like kubernetes ltligtltligt virtualization technologies like ovirt ltligtltligt systems monitoring software like prometheus ltligtltligt a data warehouse management system like the elastic stack or victoriametrics ltligtltligt demonstrated skills in the elk stacks visualization software like kibana and grafana with the knowledge to assist other groups to create plots of or analysis of their data ltligtltulgtltligt handson experience with developing and maintaining diagnostic tools using programming languages like c c python java or perl using knowledge of standard software development practices ltligtltligt networking understanding of network theory and concepts such as tcpip udp icmp networking protocols in general mac addresses ip packets dns osi layers and load balancing ltbrgtltligtltulgtltstronggtltugtdesired qualificationsltbrgtltugtltstronggtltulgtltligt experience with network security such as configuringmaintaining acls and knowledge of firewalls ltligtltligt now platform certification ltligtltligt knowledge of ajax html css and soap ltligtltligt knowledge of angularjs ltligtltligt network programming or a network certification ltligtltligt a certification in a system administration area ltbrgtltligtltulgtltstronggtltugtnotesltbrgtltugtltstronggtltulgtltligt this is a fulltime career appointment exempt monthly paid from overtime pay ltligtltligt this position may be subject to a background check any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position having a conviction history will not automatically disqualify an applicant from being considered for employment ltligtltligt export control this position requires access to export control and security sensitive information therefore the selected incumbent for this position requires us citizenship or us permanent residency ltligtltligt this position will be remote initially but limited to individuals residing in the united states tentatively due to covid once the bay area shelterinplace restrictions are lifted work will be primarily performed at lawrence berkeley national lab cyclotron road berkeley ca ltbrgtltligtltulgtequal employment opportunity berkeley lab is an equal opportunityaffirmative action employer all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability age or protected veteran status berkeley lab is in compliance with the pay transparency nondiscrimination provision under cfr click here to view the poster and supplement equal employment opportunity is the law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T14:58:41.000Z"
+  },
+  "company": {
+    "name": "Berkeley Lab",
+    "link": "https://www.linkedin.com/company/lawrence-berkeley-national-laboratory"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103000,
+    "max_value": 153000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Berkeley",
+    "region": "CA",
+    "postal_code": "94702",
+    "street_address": null,
+    "latitude": 37.869057,
+    "longitude": -122.27046
+  }
+}

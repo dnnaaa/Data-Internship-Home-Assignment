@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "primary dutiesltbrgtltbrgtdevelop code in c which occasional work in ccltbrgtdesign and create guis for data analysis applicationsltbrgtenhance and debug existing coding and applicationsltbrgtperform unit testing and systemlevel testing of softwareltbrgtdocument software from an engineering and enduser perspectiveltbrgtltbrgtskills and qualificationsltbrgtltbrgtmust be a current us citizen and willing to work onsite and not remotelyltbrgtexpertise in c wpf and winformsltbrgtunderstanding of objectoriented programmingltbrgtability to perform multithreaded programmingltbrgtknowledge of tcpip networkingltbrgtfluency with serialization via yaml json and xmlltbrgtfamiliarity with cltbrgtexperience with databases such as mysql postgresql and sqliteltbrgtprior use with development tools such as visual studio git and buildbotltbrgtproficiency in unit testing and systemslevel testingltbrgtempathy for users and a drive for customer delight",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T16:50:19.000Z"
+  },
+  "company": {
+    "name": "Nokomis, Inc.",
+    "link": "https://www.linkedin.com/company/nokomis-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Pittsburgh Region",
+    "region": null,
+    "postal_code": "15201",
+    "street_address": null,
+    "latitude": 40.44678,
+    "longitude": -80.00558
+  }
+}

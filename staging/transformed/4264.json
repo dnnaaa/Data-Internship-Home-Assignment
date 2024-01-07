@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "alloys engineering team provides software development and technical expertise to solve practical realworld problems and build highend worldclass customer experiences we maintain existing products architect new ones estimate effort and provide informed opinions around whats possible reasonable and feasible we strive to incorporate more devops practices into our work every day and to continually leverage the latest cloud computing services our engineers are fearless aggressive makers and problem solvers we love to combine talents to overcome the obstacles that strike fear in the hearts of most shops we learn something new every day and never shy away from conversations music recommendations or new ideasltbrgtltbrgtltstronggtltugtwhat you will doltbrgtltugtltstronggtltulgtltligtdevelop and enhance a suite of applications written in c and sql server hosted in awsltligtltligtimplement new features and bug fixes and support them through testing and deploymentltligtltligtmigrate legacy server based applications onto serverless platforms and managed servicesltligtltligtresearch and pinpoint issues in complex systems with lots of moving piecesltligtltligtdevelop cicd pipelines and automated tests to ensure your applications are always in a deployable stateltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltbrgtltugtltstronggtltstronggtwhat we definitely need ltbrgtltstronggtltulgtltligttakes pride in writing clean elegant codeltligtltligtknowledgeable of modern software platforms patterns and practicesltligtltligtstrong understanding of web protocols such as tcp http and restltligtltligtdetail orientedltligtltligtable to explain complex concepts in simple termsltligtltligtability and desire to quickly learn new technologyltligtltligtstrong troubleshootingdebugging skillsltligtltligtcltligtltligtaspnet mvcltligtltligtjavascript frameworks such as nodejs react and vueltligtltligtentity frameworkdapperltligtltligtsql serverltligtltligtawsltligtltligtgitltbrgtltligtltulgtltstronggtnice to haves ltbrgtltstronggtltulgtltligtbachelor of science in cs or mis preferredltligtltligtsqlnetaws certification is a plusltligtltligtexperience with agile and scrum methodology best practicesltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T04:34:51.000Z"
+  },
+  "company": {
+    "name": "Alloy",
+    "link": "https://www.linkedin.com/company/alloy-birmingham"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Birmingham",
+    "region": "AL",
+    "postal_code": "35226",
+    "street_address": null,
+    "latitude": 33.522858,
+    "longitude": -86.80771
+  }
+}

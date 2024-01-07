@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Services,Information Technology and Services",
+    "description": "ltpgtltstronggtmust havesltstronggtltpgtltulgtltligt years of experience designing building deploying testing maintaining monitoring and owning scalable resilient and distributed machine learning systems and platformsltligtltligtproficiency in operating machine learning solutions at scale covering the endtoend ml workflowltligtltligtexpertise with tools and platforms commonly used for endtoend machine learning kubeflow tfx airflow mlflow ltligtltligtknowledge of feature stores eg feast tectonltligtltligtbasic understanding of ml techniques and algorithms supervised vs unsupervised learning deep learning ltligtltligtfamiliarity with realworld ml systems configuration data collection data verification feature extraction resource and process management analytics training serving validation experimentation monitoringltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T14:00:36.000Z"
+  },
+  "company": {
+    "name": "Majhi Group",
+    "link": "https://www.linkedin.com/company/majhigroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

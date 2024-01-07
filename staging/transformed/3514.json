@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software",
+    "description": "ltpgtrequiredltbrgtltbrgtltpgtltpgtthis will be a contract position in austin txltbrgtltbrgtltpgtltulgtltbrgtltligt years of experience in data analysis data science decision science or similar quantitative fields applying experimentation methods to test various hypotheses for customer segmentation consumer sentiment or perception and outbound online marketing campaign evaluation ltligtltligtexperience finding cleaning and manipulating data to build data sets ltligtltligtstatistical modeling and data analysis experience eg significance testing regression modeling sampling theory etc ltligtltligtexperience using r or python or a similar scripting language for statistical modeling ltligtltligtexperience with sql hive presto hadoop or other data querying languages ltligtltligtexperience communicating with crossfunctional stakeholders including brand strategists marketing researchers product marketing managers and engineers ltligtltulgtltbrgtltbrgtdata",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T16:02:08.000Z"
+  },
+  "company": {
+    "name": "Collabera Inc.",
+    "link": "https://www.linkedin.com/company/collabera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

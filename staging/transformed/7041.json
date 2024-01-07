@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "location nyc onsite ltbrgtduration monthltbrgtinterview process internal and client interviewltbrgt ltbrgt ltbrgtltbrgtprincipal site reliability engineer productivity amp conferencing services workplace technology engineeringltbrgt ltbrgtthe principal site reliability engineer for productivity services is responsible for the technical design and operations of productivity solutions used globally by client employees and partners these solutions will enable the workforce to create share and collaborate on content from anywhere at anytime built upon the microsoft and azure platforms this technical leadership role is expected to apply a software engineering mindset to system administration topics elevating the availability reliability and security of solutions while reducing operational costsltbrgtspecific solutions includeltbrgtemail and calendaring exchange outlook proofpointltbrgtfile storage and sharing onedrive dropboxltbrgtdocument creation word excel powerpointltbrgtvideo audio and text chat teams slackltbrgtmeeting room conferencing and booking cisco condecoltbrgtspecific responsibilities includeltbrgtlead the technical design implementation and operation of productivity solutions with an emphasis on security systems architecture and automated provisioningltbrgtcontribute to the site reliability engineering center of excellence including the creation of standard artifacts best practices and learning plansltbrgtparticipate as a standing member of the engineering review board to evaluate trade studies approve solution designs and maintain the overall workplace system architectureltbrgtparticipate in the weekly agile process to resolve technical impediments and assist in user story definition and sizingltbrgtdesired characteristics includeltbrgtability to communicate effectively both written and verbally to stakeholders and engineersltbrgtability to build effective crossfunctional relationships in support of delivering enterprisewide solutionsltbrgtability to execute within a fastpaced agile process qualifications includeltbrgt years experience designing implementing and operating microsoft services at enterprise scaleltbrgt years experience programming including shell scripting powershellltbrgt years experience designing scalable and reliable enterprise solutions including considerations for multitier software architectures networking and securityltbrgt years experience with cloudbased infrastructure and platform services azure awsltbrgt years experience automating the deployment of enterprise solutions using infrastructureascode configuration management and cicd technologies office and exchange certifications preferredltbrgtexperience with data loss prevention archiving ediscovery and compliance preferredltbrgtmasters degree in computerrelated field preferred",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-01T13:39:21.000Z"
+  },
+  "company": {
+    "name": "PALNAR",
+    "link": "https://www.linkedin.com/company/palnar"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

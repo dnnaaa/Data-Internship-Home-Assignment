@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Platform Operations Engineer",
+    "industry": "Broadcast Media,Entertainment,Media Production",
+    "description": "ltstronggtresponsibilitiesltbrgtltbrgtltstronggtsportsengine inc an nbc sports group company and leading provider of sport relationship management srm software is hiring a senior platform operations engineer to join our platform operations team this role is a unique opportunity to join a team that builds and supports the core infrastructure that runs the sportsengine platform services and products this position spans multiple skill sets from software developer to web operations our platformdriven approach means defining and standardizing organizational best practices and then building them into our kubernetesbased infrastructure platform this role is open to remote applicants applicants in the minneapolis area have the option of working out of our minneapolis office space we strive to have a remote and hybrid friendly work environment giving our employees the flexibility to choose what works best for themltbrgtltbrgtthe key responsibilities of the senior platform operations engineer includeltbrgtltbrgtltulgtltligtensuring the sportsengine platform is up and running smoothly while serving a large volume of trafficltligtltligtusing amazon web services to build highly available services for the sportsengine infrastructure platform built on top of the amazon elastic kubernetes serviceltligtltligthelping to foster a culture of cooperation coordination and continuous learning within the platform operations team and with other product development teams throughout sportsengineltligtltligtworking closely with the sportsengine cyber security team to maintain and improve the security of the sportsengine platformltligtltligtcontributing to and using our github pull requestcentered development pipeline as we continuously deliver value to our customersltligtltligtusing tools such as newrelic and datadog to monitor the health of the sportsengine platformltligtltligtbeing an advocate for quality code and engineering practices that enable continuous deliveryltligtltligtparticipation in the x oncall rotationltbrgtltbrgtltligtltulgtltstronggtqualificationsrequirementsltbrgtltbrgtltstronggtltulgtltligt or more years of experience in the field of software engineering eitherltbrgtltbrgtltligtltulgt operating web applications in a site reliability engineering web operations or cloud engineering capacityltbrgtltbrgt building web applications as a software engineer using ruby javascript net python etcltbrgtltbrgtltulgtltligta strong foundation in modern coding practices and the ability to write quality modular maintainable secure and testable codeltligtltligta teamoriented attitude and seemingly endless intellectual curiosityltligtltligtexcellent verbal and written communication skillsltbrgtltbrgtltligtltulgtltstronggtdesired characteristicsltbrgtltbrgtltstronggtltulgtltligtexperience with any of the followingltbrgtltbrgtltligtltulgtinfrastructure as code terraform chef puppet ansibleltbrgtltbrgtor similar containers docker kubernetes datastoresltbrgtltbrgtmysql redis elasticsearch or data streamingltbrgtltbrgtsnssqs kinesisltbrgtltbrgtltulgtltligtexperience troubleshooting saas based production systems in an incident response capacityltligtltligtexperience in a continuous delivery environment shipping code on a daily basisltligtltligtbachelors degree in computer science or equivalentltbrgtltbrgtltligtltulgtltstronggtsubbusinessltbrgtltbrgtltstronggtsportsengineltbrgtltbrgtltstronggtcareer levelltbrgtltbrgtltstronggtexperiencedltbrgtltbrgtltstronggtcityltbrgtltbrgtltstronggtremoteltbrgtltbrgtltstronggtstateprovinceltbrgtltbrgtltstronggtremoteltbrgtltbrgtltstronggtcountryltbrgtltbrgtltstronggtunited statesltbrgtltbrgtltstronggtabout usltbrgtltbrgtltstronggtnbcuniversal is one of the worlds leading media and entertainment companies in the development production and marketing of entertainment news and information to a global audience nbcuniversal owns and operates a valuable portfolio of news and entertainment television networks a premier motion picture company significant television production operations a leading television stations group and worldrenowned theme parksltbrgtltbrgtnbc sports group serves sports fans with premier live events insightful studio shows and compelling original programming the sports media company consists of nbc sports nbc olympics nbcsn golf channel olympic channel home of team usa nbc sports regional networks nbc sports radio and nbc sports digital which includes nbcsportscom nbcolympicscom golfchannelcom the digital assets of the nbc sports regional networks rotoworld the nbc sports talk franchise multiple apps and two transactional sports businesses golfnow and sportsengine nbc sports group possesses an unparalleled collection of television rights agreements partnering with some of the most prestigious sports properties in the world the international olympic committee and united states olympic committee the nfl nhl nascar indycar pga tour the rampampa pga of america churchill downs premier league tour de france french open and many moreltbrgtltbrgtltstronggtnoticesltbrgtltbrgtltstronggtnbcuniversals policy is to provide equal employment opportunities to all applicants and employees without regard to race color religion creed gender gender identity or expression age national origin or ancestry citizenship disability sexual orientation marital status pregnancy veteran status membership in the uniformed services genetic information or any other basis protected by applicable law nbcuniversal will consider for employment qualified applicants with criminal histories in a manner consistent with relevant legal requirements including the city of los angeles fair chance initiative for hiring ordinance where applicableltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:25:03.000Z"
+  },
+  "company": {
+    "name": "NBCUniversal",
+    "link": "https://www.linkedin.com/company/nbcuniversal-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

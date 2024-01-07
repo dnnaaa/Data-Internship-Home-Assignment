@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "ltstronggtjob descriptionltbrgtltbrgtltstronggtltugtltstronggtposition summaryltbrgtltbrgtltstronggtltugtresponsible for developing machine learning solutions in natural language processing nlp document classification named entity recognition ner topic modelling document summarization computational linguistics advanced and semantic information search extraction induction classification and exploration create ml models for advanced ocr and cognitive data extraction capability as well as its execution develop maintain and deploy ml ampamp nlp pipeline and models create nlpml models with high performance quality and stabilityltbrgtltbrgtltstronggtltugtrequired skillsltbrgtltugtltstronggtltulgtltligtbachelors degree in computer science or related fieldltligtltligt years of professional experience as a data scientistltligtltligtat least years programming experience in one or more of the following python r scala preferably in python and jupyteripython notebookltligtltligt to years experience in mlnlp development pipelines of large data sets both structured ampamp unstructuredltligtltligt to years experience building machine learning ampamp nlp solutions over open source packages such as scikitlearn spacy tensorflow sparkml torch caffe holtligtltligt years experience in designing and developing enterprisescale nlp solutions in two or more of named entity recognition document classification document summarization topic modelling dialog systems sentiment analysis ocr text processingltligtltligtexcellent knowledge and demonstrable experience in using open source nlp packages such as nltk wordvec spacy gensim standford corenlpltligtltligtstrong knowledge and working experience in of with a strong understanding of nlpml ampamp algorithms and models glms svm pca nb clustering dts and their underlying computational and probabilistic statisticsltligtltligtexperience in using nonmlnlp based text processing and data extraction using regular expressions regex python re and regex modulesltligtltligtexperience in documentation of mlnlp models and pipelines including model selection ampamp performance bias variability sensitivity analysis etcltligtltligtexperience in setting up supervised ampamp unsupervised learning mlnlp models including data cleaning data analytics feature creation model selection ampamp ensemble methods performance metrics ampamp visualizationltligtltligtexperience in model development using attention based transformers eg bert gpt etcltbrgtltbrgtltligtltulgtltugtltstronggtnontechnical skillsltbrgtltstronggtltugtltulgtltligthighly motivated proactive and a selfstarter strong sense of ownership ampamp ability to create and execute assignmentsltligtltligtcritical thinker ability to analyze problems and identify issues and provide solutionsltligtltligtanalytical abilities ampamp great problem solvingltligtltligthighly organized effectively prioritizes and balances multiple efforts in a fastpaced environmentltligtltligtgood communication and presentation skillsltbrgtltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T02:46:41.000Z"
+  },
+  "company": {
+    "name": "Bank of America",
+    "link": "https://www.linkedin.com/company/bank-of-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

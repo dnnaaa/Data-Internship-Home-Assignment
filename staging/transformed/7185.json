@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Operations Engineer I",
+    "industry": "Information Technology and Services,Biotechnology,Hospital &amp; Health Care",
+    "description": "ltstronggtltugtabout the jobltbrgtltbrgtltugtltstronggtthe cloud operations cloudops engineer i is responsible for all aspects of our aws environment as well as fmi software deployment cicd pipeline including design provisioning monitoring automation and maintenance of our software suite the position works with customers investigates cloud incident reports and as a member of the cloudops team is change champion in the adoption of new ways to build and release code the incumbent partners with development teams to maintain best practices integrate continuous automated testing instantiate automation scripts maintain and operate cicd pipeline software and partners with product teams to promote devops principles within our aws centric environmentltbrgtltbrgtltstronggtltugtkey responsibilitiesltbrgtltugtltstronggtltulgtltligt support the fmi development teams to maintain uptime and reduce impact to patientsltligtltligt act as escalation point for various cloud and devops platform support requestsltligtltligt provide support for operational requests regarding cloud technologyltligtltligt oversee develop and manage a subset of fmis devops platform tools and processesltligtltligt create review modify and update aws cloudformation and jenkins scriptsltligtltligt participate in the cloud operations oncall rotationltligtltligt design and implement solutions to streamline business processes to achieve company goals more effectively and efficientlyltligtltligt research new technologies and propose methods to integrate them into existing technology stackltligtltligt manage project timelines and workloadsltligtltligt deliver solutions in an agile methodologyltligtltligt create and deliver presentations and documentation to the technology teamltligtltligt other projects as periodically assignedltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtltstronggtbasic qualificationsltbrgtltstronggtltulgtltligt bachelors degreeltligtltligt years of work experience in cloud or devopsltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligt degree in computer science management information systems or a related engineering fieldltligtltligt years in cloud computing devops or itltligtltligt experience in managing or designing cloud deployment softwareltligtltligt experience with cicd philosophy processes and toolsetsltligtltligt demonstrated knowledge of cloud architecture networking system administration and security best practicesltligtltligt experience with orchestration tools such as jenkins puppet chef ansible or other similar productsltligtltligt familiarity with monitoring tools such as elk new relic datadog sonarqube cloudwatch cloudtrail etcltligtltligt experience with infrastructure as code frameworks such as cloudformation terraform or other similar productsltligtltligt familiarity with json xml and related notational data representationsltligtltligt understanding and experience working with version control software such as gitltligtltligt comfortable administering a git management tool such as github enterpriseltligtltligt comfortable with working in either linux rhel centos amazon linux or microsoft windows environmentsltligtltligt hands on experience with infrastructure tools such as aws vmware docker kubernetes and swarmltligtltligt knowledge about apis restful services and how they can be used to integrate with awsltligtltligt understanding of hipaa and importance of privacy of patient dataltligtltligt commitment to reflect fmis values patients passion innovation and collaborationltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:28:28.000Z"
+  },
+  "company": {
+    "name": "Foundation Medicine",
+    "link": "https://www.linkedin.com/company/foundation-medicine"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

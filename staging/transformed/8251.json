@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "ltpgtsenior software engineer site reliabilityltpgtltpgtltbrgtltpgtltpgtltstronggtwho are weltstronggtltpgtltpgtltstronggtwe are americas workforce specialists the largest light industrial staffing company in the united states and a preeminent resource for professional staffing we offer local expertise and service through our nearly branches and provide a full range of employment solutions to companies nationwideltstronggtltpgtltpgtltstronggtwhat are we looking forltstronggtltpgtltpgtltstronggtour corporate office is looking for a senior software engineer to join our remote platform engineering team you will be developing core frameworks components and services that will be the foundational pieces for our suite of applications we are a dynamic team of various skillsets and need someone who has a background in database administration or security this position is remote the ideal candidate will be based in the central or eastern time zoneltstronggtltpgtltpgtltstronggtprimary responsibilitiesltstronggtltpgtltulgtltligtdesign develop and maintain infrastructure components that will be used to build out our ltstronggtaws ltstronggtcloud infrastructure environments for software engineering teamsltligtltligtdeveloping reusable ltstronggtterraformltstronggt modules that are secured in ltstronggtgithub ltstronggtsource controlltligtltligtbuild into and enhance the ltstronggtcontinuous integration continuous deliveryltstronggt pipelinesltligtltligtconduct infrastructure reviews using the ltstronggtaws well architected toolltstronggtltligtltligtltstronggtexhibit a leadership ltstronggtstyle and be a ltstronggtforce multiplierltstronggt that helps to grow others around the organizationltligtltligtevaluate and integrate application tools into our application ecosystem examples logging monitoring feature toggling static code analysis testing secrets management artifact repository etcltligtltligtbe a collaborative team player working on an agile ltstronggtscrumltstronggt teamltligtltligta curiosity to understand the inner workings of our systems and a focus on ltstronggtcontinuous improvementltstronggt of our applications and services to ensure the highest level of customer satisfactionltligtltligtparticipate in agile ltstronggtscrumltstronggt activities and ceremoniesltligtltligtprovide ltstronggtproduction supportltstronggt for infrastructure and tooling issues that may arise during business hoursltligtltulgtltpgt ltpgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligtspecific expertise in one of the following areas ltstronggtdatabase administration or securityltstronggtltligtltligtltstronggtsolid experience with terraformltstronggtltligtltligtltstronggta passion ltstronggtfor technology and providing ltstronggtinnovative ideas ltstronggtto help the company be a standout engineering organization in the staffing industryltligtltligtbachelors degree in computer science computer engineering or related technical experienceltligtltligtltstronggt yearsltstronggt of relevant ltstronggthandsonltstronggt software engineering experienceltligtltligtexperience working on ltstronggtenterpriselevelltstronggt applicationsltligtltligtexperience with the application build process and integration and deployments to onprem and cloud environments like ltstronggtawsltstronggtltligtltligtltstronggtexperience building core components and services for alerting monitoring logging builds deployments authentication authorization and many moreltstronggtltligtltligtltstronggtability to work in a team environment independently pairing and possibly doing mob programmingltstronggtltligtltligtltstronggtexperience evaluating and implementing best practices tools and techniques for software development leading code reviews and coachingmentoring engineersltstronggtltligtltligtltstronggtexperience supporting aws production environmentsltstronggtltligtltulgtltpgt ltpgtltpgtltstronggtplusesltstronggtltpgtltulgtltligtcloud certification in awsltligtltligtadministering managed database services in awsltligtltligtfamiliar with security tooling from palo alto prima cloud cortex xdr panoramaltligtltligtexperience with configuration management tools such as ansibleltligtltligtexperience with cicd tools such as github retrieve jenkins or gitlabltligtltulgtltpgt ltpgtltpgt ltpgtltpgtemploybridge offers a competitive benefits package which includes comprehensive health coverage including medicaldentalvision and prescription drug benefits k paid time off and holidays flexible spending accounts and a wellness programltpgtltpgtemploybridge is an equal opportunity employer we evaluate qualified applicants without regard to race color religion sex sexual orientation gender identity national origin disability veteran status and other legally protected characteristicsltpgtltpgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T14:46:54.000Z"
+  },
+  "company": {
+    "name": "EmployBridge",
+    "link": "https://www.linkedin.com/company/employbridge"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

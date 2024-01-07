@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer",
+    "industry": "Hospital &amp; Health Care,Medical Devices,Pharmaceuticals",
+    "description": "ltstronggtltstronggtltstronggtltstronggtjob description summaryltstronggtltstronggtltstronggt ltbrgtltbrgtltstronggtthe site reliability engineer will be responsible for performance and availability of compute and network infrastructure consumed by all business segments the site reliability teams are composed of highly talented individuals obsessively focused with availability through operational excellence the ideal individual is relentlessly technical passionate for automating everything and totally committed to delivering amazing customer experiencesge healthcare is a leading global medical technology and digital solutions innovator our mission is to improve lives in the moments that matter unlock your ambition turn ideas into worldchanging realities and join an organization where every voice makes a difference and every difference builds a healthier worldltbrgtltbrgtltstronggtjob descriptionltstronggtltstronggtltstronggtresponsibilitiesltstronggtltstronggtltulgtltligtltbrgtltbrgtestablish performance baseline capacity thresholds correlate events and define monitoringalerting criterialtbrgtltligtltligtdevelop automated solutions to address potential problems before they result in a service interruptionltbrgtltligtltligtprovide impact assessment and mitigation plan for changes going into the production environmentltbrgtltligtltligtinvestigate root cause of severe and systemic outages identify corrective actions and apply across the enterpriseltbrgtltligtltligtdevelop availability measures that align with consumer experience to accurately assess the usability of crucial servicesltbrgtltligtltligtbuild capacity models to baseline transactional load compared to resource performance and leverage data to predict overall system capacity while automating load placement to avoid outagesltbrgtltligtltligtidentify thresholds for all critical links in the data path to quickly isolate where imbalances may result in potential outagesltbrgtltligtltligtanalyze failure points in services to model risk level and resolution steps if failure occursltbrgtltligtltligtassist in driving architecture enhancements into system to mitigate potential failure pointsltbrgtltligtltligtprogrammatically monitor for and remediate configuration drift of critical devicesltbrgtltligtltligtdevelop response plans to potential failure points and evaluate effectiveness during planned testsltbrgtltligtltligtperform comprehensive operational health checks of the entire services to identify areas of concern and track activities to drive improvements at all levels of the architectureltbrgtltligtltligtprovide technical coaching and direction to more junior teammatesltbrgtltbrgtltligtltulgtltstronggtltstronggtqualificationsltstronggtltstronggtltulgtltligtbachelors degree in computer science or stem majors science technology engineering and math with minimum of years of experienceltligtltligtstrong organizational and project management skillsltligtltligtstrong analytical and problem resolution skillsltligtltligtexcellent knowledge of common operating systems unixlinux windowsstrong oral and written communication skillsltligtltligtdemonstrated experience scripting or developing software and services for the cloud ruby python go java nodejs net etcltligtltligtextensive knowledge of network protocols tcpip snmp ftp syslog tftp etcltligtltligtexperience managing version control systems such as gitltligtltligtexperience deploying and managing infrastructure on public clouds such as aws or azureltligtltligtexperience deploying endtoend cloud solutions utilizing a variety of paasiaas technologies ampamp supporting middlewaredata tier technology stacks such as message queues webworker roles database engines enterprise search and accompanying monitoring solutionsltligtltligtinfrastructure compliance auditing and management and overseeing disaster recovery planning ampamp execution strategy as well as contingency plansltligtltligtexperience using an automated configuration management system terraform chef puppet ansible salt etcltligtltligtexcellent knowledge of network management snmp mibltligtltligtexperience with configuring customizing and extending monitoring tools datadog sensu grafana splunk etcltligtltligtexcellent knowledge of tcpip networking and internetworking technologies routingswitching proxy firewall load balancing etcltligtltligtknowledge and experience using analytics software packages like matlab sas jmpro etcltligtltligtpassion for eliminating repetitive manual processes using automationltbrgtltbrgtltligtltulgtltstronggtltstronggtdesired skillsltstronggtltstronggtltulgtltligtltbrgtltbrgtprogramming experience with open source scripting and data analysis packages like python r is a plusltbrgtltbrgtltligtltulgtour total rewards are designed to unlock your ambition by giving you the boost and flexibility you need to turn your ideas into worldchanging realities our salary and benefits are everything youd expect from an organization with global strength and scale and youll be surrounded by career opportunities in a culture that fosters care collaboration and supportltbrgtltbrgtltbrgtltbrgtltstronggt ltstronggtltstronggtltstronggtadditional informationltstronggtltstronggtltstronggt ltbrgtltbrgtltstronggt ge offers a great work environment professional development challenging careers and competitive compensation ge is an equal opportunity employer employment decisions are made without regard to race color religion national or ethnic origin sex sexual orientation gender identity or expression age disability protected veteran status or other characteristics protected by law ltbrgtltbrgt ge will only employ those who are legally authorized to work in the united states for this opening any offer of employment is conditioned upon the successful completion of a drug screen as applicable ltbrgtltbrgtltstronggtrelocation assistance provided ltstronggt no",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T22:30:49.000Z"
+  },
+  "company": {
+    "name": "GE Healthcare",
+    "link": "https://www.linkedin.com/company/gehealthcare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Texas",
+    "region": "United States",
+    "postal_code": "76522",
+    "street_address": null,
+    "latitude": 31.463793,
+    "longitude": -99.333275
+  }
+}

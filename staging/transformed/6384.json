@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtrole site reliability engineer sreampnbspltstronggtltpgtltpgtltstronggtduration months with possible extensionsltstronggtltpgtltpgtltstronggtlocationampnbspremoteltstronggtltpgtltpgtltstronggtampnbspltstronggtltpgtltpgtltstronggtnote immediate fillampnbspltstronggtltpgtltpgtampnbspltpgtltpgtltstronggtjob responsibilitiesltstronggtltpgtltulgtltligtbuild highly scalable highperformant infrastructure on amazon web service awsltligtltligtwork with applications to use automated cicd pipelines and build secure cloud environments identities and services deploy applications into these cloud environments through automated processes and programmatic servicesltligtltligtmaintain application reliability and uptime slas throughout the application lifecycle using programmatic selfhealing and software automationltligtltligtdevelop software to monitor and improve endtoend platform performance identify runtime deficiencies find potential failures and fix production issuesltligtltligtbuild deep fullstack knowledge of the complexity of our platforms and applications work to simplify and automate deployment processes runtime operations and provide nondisruptive releasesltligtltligtimprove the durability simplicity performance and maintainability of our integrated landscapeltligtltligtapply your expertise to our most complex digital projects meet with department and business unit clients to understand their application needsltligtltligtbe responsible for driving feedback and new design ideas back into the devsecops platform team help identify and remediate architectural problems scalability availability and performance issuesltligtltligtbe an integral member of the core devsecopsdataops development team and help develop test deploy and operated the service xx globally must be open to participating in an oncall rotation as neededltligtltligthandson experience with configuration frameworks for deployment such as aws cloudformation templates ansible terraform chef puppet or saltltligtltligtproven proficiency with scripting languages such as python ruby and javascript and build tools such as maven ant gradle or ivyltligtltligtsolid knowledge of various linux environments distros include ubuntu centos debian redhat and amazon linux as well as familiarity with windows ossltligtltligtunderstand security and encryption technologies knowledge of authentication protocols including openid oidc oauth saml and ldapltligtltligtknowledge of docker containerization and kuberneteseks cluster management for container orchestrationltligtltligtexperience with automated monitoring frameworks such as influxdb grafana telegraf fluentd prometheus etcltligtltligtapplication and system level debug and triage experienceltligtltligtexperience managing distributed runtime applications using programmatic interfacesltligtltligtexperience running full stack application deployments and infrastructure cloud services storage vms network etcltligtltligtpractical experience migrating largescale infrastructure onto public cloud technology platforms such as aws azure gcp is a plusltligtltligtfamiliarity deploying monitoring and running serverless computing and microservices a plusltligtltulgtltpgtltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-26T21:29:15.000Z"
+  },
+  "company": {
+    "name": "Servsys Corporation",
+    "link": "https://www.linkedin.com/company/servesys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

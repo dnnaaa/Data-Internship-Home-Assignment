@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Administrator, IoT",
+    "industry": "Marketing and Advertising,Information Technology and Services,Consumer Goods",
+    "description": "ltstronggtltugtoverviewltbrgtltbrgtltugtltstronggtlixil water technologies is looking for a cloud administrator to support our cloud environments this individual will work closely on managing services hosted in various public clouds especially within our iot operations including our public websites network connectivity with on premise network and maintaining performancemonitoring of the overall environmentltbrgtltbrgtlixil is made up of many individual brands each in a different way but all with the same purpose to make a better home a reality for everyone everywhere our lixil brand portfolio includes global product brands such as inax grohe and american standard product brands in japan such as exsior and specialties such as cobra and dxvltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtperform management and monitoring of various cloud services and troubleshoot as needed to resolve issuesltligtltligtplan provision and manage various services in the area of compute storage network load balancers security groups object storage and various security services across all major cloud provider environmentsltligtltligtwork closely with our iot team to implement manage and administer cloud related operationsltligtltligtmanage backupsrecoveries of cloud resources and improve existing data protection management processesltligtltligtlead various projects in the areas of cloud computing ltligtltligtable to develop cost estimates for various services for consumption in various public cloud environments ltligtltligtwork with third party managed services provider in coordinating and managing casesltligtltligtperform automatedmanual deployments in the environments leveraging solutions such as teamcity and octopus etcltligtltligtadminister and manage identify and access management iam roles and coordinate with security team on compliance and policiesltligtltligtmanage dns zones hosted in various cloud services such as route etc and make modifications to dns records as neededltligtltligtmanage application and network load balancers and perform configurations for listener rules target groups certificates etcltligtltligtwork independently and in team environment to manage security of cloud platforms in the area of identity and access user accounts identity management using okta aws guardduty aws inspectorltligtltligtmanage cloud management platform cmp and work on customization automation billing and reporting ltligtltligtact as a backup to cloud leaderltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligtbachelors degree in computer science or related fieldltligtltligt years of hands on experience in one or more public cloud environments including aws google cloud platform and microsoft azureltligtltligtstrong expertise in aws services such as ec ebs s elastic load balancers security groups nacl iam s cloudfront cloudformation cloudwatch control tower organizations service control policies etc ltligtltligtgood understanding of networking concepts such as routing site to site vpn transit gateway vpc peering firewall rules etc ltligtltligtgood understanding of databases like sql serveroracle and ability to perform basic database management functionsltligtltligtgood understanding of data analytics and data warehouse conceptsltligtltligthave basic understanding of applications development and ability to write scripts for automation and systems management using various platforms such as python go terraform cloud formation etc ltligtltligtstrong troubleshooting capabilitiesltligtltligtexperience migrating on premise systems to cloud and be able to work on similar projectsltligtltligtquick learner and willing to take on new challenges and ownershipltligtltligtdetailoriented with the ability to develop and document architecture diagram and processesltligtltligtfamiliarity with serverless cloud functions lambda micro services docker kubernetes etc ltligtltligtfamiliarity and experience with devops constructs cicd pipeline and solutions like bitbucket github etcltligtltligtprofessional certification from any of the cloud providers in the area of solutions architecture or devops preferredltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:40:14.000Z"
+  },
+  "company": {
+    "name": "LIXIL Water Technology Americas",
+    "link": "https://www.linkedin.com/company/lixil-americas"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Piscataway",
+    "region": "NJ",
+    "postal_code": "07001",
+    "street_address": null,
+    "latitude": 40.57567,
+    "longitude": -74.454445
+  }
+}

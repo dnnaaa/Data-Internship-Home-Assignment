@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Entry-Level (2022)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "coursera was launched in by two stanford computer science professors andrew ng and daphne koller with a mission to provide universal access to worldclass learning it is now one of the largest online learning platforms in the world with million registered learners as of june coursera partners with over leading university and industry partners to offer a broad catalog of content and credentials including guided projects courses specializations certificates and bachelors and masters degrees institutions around the world use coursera to upskill and reskill their employees citizens and students in many highdemand fields including data science technology and business coursera became a b corp in february ltbrgtltbrgtas an engineer at coursera you will be empowered to build wellengineered products that shape new platform features and advance our technical infrastructure you will be encouraged to build reliable scalable testable and efficient systemsltbrgtltbrgtwe innovate productize and iterate at startup speed deploying our code over times a day when you join our team you will be given the opportunity to take ownership of significant parts of our codebase check out life at coursera on the museltbrgtltbrgtltstronggtsome cool projects our entry level software engineers worked onltbrgtltstronggtltulgtltligt vmless frontend development allowing frontend developers to develop javascript applications without installing the entire coursera stack on our laptopsltligtltligt scaling content production building better tooling and visualization to simplify and accelerate the content creation process for our instructorsltligtltligtrewriting the mobile download experience which boosted accessibility of downloads by creating a download widget on course outlines and wrote a downloads api to use throughout entire appltligtltligtbuilding ui for a message inbox within the course experience helping learners keep uptodate with communications from course instructors and coursera as they go through the courseltbrgtltligtltulgtltstronggtltugtyour responsibilitiesltbrgtltugtltstronggtltulgtltligtrapidly innovate on products and scalable infrastructure with a fail fast mindsetltligtltligtimplement features using cutting edge technologies ie reactjs scala swift kotlinltligtltligtwork in a cross functional team of engineers pms designers and ux researchersltligtltligtown projects and drive scoping and prioritization decisionsltligtltligtmeasure your work thoroughly analyze results and drive new product changes through ab testingltbrgtltligtltulgtltstronggtbasic qualificationltbrgtltstronggtltulgtltligteducation in software engineering computer science or a related field either as your major or minor in college as part of a coding bootcamp or via taking courses including some of our own ltligtltligtexperience in software engineering or related internships or experience with software engineeringcomputer science projects ltbrgtltligtltulgtltstronggtltugtpreferred qualificationltbrgtltugtltstronggtltulgtltligtstrong oral and written communication skillsltligtltligtability to work on a team and learn quicklyltbrgtltligtltulgtcoursera is an equal employment opportunity employer and considers all qualified applicants without regard to race color religion sex sexual orientation gender identity age marital status national origin protected veteran status disability or any other legally protected classltbrgtltbrgtif you are an individual with a disability and require a reasonable accommodation to complete any part of the application process please contact us at accommodationscourseraorgltbrgtltbrgtplease review our ccpa applicant notice here",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-03T23:02:48.000Z"
+  },
+  "company": {
+    "name": "Coursera",
+    "link": "https://www.linkedin.com/company/coursera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "WY",
+    "postal_code": "82620",
+    "street_address": null,
+    "latitude": 42.855503,
+    "longitude": -106.397385
+  }
+}

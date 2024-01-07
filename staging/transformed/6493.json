@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Cloud Data Engineer",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "ltstronggtmake banking a fifth third betterltbrgtltbrgtltstronggtwe connect great people to great opportunities are you ready to take the next step discover a career in banking at fifth third bankltbrgtltbrgtltstronggtltugtgeneral functionltbrgtltbrgtltugtltstronggtthe data engineer designs and builds platforms tools and solutions that help the bank manage secure and generate value from its data the person in this role creates scalable and reusable solutions for gathering collecting storing processing and serving data on both small and very large ie big data scales these solutions can include onpremise and cloudbased data platforms and solutions in any of the following domains etl business intelligence analytics persistence relational nosql data lakes search messaging data warehousing stream processing and machine learning ideal experience will include experience with containerization kubernetes and hands on work with snowflake kafka or nifiltbrgtltbrgtresponsible and accountable for risk by openly exchanging ideas and opinions elevating concerns and personally following policies and procedures as defined accountable for always doing the right thing for customers and colleagues and ensures that actions and behaviors drive a positive customer experience while operating within the banks risk appetite achieves results by consistently identifying assessing managing monitoring and reporting risks of all typesltbrgtltbrgtltstronggtltugtessential duties and responsibilitiesltbrgtltugtltstronggtltulgtltligt responsible for design development and support of data solutions apis tools and processes to enable rapid delivery of business capabilitiesltligtltligt work closely with it application teams enterprise architecture infrastructure information security and lob stakeholders to translate business and technical strategies into datadriven solutions for the bankltligtltligt act as a technical expert addressing problems related to system and application design performance integration security etcltligtltligt conduct research and development based on current trends and technologies related to the banking industry data engineering and architecture data security and related topicsltligtltligt evaluate software products and provide documented recommendations as neededltligtltligt provide support and troubleshooting for data platforms must be willing to provide escalated oncall support for complicated andor critical incidentsltligtltligt participate in the planning process for hardware and softwareltligtltligt plan and work on internal projects as needed including legacy system replacement monitoring and analytics improvements tool development and technical documentationltligtltligt provide technical guidance and mentoring for other team membersltligtltligt manage and prioritize multiple assignmentsltbrgtltbrgtltligtltulgtltstronggtltugtminimum knowledge skills and abilities requiredltbrgtltugtltstronggtltulgtltligtbachelors degree in computer scienceinformation systems or equivalent combination of education and experienceltligtltligt experience d with object oriented programming java andor python and api development rest ltligtltligt experience with build automation and orchestration tools such jenkins teamcity bamboo etcltligtltligt experience with terraform chef ansible and or puppetltligtltligt experience with building and maintaining cicd pipelinesltligtltligt deep understanding of source code versioning systems github strongly preferredltligtltligt hands on experience with snowflake kafka or nifiltligtltligt experience with containerization kubernetes ltligtltligt must be able to communicate ideas both verbally and in writing to management business and it sponsors and technical resources in language that is appropriate for each groupltligtltligt solid conceptual understanding of distributed computing principlesltligtltligt at least years in a handson data engineering experienceltligtltligt experience with aws or azure cloud technologiesltligtltligt hands on experience with snowflakeltligtltligt significant experience with at least one major rdbms productltligtltligt working knowledge of application and data security concepts best practices and common vulnerabilitiesltligtltligt financial industry experience is a plusltbrgtltbrgtltligtltulgtsr cloud data engineerlocation cincinnati ohio ltbrgtltbrgtfifth third bank national association is proud to have an engaged and inclusive culture and to promote and ensure equal employment opportunity in all employment decisions regardless of race color gender national origin religion age disability sexual orientation gender identity military status veteran status or any other legally protected status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:40:09.000Z"
+  },
+  "company": {
+    "name": "Fifth Third Bank",
+    "link": "https://www.linkedin.com/company/fifth-third-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati",
+    "region": "OH",
+    "postal_code": "45202",
+    "street_address": null,
+    "latitude": 39.10685,
+    "longitude": -84.5111
+  }
+}

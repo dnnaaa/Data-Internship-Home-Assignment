@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "ltpgtclient qualcommltpgtltpgtlocation san diego caltpgtltpgtltbrgtltpgtltpgtltstronggtjob overviewltstronggtltpgtltpgtworlds largest supplier of ggg chipsets and software technologies and provides strategic advantage to wireless device manufacturers by delivering world class mobile wireless solutions and engineering support the modem software organization is currently seeking innovative and highly motivated engineering professionals to join our modem software integration and test team engineers on this team are responsible for integrating testing and releasing to our customers our broad range of wireless modem software components as a cohesive software subsystem that is a central part of the overall software solution for all of our chipset products responsibilities integration of modem software subsystems such as gggg air interfaces rf data services drivers and generation of software builds for the modem processor investigation of build failures and root cause analyses using build logs and code inspection sanity testing of software builds and validation of bug fixes on mobile device prototypes in lab initial ontarget debug log analysis and classification of failures and reporting of issues collaboration with software development teams in order to find and fix software bugs development of test scripts to verify new modem software features and enhance testing coverage release of software to customers using version control tools and internal toolsltpgtltpgt ltpgtltpgtltstronggtrequirementsltstronggtltpgtltpgtbachelors degree in engineering information systems computer science or related fieldltpgtltpgtexperience in embedded software development integration or testingltpgtltpgtexperience in one or more programming languages c c or pythonltpgtltpgtexperience in embedded software ondevice testing and debugging toolsltpgtltpgtexperience in ggg wireless technologies in a software development integration or testingdebugging roleltpgtltpgtexperience in test execution using lab test equipment troubleshooting device software issues analyzing logs and isolating failuresltpgtltpgtexperience in software configuration management tools such as perforceltpgtltpgtexperience in scripting languages such as perl or pythonltpgtltpgtexperience in continuous software integration and software test automation toolsltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T17:39:07.000Z"
+  },
+  "company": {
+    "name": "SGS Consulting",
+    "link": "https://www.linkedin.com/company/sgs-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

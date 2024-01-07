@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Verification Systems Engineer",
+    "industry": "Computer Hardware,Semiconductors,Computer Software",
+    "description": "ltpgtltstronggtcompanyltstronggtltpgtltpgtltbrgtltpgtltpgtquadric is building a fullstack system that is designed to meet the requirements of nextgeneration edge ampamp edgecloud computing products in order to leverage the tsunami of data generated at the edge the next generation of computing innovation is happening outside the data center quadric has created a solution that is specifically optimized not only for artificial intelligence ai workloads but also for image processing data analytics and moreltpgtltpgtltbrgtltpgtltpgtif making an impact and having a seat at the table is important to you this is the opportunity for you join our small rapidlygrowing team at quadric to develop supercomputer technology designed for the edge in this position you will be a core member of our team and will have an opportunity to grow in the company of expert technologists who also happen to be good people youll want to spend time withltpgtltpgtltbrgtltpgtltpgtltstronggtwhat we valueltstronggtltpgtltpgtintegrity humility happinessltpgtltpgtltstronggtwhat we expectltstronggtltpgtltpgtinitiative collaboration completionltpgtltpgtltbrgtltpgtltpgtltstronggtroleltstronggtltpgtltpgtltbrgtltpgtltpgtthe verification systems engineer plays a pivotal role in functionally verifying bleedingedge features of the epu as they are developed from end to end you will collaborate closely with microarchitects to gain an intimate lowlevel understanding of new hardware features as they are developed you will leverage this knowledge to develop and maintain software systems to functionally model and verify these features including targeted directed tests and complex random test benches written primarily using modern c and systemc your experience using the systems you build to detect and diagnose bugs will be critical toward our effort to build fully functional products you will also document and communicate feature specs to the software team to enable usage of the features you verify giving you a view of the full stack ideal candidates will have a strong background in software development and systemslevel programming as well as knowledge of microarchitectural concepts and a willingness to take initiative to grow and learn more about architecture design and toolsltpgtltpgtltbrgtltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltpgtltbrgtltpgtltulgtltligtdefine dv requirements for design changes resulting from rapidly evolving aiml models work with engineers across domains to understand realworld use casesltligtltligtpartner with members of the verification as well as architects and designers to functionally verify entire blocks of the quadric epu by designing implementing and maintaining custom directed and random testing systemsltligtltligtcollaborate directly with microarchitects on new features and develop test plans from scratchltligtltligtdevelop complex random kernel generators using modern cltligtltligtmaintain cicd pipelines to ensure broad test coverage using python and jenkinsltligtltligtdocument and communicate the specifications of new hardware features to the software team and support initial efforts to enable usage by programmersltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltpgtltbrgtltpgtltulgtltligtproficiency in modern c ampgt ltligtltligtexperience building endtoend software systems using tools such as python cmake clanggcc git jenkinsltligtltligtknowledge of microarchitecture design concepts such as pipelines caches memory controllers etcltligtltligtbackground in lowlevel systems programming that interacts directly with hardware such as operating systems compilers firmware device drivers linkers bootloaders etcltligtltligtunderstanding of statistical distributions such as gaussian lognormal geometricltligtltligtexcellent communication and documentation skillsltligtltligtmasters degree in csce and at least years of experience in a verification roleltligtltulgtltpgtltbrgtltpgtltpgtltstronggtnice to havesltstronggtltpgtltpgtltbrgtltpgtltulgtltligtknowledge of industryleading verification frameworks such as uvmltligtltligtknowledge of systemc andor systemverilogltligtltligtexperience with random stimulus as well as functional coverageltligtltulgtltpgtltbrgtltpgtltpgtltstronggtexpected outcomes in monthsltstronggtltpgtltulgtltligtverify a large subset of the features in quadrics nextgeneration architectureltligtltligtownership of multiple blocklevel test benchesltligtltligtability to isolatedebug test bench and design problemsltligtltulgtltpgtltbrgtltpgtltpgtfounded in and based in downtown burlingame california quadric is building the worlds first supercomputer designed for the realtime needs of edge devices quadric aims to empower developers in every industry with superpowers to create tomorrows technology today the company was cofounded by technologists from mit and carnegie mellon who were previously the technical cofounders of the bitcoin computing company ltpgtltpgtltbrgtltpgtltpgtquadric is proud to be an equal opportunity workplace and is an affirmative action employer we are committed to equal employment opportunity regardless of race religion sex national origin sexual orientation age citizenship marital status or disabilityltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:24:28.000Z"
+  },
+  "company": {
+    "name": "quadric.io",
+    "link": "https://www.linkedin.com/company/quadric.io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlingame",
+    "region": "CA",
+    "postal_code": "94012",
+    "street_address": null,
+    "latitude": 37.584194,
+    "longitude": -122.366264
+  }
+}

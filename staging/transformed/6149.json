@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Data Engineer - Cloud Services",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtabout hashicorpltbrgtltbrgtltugtltstronggthashicorp is a fastgrowing startup that solves development operations and security challenges in infrastructure so organizations can focus on businesscritical tasks we build products to give organizations a consistent way to manage their move to cloudbased it infrastructures for running their applications our products enable companies large and small to mix and match aws microsoft azure google cloud and other clouds as well as onpremises environments easing their ability to deliver new applications for their businessltbrgtltbrgtengineering at hashicorp is largely a remote team while prior experience working remotely isnt required we are looking for team members who perform well given a high level of independence and autonomyltbrgtltbrgtltstronggtltugtabout the teamltbrgtltbrgtltugtltstronggtcloud analytics will enable the internal hashicorp audience to discover access and leverage product data to derive intrinsic value that helps our business and customers grow in order to achieve this we are building a storage layer that acts as a onestop hub to store product data across the hashicorp product suite and an access layer to facilitate data discovery and access we provide tooling and infrastructure to help our customers with a seamless onboarding and ramp up experienceltbrgtltbrgtltstronggtltugtin this role you can expect toltbrgtltugtltstronggtltulgtltligtdevelop construct test and maintain our analytics platformltligtltligtdiscover opportunities for data acquisitionltligtltligtdevelop data set processes for data modeling mining and productionltligtltligtrecommend ways to improve data reliability efficiency and qualityltligtltligtcontribute to the design and implementation of largescale systemsltligtltligtinterface directly with internal teams users and hashicorp customersltligtltligtwork with multiple cloud platforms such as aws gcp and azureltbrgtltligtltulgtltstronggtltugtyou may be a good fit ifltbrgtltugtltstronggtltulgtltligtyou have built or operated a real time analytics pipeline at scaleltligtltligthave experience with tools similar to segment looker heap redshift rdsltligtltligtyou are familiar with microservice architectures and ideally have seen them in operation at a global scaleltligtltligtyou have prior experience working in high performance distributed systems while we strive to hire at a variety of experience levels this particular opening is not wellsuited for recent graduatesltligtltligtyou are able to knowledgeably discuss design and performance tradeoffs in complex systemsltbrgtltligtltulgtltstronggtltugtabout the application processltbrgtltbrgtltugtltstronggtplease note as communication is a critical aspect of how we work a cover letter is a great way to provide a sample of how you communicate in your cover letter describe why youre interested in working at hashicorp and what draws you to this role in particularltbrgtltbrgthashicorp embraces diversity and equal opportunity we are committed to building a team that represents a variety of backgrounds perspectives and skills we believe the more inclusive we are the better our company will beltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T04:59:35.000Z"
+  },
+  "company": {
+    "name": "HashiCorp",
+    "link": "https://www.linkedin.com/company/hashicorp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

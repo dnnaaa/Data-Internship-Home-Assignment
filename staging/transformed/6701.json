@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtabout mazeltbrgtltbrgtltugtltstronggtmaze is a series a funded startup building the future of rapid testing for modern teams were backed by some of the worlds best funds and have an extensive advisory networkltbrgtltbrgtwere on a mission to empower modern teams to build better user experiences by testing and learning rapidly with real users to do this weve partnered with the worlds biggest design tools including adobe xd figma invision sketch and marvel we power over brands globally including ibm logitech pipedrive uber greenpeace and brazeltbrgtltbrgtwere a fully remote team working across countries youll be joining a passionate team whose resumes include canva figma gitlab google invision typeform and zendeskltbrgtltbrgtwhat you will doltbrgtltbrgtas a part of the site reliability engineering sre team you will work to build design and architect the infrastructure of maze your daytoday will be working to ensure our platform applications are reliable and healthyltbrgtltbrgtyour scope will be as follow ltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtbuild design deploy maintain and lead the implementation of cloud solutions on aws infrastructureltligtltligtsupervise infrastructure including proactive capacity management and replication strategiesltligtltligtcollaborate with developers designers and testing specialists to deliver fully automated cloud solutionltligtltligtdeploy configure manage and maintain technical infrastructureltligtltligttroubleshoot and resolve technical operational issues related to the aws cloud infrastructureltligtltligtdefine and document best practices and strategies regarding application deployment and infrastructure maintenanceltligtltligtusing best practices to migrate our infrastructure with little or zero downtime to a highly available scalable oneltligtltligtdeploying proof of concept poc for new technologiesltligtltligtwork with automation tools to improve performance and deployment proceduresltligtltligtset up and maintain a monitoring stack that helps to monitor infrastructure xltligtltligtbe part of the oncall rotation schedule and make sure alerts are setup properly on the production environmentltbrgtltligtltulgttechnologiesltbrgtltbrgthere is our technology stack we use within our teamltbrgtltulgtltligtaws s cloudfront elasticache eks lambda ecr route iamltligtltligtterraformltligtltligtserverlessltligtltligtkubernetesltligtltligtdockerltligtltligthelm chartsltligtltligtdatadog prometheusltligtltligtcirclecicircle orbsltligtltligtnodejsltligtltligtgolangltligtltligtcqrs and event sourcingltbrgtltligtltulgtmandatory skills are aws cloud kubernetes programming languages required are nodejs and golangltbrgtltbrgtconsider this our wishlist we know there will be great candidates that dont meet every one of these criteriaif youre passionate about the role and feel that your experience prepares you to do it wed love to hear from youltbrgtltbrgtwhy maze is uniqueltbrgtltulgtltligtearlystage startup you will join an earlystage startup with less than employees this means youll have the unique opportunity to directly impact success and help shape the future of mazeltligtltligtcategory were on a mission to democratize user testing and are truly excited about defining a new space where anyone can test and learn rapidlyltligtltligtproductmarket fit we already have a strong productmarket fit for product designers and a nps of and were excited to build on top of this to reach pmf for our new user segmentsltligtltligtx growth were a fastgrowing startup and we have big goals you will have the opportunity to impact mazes growth and help us achieve the next milestone in our journeyltbrgtltligtltulgtltstronggtltugtbenefitsltbrgtltugtltstronggtltulgtltligtunlimited time offltligtltligtcompany retreats fully paid by mazeltligtltligtlaptop paid for by mazeltligtltligtpaid family leave weeks for birth or adoptive parentsltligtltligtmonth in benefits to be used at your discretion get the benefits that matter to you with our flexible amazeing benefitsltligtltligt remote work setup fund to ensure you can set up a productive work spaceltligtltligtfree access to proper mental health careltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T17:11:26.000Z"
+  },
+  "company": {
+    "name": "Maze",
+    "link": "https://fr.linkedin.com/company/mazedesign"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

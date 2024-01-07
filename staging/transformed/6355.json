@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "ltstronggtltugtposition summary what youll doltbrgtltugtltstronggtltulgtltligtapplied business acumen supports the development of business cases and recommendations owns delivery of project activity and tasks assigned by others supports process updates and changes solves business issuesltligtltligtdata source identification understand the appropriate data set required to develop simple models by developing initial drafts supports the identification of the most suitable source for data maintains awareness of data qualityltligtltligtdata strategy understands articulates and applies principles of the defined strategy to routine business problems that involve a single functionltligtltligtanalytical modeling selects the analytical modeling technique most suitable for the structured complex data and develops custom analytical modelsltligtltligtconducts exploratory data analysis activities for example basic statistical analysis hypothesis testing statistical inferences on available dataltligtltligtdefines and finalizes features based on model responses and introduces new or revised features to enhance the analysis and outcomes identifies the dimensions of the experiment finalizes the design tests hypotheses and conducts the experiment perform trend and cluster analysis on data to answer practical business problems and provide recommendations and key insights to the business mentors and guides junior associates on basic modeling and analytics techniques to solve complex problemsltligtltligtmodel deployment ampamp scaling supports efforts to ensure that analytical models and techniques used can be deployed into production supports evaluation of the analytical model supports the scalability and sustainability of analytical modelsltligtltligtcode development ampamp testing writes code to develop the required solution and application features by using the recommended programming language and leveraging business technical and data requirements test the code using the recommended testing approachltligtltligtproblem formulation translates business problems within ones discipline to data related or mathematical solutions identifies what methods for example analytics big data analytics automation would provide a solution for the problem shares use cases and gives examples to demonstrate how the method would solve the business problemltligtltligtmodel assessment ampamp validation supports model fit testing and statistical inferences to evaluate performance assesses the impact of variables and features on model performanceltligtltligtdata visualization generates appropriate graphical representations of data and model outcomes under guidance supports the understanding of customer requirements and designs data representations for simple data sets presents to and influences the team using the appropriate frameworks and conveys messages through basic business understandingltligtltligtdemonstrates uptodate expertise and applies this to the development execution and improvement of action plans by providing expert advice and guidance to others in the application of information and best practices supporting and aligning efforts to meet customer and business needs and building commitment for perspectives and rationalesltligtltligtprovides and supports the implementation of business solutions by building relationships and partnerships with key stakeholders identifying business needs determining and carrying out necessary processes and practices monitoring progress and results recognizing and capitalizing on improvement opportunities and adapting to competing demands organizational changes and new responsibilitiesltligtltligtmodels compliance with company policies and procedures and supports company mission values and standards of ethics and integrity by incorporating these into the development and implementation of business plans using the open door policy and demonstrating and assisting others with how to apply these in executing business processes and practicesltbrgtltligtltulgtwho we areltbrgtltbrgtjoin walmart and your work could help over million global customers live better every week yes we are the fortune company but youll quickly find were a company that wants you to feel comfortable bringing your whole self to work a career at walmart is where the worlds most complex challenges meet a kinder way of life our mission spreads far beyond the walls of our stores join us and youll discover why we are a world leader in diversity and inclusion sustainability and community involvement from day one youll be empowered and equipped to do the best work of your lifeltbrgtltbrgtdiversity and inclusionltbrgtltbrgtwe believe we are best equipped to help our associates customers and the communities we serve to live better when we really know them that means understanding respecting and valuing diversity unique styles experiences identities ideas and opinions while being inclusive of all peopleltbrgtltbrgtltstronggtltugtminimum qualificationsltbrgtltbrgtltugtltstronggtltemgtltemgtoutlined below are the required minimum qualifications for this position if none are listed there are no minimum qualifications ltbrgtltbrgtltemgtltemgtoption bachelors degree in statistics economics analytics mathematics computer science information technology or related field and ltbrgtltbrgtyears experience in an analytics or related field option masters degree in statistics economics analytics mathematics computer scienceltbrgtltbrgtinformation technology or related field option years experience in an analytics or related field preferred qualificationsltbrgtltbrgtltemgtltemgtoutlined below are the optional preferred qualifications for this position if none are listed there are no preferred qualifications ltbrgtltbrgtltemgtltemgtdata science machine learning optimization models masters degree in machine learning computer science information technology operations research statistics applied mathematics econometrics successful completion of one or more assessments in python spark scala or r using open source frameworks for example scikit learn tensorflow torch primary location munger ave ste dallas tx united states of america",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T02:59:05.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79000,
+    "max_value": 112000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

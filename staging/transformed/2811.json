@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "ltstronggtltugtcompany overviewltbrgtltbrgtltugtltstronggtvectra delivers a new class of realtime threat detection and advanced analysis of active breaches vectra picks up where perimeter security leaves off using ai to provide deep continuous analysis of both internal and internetfacing network activity for all phases of the attack progression as attackers attempt to breach spy spread and stealltbrgtltbrgtvectra directly analyzes network traffic and other relevant data sources in realtime using a combination of patented data science machine learning and behavioral analysis we detect attacker behaviors and user anomalies within our customers ecosystems provide clear prioritization and include relevant context so that our users can quickly and easily identify active attacksltbrgtltbrgtfor more details see httpswwwvectraaiproductshowwedoitltbrgtltbrgtposition overviewltbrgtltbrgtsite reliability engineers are critical when it comes to keeping both our customers and engineering team running as part of the cloud platform group you will be building the software to help with operations and support helping to fix support escalation issues and ultimately crucial for the continuous improvement of people processes and technology within our organizationltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltbrgtltugtltstronggtsite reliability engineers will have a variety of responsibilities which may include things likeltbrgtltulgt ltligtowning cloud production environments by monitoring availability and taking a holistic view of system healthltligt ltligtdesigning and developing tools to manage the platform infrastructure and applicationsltligt ltligtimproving reliability stability performance and security of the overall systemltligt ltligtmeasuring and optimizing performance identify and resolve bottlenecksltligt ltligtmeasuring identifying and applying the best costeffective solutions within awsltligt ltligtproviding operational support and engineering for vectra products and teamsltligt ltligtinfluencing platform architecture decisionsltligt ltligtautomating automating automatingltligt ltbrgtltbrgtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgt ltligtrequiredltbrgtltulgt ltligtrelevant bachelors degree computer science engineering etc or equivalent experienceltligt ltligt years of handson devops or operations experience on cloud production systemsltligt ltligtunderstanding of main sre concepts eg sli slo chaos engineering blast radius etcltligt ltligtstrong knowledge of networkingltligt ltligtzealous about productionltligt ltligtcomfort in dealing with cloud deployments and security best practicesltligt ltligtlinux system proficiencyltligt ltulgt ltligt ltligtpreferredltbrgtltulgt ltligtstrong containerserverless experience including kubernetesltligt ltligtcicd pipeline experience gitlab jenkins etcltligt ltligtproficient knowledge of python languageltligt ltligthands on experience on amazon web services awsltligt ltligthashicorp ecosystem experience terraform packer consul vaultltligt ltligtexperience with telemetry toolspipelines metrics logs and traces with technologies like open telemetryltligt ltligtbelief in devops and agile principlesltligtltulgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T05:05:06.000Z"
+  },
+  "company": {
+    "name": "Vectra AI",
+    "link": "https://www.linkedin.com/company/vectra_ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer, Media Infrastructure",
+    "industry": "Internet",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggttwitter is whats happening and what people are talking about right now for us lifeampaposs not about a job itampaposs about purpose we feel real change starts with conversation here your voice matters come as you are and together weampaposll do whatampaposs right not whatampaposs easy to serve the public conversationltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtltstronggtwho we areltbrgtltbrgtltstronggtthe media infrastructure organization strives to push the boundaries of what media can be included in a tweet and we own the infrastructure used to run online ab testing and experimentationltbrgtltbrgtwe work with both online and offline systems like hadoop and with different media serving technologies and content delivery systems we work across onprem and cloudbased clustersltbrgtltbrgtltstronggtltugthow youll workltbrgtltugtltstronggtltulgtltligtyoull embed deeply with your software engineering swe counterparts and take an active role as a coowner of production services to ensure services are built maintained and operated in a reliable and scalable way you will be part of the successful delivery of new features and services as well as the daytoday successful operation of existing servicesltligtltligtyoull collaborate with swe partners to drive operational health improvements root cause analysis postmortem discussions and their associated remediations that serve to improve reliability and sublinearly scale operationsltligtltligtpartner with both swe and sre to demonstrate tools processes and techniques to reduce business risk perform infrastructure ampamp configuration management deploys capacity modeling ampamp planning and incident mitigationltligtltligtidentify common patterns in challenges with operating services in production partner with others to design and implement reusable solutions andor other crossfunctional work that drives down the complexity difficulty costs and risks of operating the businessltbrgtltligtltulgtltstronggtwhat youampaposll doltbrgtltbrgtltstronggtwe are looking for sres who are passionate about highly performant userfacing services have a desire to grow themselves and learn new technologies love working in collaborative teams and committed to serving their customers you dont need to have mastered hadoop to join this teamltbrgtltbrgtltstronggtltugtyour responsibilities includeltbrgtltugtltstronggtltulgtltligtplay a leading role within engineering partner teams for gcp and aws infrastructure adoption and standard methodologiesltligtltligttraditional sreoperational support scopes like tooling and automation monitoring workflow management maintaining and improving data pipelines cicd monitoring etcltligtltligtpartner and support existing media teams with operational guidance and expertise on various project initiativesltligtltligtparticipate in capacity planning and scalingltligtltligtensure media is served in a highly performant way that can also handle viral traffic surgesltligtltligtsupport other engineers at twitter by owning and extending the online experimentation and ab testing frameworks that inform production rollouts and experimentsltbrgtltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligt years experience handling services in a large scale distributed systems environmentltligtltligtexpert knowledge of linux operating system internals filesystems diskstorage technologies and storage protocols and networking stackltligtltligtexpert knowledge of systems programming bash and shell tools and practical proven knowledge of at least one higherlevel language python go or scalaltligtltligtcomfortable working with both onprem and cloudbased infrastructure aws gcp in terms of deployment support monitoring administration and troubleshootingltligtltligtexperience using containerization software such as kubernetes docker mesosltligtltligtproven understanding of systems and application design including the operational tradeoffs of various designsltligtltligtbe comfortable operating as a member of a team and work well with a myriad of personalities at all levelsltligtltligtsolid understanding of distributed systems design scaling durability and securityltligtltligtexperience with kubeflow scattergather systems hadoop is a plus but not a requirementltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T22:02:37.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

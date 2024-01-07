@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Construction",
+    "description": "ltemgtthere is a reason that clark is a leader in the construction industry simply put its our people you can play a critical role in the future of our cities and communities with a career at clark construction from monuments and museums to stadiums hospitals universities highways hotels and more clark has shaped americas skyline for over a century our work leaves a lasting legacy the same goes for our people we owe our success to the leadership talent and drive of our employees with a wide range of opportunities from management to finance to engineering and more explore the many ways to grow your career and build your own legacy at clark ltemgtltemgtcome be a part of our team today ltbrgtltbrgtltemgtthe data engineer de will collect aggregate store and reconcile data in support of critical business processes and decisionmaking the de will help design and build data pipelines data streams data service apis data generators and other enduser insight toolsltbrgtltbrgtltstronggtltugtthe bulk of the data engineers work would be in building managing and optimizing data pipelines and then moving these data pipelines effectively into production for key data and analytics consumersltbrgtltbrgtltugtltstronggtltstronggtltemgtbuild data pipelinesltemgtltstronggt managed data pipelines consist of a series of stages through which data flows for example from data sources or endpoints of acquisition to integration to consumption for specific use cases these data pipelines have to be created maintained and optimized as workloads move from development to production for specific use cases architecting creating and maintaining data pipelines will be the primary responsibility of the data engineerltbrgtltbrgtltstronggtltemgtdrive automation through effective metadata managementltemgtltstronggt the data engineer will be responsible for using innovative and modern tools techniques and architectures to partially or completely automate the mostcommon repeatable and tedious data preparation and ingestion tasks in order to minimize manual and errorprone processes and improve productivityltbrgtltbrgtthe ideal candidate will have strong problem solving skills that can contribute to best practices and modern approaches to data delivery this requires strong communication skills with business and technology partners for creating winwin solutions the ideal candidate will be a quick learner of new technologies identifying best development and deployment practices and implementing them the ideal candidate is able to work independently in an agile environment with minimal guidance meeting deadlines and work objectivesltbrgtltbrgtltugt daytoday the de will ltbrgtltugtltulgtltligttranslate business requirements to technical solutions using strong business insightltligtltligtanalyze current business practices processes and procedures identifying planning and implementing data discovery and orchestration servicesltligtltligtdesign and build cloud based modern data pipelines and data streams using talend realtime big data integration platformltligtltligtdevelop and maintain data warehouse schematics layouts architectures and relationalnonrelational databases for data access and advanced analyticsltligtltligtimplement effective metrics and monitoring processes documenting processes and checklistsltbrgtltligtltulgtltstronggtltugtrequired qualificationsltbrgtltugtltstronggtltulgtltligtexperience in developing scalable and reliable data solutions to move data across systems from multiple sources using talend data integrationltligtltligtproven experience in extract transform and summarize information from large data sets using talend data integrationltligtltligtexperience in business processing mapping of data and analytics solutionsltligtltligtability to conduct data profiling cataloging and mapping for technical design and construction of technical data flowsltligtltligtexperience using data preparation tools and perform data wrangling cleanse profile dedupe manipulate and analyze large datasets structured and unstructured data xmls jsons pdfsltligtltligtknowledge of structured data such as entities classes hierarchies relationships and metadataltligtltligtbuilding data models with the flexibility to change when business requirements change and ensuring data quality and consistencyltligtltligtstrong understanding of relational databases like oracle sqlserverltligtltligtexposure to data lakes in hybrid cloud environmentsltligtltligtexposure to cloud services web services and apis ideally aws services such as vpc iam emr rds and glue web services and apltligtltligtexperience in both deployment architecture and developing scripts for automated system deployment in awsltbrgtltligtltulgtltstronggtltugteducationltbrgtltugtltstronggtltulgtltligtbachelors degree in information technology or businessrelated field ltligtltligt years of relevant handson experience in talend data integrationltligtltligtcloud certification preferred aws or azureltligtltligtprefer talend certificationltbrgtltligtltulgtltstronggtltugtequal opportunity employerltbrgtltbrgtltugtltstronggtclark construction group llc subsidiaries and affiliates is an equal opportunity employer committed to diversity and inclusion in the workplace all qualified applicants will receive consideration for employment without regard to sex race color age national origin religion physical and mental disability genetic information marital status sexual orientation gender identityassignment citizenship pregnancy or maternity protected veteran status or any other status prohibited by applicable national federal state or local law clark construction promotes a drugfree workplaceltbrgtltbrgtapplicants have rights under federal employment laws family and medical leave act fmla equal employment opportunity eeo and employee polygraph protection act eppaltbrgtltbrgtfor more information on equal opportunity you may visit this linkltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:13:18.000Z"
+  },
+  "company": {
+    "name": "Clark Construction Group",
+    "link": "https://www.linkedin.com/company/clarkconstructiongroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bethesda",
+    "region": "MD",
+    "postal_code": "20813",
+    "street_address": null,
+    "latitude": 38.984856,
+    "longitude": -77.09269
+  }
+}

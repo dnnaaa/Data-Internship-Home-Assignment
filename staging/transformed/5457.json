@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Member of Technical Staff- DevOps and Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtltstronggt devops and site reliability engineer sre oracle saas infrastructure services team ltbrgtltbrgtltstronggtoracle is a leader in enterprise cloud applications powering many of the worlds largest organizations and were in the process of revolutionizing our application user experiences with our new redwood user interface components and enterprisescale backend services we are on a quest to provide the most productive platform with extremely fast secure and extensible rest services to back these user experiences our goal is to create a universal services and transaction service s that is metadataoriented and is simple to uptake test debug and monitor these services must be highly scalable and dynamic to meet the varying work loads for our customersltbrgtltbrgtwe have many large scale customers who are ready to work with you on this fabulous journey were looking for talented devopssre engineers to build deploy and monitor the service on oracle cloud if you have experience as a devops engineer supporting cicd rollout patching monitoring enterprise scalable micro services using cloud native infrastructure please contact us right awayltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligt bringing in the right devops mindset among the teams developing software conducting training on tools and processes that makes software development and testing easier ltligtltligt participate in the entire software lifecycle development testing ci and production operations ltligtltligt automate release and deployment process from development to production rollout following cicd process using standard devops toolset ltligtltligt define enforce and maintain metrics and quality gates for build promotion processes ltligtltligt take ownership of maintaining and managing the environments maintain separation between dev uat stage and production environments ltligtltligt monitor and maintain the production service and infrastructure ltligtltligt participate in oncallpagerduty for the service ltligtltligt work with customers and isvs and service developers to troubleshoot issues in production systems ltligtltligt mentor new employees and software developers to increase quality of projects ltbrgtltligtltulgtltstronggtltugtrequired knowledge and skillsltbrgtltugtltstronggtltulgtltligt bs ms in computer science electrical engineering with years of professional experience in cloud infrastructure and cloud solutions ltligtltligt professional work experience working on complex applicationsservices with devops experience ltligtltligt strong knowledge of linuxunix shell scripting package management etc ltligtltligt hands on experience working with standard devops tools kubernetes docker istio grafana helm charts terrafarm ltligtltligt experience with build a utomation and monitoring tools like maven ant gradle jenkinsbug tracking tools like jira ltligtltligt build tools like maven ant gradle ltligtltligt source control tools like git github svn or equivalent ltligtltligt network configuration and management ltligtltligt knowledge of middleware components like weblogic or tomcat ltligtltligt knowledge of python or perl is desirable ltligtltligt knowledge of monitoring technologies enterprise manager thousand eyes prometheus will be an advantage ltligtltligt teamwork is key here we are looking for developers who believe in the value of cross team collaboration ltligtltligt excellent oral and written communication skills ltligtltligt self motivated to continuously learn and improve ltbrgtltligtltulgtdesign develop troubleshoot and debug software programs for databases applications tools networks etcltbrgtltbrgtas a member of the software engineering division you will apply basic to intermediate knowledge of software architecture to perform software development tasks associated with developing debugging or designing software applications or operating systems according to provided design specifications build enhancements within an existing software architecture and occasionally suggest improvements to the architectureltbrgtltbrgtduties and tasks are standard with some variation displays understanding of roles processes and procedures performs moderately complex problem solving with assistance and guidance in understanding and applying company policies and processes bs degree or equivalent experience relevant to functional area year of software engineering or related experienceltbrgtltbrgtltstronggtltugtabout usltbrgtltbrgtltugtltstronggtinnovation starts with inclusion at oracle we are committed to creating a workplace where all kinds of people can be themselves and do their best work its when everyones voice is heard and valued that we are inspired to go beyond whats been done before thats why we need people with diverse backgrounds beliefs and abilities to help us create the future and are proud to be an affirmativeaction equal opportunity employerltbrgtltbrgtoracle is an equal employment opportunity employer all qualified applicants will receive consideration for employment without regard to race color religion sex national origin sexual orientation gender identity disability and protected veterans status age or any other characteristic protected by law oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T09:56:38.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

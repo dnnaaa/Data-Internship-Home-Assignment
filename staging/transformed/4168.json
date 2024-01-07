@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (All Levels) | Heroku",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "ltemgtto get the best candidate experience please consider applying for a maximum of roles within months to ensure you are not duplicating effortsltbrgtltbrgtltemgtltstronggt job category ltstronggtproducts and technologyltstronggt job details ltbrgtltbrgtltstronggtheroku operates the worlds largest paas cloud continuously delivering millions of apps with million container deployments billion routing requests and terabytes of application logs per day our vision is for developers to focus on their applications and leave operations to usltbrgtltbrgtwe work in small groups who are heartfelt about our users problems we plan weekly chat daily and work closely together our team is a remote community with members excited to work together on challenging distributed systems problems equality is a core value for salesforce its at the heart of everything we do and strive to be that means equal opportunity equal advancement and equal pay for all we do not discriminate on the basis of race religion color national origin gender identity or expression sexual orientation age marital status veteran status or disability statusltbrgtltbrgtwe hope you are passionate about joining our community of engineers who love to learn work and operate a gigantic distributed system build and sustain a remote culture and help grow and mentor other engineersltbrgtltbrgtltstronggt examples of recent work web services engineers have done at heroku ltbrgtltstronggtltulgtltligtimproving customer trust integrated heroku authentication with an internal shared service providing multifactor authentication mfa that will ultimately allow all of our customers to select from a variety of verification methodsltligtltligtcore infrastructure scaling and growth investigating missing metrics necessary to ensure the safe ongoing operations of our most critical internal services and to help us plan to scale well into the futureltligtltligtincident response coordinated with several other heroku teams to design and implement automation to combat an ongoing denial of service dos attackltligtltligtdelivering features to customers api changes business logic and api calls to downstream internal services to allow acm apps to have an arbitrary number of custom domains instead of the previous limit of ltbrgtltligtltulgtltstronggt profiles relevant to us would feature ltbrgtltstronggtltulgtltligt years in a fulltime professional software engineering roleltligtltligtexperience developing production software in rubyltligtltligtexperience writing sql queries including complex join statementsltligtltligtexperiencing maintaining and enhancing restful apisltligtltligtexperience deploying operating and supporting critical production systemsltligtltligtenthusiasm for learning new languages frameworks and skillsltligtltligtexcellent written and verbal communication skills including the ability to work effectively with geographically distributed teams and people of various backgroundsltbrgtltligtltulgtltstronggt bonus features ltbrgtltstronggtltulgtltligtmaintaining and operating a platformasaservice paasltligtltligtmaintaining and operating a distributed system operating at thousands of requests per secondltligtltligtexperience debugging http requestresponse cycles in a distributed systemltligtltligttuning sql queries for performanceltligtltligtexperience with postgresqlltligtltligtexperience deploying and operating services on herokultligtltligtwriting queries in splunkltligtltulgtltstronggt accommodations ltbrgtltbrgtltstronggtif you require assistance due to a disability applying for open positions please submit a request via this accommodations request formltbrgtltbrgtltstronggt posting statement ltbrgtltbrgtltstronggtat salesforce we believe that the business of business is to improve the state of our world each of us has a responsibility to drive equality in our communities and workplaces we are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay employee resource groups inclusive benefits and more learn more about equality at salesforce and explore our benefitsltbrgtltbrgtltugtsalesforcecomltugt and ltugtsalesforceorgltugt are equal employment opportunity and affirmative action employers qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender perception or identity national origin age marital status protected veteran status or disability status ltugtsalesforcecomltugt and ltugtsalesforceorgltugt do not accept unsolicited headhunter and agency resumes ltugtsalesforcecomltugt and ltugtsalesforceorgltugt will not pay any thirdparty agency or company that does not have a signed agreement with ltugtsalesforecomltugt or salesforceorgltbrgtltbrgtsalesforce welcomes all",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:40:18.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

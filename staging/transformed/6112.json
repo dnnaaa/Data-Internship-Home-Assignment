@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "ltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtimpervas infrastructure and cloud team is looking for a highly technical sr site reliability engineer to drive innovation scale and create operational excellence for the imperva globally distributed network as an sre in the ico organization you approach solving supporting and optimizing the infrastructure programmatically you will work to improve the overall availability reliability performance and security of the infrastructure for impervas customersltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt establish metrics for datadriven decisions to help increase availability reliability and velocity ltligtltligt apply sre core tenets of measurement slislosla eliminate toil and reliability modeling ltligtltligt build and maintain and evolve slo and sli networksystemapplication baselines ltligtltligt provide gono go preplanning verificationvalidation and review of existing and new productservices ltligtltligt proactively analyze data and test the integrity of networksystems to ensure production applications and services are operating optimally ltligtltligt work with internal and external customers as needed to troubleshoot and resolve business affecting issues ltligtltligt escalations incident response rca and blameless postmortem ltligtltligt participate in x oncall rotation ltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligt years of professional experience within a cloudwebcdn scale infrastructure ltligtltligt experience programming in any combination of python go cc rust ltligtltligt expert knowledge of linux systems network programming and protocols tcp udp dns tlsssl http ltligtltligt experience with bgp and anycast routing is a plus ltligtltligt experience with devops principles and concepts such as infrastructure as code ansiblesaltstack cicd gitlab jenkins git monitoring and visualization prometheus grafana ltligtltligt experience with big data technologies such as nosqlrdbms redis elasticsearch kafka ltligtltligt experience with containers and container management docker kubernetes is a plus ltligtltligt experience analyzing and building data telemetry modeling pipelines ui visualization ltligtltligt experience in developing software troubleshooting and monitoring large scale distributed systems ltligtltligt implement software engineering best practicesstandards and software development life cycle ltligtltligt working knowledge and experience of agile software development methodologies ltligtltligt outstanding collaboration and communication and documentation skills with a proven ability to work crossfunctionally to establish and meet okrs ltligtltligt bsms in computer science engineering or a related technical discipline or equivalent experience ltbrgtltligtltulgtltstronggtltugtour companyltbrgtltbrgtltugtltstronggtimperva is the cybersecurity leader whose mission is to help organizations protect their data and all paths to it customers around the world trust imperva to protect their applications data and websites from cyber attacks with an integrated approach combining edge application security and data security imperva protects companies through all stages of their digital journey imperva research labs and our global intelligence community enable imperva to stay ahead of the threat landscape and seamlessly integrate the latest security privacy and compliance expertise into our solutions learn more on the imperva website or company blog and follow imperva on linkedin and twitter ltbrgtltbrgtltstronggtltugtbenefitsltbrgtltbrgtltugtltstronggtiimperva offers a competitive compensation package that includes base salary medical flexible time off and more its an exciting time to work in cybersecurity learn about imperva products and services at wwwimpervacom and career opportunities at wwwimpervacomcareersltbrgtltbrgtltstronggtltugtlegal noticeltbrgtltbrgtltugtltstronggtimperva is an equal opportunity employer all qualified applicants will receive consideration for employment without regard to race color religion sex national origin ancestry pregnancy age sexual orientation gender identity marital status protected veteran status medical condition or disability or any other characteristic protected by lawltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T21:53:33.000Z"
+  },
+  "company": {
+    "name": "Imperva",
+    "link": "https://www.linkedin.com/company/imperva"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

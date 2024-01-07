@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Software",
+    "description": "ltstronggtjob titleltstronggt senior software engineerltbrgtltbrgtltstronggtlocationltstronggt philadelphia pa or new york nyltbrgtltbrgtltstronggtltugtrequired technology and skillsltbrgtltugtltstronggtltulgtltligt years of software development experience with focus on webbased applications and fullstack development for both customer facing ui and backend servicesltligtltligtexperience developing software in lamp stack with php preferable utilizing symfonyltligtltligtexperience developing with a ui framework emberjs preferred or react and anuglar ltligtltligtexperience with linux configurationltligtltligtsome experience with different php runtimes ltligtltligthands on experience with relational databases mysql preferred prefer database design and query developmentltligtltligtexperience maintaining and improving distributed systemsltbrgtltligtltulgtltstronggtltugtnice to have skillsltbrgtltugtltstronggtltulgtltligtexperience developing a rest apiltligtltligtknowledge of docker and containersltligtltligtexperience working with aws services ltligtltligtexperience with cicd preferred jenkinsltbrgtltligtltulgtltstronggtltugtsalary and compensationltbrgtltugtltstronggtltulgtltligtltligtltligtbonusltbrgtltligtltulgtltstronggtltugtbenefits and perksltbrgtltugtltstronggtltulgtltligtability to work remoteltligtltligtk matchltbrgtltligtltulgtltstronggtltugtclientltbrgtltugtltstronggtltulgtltligtour client is a fortune firm that specialize in software solutions for the edtech and health tech spaceltbrgtltligtltulgtplease email jpilliontalenercom for more information or to apply",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:41:54.000Z"
+  },
+  "company": {
+    "name": "Talener",
+    "link": "https://www.linkedin.com/company/talener"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

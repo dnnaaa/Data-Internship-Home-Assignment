@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtpositionampnbspaiml engineerltstronggtltpgtltpgtltstronggtlocationampnbsppleasanton caltstronggtltpgtltpgtltstronggt durationampnbsp months contract with extendable ltstronggtltpgtltpgtltbrgtltpgtltpgtltstronggtjob descriptionltstronggtltpgtltpgtthe ltstronggtaiml engineerltstronggt shall lead the artificial intelligencemachine learning modeling and engineering teamampnbspthe consultant will play the role of technical lead and provide professional services to support the long term it strategy and planning to include high level analysis professional reports and presentations and mentoring support and trainingltpgtltpgtltbrgtltpgtltpgtthe tasks for the aiml engineer include but are not limited to the followingltpgtltpgtprovide technical leadership develop vision gather requirements and translate client user requirements into technical architectureltpgtltpgtdesign build and scale machine learning systems across multiple domainsltpgtltpgtdesign and implement nlp algorithmsltpgtltpgtdesign and implement an integrated big data platform and analytics solution ltpgtltpgtdesign and implement data collectors to collect and transport data to the big data platformltpgtltpgtltbrgtltpgtltpgtltstronggttechnical knowledge and skillsltstronggtltpgtltulgtltligtconsultant resources shall possess most of the following technical knowledge and experienceltligtltligtprovide technical leadership develop vision gather requirements and translate client user requirements into technical architectureltligtltligtstrong background in statistical modeling nlp and machine learningltligtltligtexpertise in various facets of ml and nlp such as classification feature engineering information extraction clustering semisupervised learning topic modeling and rankingltligtltligtstrong handson experience in building deploying and productionizing ml models using software such as spark mllib tensorflow pytorch python scikitlearn etc is mandatoryltligtltligtability to evaluate and choose best suited ml algorithms perform feature engineering and optimize machine learning models is mandatoryltligtltligtstrong fundamentals in algorithms data structures statistics predictive modeling ampamp distributed systems is mustltligtltligtstrong experience with data science notebooks like rstudio jupyter zeppelin pycharm etc ltligtltligtdesign and implement an integrated big data platform and analytics solution ltligtltligtdesign and implement data collectors to collect and transport data to the big data platformltligtltligtgood to have but not mandatory years of handson development deployment and production support experience in hadoop environmentltligtltligt years of programming experience in java scala pythonampnbspltligtltligtproficient in sql and relational database design and methods for data retrievalltligtltligtgood to have but not mandatory building data pipelines using hadoop components sqoop hive spark spark sql hbaseltligtltligtgood to have but not mandatory experience with developing hive ql udfs for analyzing semi structuredstructured datasetsltligtltligtgood to have but not mandatory experience ingesting and processing various file formats like avroparquetsequence filestext files etc ltligtltligthandson experience working in realtime analytics like sparkkafkastormltligtltligtmust have working experience in the data warehousing and business intelligence systemsltligtltligtexpertise in unixlinux environment in writing scripts and scheduleexecute jobs ltligtltligtsuccessful track record of building automation scriptscode using java bash python etc and experience in production support issue resolution process ltligtltulgtltpgtltbrgtltpgtltpgtltstronggtmust have skillsltstronggtltpgtltpgtmachine learning deep learning nlpltpgtltpgttensorflow scipy pytorch opencv ocrltpgtltpgtnumpy sklearn pandasltpgtltpgtpython spark hive sqlltpgtltpgtproductionize modelltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T18:27:21.000Z"
+  },
+  "company": {
+    "name": "Saicon",
+    "link": "https://www.linkedin.com/company/saicon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

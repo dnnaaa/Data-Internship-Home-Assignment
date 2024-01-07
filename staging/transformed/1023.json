@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Insurance",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggtderex technologies inc specializes in providing it consulting staffing solutions and software services globally headquartered in harrison new jersey since derex delivers the highest quality technology professionals and an array of customized it talent solutions designed to improve productivity and drive results to global clients throughout north americaltbrgtltbrgtwith over two decades of unparalleled experience derex provides supports to its clientele across such industries as systems integration banking and finance telecommunications pharmaceutical and life sciences energy healthcare technology transportation and local and federal government agenciesltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtas a data engineer iii you will be responsible for designing maintaining and optimizing largescale automated elt processes working actively with analysts and customer teams specializing in enterprise data warehousing you will leverage industrystandard data orchestration tools as well as inhouse proprietary scheduling and automation tools to create efficient and reliable elt jobs which support product offerings and data warehousing needs for our customers as we incorporate more cloud technologies into our processes you will be at the forefront of exploring and defining best practices and helping us transition our products to be more scalableltbrgtltbrgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligttaking endtoend ownership of data pipelines and custom solutions for our clients ltligtltligtcoordinating with the systems core cx and analytics teams to build and maintain data products and custom solutions for our clients ltligtltligtdesigning and writing automated scripts to preprocess terabytes of data from our partnersclients ltligtltligtdesigning and writing new enterprisescale eltetl workflows from scratch in python using airflow docker aws etc ltligtltligtmodifyingredesigning legacy eltetl processes to leverage cuttingedge open source and proprietary technologies ltligtltligtensuring quality reliability and uptime for critical automated processes ltligtltligtmigrating our products and processes into the cloud while drastically reducing our inhouse data center footprint required skills ltligtltligtat least years in a data engineering rolesimilar programming in python with exposure to docker ltligtltligtability to work independently ltligtltligtproficient in sql ltligtltligtprior experience managing a small team in an engineering roleltligtltligtexposure to etlelt pipeline automation ltligtltligtknowledge of apache airflow ltligtltligtexposure to basic database concepts ltligtltligt preferred skills ltligtltligtgood understanding of data engineering nosql databases and database design distributed systems andor information retrieval ltligtltligtwork with saas products ltligtltligtdba experience ltligtltligtability to plan and collect requirements for projects and interact with the analyst and data science teams ltbrgtltligtltulgtadditional informationltbrgtltbrgtall your information will be kept confidential according to eeo guidelines",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Derex Technologies Inc",
+    "link": "https://www.linkedin.com/company/derex-technologies-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88400,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

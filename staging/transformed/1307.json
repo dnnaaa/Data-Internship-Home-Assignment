@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Compiler Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Computer Hardware,Semiconductors",
+    "description": "lightmatter builds chips for artificial intelligence computing our architecture leverages unique properties of light to enable fast and efficient inference and training engines if youre a collaborative engineer or scientist who has a passion for innovation solving challenging technical problems and doing impactful workwork like building the worlds first optical computers consider joining the team at lightmatterltbrgtltbrgtwe are looking for talented compiler engineers to help us build the next generation of ai processorsltbrgtltbrgtin this role you will be responsible for developing highly optimized computational methods for deep learning youll be working with deep learning scientists as well as digital analog and photonic designers to implement the features needed to accelerate the next generation of machine learning algorithmsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgt ltligtdevelop and implement compiler tools that translate deep learning packages eg tensorflow or pytorch directly to optimized native codeltligt ltligtanalyze craft and implement compiler and linear algebra optimization techniques that exploit novel architectures and platforms being created at lightmatterltligt ltligtwork with digital and analog engineers to define instruction sets that enable lowlatency highthroughput deep learning computationltligt ltligtevaluate tradeoffs and optimize between different softwarehardware architectures in terms of performance and efficiencyltligt ltbrgtltbrgtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgt ltligtms or higher in computer science computer engineering electrical engineering or related fieldltligt ltligtexperience with writing passes on llvm or other standard internal representationsltligt ltligtexperience with backend optimizationsltligt ltligthighly proficient in cc with a strong software architecture backgroundltligt ltligtproficient in hardwaresoftware integration with accelerated multithreaded and concurrent programmingltligt ltligtunderstanding of the different computing architectures eg cpu gpu fpgaltligt ltligtunderstanding of linear algebra and gemmltligt ltligtexperience with machine learning frameworks and their irs eg xla mlir or glow is a strong plusltligt ltbrgtltbrgtltulgtltugtltstronggtbenefitsltbrgtltstronggtltugtltulgt ltligthealth care plan medical dental ampamp visionltligt ltligtretirement plan kltligt ltligtlife insurance ltligt ltligtpaid time off ltligt ltligtfamily leave ltligt ltligtstock option planltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-26T03:20:47.000Z"
+  },
+  "company": {
+    "name": "Lightmatter",
+    "link": "https://www.linkedin.com/company/lightmatter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

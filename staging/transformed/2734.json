@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtpossible month cth no fees do not repost confidentialltbrgtsubmit candidates under their legal name and use only client templateltbrgtltbrgtrole site reliability engineerltbrgtwork location richardson texas remoteltbrgtstart date immediate availabilityltbrgtbackground check manda toryltbrgtrequest id ltbrgtltbrgtpursuit projectltbrgtltbrgtltstronggtltugtbasic qualificationsltbrgtltbrgtltugtltstronggt years of experience with creating cicd pipelines for application deploymentsltbrgtltbrgtmust have implemented devops practicestools in areas such as continuous integration release automation metrics tracking on the azure platformltbrgtltbrgtstrong experience with gitlab bitbucket server artifactory jenkinsltbrgtltbrgtstrong experience working with database technologies mongodb postgressql azure cosmosdbltbrgtltbrgtexperience with cloud environments such as azure or aws specifically deploying java springboot nodejs applications on cloudltbrgtltbrgtapplication troubleshooting experience with linux operating systemsltbrgtltbrgtknowledge about bluegreen canary deploymentsltbrgtltbrgtpreferred qualifications good to haveltbrgtltbrgtcreated application performance dashboards on azure using application insights and automated alertsltbrgtltbrgtability to write terraform scripts to build complete app services for large complex applicationsltbrgtltbrgtexperience with secrets management using azure key vault hashicorp vaultltbrgtltbrgtconfiguration management ansible chef experience is a plusltbrgtltbrgtltstronggtltugtresumes will be rejected for the following reasonsltbrgtltugtltstronggtltulgtltligt different formatltligtltligt missing details in comments sectionltligtltligt missing text box in the headerltligtltligt photo id included containing personal information other than legal name and photoltbrgtltligtltulgtmaria andrea gomezltbrgtexternal resource manager erm subco staffing centerltbrgtclient north america guatemala",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T11:45:39.000Z"
+  },
+  "company": {
+    "name": "Lorven Technologies Inc",
+    "link": "https://www.linkedin.com/company/lorventech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richardson",
+    "region": "TX",
+    "postal_code": "75080",
+    "street_address": null,
+    "latitude": 32.960762,
+    "longitude": -96.73352
+  }
+}

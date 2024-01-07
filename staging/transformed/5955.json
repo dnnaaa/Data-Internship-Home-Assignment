@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtjob descriptionltstronggtltpgtltpgt ltstronggta responsibilities to include but not limited to the followingltstronggtltpgtltpgtltstronggtltspan classqlcursorgtltspangtltstronggtltpgtltpgt understand business objectives and develop models that help to achieve them along with metrics to track their progress ltpgtltpgt analyze ml algorithms that could be used to solve a given problem and ranking them by their success probability ltpgtltpgt explore and visualize data to gain an understanding of it then identifying differences in data distribution that could affect performance when deploying the model in the real worldltpgtltpgt verify data quality andor ensuring it via data cleaning ltpgtltpgt supervise the data acquisition process if more data is needed ltpgtltpgt define validation strategies and define the preprocessing or feature engineering to be done on a given dataset ltpgtltpgt define and built data augmentation pipelines ltpgtltpgt train models and tune their hyperparameters ltpgtltpgt analyze the errors of the model and designing strategies to overcome them ltpgtltpgtltbrgtltpgtltpgtltstronggtb required qualificationsltstronggtltpgtltpgtltbrgtltpgtltpgt proficiency with machine learning frameworks eg tensorflow or kerasltpgtltpgt proficiency with python libraries for machine learning such as scikitlearn and pandas ltpgtltpgt expertise in visualizing and manipulating big data sets ltpgtltpgt years of industry experience in software engineering development ltpgtltpgt ability to independently and creatively solve problemsltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T01:11:13.000Z"
+  },
+  "company": {
+    "name": "Infogain",
+    "link": "https://www.linkedin.com/company/infogain"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlingame",
+    "region": "CA",
+    "postal_code": "94012",
+    "street_address": null,
+    "latitude": 37.584194,
+    "longitude": -122.366264
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Engineer - DevOps",
+    "industry": "Electrical/Electronic Manufacturing,Automotive,Mechanical or Industrial Engineering",
+    "description": "we are looking for a devops leader to drive and manage our infrastructure help build and refine our automated cicd pipeline support the design and development of cloud applications and systems and continue to find new ways make our advanced engineering organization better the role will work with a team of software engineers integrating complex systems consisting of embedded applications cloud services and mobile appsltbrgtltbrgtltstronggtltugtwhat youll be doingltbrgtltugtltstronggtltulgtltligt define devops best practices for our application teams and assist them in implementing these processes ltligtltligt ownership and support of configuration management and deployment automation tools including jenkins jira sonarqube and terraform ltligtltligt assist in implementation of security best practices and initiatives at all levels of the infrastructure ltligtltligt codify current aws infrastructure automating and reporting on the environment ltligtltligt work with development teams to develop alerting triggers logging and general application monitoring ltligtltligt create and maintain automated deployments based on kubernetes ltligtltligt thought leader on the future technologies used for environment management automation monitoring and selfhealing ltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligt bs in computer science related field desired aws certification preferred ltligtltligt minimum years of experience ltligtltligt well versed in devops principles and able to lead software engineers in this area ltligtltligt well versed in cicd practices and able to lead software engineers in this area ltligtltligt experience of using git bitbucket for version control ltligtltligt experience of working in a scrum team and agile concepts ltligtltligt familiar and comfortable in scripting languages python bash ltligtltligt experience with docker and containerizing applications ltligtltligt experience with orchestration platforms kubernetes preferred rancher etc ltligtltligt experience with infrastructureasaservice platforms aws preferred ltligtltligt experience with jenkins ltligtltligt familiar with relational databases such as mysqlpercona and postgres and nosql databases such as cassandra and hbase ltligtltligt familiar with documentoriented databases such as couchbase and mongodb ltbrgtltligtltulgtltstronggtltugtabout densoltbrgtltbrgtltugtltstronggtdenso is an advanced mobility supplier and global fortune company here we innovate create and make things to change how the world moves we develop technology and components for major automakers worldwide which you can find on nearly every vehicle make and model on the road todayltbrgtltbrgtat our core denso wants to make the world a better place and we have the ability to do so using our broad product portfolio which spans mobility electronics thermal systems electrification systems powertrain systems sensors ampamp semiconductors and nonautomotive businessesltbrgtltbrgtwere far reaching globally headquartered in japan we have k employees across facilities in countries across the globe here in north america our headquarters is in southfield michigan last year we had billion in global consolidated revenue with north america contributing billion",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:29:01.000Z"
+  },
+  "company": {
+    "name": "DENSO",
+    "link": "https://jp.linkedin.com/company/denso"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Southfield",
+    "region": "MI",
+    "postal_code": "48037",
+    "street_address": null,
+    "latitude": 42.480198,
+    "longitude": -83.241
+  }
+}

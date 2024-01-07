@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggttiger analytics is an advanced analytics consulting firm we are the trusted analytics partner for several fortune companies enabling them to generate business value from data our consultants bring deep expertise in data science machine learning and ai our business value and leadership have been recognized by various market research firms including forrester and gartnerltbrgtltbrgtwe are looking for a motivated and passionate machine learning engineers for our teamltbrgtltbrgtas part of this job you will be responsible forltbrgtltulgtltligtproviding solutions for the deployment execution validation monitoring and improvement of data science solutionsltligtltligtcreating scalable machine learning systems that are highly performantltligtltligtbuilding reusable production data pipelines for implemented machine learning modelsltligtltligtwriting productionquality code and libraries that can be packaged as containers installed and deployedltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtbachelors degree or higher in computer science or related with years of work experienceltligtltligtability to collaborate with data engineers and data scientist to build data and model pipelines and help running machine learning tests and experimentsltligtltligtability to manage the infrastructure and data pipelines needed to bring ml solution to productionltligtltligtendtoend understanding of applications being created and maintain scalable machine learning solutions in productionltligtltligtability to abstract complexity of production for machine learning using containersltligtltligtability to troubleshoot production machine learning model issues including recommendations for retrain revalidate and improvementsltligtltligtexperience with big data projects using multiple types of structured and unstructured dataltligtltligtability to work with a global team playing a key role in communicating problem context to the remote teamsltligtltligtexcellent communication and teamwork skillsltbrgtltligtltulgtltstronggtltugtadditional skills requiredltbrgtltugtltstronggtltulgtltligtpython spark hadoop docker with an emphasis on good coding practices in a continuous integration context model evaluation and experimental designltligtltligttestdriven development prefer py testnose experience with cloud environmentsltligtltligtproficiency in statistical tools relational databases and expertise in programming languages like pythonsql is desiredltbrgtltligtltulgtltstronggtltugtgood to haveltbrgtltugtltstronggtltulgtltligtknowledge of ml frameworks like scikitlearn tensorflow keras etcltligtltligtknowledge of mlflow airflow kubernetes ltligtltligtknowledge on any of the cloud native mlaas offerings like aws sagemakerltbrgtltligtltulgtltstronggtltugtbenefitsltbrgtltbrgtltugtltstronggtsignificant career development opportunities exist as the company grows the position offers a unique opportunity to be part of a small fastgrowing challenging and entrepreneurial environment with a high degree of individual responsibility",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T15:23:26.000Z"
+  },
+  "company": {
+    "name": "Tiger Analytics",
+    "link": "https://www.linkedin.com/company/tiger-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

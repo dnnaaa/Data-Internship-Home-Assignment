@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - VP",
+    "industry": "Financial Services",
+    "description": "ltstronggtsite reliability engineer sre in securitized product group spg production management ltbrgtltbrgtltstronggtltstronggt location new york ny us ltbrgtltbrgtltstronggtltstronggt job family technology ltbrgtltbrgtltstronggtltstronggt job code vice president ltbrgtltbrgtltstronggtjp morgans securitized products group is engaged in a variety of activities related to consumer and real estate assets the business originates underwrites and trades mortgage and other assetbacked receivables and the product mix includes residential and commercial mortgagebacked securities and loans as well as auto credit card student loan and consumer receivables the groups capabilities include sales trading lending financing origination capital markets syndicate and special opportunities activities on a single platformltbrgtltbrgtas a site reliability engineer sre youll build engineering disciplines combining software and systems to develop creative engineering solutions to operations problems our software development focuses on optimizing existing systems building infrastructure and reducing manual toils through automation youll join a global team of production managers with a diverse set of perspectives who are thinking big and taking risks in this environment youll take the lead on relevant projects supported by an organization that provides the support and mentorship you need to learn and grow as an sre youll be focused on running better production applications and systemsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt design and implement appropriate monitoring ampamp logging solutions based on the system design and usage ltligtltligt design develop test and deliver resilient software to automate manual operational work ltligtltligt review and approve software and product upgrades change management and release management ltligtltligt engage with the development teams throughout the software development life cycle for reliability resiliency and scalability ltligtltligt troubleshoot priority incidents facilitate postmortem discussions with other teams and ensure permanent closure of incidents ltligtltligt coach and mentor junior sre team members ltbrgtltligtltulgtltstronggtltugtrequiredltbrgtltbrgtltugtltstronggtltstronggt qualifications ltbrgtltstronggtltulgtltligt bachelors degree or equivalent in an software engineering or computer science disciplines ltligtltligt minimum of years of working experience in the information technology ltligtltligt excellent debugging trouble shooting and communication skills ltligtltligt expertise in at least one technology stack designing coding testing and delivering software ltligtltligt understanding and practice of sre principles slislierror budget ltligtltligt experience with unixshell scripting and hudsonjenkins for deployment ltligtltligt working knowledge of infrastructure components eg routers load balancers cloud products container systems compute storage and networks ltligtltligt proficient in linux and windows platforms ltligtltligt proficient in core java python c or c ltligtltligt proficient with any rdbms ltbrgtltligtltulgtltstronggtltugtpreferredltbrgtltugtltstronggtltulgtltligt experience in information technology in financial industry and securitized products ltligtltligt experience with apm tools like dyntrace or appdynamics ltligtltligt experience with tibco ems kubernetes docker and other cloud technologies ltligtltligt aws certification or relevant working knowledge ltbrgtltligtltulgtjpmorgan chase ampamp co one of the oldest financial institutions offers innovative financial solutions to millions of consumers small businesses and many of the worlds most prominent corporate institutional and government clients under the jp morgan and chase brands our history spans over years and today we are a leader in investment banking consumer and small business banking commercial banking financial transaction processing and asset managementltbrgtltbrgtwe recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success we are an equal opportunity employer and place a high value on diversity and inclusion at our company we do not discriminate on the basis of any protected attribute including race religion color national origin gender sexual orientation gender identity gender expression age marital or veteran status pregnancy or disability or any other basis protected under applicable law in accordance with applicable law we make reasonable accommodations for applicants and employees religious practices and beliefs as well as any mental health or physical disability needsltbrgtltbrgtequal opportunity employerdisabilityveterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T08:44:45.000Z"
+  },
+  "company": {
+    "name": "JPMorgan Chase &amp; Co.",
+    "link": "https://www.linkedin.com/company/jpmorganchase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60400,
+    "max_value": 90700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

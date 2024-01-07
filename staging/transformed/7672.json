@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtwere idealists inventors forever tinkering with products and processes always on the lookout for better whether you work at our global offices offsite or even at home a job at apple will be demanding but it also rewards bright creative thinking and hard work and none of us here would have it any other way does an exciting dynamic fast paced and pressurefilled environment catch your attention do you like puzzles and determining solutions that are not obvious terrific consider joining us the weather engineering team is looking for a highly experienced data scientist who will focus on exploratory analysis and development of innovative components to grow engagement of users specifically in the areas of feature usage behavior and forecast scoring frameworkltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtyou will be a versatile problem solver equipped with strong analytical and quantitative skills suited to approach various kinds of challenges in complex environments adept at creative and critical thinking you are able to deconstruct problems and transform personal insights into data backed recommendations you are a self starter with a strong sense of personal responsibility and a technical orientation you should have strong coding skills and handson big data experience you should be proficient in writing code in one of the following languages c r java python perl in addition to hadoop experience mapreduce hive spark sql and r sql you will have strong product intuition data analysis skills and business presentation skills you are capable of working with large sets of data using a variety of tools you have knowledge and experience in implementing and developing customer life cycle predictive models data structures and interactive tools to improve product you are deliveryoriented able to lead and execute modeling efforts from start to finish you are expected to lead customer life cycle predictive modeling function should be selfmotivated with a cando attitude of course you are a great teammate with excellent interpersonal skills and a self starterltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtdesign develop and manage big datadriven predictive models to solve for product experience and improve user engagement using the latest technologies in machine learning user pattern recognition experimentation and data modeling analyze data covering a wide range of information from user profile to user behavior signals identify new engagement patterns through data mining conduct hypothesis driven exploratory analysis build feature engineering structure best experimentation design to understand interaction effects of features developing test plans validating engineering ampamp featuring dependencies to launch an experiment structure experiment design for ab testing and apply advanced segmentation and statistical models tools and other capabilities collaborate with product engineering business and science groups to formulate innovative solutions to experiment and implement advanced data mining techniques work with large volumes of data extract and manipulate large datasets using tools such as spark sql communicate complex concepts and the results of the analyses in a clear and effective manner to senior managementltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtminimum of bachelors degree in the fields of computer science or quantitative disciplines statistics predictive analytics or applied mathematics minimum of years of data science experience is requiredltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-24T02:14:39.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 218000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

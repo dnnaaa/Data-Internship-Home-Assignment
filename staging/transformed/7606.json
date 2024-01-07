@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Machine Learning Engineer, Customer Experience (Remote)",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "ltstronggtltstronggtat shipt we are transforming the grocery shopping experience and giving time back to consumers shipt shoppers handpick fresh groceries and household essentials then deliver them to your door in as little as one hourltstronggtltstronggtltstronggtltstronggt were searching for a senior machine learning engineer to drive the development and deployment of key machine learning features and services such as customer segmentation churn prediction shopping personalization and recommendation this person will lead and experience firsthand how our mle team transforms machine learning models and algorithms into ai products for our customers shoppers and partners around the nation ltbrgtltbrgtltstronggtltstronggtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt bring strong technical expertise and develop deploy and monitor machine learning and datadriven services on google cloud platform gcp in the areas of customer behavior loyalty and engagement search performance profitability etc ltligtltligt lead and define best practices for robust and efficient machine learning service development that include data pipeline development and automation model versioning and deployment machine learning feature testing ltligtltligt design and manage cicd pipelines for our machine learning product deployment ltligtltligt collaborate with a crossfunctional team of data science engineering product marketing etc to deliver ai services with quality efficiency security and affordability ltligtltligt contribute to the machine learning engineering roadmap and priorities within your area of ownership and projects ltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligta bachelors masters or doctorate degree in computer engineering or computer science and a minimum of years of machine learning and data science industry experience ltligtltligt strong expertise in developing and deploying machine learning models in production ltligtltligt solid understandings of machine learning software development and statistical modeling ltligtltligtproficiency in python and gcp machine learning platformltligtltligt experience with python api development framework such as fastapi django or flask ltligtltligt experience with cloud computing services or platforms gcp preferred ability to work collaboratively in a dynamic teambased environment ltligtltligt strong sql skills we use snowflake postgres and redshift ltligtltligt experience with demo ui development with tools like python dash or r shiny ltligtltligtfamiliarity with version control and peer code review systems ltligtltligt demonstrated ability to learn and embrace new technologies applications and solutions ltligtltligt experience as a technical lead and passion for mentoring ltligtltligt strong written and verbal communication skills and the ability to explain technical topics especially ml results and applications to data scientists engineers and business partners ltbrgtltligtltulgtltstronggtnice to haves ltbrgtltstronggtltulgtltligt experience with event instrumentation ltligtltligt experience with batch processing frameworks ltligtltligt experience with rltligtltligtfamiliarity with more than one cloud computing environment aws azure gcpltligtltligt familiarity with ondemand andor multisided marketplaces ltligtltligtfamiliarity with causal inference and experimentation methodsltbrgtltligtltulgtthis position can be remoteltbrgtltbrgtltemgtwe are an equal opportunity employer and value diversity at our company we do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability statusltbrgtltbrgtltemgtltemgtpursuant to the san francisco fair chance ordinance we will consider for employment qualified applicants with arrest and conviction recordsltbrgtltbrgtltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:36:44.000Z"
+  },
+  "company": {
+    "name": "Shipt",
+    "link": "https://www.linkedin.com/company/shipt"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

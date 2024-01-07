@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Scientist",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtat apple we work every day to create products that enrich peoples lives our advertising platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work today our technology and services power advertising in search ads in the app store and apple news our platforms are highlyperformant deployed at scale and setting new standards for enabling effective advertising while protecting user privacy ltbrgtltbrgtltbrgtwe are looking for an aspiring and ambitious individual who can thrive in a fast paced agile environment and work at the leading of ml and privacy frameworks our group is developing next generation of ad tech technology with a strong focus on user privacy and in the process it is redefining the industry for endusers we aim to provide high privacy guarantees and for advertisers we want to enable new mechanisms to build effective campaigns this position involves working on large volumes of data identifying meaningful data patterns assuring the integrity and breadth of the data measuring user campaign and app performance and finally analyzing the results of extremely largescale experiments the role involves using state of the art language models collaborative filters and dense representations in addition the successful candidate will also apply advanced ml techniques for federated learning where privacy mechanisms are safeguarded at the very onset and delightful relevance experiences are built by applying encryption techniques ondevice segmentation advanced language models ranking algorithms by utilizing the best of aggregated server and ondevice dataltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgta strong theoretical background in machine learning and two toptier publications in last yearsltbrgtltbrgtltbrgt years relevant experience in in algorithms artificial intelligence distributed systems machine learning data science or statisticsltbrgtltbrgtltbrgtbuilding language models collaborative filtering and using cutting edge modeling techniques to solve hard deep learning problems ltbrgtltbrgtltbrgtyou should have experience in software development using a general purpose programming language eg python java cc c objectivec andor swift ltbrgtltbrgtltbrgtprevious experience working in any of the followingltbrgtltbrgtltbrgtprivacy preserving machine learning algorithms such as differential privacyltbrgtltbrgtltbrgtdeveloping risk models for ad fraud and spam detectionltbrgtltbrgtltbrgtdeveloping anomaly detection modelsltbrgtltbrgtltbrgtbuilding deep representations based on language modeling ampamp collaborative filtering ltbrgtltbrgtltbrgtdeveloping audience segmentation models attribution or lift modelsltbrgtltbrgtltbrgtdeveloping ml approaches features for supporting search relevance ampamp advertising performanceltbrgtltbrgtltbrgtability to design and implement both independently and with larger teamsltbrgtltbrgtltbrgtclosely working with operational teams on deployment monitoring model retrain and other aspects of mlopsltbrgtltbrgtltbrgtexperience in distributed machine learning architectures andor federated learningltbrgtltbrgtltbrgtany previous experience working with a public cloud infrastructure such as gcp azure or aws is an added advantageltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtyou will have the opportunity to work on a platform with extreme scale and performance requirements you would be applying your skills to work across the stack to develop test deploy and maintain ml based software solutions develop machine learning models using relevant frameworks such as tensorflow and pytorch implement and adapt deep learning network architectures such as cnn and rnn you would participate in cutting edge research in artificial intelligence and machine learning applicationsltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgt ms or phd in computer science electrical engineering or other stem fieldsltbrgtltbrgtltbrgt interest and ability to invest in continual learning of new technical and soft skillsltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:31:51.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 132000,
+    "max_value": 222000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

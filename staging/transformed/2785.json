@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Consumer Services,Automotive",
+    "description": "waymo is an autonomous driving technology company with a mission to make it safe and easy for people and things to get where theyre going since our start as the google selfdriving car project in waymo has been focused on building the worlds most experienced driver in hopes of improving the worlds access to mobility while saving thousands of lives now lost to traffic crashes our waymo driver powers waymo one our fully autonomous ridehailing service as well as waymo via our trucking and local delivery service to date waymo has driven over million miles autonomously on public roads across us cities and conducted over billion miles of simulation testingltbrgtltbrgtdata science builds the brains of waymos fully autonomous driving technology our software allows the waymo driver to perceive the world around it make the right decision for every situation and deliver people safely to their destinations we think deeply and solve complex technical challenges in areas like robotics perception decisionmaking and deep learning while collaborating with hardware and systems engineers if youre a software engineer or researcher whos curious and passionate about level autonomous driving wed like to meet youltbrgtltbrgtltstronggtltugtin this data science role you willltbrgtltugtltstronggtltulgt ltligtsafety evaluation is of fundamental importance to waymo and measuring it is subtle this role works with a wide variety of teams across the company onboard software engineering product safety systems engineering to evaluate the driving and safety performance of waymos self driving car this is based on a wide variety of data from real and simulated driving from waymos selfdriving system as well as from external data sourcesltligt ltligtthe planner team is responsible for motion planning for the self driving car this includes gracefully handling many complex situations involving social interactions merging negotiating narrow roads etc while dealing with a noisy and uncertain environment evaluation of this onboard decisionmaking system is a complex openended problem with tremendous potential impact the quality of the road maneuvers we execute is subjective contextual and geometrically subtle and evaluation needs apply to a wide variety of conditions with an extremely long tailltligt ltbrgtltbrgtltulgtltstronggtltugtadditionallyltbrgtltugtltstronggtltulgt ltligtanalysis and improvement of existing data sources and metricsltligt ltligtdevelopment of novel approaches to measuring and improvingltligt ltligtselfdriving performance either generally or for motion planning specifically ltligt ltligtcollaborate with engineers and other data scientists to evaluate and improve coreltligt ltligtwaymo technologies with a focus on bringing statistical depth general analytical rigor and accurate causal interpretation of dataltligt ltbrgtltbrgtltulgtltstronggtltugtwed like you to haveltbrgtltugtltstronggtltulgt ltligtphd in statistics math or other quantitative arealtligt ltligtprogressive statistics background either in academia or industryltligt ltligtdata science and system evaluation experienceltligt ltligtwillingness to understand a complex system and its various componentsltligt ltligtexperience with tools for manipulating big dataltligt ltligtexperience with rpython and statistical librariesltligt ltbrgtltbrgtltulgtltstronggtltugtits preferred if you have experience inltbrgtltugtltstronggtltulgt ltligtexperience with cltligt ltligtfamiliarity with sparkmapreduceltligt ltligttraining or interest in geometry or classical physicsltligt ltbrgtltbrgtltulgtwe appreciate your interest in waymo waymo is an equal employment opportunity employer waymos policy is not to discriminate against any applicant or employee based on race color sex religion national origin age disability military status genetic information or any other characteristic protected by law waymo also prohibits harassment of applicants or employees based on any of these protected categories waymo will also consider for employment qualified applicants with criminal records in accordance with applicable law waymo also makes workplace accommodations for qualified individuals with disabilities as required by applicable lawltbrgtltbrgtwaymo is committed to maintaining the same safe and inclusive environment for candidates as for our team members addressing you by the correct pronoun is an important part of this commitmentltbrgtltbrgtwaymo candidate privacy policy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T18:56:16.000Z"
+  },
+  "company": {
+    "name": "Waymo",
+    "link": "https://www.linkedin.com/company/waymo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 134000,
+    "max_value": 207000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

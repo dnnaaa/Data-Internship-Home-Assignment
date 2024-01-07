@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "were looking for a ltstronggtsenior data engineer ltstronggtfor our client a startup company in silicon valley with an amazing opportunity to design develop and deliver our data platform from the ground upltbrgtltbrgtduration ltstronggtcontract to hireltbrgtltbrgtltstronggtwork location ltugtltstronggtthis is a fully remote positionltbrgtltbrgtltstronggtltugtltstronggtkey responsibilitiesltbrgtltstronggtltulgtltligtdesign develop and deliverimplement data solutions to include architecture design prototyping of concepts to proof of concept development of standards design and development of test plans code and module design development and testing data solution debugging and design and implementationltligtltligtoptimize existing data pipelines and create new ones to manage data sets while learning the platforms from which we extract data develop and maintain thirdparty api processes for data pipelinesltligtltligtdesign implement and manage data warehouse solutionsltligtltligtsupport and maintain data and database systems to meet business delivery specifications and needs document structure and processesltligtltligtenable analytics and data science to create datadriven insights and launch new models to scale the impactltligtltligtwork with various business and engineering teams to ensure reliable scalable robust architecture for our data platformltbrgtltbrgtltligtltulgtltstronggtqualificationsltbrgtltstronggtltulgtltligtbs in computer science related technical field or equivalent practical experience ms or phd in databases distributed systems is a plusltligtltligt years of engineering experience with a focus on dataltligtltligtproficient with programming in one or more general purpose languages including but not limited to java scala python or javascript ltligtltligtproficient with sql programming nosql is a plusltligtltligtexperience with data warehousing solutions such as mysql snowflake bigquery redshift or similar managed solutions proficiency with etl toolsltligtltligtexpert data modeling skills with experience tuning and optimizing for performanceltligtltligtexperience designing and operating data services ampamp data pipelines experience with ml ops is a plusltligtltligtfamiliarity with gcps data tooling eg dataflow cloudcomposer bigquery pubsub or similar cloud toolingltligtltligtdriven by delivering customer value and impactltligtltligtexcellent communication and analytical skillsltbrgtltligtltulgtthank youltbrgtltbrgtfocuskpi hiring teamltbrgtltbrgtfounded in focuskpi inc focuskpi is a data science and technology firm specializing in predictive analytics practice and methodologies focuskpi is a us company headquartered in santa clara california with an east coast office in waltham massachusettsltbrgtltbrgtpowered by jazzhrltbrgtltbrgtmukufuwzw",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T08:26:32.000Z"
+  },
+  "company": {
+    "name": "FocusKPI, Inc.",
+    "link": "https://www.linkedin.com/company/focuskpi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99700,
+    "max_value": 174000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

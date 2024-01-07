@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Integration &amp; Test Software Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Defense &amp; Space,Computer Software",
+    "description": "epirus is a venturebacked startup specializing in agile development of advanced defense systems our team combines decades of aerospace ampamp defense experience with silicon valley innovation in order to address st century threats such as drones and other asymmetric technologiesltbrgtltbrgtltstronggtltugtjob objectiveltbrgtltbrgtltugtltstronggtepirus designs and manufactures novel rf systems in a rapid development environment fast and thorough hardware software testing from early rampampd to production is critical for delivering successful products rapidly the lead integration ampamp test software engineer role will lead a team that focuses on instrument control test automation data management and data analysis the iampampt software team supports test automation from component eg board level acceptance testing to full system integration testing in our anechoic chambers and field test sites this includes softwaredriven control of measurement equipment softwaredriven control of product hardware design of automated testing procedures to collect all necessary data in both walltime and humantouchtime efficient manners management and organization of collected data in databases and other data stores and analysis of data both for individual units runs as well as for aggregate trends and insights candidates should be capable software engineers with experience in large data storage and processing pipelines as well as experience with measurement equipment and hardwareintheloop testing experience leading a team or a project is desired as well success in this role powers the datadriven decisions that enable epiruss agile product developmentltbrgtltbrgtltstronggtltugtdutiesltbrgtltugtltstronggtltulgtltligtlead a team of integration ampamp test software engineers while also being a direct contributor by driving architectural decisions and best practices development ltligtltligtsupport efforts across multiple products and maintain consistency reuse for efficiency ltligtltligtdevelop and maintain software libraries for controlling and communicating with lab equipment ltligtltligtcoordinate with other engineers on designing and setting up new test fixtures typically on lab benches or in rf chambers also occasionally out in the field ltligtltligtwork with other engineers to develop new test scripts programs maximizing code reuse for consistency of testing ltligtltligtmanage evergrowing data logging and analysis to power datadriven decisions ltligtltligtcoordinate with manufacturing team and train technicians on operation of test software for production testing ltligtltligtcoordinate with hardware and software teams to develop hardwareintheloop test platforms and procedures automating as much as possible ltligtltligtselect and onboarding new lab equipment instrumentation such as various sensors daqs etc to continually improve test capabilities and fidelity ltbrgtltligtltulgtltstronggtltugtrequired qualificationsltbrgtltugtltstronggtltulgtltligtdegree in one of the following electrical engineering computer science or related ltligtltligt years experience including experience automating lab equipment and data analysis ltligtltligtus citizen ltbrgtltligtltulgtltstronggtltugtdesired qualificationsltbrgtltugtltstronggtltulgtltligtgood written and oral communication skills not afraid to speak up either to ask for help or disagree on a technical point that warrants more discussion ltligtltligtcollaborative capable of working across all levels of the organization ltligtltligteager to learn and to help others on the team ltligtltligtorganized comfortable working in a fastpaced everchanging environment ltligtltligtfocused with perspective on what matters most rapidly delivering customer value ltligtltligtproficiency with python ltligtltligtproficiency with git ltligtltligtexperience with multiple operating systems and command line interfaces ltligtltligtexperience with databases and cloud data storage services ltligtltligtfamiliarity with signal processing statistical analysis and expressive plotting data presentation ltligtltligtexperience with various sensors and daqs for data collection ltligtltligtsome level of electrical hardware lab experience andor field test experience ltligtltligtan interest in working with a wide range of other engineering disciplines touching all parts of the productltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:49:45.000Z"
+  },
+  "company": {
+    "name": "Epirus",
+    "link": "https://www.linkedin.com/company/epirus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hawthorne",
+    "region": "CA",
+    "postal_code": "90251",
+    "street_address": null,
+    "latitude": 33.916424,
+    "longitude": -118.35028
+  }
+}

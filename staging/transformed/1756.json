@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Cloud Data Engineer",
+    "industry": "Banking,Financial Services,Investment Management",
+    "description": "ltstronggtltugtposition titleltugtltstronggt senior cloud data engineerltbrgtltbrgtltstronggtltugtpretium ltbrgtltbrgtltugtltstronggtpretium is a specialized alternative investment manager focused on real estate and credit the firm was founded in to capitalize on secular investment and lending opportunities that arose after the global financial crisis as a result of structural changes within the economy the residential housing sector and mortgage finance markets the firm currently manages billion of aum across its singlefamily rental billion and mortgage credit billion strategies as well as billion of aum in structured and corporate creditltbrgtltbrgtltstronggtltugtposition ltugtltstronggtwe are seeking a senior cloud data engineer in minneapolis mnltbrgtltbrgtltstronggtltugtkey responsibilitiesltbrgtltugtltstronggtltulgt ltligtdesign develop and support data pipelines to tackle business operations users and product problemsltligt ltligtcreate extract transform and load etls for new data using a variety of traditional as well as distributed data systemsltligt ltligtmaintain aws databases including aurora and redshift as well as data on sltligt ltligtcollaborate and influence stakeholders to ensure our data infrastructure meets constantly evolving requirementsltligt ltligtwork closely with data analysts to productionize applications and financial reportsltligt ltbrgtltbrgtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgt ltligt years building cloud solutions in awsltligt ltligt years experience with sql databasesltligt ltligt years experience as software engineer with breadth of experience that covers software development database administration and devopsltligt ltbrgtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgt ltligtaws associate level certificationsltligt ltligtexperience with athena glue redshift spectrum and other aws analyticsltligt ltligtexpert at sql databasesltligt ltligtetl pipeline development experience using ssis airflow etcltligt ltligtdevelopment experience in python pyspark or similarltligt ltbrgtltbrgtltulgtltstronggtltugtwhat we offerltbrgtltbrgtltugtltstronggtthis position offers the opportunity to join a collegial entrepreneurial firm committed to the personal and professional growth of its team members and to maintaining a positive encouraging work environment where people enjoy working together the company offers a comprehensive benefits and perks package includingltbrgtltulgt ltligtcompetitive base salary and bonusltligt ltligtk plan with an employer matchltligt ltligtpaid time off pto programltligt ltligtemployee incentive compensation programltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:14:17.000Z"
+  },
+  "company": {
+    "name": "Pretium",
+    "link": "https://www.linkedin.com/company/pretium-partners-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postal_code": "55440",
+    "street_address": null,
+    "latitude": 44.977486,
+    "longitude": -93.264366
+  }
+}

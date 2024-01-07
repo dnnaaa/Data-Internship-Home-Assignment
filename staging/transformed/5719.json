@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer (Python, AWS)",
+    "industry": "Information Technology and Services",
+    "description": "ltstronggtltugtabout usltbrgtltbrgtltugtltstronggtltstronggtdescriptionltbrgtltbrgtltstronggtltstronggtwavicle data solutions ltstronggtdesigns and delivers data and analytics solutions to reduce time cost and risk of companies data projects improving the quality of their analytics and decisions now and into the futureltstronggt ltstronggtas a privatelyheld consulting service organization with popular name brand clients across multiple industries wavicle offers exciting opportunities for data scientists solutions architects developers and consultants to jump right in and contribute to meaningful innovative solutionsltbrgtltbrgtour local nearshore and offshore consultants data architects cloud engineers and developers build costeffective rightfit solutions leveraging our teams deep business acumen and knowledge of cuttingedge data and analytics technology and frameworksltbrgtltbrgtltstronggtltugtwavicle has been recognized by industry leaders as followsltbrgtltbrgtltugtltstronggtat wavicle youll find a challenging and rewarding work environment where we enjoy working as a team to exceed client expectations employees appreciate being part of something meaningful at wavicleltbrgtltulgtltligtchicago tribunes top workplacesltligtltligtinc fastest growing private companies in the usltligtltligtcrains fast fastest growing companies in the chicago arealtligtltligttalend expert partner recognitionltligtltligtmicrosoft gold data platform competencyltbrgtltbrgtltligtltulgtltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtwe are looking for a ltstronggtsenior data engineerltstronggt who will be responsible for designing and building optimized data pipelines in an onprem or cloud environment for the purpose of driving analytic insightsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtcreate the conceptual logical and physical data modelsltligtltligtbuild the infrastructure required for optimal extraction transformation and loading of data from a wide variety of sources like hadoop spark aws lambda etc ltligtltligtlead andor mentor a small team of data engineers ltligtltligtdesign develop test deploy maintain and improve data integration pipeline ltligtltligtdevelop pipeline objects using apache spark pyspark python or scala ltligtltligtdesign and develop data pipeline architectures using hadoop spark and related aws services ltligtltligtload and performance test data pipelines built using the abovementioned technologies ltligtltligtcommunicate effectively with client leadership and business stakeholdersltligtltligtparticipate in proposal andor sow developmentltbrgtltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtprofessional work experience as a strategic or a management consulting customer facing role and in an onshore capacity is highly preferred ltligtltligt years of professional work experience designing and implementing data pipelines in onprem and cloud environments is required ltligtltligt years of experience building conceptual logical andor physical database designs using tools such as erwin visio or enterprise architectltligtltligtstrong handson experience implementing bigdata solutions in the hadoop ecosystem apache hadoop mapreduce hive pig sqoop nosql etc andor databricks is requiredltligtltligt years of experience with cloud platforms aws preferred gcp or azure and python programming and frameworks eg django flask bottle is required ltligtltligt years of working with one or more databases like snowflake aws redshift oracle sql server teradata netezza hadoop mongo db or cassandra is requiredltligtltligtexpert level knowledge of using sql to write complex highlyoptimized queries across large volumes of data is requiredltligtltligt years of professional handson experience working with one or more etl tools to build data pipelinesdata warehouses is highly preferred eg talend big data informatica datastage abinitioltligtltligt years of handson programming experience using scala python r or java is required ltligtltligt years of professional work experience on etl pipeline implementation using aws services such as glue lambda emr athena s sns kinesis datapipelines pyspark etc ltligtltligt years of professional work experience using realtime streaming systems kafkakafka connect spark flink or aws kinesis is requiredltligtltligtknowledge or experience in architectural best practices in building data lakes is required ltligtltligtstrong problem solving and troubleshooting skills with the ability to exercise mature judgement ltligtltligtability to work independently and provide guidance to junior data engineersltligtltligtability to build and maintain strong customer relationshipsltligtltligtbachelor or masters degree in computer science engineering information systems or relevant degree is requiredltligtltligtopen to national travel to the client location as required by the clientltbrgtltbrgtltligtltulgtltstronggtequal opportunity employerltbrgtltbrgtltstronggtwavicle is an equal opportunity employer and committed to creating an inclusive environment for all employees we welcome and encourage diversity in the workplace regardless of race color religion national origin gender pregnancy sexual orientation gender identity age physical or mental disability genetic information or veteran statusltbrgtltbrgtltstronggtltugtbenefitsltbrgtltugtltstronggtltulgtltligthealth care plan medical dental ampamp visionltligtltligtretirement plan k iraltligtltligtlife insurance basic voluntary ampamp adampampdltligtltligtunlimited paid time off vacation sick ampamp public holidaysltligtltligtshort term ampamp long term disabilityltligtltligttraining ampamp developmentltligtltligtwork from homeltligtltligtcollege tuition benefitltligtltligtbonus programltbrgtltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:23:29.000Z"
+  },
+  "company": {
+    "name": "Wavicle Data Solutions",
+    "link": "https://www.linkedin.com/company/wavicle-data-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

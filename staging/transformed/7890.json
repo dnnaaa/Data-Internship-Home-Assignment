@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - 82365",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "ltpgtjob titleampnbspltpgtltpgtsite reliability engineerltpgtltpgtltbrgtltpgtltpgtltstronggtjob summaryltstronggtltpgtltpgtas a site reliability engineer youll manage a portfolio of customerfacing cloud services saasiaas ensuring overall availability performance and securityampnbspampnbspthis role can be located near any us based netapp campus location rtp north carolinaampnbspsan jose california boulder colorado wichita kansasampnbspand reports directly to an sre managerampnbspyoull work in a highly collaborative environment with netapp and microsoft teams from all over the world reykjavik bangalore sunnyvale redmond and more to deploy manage and incrementally improve our servicesampnbspampnbspthis position includes rotational oncall escalation support work as part of a global team due to the critical nature of the services we supportampnbspcustomer service and troubleshooting skills in addition to advanced scripting and automation experience are critical attributes for this roleltpgtltpgtltbrgtltpgtltpgtltstronggtjob requirementsltstronggtltpgtltpgtyou will administer cloudbased environments that support our saas iaas offerings that are implemented on a microservices containerbased architecture kubernetesampnbspyou will automate repetitive and error prone tasks and processes using tools like ansible python powershell and other scripting languagesampnbspyou will ensure adequate monitoring is in place to quickly be alerted for any issues on the production environments using tools like prometheus observium elasticsearch splunkampnbspampnbspyou will continuously measure the availability latency and overall system health using tools like grafana opsramp and othersampnbspampnbspyoull secure our environment from security threats deploying patches and leastprivilege configurationsampnbspyoull respond to escalated incidents and drive change that prevents issues from reoccurringampnbspyoull look for opportunities to automate the recovery for incidents that we cannot prevent in advanceampnbspampnbspyou will use atlassian jira to manage your daily assignmemts and track issues to resolution based on their priorityltpgtltpgtampnbspltpgtltpgtyoull design and implement tools for automated deployment of multiple environmentsampnbspampnbspyoull work deeply in one or more cloud environments aws google azureampnbspyoull document findings and solutions you create using atlassian confluenceampnbsppreference for candidates with azure experience but learningtraining is a critical element with this role so azure experience is not a hard requirementltpgtltpgtltbrgtltpgtltpgtltstronggteducationltstronggtltpgtltpgttypically requires a minimum of years of related experience with a bachelors degree or years and a masters degree or a phd with years experience or equivalent experience within the key characteristics listedltpgtltpgtltbrgtltpgtltpgtkey characteristicsltpgtltpgtyou are generally curious and highly motivated with a passion for ensuring the delivery and support of scalable performant and highlyavailable solutions you are great at and love debugging and solving technical problems throughout a technology stack have a mindset that if you must do the same thing twice youre going to automate it familiarity with linux and windows operating systems the ability to write automation and understanding of a least one language such asampnbspbash python powershell ansible go python preferred a basic understanding of public cloud vendors such as aws azure google cloud or othersltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T11:15:13.000Z"
+  },
+  "company": {
+    "name": "NetApp",
+    "link": "https://www.linkedin.com/company/netapp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

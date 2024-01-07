@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Machine Learning)",
+    "industry": "Railroad Manufacture,Transportation/Trucking/Railroad",
+    "description": "ltpgtltstronggtdata scientist machine learning scientistltstronggtltpgtltpgtltstronggtatlanta galtstronggtltpgtltpgtampnbspltpgtltpgtltstronggtwho we are and what we doltstronggtltpgtltpgtampnbspthe ai and data science team is centralized across the entire organizationltpgtltulgtltligtwe work with various product teams across various business units to define highimpact business problems solve them using novel techniques and execute and monitor them throughout their lifecycleltligtltligtmost of our models make it to production they never sit in a research lab but we also do quite a bit of research to stay up to date with the latest technologiesalgorithmsltligtltligtwe are very collaborative you will likely get lots of ideas from the teamltligtltulgtltpgtampnbspltpgtltpgtltstronggtwhat kind of problems do we solveltstronggtltpgtltpgtampnbspour locomotives stream sensor information in realtime we create predictive models to predict various component failures hours days and sometimes months in advanceltpgtltulgtltligtthere are highframe cameras beside our tracks capturing images of trains and rail cars as they pass we design various deep learning and computer vision algorithms to detect certain objects of interest or issues and defects we then optimize their performance and deploy them at the edge for realtime scoring and notification of our mechanical personnel upon detectionsltligtltligtwant to learn more apply todayltligtltulgtltpgtampnbspltpgtltpgtltstronggtwhat tools do we useltstronggtltpgtltulgtltligtwe use python r and spark pyspark sparkr for modeling and edaltligtltligtyou will have a local machine with gb of memory so feel free to load the data in memory if it makes sense or if it fits ltligtltligtyou will also have terabytes of memory in our spark cluster that is not shared by anyoneltligtltligtwe use jupyter notebook emacs pycharm rstudio as idesltligtltligtwe use tensorflow keras pytorch and mxnet for deep learning and opencv for traditional computer visionltligtltligtwe always have the latest versions of our toolspackageslibraries availableltligtltulgtltpgtampnbspltpgtltpgtltstronggtwhat are our requirementsltstronggtltpgtltulgtltligtbachelors masters or phd in computer science electrical engineering machine learning statistics or related fieldltligtltulgtltpgtltbrgtltpgtltpgtminimum of year of relevant expltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T22:40:23.000Z"
+  },
+  "company": {
+    "name": "Open Systems Inc.",
+    "link": "https://www.linkedin.com/company/open-systems-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

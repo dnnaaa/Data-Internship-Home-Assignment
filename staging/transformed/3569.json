@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Data Platform",
+    "industry": "Internet",
+    "description": "ltpgtltstronggtresponsibilitiesltstronggtltpgtltpgtltstronggtltspan classqlcursorgtltspangtltstronggtltpgtltpgttiktok is the leading destination for shortform mobile video our mission is to inspire creativity and bring joy tiktok has global offices including los angeles new york london paris berlin dubai mumbai singapore jakarta seoul and tokyoltpgtltpgtltbrgtltpgtltpgtsite reliability engineering sre combines software and systems engineering to build and run largescale massively distributed services and infrastructures as a site reliability engineer in the data platform team you will have the opportunity to manage the services and infrastructures in one of the largest dataplaforms in the world youll need to ensure the data services and infrastructures are reliable faulttolerant efficiently scalable and costeffective youll also have the opportunity to design build and deliver all kinds of systems as a software engineerltpgtltpgtltbrgtltpgtltpgt ensure reliable faulttolerant efficiently scalable and costeffective data services and infrastructuresltpgtltpgt establish solid design and best engineering practice for engineers as well as nontechnical peopleltpgtltpgt design and build data transformations efficiently and reliably for different purposes eg reporting growth analysis multidimensional analysisltpgtltpgt design and implement reliable scalable robust and extensible big data systems that support core products and businessltpgtltpgt our team are working on various directions in the data infra and data product area dont hesitate to contact us if youre interestedltpgtltpgt query engine that support adhocinteractive queries and batch pipelinesltpgtltpgt logging ampamp ingestion infra that logs and ingests large amount of data in realtimeltpgtltpgt experimentation platform that supports the ab testing for all product and feature launchesltpgtltpgt workflow management platform that programmatically authors schedules and monitors workflows such as streaming and batch tasksltpgtltpgt distributed cache that accelerates computeltpgtltpgt various data products such as data visualization tool user behaviour analysis tool user profiling toolltpgtltpgt data engineering that support business productsltpgtltpgt moreltpgtltpgtltbrgtltpgtltpgtltstronggtqualificationsltstronggtltpgtltpgt bs or ms degree in computer science or related technical field or equivalent practical experienceltpgtltpgt experience in the big data technologieshadoop mr hive spark metastore presto flume kafka clickhouse flink etcltpgtltpgt experience with performing data analysis data ingestion and data integrationltpgtltpgt solid communication and collaboration skillsltpgtltpgtltbrgtltpgtltpgttiktok is committed to creating an inclusive space where employees are valued for their skills experiences and unique perspectives our platform connects people from across the globe and so does our workplace at tiktok our mission is to inspire creativity and bring joy to achieve that goal we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach we believe individuals shouldnt be disadvantaged because of their background or identity but instead should be considered based on their strengths and experience we are passionate about this and hope you are tooltpgtltpgtltbrgtltpgtltpgttiktok is committed to providing reasonable accommodations during our recruitment process if you need assistance or an accommodation please reach out to us at usrctiktokcomltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T16:52:11.000Z"
+  },
+  "company": {
+    "name": "TikTok",
+    "link": "https://www.linkedin.com/company/tiktok"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

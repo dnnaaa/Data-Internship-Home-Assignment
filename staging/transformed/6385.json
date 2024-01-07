@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "ltstronggtltemgthelp shape the next generation of ecommerce for the next generation of consumerltbrgtltbrgtltemgtltstronggtplatform operations site reliability engineerltbrgtltbrgtstockx is looking for site reliability engineers to help us build and scale our platform from a data driven perspective youd join as a foundational member of our platform operations sre team and have the opportunity to directly influence the roadmap and technology choices as we rapidly scale our team and infrastructure youll be responsible for shaping and developing initiatives like our monitoring ampamp alerting telemetry ampamp tracing infrastructure and incident responseltbrgtltbrgtltstronggtltugtwhat you will be doingltbrgtltbrgtltugtltstronggtpartnering with your teammates toltbrgtltulgtltligtstandardize the operational processes that drive the stockx platformltligtltligtdefine our incident response process and implement standardized tooling to support itltligtltligtrun incident response efforts incident commander and communication roles as well conducting blameless postincident reviewsltligtltligtcraft reliable methods to monitor critical vendors that integrate with the stockx platformltligtltligtfoster a data driven culture that promotes quality and process improvement across the platform and with stakeholdersltbrgtltligtltulgtltstronggtltugtpartnering with product and engineering teams toltbrgtltugtltstronggtltulgtltligtdevelop operational readiness requirements for stockx services and cloud infrastructureltligtltligtmeasure and optimize platform performance by implementing slislosla across all of stockxs servicesltligtltligthelp define how availability is measured across the stockx platformltligtltligtprovide a holistic view of our platform health through service levels and business metricsltbrgtltligtltulgtltstronggtltugtpartnering with information security toltbrgtltugtltstronggtltulgtltligtmonitor the platform for security eventsalerts related to potential or active threatsltligtltligtmaintain awareness of the global threat landscape by partnering with stockx threat intelligence teamltligtltligtdevelop cyber security playbooks for various incident response scenariosltbrgtltligtltulgtltstronggtltugtwhat were looking forltbrgtltugtltstronggtltulgtltligt years experience building and maintaining production systems with a focus on devops or site reliability engineeringltligtltligtexperience withltligtltulgtltligtcloud native infrastructure for aws or kubernetesltligtltligtinfrastructure as code tooling for terraformltligtltligtmaintaining monitoring and alerting systems datadogltligtltulgtltligtcomfortable triaging events ampamp alerts conducting threat assessments and determining next steps all based on internal controls and sopsltligtltligtability to program with one or more highlevel programming or scripting languages such as python ruby javascript bashltligtltligta pragmatic problemsolver who can drive technical solutions that focus on our customers and businessltligtltligta collaborative teammate that is comfortable in a fast paced environmentltligtltligtsomeone comfortable working across teams such as engineering product design it and supply chain operationsltligtltligta willingness to learn on the job and take on tasks as neededltligtltligtexcellent communication skillsltligtltligtability to work independently and communicate over the chat or video chat softwareltbrgtltligtltulgtltstronggtltugtabout usltbrgtltbrgtltugtltstronggtour global platform offers unprecedented access to current culture while our datadriven bidask model provides buyers with the realtime visibility to know theyre getting a fair price and unlike other ecommerce sites stockx handchecks every purchase daily trades at one of our regional authentication centersltbrgtltbrgtstockxs special formula has rocketed the company to a multibillion dollar valuation with m lifetime trades on the platformltemgtltemgtmore than half of those coming in the last year and were just getting startedltbrgtltbrgtltemgtwe are an equal opportunity employer and value diversity at our company we do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability status this job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job however this job description is not intended to be an exhaustive list of qualifications skills efforts duties responsibilities or working conditions associated with the position stockx reserves the right to amend this job description at any timeltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T00:00:00.000Z"
+  },
+  "company": {
+    "name": "StockX",
+    "link": "https://www.linkedin.com/company/stockx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Detroit",
+    "region": "MI",
+    "postal_code": "48242",
+    "street_address": null,
+    "latitude": 42.33294,
+    "longitude": -83.04784
+  }
+}

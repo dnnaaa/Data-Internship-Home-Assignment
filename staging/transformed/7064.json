@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer, Cloud Platform",
+    "industry": "Computer Software,Automotive,Information Technology and Services",
+    "description": "ltstronggtltugtwho we areltbrgtltbrgtltugtltstronggtargo ai is in the business of building selfdriving technology you can trust with experienced leaders in the field and collaborative partnerships with some of the worlds largest automakers were building selfdriving technology that is engineered to scale globally and transform mobility for millionsltbrgtltbrgttalented individuals join our team because they share our purpose to make it safe easy and enjoyable for everyone to get around cities we aspire to impact key industries that move people and goods from ride hailing to deliveriesltbrgtltbrgtltstronggtltugtmeet the teamltbrgtltbrgtltugtltstronggtargo ai site reliability engineers are responsible for building and running our missioncritical systems through the implementation of monitoring and automation our sres constantly ensure the health reliability scalability and performance of argo ais infrastructure the site reliability team works together with engineering teams it and security to address unique business challenges through comprehensive solutions while taking into account system uptime reliability and maintainability members of the team are expected to promote the importance of resiliency patterns to other teams within argo ai as well as contribute to a culture of continuous learningltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtdesign and implement scalable distributed systems to facilitate the development of selfdriving vehiclesltligtltligtmonitor and maintain missioncritical production services to ensure maximum uptimeltligtltligtdocument actions to build a comprehensive library of runbooks which will act as a knowledge base and foundation for automationltligtltligtscale the reliability and velocity of our systems and processes through increased automationltligtltligtparticipate in an oncall rotation and culture of continuous improvement through blameless postmortemsltbrgtltligtltulgtltstronggtltugtwhat youll need to succeedltbrgtltugtltstronggtltulgtltligtdegree in computer engineering computer science electrical engineering robotics or a related fieldltligtltligtexpertise in at least one scripting language eg bash pythonltligtltligtfundamental understanding of linux operating system internals tcpip networking and storage subsystemsltligtltligtstrong experience scaling and securing services in the cloud aws gcp or cloud native environmentsltligtltligtexperience using infrastructureascode principles to automate the creation of infrastructure resources eg terraform cloudformationltligtltligtunderstanding of engineering design limitations and ability to provide guidance to teams to scale their services to achieve desired performance within budgetltligtltligtexperience implementing and debugging cloud native and open source tools such as kubernetes etcd prometheus fluentd and istioltligtltligtstrong communication skills and the ability to work effectively in a diverse and distributed teamltbrgtltligtltulgtltstronggtltugtwhat we offer youltbrgtltugtltstronggtltulgtltligthighquality individual and family medical dental and vision insuranceltligtltligtcompetitive compensation packagesltligtltligtemployermatched k retirement plan with immediate vestingltligtltligtemployerpaid group term life insurance and the option to elect voluntary life insurance ltligtltligtpaid parental leave ltligtltligtpaid medical leaveltligtltligtunlimited vacationltligtltligtcomplimentary daily lunches beverages and snacksltligtltligtpretax commuter benefitsltligtltligtmonthly wellness stipend ltligtltligtprofessional development reimbursementltligtltligtemployee assistance programltligtltligtdiscounted programs that include legal services identity theft protection pet insurance and moreltligtltligtcompany and team bonding outlets employee resource groups quarterly team activity stipend and wellness initiativesltbrgtltligtltulgtltstronggtltugtour backgroundltbrgtltbrgtltugtltstronggtargo ai was founded in late by industry experts with extensive experience building robotic systems for commercial applications our oncesmall team has since grown into an over person strong company with strategic partnerships with two of the worlds leading automakers ford and volkswagen our selfdriving system is the first with commercial deployment plans for europe and the us and thanks to an ability to tap into both automakers global reach our technology platform has the largest geographic deployment potential of any selfdriving technology to dateltbrgtltbrgtat argo ai we believe that embracing differences delivers superior results we are an equal opportunity employer that is committed to an inclusive environment for all employees",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:34:08.000Z"
+  },
+  "company": {
+    "name": "Argo AI",
+    "link": "https://www.linkedin.com/company/argo-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99300,
+    "max_value": 144000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

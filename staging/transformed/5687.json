@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Financial Services",
+    "description": "ltstronggtltstronggtat northwestern mutual we are strong innovative and growing we invest in our people we care and make a positive differenceltstronggt ltbrgtltbrgtltstronggtltstronggtltugtprimary duties ampamp responsibilitiesltbrgtltbrgtltugtltstronggtas a sre you will lead daytoday work to acquire analyze combine synthesize and structure data with clear definitions and sources for analytical consumption this resource will collaborate with data consumers to identify meaningful datasets for analytical consumptionltbrgtltbrgtlead daytoday development of data products using continuous deployment and integration practicesltbrgtltbrgtapply engineering standard methodologies in order to analyze design develop deploy and support data analytics productsltbrgtltbrgtparticipate in agile story authoring sizing and demo sessions for product featuresltbrgtltbrgtleading code reviews providing feedback to the team and mentoring junior engineers are also part of this roleltbrgtltbrgtltstronggtltugtknowledge skills abilitiesltbrgtltugtltstronggtltulgtltligtbachelors degree ampamp years of professional experienceltligtltligtat least years of professional experience in data acquisition cleansing feature engineering debugging and software documentation using modern languages and practicesltligtltligtexperience using continuous integration and deployment conceptsltligtltligtat least year experience with specific technical requirementsplatforms will vary ie aws data science and analytics cloud technologies such as s emr spark pyspark rds jupyterlab sagemaker etc data warehouses suchas redshift or snowflake and digital analytics tools such as adobe analytics and heapltligtltligtproficiency navigating various types of database models and dbmss to create data sets for analytics and model training and developmentltligtltligtexperience developing solutions using agile methodsltligtltligtexperience working in data lake environmentsltligtltligtexperience guiding the work of junior developersltligtltligtexperience with testing or data accuracyquality designsltligtltligtsophisticated programming skillsltligtltligtstrong python cloud compute sql skills and background in etlltligtltligtdeep understanding of distributed data systems and applicationsltligtltligtproficiency with data lake design and implementation considerations such as columnar storage formats parquet and partitioningltligtltligtsolid understanding of analytics and data science applicationsltligtltligtstrong knowledge machine learning systemsltligtltligtdevelopment of requirement driven data models such dimensional and relationalltligtltligtunderstanding of the business domain and the meaning of the data in it to accurately identify key and associated data which can be extracted transformed and loaded for effective consumption downstreamltligtltligtdevelop the data flow so that data can be shared across the company with one source of truth being the goalltligtltligtunderstanding and awareness of regulations around the use of pii dataltligtltligtsee the big picture and able to incorporate business understanding into design and approach to achieve current value and prepare for future benefitltligtltligtability to provide thought leadership throughout the local scrum teamltligtltligtability to explain technical solutions to technical teams and nontechnical teamsltligtltligtexceptional analytical conceptual and problemsolving skillsltligtltligtexcellent written and verbal communication skillsltligtltligtselfmotivated with ability to work autonomouslyltbrgtltligtltulgtpreferred experience with agile methodologies experience in devops environment experience with user adhoc tools power bi business objects tableau consulting experienceltbrgtltbrgtltemgtltstronggtthis job is not covered by the existing collective bargaining agreementltbrgtltbrgtltstronggtltemgtltstronggtltugtrequired certificationsltbrgtltbrgtltugtltstronggtltstronggtltstronggtgrow your career with a bestinclass company that puts our clients interests at the center of all we do get started now ltbrgtltbrgtltstronggtltstronggtltemgt we are an equal opportunityaffirmative action employer and all qualified applicants will receive consideration for employment without regard to race color religion gender identity or expression sexual orientation national origin disability age or status as a protected veteran or any other characteristic protected by lawltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T03:46:21.000Z"
+  },
+  "company": {
+    "name": "Northwestern Mutual",
+    "link": "https://www.linkedin.com/company/northwestern-mutual"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 72800,
+    "max_value": 97700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Milwaukee",
+    "region": null,
+    "postal_code": "53219",
+    "street_address": null,
+    "latitude": 43.02804,
+    "longitude": -87.97088
+  }
+}

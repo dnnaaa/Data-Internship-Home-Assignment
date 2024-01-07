@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Web",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "job summaryltbrgtltbrgtwe are looking for a talented frontend engineer to join a team that creates largescale highlyperformant web applications this team transforms large complex datasets into fast and responsive user interfaces used by millions of peopleltbrgtltbrgtas a software engineer for web full stack you will help us push the boundaries of what is possible on the client youll work with a team of other developers alongside systems engineers services engineers and project managers you are highly proficient in javascript html and css and appreciate the details that make a user experience exceptional you demonstrate enthusiasm for new technologies languages frameworks and platformsltbrgtltbrgtwe believe we offer unique opportunities for any technologist includingltbrgtltbrgtltulgtltligtthe ability to work on a bleeding edge technology stackltligtltligtinfluencing the innovation of products used globally by millionsltligtltligtan open teamdriven environment that fosters constructive feedback and collective problemsolvingltbrgtltbrgtltligtltulgtresponsibilitiesltbrgtltbrgtltulgtltligtimplement web interfaces and applications using javascript es html and cssltligtltligtwork on a modern stack including react nodejs amazon web servicesltligtltligtenforce code quality through test driven developmentltligtltligtdistill product requirements into design and technical specificationsltligtltligtcollaborate closely with other engineering product and marketing teams to define product requirementsltbrgtltbrgtltligtltulgtltstronggtbasic qualificationsltbrgtltbrgtltstronggtltulgtltligt years of experience building web applicationsltligtltligtexperience in a nodejs application development environmentltligtltligtexperience working within a modern javascript workflow through technologies such as github css preprocessors styled components single page application frameworks and module bundlers webpack etcltligtltligtproven ability to integrate with service apis andor sdksltligtltligtexperience with rootcause analysis and troubleshooting infrastructure issuesltbrgtltbrgtltligtltulgtpreferred qualificationsltbrgtltbrgtltulgtltligtexperience with streaming video ecommerce large data applications and analytics suitesltligtltligthands on experience with reactredux in a production applicationltbrgtltbrgtltligtltulgtrequired educationltbrgtltbrgtltulgtltligtbachelors degree in computer science or related field or equivalent work experienceltbrgtltbrgtltligtltulgtbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T13:32:19.000Z"
+  },
+  "company": {
+    "name": "The Walt Disney Company",
+    "link": "https://www.linkedin.com/company/the-walt-disney-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96900,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

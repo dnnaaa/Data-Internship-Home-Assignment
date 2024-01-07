@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Grad 2022",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "affirm is reinventing credit to make it more honest and friendly giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interestltbrgtltbrgtas a recent university grad youll contribute meaningful work to our growing engineering team recent grads in the past have built a realtime highthroughput data processing pipeline that ties our infrastructure together built out our proprietary financial platform that is central to our long term company mission and worked to expand our extensive automated testing frameworkltbrgtltbrgtyoull be building out new features on a team that fits your skillset and interests we look for students that have a passion to change the consumer finance industry for the betterltbrgtltbrgtltstronggtltugtpast new grad projectsltbrgtltugtltstronggtltulgt ltligtltstronggtvijayltstronggt works on developing and growing affirms instore product vijays first project was to design and implement texttoapply support with storespecific sms codes so that users can easily apply for an affirm loan in brickandmortar stores and merchants can granularly view application rates and data on a storebystore basis ltligt ltligtltstronggtmadelineltstronggt has built batch data pipelines to enable greater resiliency and accuracy in affirms loan origination processes with our loan origination bank she has implemented a system to report all loan applications created with affirm and sourced data from various data warehouses across the company ltligt ltligtltstronggtkevinltstronggt has been responsible for a major overhaul of our cryptography platform which is used to encrypt sensitive customer data such as social security numbers and credit reports as well as to perform other cryptographic operations additionally he has designed and implemented a public key infrastructure for mutually authenticated and encrypted communication between backend services ltligt ltulgt ltstronggtltstronggtwhat we look forltbrgtltstronggtltstronggtltulgt ltligt bachelors degree in computer science a related field or equivalent trainingfellowshipwork experience ltligt ltligt experience with one of the following languages python cc java javascript andor similar languages ltligt ltligt familiarity with deployment and automated testing frameworks ltligt ltligt ability to collaborate with your team in a fastpaced environment ltligt ltligt passion and drive to change consumer banking for the better ltligt ltbrgtltulgtltstronggtlocationltbrgtltbrgtltstronggtltstronggt were excited to announce that affirm is now a remotefirst company this role can be located anywhere in the us remote based employees may occasionally travel to an affirm office for meetings or team building events our offices in san francisco new york city pittsburgh chicago and salt lake city will remain operational and accessible for anyone to use on a voluntary basis ltbrgtltbrgtltstronggtcheck out our remotefirst approach to learn more about the new ways we workltbrgtltbrgtif you got this far we hope youre feeling excited about this role even if you dont feel you meet every single requirement we still encourage you to apply were eager to meet people who believe in affirms mission and can contribute to our team in a variety of waysnot just candidates who check all the boxesltbrgtltbrgtat affirm people come first is one of our core values and thats why diversity and inclusion are vital to our priorities as an equal opportunity employer you can read about our dampampi program here and our progress thus far in our dei report ltbrgtltbrgtwe also believe its on us to provide an inclusive interview experience for all including people with disabilities we are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring processltbrgtltbrgtby clicking submit application you acknowledge that you have read the affirm employment privacy policy or the affirm employment privacy notice eu for applicants applying from the european union and hereby freely and unambiguously give informed consent to the collection processing use and storage of my personal information as described thereinltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T01:04:16.000Z"
+  },
+  "company": {
+    "name": "Affirm",
+    "link": "https://www.linkedin.com/company/affirm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boulder",
+    "region": "CO",
+    "postal_code": "80310",
+    "street_address": null,
+    "latitude": 40.016872,
+    "longitude": -105.279625
+  }
+}

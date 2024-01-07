@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist / Software Engineer (Prognostics)",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "data is deeply embedded in the product and engineering culture at tesla we rely on data lots of it to improve autopilot to optimize hardware designs to proactively detect faults and to optimize load on the electrical grid we collect data from each of our cars superchargers and energy products and use it to make these products better and our customers saferltbrgtltbrgtwere the fleet analytics team a small but fastgrowing central team that helps many teams leverage the data we collect we help engineers through direct support by doing data analysis for them and through applications and tools so they can selfserve those analyses in the future to do so we leverage the internal big data platform that is built on top of kafka spark presto and data science tools such as jupyter notebooks pandas bokeh superset and airflowltbrgtltbrgtwere looking for an experienced engineer to join us this foundational member will provide leadership in the definition and implementation of processes and tools that enable teslas data scienceltbrgtltbrgtyou will lead our prognostics application where we build machine learning pipelines to help identify which cars may need service so we can address issues before they inconvenience our customers building this application is crucial to improve our customer experience as well as to optimize service operations and logistics you will own the application endtoend from prioritizing which issues to focus on to building the features and predictive models to bringing those models to production and writing the code that acts on your predictions you will directly further our mission by reducing the cost associated with cars breaking down and strengthening our brand with a customer experience that few companies can achieveltbrgtltbrgtltstronggtltugtresponsibilitiesltugtltstronggtltulgtltligtwork with our service organization to prioritize highvalue issuesltligtltligtdesign and build your machine learning pipeline end to endltligtltulgtltligtwork with service engineers and firmware engineers to understand what features could help predict issuesltligtltligtbuild efficient and reproducible data pipelines to produce your features consuming petabytes of time series data using cuttingedge open source technologiesltligtltligtbuild machine learning models to predict failures and anything you need to iterate over your model feature selection hyper parameter tuning validation etcltligtltligtevaluate justify and communicate model performanceltligtltligtschedule and operate your model in a production data pipelineltligtltulgtltligtbuild user interfaces to bring humans in the loop when necessary to further increase the quality of your predictionsltligtltligtwrite clean and tested code that can be maintained and extended by other software engineersltligtltligtkeep up to date on relevant technologies and frameworks and propose new ones that the team could leverageltligtltligtidentify trends invent new ways of looking at data and get creative in order to drive improvements in both existing and future productsltligtltligtgive talks contribute to open source projects and advance data science on a global scaleltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtstrong proficiency in pythonltligtltligtstrong foundation in machine learningltligtltligtstrong foundation in software engineeringltligtltligtexperience building multiple machine learning models that provided company valueltligtltligtexperience with data science tools such as pandas numpy r matlab octaveltligtltligtstrong verbal and written communication skillsltligtltligtsmart but humble with a bias for actionltbrgtltligtltulgtnice to haveltbrgtltulgtltligtexperience building scheduling and operating data pipelines eg using airflowltligtltligtexperience building web applicationsltligtltligtexperience building data visualizationsltligtltligtexperience with continuous integration and continuous developmentltligtltligtexperience in devops ie linux ansible docker kubernetesltligtltligtunderstanding of distributed computing ie how hdfs spark presto or kafka workltligtltligtproficient in scalaltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T08:13:49.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81300,
+    "max_value": 149000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

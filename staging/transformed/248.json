@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Data Quality",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "the applied ai research team works on innovative solutions to solve practical realworld problems with direct impact on users of the openai api powerful language models like gpt excel at learning behavior patterns from the pretraining or finetuning datasets thus the quality and scale of the datasets will play a crucial role in any applications built on top of such models we seek a machine learning engineer to help design and build the pipelines to collect and manage highquality data for various projects within applied ai candidates for the machine learning engineer data quality role should have good engineering skills industry experience in machine learning data science knowledge of processing a large amount of data in various formats and passion for building ai productsltbrgtltbrgtltstronggtin this role you willltbrgtltstronggtltulgtltulgtltligtdesign data pipelines including finding appropriate data sources scraping filtering postprocessing deduplicating and versioning the system should be robust and scalable for production useltligtltligtdesign and implement frameworks to evaluate the effectiveness of our models and data for example building an automated finetuning pipeline to compare the performances of different datasets or models on the same taskltligtltligtwork closely with others who might be data contributors or consumers or both to incorporate their data usage needs on a variety of tasks and domainsltligtltligtwork with our human labeling service to refine the procedure and guidelines to collect highquality human annotation dataltligtltligtconduct openended research to improve the quality of collected data including but not limited to semisupervised learning humanintheloop machine learning and finetuning with human feedbackltbrgtltbrgtltligtltulgtltulgtltstronggtyou might enjoy this role if youltbrgtltstronggtltulgtltulgtltligthave years industry experience as a data engineer machine learning engineer or data scientist dealing with large amounts of data on a daily basisltligtltligtare goaloriented passionate about building cuttingedge ai products and solving realworld problems from our api developersltligtltligthave a strong belief in the criticality of highquality data and are highly motivated to work with the associated challengesltligtltligtenjoy taking ownership while working with others to understand their needs ltligtltligtcare about code quality and enjoy building tools that can be used by many othersltligtltligthave experience working in large distributed systemsltligtltligtlove working with a teamltbrgtltbrgtltligtltulgtltulgtltstronggtabout openailtbrgtltbrgtltstronggtwere building safe artificial general intelligence agi and ensuring it leads to a good outcome for humans we believe that unreasonably great results are best delivered by a highly creative group working in concert we are an equal opportunity employer and value diversity at our company we do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability statusltbrgtltbrgtthis position is subject to a background check for any convictions directly related to its duties and responsibilities only jobrelated convictions will be considered and will not automatically disqualify the candidate pursuant to the san francisco fair chance ordinance we will consider for employment qualified applicants with arrest and conviction recordsltbrgtltbrgtwe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process to perform essential job functions and to receive other benefits and privileges of employment please contact us to request accommodations via accommodationopenaicomltbrgtltbrgtltstronggtbenefitsltbrgtltbrgtltstronggtltligt health dental and vision insurance for you and your familyltligtltligt unlimited time off we encourage weeks per yearltligtltligt parental leaveltligtltligt flexible work hoursltligtltligt lunch and dinner each dayltligtltligt k plan with matchingltligt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-14T03:27:00.000Z"
+  },
+  "company": {
+    "name": "OpenAI",
+    "link": "https://www.linkedin.com/company/openai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99900,
+    "max_value": 217500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

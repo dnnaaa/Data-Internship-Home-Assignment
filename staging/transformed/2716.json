@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Software Engineer - Site Reliability Engineering",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtimagine what you we could do together at apple new insights have a way of becoming excellent products services and customer experiences very quickly bring passion and dedication to your job and theres no telling what you could accomplishltbrgtltbrgtltbrgtjmet is an unusual security engineering group within apple isampampt we provide critical services for the company across every product line from manufacturing to customer facing our services span across the entire lifecycle of most apple hardware we are responsible to design implement and support the ongoing need to improve customer safety and privacy by providing security services that are tightly coupled with hardware many of our services are seen in ios security guide or publicly discussed on internet forums ltbrgtltbrgtltbrgtas a cloud software engineer sre you will bring deep expertise designing and supporting highlyscalable highlyavailable infrastructure and applications in kubernetes aws as well as promoting micro service design patterns in sophisticated working environment the successful candidate will design and implement innovative approaches and tools for continuous delivery serve as a domain professional on all aspect of our containerized deployments including development configuration scaling and upgrades you will be joining a team of highlyskilled hardworking and passionate engineers working on this groundbreaking and constantly evolving spaceltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgt years of experience in production expertise in architecting production eks and onprem kubernetes clusters ltbrgtltbrgt years experience operating and developing infrastructure and services in public cloud environments aws gcpltbrgtltbrgtexperience in configuring and designing service mesh and discovery using linkerd consul or istio ltbrgtltbrgt years strong automation and designing expertise in cluster deployments using tools such as ansible terraform and packer along with security policies using open policy agent ltbrgtltbrgtexperience in building observability solution and exposing metrics that feed slos and kpis ltbrgtltbrgtstrong with one or more languages go python java for automation or integration with multiple apisltbrgtltbrgtexperience with common formats such as json and compression utilities ltbrgtltbrgtexperience working with kubernetes ingress services such as contour and envoyltbrgtltbrgt years of experience in designing automating custom modules or tooling to simplify the management of multiple clusters and writing detail solution specifications diagrams operational procedures ltbrgtltbrgtexcellent communication skills capable of working with multifunctional technical teams and business partnersltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtwe are looking for an engineer whose objective is to make things scale ltbrgtltbrgtltbrgtthis includes building software that automates experiences developing utilities that provides insightsmetrics and provide instrumentation for engineering teams to more efficiently scale the platform ltbrgtltbrgtltbrgtthis engineer will be responsible for maintaining jmets kubernetes ampamp aws production and test environments and maintain highvolume clusters in multiple datacentersltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs computer science or relevant studiesltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgtprogramming and scripting languages go python java bashltbrgtltbrgtcontainer orchestration kubernetes amazon eks rancher ltbrgtltbrgtconfiguration management ansible terraform packer ltbrgtltbrgtoperation systems linux red hat and os x ltbrgtltbrgtcontainerization and virtualization technologies docker enterprise rancher aws gcp vmwareltbrgtltbrgtmetrics and monitoring elk pagerduty prometheus grafanaltbrgtltbrgtmessaging kafka rabbitmqltbrgtltbrgtdatabases oracle memcached mysqlltbrgtltbrgtother tooling linkerd contour hashicorp consul open agent policy agentltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T15:45:02.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Machine Learning",
+    "industry": "Electrical/Electronic Manufacturing,Computer Hardware,Semiconductors",
+    "description": "lightmatter builds chips for artificial intelligence computing our architecture leverages unique properties of light to enable fast and efficient inference and training engines if youre a collaborative engineer or scientist who has a passion for innovation solving challenging technical problems and doing impactful workwork like building the worlds first optical computers consider joining the team at lightmatterltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgt ltligtlead the design and the implementation of our softwareltligt ltligtdevelop maintain test and review code for training visualizing and deploying neural networks ltligt ltligtwork closely with machine learning scientists to build stateoftheart and novel machine learning algorithms that learn semantics of multimodal dataltligt ltligtunderstand analyze and exploit the interplay between machine learning accelerator software and hardwareltligt ltligtadapt standard machine learning methods to best leverage modern heterogeneous computing environment which includes our revolutionary computing chipsltligt ltbrgtltbrgtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgt ltligtmasters or phd in computer science electrical engineering physics mathematics or any related fieldltligt ltligtminimum of years experience in software engineering for machine learning applicationsltligt ltligthighly proficient in scientific objectoriented programming languages eg python c and julia with good code hygieneltligt ltligtsolid understanding of artificial intelligence machine learning and neural networksltligt ltligthighly experienced in deep learning programming languages and framework eg tensorflow pytorch caffe mxnet ltligt ltligtexperience programming in cuda or opencl is a plusltligt ltbrgtltbrgtltulgtltugtltstronggtbenefitsltbrgtltstronggtltugtltulgt ltligthealth care plan medical dental ampamp visionltligt ltligtretirement plan k iraltligt ltligtlife insurance basic voluntary ampamp adampampdltligt ltligtpaid time off vacation sick ampamp public holidaysltligt ltligtfamily leave maternity paternityltligt ltligtstock option planltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-26T03:21:13.000Z"
+  },
+  "company": {
+    "name": "Lightmatter",
+    "link": "https://www.linkedin.com/company/lightmatter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 73600,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

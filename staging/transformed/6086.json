@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggttitle site reliability engineerltbrgtltbrgtlocation beaverton oregon remote optionltbrgtltbrgtemployment type direct hire no cc or sponsorship availableltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtedgelink is looking for a site reliability engineer sre to join an expanding team focused on connecting business to cloud applications and environments from a skills perspective we are targeting most of the followingltbrgtltulgtltligtbachelor s degree or equivalent practical experienceltligtltligtexperience supporting development environments that include linux tools bamboo puppet terraform aws and azureltligtltligtdeep understanding of the unixlinux operating systems including kernel networking packet flowltligtltligtstrong understanding of network fundamentals including tunnelingltligtltligtworking knowledge of sql databasesltligtltligtexperience with algorithms and data structures are a nice to haveltbrgtltligtltulgtedgelink would like to thank all applicants however only those who qualify for an interview will be contactedltbrgtltbrgtedgelink is an equal opportunity employerltbrgtltbrgtjob requirementsltbrgtltbrgtsre devops site reliability cicd cloud azure aws linux bamboo puppet terraform unix networking tunneling sql database algorithm data structure vpnltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T03:12:38.000Z"
+  },
+  "company": {
+    "name": "EdgeLink",
+    "link": "https://www.linkedin.com/company/edgelink"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

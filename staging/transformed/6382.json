@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer - REMOTE",
+    "industry": "Internet",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggtmedables mission is to get effective therapies to patients faster we provide an endtoend cloudbased platform with a flexible suite of tools that allows patients healthcare providers clinical research organizations and pharmaceutical sponsors to work together as a team in clinical trials our solutions enable more efficient clinical research more effective healthcare delivery and more accurate precision and predictive medicine our target audiences are patients providers principal investigators and innovators who work in healthcare and life sciencesltbrgtltbrgtour vision is to accelerate the path to human discovery and medical cures we are passionate about driving innovation and empowering consumers we are proactive collaborative selfmotivated learners committed bold and tenacious we are dedicated to making this world a healthier placeltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltugtltstronggtltulgtltligtdevelop a roadmap to the engineering team for the application and infrastructure monitoring and availabilityltligtltligtidentify innovative ways to research logs to uncover and report defects as well as to validate the applicationltligtltligtincorporate best practices for the high availability and reliability of the application ampamp infrastructureltligtltligtmeet the compliance requirements for the software development process ltligtltligtcontinuously improve the monitoring process to meet service level objectivesltligtltligtparticipate and optimize the oncall rotation processltligtltligtimplement tools and develop automation scripts for the smooth cicd of the software releasesltligtltligtidentify critical metrics to monitor and alert on the issues with software applicationsltligtltligtuse tools to apply data modeling and predictive analysis to anticipate issuesltligtltligtwork closely with the teams to resolve production issues and perform root cause analysis of the incidentsltligtltligtdocument solutions sre architectural patterns and best practicesltligtltligtother duties as assignedltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligt years of experience in managing sre operations in a complex production environmentltligtltligtexperience with automation using pythongo programming or equivalentltligtltligtexperience with yaml json bash shell scripting and linux commandline utilitiesltligtltligtexperience in working with any of the configuration management tools ansible chef puppet saltltligtltligtexperience working with cicd tools such as jenkins gitlab or equivalent and artifactory fastlane for both web and mobile platforms ltligtltligtknowledge of working with infrastructureascode tools such as terraform cloudformation google cloud deployment managerltligtltligtexperience working with docker and kubernetes monitoring and debuggingltligtltligtexperience with monitoring solutions such as datadog prometheus grafana or equivalent etcltligtltligtexperience working with log management using toolsltligtltligtexperience with implementing security best practicesltligtltligtsolid troubleshooting experience in a large scale production environmentltligtltligtexpertise in aws and gcp cloud infrastructure and the related services ltbrgtltligtltulgtadditional informationltbrgtltbrgtall your information will be kept confidential according to eeo guidelines",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T04:01:23.000Z"
+  },
+  "company": {
+    "name": "Medable, Inc",
+    "link": "https://www.linkedin.com/company/medable-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

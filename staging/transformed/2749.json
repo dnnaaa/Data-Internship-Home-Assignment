@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggtamwell is a leading telehealth platform in the united states and globally connecting and enabling providers insurers patients and innovators to deliver greater access to more affordable higher quality care amwell believes that digital care delivery will transform healthcare the company offers a single comprehensive platform to support all telehealth needs from urgent to acute and postacute care as well as chronic care management and healthy living with over a decade of experience amwell powers telehealth solutions for over hospitals and over health plan partners with over employers covering over million livesltbrgtltbrgtltstronggtbrief overviewltbrgtltbrgtltstronggtthe site reliability engineer will play a critical role in the amwell hosting department specifically they will work to automate infrastructure management improve service reliability and support software delivery and deployment this position is based at amwells main office in boston and is eligible for remote workltbrgtltbrgtltstronggtcore responsibilitiesltbrgtltstronggtltulgt ltligtautomate the deployment and management of infrastructure on public cloud platformsltligt ltligtsupport servicesoriented web applications using container cloud native and serverless technologiesltligt ltligtdevelop tools for integrations and task automationltligt ltligtensure compliance with security and data handling policies including pci hipaa and hitrustltligt ltligtcreate and maintain technical documentationltligt ltligtcollaborate with product developers to ensure successful deployment and hosting of amwell productsltligt ltbrgtltulgtltstronggtqualificationsltbrgtltstronggtltulgt ltligtproficient with programming languages such as python java and bash with years of experience ltligt ltligtfamiliar with web application architectureltligt ltligtdevelopment experience working with iac tools like terraform and cdkltligt ltligtfluent in docker and kubernetes with years of experience ltligt ltligtsolid understanding of aws concepts services and toolsltligt ltligtmost comfortable working in linux based environmentsltligt ltligtwell versed in tcpip networking conceptsltligt ltligttechnical and nontechnical communication skillsltligt ltligtprior support of production systems years of experience ltligt ltbrgtltbrgtltulgtltstronggtltugtadditional informationltbrgtltbrgtltugtltstronggtltstronggtyour teamltbrgtltbrgtltstronggtshould you join amwell and the hosting team you can expectltbrgtltbrgtamwells operations group is a missionfocused technology team made up the best and brightest technical talent operating out of our boston headquarters our engineers specialize in information technology cyber security ampamp compliance hosting operations business intelligence kiosk operations and network engineering we operate a stateoftheart cyber command center designed specifically to manage and protect our global telehealth infrastructureltbrgtltbrgtwe leverage the latest technologies including an array of deployment and management tools as well as several cyber threat intelligence networks to keep our systems running smoothly around the clockltbrgtltbrgtif you enjoy working hard challenging yourself and staying at the cutting edge of technology this is the team for youltbrgtltbrgtltstronggtworking at amwellltbrgtltbrgtltstronggtwe strive to make the hard work of healthcare look easy in order to make this a reality we look for people with a fastpaced missiondriven mentality were a gogetter culture that prides itself on quality efficiency smarts initiative creative thinking and a strong work ethic our corporate headquarters are located in downtown boston at state street in the heart of the city in addition to the opportunity to build the future of healthcare technology and a great location we offerltbrgtltulgt ltligtunlimited paid time offltligt ltligtk matchltligt ltligtcompetitive health dental and vision insurance plansltligt ltligtthe equipment and resources needed to be successful working in a remote settingltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T05:13:37.000Z"
+  },
+  "company": {
+    "name": "Amwell",
+    "link": "https://www.linkedin.com/company/amwellcorp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

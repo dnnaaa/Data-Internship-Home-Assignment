@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "ltstronggtgrowing g company in milpitas ca is looking for a site reliability engineer to join the teamltbrgtltbrgtltstronggtthis jobot job is hosted by taylor buckelewltbrgtltbrgtare you a fit easy apply now by clicking the apply button and sending us your resumeltbrgtltbrgtsalary per yearltbrgtltbrgtltstronggta bit about usltbrgtltbrgtltstronggtlocated in the beautiful milpitas ca we are the first g wireless company that is eliminating hardware and providing true nlos performance we are looking to hire a sharp site reliability engineer to join or small but growing teamltbrgtltbrgtas part of the software engineering team you will help us manage software that runs on the cloud and remotely manages millions of radio devices you will work on a team responsible for all aspects of cloud operationsltbrgtltbrgtltstronggtltbrgtltbrgtltstronggtwhy join usltbrgtltbrgtltbrgtltstronggtltstronggtwe offer a comprehensive compensation package including but not limited toltbrgtltulgtltligt a competitive base salary ranging from kk equity ltligtltligt full benefits medical dental vision ltligtltligt k match ltligtltligt generous paid time offholidaysick timeltligtltligt mentorship growth opportunitiesltligtltligt friendlycollaborative teamltbrgtltligtltulgtltstronggtjob detailsltbrgtltbrgtltstronggtyou will be responsible forltbrgtltulgtltligt cloud operations including cicd pipelines infrastructure as code monitoring and alerting automation for scaling failure recovery disaster recovery nondisruptive upgrades rollbacks etcltligtltligt managing development testing staging and aws environmentsltligtltligt setting up and managing kubernetes and istiobased clusters for deploying applicationsltligtltligt setting up and managing other services needed by the application eg aws kafka elasticsearch redis rds databases etcltligtltligt implementing and maintaining cicd pipelinesltligtltligt automating the monitoring and autoscaling of the production environment to support millions of connected devicesltbrgtltligtltulgtmust have strong experience withltbrgtltulgtltligt linux administrationltligtltligt aws ltligtltligt implementing cicd pipelinesltbrgtltligtltulgtnice to have knowledge of some or most of the skills belowltbrgtltulgtltligt cicd using gitlabltligtltligt terraformltligtltligt ansibleltligtltligt kubernetesltligtltligt istio service meshltligtltligt microservice architectureltligtltligt helm charts for deploymentltbrgtltligtltulgtexposure in deploying and managing various other technologies likeltbrgtltulgtltligt efk stackltligtltligt databases like postgresql and mysqlltligtltligt apache kafka clustersltligtltligt redis cachesltligtltligt monitoring and alerting using prometheus ampamp grafanaltbrgtltligtltulgtif interested apply directly here or email me a resume at taylorbuckelewjobotcomltbrgtltbrgtinterested in hearing more easy apply now by clicking the apply buttonltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T21:20:24.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Milpitas",
+    "region": "CA",
+    "postal_code": "95035",
+    "street_address": null,
+    "latitude": 37.430763,
+    "longitude": -121.897514
+  }
+}

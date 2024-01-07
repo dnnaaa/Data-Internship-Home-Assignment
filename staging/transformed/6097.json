@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer, Traffic Engineering",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "the roleltbrgtltbrgttesla is looking for a site reliability engineer to join our core infrastructure services cis team our team builds owns and operates core infrastructure services such as dns load balancers content delivery networks and a suite of provisioning tools and servicesltbrgtltbrgtwe enable our customers onprem and in the cloud to operate securely and reliably our mission is to improve infrastructure effectiveness and increase efficiency for all core services used by the various infrastructure teams at tesla across the globeltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtperform analysis troubleshooting and introspection on core infrastructure componentsltligtltligtpartner with teams from across the organization to help tackle hard problem ltligtltligtdrive standardization efforts across multiple disciplinesltligtltligtensure reliability of the existing core infrastructure systems to guarantee uptimeltligtltligttackle issues across the entire stack hardware software network and applicationltligtltligtdevelop new softwarebased solutions to infrastructure engineering problemsltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtbsms in computer science information systems electrical engineering or the equivalent in experience and evidence of exceptional abilityltligtltligtexpert understanding of linux systems and services ltligtltligtdeep understanding of http tcp ssltls and dnsltligtltligtexperience working with load balancers such as f nginx or equivalentltligtltligtexperience with configuration management tools puppet chef or ansibleltligtltligtknowledge of various aspects of service design including messaging protocols ampamp behavior caching strategies and software design practicesltligtltligtfamiliar with and have practically applied shell scripting and at least one higherlevel language to realworld problemsltligtltligtprioritize tasks and work independentlyltligtltligtexcellent written communication interpersonal communication and documentation skillsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T04:07:38.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

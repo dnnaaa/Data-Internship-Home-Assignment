@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Data",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "point is a technology and design company that transforms everyday spending into a delightful and rewarding experience were rethinking the payment experience with an emphasis on transparency delight and personalizationltbrgtltbrgtwith the best benefits of both debit and credit point card earns you points on every purchase redeemable for instant cashback point app works side by side with point card to create an elegant easytouse experienceltbrgtltbrgtwe recently closed our million series b funding round to learn more see techcrunchs coverage hereltbrgtltbrgtbacked by top investors like peter thiel valar ventures and y combinator were wellfunded and ready to make a positive impact on peoples daily livesltbrgtltbrgtwere looking for a ltstronggtsoftware engineer data platformltstronggt to join our specialized team we have the vision and resources and need your talent and skillsltbrgtltbrgtltstronggtltugtwho were looking forltbrgtltbrgtltugtltstronggtpoint is looking for ltstronggtsoftware engineers data platformltstronggt to join our focused growing and passionate team we want engineers who orient around solving customer problems who understand the tradeoffs between different technical approaches and who believe that a reliable data platform is composed of individually testable componentsltbrgtltbrgtltstronggtltugtwhat well build togetherltbrgtltbrgtltugtltstronggtas the first ltstronggtsoftware engineerltstronggt on the data platform team at point youll help to architect and build points data platform and systems managing ingestion processing and storage building scalable pipelines and developing frameworks ampamp tools to make data easily ampamp efficiently available to downstream teams and systemsltbrgtltbrgtthis platform will be used by points data consumers to inform new consumerfacing features help to refine the core card product and power evolutionary new ways for consumers to payltbrgtltbrgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligt years developing production data platforms ampamp systems using cloudbased data platform technologies like spark presto flink kafka and airflowdbtltligtltligtknowledge of data lake structures relational databases and sqlltligtltligtgood logging monitoring ampamp alerting habits and a belief that data observability is essential to a high performing systemltligtltligtgood collaboration skills ampamp the ability to work well with product design or other crossfunctional teamsltbrgtltbrgtltligtltulgtltstronggtbonus pointsltbrgtltstronggtltulgtltligtfintech or cryptocurrency experience especially at a venturebacked startupltligtltligtexperience with awss data tooling ampamp infrastructure emr glue s etcltligtltligtexperience with eventstream architecturesltligtltligtfamiliarity with feature store architecturesltbrgtltbrgtltligtltulgtltstronggtpoint perksltbrgtltstronggtltulgtltligtjoin a fastgrowing brand that is building thoughtful spending productsltligtltligtcompetitive salary stock options and kltligtltligtfull health benefits medical dental and vision insuranceltligtltligtunlimited vacation policy paid company holidays and wfh flexible we shut down the office at the end of the year for a winter holidayltligtltligtfree point card membership monthly pointsltligtltligtmonthly stipends on your point card to use for lunch commuting and other essentialsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T07:22:21.000Z"
+  },
+  "company": {
+    "name": "Point Card",
+    "link": "https://www.linkedin.com/company/getpoint"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

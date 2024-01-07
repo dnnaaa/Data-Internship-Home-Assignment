@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Computer Software",
+    "description": "ltpgthover uses patented technology making it possible for anyone with a smartphone camera to create an interactive d model complete with detailed measurements and powerful design features the data produced is extremely valuable as it generates a single source of truth for the physical world allowing for more veracity throughout the home improvement and insurance processes weve found an incredibly strong productmarket fit across exterior home improvement insurance and financial services whats the secret sauce cutting edge technology an exceptional culture and a commitment to our values think do serveampnbspltpgtltpgtltbrgtltpgtltpgtwith our team of investors including google ventures and menlo ventures hover is committed to continuing our success and facilitating growth we believe there is strength in diversity so we hire skilled and passionate people from a wide variety of backgroundsltpgtltpgtltbrgtltpgtltpgtltstronggtwhy hover wants youltstronggtltpgtltpgthover is looking for a data expert who is equally comfortable with writing code and helping business stakeholders understand data youll help teammates and customers get the data they need that directly drives business and customer growthltpgtltpgtltbrgtltpgtltpgtthe data team is made up of data engineers analysts and scientists we work crossfunctionally and fullstack delivering data pipelines scripting automation building data models and integrating data into rd party tools youll work with python sql gcp airflow tableau and help to select and implement our new etl architecture to help business stakeholders understand data that will impact the companyltpgtltpgtltbrgtltpgtltpgtltstronggtyou will contribute byltstronggtampnbspltpgtltpgtltbrgtltpgtltpgton a daily basis youll write sql and python to build out data pipelines in airflow youll manage our snowflake data warehouse and tableauampnbsp youll assess and implement automated or semiautomated tools and techniques to monitor the efficiency quality completeness and accuracy of those data pipelines ideally using cloudbased andor opensource tools for etls and data quality youll also consult with hovers engineering team to maximize the value we get from tools for feature flagging and experimentation splitio data integration segment and customer reporting matik ampamp snowflake data sharingampnbspampnbspltpgtltpgtltbrgtltpgtltpgtltstronggtyour background includes ltstronggtampnbspltpgtltulgtltligt years of experience as a data engineerltligtltligtstrong sql writing skillsltligtltligtadvanced proficiency in python data structures algorithms object oriented programming using apisltligtltligtexperience administering a cloud data warehouse preferably snowflakeltligtltligtadvanced proficiency in airflow building dags developing custom operators and leveraging pluginsltligtltligtfamiliarity with schema design and dimensional data modelingltligtltligtcurious and interested in learning about the latest in data warehouse technology and willingness to mentor junior team membersltligtltligtknowledge of software engineering best practices coding standards gihub automated testing and deploymentltligtltligtexperience with deploying and maintaining cloud infrastructure in gcp or aws using terraform or similar frameworkltligtltligtexperience supporting production systems and developing oncallincident management playbooksltligtltligtknowledge of and experience implementing data security and governance best practicesltligtltligtexceptional communication skills and desire to share your knowledge with clarity patience and empathyltligtltligtthe ability to work independently and set your own priorities with careful attention to detail and deadlinesltligtltligta service mindset to business stakeholdersltligtltulgtltpgtltbrgtltpgtltpgtltstronggtbenefitsltstronggtltpgtltulgtltligtcompensation competitive salary and meaningful equity in a fastgrowing companyltligtltligthealthcare comprehensive medical dental and vision coverage for you and dependentsltligtltligtpaid time off unlimited and flexible vacation policyampnbspltligtltligtpaid family leave we support worklife balance and offer generous paid parental and new child bonding leaveampnbspltligtltligtmandatory selfcare days a day set aside each month to allow employees to rechargeampnbspltligtltligtremote wellbeing resources we provide recurring fitness classes meditation mindfulness tools virtual therapy and family planning assistanceampnbspltligtltligtlearning we encourage continued education and will help cover the cost of management training conferences workshops or certificationsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:22:30.000Z"
+  },
+  "company": {
+    "name": "HOVER Inc.",
+    "link": "https://www.linkedin.com/company/hover-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

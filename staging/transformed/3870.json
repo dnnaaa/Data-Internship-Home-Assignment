@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "ltstronggt remote anywhere in the usltbrgtltbrgtltstronggtthis jobot job is hosted by christina finsterltbrgtltbrgtare you a fit easy apply now by clicking the apply button and sending us your resumeltbrgtltbrgtltstronggta bit about usltbrgtltbrgtltstronggtour infrastructure team sits at the core of the business and is responsible for the reliability and scalability of all the services that power the platforms and its developers in only a few years we have became the leading cryptoproducts trading platform worldwide and handle ten of thousands low latency transactions per second representing several billions of dollars traded every day we specialize in systems whether it be networking the linux kernel or some more specific interest in scaling algorithms or distributed systemsltbrgtltbrgtltstronggtltbrgtltbrgtltstronggtwhy join usltbrgtltbrgtltbrgtltstronggtltstronggtpioneer the future of financial technologyltbrgtltbrgtfasttrack your career and personal growthltbrgtltbrgtenjoy bestinclass perks and benefitsltbrgtltbrgtexpand your knowledge with our generous education allowanceltbrgtltbrgtwork with our global team on an international scaleltbrgtltbrgtltstronggtjob detailsltbrgtltbrgtltstronggtltstronggtresponsibilitiesltbrgtltbrgtltstronggtdesign build and maintain core infrastructure pieces that allow bitmex scaling to quickly and as boringly as possible deploy new products and support hundreds of thousands of concurrent users in several different geographies and infrastructure providers eg aws gcp baremetal using terraform kubernetes and chefltbrgtltbrgtorganize further planned failure scenario simulations and tabletops and shepherd the organization into a culture of where chaos engineering is the normltbrgtltbrgtunify standardize and automate our incident responseltbrgtltbrgtbring the firm to the nextlevel when it comes to incident response handling by crafting and evangelizing standardized proceduresltbrgtltbrgtmake crossfunctional incident coordination communication investigation and postmortem tracking nobrainers through automationltbrgtltbrgtestablish slos and error budgets standards for all public facing and internal servicesltbrgtltbrgtbring focus on how failures impact our global customer base by revamping our take on slas and align teams within the new slo frameworkltbrgtltbrgtimplement a metric collection platform to automatically collect service level indicators for any service deployed to production to ease adoptionltbrgtltbrgtdebug production issues across services and levels of the stackltbrgtltbrgtmake monitoring and alerting alert on symptoms and not on outagesltbrgtltbrgtdocument every action so findings turn into repeatable actionsand then automationltbrgtltbrgtbe on a pager rotation to respond to the bitmex platform availability incidents and provide support forltbrgtltbrgtltstronggtqualificationsltbrgtltbrgtltstronggtthink about systems edge cases failure modes behaviors specific implementationsltbrgtltbrgthave experience with nginx haproxy docker kubernetes terraform or similar technologiesltbrgtltbrgt years of professional experience with a proven track record of designing implementing managing and testing infrastructure at scale on aws for high value environmentsltbrgtltbrgtstrong engineering skill set with a firm grasp of fundamental computer science principles and a modular maintainable agile ampamp testdriven approach to software developmentltbrgtltbrgtcapacity to multitask and give equal attention to a variety of functions while under pressureltbrgtltbrgtstrong technical troubleshooting diagnosing and problem solving skillsltbrgtltbrgtability to adapt to changing priorities within a fast moving industry and startup cultureltbrgtltbrgtltstronggta bachelors degree or equivalent work experience preferredltbrgtltbrgtltstronggtinterested in hearing more easy apply now by clicking the apply buttonltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T21:45:09.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

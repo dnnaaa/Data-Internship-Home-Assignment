@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - W2 only",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "dice is the leading career destination for tech experts at every stage of their careers our client object technology solutions inc is seeking the following apply via dice todayltbrgtltbrgttitle data engineer location irving texas remote until covid onsite mandatory after covid months contract jd for data engineers musthave handson spark experience note itrsquos an onprem implementation they donrsquot have a clear cloud migration roadmap analyze and understand data sources apis design and develop methods to connect collect data from different data sources design and develop methods to filtercleanse the data design and develop sql hive queries apis to extract data from the store work closely with data scientists to ensure the source data is aggregated and cleansed work with product managers to understand the business objectives work with cloud and data architects to define robust architecture in cloud setup pipelines and work flows work with devops to build automated data pipelines total experience required years of relevant experience the candidate should have performed client facing roles and possess excellent communication skills business domain knowledge finance banking systems fraud payments required technical skills big datahadoop nosql hive apache spark python java rest git and version control desirable technical skills familiarity with http and invoking webapis exposure to machine learning engineering exposure to nlp and text processing experience with pipelines job scheduling and workflow management personal skills experienced in managing work with distributed teams",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:20:14.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Linux System Engineer II",
+    "industry": "Information Technology and Services,Telecommunications,Financial Services",
+    "description": "dish is a fortune company with more than billion in annual revenue that continues to redefine the communications industry our legacy is innovation and a willingness to challenge the status quo including reinventing ourselves we disrupted the paytv industry in the mids with the launch of the dish satellite tv service taking on some of the largest us corporations in the process and grew to be the fourthlargest paytv provider we are doing it again with the first live internetdelivered tv service sling tv that bucks traditional paytv norms and gives consumers a truly new way to access and watch televisionltbrgtltbrgtltstronggt this role can be in either cheyenne wy or gilbert az ltbrgtltbrgtltstronggtdish is seeking an innovative and passionate linux engineer to join a team that manages the onpremise hardwarevirtualizationosapplications for the dish network conditional access systems this position provides an opportunity to learn docker and kubernetes administrationltbrgtltbrgtltstronggt primary responsibilities ltbrgtltstronggtltulgtltligt administer and manage server hardware virtualization and linux oss ltligtltligt ensure high availability of conditional access applications in devtestprod environments ltligtltligt work with engineering teams to deploy new features and upgrades ltligtltligt manage system monitoring and alerting tools ltligtltligt create and maintain technical documents and procedures ltbrgtltbrgtltligtltulgtltstronggt required qualifications ltbrgtltstronggtltulgtltligt bs in computer science or a related technical degree or equivalent combination of education and experience ltligtltligt years experience performing linux system administration ltligtltligt years working in a virtualized vmware linux server environment ltligtltligt scripting proficiency bash python etc ltligtltligt strong critical thinking decision making and problemsolving skills ltligtltligt strong desire to automate tasks ltligtltligt excellent written and verbal communication skills ltbrgtltbrgtltligtltulgtltstronggt preferred qualifications ltbrgtltstronggtltulgtltligt experience with dockerkubernetes ltligtltligt experience with saltstack argocd helm ltligtltligt experience with active directorycentrify ltligtltligt experience with system performance tuningtesting ltligtltligt familiarization with scaled agilescrum methodologies ltbrgtltbrgtltligtltulgtdicevpltbrgtltbrgtcompensation yr yrltbrgtltbrgtfrom versatile health perks to new career opportunities check out our benefits on our careers website ltbrgtltbrgtemployment is contingent on successful completion of a preemployment screen which may include a drug testltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:05:10.000Z"
+  },
+  "company": {
+    "name": "DISH Network",
+    "link": "https://www.linkedin.com/company/dish-network"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66100,
+    "max_value": 116000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cheyenne",
+    "region": "WY",
+    "postal_code": "82003",
+    "street_address": null,
+    "latitude": 41.14024,
+    "longitude": -104.8188
+  }
+}

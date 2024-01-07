@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "ltpgtwe are looking for an energetic and highly motivated site reliability engineer sre to join our team a systems engineer who loves automation or a software developer who loves infrastructure will be ideal for this role the site reliability engineer sre will be an integral part of our software development team and should have a passion for technology and open source softwareampnbspltpgtltpgtltbrgtltpgtltpgtresponsibilitiesampnbspltpgtltpgtltbrgtltpgtltulgtltligthelp develop and deploy tools and systems that assist the companys engineering qa and operations team to deliver highquality softwareampnbspltligtltligtwork with development to help evolve our continuous delivery processampnbspltligtltligtmonitor and respond to alerts from technology infrastructure in order to ensure proper slas are metampnbspltligtltligtwork throughout the technology stack to design build and monitor solutions that allow for continued scalabilityampnbspltligtltligtdocument work associated with troubleshooting while utilizing problem solving skillsampnbspltligtltligtremain flexibleampnbspltligtltligthave a strong sense of ownership for system uptime and performanceampnbspltligtltulgtltpgtltbrgtltpgtltpgtskills and experienceampnbspltpgtltpgtltbrgtltpgtltulgtltligtbachelors degree in computer science engineering or similar field is preferredampnbspltligtltligt years of experienceampnbspltligtltligtknowledge of managing a linux cluster environment rhel centosampnbspltligtltligtexceptional skills with one or more scripting languages bash python perl ruby or similarampnbspltligtltligtproven experience using configuration management tools such as puppet or chefampnbspltligtltligtexperience supporting and troubleshooting any of the following technology components or similar linux container technology and orchestration tools dockeroriginkubernetes continuous integration tools jenkins logging and alerting platforms nagioselasticsearchsplunk web application servers apachetomcatnginx databases in a distributed data center environment mysqlcouchbase ldap and kerberosampnbspltligtltligtdetail oriented individual with strong communication skills used to collaborate and keep others informedampnbspltligtltligtability to produce results while working independently and in a team environmentampnbspltligtltligtworking knowledge of building and maintaining ipbased networks cisco and f ltm dns andor irule development experienceampnbspltligtltligtexperience with vmwarevcenter or aws is preferred but not requiredampnbspltligtltulgtltpgtampnbspampnbspltpgtltpgtltbrgtltpgtltpgtampnbspltpgtltpgtltbrgtltpgtltpgtampnbspltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T15:31:44.000Z"
+  },
+  "company": {
+    "name": "Solution Partners, Inc.",
+    "link": "https://www.linkedin.com/company/solpart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

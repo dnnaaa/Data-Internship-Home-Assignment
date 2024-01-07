@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Maps Evaluation Data Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtapple maps evaluation team is looking for experienced data engineers to join our metrics engineering team ltbrgtltbrgtltbrgtwe partner closely with data scientists program managers and product analysts to measure and improve apple maps user experience you will work with some of the most unique and interesting data sets in the world including geospatial data gps probe data search logs real time traffic data and ab experiments dataltbrgtltbrgtltbrgtour work spans the entire data ecosystem metrics design instrumentation data set design data quality checks batch and real time applications and reporting ltbrgtltbrgtltbrgtfor this role you will be focusing on data science tooling and data governance related projects and dealing with maps data at massive scale our goals are toltbrgtltbrgtltbrgt empower our partners in the data science team by building tools and pipelines to support their ltbrgtltbrgt needs ltbrgtltbrgtltbrgt engineer solutions to guarantee discoverable accurate compliant and secure management of ltbrgtltbrgt dataltbrgtltbrgtltbrgtwe are looking for data engineers who love to work closely with their customers and who are excited to solve challenges around data discoverability and managementltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtpassion for building reliable stable and fast data products that serve customer needsltbrgtltbrgtltbrgt years of experience in working with large data sets schema design and dimensional modelingltbrgtltbrgtltbrgt years of experience in data warehousing and etlltbrgtltbrgtltbrgtexpertise in working with sqlltbrgtltbrgtltbrgtexperience with data processing using spark hadoop mapreduce and sparksqlltbrgtltbrgtltbrgtexperience with real time data processing using kafka and storm or spark streamingltbrgtltbrgtltbrgtexperience in java or scala and pythonltbrgtltbrgtltbrgtexperience with notebooks eg jupyter zeppelinltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtpartner with apple maps program data science and engineering teams to understand data needsltbrgtltbrgtltbrgtdesign build and launch efficient and reliable data pipelinesltbrgtltbrgtltbrgtcreate data models for optimal storage and retrievalltbrgtltbrgtltbrgtarchitect and develop new data processing systems to enable quick and easy consumption and augmentation of dataltbrgtltbrgtltbrgtbuild data expertise and develop methods to monitor data qualityltbrgtltbrgtltbrgtdefine and manage sla for datasets in your area of responsibilityltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgt bachelors or masters degree in computer science or related field or relevant industry experience ltbrgtltbrgt preferredltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgtapples most important resource our soul is our people apple benefits help further the wellbeing of our employees and their families in meaningful ways no matter where you work at apple you can take advantage of our health and wellness resources and timeaway programmes were proud to provide stock grants to employees at all levels of the company and we also give employees the option to buy apple stock at a discount both offer everyone at apple the chance to share in the companys success youll discover many more benefits of working at apple such as programmes that match your charitable contributions reimburse you for continuing your education and give you special employee pricing on apple products ltbrgtltbrgtltbrgtapple benefits programmes vary by country and are subject to eligibility requirementsltbrgtltbrgtltbrgtapple is an equal opportunity employer that is committed to inclusion and diversity we take affirmative action to ensure equal opportunity for all applicants without regard to race color religion sex sexual orientation gender identity national origin disability veteran status or other legally protected characteristics apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities apple is a drugfree workplaceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:44:10.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

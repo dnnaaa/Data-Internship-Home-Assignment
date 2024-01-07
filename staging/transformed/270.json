@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "ltpgtat sisu were building a software platform that empowers people to make better decisions using data based on years of cuttingedge research at stanford sisu enables users to quickly and comprehensively understand whats driving their key metrics so they never miss a window of opportunity to actltpgtltpgtltbrgtltpgtltpgtsisu leverages the massive amounts of data available within private firstparty data warehouses which capture a realtime structured view of organizational behavior by monitoring the performance of key metrics like revenue retention and churn and their relationships to interactions between key factors like user demographics campaigns and acquisition channels we can help users make better decisions the key problem sisu solves is to help identify whats driving change among this enormous feature and hypothesis space to do so we combine statistical analysis and machine learning at scale to provide users personalized realtime diagnoses of changes in their metrics via an explainable interpretable user interfaceltpgtltpgtltbrgtltpgtltpgtas a machine learning engineer youll have the opportunity to shape the future of machine learning on massive structured data much like public search engines rely on sophisticated models for ranking and relevance over unstructured text machine learning is integral to sisus value proposition of ranking and highlighting key drivers behind metrics derived from structured data these results inform our users on how to take action as their businesses are changingltpgtltpgtltbrgtltpgtltpgtyou will be responsible for investigating and developing stateoftheart algorithms in sisus largescale streaming structured data context ml engineers at sisu deliver their features endtoend from jupyter notebook prototypes to production in rustltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtdeliver stateoftheart scalable algorithms to production for forecasting time series personalized ranking robust statistical analysis of key customer business metricsltligtltligtbuild and maintain the infrastructure for data and model managementltligtltligtwork closely with the sisu design and engineering teams for mladjacent components such as viz and data processingltligtltligtgive talks write blog posts and produce peerreviewed publicationsltligtltulgtltpgtltstronggtpreferred qualificationsltstronggtltpgtltulgtltligteither years of fulltime software engineering experience years of professional experience with ml or quantitative analysis or phd in computer science electrical engineering statistics mathematics or physicsltligtltligtproficiency with python and experience with data processing tools eg scipy numpy pandas pytorch and sparkltligtltligtcompetency with forecasting deadlines modular design testing code review and working with new codebasesltligtltligtstrong technical communication skillsltligtltulgtltpgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-07T20:30:26.000Z"
+  },
+  "company": {
+    "name": "Sisu",
+    "link": "https://www.linkedin.com/company/sisu-data"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

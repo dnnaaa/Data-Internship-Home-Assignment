@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtwere a rapidly growing team serving a highly resultsoriented engineering organization the site reliability engineering sre team provides a specialization within engineering focused on designing engineering evolving and safely making changes to largescale distributed systems these systems are often composed of disparate components which are each individually complex in the process of that work they are also responsible for analyzing repairing and preventing unexpected issues that emerge from such systemsltbrgtltbrgtltstronggtltugtthe sre team has three goalsltbrgtltbrgtltugtltstronggtltligt set high standards for reliable products at robinhoodltligtltligt architect products and infrastructure that encourage and carry out high reliabilityltligtltligt inspire change across the broader organization to adopt product reliability best practices and high reliability infrastructureltbrgtltbrgtltligtwe are seeking an experienced sre to work with our sre leadership team to help build define the vision and roadmap of our newly formed sre organization initially you will embed with a product engineering team to understand their work and look for opportunities to bring sre wisdom to bearltbrgtltbrgtltstronggtltugtyour daytoday will involveltbrgtltugtltstronggtltulgt ltligtcombine software and systems knowledge to engineer highvolume distributed systems in a reliable scalable and faulttolerant mannerltligt ltligtcontinually optimize systems and workflows by improving architecture infrastructure automation cicd and observabilityltligt ltligtact as an owner and leader of robinhoods infrastructure by ensuring project infrastructure needs are met and working proactively with customer teams to help them improve reliability and set best practicesltligt ltligtprovide mentorship both formally and informally to engineers at robinhood define and formalize the architecture design process and guide the overall architectural directionltligt ltligtrepresent robinhood in the technology community ex conferences technical blog posts etcltligt ltbrgtltbrgtltulgtltstronggtltugtabout youltbrgtltugtltstronggtltulgt ltligtproficient in one or more programming languages eg go python javaltligt ltligtexperience authoring and operating highscale servicesltligt ltligtexperience with scalable distributed systems either built from scratch or on public cloud eg aws primitivesltligt ltligta focus on software engineering best practices such as testing static analysis continuous integration delivery and deploymentltligt ltligtwillingness to learn and use new technologies and to learn the insandouts of the financial systemltligt ltligtextremely datadrivenltligt ltligta minimum of years of industry experienceltligt ltligtability to debug complex systemsltligt ltbrgtltbrgtltulgtltstronggtltugtbonus pointsltbrgtltugtltstronggtltulgt ltligtfamiliarity of pythondjango or goltligt ltligtexperience with highgrowth startupsltligt ltligtstrong open source contributionsltligt ltbrgtltbrgtltulgtltstronggtltugttechnologies we useltbrgtltugtltstronggtltulgt ltligtpython djangodrfltligt ltligtgoltligt ltligtcicd and test automation frameworks ltligt ltligtcontainer and container orchestration technologies eg docker kubernetesltligt ltligtmicroserviceoriented architectures and related oss technologies eg kafka celeryrabbitmq nginx redis postgres airflow consul etcltligt ltligtcloudnative infrastructure aws gcpltligt ltligtlinux internals and network configuration and protocolsltligt ltligtinfrastructure as code and configuration management terraform saltstackltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T01:07:18.000Z"
+  },
+  "company": {
+    "name": "Robinhood",
+    "link": "https://www.linkedin.com/company/robinhood"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

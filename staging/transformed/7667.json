@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Simulation Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtdeliver innovative solutions at the intersection of machine learning ml and simulation in the context of autonomous systems developmentltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtstrong proficiency in c python and best practices in objectoriented design familiarity with pytorch openai gym and rllib toolkitsltbrgtltbrgtexpertise in statistical modeling parameter optimization and system identification techniquesltbrgtltbrgtexperience benchmarking and debugging complex software systemsltbrgtltbrgtability to work synergically and crossfunctionally in largescale software development projectsltbrgtltbrgtat ease with git docker and unixbased software developmentltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgta successful applicant is expected to undertake software projects for the development and improvement of simulation tools in support of ml models and methods as well as integrating novel and existing ml results into a shared simulation ecosystem to increase its capabilities ltbrgtltbrgtresponsibilities include but are not limited toltbrgtltbrgt maintaining a strong relationship with other teams to integrate new algorithms and models as they become availableltbrgtltbrgt developing and maintaining appropriate software interfaces and improving runtime performance of our simulation environment in support of reinforcement learning and other types of ml use cases ltbrgtltbrgt integrating existing and possibly also build new datadriven models for the simulation of realistic agent behaviors and sensor outputs as well as synthetic scenario generationltbrgtltbrgt improving performance and maintaining data ingestion pipelines for playback based simulation workflows ltbrgtltbrgt expectations also include handson experience with data logs from realworld experiments identification of simtoreal gaps that might impact our ml models and implementation of appropriate fixes and mitigationsltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtms in engineering ml robotics and years of industry experience or equivalent industry experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-27T03:33:18.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 135000,
+    "max_value": 206000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

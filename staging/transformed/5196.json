@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Observability",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "asana is the source of truth for what our customers need to do to achieve their goals and that requires our product to be reliable scalable and performant observability is critical to asanas success providing engineers with insight into the realworld behavior of our applications and infrastructureltbrgtltbrgtthe observability engineering team owns the services frameworks and best practices that provide asanas engineers with the tools they need to identify and resolve problems easier and faster these include telemetry frameworks used throughout asana and the endtoend pipeline that ships stores and surfaces metrics logs events and tracesltbrgtltbrgtas an engineer on the observability team you will collaborate across teams and organizations to understand user needs create scalable solutions and consult with your engineering colleagues on how they can get the most value out of observability for their servicesltbrgtltbrgtltstronggtltugtwhat youll achieveltbrgtltugtltstronggtltulgtltligt design build enhance and operate asanas observability code and infrastructure ltligtltligt contribute to the observability teams roadmap and vision ltligtltligt partner with users to understand their use cases needs and pain points ltligtltligt educate asanas product and infrastructure engineers on how to get the most value out of observability for their services ltbrgtltligtltulgtltstronggtltugtabout youltbrgtltugtltstronggtltulgtltligt years of software engineering experience ltligtltligt have a strong interest in distributed systems and observability ltligtltligt focus on eliminating risks and building reliable scalable and performant systems ltligtltligt are looking for an environment where you and your teammates empower one another to become the best versions of yourselves ltbrgtltligtltulgtltstronggtltugtabout usltbrgtltbrgtltugtltstronggtat asana were building a better way to work fueled by transparency inclusion and technology that is a force for positive change asana is a work management platform that helps teams orchestrate their work from daily tasks to strategic initiatives so they can move faster and accomplish more with less for the past years weve been named a top workplace including top ltstronggtltugt great place to work ltugtltstronggt best small ampamp medium workplaces fortune best workplace in the bay area for four years in a row fortune best workplaces for women ltstronggtltugt glassdoor best place to work ltugtltstronggt and one of ltstronggtltugt irelands best workplaces ltugtltstronggt after spending more than a year physically distanced we are safely and mindfully returning our global teams to inperson collaboration incorporating flexibility that adds hybrid elements to our ltstronggtofficecentric cultureltstronggt with offices all over the world we are always looking for curious collaborative and missiondriven people to help us enable the worlds teams to work together effortlesslyltbrgtltbrgtwe believe in supporting people to do their best work and thrive and building a diverse equitable and inclusive company is core to our mission our goal is to ensure that asana upholds an inclusive environment where all people feel that they are equally respected and valued whether they are applying for an open position or working at the company we welcome applicants of any educational background gender identity and expression sexual orientation religion ethnicity age citizenship socioeconomic status disability and veteran status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T21:26:44.000Z"
+  },
+  "company": {
+    "name": "Asana",
+    "link": "https://www.linkedin.com/company/asana"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 115000,
+    "max_value": 179000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

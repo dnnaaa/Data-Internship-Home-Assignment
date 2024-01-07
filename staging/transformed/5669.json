@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Marketplace Core",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "spotify is looking for a site reliability engineer to join our creator marketplace engineering organization you will forge new ground in how we help labels and their artists and managers and help us fulfill our mission of giving a million creative artists the opportunity to live off their art if youre interested in building out the next revolution in the music industry and helping artists succeed in their careers come join usltbrgtltbrgtas a part of a reliabilityfocused team you will help exemplify measure and raise the reliability of products and operational capabilities of squads across the marketplace organization by creating tools collaborating with teams evangelizing best practices and encouraging learning across the organization youll work closely with engineers to advocate for sensible scalable systems design and share responsibility with them in diagnosing resolving and preventing production issues we are strong believers in engineering teams taking operational responsibility for their products and work hard to support them in thisltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtdesign code and operate tools and systems to reduce the amount of time and effort vital for our engineers to scale our products for artists their teams labels and other music industry partnersltligtltligtmonitor review and improve the reliability of systems and practices in the marketplace missions domainltligtltligtwork closely with marketplace squads to assist them in adopting and improving their use of existing tools and practices such as slos alerting runbooks synthetic testing and general observabilityltligtltligtparticipate in an oncall rotation alongside the engineers who build our productsltligtltligtanalyze incidents involving marketplace systemsltbrgtltligtltulgtltstronggtltugtwho you areltbrgtltugtltstronggtltulgtltligtyou are passionate about reliability practices and excited to help teams improve how they maintain their own reliabilityltligtltligtyou are familiar with the principles of site reliability engineering such as eliminating toil embracing risk simplicity and release managementltligtltligtyou are deeply curious and enjoy exploring both technical and organizational problems and domainsltligtltligtyou are comfortable with largescale production systems and technologies for example load balancing monitoring distributed systems containers andor configuration managementltligtltligtyou have strong coding skills in at least one programming language and a desire to pick up more we work primarily in typescript with some java and a smattering of python and shell scriptingltligtltligtyou have familiarity with and passion for software engineering best practices such as testing continuous integration and continuous deliveryltligtltligtyou have the ability to thrive in a rapidly evolving globally distributed environmentltligtltligtyou have a bachelors degree in computer science a related discipline or equivalent practical experienceltbrgtltligtltulgtltstronggtwhere youll beltbrgtltstronggtltulgtltligtwe are a distributed workforce enabling our band members to find a work mode best for themltligtltligtwhere in the world for this role it can be within the americas region in which we have a work locationltligtltligtprefer an office to work from home instead not a problem we have plenty of options for your working preferences find more information about our work from anywhere options here ltligtltligtworking hours we operate within the eastern standard time zone for collaborationltbrgtltligtltulgtspotify is an equal opportunity employer you are welcome at spotify for who you are no matter where you come from what you look like or whats playing in your headphones our platform is for everyone and so is our workplace the more voices we have represented and amplified in our business the more we will all thrive contribute and be forwardthinking so bring us your personal experience your perspectives and your background its in our differences that we will find the power to keep revolutionizing the way the world listensltbrgtltbrgtspotify transformed music listening forever when we launched in our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators everything we do is driven by our love for music and podcasting today we are the worlds most popular audio streaming subscription service with a community of more than million users",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T20:37:16.000Z"
+  },
+  "company": {
+    "name": "Spotify",
+    "link": "https://se.linkedin.com/company/spotify"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60400,
+    "max_value": 90700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

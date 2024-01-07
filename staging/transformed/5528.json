@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior C++ Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtwho we areltbrgtltbrgtltugtltstronggtfirebolt is a major shakeup to the cloud data warehouse space so far weve built the fastest most scalable and most hardware efficient cloud data warehouse in the market by far and have helped some of the most dataforward companies in the world with their biggest data challenges but this is just the beginning we are a strong team of worldclass data experts led by exfounders from sisense and looker with m of recent funding by top vcs we are poised to grow quickly and change how we work with data and what can be done with dataltbrgtltbrgtltstronggtltugtabout the teamltbrgtltbrgtltugtltstronggtfirebolt is a cloud native system consisting of numerous components provisioning orchestrating and exposing the unprecedented capabilities of our analytical database data warehouseltbrgtltbrgtyou will be working on the database itself the core engine which is written in modern c judiciously embracing the features of c targeting the linux platformltbrgtltbrgtltstronggtltugtthe roleltbrgtltugtltstronggtltulgtltligttake a key position in our rampampd teamltligtltligttake part in the definition of our product design and architectureltligtltligtdesign build and maintain our cuttingedge database core engineltligtltligtdeveloping highly distributed multithreaded low latency core engineltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltbrgtltugtltstronggtltstronggtabout youltbrgtltstronggtltulgtltligtbsc degree in computer science engineering or a related fieldltligtltligt years of proven experience as a professional developer of production softwareltligtltligt years of experience working with c on a production softwareltligtltligtfluency in modern c c and above language compilers libraries and patternsltligtltligtfamiliarity with high performance low latency highly multithreaded development is an advantageltligtltligtexperience developing for linuxltligtltligtexcellent analytical skillsltbrgtltligtltulgtltstronggta big bonus if you haveltbrgtltstronggtltulgtltligtfamiliarity with os internals memory management file systemsltligtltligtfamiliar with cloud infra developmentltligtltligtfamiliarity with code profiling toolsltligtltligtfamiliarity with distributed computing networking lockless algorithms and datastructuresltligtltligtfamiliarity with golang python and shell scriptingltligtltligtfamiliarity with one of the following foundationdb aerospike or any highperformance kvstoreltligtltligtbackground in playing any classical musical instrumentltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:14:21.000Z"
+  },
+  "company": {
+    "name": "Firebolt",
+    "link": "https://www.linkedin.com/company/firebolt"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Hardware,Computer Software,Computer Networking",
+    "description": "ltstronggtltstronggtwhat youll doltbrgtltbrgtltstronggtltstronggtcisco is funding a small agile product development team to innovate and build a new product offering in the sdn controller space the team will operate in an agile development model to rapidly bring a new product offering to market reacting very quickly to initial customer feedback and market needs over time as customer adoption increases the platform will be further utilized as the basis for many network applicationsltbrgtltbrgtltstronggtltstronggtwho youll work withltbrgtltbrgtltstronggtltstronggtcisco is looking to hire a software engineer to contribute to the team and team culture the product and the process to bring it to market heshe must have experience in building new software offerings with agility and urgencyltbrgtltbrgtltstronggtltstronggtwho you areltbrgtltbrgtltstronggtltstronggtresponsibilities be part of a team of engineers involved in the development and testing of software for our next generation campus networking architectureltbrgtltulgtltligt participate in design discussions and develop highscale data collection analysis and reporting systems for both customer and cisco useltligtltligt work with architects and product owners customers to help define feature functionalityltligtltligt operate in an agile methodology with an eye toward robust and disciplined software developmentltligtltligt contribute to functional specifications write portions of product spec and help seek clarity where it doesnt existltligtltligt design ampamp develop large portions of software independently and rapidlyltligtltligt strong ability and desire to learn new tools as required is an absolute mustltligtltligt this team will move forward with the most modern and appropriate technologies for the task at handltbrgtltligtltulgtltstronggtltugtminimum qualificationsltbrgtltbrgtltugtltstronggtbachelors years of related experience or masters years of related experienceltbrgtltulgtltligt experience in java or other modern programming languages technologiesltligtltligt strong understating of ooa ampamp d design patterns and soa architectures and horizontal scalability tenetsltligtltligt experience in or passion for building a paas solution using kubernetes docker etcltligtltligt experience in use of standard scm tools git and cicd jenkins maven etc processltligtltligt ability to work and influence teams beyond your immediate groupltligtltligtstrong motivation to innovate and improve customer and product experienceltligtltligt strong problem solving and software development troubleshooting skills ability to think in code and discuss ideas and algorithms is a mustltligtltligt follows development best practices like tdd code reviews and owns automated tests to ensure qualityltligtltligt past experience working in an agile scrum environmentltbrgtltligtltulgtltstronggtltstronggtwhy ciscoltbrgtltbrgtltstronggtltstronggtwearecisco where each person is unique but we bring our talents to work as a team and make a difference powering an inclusive future for allltbrgtltbrgtwe embrace digital and help our customers implement change in their digital businesses some may think were old years strong and only about hardware but were also a software company and a security company we even invented an intuitive network that adapts predicts learns and protects no other company can do what we do you cant put us in a boxltbrgtltbrgtbut digital transformation is an empty buzz phrase without a culture that allows for innovation creativity and yes even failure if you learn from itltbrgtltbrgtday to day we focus on the give and take we give our best give our egos a break and give of ourselves because giving back is built into our dna we take accountability bold steps and take difference to heart because without diversity of thought and a dedication to equality for all there is no moving forwardltbrgtltbrgtso you have colorful hair dont care tattoos show off your ink like polka dots thats cool pop culture geek many of us are passion for technology and world changing be you with us",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:20:10.000Z"
+  },
+  "company": {
+    "name": "Cisco",
+    "link": "https://www.linkedin.com/company/cisco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 100000,
+    "max_value": 148000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

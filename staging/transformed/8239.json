@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtmy client is a global provider of legal regulatory and business information and analytics that help customers increase productivity improve decision making outcomes and advance the rule of law around the world they provide corporations with insights about their markets benchmarking brands against competition and strengthen legal infrastructure they are currently working on a million project migrating billion worth of products to azureltbrgtltbrgtltstronggtltugtrequired skills ampamp experienceltbrgtltugtltstronggtltulgtltligt years experience and proven background working in a technical cyber security related positionltligtltligtbsc engineeringcomputer scienceit security or relevant experienceltligtltligtindustry certification such as cssp aws certified security csslp desirableltligtltligtuse of orchestration tools such as terraform ansible or cloudformationltligtltligtprevious analytic and troubleshooting experience is requiredltligtltligtexperience migrating application from onpremises to public cloudltligtltligtexperience with bluegreen deployment methodologiesltligtltligtexperience working with containerised workloads such as docker and kuebernetesltligtltligtexperience with log management tools eg elastic stack graylog or splunkltligtltligtexperience working with an enterprise rdbms such as mysql andor microsoft sql serverltligtltligtknowledge of change control and associated proceduresltligtltligtuse of secret management services eg hashicorp vaultltligtltligtexperience with any highlevel programming languageltligtltligtconfiguration management tools eg ansible puppet chef or equivalentsltligtltligtprofessional experience of working within the public cloud azure aws or gcpltligtltligthandson experience of linux and windows server including support and troubleshootingltligtltligtsystem and application monitoring eg prometheus grafana nagios etcltligtltligtprofessional experience with common source control tools eg git svnltligtltligtcloud architecture and system design to solve key business problems and facilitate team goalsltligtltligtstrong and enthusiastic technologist able to demonstrate a broad technical knowledgeltligtltligtability to act as a point of expertise advise others in the team on best practise and impart knowledgeltligtltligtcoding and scripting experience eg powershell bash python or equivalent ltligtltligtcontinuous integrationdelivery tools eg gitlab github jenkinsltligtltligtcloud architecture and system design to solve key business problems and facilitate team goalsltligtltligthandson experience performing application staticdynamic security and penetration assessment with tools such as sonarqube checkmarx appscan burpsuite owasp zap proxy webinspect fortify veracode nessus etcltligtltligtgood understanding of defensive corrective and detective controls and requirementsltligtltligtknowledge of owasp top sans top identify vulnerabilities via manual and automated testing methods and how to effectively remediate vulnerabilities associated with each ability to recognize and escalate security issuesltligtltligtexposure to application security testing source code review and webmobile application penetration testsltligtltligtfamiliarity with different types of security vulnerabilities and tools for countermeasureltligtltligtthe candidate should be well versed in information security principles at an intermediate levelltligtltulgt desired skills ampamp experienceltbrgtltulgtltligtdesirable aws azure certificationsltligtltulgt the offerltbrgtltulgtltligtcompetitive salary up to hour doeltbrgtltligtltulgtltstronggtltugtyou will receive the following benefitsltbrgtltugtltstronggtltulgtltligtmedical insurance ampamp health savings account hsaltligtltligtkltligtltligtpaid sick time leaveltligtltligtpretax commuter benefitltbrgtltligtltulgtapplicants must be currently authorized to work in the united states on a fulltime basis now and in the futureltbrgtltbrgtltstronggtposted byltstronggt noah mackeprang",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T08:48:40.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

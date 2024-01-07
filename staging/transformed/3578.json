@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer (SRE)",
+    "industry": "Information Technology and Services",
+    "description": "ltstronggtroleltbrgtltbrgtltstronggtcribl inc is seeking an incredibly talented principal site reliability engineer to join our mission to unlock the value of all machine data cribl provides users a new level of observability intelligence and control over their realtime data you will join a team of technical engineers who are committed to shipping only highquality software and enjoying all the goat gifs the internet has to offer this role is remote and you will report into the engineering organization where you will contribute in our efforts to envision create and run cribl cloud offeringltbrgtltbrgtin this role you will engage with engineering teams across the cribl products and implement modern interpretations of sre observability chaos engineering and devops our software is deployed in some of the largest organizations in the world processing s of tb to pb of it ampamp security dataltbrgtltbrgtltstronggtresponsibilitiesltbrgtltstronggtltulgtltligtyou will drive technology direction within the product domain and influence setting the bar for the engineering teams for technical excellence and deliveryltligtltligtyou will work closely with other technical leader and architects to understand and capture product dependencies and alignprioritize project execution able to challenge decisions when neededltligtltligtyou will provide thought leadership for the vision strategy and architecture for the sre and saas engineering teamsltligtltligtyou will work with engineers to ensure that the designed solution responds to nonfunctional requirements such as availability performance security and maintainabilityltligtltligtimprove the reliability of our systems by working with engineers to ensure that the software delivery pipeline is as efficient as possibleltligtltligtmentor our engineers to achieve more than they thought possible you enjoy making other teams successful and are fulfilled through the success of othersltligtltligtyou will write and update documentation including runbooksplaybooksltligtltligtltligtltulgtltligtyou will automate work including infrastructure needs testing failover solutions failure mitigation and much moreltligtltligtyou will debug complex problems across an entire stack and creating solid solutionsltbrgtltligtltulgtltulgtltstronggtminimum qualificationsltbrgtltstronggtltulgtltligt years experience with software engineering software development andor system operationsltligtltligtable to lead complex initiativesprojects from inception to completionltligtltligtexperience building and operating largescale production systemsltligtltligtknowledge of container technologies python go javajsts ampamp source control git githubltligtltligtexperience working with container deployment and orchestration technologies with knowledge of fundamentals including service discovery deployments monitoring scheduling and load balancingltligtltligtunderstanding of systems programming network stack file system os services and networking l vs l network architecture vlansltligtltligtexperience identifying performance bottlenecks identifying anomalous system behavior and resolving root cause of service issuesltligtltligtyou have skills to work across teams and functions to influence design operations and deployment of available softwareltbrgtltligtltulgtltstronggtbonus pointspreferred qualificationsltstronggtltbrgtltulgtltligtexperience with development and deployment in a hosted cloud environment preferably aws ampamp gcpltligtltligtexperience with running containerized environments and understanding of multitenancy and security implicationsltligtltligtexperience with optimized and scalable software that operates on a large number of nodesltligtltligtexperience with monitoring and observability tools and applications such as data dog or elastic searchltligtltligtexperience automating infrastructure testing and deployments using tools like cloud formation chef or terraform and can explain the infrastructure as code paradigmltligtltulgt ltbrgtltbrgtltstronggtwhat we offerltbrgtltstronggtltulgtltligtcompetitive salaryltligtltligtstock optionsltligtltligtmedical dental and vision insuranceltligtltligtflexible spending account fsaltligtltligtk plan offeredltligtltligtparental leaveltligtltligtprofessional development and career growthltligtltligtgenerous vacation and holiday policy including floating holidays to use for holidays you observeltligtltligtsocial responsibility employee group that reflects our valuedriven company cultureltbrgtltligtltulgtdiversity drives innovation enables better decisions to support our customers and inspires change for the better were building a culture where differences are valued and welcomed we work together to bring out the best in each other all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin or any other applicable legally protected characteristics in the location in which the candidate is applying",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T05:22:02.000Z"
+  },
+  "company": {
+    "name": "Cribl",
+    "link": "https://www.linkedin.com/company/cribl"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

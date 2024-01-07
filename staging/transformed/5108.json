@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Oil &amp; Energy",
+    "description": "ltpgtltstronggtresponsibilitiesltstronggtltpgtltpgtltbrgtltpgtltulgtltligtwork with a small team of data scientists software engineers and domain experts to build the next generation of novis platformltligtltligtdevelop novel solutions to openended challenging and longstanding industry problemsltligtltligtengage in thought leadership within the company and communityltligtltligtmentor other team members on domain knowledge and technical solutionsltligtltligtdevelop software to deliver solutions to illposed problems using sparse noisy spatiotemporal dataltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequired skills ampampltstronggt eltstronggtxperienceltstronggtltpgtltulgtltligtminimum years of handson data science and machine learning experienceltligtltligtfoundation in integrating datadriven methods with physicsbased modelsltligtltligtstrong foundation in statistics and machine learningltligtltligtstrong software engineering principles and software development lifecycle experience eg git unit tests ciltligtltligtstrong familiarity with python and pydata stack eg pandas numpy scipyltligtltligtstrong familiarity with ml frameworks eg scikitlearn pytorch tensorflowltligtltligtexperience going from algorithm development to production codeltligtltligtexperience modeling time series and spatial datasetsltligtltligtexperience deploying callable ml models in a production environment eg rest api tensorflow servingltligtltulgtltpgtltbrgtltpgtltpgtltstronggtpreferred skills ampampltstronggt eltstronggtxperienceltstronggtltpgtltulgtltligtopensource plotting libraries eg altair matplotlib holovizltligtltligtdatabase query ampamp etl sql ampamp nosqlltligtltligtaws tools eg lambda ec etcltligtltligtprobabilistic programming eg stan pymc pyroltligtltligtmodel interpretation and explainability tools eg shapleyltligtltligtlinux systems and commandline interfaces eg bashltligtltligtcontainer and orchestration tools eg docker kubernetes nomadltligtltligtprevious work on an agile teamltligtltligtexperience in oil and gasltligtltulgtltpgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T15:26:04.000Z"
+  },
+  "company": {
+    "name": "Quest Groups LLC",
+    "link": "https://www.linkedin.com/company/quest-groups"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

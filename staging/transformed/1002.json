@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtaws insight is looking for a data scientist to help develop sophisticated algorithms and models that involve analyzing and learning from over billion customer cost usage and utilization events daily we use this data to generate recommendations and forecasts for customers to help them better understand and optimize their aws costs and usage and reduce the complexity of managing their cloud costs our teams vision is to be the worlds authoritative provider of aws computing insight where customers can understand control and optimize usage of aws products we sit at the nexus of all aws services and interact directly with endcustomers and we build relationships with teams across aws to ensure that we offer a secure and reliable customer experience that builds trust with our customers and provides them with intelligent insightsltbrgtltbrgtas a successful data scientist in aws insights you will be responsible for understanding and mining the large amount of data and developing recommendations that will help improve the accuracy and relevance of our forecasting and recommendations models you will work closely with talented data scientists software engineers and business groups to build enhance existing models and build new models that solve challenging customer problems you will work with the engineers to drive implementation of the proposed models and establish testing strategies to validate the models before and after they are put into production on top of that you are an analytical problem solver who enjoys diving into data are excited about investigating and developing algorithms and can influence technical teams and business stakeholders to solve realworld customer problemsltbrgtltbrgtltstronggtltugtkey responsibilitiesltbrgtltugtltstronggtltulgtltligt improving upon existing forecasting statistical or machine learning methodologies by developing new data sources testing model enhancements running computational experiments and finetuning model parameters for new forecasting modelsltligtltligt supporting decision making by providing requirements to develop analytic capabilities platforms pipelines and metrics then using them to analyze trends and find root causes of forecast inaccuracyltligtltligt formalizing assumptions about how demand forecasts are expected to behave creating definitions of outliers developing methods to systematically identify these outliers and explaining why they are reasonable or identifying fixes for themltligtltligt translating forecasting business requirements into specific analytical questions that can be answered with available data using statistical and machine learning methods working with engineers to produce the required data when it is not availableltligtltligt communicating verbally and in writing to business customers with various levels of technical knowledge educating them about our systems as well as sharing insights and recommendationsltligtltligt utilizing code python r scala etc for analyzing data and building statistical and machine learning models and algorithmsltbrgtltbrgtltligtltulgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligt bachelors or masters degree in a quantitative field such as statistics applied mathematics physics engineering computer science or economicsltligtltligt years of relevant working experience in an analytical role involving data extraction analysis and communicationltligtltligt years of experience with data querying languages eg sql hadoophive and statisticalmathematical software eg r weka matlab stataltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligt experience processing filtering and presenting large quantities millions to billions of rows of dataltligtltligt superior verbal and written communication skills with the ability to effectively advocate technical solutions to scientists engineering teams and business audiencesltligtltligt proven ability to convey rigorous technical concepts and considerations to nonexpertsltligtltligt fluency in a scripting or computing language eg python scala c java etcltligtltligt depth and breadth in quantitative knowledge excellent quantitative modeling statistical analysis skills and problemsolving skills sophisticated user of statistical toolsltligtltligt combination of deep technical skills and business savvy to interface with all levels and disciplines within our and our customers organizationsltligtltligt experience in forecasting and time series is a plusltbrgtltbrgtltligtltulgtltstronggtcompanyltstronggt amazon dev center us incltbrgtjob id a",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T01:00:52.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83500,
+    "max_value": 175000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

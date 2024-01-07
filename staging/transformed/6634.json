@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Payments",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "hulu is looking for a hardworking and motivated software engineer to join the payment teamltbrgtltbrgtthis team handles the payments of millions of customers and is responsible for integrating with different payment processors this payment engine is our multitenant system which handles the payment processing for disney espn hulu and star we lead a set of tier services which are needed to be highly available scalable and resilientltbrgtltbrgtas a fast paced and a fastgrowing team you will also have an opportunity to learn about the international landscape and challenges in the area of payments as we keep rapidly growing our streaming services around the world over the next few yearsltbrgtltbrgtwhat youll doltbrgtltbrgtltulgtltligtdevelop scalable rest apis ltligtltligtbuild asynchronous payment flows using aws native technologies ltligtltligtwork closely with senior engineers in the team ltligtltligtwrite extensive unit tests to build and increase test coverage on critical services ltligtltligtbuild robust and scalable microservices that integrate with hulus core services and provide a full billing integration ltligtltligtchallenge our team and software to be even betterltbrgtltbrgtltligtltulgtwhat to bringltbrgtltbrgtltulgtltligtbs or ms in computer science or equivalent work experience ltligtltligt years of relevant software engineering experience ltligtltligtproficiency with at least one of the following languages java scala or kotlin ltligtltligtexperience with agile methodologies ltligtltligtexcellent communication collaboration skills and a strong teamwork ethic ltligtltligtthe ability to jump into a project and contribute immediately ltligtltligtstrive for excellence and strong analytical skillsltbrgtltbrgtltligtltulgtnicetohavesltbrgtltbrgtltulgtltligtexperience with nonrelational database technologies mongodb cassandra dynamodbltligtltligtawsltbrgtltbrgtltligtltulgtoel oktigfwv",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T12:47:48.000Z"
+  },
+  "company": {
+    "name": "Hulu",
+    "link": "https://www.linkedin.com/company/hulu"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 106000,
+    "max_value": 175000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Monica",
+    "region": "CA",
+    "postal_code": "90403",
+    "street_address": null,
+    "latitude": 34.010933,
+    "longitude": -118.491516
+  }
+}

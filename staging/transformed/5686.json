@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltemgtelectric is the industry leader in providing worldclass it technology and realtime support for small and midsized businesses with over customers and more than employee endusers electrics it platform includes realtime support powered by it technicians security device ampamp inventory management network ampamp server management application ampamp cloud management employee onboarding and offboarding procurement ampamp provisioning and data monitoring ampamp insights electric is a series c company funded by an allstar team of investors including bessemer venture partners ggv capital advisors primary venture partners bowery capital slack atreides management vintage investment partners and greenspring associatesltbrgtltbrgtltemgtltemgtelectric is now over employees and led by a seasoned executive team our company is a fun fastpaced environment with enormous opportunities for career advancement we are seeking highly motivated detailoriented gogetters who want to move up in a tech startupltbrgtltbrgtltemgtltstronggtsite reliability engineer sredevopsltbrgtltbrgtltstronggtltemgtbuilding a technologypowered organization is essential to our success we are seeking a site reliability engineer to help build our growing sre and infrastructure team we use a microservices architecture with a python and ruby on rails backend employing technologies like aws lambda rds and dynamo we are migrating off heroku and adding more aws services to our stack we seek a highly motivated sre who will work with our technical leads to design and build fast scalable robust and resilient systems you will help evangelize sre and devops insights and methodologies across the entire engineering departmentltbrgtltbrgtltemgtltemgtas an engineer here youll have the freedom to help our team implement innovative solutions and have a significant impact on our product and the business as a whole we want someone who is passionate about moving fast while building highly performant robust code that brings great value to our customers we value experimentation growth mindset thinking outside of the box and getting sampamp doneltbrgtltbrgtltemgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtbuild fast scalable robust resilient infrastructure using infrastructure as code practicesltligtltligtplay a key role in several brand new and highlyvisible operations ranging from monitoring and observability to highavailability and internal toolingltligtltligtevangelize the underlying philosophy of sre and devops to all your peersltligtltligtfocus on building products that have measurable impact ltligtltligtcontinuously pay off tech debt refactor code rearchitect as necessary and use the latest and greatest technologiesltligtltligthelp to build a culture of excellence in the engineering organizationltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligtbabs degree in computer science or a related field or equivalent experienceltligtltligt years of software development experience for infrastructure and devopsltligtltligt years shipping andor supporting production code in a fastpaced environment ltligtltligtworking familiarity with aws microservice architecture and infrastructure as code iacltligtltligtstrong communicator both verbally and writtenltligtltligtselfmotivated datadriven perseverant resilient scrappy handson ltligtltulgtltligtno job is too small and you take a bias towards action when something isnt working your first instinct is to rip it apart and figure out whyltligtltulgtltligtwillingness to work through ambiguity partnering with peers to derive reasonable solutionsltligtltligtexposure to slisslosslasltligtltligtexcited to learn excited to share new discoveries with your teamltbrgtltligtltulgtltstronggtltugtpreferred technical skillsltbrgtltugtltstronggtltulgtltligtinfrastructure as code tools such as terraform cloudformation or serverless frameworkltligtltligtcompetency in bash python or other relevant scripting languagesltligtltligtexperience with a majority of the following aws services api gateway ec eks iam roles sts policies lambda rds route s sqs vpc networkingltligtltligtcicd tooling circleci jenkins travis etcltligtltligtexperience with docker and container orchestration kubernetes docker swarm etc is a plusltligtltligtknowledge of configuration management tools ansible is a plusltligtltligtexperience with monitoring solutions datadog splunk prometheusltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:39:34.000Z"
+  },
+  "company": {
+    "name": "Electric",
+    "link": "https://www.linkedin.com/company/electric-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 157000,
+    "max_value": 244000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

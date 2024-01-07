@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtas the software engineer you will design and develop new web services to provide data analysis live datavideo feeds data editing and command and control for clients access control systems this project will enable administrators of brivo access control systems to monitor and interact with all aspects of their specific security control systemltbrgtltbrgtin this role you will also be expected toltbrgtltulgtltligtwork with your team to build scalable microservices and rest apisltligtltligtmaintain quality of product and test coverage including automated testsltligtltligtin conjunction with other team members help improve development and quality strategies to streamline the checkin testing and overall productivity for coding and building the applicationltligtltligtcollaborate with peers in your agile team to complete code reviews sprint planning and backlog groomingltligtltligtwork in devops culture and foster product ownershipltligtltligtas part of best development practices the sw engineer will ensure full unit test coverage of code they write and implementltligtltligtfocus on performance and writing clean maintainable codeltbrgtltbrgtltligtltulgtltstronggtltugtabout youltugtltstronggtltulgtltligtbachelors degree in computer science or closely related it field preferredltligtltligtat least years experience of fullstack net developmentltligtltligtstrong foundation in web applications and services and modern software architectureltligtltligtexperience with the followingltligtltulgtltligtrest api development and restful web development with javascriptltligtltligtsetting up and managing ci builds on azure and azure devops servicesltligtltligtfrontend technologies and frameworks such as javascript nodejs and reactltligtltligtwriting sql queries and interacting with databasesltligtltligtmodern authorization mechanisms such as json web tokenltligtltligtaws technologies kubernetes and docker a plusltbrgtltligtltulgtltulgtltstronggtltugtabout usltbrgtltbrgtltugtltstronggtbrivo is the global leader in mobile cloudbased access control for commercial real estate multifamily residential and large distributed enterprises our comprehensive product ecosystem and open api provide businesses with powerful digital tools to increase security automation elevate employee and tenant experience and improve the safety of all people and assets in the built environment having created the category over twenty years ago our building access platform is now the digital foundation for the largest collection of customer facilities in the world trusted by more than million users occupying over m square feet of secured space in countriesltbrgtltbrgtour dedication to simply better security means providing the best technology and support to property owners managers and tenants as they look for more from buildings where they live work and play our comprehensive product suite includes access control smart readers touchless mobile credentials visitor management occupancy monitoring health and safety features and integrated video surveillance smart locks and intercoms valued for its simple installation highreliability backbone and rich api partner network brivo also has the longest track record of cybersecurity audits and privacy protections in the industryltbrgtltbrgtbrivo is privately held and headquartered in bethesda maryland learn more atltbrgtltbrgtltemgtbrivo is an equal opportunityaffirmative action employerltbrgtltbrgtltemgtpowered by jazzhrltbrgtltbrgtvagpjuotgz",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T07:08:13.000Z"
+  },
+  "company": {
+    "name": "Brivo",
+    "link": "https://www.linkedin.com/company/brivo-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62200,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bethesda",
+    "region": "MD",
+    "postal_code": "20894",
+    "street_address": null,
+    "latitude": 38.984856,
+    "longitude": -77.09269
+  }
+}

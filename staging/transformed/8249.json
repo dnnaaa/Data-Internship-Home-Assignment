@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Performance Tester / Site Reliability Engineer (SRE)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "dice is the leading career destination for tech experts at every stage of their careers our client university of minnesota oit is seeking the following apply via dice todayltbrgtltbrgtsite reliability engineers sres are a bridge between development and operations applying a software engineering mindset to infrastructure services this position will focus on the overall reliability and availability of the university of minnesota s enterprise applications and infrastructure services with an emphasis on performance testing engineering and monitoring this position is an exciting opportunity to help define and operationalize site reliability engineering within the office of information technology and beyond ideal candidates will have an insatiable desire to automate excellent interpersonal skills and a strong commitment to fostering an inclusive diverse and equitable environment built on trust collaboration and missionfocused work candidates must understand complex enterprise networks and their dependencies design build socialize and monitor servicelevel metrics identify and reduce toil apply industry performance testing concepts to the university environment we offer university paid contribution of your salary to your retirement account vested immediately paid vacation days per year in addition to sick leave and paid holidays reduced tuition opportunities covering of eligible tuition excellent and affordable health care benefits wellness program with opportunity to earn lower health care rates free disability insurance annual merit increase program job responsibilities execute benchmark load stress endurance capacity break and other nonfunctional tests collaborate with it professionals across the oit to implement performance testing across the entire technology stack including frontend backend database and network technologies communicate complex technical concepts problems and solutions to technical and nontechnical audiences including service owners managers and sr directors across oit design and executing performance tests and defining synthetic transactions recommend performance tuning approaches execute solutions and work collaboratively with other it teams such as dbas system admins and developers to resolve performance issues design plan build and implement monitoring tools that promote visibility transparency and early detection in a complex technical environment collaborate with business customers to gather requirements and help identify test cases to satisfy the customer s performance testing goals identify manual or repetitive tasks document them and automate them partner with team to define monitor and alert on appropriate service level metrics required qualifications please document on resume bachelor s degree and four years of relevant experience or a comparable combination of education training and experience experience in test planning test estimation test strategy workload design test case design test environment setup test data setup defect management and configuration management safe lean or agile experience experience with loadrunner or jmeter must be able to work in a collaborative crossfunctional team environment preferred qualifications international software testing qualifications board istqb certification experience with python splunk and grafana testing experience in onprem cloudagnostic and hybrid environments experience planning designing and building tests as they relate to continuous improvementcontinuous delivery cicd pipelines the university of minnesota is an equal opportunity educator and employer",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T21:47:45.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Baltimore",
+    "region": "MD",
+    "postal_code": "21226",
+    "street_address": null,
+    "latitude": 39.290443,
+    "longitude": -76.612335
+  }
+}

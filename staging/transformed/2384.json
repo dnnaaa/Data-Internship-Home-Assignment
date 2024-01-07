@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Live Streaming Infrastructure",
+    "industry": "Internet",
+    "description": "ltpgttiktok is the leading destination for shortform mobile video our mission is to inspire creativity and bring joy tiktok has global offices including los angeles new york london paris berlin dubai mumbai singapore jakarta seoul and tokyo ltpgtltpgtltbrgtltpgtltpgtabout the team ltpgtltpgttiktok live streaming infrastructure is a worldleading live streaming platform that provides end to end solutions for tiktok and also our external partners we are building the next generation live streaming platform including live streaming ingestion processing and delivery to provide the best live streaming experience for our billions of users around the world ltpgtltpgtby joining us you will have the opportunity to not only tackle the challenges of large scale distributed system across multi regions which generates huge amount of data from billions of users but also the unique challenges from live streaming to provide low latency and high quality videos for different types of network connectivity even when the live event can go viral anytime to generate huge amount of trafficltpgtltpgtltbrgtltpgtltpgtabout the roleltpgtltpgttiktok is empowered by our cuttingedge cloud technologies as a site reliability engineer in this team you will have the opportunity to tackle challenges of developing largescale distributed systems to support the low latency and high quality end to end live streaming experience on a global scale while leveraging your expertise in both coding and reliability engineeringltpgtltpgtltbrgtltpgtltpgtresponsibilitiesltpgtltpgt build global infrastructure for multimedia processing storage and transport to serve billions of users all over the worldltpgtltpgt build live streaming cdn and deploy nodes globallyltpgtltpgt build tools automations visualizations and monitors to facilitate the operation and optimization of the global infrastructureltpgtltpgt engage in and improve the whole service lifecycle from inception and design through deployment operation and refinementltpgtltpgt scale up systems sustainably through mechanisms like automation and initiate changes that improve system reliability and processing speedltpgtltpgtqualificationsltpgtltpgt bachelors degree in computer science or a related technical background involving softwaresystem engineering or equivalent working experienceltpgtltpgt good programming experience with at least one of the following languages c c java python or goltpgtltpgt strong in analytical skills and the ability to solve real world problems in a fast moving environmentltpgtltpgt experience in designing analyzing and building automation and tools for large scale systemsltpgtltpgt experience in building solutions with aws google azure and other cloud servicesltpgtltpgt familiar with unixlinux operating systemsltpgtltpgtltbrgtltpgtltpgttiktok is committed to creating an inclusive space where employees are valued for their skills experiences and unique perspectives our platform connects people from across the globe and so does our workplace at tiktok our mission is to inspire creativity and bring joy to achieve that goal we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach we believe individuals shouldnt be disadvantaged because of their background or identity but instead should be considered based on their strengths and experience we are passionate about this and hope you are tooltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T02:50:54.000Z"
+  },
+  "company": {
+    "name": "TikTok",
+    "link": "https://www.linkedin.com/company/tiktok"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 121000,
+    "max_value": 255000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "",
+    "description": "role senior devops engineerltbrgtloc remoteltbrgtltbrgt years experience with cloud platforms deployments and services awsltbrgt must have experience in terraformsltbrgt experience with docker and kubernetesltbrgt years experience in configuration and operating systems management and data and business analysisltbrgt experience in source and project control github jira handsonltbrgt experience in automation using go python c c ansible or shell scriptingltbrgt experience in monitoring and logging tools nagios qradar new relic sysdig logdnaltbrgt experience in continuous integration platforms jenkins terraform teamcity travis ciltbrgt experience in load balancing geo routing and proxyingltbrgt experience in networking firewalls and load balancingltbrgt experience in nosql databases keystores and other datastructure solutions mongodb redisltbrgt experience in virtual application and web servers apache nginx websphere iisltbrgt ability to communicate detailed information verbally and in writingltbrgtsecondary skill set ltbrgtsnowflake databricks mulesoft any one skill would be add on advantageltbrgtltbrgtroles and responsibilitiesltbrgt assists in training engineering staff on devops principles to foster communication and collaboration amongst software infrastructure and test engineering teamsltbrgt amplifies feedback loops with all customers and embeds knowledge and learnings into decision making and engineering processesltbrgt serves as a devops advocate to engineering teamsltbrgt assesses customer requests and changes to business solutions in terms of cost benefits and impact for enterprisewide optimizationltbrgt provides guidance to customers and business analysts regarding the performance customer service and cost management issues related to a proposed technical solutionltbrgt assists other stakeholders in defining and building development workflows and tools across the entire software engineering systemltbrgt assists engineering leadership in developing fullyautomated and continuously deployed applicationsltbrgt ability to set slos slas slis and incident response processltbrgtteam management planning and prioritizationltbrgt serves as a technical advisor on software engineering projectsltbrgt identifies defines directs and performs analyses to resolve project issuesltbrgt participates in the development of rfps",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T18:23:01.000Z"
+  },
+  "company": {
+    "name": "TekNett Incorporated",
+    "link": "https://www.linkedin.com/company/teknett-incorporated"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

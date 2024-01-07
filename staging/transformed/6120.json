@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Staffing and Recruiting",
+    "description": "ltstronggtltugtessential duties and responsibilitiesltbrgtltugtltstronggtltulgtltligtdeploy and maintain infrastructure in both aws and datacenterltligtltligtgenerate documentation and clear communication on projects from development to deliveryltligtltligtbe responsible for aws datacenter windows and linux systems up time and performanceltligtltligtmanage and maintain kubernetes docker chef jfrog artifactoryltligtltligtwork closely with software engineers and tech leadership to drive projectsltligtltligtbuild and run production environments in aws using infrastructure as code methodsltligtltligtorchestrate environment development using kubernetes terraform andor cloud formationltligtltligtbuild ampamp deploy ci pipeline automation to a combination of kubernetesdocker and vm based systems in both vmware and awsltligtltligtwork closely with system architects engineers product managers and system administrators to meet their environment setup and service automation needsltligtltligtsystem monitoring ampamp analyticsltbrgtltligtltulgtltstronggtltugtrequiredltbrgtltbrgtltugtltstronggtltstronggtltugtexperienceltbrgtltugtltstronggtltulgtltligtbachelors degreeltligtltligtexperience in system build configuration automationltligtltligt years of experience in linuxltligtltligt years of experience building and maintaining a saas platformltligtltligt years working experience with aws vpc ec rds cloudformationltbrgtltligtltulgtltstronggtltugtpreferredltbrgtltugtltstronggtltulgtltligtexperience using terraformltligtltligtmust be passionate about automationltligtltligtexperience with task management and trackingltligtltligtprofessional experience in software engineering and developmentltligtltligtscripting skills in one of rubybashpythonltligtltligtbuild and release automation tools jenkins git dockerltligtltligtproduction system integration log collection and analysis build and performance monitoringtuningltligtltligtdesign and implement availability security and performance monitoringltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T05:52:02.000Z"
+  },
+  "company": {
+    "name": "Sayva Solutions",
+    "link": "https://www.linkedin.com/company/sayva-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 176000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

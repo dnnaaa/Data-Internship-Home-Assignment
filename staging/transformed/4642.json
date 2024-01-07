@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "ltbrgtltstronggtdo what you love love what you do ltbrgtltbrgtltstronggt at workday we help the worlds largest organizations adapt to whats next by bringing finance hr and planning into a single enterprise cloud we work hard and were serious about what we do but we like to have fun too we put people first celebrate diversity drive innovation and do good in the communities where we live and work ltbrgtltbrgtltstronggtjob descriptionltbrgtltbrgtltstronggtltstronggtabout the team ampamp the role ltbrgtltbrgtltstronggt will be part of the prism public apis ampamp configurable security team at workdays prism analytics ltbrgtltulgtltligt the opportunity here is to work with a team that is leading the way in building an interactive fully integrated big data analytics platform that provide our customers ways to create a data warehouse on the cloud and perform rich analysis and visualizations on their data ltligtltligt building scalable and robust internal and external facing apis that will support enablement of data orchestration ltligtltligt implementing and maintaining prism configurable security which controlled by workdays configurable security model where it flexibly enables different data access levels for different data consumers within the system ltligtltligt responsibility for migration of prism objects between customer tenants ltligtltligt you will be working on building a cuttingedge data orchestration engine which will enable datadriven processes from endtoend including preparing data making decisions based on that data and taking actions based on those decisions ltbrgtltbrgtltligtltulgtltstronggtabout you ltbrgtltstronggtltulgtltligtan exceptionally strong individual contributor that can tackle hard technical problems with optimism and positivityltligtltligt you can design and lead substantial features with a strong focus on nonfunctional requirements scalability performance monitoring maintenance security usability and quality etc ltligtltligt the challenge of architecting and building a robust platform geared for big data processing excites you ltligtltligt you take initiativeownership to drive projects to completion and overcome roadblocks with positivity and creativity ltligtltligt you are able to juggle priorities and make the right tradeoffs in feature content and timely delivery of features while ensuring customer success and technology leadership for the company ltligtltligt worked in agile teams ltligtltligt either backend or fullstack developer with years of experience with web application development and saas software as a service ltbrgtltbrgtltligtltulgtltstronggt you have strong experience with ltbrgtltstronggtltulgtltligtoo design and java developmentltligtltligtapi development security and performanceltligtltligtexperience with a pi tools like postman soap ui jmeter swagger etc ltligtltligtsaas security infrastructure wssecurity configurable data security identity and access management iamltligtltligtlargescale distributed and highly concurrent systemsltligtltligtmetadatadriven definitional development experienceltligtltligtweb servers databases sql rest json xml and persistence frameworks like hibernateltligtltligt technology agnostic is ok with you and you are always willing to learn new technologies to solve business problems ltligtltligt ms in computer science or related field and years relevant software development experience or bs in computer science or related field and years relevant software development experience ltbrgtltbrgtltligtltulgtltstronggtbonus skills ltbrgtltstronggtltulgtltligt workday configurable security ltbrgtltbrgtltligtltulgtltstronggtsan francisco fair chance ordinanceltbrgtltbrgtltstronggtpursuant to the san francisco fair chance ordinance workday will consider for employment qualified applicants with arrest and conviction recordsltbrgtltbrgt workday is an equal opportunity employer including individuals with disabilities and protected veterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:03:22.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 105000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

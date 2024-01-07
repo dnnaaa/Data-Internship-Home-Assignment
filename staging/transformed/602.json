@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Staff Software Engineer - Platform Team (Xpanse)",
+    "industry": "Computer &amp; Network Security",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggtltstronggtour missionltbrgtltbrgtltstronggtat palo alto networks everything starts and ends with our missionltbrgtltbrgtbeing the cybersecurity partner of choice protecting our digital way of lifeltbrgtltbrgtwe have the vision of a world where each day is safer and more secure than the one before these arent easy goals to accomplish but were not here for easy were here for better we are a company built on the foundation of challenging and disrupting the way things are done and were looking for innovators who are as committed to shaping the future of cybersecurity as we areltbrgtltbrgtwere changing the nature of work palo alto networks is evolving to meet the needs of our employees now and in the future through flexwork our approach to how we work from benefits to learning location to leadership weve rethought and recreated every aspect of the employee experience at palo alto networks and because it flexes around each individual employee based on their individual choices employees are empowered to push boundaries and help us all evolve togetherltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtltstronggtyour careerltbrgtltbrgtltstronggtweampaposre looking for a senior staff software engineer to join the platform team at xpanse the newest addition to palo alto networks cortexltbrgtltbrgtthe xpanse internet intelligence platform surveys petabytes of data to find risks online and protect some of the worlds largest organizations from malicious actors as an engineer on the xpanse data platform team you will familiarize yourself with the basic infrastructure of the internet onboard datasets and securely integrate client data additionally you will build operate and maintain large scale data processing and distributed systems to build a coherent view of the internet for the xpanse internet intelligence platformltbrgtltbrgtas a technical leader youampaposll mentor team members develop features endtoend and support systems in production youampaposll collaborate with the rest of the team on architectural direction technical debt and evolving the teamampaposs agile development processltbrgtltbrgtltstronggtyour impactltbrgtltstronggtltulgtltligtbuild the xpanse internet intelligence platformampaposs ability to more robustly frequently and thoroughly detect services across the global internetltligtltligtmanage monitor and improve the quality and rate of refresh for internet intelligence datasets including rdap and bgp information dns records geoip threat feeds honeypot logs and moreltligtltligtmentor and support your team members and receive mentorship and support from team members and broader engineering organizationltligtltligtserve as a representative for your team in architectural planning meetings and interactions with peer engineering groupsltligtltligtdevelop a platform supporting rapid development of new feature areas atop xpanse dataltligtltligtbuild automated pipelines that cohere raw datasets into a single highquality and continuous view of the internetltligtltligtbring the best technologies to bear against the most pressing issues in cybersecurityltligtltligttake ownership of projects drive them to completion and support them in productionltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtltstronggtyour experienceltstronggtltulgtltligt years of experience as a professional software engineerltligtltligtexperience in two or more of the areas of focus for the team and interest in learning the restltligtltulgtltligtdesign and development of streameventprocessing architectures using technologies such as kafka rabbitmq storm spark or their equivalentsltligtltligtimplementation and operation of distributed systems experience with kubernetes or similar is a plusltligtltligtarchitecture of software that is used as a platform by other development teamsltligtltulgtltligtexperience optimizing data pipelines for latency throughput andor economical use of cloud resourcesltligtltligtproficiency in javaltligtltligtexperience in supporting your work in productionltligtltligtability to form and share an opinion about the implementation and operation of distributed back end systemsltbrgtltligtltulgtltstronggtltugtadditional informationltbrgtltbrgtltugtltstronggtltstronggtour commitmentltbrgtltbrgtltstronggtwere trailblazers that dream big take risks and challenge cybersecuritys status quo its simple we cant accomplish our mission without diverse teams innovating togetherltbrgtltbrgtwe are committed to providing reasonable accommodations for all qualified individuals with a disability if you require assistance or accommodation due to a disability or special need please contact us at accommodationspaloaltonetworkscomltbrgtltbrgtpalo alto networks is an equal opportunity employer we celebrate diversity in our workplace and all qualified applicants will receive consideration for employment without regard to age ancestry color family or medical care leave gender identity or expression genetic information marital status medical condition national origin physical or mental disability political affiliation protected veteran status race religion sex including pregnancy sexual orientation or other legally protected characteristicsltbrgtltbrgtall your information will be kept confidential according to eeo guidelines",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:36:41.000Z"
+  },
+  "company": {
+    "name": "Palo Alto Networks",
+    "link": "https://www.linkedin.com/company/palo-alto-networks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

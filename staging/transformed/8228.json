@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer/SRE",
+    "industry": "Information Technology and Services,Consumer Electronics,Consumer Services",
+    "description": "ltulgtltligt years in a software development devops role or sre roleltligtltligtexperience in designing investigating analyzing and troubleshooting largescale enterprise systemsltligtltligtmethodical and systematic problem solving approach combined with a solid awareness of ownership initiative and driveltligtltligtfluency with running services at scale in depth understanding of unix systems internals and networkingltligtltligtnetworking knowledge and in depth understanding of network concepts such as different protocols tcpip udp icmp etc mac addresses ip packets dns osi layers and load balancingltligtltligtunderstanding of unixlinux systems from kernel to shell and beyond taking in system libraries file systems and clientserver protocols along the way experience administering linux systems in a production environmentltligtltligtprogramming experience in one or more of the following languages go java python ruby shellltligtltligtbachelors degree in computer science or a related field or relevant work experienceltligtltligtexperience with distributed version control like git or similarltligtltligtexperience with iaas and paas providers such as aws azure openstack gcpltligtltligtexperience with containerization and container platforms eg docker kubernetes docker ee openshift mesosphereltligtltligtexperience with enterprise monitoring solutions like dynatrace appdynamics new relic prometheus graphite grafana nagios sensu and splunkltligtltligtfamiliarity with continuous integrationdeployment processes and tools such as jenkins maven nexus etcltligtltulgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-14T20:34:45.000Z"
+  },
+  "company": {
+    "name": "AMISEQ",
+    "link": "https://www.linkedin.com/company/amiseq-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

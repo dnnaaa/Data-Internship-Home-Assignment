@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Scalability",
+    "industry": "Computer Networking",
+    "description": "as a site reliability engineer you will be focused on supporting a specific highly available and extremely secure production environment you will analyze the reliability of our environments use your coding skills to improve the way we operate and debug sophisticated events as part of a oncall rotationltbrgtltbrgtyoure passionate about connecting with peer development teams embrace the nix way and you automate away tedious tasks while building infrastructureascodeltbrgtltbrgtin this role you will join our committed caring and closeknit engineering team based out of our office in san francisco while collaborating with our peers in london and australialtbrgtltbrgtwe are an engineeringdriven organization that encourages you to take the time to explore new technology and create prototypes that make us betterltbrgtltbrgtas sres at meraki we are building the cloud that supports millions of meraki customers and their devices across the world how big merakis customer base has grown by a factor of every year serving more than billion http requests per day across data centers our customers depend on our products to run their critical infrastructure of network switches security appliances wireless aps and security camerasltbrgtltbrgtexample projects cloud platformscalabilityltbrgtltulgtltligtcollaborate in the expansion and implementation of new servers and deploymentsltligtltligtwork across teams to understand and implement clientspecific workflows and processesltligtltligtworking in a ruby codebase to update and modernize patterns and systemsltligtltligtdebug a realworld global web application triaging issues while working with security or app teams to bring longterm solutionsltligtltligtmentor peer engineers write code and do code reviewsltbrgtltbrgtltligtltulgtyou are an ideal candidate if youltbrgtltulgtltligtcan demonstrate designing deploying and operating mid to largescale enterprise or cloud environmentsltligtltligtfeel very comfortable with scripting or coding with languages like ruby scala go python or bashltligtltligtdaringly jump into other peoples source code to seek a problemltligtltligtknow your way around nix systemsltligtltligtyou automate all the thingsltligtltligtyou care about the customer experience you have experience supporting an externallyfacing production environment ideally in a team that follows the sunltligtltligtyou empathize with your coworkers and you are a positive influence on othersltbrgtltbrgtltligtltulgtkeywords sre site reliability engineering devops elk grafana graphite ansible chef ruby scala docker kubernetes marathon terraform awsltbrgtltbrgtat cisco meraki were challenging the status quo with the power of diversity inclusion and collaboration when we connect different perspectives we can imagine new possibilities inspire innovation and release the full potential of our people were building an employee experience that includes appreciation belonging growth and purpose for everyoneltbrgtltbrgtcisco is an affirmative action and equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race color religion gender sexual orientation national origin genetic information age disability veteran status or any other legally protected basis cisco will consider for employment on a case by case basis qualified applicants with arrest and conviction recordsltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T05:01:24.000Z"
+  },
+  "company": {
+    "name": "Cisco Meraki",
+    "link": "https://www.linkedin.com/company/cisco-meraki"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Software Engineer",
+    "industry": "Hospital &amp; Health Care,Information Technology and Services",
+    "description": "ltpgtwe are looking for a backend software engineer to join our integrations team offering hr on a month contract w ability for perm conversionltpgtltpgtltbrgtltpgtltpgtminimum qualificationsltpgtltpgtltbrgtltpgtltpgtbachelors degree in computer science computer engineering or related fieldltpgtltpgtproficiency with software developmentltpgtltpgtfamiliarity with agile principles like continuous build test integration and deploymentltpgtltpgtltbrgtltpgtltpgtpreferred qualificationsltpgtltpgtltbrgtltpgtltpgt years experience as a member of a software development teamltpgtltpgtskilled knowledge and experience developing and maintaining data communication systems and architectureltpgtltpgtability to develop and troubleshoot data flow processes translation mapsltpgtltpgtknowledge of web services restful api developmentltpgtltpgtexperience with golang or another programming languageltpgtltpgtexperience with cloud development with aws azure or other cloud providers is a plusltpgtltpgtknowledge of relational databases postgresql or other relationalltpgtltpgtexperience with docker and development of containerized applicationsltpgtltpgtfamiliarity with fhir and healthcare interoperability standards is a plusltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-01T14:09:16.000Z"
+  },
+  "company": {
+    "name": "Revolution Technologies",
+    "link": "https://www.linkedin.com/company/revolution-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Melbourne",
+    "region": "FL",
+    "postal_code": "32902",
+    "street_address": null,
+    "latitude": 28.079931,
+    "longitude": -80.603516
+  }
+}

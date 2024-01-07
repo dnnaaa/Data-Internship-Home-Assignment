@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "the networkbased computing laboratory nbcl at the ohio state university is looking for an enthusiastic mpi software engineerprogrammer with strong expertise in mpi highperformance computing network programming with modern interconnects infiniband ethernetiwarp and roce gpgpus nvidia and amd and accelerators to join the groupltbrgtltbrgtthe nbcl group is currently involved in research and development of high performance mpi libraries mvapich mvapichx and mvapichgdr for clusters with infiniband ethernetiwarp and rdma over converged enhanced ethernet roce networking technologies these packages are currently being used by more than organizations worldwide in countries as of february more than m downloads of these mpi libraries have taken place from the mvapich project site alone in addition these libraries are available with the software stacks of many server and interconnect vendors linux distributors redhat and suse and packages spack and openhpc this library has also been enabling many top systems during the last decade more details on this project can be obtained by visiting mvapich project web pageltbrgtltbrgtthe mpi software engineerprogrammer is expected to take a lead role in mvapich mvapichx and mvapichgdr projects and work together with the graduate students research scientist postdocs programmers and faculty member in this group to design and develop production quality code with novel features strong experience in linux c programming network programming such as tcpip and lowlevel networking stacks etc is required knowledge on mpi standards multicore processors gpgpusaccelerators and highperformance networking is desired the candidate should also be familiar with the typical design cycle design develop test tune release bug fixes etc for producing and maintaining high quality software and the associated tools the candidate should have good communication skills and team working experience an msbs degree in computer science or computer engineering with a few years of experience especially working in a team project is preferred other exceptional candidates with degrees from other disciplines and having at least five years of experience in working in the field of computer sciencecomputer engineering will also be considered",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T01:03:39.000Z"
+  },
+  "company": {
+    "name": "The Ohio State University",
+    "link": "https://www.linkedin.com/company/the-ohio-state-university"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "OH",
+    "postal_code": "43272",
+    "street_address": null,
+    "latitude": 39.96276,
+    "longitude": -82.99629
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "sr site reliability engineer",
+    "industry": "Consumer Goods,Food &amp; Beverages,Retail",
+    "description": "ltstronggtnow brewing brand leaders tobeapartnerltbrgtltbrgtltstronggtfrom the beginning starbucks set out to be a different kind of company one that not only celebrated coffee and the rich tradition but that also brought a feeling of connectionltbrgtltbrgtltstronggttechnology infrastructure at starbucksltbrgtltbrgtltstronggtat our core we believe technology is a key enabler for growth and is required for business success in the future we believe starbucks must advance its technology resources and think long term to innovate and deliver maximum value for our partners customers and shareholders we believe it takes collaboration and partnership to deliver results and we will work across the company to enable sustainable business capabilities not just fulfill immediate needsltbrgtltbrgtltstronggtltugtjob summary and missionltbrgtltbrgtltugtltstronggtif youve got what it takes to help transform one of the most iconic brands in the world into a lean efficient and highly automated platform wed like to talk to youltbrgtltbrgtas a starbucks systems engineer senior you will be responsible for availability latency performance efficiency security bestpractices changeconfiguration management monitoring emergency response disaster recovery capacity planning and toolingautomation of our infrastructure and deployment workflows you should have significant cicd experience and strong azure system administration skillsltbrgtltbrgtltstronggtltugtsummary of key responsibilitiesltbrgtltugtltstronggtltulgtltligtplan implement and support core infrastructure with an overall objective to improve the scalability reliability performance and availabilityltligtltligtdesign develop troubleshoot debug evaluate modify deploy and document application system or infrastructure softwareltligtltligtensures system performance uptime and support levels meet or exceed slasltligtltligtautomates infrastructure that enables efficient builds testing deployments and monitoringltligtltligtresponds to outages with prompt and efficient resolution and communicates issues to via the proper support channelsltligtltligtparticipates in oncall support of a x production environmentltbrgtltligtltulgtltstronggtltugttechnical requirements requiredltbrgtltugtltstronggtltulgtltligtexperience managing a cloudnative infrastructure and its foundational servicesltligtltligtexperience in automating infrastructure is requiredltligtltligtexperience with one or more of the following programming languages netjava javascript python is requiredltligtltligtproficiency with cicd pipeline toolsltligtltligtexperience automating with scripting languages bash python andor powershell is requiredltligtltligtstrong practical linux and windowsbased systems administration skills in a cloud or virtualized environmentltligtltligtmust have handson experience with microsoft azure platformltligtltligtexperience with one or more of infrastructure automation tools terraform chef puppet is requiredltbrgtltligtltulgtltstronggtltugttechnical requirements preferredltbrgtltugtltstronggtltulgtltligtproficiency with microsoft azure cloudltligtltligtservice fabricltligtltligtiot hubltligtltligtcosmosdb ltligtltligtexperience with jenkins cicdltligtltligtexperience with containers docker kubernetes etcltligtltligtexperience with apm tooling newrelic or equivalentltligtltligtinfrastructure automation arm templates azure cliltligtltligtcloud platforms microsoft azure ltligtltligtinfrastructure and application logging and monitoring technologies splunk elk newrelic pagerdutyltbrgtltligtltulgtltstronggtcore competencies ltbrgtltbrgtltstronggtputs the customer first has a relentless focus on the customer understands what the customer wants and how to best deliver the experienceltbrgtltbrgtworks well with others listens and communicates well with others within and outside of starbucks creates a team environment that is positive and productiveltbrgtltbrgtleads courageously takes personal responsibility to do the right thing and persists in times of challenge or uncertainty adapts quickly to change and makes timely thoughtful decisionsltbrgtltbrgtdevelops continuously continuously seek opportunities to improve self and others leads with trust honesty and commitment to hire coach and develop partners to achieve their potentialltbrgtltbrgtachieves results understands what drives overall business success and is accountable to prioritize and deliver quality results demonstrates knowledge of core products and processes to get results anticipates obstacles and takes action to prevent or minimize their impactltbrgtltbrgtltemgtstarbucks and its brands are an equal opportunity employer of all qualified individualsltbrgtltbrgtwe are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences we believe that enables us to better meet our mission and values while serving customers throughout our global communities people of color women lgbtqia veterans and persons with disabilities are encouraged to applyltbrgtltbrgtqualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances starbucks corporation is committed to offering reasonable accommodations to job applicants with disabilities if you need assistance or an accommodation due to a disability please contact us at or via email at applicantaccommodationstarbuckscomltbrgtltbrgtltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-23T06:12:18.000Z"
+  },
+  "company": {
+    "name": "Starbucks",
+    "link": "https://www.linkedin.com/company/starbucks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

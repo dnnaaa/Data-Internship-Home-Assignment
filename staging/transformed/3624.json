@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Machine Learning Engineer, Siri",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtplay a part in the next revolution in humancomputer interaction contribute to a product that is redefining mobile computing create groundbreaking technology for large scale systems spoken language big data and artificial intelligence and work with the people who created the intelligent assistant that helps millions of people get things done just by asking join the siri understanding team at apple ltbrgtltbrgtltbrgtthe siri understanding team is looking for an exceptional machine learning engineer to personalize the siri experience for millions of apple users worldwide while preserving data privacyltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtstrong understanding of machine learning ml fundamentalsltbrgtltbrgtexperience in deploying mldeeplearning solutions to real world problemsltbrgtltbrgtexperience with deep learning toolkits like kerastensorflow pytorch etcltbrgtltbrgtproficiency in objectivecc and pythonltbrgtltbrgtstrong analytical and data visualization skillsltbrgtltbrgtexcellent problem solving critical thinking and communication skillsltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtas a machine learning engineer in the siri understanding team you will work on improving siris automatic speech recognition asr accuracy by training stateofart language models lms on massive text corpora you will explore novel techniques and enhance existing algorithms for language modeling focusing on privacy preserving ml approaches to train and adapt lms ondevice under the constraints of memory compute and power you will develop efficient ondevice modeling pipelines for natural language processing you will work on model optimization techniques including but not limited to model compression quantization etc to enable efficient ondevice learning you will collaborate with other research scientists and engineers in a fastpaced team environmentltbrgtltbrgtltbrgtopen to considering candidates in seattle or bostonltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtmasters or phd in machine learning computer science or a related fieldltbrgtltbrgtacademic or industry experience in asr or nlpltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgtpreferred qualifications ltbrgtltbrgtany of the following qualifications is considered a plusltbrgtltbrgtfamiliarity with ngram and neural network algorithms and techniques used in language modeling smoothing pruning interpolation word embeddings recurrent neural networks transformers etcltbrgtltbrgtexperience in large scale distributed privacypreserving ml and federated learningltbrgtltbrgt years of software development experience preferably in a ml fieldltbrgtltbrgtexperience in ondevice modeling in a limited resource setup ltbrgtltbrgtexperience with large scale data processing using mapreducehadoopsparkltbrgtltbrgtexperience with training language models for asr systems and working with standard toolkits such as kaldi srilm openfst or equivalent proprietary systemsltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T08:31:10.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

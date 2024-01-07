@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Oil &amp; Energy,Management Consulting,Financial Services",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggtpoweradvocate a verisk analytics business leads the energy data industry by providing energy companies with clarity into their complex data our energy factbase currently at trillion and growing helps customers to create operational and financial excellence we help our clients to understand how they can leverage our unique view of the marketplace to reduce costs and manage operation risk working with executives on the cutting edge in the power oil and gas and renewable energy sectorsltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtwe are currently seeking a data scientist to join our teamltbrgtltbrgtat poweradvocate data scientists participate in all aspects of the data pipeline development processfrom outlining the problem all the way to implementation in production this includes data extraction and wrangling database integration model development and implementation data scientists contribute as part of an agile team in a fastpaced environment with high visibility to the rest of the company they also participate in broader aspects of each project including communicating ongoing results and outcomes via effective visualizations and other presentation tools as well as gaining a deeper understanding of the results produced and their applicability to our internal and external customersltbrgtltbrgtltstronggtltugtessential duties and responsibilitiesltbrgtltbrgtltugtltstronggtin addition to the following other duties may be assigned to meet business needsltbrgtltulgtltligtextract clean audit and prepare data for analysis relying on wellstructured procedures and maintaining reproducibility of results ltligtltligtdesign experiments to answer targeted questions and conduct exploratory data analysis ltligtltligtanalyze and judge the quality of data produced and proactively develop and implement solutions to data quality issues ltligtltligtvisualize and present results of analyses ltligtltligtimplement and maintain databases relevant to analytic solutions being developed ltligtltligtdevelop and maintain data pipelines to deliver data to multiple parties ltligtltligtinterface with primary team members to construct maintain and automate clientrelated data to support other analyst teams in the spend intelligence ampamp cost intelligence groups ltligtltligtdevelop both academically rigorous approaches and pragmatic quickanddirtyyetuseful tools for the real world ltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtltstronggttechnical skills and requirements ltbrgtltstronggtltulgtltligt years of relevant experience in data science statistics data engineering or machine learning projects ltligtltligtfullstack data sciencedata engineering experience ltligtltligtproficiency in python additional languages a plus ltligtltligtsolid understanding of sql and relational database models ltligtltligtbasic shell scripting knowledge ltligtltligtexperience using scikitlearntensorflow or other modeling tools for preliminary analysis and productionlevel solutions ltligtltligtexperience with flask andor related frameworks a plus ltligtltligtexperience with airflow kubernetes docker andor related data pipeline tools a plus ltligtltligtproficiency in data profiling cleaning and mining ltligtltligtbsms in a quantitative discipline data science computer science engineering data engineering etc ltbrgtltligtltulgtltstronggtltugtadditional informationltbrgtltbrgtltugtltstronggtverisk analytics is an equal opportunity employerltbrgtltbrgtall members of the verisk analytics family of companies are equal opportunity employers we consider all qualified applicants for employment without regard to race religion color national origin citizenship sex gender identity andor expression sexual orientation veteranampaposs status age or disabilityltbrgtltbrgthttpwwwveriskcomcareershtmlltbrgtltbrgtunsolicited resumes sent to verisk including unsolicited resumes sent to a verisk business mailing address fax machine or email address or directly to verisk employees will be considered verisk property verisk will not pay a fee for any placement resulting from the receipt of an unsolicited resume",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T13:45:39.000Z"
+  },
+  "company": {
+    "name": "PowerAdvocate",
+    "link": "https://www.linkedin.com/company/poweradvocate"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68300,
+    "max_value": 123000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

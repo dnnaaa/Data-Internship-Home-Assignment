@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer",
+    "industry": "",
+    "description": "ltpgtltstronggtdescriptionltstronggtltpgtltpgthealthatscale is a rapidly growing postseries a healthcare machine intelligence startup founded by machine learning and clinical faculty with strong ties to mit stanford harvard and umichigan the company has been recognized for its efforts by forbes beckers ucsf digital health awards bloomberg techcrunch and mit news our mission is to bring precision delivery to healthcare through cuttingedge machine learning and artificial intelligence that can predictively match the worlds patients to the right treatments by the right providers at the right times healthatscales machine intelligence platform and applications for care prediction are among the largest deployments to date of machine learning technologies for healthcare helping leading organizations manage tens of millions of individuals in live production use the companys software solutions service a broad range of use cases for managed care accountable care and selfinsured organizations including early targeted prediction and prevention of adverse outcomes optimizing care planning and guiding effective treatment refining and navigating provider networks and reducing fraud waste and abuse for more information please visit ourampnbspwebsiteltpgtltpgtltbrgtltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtdesign and implement new predictive machine learning and artificial intelligence technologiesltligtltligtengineer machine intelligence systems and infrastructure for realworld production use at scaleltligtltligtimprove the accuracy runtime scalability and reliability of machine intelligence systemsltligtltligtdevelop and implement machine intelligence platform apis for multiple usecasesltligtltligtdrive architecture of platform and application capabilities embedding machine intelligenceltligtltligtbuild and enhance data pipelines and data warehouses for machine intelligenceltligtltligtwork crossfunctionally with other teams to provide engineering leadership to complex projectsltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligtbs ms or phd in computer science or related technical fieldltligtltligt years of experience with data analytics and machine learning in academia or industryltligtltligtstrong understanding of the foundational concepts of machine learning and artificial intelligenceltligtltligtstrong proficiency in python and cloud computing environmentsltligtltligtindepth knowledge and experience with distributed systems relational databases nosqlltligtltligtfamiliarity with data technology stack eg hadoop spark hive hdfs tensorflow pytorch etcltligtltligtexcellent communication skillsltligtltulgtltpgtltbrgtltpgtltpgtltstronggtbenefitsltstronggtltpgtltpgthealthatscale offers competitive salary stock options k highquality health benefits medical dental and vision parental leave benefits and flexible work hours we are an equal opportunity employer and are committed to diversity in our hiring and business practicesltpgtltpgtto all recruitment agencies healthatscale does not accept agency resumes please do not forward resumes to our jobs alias healthatscale employees or any organization location healthatscale is not responsible for any fees related to unsolicited resumesltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:01:50.000Z"
+  },
+  "company": {
+    "name": "HEALTH[at]SCALE Technologies",
+    "link": "https://www.linkedin.com/company/health-at-scale"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 123000,
+    "max_value": 221000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtamplthiring at all locations in us for all levelsampgtltpgtltpgtltbrgtltpgtltpgtare you interested in supporting largescale distributed infrastructure for the cloud the ltstronggtoracle cloud infrastructure oci teamltstronggt will give you the opportunity to support and operate a suite of massive scale integrated cloud services in a broadly distributed multitenant cloud environment oci is committed to providing the best in cloud products that meet the needs of our customers who are tackling some of the worlds biggest challenges our mission is to provide our customers with bestinclass compute storage networking database security and an everexpanding set of foundational cloudbased services httpscloudoraclecomcloudinfrastructureltpgtltpgtltbrgtltpgtltpgtwe are building a new software assurance gateway team at oci our mission is to build and operate a set of gateway services to perform comprehensive software assurance of the applications running within a tenancy we are looking for strong site reliability engineers to join software assurance gateway team at oci you will be taking on the challenge of engineering infrastructure solutions for scale and performance while providing strong guarantees of availability to our customers your team will have diverse expertise in systems networking and software development to provide the stability performance and reliability our customers need you will build tools to address hard operational problems while enabling our service developers to remain agile and deliver feature changes you will deliver the solutions that directly contribute to our customers successltpgtltpgtltbrgtltpgtltpgta sre at oci will spend a significant amount of their time doing ops related work such as production issues and service oncall when not working on operations the sre is working on software engineering tasks such as design and development of systems that increase our reliability scalability and reduce operational overhead through automation the ideal sre candidate is proficient programmer who has large breadth of knowledge and experience including areas such as networking internet protocols and linux systemsltpgtltpgtour sres are close partners with service owners in all aspects of service operations and ownership we have a strong culture of innovation collaboration and team work inspired by the devops philosophyltpgtltpgtltbrgtltpgtltpgtjob responsibilitiesltpgtltulgtltligtact as a point of escalation for incidents and other issues arising within the regionltligtltligtoperates and performs maintenance for services running within the regionltligtltligtdeploys code and executes other changes within the regionltligtltligttroubleshoots operational issues on behalf of service teamsltligtltligtensures timely resolution and documentation of incidents through bridgesltligtltligtensures thorough documentation of incidents through companystandard reporting methodsltligtltligtmonitors the region for faults alarms and other errors informs internal teams as required through process and procedure ltligtltligtwork in conjunction with service developers to evolve systemsproducts for better scalability reliability and development velocityltligtltligtpractice sustainable incident response and drive root cause analysisltligtltulgtltpgtltbrgtltpgtltpgtbasic qualificationsltpgtltulgtltligtbs degree in computer science or related technical fieldltligtltligt years of operationssupport engineersite reliability engineer experience including oncall rotations working on highly scalable distributed systemsltligtltligtunderstanding of linux operating systems and linux system administrationltligtltligtexperience automating tasks with scripting languages such as python and bashltligtltligtexperience with container technologies docker kubernetesltligtltligtknowledge of internet protocols and standards including smtp rest ssltls dns and http ltligtltligtexperience deploying code within change management proceduresltligtltligtexperience troubleshooting complex software andor networking issuesltligtltligtstrong understanding of cloud concepts and platformsltligtltligtsystematic problemsolving approach strong communication skills and a sense of ownership and driveltligtltligtshould be a flexible ampamp resourceful team player that is able to thrive in a fastpaced and constantly changing environmentltligtltulgtltpgtltbrgtltpgtltpgtpreferred qualificationsltpgtltulgtltligtmastersphd degree in computer scienceltligtltligtexperience in cloud technical support operations noc or similar is preferredltligtltligtfamiliarity with go and java languages is preferredltligtltligtproven ability to quickly learn new technical domains and then train othersltligtltligtexperience with orchestrationautomation tools ansible terraform chef etcltligtltligtunderstanding of service kpi metrics alarms logging and system health dashboards such as grafanaltligtltligtexperience working in an operational environment with mission critical tier one services with associated alarming tools like pager dutyltligtltulgtltpgtltbrgtltpgtltpgtoracle is an affirmative actionequal employment opportunity employer all qualified applicants will receive consideration for employment without regard to race color religion sex national origin sexual orientation gender identity disability protected veterans status age or any other characteristic protected by lawltpgtltpgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T19:48:09.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

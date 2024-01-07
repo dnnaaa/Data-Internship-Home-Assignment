@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "this individual will work to monitor system health investigate and troubleshoot delivery failures andor related production issues escalate issues as needed and take part in an oncall rotation roughly every weeks the main focus of this role will be to monitor batch and realtime processing and support overall production support activity as well as aid in the automation of manual tasksltbrgtltbrgt years of operations experience with largescale highavailability distributed systemsltbrgt applicationplatform production support experienceltbrgt sqloracle and unix functional proficiencyltbrgt an understanding of programming java javascript web development etcltbrgt oncall support experience with a critical platformltbrgt familiarity with batchscheduled job execution and troubleshootingltbrgt file transfer protocol ftp experienceltbrgt scripting and automation experienceltbrgt healthcare ediansix industry knowledgeltbrgt splunk new relic solar winds or other enterprise monitoring tool experience",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-12T15:13:05.000Z"
+  },
+  "company": {
+    "name": "TEKsystems",
+    "link": "https://www.linkedin.com/company/teksystems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

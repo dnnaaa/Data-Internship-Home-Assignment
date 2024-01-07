@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "ltbrgtltstronggtdo what you love love what you do ltbrgtltbrgtltstronggt at workday we help the worlds largest organizations adapt to whats next by bringing finance hr and planning into a single enterprise cloud we work hard and were serious about what we do but we like to have fun too we put people first celebrate diversity drive innovation and do good in the communities where we live and work ltbrgtltbrgtltstronggtabout the teamltbrgtltstronggtinbox team has an excellent opportunity to rebuild and reinvent inbox including searching tagging and new bespoke ui the position presents the opportunity to work in a collaborative environment designing developing delivering and maintaining inbox used by of workday customersltbrgtltstronggtabout the roleltbrgtltstronggtltulgtltligt design and build rest apis highly scalable collaboration platform and features ltligtltligt collaborate in a small team using your engineering background to get work done ltligtltligt exert your independence and ability to learn unfamiliar technology ltligtltligt build and maintain robust and quality code and reliable automated tests ltbrgtltbrgtltligtltulgtltstronggtabout youltbrgtltstronggtltulgtltligt bachelors degree or higher computer scienceengineering major is preferable ltligtltligt you have experience owning production systems ltligtltligt experience developing cloud software services and an understanding of design for scalability performance and reliability and tradeoffs therein ltligtltligt extensive experience developing distributed and concurrent systems secure fault tolerant highly available recoverable consistent scalable and predictable and the tradeoffs therein ltligtltligt knowledge of business process frameworks ltbrgtltbrgtltligtltulgtltstronggtbasic qualificationsltbrgtltstronggtltulgtltligt years of development in object oriented design java or workday xpresso ltligtltligt previous experience developing in an agilescrum environment ltligtltligt a love for learning and a passion for helping others ltbrgtltbrgtltligtltulgtltstronggtother qualificationsltbrgtltstronggtltulgtltligt years of functional programming in scala ltligtltligt react typescript node experience a plus ltbrgtltbrgtltligtltulgt workday is an equal opportunity employer including individuals with disabilities and protected veterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:04:31.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 70100,
+    "max_value": 102000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

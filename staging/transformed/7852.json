@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Cloud (WAH - US)",
+    "industry": "Insurance",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtthe site reliability engineer cloud at the edge will have the chance to influence the decisions of a new organization cloud engineers within the edge team are trusted to own major parts of the cloud infrastructure and we expect you to thrive as a leader in spearheading and shaping the technology direction with support from your peersltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltbrgtltugtltstronggtthe site reliability engineer cloud works with cloud infrastructure software engineering and test teams to drive products from design completion to production release in this role performs cloud engineering tests to verify and validate product designs including availability performance and security ensures that product implementation schedules are followed participates in routine planning of cloud infrastructure services that support new product features and engineering requirements and cloud services meet specifications scalability security and quality requirements interacts with product teams service delivery leaders and engineering to analyze and provide technical support to help resolve cloud infrastructure related problemsissues works with cloud infrastructure security and technology leadership to develop and maintain cloud operational excellenceltbrgtltbrgtltstronggtltugtrequired qualificationsltbrgtltugtltstronggtltulgtltligtbachelors degree or equivalent work experienceltligtltligt years of experience with infrastructure as code cloud google cloud aws azure infrastructure support and operational automationltligtltligtgood understanding of provisioning tools configuration management and scripting languages used in automation terraform cloudformation ansible puppet chef etcltligtltligtability to manage multiple tasks and deadlines with attention to detailltligtltligtability to communicate effectively and deliver presentations to senior leadersltligtltligtmust be passionate about contributing to an organization focused on continuously improving consumer experiencesltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligtmasters degreeltligtltligtcloud certifications associate level or aboveltligtltligt years of infrastructure technical experienceltligtltligtexperience with infrastructure and application monitoring event management and troubleshootingltligtltligthands on experience leading infrastructure support operations automation and producing metrics measurements and trend reportsltligtltligtexperience with ensuring proper controls are established and maintained over production systems and infrastructure servicesltligtltligtcloudltbrgtltligtltulgtltstronggtltstronggtltstronggtscheduled weekly hoursltbrgtltbrgtltstronggtltstronggtltstronggt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-30T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Humana",
+    "link": "https://www.linkedin.com/company/humana"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65400,
+    "max_value": 92500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Louisville",
+    "region": "KY",
+    "postal_code": "40270",
+    "street_address": null,
+    "latitude": 38.256077,
+    "longitude": -85.75157
+  }
+}

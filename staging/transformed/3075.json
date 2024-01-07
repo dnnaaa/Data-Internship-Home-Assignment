@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services",
+    "description": "as a site reliability engineer sre youll help build a meaningful engineering discipline combining software and systems to develop creative engineering solutions to operations problems much of our support and software development focuses on optimizing existing systems building infrastructure and reducing work through automation youll join a team of curious problem solvers with a diverse set of perspectives who are thinking big and taking risks in this environment youll take the lead on relevant projects supported by an organization that provides the support and mentorship you need to learn and grow as an sre youll be focused on running better production applications and systemsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtdevelop test and debug automated tasks apps systems infrastructureltligtltligttroubleshoot priority incidents facilitate blameless postmortemsltligtltligtwork with development teams throughout the software life cycle ensuring sustainable software releasesltligtltligtperform analytics on previous incidents and usage patterns to better predict issues and take proactive actionsltligtltligtbuild and drive adoption for greater selfhealing and resiliency patternsltligtltligtlead and participate in performance tests identify bottlenecks opportunities for optimization and capacity demandsltligtltligtparticipate in the x support coverage as neededltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligtbachelors degree or equivalent experience in a software engineering disciplineltligtltligtmastery in at least two or more software languages eg python java go etc with respect to designing coding testing and software deliveryltligtltligtadept in the development of automated tools systems and services in multiple technology domainsltligtltligtadvanced knowledge of one or more infrastructure components eg networking cloud services orchestration tools containerization compute and storage systemsltligtltligtproficiency in servicelevel changes to a system and troubleshooting componentsltligtltligtexperience in data management data warehouse developing and designing of etl methodology for supporting data transformations using ab initio andor informaticaltligtltligtexperience in working in teradata oracle sqlserver db databasesltligtltligtexperience with batch scheduling tools such as contolmltligtltligtexperience with linux platforms unix scriptingltligtltligtexperience in sql debugging skillsltligtltulgtjpmorgan chase ampamp co one of the oldest financial institutions offers innovative financial solutions to millions of consumers small businesses and many of the worlds most prominent corporate institutional and government clients under the jp morgan and chase brands our history spans over years and today we are a leader in investment banking consumer and small business banking commercial banking financial transaction processing and asset managementltbrgtltbrgtwe recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success we are an equal opportunity employer and place a high value on diversity and inclusion at our company we do not discriminate on the basis of any protected attribute including race religion color national origin gender sexual orientation gender identity gender expression age marital or veteran status pregnancy or disability or any other basis protected under applicable law in accordance with applicable law we make reasonable accommodations for applicants and employees religious practices and beliefs as well as any mental health or physical disability needsltbrgtltbrgtequal opportunity employerdisabilityveterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T12:33:47.000Z"
+  },
+  "company": {
+    "name": "JPMorgan Chase &amp; Co.",
+    "link": "https://www.linkedin.com/company/jpmorganchase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Data Engineer - Analytics Platform",
+    "industry": "Retail",
+    "description": "ltpgtltstronggtabout the roleltstronggtltpgtltpgtas a team member of the plan book and allocate organization were looking for a software engineer who will actively participate in requirement gathering and technical design discussions this role will design highly scalable and high performing technology solutions in an agile work environmentand produce and deliver code andor test cases using agile practices this individual will work closely with business support teams and product managers toassist in resolving critical production issues help simplify and improve business processes through the latest in technology and automationltpgtltpgtthis individual will need to stay current on the latest in technology and methodology in the market and be able to perform proof of concepts to better understand how they fit into the gap landscape and to apply usefulness and effectiveness to the organization upon adoption the role isampnbspresponsible for technical and architecture implementation against the agreed scope and quality of the end product delivered the key business partners that will works closely with this team member are the product architect technical lead technical manager product manager and scrum master in order to balance product architecture and to meet delivery timelineltpgtltulgtltligtprovisioning configuring and monitoring batch analytics pipelines with technologies like sparkdatabricks kafka and event hubs on cloud microsoft azure or other major cloud platformltligtltligtcontainers and container orchestration using docker or kubernetesltligtltligtdeveloping cicd pipelines for automating testing and delivery of software productsltligtltligtutilizes and champions best coding practicesltligtltligtprovisioning configuring and monitoring azure cloud servicesltligtltligtpython scriptingltligtltligtdeployment of applications infrastructure upgrades and changes to platform capacityltligtltligtmaximize system uptime and availability and ensuring functional and performance slas responsible for establishing endtoend monitoring and alerting for various systemsltligtltligtcreating etlingestion jobs using apache spark and monitormaintain the jobs on cloud azureltligtltligtidentify and surface performance and optimization oppurtunities and implement caching to improve the performance of derived views and using different joint methodologies like hash nested and mergeltligtltligtschedule jobs using scheduler and importing and exporting views to different databases and preprod environments and document the best practices and be actively involved in design discussionsltligtltulgtltpgtltstronggtwho you areltstronggtltpgtltulgtltligtbachelors degree in computer science or equivalent experience andampnbsp years of software development experienceltligtltligtexperience with docker kubernetes puppet chef ansibleltligtltligtexperience with newrelic or similar monitoring platformsltligtltligtexperience with azure devops gitlabs maven gradle jenkins codefresh or other cicd toolsltligtltligtstrong knowledge of hadoop and associated technologies such as mapreduce and sparkltligtltligthandson experience in the devops model production support and agile methodologies as well understanding the concepts of mlopsltligtltligtexperience in using containerization technologies and cloud azure and pivotal cloud foundry preferredltligtltligtfamiliarity with messaging technology such as kafka experience in using cicd tools such asltligtltligtpossess strong analytical and problemsolving skillsampnbspand proven ability to think objectively and interpret meaningful themes from quantitative and qualitative dataltligtltulgtltligtltligt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:27:20.000Z"
+  },
+  "company": {
+    "name": "Gap Inc.",
+    "link": "https://www.linkedin.com/company/gap-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

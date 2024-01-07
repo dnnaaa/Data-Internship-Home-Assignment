@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltstronggtyoultbrgtltbrgtltstronggtyou are passionate about creative applications of ai to seemingly intractable problems you love impacting the missions of the department of defense and intelligence community you are driven to operationalize ai for close combat and small unit maneuver applications you are not only a big thinker but also a doer creator and inventorltbrgtltbrgtltstronggtusltbrgtltbrgtltstronggtwe were founded as a fresh alternative in the government consulting community and are dedicated to the belief that results are a product of analytical thinking agile design principles and that solutions are built in collaboration with not for our customers this mantra drives us to succeed and act as true partners in advancing our clients missionsltbrgtltbrgtltstronggtprogram missionltbrgtltbrgtltstronggtto respond to an erosion in close combat capability relative to pacing threats identified in the national defense strategy this group integrates next generation situational awareness tools and highresolution digital sensors to deliver a single platform that improves soldier sensing decision making target acquisition and target engagement these capabilities will provide the increased lethality mobility and situational awareness necessary to achieve overmatch against our current and future adversaries in any domainltbrgtltbrgtin support of these efforts the team is building a tactical machine learning operations platform capable of managing the entire ml pipeline data preparation labeling training monitoring and retraining this initiative will address the following mission critical needsltbrgtltulgtltligtconverting ml models and mlops tools to containerized cloud native solutionsltligtltligtpackage mlops tools to serve as platform as a service on the us army tactical cloud package azure andor aws andor google cloud platformltligtltligtstore multisensor multimodel data in a cloud environmentltligtltligtenable multisensor data movement and storage from tactical environment to cloud environmentltligtltligtestablish a cloudbased ml model training data libraryltligtltligtestablish a cloudbased ml model library ltligtltligtenable government employees and military personnel in all aspects of ml application cloud migrationsltligtltligtcreating helm charts for the entirety of each applicationltligtltligtmanage administrative actions customer accounts establish accounts tear down accounts set up alerts for overuse of cloud compute instances ltbrgtltligtltulgtltstronggtltugtwhat wed like to seeltbrgtltugtltstronggtltulgtltligtminimum years building and deploying at scale machine learning and deep learning models graduate level education may be used in place of work experience ltligtltligtminimum years of developing machine learning methods including familiarity with techniques in clustering regression optimization recommender engines artificial neural networksltligtltligthandson experience using deep learning and computer vision libraries such as pytorch tensorflow caffe mxnet opencv keras and scikitltligtltligtexperience with containerization of machine learning applications aws dl containers docker singularity apache mesos openshift kubernetesltligtltligtexperience with cuda and nvidia gpu accelerated libraries for ai ml dlltligtltligtexperience with building analytics for geospatial time series dataltbrgtltligtltulgtltstronggtltugtdesired skillsltbrgtltugtltstronggtltulgtltligtms or phd in computer science data science applied mathematics or other physical science or engineering field ltligtltligttssci clearanceltligtltligtproven experience building ai or data science applications for the us intelligence communityltligtltligtproven experience building ai or data science applications for close combat scenariosltligtltligtproven experience writing and building applications using a factor application software architecture micro services and apifirst methodologiesltligtltligtability to clearly communicate and provide positive recommendation of improvements to existing software applicationsltbrgtltligtltulgtltstronggtyears of experienceltstronggt years of experience or moreltbrgtltbrgtltstronggteducationltstronggt bachelors degree in computer science data science physics applied mathematicsstatistics operation research or other physical scienceengineering fieldltbrgtltbrgtltstronggtlocationltstronggt washington dc metroltbrgtltbrgtltstronggtclearance ltstronggtus citizenship required and ability to obtain dod secret clearance",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Octo",
+    "link": "https://www.linkedin.com/company/octo-consulting-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Belvoir",
+    "region": "VA",
+    "postal_code": "22060",
+    "street_address": null,
+    "latitude": 38.71071,
+    "longitude": -77.14582
+  }
+}

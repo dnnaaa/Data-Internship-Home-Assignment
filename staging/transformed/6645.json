@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (junior)",
+    "industry": "Marketing and Advertising",
+    "description": "ltpgtat pmx the decisioning team is looking for a talented junior data scientist for an exciting opportunity to be involved with building out a predictive analytics framework candidates considered based on their ability to prototype highly parallelized scripts related to solutions anticipating behavior and deriving insights from big data as well as their ability to manage research projects resulting in real world project and data pipelines that support data products ltbrgtltbrgtltpgtltpgtltstronggtresponsibilitiesltbrgtltbrgtltstronggtltpgtltulgtltligtprototype design and implement machine learning natural language processing and predictive analytics scripts in pythonltligtltligtdesign apis that will enable streamlined operation of endtoend frameworksltligtltligtdata wrangle large datasets for purposes of universal schema and feature engineeringltligtltligtwork with client teams on discovery work to identify inefficient processes that can be automatedltligtltligtwork with data engineers to optimize code base for parallel architecture ltligtltligtwork with data engineers on bug fixes client enhancement requests and code optimization ltligtltligtprocessing cleansing and verifying the integrity of data used for analysis ltligtltligtto enjoy being challenged and solve complex problems on a daily basis ltligtltligtexcellent oral and written communication skills ltligtltligtability to work in teams and collaborate across multiple teams ltligtltligtcommunicate concisely and persuasively with engineers and product managers ltbrgtltbrgtltligtltulgtltstronggtqualificationsltbrgtltbrgtltstronggtltulgtltligtbachelors degree in computer scienceengineeringdata scienceltligtltligtexperience with python data preprocessing machine learning apis and nlp apis nltk genism spacyltligtltligtknowledge of statistics and probability theoryltbrgtltbrgtltligtltulgtltstronggtadditional informationltbrgtltbrgtltstronggtltpgtall your information will be kept confidential according to eeo guidelinesltbrgtltbrgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T20:51:56.000Z"
+  },
+  "company": {
+    "name": "Publicis Media",
+    "link": "https://uk.linkedin.com/company/publicismedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76200,
+    "max_value": 100000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

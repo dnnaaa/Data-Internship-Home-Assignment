@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Machine Learning",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "ltstronggtltugtabout upstartltbrgtltbrgtltugtltstronggtupstart is a leading ai lending platform partnering with banks to expand access to affordable credit as we transitioned to being a public company were now poised to leverage our domain expertise and revolutionize every aspect of lending and credit risk evaluation weve recently expanded our offerings to include automobile refinancing and we plan to take on more verticals as the business growsltbrgtltbrgtby leveraging upstarts ai platform upstartpowered banks can have higher approval rates and lower loss rates while simultaneously delivering the exceptional digitalfirst lending experience their customers demand upstarts patentpending platform is the first to receive a noaction letter from the consumer financial protection bureau related to fair lending upstart not only supports a large remote workforce but also has offices in san mateo ca columbus oh and austin txltbrgtltbrgtmost upstarters join us because they connect with our mission of enabling access to effortless credit based on true risk if you are energized by the impact you can make at upstart wed love to hear from youltbrgtltbrgtltstronggtthe teamltbrgtltbrgtltstronggtas a software engineer on the machine learning team youll join an exciting new team focused on providing engineering solutions to enable our research scientists and ml engineers to more effectively realize their value to the business machine learning is critical to upstarts core business and our greatest competitive advantage lies in the fact that were able to innovate on our ai engine quickly this teams mission is to solve software problems in the product that consume our ml models and build infrastructure to allow research scientists to move faster with respect to model training development testing and deploymentltbrgtltulgt ltligtltstronggtltemgtposition locationltemgtltstronggtltstronggt ltstronggt this role is available in the following locations remote san mateo or columbus ltligt ltligtltstronggtltemgttime zone requirementsltemgtltstronggtltstronggt ltstronggt this team operates on either the east or west coast time zonesltligt ltligtltstronggtltemgttravel requirements ltemgtltstronggt this team has regular onsite collaboration sessions six times annually split between the san mateo or columbus office locations if you need to travel to make these meetups upstart will cover all travel related expensesltligt ltbrgtltbrgtltulgtltstronggtltugthow youll make an impactltbrgtltugtltstronggtltulgt ltligtbuild maintain and monitor highquality software applications that enable machine learning models to be applied to the everevolving needs of the businessltligt ltligtdevelop the scaffolding that allows research scientists to integrate models into production services and expose apis to allow other software services to leverage themltligt ltligtenable rapid experimentation and feedback loops in our model serving code so that we have an ability to continuously improveltligt ltligtwork collaboratively with research scientists data engineers and devops engineers to ensure that model training and deployment is a repeatable process that relies heavily on robots not humansltligt ltbrgtltbrgtltulgtltstronggtltugtwhat were looking forltbrgtltugtltstronggtltulgt ltligt years of software engineering experienceltligt ltligtexperience building and maintaining backend software services and apisltligt ltligtfamiliarity with containers continuous integration and kubernetesltligt ltligtexperience with some or many of the following python flaskdjango ruby on rails scikitlearn interactive notebooks jupyterzeppelin apache spark kafka and awsltligt ltligtexcellent quantitative reasoning skillsltligt ltligtinterest in working at the intersection of engineering and machine learningltligt ltligtdesire to be part of a dynamic and fastltligt ltbrgtltbrgtltulgtltstronggtltugtwhat youll loveltbrgtltugtltstronggtltulgt ltligtcompetitive compensation base bonus ampamp equityltligt ltligtcomprehensive medical dental and vision coverageltligt ltligtpersonal development and technology ampamp ergonomic budgets ltligt ltligtlife insurance and disability benefits ltligt ltligtclubs and activities game nights fitstarters superwomen book club investing club money discussions photography club and basketball teams ltligt ltligtgenerous vacation policyltligt ltligtk and employee stock purchase program esppltligt ltligtcatered lunches snacks ampamp drinksltligt ltbrgtltulgtupstart is a proud equal opportunity employer we are dedicated to ensuring that underrepresented classes receive better access to affordable credit and are just as committed to embracing diversity and inclusion in our hiring practices we celebrate all cultures backgrounds perspectives and experiences and know that we can only become better togetherltbrgtltbrgthttpswwwupstartcomcandidateprivacypolicy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T02:32:35.000Z"
+  },
+  "company": {
+    "name": "Upstart",
+    "link": "https://www.linkedin.com/company/upstart-network"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92400,
+    "max_value": 121000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

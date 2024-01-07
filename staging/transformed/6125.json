@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Site Reliability Engineer",
+    "industry": "",
+    "description": "ltpgtthe crs group is currently looking for a site reliability engineer for one of our clients in the riverwoods area the crs group is a nationwide staffing firm who works primarily with fortune and fortune corporationsltpgtltpgtltbrgtltpgtltpgtthe site reliability engineer applies software engineering techniques and discipline to production operations to attack reliability and performance issues to fix them for good sres focus on availability latency performance efficiency change management monitoring emergency response and capacity planning of their services sres have an intense passion for finding and improving efficiencies with infrastructure development and deployment automation as a sre you will lead the efforts of application deployment reliability scalability availability and performance alongside the engineering and infrastructure teams site reliability engineers will work closely with our engineering teams to build mature productionready services and applications as part of the sre team you will help define our standards for monitoring alerting scalability and productionreadiness you will monitor and report on the uptime of our systems and services the performance of our applications and the capacity of our platformltpgtltpgtltstronggtjob dutiesltstronggtltpgtltulgtltligtdefine sre frameworkltligtltligtdefine reliable design patternsltligtltligtdefine canned reliability user stories for feature deliveryltligtltligtdefine what looks good like for baselineampnbspmonitoringalertingltligtltligtdefine scorecards gates technical debt oversight for organizationltligtltligtdefine consistent problem management process pirsltligtltligtjob descriptions training common language definitionsltligtltligtleading teams in developing sre playbooksltligtltligtensure reliability is built into new designsltligtltligtensure canned reliability users stories are executed for every featureltligtltligtperform design reviews of existing apps and production readiness reviewsltligtltligtexecute chaos testingltligtltligtidentify operational functions that need to be automatedltligtltulgtltpgtltstronggtqualificationsltstronggtltpgtltulgtltligtbachelors degree information technology or equivalent experienceltligtltligt years sre experience in highly customerfocused environmentltligtltligtproficiency in designing resilient app patternsltligtltligtexpertise in x site monitoring and ability to own uptime ampamp performance slas for large scale distributed systemsltligtltligtexpertise and operational experience at operating highly available scalable and faulttolerant systems using container platformsltligtltligtfamiliarity with os tuning optimization and system requirements for vertical scalingltligtltligtproficiency in one or more general purpose programming languagesltligtltligtexpertise in automation tools experienceltligtltligtstrong leadership skills and ability to motivate teamltligtltligtability to drive change and motivate engineers to develop simple solutions for complex operational challengesltligtltligtexperience collaborating and partnering effectively with several other teamsltligtltligtexperience leading discussions with senior leadership and are able to tailor the level of technical detail to suit audienceltligtltulgtltpgtltbrgtltpgtltpgtltstronggtaboutampnbspcrs groupltstronggtltpgtltpgtfounded in as computer resource solutions the crs group is a privately held company with offices in itasca il and downtown chicago crsg provides staffing solutions to fortune companies by successfully managing their it contingent workforce needs we expanded our offerings to extend that same highquality service to other business needs including creative marketing finance legal and hrltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T08:22:58.000Z"
+  },
+  "company": {
+    "name": "CRS Group",
+    "link": "https://www.linkedin.com/company/crsgroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

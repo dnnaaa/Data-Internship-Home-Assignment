@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "airtable is a missioncritical system for a diverse set of teams and industries we build our platform to scale stay resilient and deliver a delightful user experience all around our infrastructure requires thorough thinking deep research into how things work and rigorous coding our mission is ambitious but we like to keep our infrastructure simpleltbrgtltbrgtwere looking for site reliability engineers who care deeply about building robust tools and operational practices that enable scale not only will you automate and build the workflows that support scaling out our architecture youll also work closely with the rest of engineering to enable your peers to deliver and manage their features reliably safely and efficientlyltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgt ltligt automate everything deploys rollbacks provisioning failovers testing common tasks and everything in between ltligt ltligt design and implement monitoring tooling that will be used to optimize systems for uptime performance and reliability ltligt ltligt design and write tests that investigate how our infrastructure handles failure and scaling ltligt ltligt build nontrivial internal tooling to support and enable engineering workflows ltligt ltligt research hotoffthepress cves and implement best practices that protect our users ltligt ltligt refine and expand our incident response best practices ensuring that engineers including yourself are able to respond efficiently when incidents do occur ltligt ltulgt ltstronggtwho you areltbrgtltstronggtltulgt ltligt you are thoughtful and thorough whether its scripting bulletproof deployment automation testing scripts writing recovery playbooks or digging into logs monitoring data and code to find the root of a problem ltligt ltligt youve worked with linux containersnamespaces and system automation tools for unix and cloud platforms ltligt ltligt you take pride in writing solid maintainable code ltligt ltligt youre comfortable being paged for major incidents but also work to build fault tolerant systems so that those incidents are a rarity ltligt ltligt you have multiple years of relevant technical experience including significant experience with site reliability developer productivity or devops or server infrastructure engineering ltligt ltulgt ltstronggtwhat we offerltbrgtltstronggtltulgt ltligt we have your medical dental and vision insurance covered and your dependents covered at ltligt ltligt complimentary one medical membership for individuals and dependents ltligt ltligt high deductible health plan with health spend account contribution ltligt ltligt monthly wellness stipend for you to invest in your overall wellness ltligt ltligt mental health support ltligt ltligt family planning support fertility adoption and surrogacy ltligt ltligt generous vacation and sick time ltligt ltligt weeks of parental leave ltligt ltligt learning ampamp development we offer a per year stipend for your personal career development ltligt ltulgt ltstronggtabout airtableltbrgtltstronggtairtable is working on the next computer revolution one where anyone even without technical training can create customized applications that fit their needs build more interconnected teams and take part in a growing community of people who share what they create founded in and headquartered in san francisco airtable powers teams at more than organizations around the world our most recent funding round valued airtable at billion and raised million in additional capital and were just getting started",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T04:14:31.000Z"
+  },
+  "company": {
+    "name": "Airtable",
+    "link": "https://www.linkedin.com/company/airtable"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 119100,
+    "max_value": 259900,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

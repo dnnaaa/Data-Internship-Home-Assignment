@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtjob title machine learningml engineerltstronggtltpgtltpgtltstronggt duration monthsltstronggtampnbspltpgtltpgt ltstronggtlocation full remoteltstronggtltpgtltpgtltstronggt ltstronggtampnbspltpgtltpgtltstronggtdescriptionltstronggtltpgtltulgtltligtcollaborates with ml engineers and other senior architects for ml model onboarding deployment testability and availability for internal clientsltligtltligtwrite automate and execute performance and load running test scripts to measure latency and throughput of ml backend microservices at the edgegateway withwithout cacheltligtltligthelp analyze and troubleshoot performance bottlenecks at edgegateway and ml backend microservices ltligtltligtcreate client integration scriptsample code for internal clients to integrate with gateway serviceltligtltligtexperience with programming in java ltligtltligt years of experience in restful apis and distributed systems using spring frameworks spring bootampnbspltligtltligtexperience with docker and kubernetes ltligtltligtexperience writing test automation suites using junit and mockito ltligtltligtfamiliarity with performance testing write automate and execute performance scripts ltligtltligtexperience with cicd proficiency in jira wiki git github and postman and soapui proficiency in json sql and regular expressions ltligtltligtfamiliarity with agile software development lifecycle ltligtltligtexcellent written and verbal communication skills experience working with multiple stakeholders to produce and review documentationltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T23:17:01.000Z"
+  },
+  "company": {
+    "name": "Aditi Consulting",
+    "link": "https://www.linkedin.com/company/aditiconsulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Semiconductors",
+    "description": "ltpgtltstronggtjob descriptionltstronggtltpgtltpgtltstronggtminimum qualificationsltstronggtltpgtltpgt bachelors degree in engineering information systems computer science or related fieldltpgtltpgt years experience with programming language such as c c java python etcltpgtltpgtltbrgtltpgtltpgtltstronggtpreferred qualificationsltstronggtltpgtltpgtindustry experience in the followingltpgtltpgt software development and system architecture on arm based rtos platformsltpgtltpgt android or other high level os for mobile compute iot or automotive products eg android linux windows etcltpgtltpgt software version control systems such as git perforce etc for large scale software developmentltpgtltpgt c c programming and debug experienceltpgtltpgt software development for embedded platformltpgtltpgt one or more of the following modem protocols evdowcdmalteg system architectureltpgtltpgt rtos software developmentltpgtltpgt scripting language such as perl or pythonltpgtltpgt multimedia audio video camera software developmentdebugintegrationltpgtltpgt understanding of arm processor family and software development on arm processorsltpgtltpgt understanding of bluetooth wifi family drivers and protocolltpgtltpgt embedded system debugging skills jtag basedltpgtltpgt familiarity with modem log analysis eg wcdma lte g g etcltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:31:53.000Z"
+  },
+  "company": {
+    "name": "ManpowerGroup",
+    "link": "https://www.linkedin.com/company/manpowergroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

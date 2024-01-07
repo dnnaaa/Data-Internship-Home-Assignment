@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtzendesk is a servicefirst crm company that builds powerful customizable software designed to improve customer relations at zendesk we encourage growth and innovation and we believe in giving back to the communities we call homeltbrgtltbrgtthe zendesk search infrastructure team is looking for a full time ltstronggtremoteltstronggt position for a wellrounded backend engineer with experience operating large systems at scale our mission is to build manage and scale the search infrastructure at zendesk a combination of self managed clusters and aws managed services our ideal candidate is someone with firsthand experience debugging and fine tuning on both the application layer and the system layer if you have a proven unix sysadmin backgroundand do not mind participating in x supportwe would love the opportunity to talk with you come help us further improve our infrastructure automation so that we can continue to grow with zendesk and our customersltbrgtltbrgtltstronggtltugtwhat you will enjoy doing every dayltbrgtltugtltstronggtltulgtltligtstay on top of new cloud services and evaluate whether cloudnative alternatives can replace our stack components continue to strive toward a fully automated infrastructureltligtltligtevaluate new instances to resolve the best price point as we work with our provider on long term pricingltligtltligtcontinue to enhance the tools we use daily to control our clustersltligtltligtwork closely with product management when new features are being considered by being an advocate for not impacting performance of existing apisltbrgtltligtltulgtltstronggtltugtwhat you bring to the roleltbrgtltugtltstronggtltulgtltligtextensive background in building scaling and operating large backend infrastructuresltligtltligtproven experience with infrastructure as a code we rely on python bash ruby and sometimes java to get our job done an ability to review and understand an unfamiliar language would be preferredltligtltligta passion for graphs and metrics and an understanding of why infrastructure monitoring and alerting is a multifaceted and dynamic process familiarity with datadog is a plus but we expect that any candidate has a solid grasp on metric based monitoringltligtltligtunderstanding the challenges and advantages with maintaining immutable infrastructureltligtltligtrecent experience as a fullstack software developer working in an agile and dynamic development environment making use of continuous delivery and test driven developmentltligtltligtexperience with storage systems like redis dynamodb and sltligtltligta strong experience with elasticsearch internals you need to understand the significance of indices shards and performanceltligtltligta solid understanding of unix andor linux while we arent expecting that you can trace the origin of every packet using tcpdump we will count on you being able to use command line tools to debug issues when application logs are not sufficientltbrgtltligtltulgtltstronggtltugtnice to haveltbrgtltugtltstronggtltulgtltligtexperience with ruby on rails andor other web frameworksltligtltligtexperience with agile development processes working in a fastpaced environment with continuous integrationltligtltligtfamiliarity with technologies like kafka riakltligtltligtexperience working on open source projects with an active github repoltligtltligtexperience with continuous deployment systems like travis jenkins and spinnakerltligtltligtfamiliarity with other search technologies like vespaltbrgtltligtltulgtltstronggtltugtabout zendesk champions of customer serviceltbrgtltbrgtltugtltstronggtzendesk started the customer experience revolution in by enabling any business around the world to take their customer service online today zendesk is the champion of great service everywhere for everyone and powers billions of conversations connecting more than logos with hundreds of millions of customers over telephony chat email messaging social channels communities review sites and help centers zendesk products are built with love to be loved the company was conceived in copenhagen denmark built and grown in california taken public in new york city and today employs more than people across the world learn more at wwwzendeskcomltbrgtltbrgtwe believe in service ltugtlearn moreltugt about how we provide support to our local communities with volunteering grants and product donationsltbrgtltbrgtzendesk is an equal opportunity employer and were proud of our ongoing efforts to foster global diversity equity ampamp inclusion in the workplace individuals seeking employment and employees at zendesk are considered without regard to race color religion national origin age sex gender gender identity gender expression sexual orientation marital status medical condition ancestry disability military or veteran status or any other characteristic protected by applicable law we are an aaeeoveteransdisabled employer if you are based in the united states and would like more information about your eeo rights under the law please ltugtclick hereltugtltbrgtltbrgtzendesk endeavors to make reasonable accommodations for applicants with disabilities and disabled veterans pursuant to applicable federal and state law if you are an individual with a disability and require a reasonable accommodation to submit this application complete any preemployment testing or otherwise participate in the employee selection process please send an email to benefitszendeskcom with your specific accommodation requestltbrgtltbrgtby submitting your application you agree that zendesk may collect your personal data for recruiting global organization planning and related purposes zendesks candidate privacy notice explains what personal information zendesk may process where zendesk may process your personal information its purposes for processing your personal information and the rights you can exercise over zendesks use of your personal information",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:18:46.000Z"
+  },
+  "company": {
+    "name": "Zendesk",
+    "link": "https://www.linkedin.com/company/zendesk"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "District of Columbia",
+    "region": "United States",
+    "postal_code": "20442",
+    "street_address": null,
+    "latitude": 38.90477,
+    "longitude": -77.0163
+  }
+}

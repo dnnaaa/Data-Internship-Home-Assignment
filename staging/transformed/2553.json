@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "qualificationsltbrgtdesign develop test and implement technology solutions utilizing aws technologies ensure technology solutions comply with enterprise architecture standards and principles while identifying opportunities for application reuse and extensibility works with diverse technologies to design develop build test and implement automated solutions for existing and new software provides production support of current applications and collaborates with other developers in order to mature process and reduce technical debt collaborates with business areas to develop a thorough understanding of business processes identify application development solutions enhance new or existing applications integrate purchased or system solutions to meet business requirements documents analyzes and resolves problems tests implements provides ongoing support and assists in responding to audit reviews and findings for existing applicationssoftware applies the appropriate softwaresystem development life cycle methodology collaborates with others in development work to achieve desired results provides planning estimation and management of medium to high complexity projects using established methodologies and practices researches evaluates and recommends application programming solutions identifies ways to reuse existing code and designs prototypes using current or emerging technologies bachelors degree or equivalent combination of education and experience major or coursework in computer science or management information systems mis is preferred minimum of years of real world experience in application development using current technology trends and architectural development solutions experience with the following technologies is required aws cloud native solutions development aws serverless solutions including lambda dynamo db api gateway experience with or more functional and typed languages typescript javascript c java unit testing frameworks advanced analytical skills and the ability to manage multiple projectspriorities are needed strong oral written and interpersonal skills are needed must be comfortable working in an iterative development highly collaborative environment with the ability to lead from various aspects of the sdlc process",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T14:05:51.000Z"
+  },
+  "company": {
+    "name": "TechDigital Corporation",
+    "link": "https://www.linkedin.com/company/techdigital-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Minneapolis-St. Paul Area",
+    "region": null,
+    "postal_code": "55401",
+    "street_address": null,
+    "latitude": 44.981667,
+    "longitude": -93.27795
+  }
+}

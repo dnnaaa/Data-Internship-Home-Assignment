@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "people products data scientistltbrgtltbrgt the people engineering data science team focuses on helping facebook to find awesome new facebookers and once they join us helping them grow and develop their career our focus is on making facebook the best place to work we build internal tools on areas like recruiting performance learn grow we work closely with our product teams and other stakeholders and as a data scientist theres a great opportunity to shape how facebook and the industry thinks about core people issues such as performance engagement mobilityltbrgt the people product data science team is part of the people insights team which includes ds de and uxr for people products and recruitment products we benefit from the close collaboration with our de and uxr partners to combine data insights with qualitative insightsltbrgtltbrgtjob responsibilitiesltbrgtltbrgt apply your expertise in quantitative analysis data mining and the presentation of data to see beyond the numbers and understand how our employees interact with our internal productsltbrgt partner with product and engineering teams to solve problems and identify trends and opportunitiesltbrgt inform influence support and execute our product decisions and product launchesltbrgtthe data scientist analytics role has work across the following four areasltbrgt product operation forecasting and setting product team goals designing and evaluating experiments monitoring key product metrics understanding root causes of changes in metrics building and analyzing dashboards and reports building key data sets to empower operational and exploratory analysis evaluating and defining metricsltbrgt exploratory analysis proposing what to build in the next roadmap understanding ecosystems user behaviors and longterm trends identifying new levers to help move key metrics building models of user behaviors for analysis or to power production systemsltbrgt product leadership influencing product teams through presentation of databased recommendations communicating state of business experiment results etc to product teams spreading best practices to analytics and product teamsltbrgt data infrastructure working in hadoop and hive primarily sometimes mysql oracle and vertica automating analyses and authoring pipelines via sql and python based etl frameworkltbrgtminimum qualificationsltbrgtltbrgt years experience doing quantitative analysis within a largescale company or fastpaced environmentltbrgt babs in computer science math physics engineering statistics or other technical fieldltbrgt experience in sql or other programming languagesltbrgt development experience in any scripting language php python perl etcltbrgt experience communicating the results of analyses with product and leadership teams to influence the strategy of the productltbrgt knowledge of statistics eg hypothesis testing regressionsltbrgt experience manipulating data sets through statistical software eg r sas or other methodsltbrgtpreferred qualificationsltbrgtltbrgt advanced degreesltbrgt experience with distributed computing hivehadoopltbrgt experience working within the tech sector preferredltbrgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:10:15.000Z"
+  },
+  "company": {
+    "name": "SGS Consulting",
+    "link": "https://www.linkedin.com/company/sgs-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

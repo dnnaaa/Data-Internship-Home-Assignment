@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Kubernetes",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtskills kubernetes openshift container platform infrastructure as a codeiac python dockerltbrgtltbrgtltstronggtexperience level associateltbrgtltbrgtexperience required yearsltbrgtltbrgteducation level bachelors degreeltbrgtltbrgtjob function information technologyltbrgtltbrgtrelocation assistance limited assistanceltbrgtltbrgtltstronggtlocation dallas tx or jersey city nj ltbrgtltbrgtltstronggtltstronggtmust haveltbrgtltbrgtltstronggtcontainer migrationltbrgtltbrgtdockerltbrgtltbrgtkubernetesltbrgtltbrgtinfrastructure as a codeiacltbrgtltbrgtltstronggtltugtsummaryltbrgtltbrgtltugtltstronggtwe are looking for a container migration sre who understands the enterprise containers in docker swarm to advanced kubernetes platforms openshift tanzu deployments and has prior experience with container migrations and deployments the container migration sre will bring in kubernetes deployment with software engineering sre standard methodologies this role will be instrumental in continuing our container first strategy delivery bringing expertise with development and implementation of container migration projectsltbrgtltbrgtltstronggtltugtyour primary responsibilitiesltbrgtltbrgtltugtltstronggtlead the container platform ecosystemltbrgtltbrgtcluster capacity management and provisioning through automation of underlying hostsltbrgtltbrgtunderstanding the infrastructure components server network storage firewall load balancer etc required for kubernetes platform infrastructure as a codeiacltbrgtltbrgtdeveloper differentiatorltbrgtltbrgtexperience with a modern application software language especially a systems programming language go pythonltbrgtltbrgtunderstanding of architectural patterns microservices are important but experience with other patterns helpfulltbrgtltbrgtpractitioner of version control experience with different branching strategies and understands why gitflow is not a good choice for cicd and enterprise development teamsltbrgtltbrgtunderstands and uses unit and functional testing ideally advocates tests up front advocates tests for moving fasterltbrgtltbrgtexperience defining delivery pipelines demonstrable work in automation and observability bonus points for experience using gitops for deploymentltbrgtltbrgtunderstand ks resiliency patterns hpa selfhealingltbrgtltbrgtunderstands container image optimizationltbrgtltbrgtltstronggtqualificationsltbrgtltbrgtltstronggtltstronggtltugtminimum of years of related experienceltbrgtltbrgtltugtltstronggtbachelors degree requiredltbrgtltbrgtkubernetes andor tanzu or openshift container platformltbrgtltbrgtkubernetes and pythonltbrgtltbrgtexpertise in tanzu solutions as a service offeringsltbrgtltbrgtexperience delivering infrastructure as code using cicd practicesltbrgtltbrgtproven track record of applying technology to tackle business problemsltbrgtltbrgtexperience with migrateonboard application onto kubernetesltbrgtltbrgtaws associate certifications or higher preferredltbrgtltbrgtredhat certifications in linux and openshift administration preferredltbrgtltbrgtpowered by jazzhrltbrgtltbrgtrzqzulm",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T07:01:17.000Z"
+  },
+  "company": {
+    "name": "MetaOption LLC",
+    "link": "https://www.linkedin.com/company/metaoption"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

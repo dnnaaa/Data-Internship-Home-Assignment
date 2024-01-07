@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Insurance,Financial Services",
+    "description": "signal advisors helps independent financial advisors grow their business in various ways through technology financing peertopeer coaching marketing and much more we have become the countrys fastestgrowing annuity distributor since emerging from stealth mode in the fall of ltbrgtltbrgtat signal advisors our team is obsessed with finding a better way in everything we do whether were building worldclass software or delivering expert analysis on complex insurance strategies its our people that make the difference if you like to think differently and are excited about driving broad impact in a vast sector like financial services come join our entrepreneurial and optimistic teamltbrgtltbrgtltstronggtltugtabout this roleltbrgtltbrgtltugtltstronggtwe are seeking a site reliability engineer that can create and manage cuttingedge cloud infrastructure for the signal advisors platform our vision is to create an industryleading microservices platform on gcp and aws to quickly deliver resilient scalable software for a quickly growing financial services business these services for our independent financial advisor platform handle sensitive business data in a secure fashion and help expose functionality like paying commissions encrypting documents or sending notifications experience in the financial services sector is desired but not requiredltbrgtltbrgtltstronggtyou willltbrgtltstronggtltulgtltligtwork with cloud engineers and software architects to deliver highly available software that supports the platformltligtltligtdeploy and manage monitoring and observability platformltligtltligtidentify and recommend tooling that will enable fast but reliable service deliveryltligtltligttake ownership of backend infrastructure and recommend best practices for improving service reliabilityltligtltligtmanage backend infrastructure that resides in gcp and awsltligtltligtmanage a continuous integration system and its deployed pipelinesltligtltligtidentify opportunities to improve current infrastructure and tooling according to bestltligtltligtpracticesltligtltligtcreate and maintain terraform assets for standing infrastructure upltligtltligtwork with clients to remedy technical issues they are facing in the platformltbrgtltbrgtltligtltulgtltstronggtyou haveltbrgtltstronggtltulgtltligtexperience with gcp and aws managed services like cloud run cloud datastore lambdacloud functions and firebaseltligtltligtused terraform to provision services across cloud platformsltligtltligta good understanding of the iam permissions system in gcp and awsltligtltligtexperience with continuous integration systems specifically circleciltligtltligtworked with both monitoring and observability toolsltbrgtltbrgtltligtltulgtltstronggtnice to haveltbrgtltstronggtltulgtltligt years experience working with kubernetes and gke to host microservices and other programsltligtltligtexperience with openapi or other api design and documentation toolsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T17:26:39.000Z"
+  },
+  "company": {
+    "name": "Signal Advisors",
+    "link": "https://www.linkedin.com/company/signaladvisors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Detroit",
+    "region": "MI",
+    "postal_code": "48242",
+    "street_address": null,
+    "latitude": 42.33294,
+    "longitude": -83.04784
+  }
+}

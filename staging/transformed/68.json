@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Data Engineer, Analytics - Apple Media Products",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtthe apple media products engineering team is one of the most exciting examples of apples longheld passion for combining art and technology these are the people who power the app store apple tv apple music apple podcasts and apple books and they do it on a substantial scale meeting apples high expectations with high performance to deliver a huge variety of entertainment to millions of customersltbrgtltbrgtltbrgtapple media products analytics is looking for an outstanding engineer to help develop an analytics platform that will generate insights into customer experiences on products such as the apple music app store and bookstore our stores reach hundreds of millions of customers around the world and have revolutionized how people interact with their music movies tv shows apps books and podcastsltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtdemonstrated proficiency in data management and automation on spark hadoop and hdfs environmentsltbrgtltbrgtexperience managing data in relational databases and developing extracttransformload etl pipelinesltbrgtltbrgtknowledge of maintaining and debugging systems in java runtime environments jresltbrgtltbrgtproficiency in java and scala orand c clojure or a similar objectoriented languageltbrgtltbrgtdeep understanding and strong hands on experience with multithreading networking including nonblocking io etcltbrgtltbrgtconfidence with sql databases like oracle and with nosql databases like cassandraltbrgtltbrgtexperience driving product features functional specifications and development schedulesltbrgtltbrgtable to represent their team and the teams technologiesltbrgtltbrgtpassion and prior experience designing and implementing large distributed systemsltbrgtltbrgtdesire to be an advocate and driver for performance optimization automation and unit testsltbrgtltbrgtable to pick up new technologies quicklyltbrgtltbrgtexcellent debugging critical thinking and communication skillsltbrgtltbrgttireless attention to detailltbrgtltbrgtsolid documentation and technical writing skillsltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtthe amp analytics team is responsible for collecting analyzing and reporting on customer experiences from this data we generate insights into how customers interact with our products and use these insights to drive improvements to userfacing features you will be working on a small team that highly values cooperation and brainstorming with equal emphasis on design and implementation you will be responsible for developing systems tools and visualizations to make sense of the data we are looking for a sharp engineer who also has a keen sense of how to build good products you are also a great teammate ready to engage in lively design discussions and able to give and receive constructive code reviews your curiosity drives you to explore new technologies and apply creative solutions to problems the ideal candidate pays close attention to details but also keeps sight of the bigger pictureltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs degree in computer science or a related fieldltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgt proficiency with source control systems svn git and build tools such as gradle maven etcltbrgtltbrgtltbrgt experience with the bigdata ecosystem spark hadoop hive pig etcltbrgtltbrgtltbrgt built and deployed large scale data pipelines eg kafka spark stormltbrgtltbrgtltbrgt understands different data storage solutions and when to use them eg rdbms cassandra solr redisltbrgtltbrgtltbrgt experience implementing and administering logging telemetry and monitoring tools like splunk is a plusltbrgtltbrgtltbrgt experience in cluster managementorchestration software like mesos aurora or ansible using tools such as docker is a plusltbrgtltbrgtltbrgt experience working with cloud based environment a plusltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:03:11.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83700,
+    "max_value": 182100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

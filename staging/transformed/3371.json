@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "ltpgtthis role is starting onsite in stamford ct ltpgtltpgtduration month contract possible extensions ltpgtltpgtltbrgtltpgtltpgtmusthaves ltpgtltpgt years of experience as a data engineer andor machine learning engineer ltpgtltpgtexpert python and sql skills ltpgtltpgtexperience with version control systems like githubltpgtltpgtltstronggtampnbspltstronggtltpgtltpgtplusses ltpgtltpgtaws ltpgtltpgtltstronggtampnbspltstronggtltpgtltpgtdaytoday ltpgtltpgtinsight global is looking for a machine learning engineer for one of the leading telecom providers in the nation this engineer will spend of their time building data pipelines and automating machine learning models working with data scientists to understand the requirements and working with the product manager to keep track of deadlines this engineers main goal is to productionalize and automate the data science teams machine learning model they want to build an automated universal model to prevent data scientists from having to build the model over and over again here is an example of what the machine learning model does whenever customers face an issue with the internet they call tech support to resolve the issue whenever issue cannot be resolved over the phone the company will send out a tech to the customer to fix the problem they call this truck roll the machine learning model created by the teams data scientists predicts how manywhich customers are going to call tech support so that they can proactively work on the issue to prevent the customer from calling or prevent having to do a truck rollampnbspltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T12:42:06.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Stamford",
+    "region": "CT",
+    "postal_code": "06928",
+    "street_address": null,
+    "latitude": 41.051926,
+    "longitude": -73.539474
+  }
+}

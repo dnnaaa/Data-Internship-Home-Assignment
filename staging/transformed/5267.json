@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer Manager - Machine Learning",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtapples gpu compute and advance rending team provides a suite of high performance gpu algorithms and computation graph for developers inside and outside of apple for ios macos and tvos team is passionate about providing acceleration for machine learning frameworks like tensorflow ampamp pytorch and algorithms across machine learning linear algebra image processing and ray tracing on apples gpus we are always looking for exceptionally hardworking individuals to grow our outstanding teamltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtproven programming and problem solving skillsltbrgtltbrgtgood understanding of machine learning fundamentalsltbrgtltbrgtexperience with system level programming and computer architectureltbrgtltbrgtstrong communication and teamwork skillsltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtour team is looking for an engineering manager to lead the team responsible for building and maintaining gpu acceleration support for machine learning frameworks like tensorflow and pytorch and collaborating with driver compiler metal frameworks and hardware groups to provide the best acceleration of ml training on current and future hw the ideal candidate would have previous technical leadership experience machine learning experience understanding of gpu architecture and be willing to learn about new technologiesltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs or ms degree or equivalent experienceltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgt experience with machine learning libraries tensorflow pytorch adding runt time and computation graph support is a plusltbrgtltbrgtltbrgt experience with high performance parallel programming gpu programming experience a plusltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:30:31.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

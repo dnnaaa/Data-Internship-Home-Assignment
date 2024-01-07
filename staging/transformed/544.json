@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Test",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "at genesys weve built the best cloudbased customer experience cx service offerings which handles millions of interactions a day our infrastructure involves hundreds of services deployed across environments globally and we push out dozens of product builds per day using a topnotch cicd pipelineltbrgtltbrgtwe are looking for a talented software engineer test to work with our data analytics team focusing on automated testing of big data processing and batch data actionsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligthelp develop new features for our platform service with quality built in ltligtltligttriage failed automated test executions and report defects when appropriate ltligtltligtparticipating in code reviews direct collaboration and open discussion of ongoing work ltligtltligtdevelop automation for new features and processes ltligtltligtassist development teams on testing best practices ltligtltligtdetermine whether to deploy new code to production regions ltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligta bachelor of science degree in computer science or related degree or equivalent in work experience ltligtltligtproficiency using java ltligtltligtprevious experience using test frameworks like selenium and testng ltligtltligtunderstanding of cloud computing ideally aws ltbrgtltligtltulgtltstronggtltugtnice to haveltbrgtltugtltstronggtltulgtltligtagilescrum experience ltligtltligtbest practices for cicd ltligtltligtproficiency using python ltligtltligtexperience testing restful apis ltligtltligtexperience with big data tools like apache spark ltligtltligtexperience with amazon elastic mapreduce emr ltligtltligtexperience using version control systems like github and bitbucket ltbrgtltligtltulgtltstronggtltugtbenefitsltbrgtltugtltstronggtltulgtltligtmedical dental and vision insurance ltligtltligttelehealth coverage ltligtltligtflexible work schedules and work from home opportunities ltligtltligtdevelopment and career growth opportunities ltligtltligtopen time off ltligtltligtk matching program ltligtltligtadoption assistance ltligtltligtinfertility treatments ltbrgtltligtltulgtsee more genesys benefits information at httpsmygenesysbenefitscom",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-01T00:51:21.000Z"
+  },
+  "company": {
+    "name": "Genesys",
+    "link": "https://www.linkedin.com/company/genesys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Indianapolis",
+    "region": null,
+    "postal_code": "46201",
+    "street_address": null,
+    "latitude": 39.76474,
+    "longitude": -86.16893
+  }
+}

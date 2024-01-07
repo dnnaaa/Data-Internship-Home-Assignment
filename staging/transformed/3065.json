@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "ltstronggtltugtabout datadogltbrgtltbrgtltugtltstronggtwere on a mission to build the best platform in the world for engineers to understand and scale their systems applications and teams we operate at high scaletrillions of data points per dayproviding alwayson alerting metrics visualization logs and application tracing for tens of thousands of companies our engineering culture values pragmatism honesty and simplicity to solve hard problems the right wayltbrgtltbrgtltstronggtltugtthe opportunityltbrgtltbrgtltugtltstronggtyou will have a fantastic team of data engineers to support you a collaborative environment to encourage your work and the best technologies for performing data science at high scale in your toolkitltbrgtltbrgtltstronggtltugtyou willltbrgtltugtltstronggtltulgt ltligtpresent the latest academic research papers to your teamltligt ltligtresearch and benchmark the latest algorithms that can be used for our particular usecasesltligt ltligtapply machine learning algorithms and statistical techniques to build new product featuresltligt ltligtdeploy a new feature to production instantly affecting customers with your workltligt ltligtmentor other data scientists on your teamltligt ltligtexplore and find meaning in extremely high volumes of dataltligt ltligtinvestigate and fix a production issue from a service your team ownsltligt ltbrgtltbrgtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgt ltligtyou have years professional experienceltligt ltligtyou are fluent with sql relational algebraltligt ltligtyou have mastered working with data in a language such as python r or julialtligt ltligtyouve done data science at high scale with tools like hadoop and sparkltligt ltligtyou have backend programming experience in one or more languagesltligt ltligtyou have significant experience applying machine learning to real business problemsltligt ltligtyou want to work in a fast highgrowth startup environment and thrive on autonomyltligt ltligtyou care about code simplicity and performanceltligt ltligtyou have a bsmsphd in a scientific field or equivalent experienceltligt ltligtyou can explain complex ideas and algorithms in understandable waysltligt ltbrgtltbrgtltulgtltstronggtltugtbonus pointsltbrgtltugtltstronggtltulgt ltligtyouve written production data pipelinesltligt ltligtyoure familiar with time series analysisltligt ltbrgtltbrgtltulgtltstronggtltugtequal opportunity at datadogltbrgtltbrgtltugtltstronggtdatadog is an affirmative action and equal opportunity employer and is proud to offer equal employment opportunity to everyone regardless of race color ancestry religion sex national origin sexual orientation age citizenship marital status disability gender identity veteran status and more we also consider qualified applicants regardless of criminal histories consistent with legal requirementsltbrgtltbrgtltstronggtltugtyour privacyltbrgtltbrgtltugtltstronggtany information you submit to datadog as part of your application will be processed in accordance with datadogs applicant and candidate privacy notice",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T15:11:01.000Z"
+  },
+  "company": {
+    "name": "Datadog",
+    "link": "https://www.linkedin.com/company/datadog"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91300,
+    "max_value": 192000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10001",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Apparel &amp; Fashion,Furniture,Retail",
+    "description": "artifact is looking for data scientists and nlp researchers at various skill levels to join our growing teamkey ml focus areasnatural language processingnatural language understandingknowledge graphs and graph neural networkswhat youll be doingby using massive amounts of historical and realtime qualitative data you will help research develop and automate models for semantic understanding text similarities clustering sentiment and emotion and expressive summarizationone example build enhance our endtoend solution that analyzes historical customer conversations and answers user questions as a summarized insight beyond answering allow the user to facet and pivot the data while updating the summary insight dynamicallywork with product management and design roles to understand and empathize with end customer needsbuild endtoend ml solutions spanning from data access sql to model endpoint api batch service and deploy to cloud based staging environments kubernetes on gcp by collaborating with software engineerscollaborate with our academic partners and research new ml techniques enhancements and publish blogs or journal conference papersopen source code or software that will benefit the larger community of ml practitionersideal candidatehas solid fundamentals in approaching and solving ml ds problems think data source data lineage data transformation data age and relevance model consumption post consumption action etcleans towards action and experimentation with a priority towards rapid prototypingapproaches problems from a first principles mindset and question assumptionshas dived deep and spent a good amount of time solving one ml problemis naturally curious and willing to take a step to learn something they dont have experience inhas experience with sql python nltk or spacy or other nlp libraries pytorch or jax or tensorflow dgl and data visualization experience is a plusexperience bonusmasters degree or phd in computational linguistics engineering statistics or related fieldprevious experienceeducation in syntax semantics and morphologyexperience with semantic understanding and summarization of short phrases across a heterogenous corpusexperience collaborating with software development teams data scientists business intelligence or other technical rolescompany benefitsnocost insurance premiums we cover the cost of your medical dental and vision insurance premiumsflexible insurance options we offer epo pos fsa plans and hdhp coverage for you to choose from everyones situation is differentk plan we want you to be physically emotionally and financially securecorporate expense card every employee gets a corporate expense card to use because youre an adult unless youre a child prodigy and then well talk about itbrand new equipment well pay for your work equipment and machinesflexible work environment were a distributed company we know schedules and environments are different for everyone we dont hold office hours we just trust youll make appropriate agreements with your teammonthly activity expense up to each month on activities dinner movie skiing boating golfing etcoffice snack expense up to each month on snacks for your home officelibrary card expense your audible premium membership or spend up to each month on bookscell phone reimbursement expense up to each month on your phone bill",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T15:44:51.000Z"
+  },
+  "company": {
+    "name": "Artifact",
+    "link": "https://www.linkedin.com/company/artifact-insights"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "American Fork",
+    "region": "UT",
+    "postal_code": "84003",
+    "street_address": null,
+    "latitude": 40.376762,
+    "longitude": -111.79587
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Remote - Europe)",
+    "industry": "Information Technology and Services",
+    "description": "ltstronggtabout kentikltbrgtltbrgtltstronggtkentik is the network observability company many of the worlds most recognizable brands rely on our saas platform to make sense of their networks relying on our infinite granularity automated insights and insanely fast search to answer key business questions our rapidly growing geographically distributed engineering team builds stateoftheart products that are supported by a truly big data platform that processes trillions of records per day to this end our engineering culture emphasizes collaborative communication openness to ideas and practical solution design to find out more read our blog at kentikcom and follow us kentikinc ltbrgtltbrgtthe true meaning of kentik is visibility we are committed to making sure everyone feels empowered to use their voice has a sense of belonging and is represented at kentik we dont look for individuals who fit the culture but those who will continue to add to the culture we encourage everyone to apply especially those individuals who are underrepresented in the industry people of color lgbtqi community women individuals with disabilities both seen and unseen veterans people of any age or family statusltbrgtltbrgtltstronggtabout the roleltbrgtltbrgtltstronggtkentik the leading network analytics platform is looking for an experienced site reliability engineer to join its sre team the sre team is responsible for architecting building monitoring and maintaining the infrastructure and services that the kentik platform runs on top ofltbrgtltbrgtwe operate a wellorganized wellinstrumented platform with an emphasis on results rather than process were expanding fast and offer enormous opportunities for employee growthltbrgtltbrgtwere looking for an experienced sre with an eye for detail able to collaborate in a global company and take kentik to the next level by utilizing their experience and knowledgeltbrgtltbrgtltemgtdue to our oncall schedule followthesun working hours in european time zones is a requirement for this positionltbrgtltbrgtltemgtltstronggtwhat to expectltbrgtltstronggtltulgtltligta truly remote global team and company across many countries and many time zonesltligtltligta realtime scalable microservicesbased infrastructure running on free software across multiple locations and all major cloud vendorsltligtltligtdeepdiving into diverse topics from netflow and ip routing to database replication strategies or http optimizationltligtltligtcontribute code code reviews and tools or patches to all kinds of existing codeltligtltligttake part in incident handling compiling postmortems rcas providing input at all stagesltligtltligtprovide valuable feedback on team goals projects and processes we believe in continuously improving our teamltligtltligtwrite design documents or collaborate on colleagues docs to introduce new features or changes into our infrastructureltbrgtltbrgtltligtltulgtltstronggtyou may be a good fit if you haveltbrgtltstronggtltulgtltligt years of relevant sre experience ideally youve worked in a microservices environment in the past and feel comfortable working with complex architecturesltligtltligtcommunication kentik is a remotefirst company so were looking for a team player who is able to collaborate in an asynchronous environment via tools such as email google docs slack zoom and gitltligtltligthttp experience you know what tls nginx haproxy or http headers areltligtltligtnetworking experience terms such as routes and iptables sound familiarltligtltligtan urge to document code processes and infrastructure in runbooks and wikisltligtltligtinfrastructure as code sounds like a good idealtligtltligta preference to automate your way out of tedious and repetitive tasks toil is badltligtltligtsome familiarity with coding in python ruby or go while using git to record your changesltligtltligtexperience with cloud architectures and technologiesltbrgtltbrgtltligtltulgtltstronggtthe list is not exhaustive or in any way a checklist well be happy to hear about any other skills or experience you may haveltbrgtltbrgtltstronggtltstronggtour tech stackltbrgtltstronggtltulgtltligtour core data engine and platform are primarily written in goltligtltligtwe use nodejs express for application serving and react as our primary ui frameworkltligtltligtwe also use some js and python for toolingscriptingltligtltligtin addition to our own database we use postgres kafka mysql and redisltligtltligtinternal and public apis expose both restjson and grpc endpointsltligtltligthaproxy envoy for api traffic routing and balancingltligtltligtgithub for source control prs issuesltligtltligtjenkins for automated buildsltbrgtltbrgtltligtltulgtltstronggthealthcare and leaveltbrgtltstronggtltulgtltligtmedical dental and vision that is covered for employees ampamp dependentsltligtltligthealth reimbursement accountltligtltligtmaternitypaternity leave medical leave to care for yourself or a loved oneltligtltligtstock optionsltligtltligtflexible time offltligtltligtvanguard kltligtltligtbenefits are as listed for us employees local health insurance coverage and similar benefits are provided for employees outside of the usltbrgtltbrgtltligtltulgtltstronggtperks and reimbursement programsltbrgtltstronggtltulgtltligt per month for wellness expenses and activitiesltligtltligtinternet phone reimbursementltbrgtltbrgtltligtltulgtltstronggtcome work with usltbrgtltbrgtltstronggtwe promise it will be worth it you will be working at a fastgrowing wellfunded startup alongside worldclass engineers and thought leaders as we build the future of network observability and digital operations with a competitive salary and firstrate benefits on top of meaningful challenging projects were sure you will enjoy joining our team",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T20:48:07.000Z"
+  },
+  "company": {
+    "name": "Kentik",
+    "link": "https://www.linkedin.com/company/kentik"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

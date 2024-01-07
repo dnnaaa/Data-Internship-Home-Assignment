@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Machine Learning Engineer",
+    "industry": "Airlines/Aviation",
+    "description": "ltpgtltstronggttechnologyitltstronggtltpgtltpgtthe united it team designs develops and maintains massively scaling technology solutions that are brought to life with innovative architectures data analytics and digital solutionsltpgtltpgtltbrgtltpgtltpgtltstronggtjob overview and responsibilitiesltstronggtltpgtltpgtyoull be part of an agile team dedicated to building the enterprise machine learning infrastructure and productionalizing machine learning services youll collaborate with data scientists data engineers it teams and business stakeholders to participate in the technical design and development of machine learning applications and integrations with production systems youll ensure that applications and data pipelines meet production standards and performance expectations youll have the opportunity to continuously learn and directly apply the latest innovations and emerging best practices to keep united airlines at the cutting edge of technologyltpgtltulgtltligtarchitect and build core components of the machine learning platform infrastructureltligtltligtwork crossfunctionally with data scientists data engineers it teams and business stakeholders to design develop deploy and integrate highperformance machine learning solutions and data intensive workflowsltligtltligtpartner with data scientists and data engineers to build highperformance efficient feature pipelines from backend data sources to train models and serve features to machine learning applicationsltligtltligtpartner with data platform and operations teams to solve complex data ingestion pipeline and governance problems for machine learning solutionsltligtltligttake ownership of production systems with a focus on delivery continuous integration and automation of machine learning workloadsltligtltligtprovide technical mentorship guidance and qualityfocused code review to data scientists and ml engineersltligtltulgtltpgtampnbspltpgtltpgtltstronggtrequiredltstronggtltpgtltulgtltligttechnical education in computer science engineering or equivilent experience masters degree or higher preferredltligtltligt years of software engineering experience mlfocused highly preferredltligtltligt years of experience developing cloudnative solutions aws preferredltligtltligtfamiliarity with the practical aspects of machine learning and experience with common technologies and frameworks such as pandas numpy pytorch tensorflow spark scikitlearn mxnetltligtltligtproficient in python and at least one additional language such as cc java kotlin go rustltligtltligtstrong communication skills and the ability to explain complex engineering concepts to nontechnical audiencesltligtltligtselfstarter and selfmotivated with the proven ability to deliver results in a fastpaced highenergy environmentltligtltligtstrong desire to learn new technologies and stay aligned with the latest developments in the machine learning engineering communityltligtltligtmust be legally authorized to work in the united states for any employer without sponsorshipltligtltulgtltpgtampnbspltpgtltpgtltstronggtpreferredltstronggtltpgtltulgtltligtaws certified solution architect associate or professionalltligtltligtexperience working as a machine learning engineer or data scientistltligtltligtexperience building realtime stream processing solutions with technologies such as kafka flink and sparkltligtltligtexperience with kubernetesltligtltulgtltpgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T15:39:46.000Z"
+  },
+  "company": {
+    "name": "United Airlines",
+    "link": "https://www.linkedin.com/company/united-airlines"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

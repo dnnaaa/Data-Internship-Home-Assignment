@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtdo you have experience working with or building information retrieval search or question answering systems are you passionate about functional and operational performance do you want a chance to use cuttingedge tools technologies and work in close collaboration with machine learning scientist to deliver value to millions of customersltbrgtltbrgtamazon is looking for a machine learning engineer for initiatives within alexa web info which is part of our ongoing alexa information efforts focused on reinventing information extraction and retrieval for a voiceforward multimodal futureltbrgtltbrgtyou will have an opportunity to directly impact the customer experience design architecture and implementation of products that will be used every day by people you know were looking for someone passionate about innovating on behalf of customers who demonstrates strong product ownership and is willing to think in new ways to solve difficult problemsltbrgtltbrgtjob responsibilitiesltbrgtltulgtltligt collaborate closely with applied scientists on machine learning operations tasks ranging from ml data management to training and deployment of ml models this work will be primarily based on python and a distributed computing framework eg sparkltligtltligt develop data collections labeling pipelines and evaluation pipelines research and develop machine learning models for text training resourcesltligtltligt design and build textbased storage and indexing systems in a large distributed computing environment and ensure these systems are scalable faulttolerant low cost and easy to manageuse etcltbrgtltligtltulgtamazon is committed to a diverse and inclusive workplace amazon is an equal opportunity employer and does not discriminate on the basis of race national origin gender gender identity sexual orientation protected veteran status disability age or other legally protected status for individuals with disabilities who would like to request an accommodation please visit httpswwwamazonjobsendisabilityusltbrgtltbrgtltbrgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligt years of experience contributing to the architecture and design architecture design patterns reliability and scaling of new and current systemsltligtltligt years of noninternship professional software development experienceltligtltligt programming experience with at least one modern language such as java c or c including objectoriented designltligtltligt years of noninternship professional software development experienceltligtltligt programming experience with at least one modern language such as java c or c including objectoriented designltligtltligt years of experience contributing to the architecture and design architecture design patterns reliability and scaling of new and current systemsltligtltligt experience in ml as listed in preferred qualificationsltbrgtltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltbrgtltugtltstronggtan ideal candidate will have experience or have demonstrated expertise in some of the followingltbrgtltulgtltligt ms or phd in computer science or equivalent experience in mlltligtltligt ml data management collect store manage data creating training datasets data labeling feature engineering data partitioning sampling and slicing building and training machine learning infrastructure model deployment inference constraints model compression server and client side ml employment evaluation ml infrastructure monitoring and maintenance familiarity with architectural choices for ml systemsltligtltligt prior experience with using or maintaining a nosql database eg mongodb is a plusltligtltligt prior programming experience and expertise in python and basic ml libraries such as numpy scipy and a distributed computing framework eg spark is a plusltligtltligt experience managing and running mturk experimentsltligtltligt adept at handling ambiguous or undefined problemsltligtltligt prior experience working in collaboration with mldata scientistsltbrgtltbrgtltligtltulgtltstronggtcompanyltstronggt amazoncom services llcltbrgtltbrgtjob id a",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T09:39:25.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

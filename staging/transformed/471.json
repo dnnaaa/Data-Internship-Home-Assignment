@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer | MLOps",
+    "industry": "",
+    "description": "lucd is a growing enterprise ai software company that is passionate about democratizing ai we are building our team to solve the biggest challenges which are slowing the adoption of artificial intelligence for government and industry across the globeltbrgtltulgtltligt we are remote ltligtltligtwe operate on flexible workdays with a goalbased cultureltligtltligtwe provide quality compensation packagesltligtltligtwe offer generous stock options to our teamltbrgtltligtltulgtenterprise ai stakeholders need robust capabilities for enforcing ai governance in accordance with their specific business needs for example defining policies for identifying biased datasets or ai models and assessing degree of fitness of a model for production deploymentltbrgtltbrgtwe are looking for a machine learning engineer with a passion for machine learning operations mlops to support the development of a wellarchitected highly performant and intuitively configurable ai lifecycle management system as a core part of lucds product strategyltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltbrgtltugtltstronggtltstronggtjob requirementsltbrgtltbrgtltstronggtltstronggtltugtthis primarily includes the following responsibilitiesltbrgtltbrgtltugtltstronggtthe primary responsibilities for this machine learning engineer position will focus on developing machine learning operations ml ops capabilities for the lucd platform in support of the needs stated aboveltbrgtltulgtltligtcontributing to the architecture and implementation of an extensible ml ops framework enabling governance capabilities such as but not limited to data quality measurement ai model experimentation and ai production model monitoring all facilitated in a customized and automated manner the targeted ai production environments might include cloudbased api services or edge deployments eg embedded or mobile devicesltligtltligtcontributing to product capabilities supporting data and model management for largescale distributed andor federated ai platformsltligtltligtcontributing to product features further enhancing the no to lowcode ai development capabilities of the lucd platform ie translating common ai operations and workflows into graphical interfaces and developing the backend microservices needed to support themltbrgtltligtltulgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligtbs in computer science data science or related field of studyltligtltligtstrong understanding of the overall ai development workflow including ml ops activitiesltligtltligtstrong python and cbased language development skillsltligtltligtworking knowledge of linux systemsltligtltligt years of professional experience developing machine learning based solutions including performing data engineering and data analysis activities using leading enterprisegrade frameworks such as tensorflow pytorch xgboost scikitlearn and mxnetltligtltligt years of professional experience deploying and maintaining machine learning models in production environmentsltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligtms in computer science with a focus on machine learning or data science data science or related field of studyltligtltligtsolid understanding of scalable enterprise cloud software frameworks such as kubernetesltligtltligt years of experience with ai model andor data bias detection and mitigation and addressing other related ai ethics topicsltligtltligt years of experience with using programming frameworks for distributed computation and data processing eg dask spark rapidsltligtltligt years of experience with workflow management frameworks eg apache airflow luigi kubeflowltligtltligt years of experience with opensource data search and storage systems such as elasticsearch andor apache accumuloltligtltligt years of experience with agile development including knowledge of cicd toolsets eg gitlabltbrgtltligtltulgtsdl",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T16:31:58.000Z"
+  },
+  "company": {
+    "name": "Lucd",
+    "link": "https://www.linkedin.com/company/lucd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Infrastructure Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtapple is looking for machine learningdeep learning infrastructure engineers to develop infrastructure for various mldl applications your work will enable researchers and engineers to build production mldl models at scale join apple and help us leave the world better than we found itltbrgtltbrgtltbrgtwhat youll doltbrgtltbrgt develop highly scalable and reliable machine learning infrastructure that can perform model training and evaluation on a massive scaleltbrgtltbrgt build vital tools and infrastructure to monitor and understand the performance of complex systemsltbrgtltbrgt support the team to deploy models in a mission critical environmentltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtstrong background in building scalable and faulttolerant distributed systems ideal candidates have past experience in building applications such as data pipelines data cachingstorage systems andor rpc servicesltbrgtltbrgtstrong programming background with extensive experience in python experience with c is a plusltbrgtltbrgtfamiliarities with grpc ml model deployments ray spark fullstack web developments are a plusltbrgtltbrgtprevious experience with developing machine learning infrastructure or experience in using gpus is a plusltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtyoull join a phenomenal team of hardworking engineers and researchers with deep experience in robotics machine learning and software engineering we hope youre excited about the values that drive usltbrgtltbrgt passion for the mission were here to make something great we take on whatever work is right for the product and strive for the best possible resultsltbrgtltbrgt modesty the right answer is more important than being right we search for solutions as a team and value cleareyed feedbackltbrgtltbrgt lean habits you cant grow without limits time constraints and big goals encourage us to sharpen our focus and learn to make great decisionsltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbachelors masters or phd degree in computer science or equivalent professional experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T05:30:47.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 135000,
+    "max_value": 213000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

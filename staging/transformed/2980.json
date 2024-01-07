@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps/Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "ltstronggtour stackltbrgtltbrgtltstronggtltstronggtapplication monitoringltstronggt instana cloudwatch elk prometheus influx grafanaltbrgtltbrgtltstronggtalerting system ltstronggtpagerdutyltbrgtltbrgtltstronggtinfrastructure as codeltstronggt terraform cloudformationltbrgtltbrgtltstronggtaws cloudltstronggt lambda eks ecs ec dynamodb auroradb kinesis sns sqs redshift api gateway cloudfront s iamltbrgtltbrgtltstronggtedgeside compute waf ltstronggtcloudflareltbrgtltbrgtltstronggtcicd ltstronggtgithub actions jenkins teamcityltbrgtltbrgtltstronggtsource control ltstronggtgithubltbrgtltbrgtltstronggtprocessltstronggt jira confluence githubltbrgtltbrgtltstronggtltugtwhat is expected of youltbrgtltugtltstronggtltulgtltligtcan communicate effectively with a diverse teamltligtltligtunderstanding best practices of software reliability and availabilityltligtltligthas experience creating alerts and dashboards in cloudwatch grafana other apmsltligtltligthas experience working with a development team to plan build out tasks for setting sli slos for new and legacy features and can influence the applications slaltligtltligtdemonstrate understanding of principles of the incident command system ltligtltligthas a wide breadth of knowledge of compute storage message queueing and networking of aws resourcesltligtltligthas experience writing github actions jenkins software pipelinesltligtltligthas experience writing complex multiresource terraform cloudformation stacks from scratchltligtltligthas experience managing and deploying applications to kubernetesltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligtexperience with modern apm technologies dashboarding setting application alarms and incident responseltligtltligt years of hands on devops sre experience ltligtltligt years with python nodeltligtltligt years working with aws with infrastructure as codeltligtltligt years of experience with writing software development pipelinesltligtltligt years of experience with kubernetes and helm chartsltligtltligt years working closely with software development teamsltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligtexperience with instana cloudwatch elk prometheus influx grafanaltligtltligtexperience with working with teams to define slis ampamp slos for new and existing servicesltligtltligtexperience with github actions or jenkins ciltligtltligtexperience with kubernetes and eksltligtltligtexperience with software incident command system facilitating post mortemsltbrgtltligtltulgtltstronggtltugtabout youltbrgtltbrgtltugtltstronggtuships site reliability engineers integrated with software agile teams solving challenging problems in the logistics ecommerce space we are looking for an engineer to help ensure the reliability of our next wave of products ideal candidates want to deeply understand how our systems work from the infrastructure level their dependencies to other systems how to mitigate risk and develop strategies for service failover youll be building the foundation that enables us to empower the logistics landscape and help customers all over the worldltbrgtltbrgtltstronggtwhy ushipltbrgtltbrgtltstronggtuship offers bigcompany benefits in a smallish sized company because we really value and are committed to our people there are even some extras that will surprise youltbrgtltulgtltligt paid health and dental availableltligtltligtk matching with no vestingltligtltligtstock optionsltligtltligt paid maternity and paternity leaveltligtltligtuship shipping credit ltligtltligtpet insuranceltligtltligtmonthly wellness reimbursementsltligtltligtcasual dress codeltligtltligtdogfriendly ltligtltligtso much moreltbrgtltligtltulgtltstronggtltugtcompany overviewltbrgtltbrgtltugtltstronggtuship is the worlds first and largest shipping marketplace making it quicker easier and more affordable to ship large or bulky items consumers and businesses can compare and book bids from hundreds of thousands of customerreviewed transportation service providers ranging from independent owneroperators to the largest freight carriers and brokers from cars to cranes and furniture to freight our straightforward and transparent platform helps people businesses ecommerce sellers and multinational logistics companies ship with greater speed and efficiency customers save money and service providers make money using their empty cargo space everyone winsltbrgtltbrgtltstronggtinclusivity is keyltbrgtltbrgtltstronggtwe welcome diversity in all its forms and believe were better collaborators strategizers and thinkers because of it we show pride in our community by giving back and working with local charities uship is an equal opportunity employer we are inspired to find candidates who embody our core values uship prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race color religion sex gender identity age parental status national origin disability or veteran status we celebrate diversity and are committed to creating an inclusive environment for all employees",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T00:00:00.000Z"
+  },
+  "company": {
+    "name": "uShip",
+    "link": "https://www.linkedin.com/company/uship"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

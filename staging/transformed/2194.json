@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer-Cryptoassets",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtresponsibilitiesltstronggtltpgtltpgtltbrgtltpgtltulgtltligtparticipate in designing and supporting highly available systemsltligtltligtcontinue to push efforts for building out infra on kubernetesltligtltligtcontinue to enhance monitoring infra using prometheus grafana alerta and splunkltligtltligtenhance cicd processes leveraging declarative configuration tools like concourseltligtltligthelp create easily repeatable patterns for local development to migrate to productionltligtltligtmanage large amounts of data on varying types of storageltligtltligtsupport and enhance highly available database architectureltligtltligtbuild and enhance tooling used by the devops teamltligtltligtresearch and implement new technologiesltligtltligtconsistently challenge the norm and advocate for changeltligtltulgtltpgtltstronggtrequired skills and experienceltstronggtltpgtltulgtltligtprior experience supporting mission critical high performance applicationsltligtltligtdeploying and supporting applications in kubernetesltligtltligtmonitoring applications using prometheus and grafanaltligtltligtdeveloped cicd pipelines for kubernetes deploymentsltligtltligtsolid python experienceltligtltligtpostgres support for highly available systemsltligtltligtprevious linux platform support experienceltligtltligtbasic knowledge of tlsltligtltligtdemonstrated knowledge of network communications experience including multicast and websocketsltligtltligtflexibility to take offhours support calls as needs dictateltligtltligtexperience using ansible to manage infrastructureltligtltulgtltpgtltstronggtdesired personal characteristicsltstronggtltpgtltulgtltligtability to learn quickly a passion for new technologyltligtltligtselfmotivated to continually expand skillset and improve supported systemsltligtltligtdemonstrated high level of ownership and accountabilityltligtltligtability to handle pressure and time constraints with composureltligtltligtstrong organizational skills including planning prioritization and documentationltligtltulgtltligtltligt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:52:35.000Z"
+  },
+  "company": {
+    "name": "Quantitative Systems",
+    "link": "https://www.linkedin.com/company/quantitative-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

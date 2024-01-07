@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "springshot inc is looking for software engineer with years of experience to support our backend server side development springshot is an an online task management platform for blue collar workers that helps restore employees passion by giving them tools that make their jobs more engaging fun and fulfilling springshot is poised to break out as aviation and live events return in the second half of springshots template based collaboration platform has been used to digitally transform some of the worlds most complex operational environments like the largest singleairline operation and support some of the worlds most marquee events in the process the company has delivered measurable roi and a unique empathetic brand beloved by its users given the accelerated pace of digital transformation within aviation hospitality healthcare and live event operations a welldifferentiated product offering and track record of success the company is uniquelypositioned to capitalize as the world returns to normal postcovidltbrgtltbrgtltstronggtltugtrequirementsltbrgtltbrgtltugtltstronggtyou have a passion for software development and for coming up with simple and elegant solutions to difficult problems you dont cut corners and dont develop ugly and fragile hacks but you also dont overengineer to prepare for every possible hypothetical future scenario regardless of what youre working on you make sure to familiarize yourself with best practices to ensure you are developing code that is robust easy to read and easy to maintain you love to learn and try to keep up with the ever changing landscape of softwareweb development you are a self starter and thrive in a fast paced environment that allows and sometimes requires you to take your own initiatives you understand the value of automated testing and deliver your code along with tests that validate itltbrgtltulgt ltligtbs or ms degree in computer science or related technical fieldltligt ltligtexperience with ruby on railsltligt ltligtsome experience with react js or other javascript mvcs is a bonus ltligt ltligt to years of software development experienceltligt ltligtexperience developing restful apis ltligt ltligtstrong database and data modeling knowledgeltligt ltligtexperience working with test frameworks tools such as rspec cucumberltligt ltligtdemonstrated success working on small teams andor in startup environmentsltligt ltligtmust be proactive have great attention to detail be organized and a team playerltligt ltbrgtltulgtbonus skillsltbrgtltulgtltligtdevops experience deploying and maintaining applications on aws or other cloud platformsltbrgtltbrgtltligtltulgtltugtltstronggtbenefitsltbrgtltbrgtltstronggtltugtspringshot offers their employees competitive salaries including full medical dental and vision benefits k generous stock option plan flexible schedule commuter benefits and unlimited vacation daysltbrgtltbrgtour office is located in san franciscos south of market area convenient to bart bus and caltrain commuters",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T03:27:39.000Z"
+  },
+  "company": {
+    "name": "Springshot",
+    "link": "https://www.linkedin.com/company/springshot-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91500,
+    "max_value": 198700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

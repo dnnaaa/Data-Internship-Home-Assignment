@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "ltstronggtjob id tya ltbrgtltbrgtltstronggtltstronggtjob title machine learning engineer ltbrgtltbrgtltstronggtltstronggtduration monthltbrgtltbrgtltstronggtltstronggtlocation plano txltbrgtltbrgtltstronggtltstronggtcompany background ltstronggtour client a major employer in the area is looking for a ltstronggtmachine learning engineer ltstronggtto be part of its team in its north american operationsltbrgtltbrgtltstronggtltugtnotesltbrgtltbrgtltugtltstronggtltstronggtdescriptionltbrgtltstronggtltulgtltligtmigrating to cloud aws ec and s will work with data science team need to fill gap bw data scientist and engineers transitioning from saas to pythonltligtltligtmost of the data that team uses is in snowflake repositoryltligtltligtwill work on client opsdevops practicesltligtltligt years exp extensively handson individualltligtltligtneeds to be an expert to pass on the knowledge to rest of the team on devopsmlops responsibilitiesltligtltligtuse statistical and machine learning techniques to create scalable analytics solutions within the auto finance spaceltligtltligtestablish scalable efficient automated processes for large scale data analysis model development model validation and model implementationltligtltligtdrive adoption of best practices across the data science organizationsltligtltligtdesign and architect modular and reusable code both for use in experiments as well as production environmentsltligtltligtdeliver productionready codeltligtltligtwork with the broader data science to define the kpis for machine learning projectsltligtltligtprovide technicalteam guidance and trainingmentorshipltligtltligtstay abreast of developments in research methodology and changing technologies in the marketplace and proactively identify applications of these latest developments to improve existing methodsltligtltligtprepare and present findings to both technical and nontechnical audiencesltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltbrgtltugtltstronggtltstronggtqualificationsltstronggtltulgtltligtbabs degree or equivalent experience in computer science information technology or related disciplinesltligtltligtexperience with cloudnative architecture and container orchestration particularly docker and kubernetes preferredltligtltligt years of production experience working in data science machine learning or software engineeringltligtltligtexperience utilizing github in the machine learning pipeline for best practice code management and collaborationltligtltligtsolid production experience using python including numpy pyspark and sqlltligtltligtproduction experience with apache sparkltligtltligtstrong fundamentals in problem solving algorithm design and complexity analysisltligtltligthandson experience with web apis cicd for machine learning ltligtltligtexperience implementing machine learning pipelines in production environments is a plusltligtltligtexperience working with data science within the financial service space is a plusltligtltulgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-06-09T06:31:06.000Z"
+  },
+  "company": {
+    "name": "AVA Consulting",
+    "link": "https://www.linkedin.com/company/ava-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

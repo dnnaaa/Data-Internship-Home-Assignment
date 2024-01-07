@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Content Platform (Remote Eligible)",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "spotify is looking for a machine learning engineer to join the content platform team content platform is a central enabler for spotify together our teams ensure that spotify has a complete available and enriched catalog of music podcasts videos and more sitting at the intersection of our consumer and creator offerings we use a combination of cuttingedge machine learning crowdsourced wisdom and deep industry expertise to discover and organize structured information about the world of audio in doing so we help spotify make wellinformed decisions and build impactful productsltbrgtltbrgtwe are looking for an ml engineer to join our team that is working on applying and experimenting with stateoftheart machine learning techniques to improve the quality of spotifys catalog content as an engineer on the team you will not only coordinate and influence the direction within the team but also work with multiple stakeholders to drive and deliver mlcentric productsltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltulgtltligtcontribute to designing building evaluating shipping and improving spotifys products through handson ml development in python sql scala and java but mostly python sqlltligtltligtcollaborate with a crossfunctional agile team spanning data science product management music industry experts and engineering to build new product features that improve the quality of our catalogltligtltligtwork with a senior mle on the team to prototype new ml approaches and productionize solutions at scale using the google cloud platform including kubeflowltligtltligtperform data analysis to establish baselines and inform product decisionsltligtltligta desire to communicate and explain the role of your machine learning work to the larger team as well as stakeholdersltligtltligtbe part of a growing group of machine learning practitioners across spotify and within content platformltbrgtltbrgtltligtltulgtltulgtltstronggtltugtwho you areltbrgtltugtltstronggtltulgtltulgtltligtyou have a strong background in machine learning and software engineering with experience and expertise in designing building and testing models ltligtltligtexperience with machine learning solutions in a production environment and has demonstrated the ability to deliver results making tradeoffs between idealistic approaches and product impactltligtltligtexperience with disparate data sources both structured and unstructured an understanding of how to manipulate and join these datasets in creative waysltligtltligtyou have handson experience implementing production machine learning systems at scale in java scala python or similar languagesltligtltligtexperience with java microservices that will contribute to backend development and help guide the team towards best practices with our machine learning solutionsltligtltligtlead the model design and keep the team aligned with ml infrastructure while maintaining a focus on impact and deliveryltligtltligtfamiliarity with reinforcement learning approaches is a big plusltligtltligtprevious industry experience with frameworks such as tensorflow and the tensorflow ecosystem tfx is also a plus kubeflow experience also a plusltligtltligtexperience with data pipeline tools like apache beam scio etc and cloud platforms like gcp or awsltligtltligtexperience with building data pipelines and getting the data you need to build and evaluate your models using tools like apache beam is a plusltligtltligtyou care about agile software processes datadriven development reliability and responsible experimentationltbrgtltbrgtltligtltulgtltulgtspotify is an equal opportunity employer you are welcome at spotify for who you are no matter where you come from what you look like or whats playing in your headphones our platform is for everyone and so is our workplace the more voices we have represented and amplified in our business the more we will all thrive contribute and be forwardthinking so bring us your personal experience your perspectives and your background its in our differences that we will find the power to keep revolutionizing the way the world listensltbrgtltbrgtspotify transformed music listening forever when we launched in our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators everything we do is driven by our love for music and podcasting today we are the worlds most popular audio streaming subscription service with a community of more than million users",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T21:50:40.000Z"
+  },
+  "company": {
+    "name": "Spotify",
+    "link": "https://se.linkedin.com/company/spotify"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103000,
+    "max_value": 249000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

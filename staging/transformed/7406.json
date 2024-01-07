@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtkey projectsltstronggtltpgtltpgtampnbspas a senior site reliability engineer you will be responsible for the daytoday maintenance operational support and reliability of internetbased and instore systemsltpgtltpgtampnbspon an ongoing basis this position will help identify root causes of operational issues and partner with other team members to drive resolutionltpgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtltstronggtdaily responsibilitiesltstronggtltpgtltpgtampnbspprovide breakfix customer support and communication to product teamsltpgtltpgtampnbspcreate and manage service level indicators slis and service level objectives slos using new relic and splunkltpgtltpgt resolve performance bottlenecks using data from monitoring tools and profiling utilities like dottrace dotmemory and perfviewltpgtltpgtampnbspmanage configuration of monitoring and alerting in new relic splunk and pager dutyltpgtltpgtampnbspimplement os and application changes as needed using chef and jenkinsltpgtltpgtampnbspcreate and maintain system process and training documentationltpgtltpgt drive root cause analysis and postmortem as neededltpgtltpgtampnbspconduct monthly os patching and deploy os application and infrastructure changesltpgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtltstronggtqualificationsltstronggtltpgtltpgtampnbsp years supporting external customerfacing web services for a large siteltpgtltpgtampnbsp years installing configuring and troubleshooting windowsbased systems and services using iis and mssqlltpgtltpgt years using chef to manage servers in windows environmentltpgtltpgtampnbsp years using splunk new relic and pager duty in a large customerfacing environmentltpgtltpgtampnbsp years managing vips pools and members on f big ipltpgtltpgtampnbspoutstanding troubleshooting attention to detail written and spoken communication skillsltpgtltpgtampnbspexperience defining and using service level indicators slis and service level objectives slosltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-07T18:15:44.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtprimary responsibilitiesltbrgtltugtltstronggtltulgtltligt develop automation to create and maintain systems in dc and cloudltligtltligt manage access to systems like ipa knowledge with okta asa will be preferltligtltligt design and develop tools for system management monitoring analysis etcltligtltligt experience with monitoring and automation tools further help analyze real time issuesltligtltligt familiar with system hardening and server security best practicesltligtltligt working with the lead engineer to understand application functionalities and verification requirements working with software engineering to define a scalable real time testing and monitoring strategiesltligtltligt lead troubleshooting and monitoring efforts with productionnonproduction systemsltbrgtltligtltulgtltstronggtltugtknowledgeskillsltbrgtltugtltstronggtltulgtltligt programming bash scripting pythonltligtltligt source control gitltligtltligt build jenkins pipelineltligtltligt os hardening cobblerpacker kickstartltligtltligt security iptables firewalld ssh tls iamltligtltligt network tcpdump ngrep wiresharkltligtltligt systems linux centos amazon linuxltligtltligt cloud skill aws packer terraformltligtltligt monitoring zabbix prometheus grafana elkltligtltligt configuration ansible terraformltligtltligt aws services s dynamodb rds route vpc cloudfront etcltligtltligt common services nginxkeepalived kubernetes bind dnslvs ntpltligtltligt virtualization kvmltbrgtltligtltulgtensuring a diverse and inclusive workplace where we learn from each other is core to zooms values we welcome people of different backgrounds experiences abilities and perspectives including qualified applicants with arrest and conviction records as well as any qualified applicants requiring reasonable accommodations in accordance with the lawltbrgtltbrgtwe believe that the unique contributions of all zoomies is the driver of our success to make sure that our products and culture continue to incorporate everyones perspectives and experience we never discriminate on the basis of race religion national origin gender identity or expression sexual orientation age or marital veteran or disability statusltbrgtltbrgtall your information will be kept confidential according to eeo guidelinesltbrgtltbrgtltstronggtltugtexplore zoomltbrgtltugtltstronggtltulgtltligthear from our leadership teamltligtltligtbrowse awards and employee reviews on comparablyltligtltligtvisit our blogltligtltligtzoom with usltligtltligtfind us on social at the links below and on instagramltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-13T15:16:59.000Z"
+  },
+  "company": {
+    "name": "Zoom",
+    "link": "https://www.linkedin.com/company/zoom-video-communications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

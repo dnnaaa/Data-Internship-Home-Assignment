@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Internet",
+    "description": "ltpgtltstronggtabout pushnamiltbrgtltbrgtltstronggtltpgt ltpgtpushnami is a leading digital marketing software provider based in austin with a focus on building cuttingedge solutions to deliver unparalleled performance the company offers its clients unparalleled performance through machine learning enabled messaging solutions pushnami builds technologies on the forefront of the latest online notification technologies the system currently delivers over million unique messages per day and is live on more than enterprise websites globallyltbrgtltbrgtltpgt ltpgtltbrgtltbrgtltpgt ltpgtltstronggtabout the site reliability engineer roleltbrgtltbrgtltbrgtltstronggtltpgtltbrgtltpgtwe are seeking a creative site reliability engineer to ensure pushnamis platform is stable and secure you will be responsible for the health of our system ensuring that managed assets are performing as expected creating and maintaining automated alerts and enabling selfhealing infrastructureltbrgt ltbrgt ltstronggtresponsibilitiesltbrgt ltbrgtltbrgtltstronggtltpgt ltulgt ltligtensure that the infrastructure supporting pushnamis platform is highly available and scalableltligt ltligtsupport maintain monitor and manage cloud infrastructureltligt ltligtcollaborate with the tech team to support engineering and development efforts and ensure system integrityltligt ltligtmonitor metrics and develop ways to improve reporting and alertingltligt ltbrgtltulgtltpgtrequirementsltbrgtltbrgtltpgtltpgtltbrgtltbrgtltpgt ltulgt ltligtbachelors degree in in computer science or related field or equivalent working experienceltligt ltligt years in an sredevops role or related it or operationsltligt ltligt years operational experience with a public cloud environment aws preferred ltligt ltligtstrong understanding of security and observability principles and methodologiesltligt ltligtproficient with linux system operations and networkingltligt ltligtproficient in scripting with python and bashltligt ltligtexperience working with kubernetes ecs or other containerization platformsltligt ltligtfamiliar with automationdeployment principles and technologies terraform ansiblesaltpuppet gitltligt ltligtfamiliar with scrum and agile development methodologiesltligt ltligtgood interpersonal skills and communication with all levels of managementltligt ltbrgtltulgtltpgtbenefitsltbrgtltbrgtltpgtltulgt ltligtfull medical and dental ppo insurance that is paid for by the companyltligt ltligtk retirement plan fully matched up to ltligt ltligtpaid parental leave for primary caretakerltligt ltligtflexible work schedule that is based on performance rather than timeltligt ltligthybrid work modelltligt ltligtunlimited paid vacation after one year of employmentltligt ltligtrelaxed dress code and open office environmentltligt ltligt in fringe benefits monthly online marketplace where you can purchase the perks you choose netflix hulu airbnb royal caribbean cruises child care dog walking you name itltligt ltligtorange theory gym membershipltligt ltligtfull stocked break room breakfast taco tuesday catered lunches monday friday for inoffice employeesltligt ltulgt ltpgtltbrgtltbrgtltbrgtltpgt ltpgtltstronggtour recruitment processltbrgtltbrgtltstronggtltpgt ltulgt ltligtapplication you are hereltligt ltligtquestion aptitude examltligt ltligthiring manager interviewltligt ltligtcompany leadership interviewltligt ltligtofferltligt ltulgtltbrgtltpgtltbrgtltbrgtltbrgtltpgtltbrgtltpgtpushnami was built on the principles of positivity and acceptance we strive to build an inclusive work environment that uses our success to make a genuine impact on the community around us no employee or applicant will face discriminationharassment based on race color ancestry national origin age gender marital domestic partner status sexual orientation gender identity disability status or veteran statusltbrgtltbrgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T21:50:10.000Z"
+  },
+  "company": {
+    "name": "Pushnami",
+    "link": "https://www.linkedin.com/company/pushnami"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

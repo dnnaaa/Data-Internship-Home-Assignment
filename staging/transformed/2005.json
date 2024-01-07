@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Research Engineer, Workflow Manager and Code Architecture",
+    "industry": "Research,Biotechnology,Pharmaceuticals",
+    "description": "at roivant we are passionate about discovering and developing new drugs to impact patients lives since its inception in roivant has launched over portfolio companies vants overseen successful ipos established a b partnership with a global pharma built a pipeline of over assets across various modalities and therapeutic areas and delivered successful phase readouts roivant is currently building new capabilities in drug discovery and expanding its existing development engine to become the worlds leading techenabled pharmaceutical companyltbrgtltbrgtroivants drug discovery capabilities are driven by our computational discovery platform which combines preeminent physicsbased tools with deep expertise in machine learning to generate unprecedented analytical power that can tackle previously intractable discovery challenges the tight integration of this computational platform with our experimental capabilities enables the rapid design and optimization of new drugs to address a wide range of targets for diseases with high unmet needltbrgtltbrgtwe believe that the future of drug discovery lies in integrating predictive sciences biology and medicinal chemistry to accelerate the path to new medicines this role is an opportunity to be an architect of this paradigm shift and generate transformative benefit for patientsltbrgtltbrgtltstronggtltugtjob summaryltbrgtltbrgtltugtltstronggtroivant discovery is looking for a highly motivated software developer with extensive scientific software development experience code architecture and highperformance computing to join our platform team as a member of the software engineer team and working closely with other platform team members the candidate will develop and optimize advanced physicsbased computational codeincluding but not limited to molecular dynamics simulations free energy calculations quantum chemistry and machine learning modelsto solve critical issues in drug discovery the role will focus on code architecture and infrastructure to facilitate scientific methods development and ensure code execution high performance roivants computation research is conducted on onprimacies gpudense hpc facility as well as cloud computing instancesltbrgtltbrgtltstronggtltugtjob responsibilitiesltbrgtltugtltstronggtltulgtltligtdevelop and implement proprietary scientific software librariesworkflow management infrastructure libraries and routines to drive our physicsbased calculations execution and analysisltligtltligtensure proper utilization of the hpc facilities both computing and storage componentsltligtltligtwork with researchers scientific developers and the hpc team to ensure proper development of scientific workflowsltligtltligtoptimize our scientific code for modern highperformance and parallel computing architectureltligtltligtimplement and maintain software engineering best practicesltligtltligtensure scalability extensibility and portability of platform codeltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligthighly motivated to develop computational methods and software for discovering better medicinesltligtltligtbs ms or phd in computer science applied mathematics computational physicschemistry physical chemistrychemical physics or related fieldsltligtltligtexcellent communication skills and strong team playerltligtltligtoutstanding development skillsltligtltligtdemonstrated track record of overcoming challenging problemsltligtltligtextensive programming experience python cc and fortran preferred ltligtltligtexperience with scientific computing systems and schedulersltligtltligtexperience with version control such as git and testandrelease such as jenkins frameworksltbrgtltligtltulgtltstronggtltugtadditional qualificationsltbrgtltugtltstronggtltulgtltligtexperience working with a diverse team on an ambitious projectltligtltligtexperience with parallel programming especially dataparallel using mpi openmp openacc or cudaltligtltligtexperience working with containersltligtltligtability to manage hpc clusters cpu and gpu basedltligtltligtexperience in usingdeploying workflow managers in distributed computing facilitiesltligtltligtexperience in molecular dynamics simulations monte carlo simulations or other computational physics simulationsltligtltligtexperience in statistical modeling or bioinformaticsltligtltligtpassionate about developing software to advance drug discoveryltbrgtltligtltulgtroivant provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race color religion age sex national origin disability status genetics protected veteran status sexual orientation gender identity or expression or any other characteristic protected by federal state or local laws",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:33:40.000Z"
+  },
+  "company": {
+    "name": "Roivant Sciences",
+    "link": "https://www.linkedin.com/company/roivant-sciences-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "do you believe that people should compassionately support one another to create a better world well we doltbrgtltbrgtserving as the worlds most trusted fundraising platform gofundme is committed to creating a better world by making it safe and easy for people to support causes theyre passionate about when someone sees a needwhether its in their neighborhood or across the globethey can turn their compassion into action through gofundme our customers have raised over billion for their personal causes making gofundme a top website in the us based on traffic with a monthly audience of over million peopleltbrgtltbrgtwere searching for a experienced site reliability engineer sre you will be responsible for the full system lifecycle including infrastructure provisioning system configuration deployments monitoring and incident response in production environments the sre uses technical analysis to assess the availability latency scalability and efficiency of a product or infrastructure and builds reliability into systems to ensure the highest level of application performance and availability the reliability engineer works closely with development teams relevant functional operations teams network engineers database administrators technology vendors and partners the successful reliability engineer effectively guides incident responses helps identify root causes and provides recommendations or solutions to mitigate and resolve issuesltbrgtltbrgtltstronggtthe jobltbrgtltstronggtltulgtltligtdesign and build out our cloud infrastructure we run everything in awsltligtltligtparticipate in software and system performance analysis tuning and service capacity planningltligtltligtmanage the availability scalability security and performance of our platform and applicationsltligtltligtdiagnose bottlenecks for the full stack and provide recommendations to overcome the bottlenecks as an interim work around while longterm solutions are investigatedltligtltligtperiodically assess all monitoring requirements and implement enhancements to meet or exceed changing business needsltligtltligtproactively review recommend and implement changes to the live infrastructure after ensuring the right validation has been carried outltligtltligtuse data analysis to pick up trends before they become major problemsltligtltligtperform oncall dutiesltligtltligttechnologies you are likely to be working with aws ansible terraform mysql nginx docker kubernetes elasticsearch memcached rabbitmq jenkins git bash python php java kotlin ruby nessus nagios sumologic newrelic pagerdutyltbrgtltligtltulgtltstronggtyoultbrgtltstronggtltulgtltligt years of experience in operating hightraffic saas environmentsltligtltligtdeep expertise in the mentality processes and tools needed to deliver five ninesltligtltligtskills to build a fully automated highly elastic cloud orchestration framework on awsltligtltligtstrong working knowledge of linux and its underlying components system statistics performance tuning filesystems and ioltligtltligtsolid scripting skills eg bash pythonltligtltligtdevelopment experience eg python php java kotlinltligtltligtexperience with continuous integration frameworksltligtltligtexperience with performance diagnostics performance tuning capacity planning and monitoringltligtltligtbs in computer science or equivalentltligtltligtgood verbal and written communication skillsltbrgtltligtltulgtltstronggtwhy youll love it hereltbrgtltstronggtltulgtltligtwe offer competitive pay and excellent benefits employees can choose from a wide range of health insurance options including medical dental and vision we cover of employee premiums and of premiums for spouses and dependents ltligtltligtwe provide generous maternity and paternity leave as well as a k retirement plan with company matchingltligtltligtemployees can enjoy perks such as complimentary lunches commuter benefits a wellness stipend paid volunteer time and generous sick time and paid time off due to covid employees now get a work from home stipend ltligtltligtwe encourage our employees to support fundraisers by offering our gives back program employees can select a fundraiser every week to nominate to receive a donation from the companyltligtltligtour diversity equity and inclusion team is always finding new ways for our company to uphold and represent the experiences of all of the people in our organizationltligtltligtwe offer employee resource groups for women parents and the lgbtqia communityltligtltligtyour work has real purpose and will help change lives on a global scaleltligtltligtyoull be a part of a fun supportive team that works hard and celebrates accomplishments together ltligtltligtwe live by our core values consider everything do the right thing spread empathy delight the customer and give backltligtltligtwe are a certified great place to work and were growing fast and have incredible opportunities aheadltbrgtltligtltulgtgofundme is proud to be an equal opportunity employer that actively pursues candidates of diverse backgrounds and experiences we are committed to providing diversity equity and inclusion training to all employees and we do not discriminate on the basis of race color religion ethnicity nationality or national origin sex sexual orientation gender gender identity or expression pregnancy status marital status age medical condition mental or physical disability or military or veteran statusltbrgtltbrgtltstronggtltugtlearn more about gofundmeltbrgtltbrgtltugtltstronggtltstronggta year in giving ltbrgtltbrgtltstronggtltstronggtgofundme heroesltbrgtltbrgtltstronggtltstronggtwhy gofundmeltbrgtltbrgtltstronggtltstronggtwe support justice equalityltstronggt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:00:00.000Z"
+  },
+  "company": {
+    "name": "GoFundMe",
+    "link": "https://www.linkedin.com/company/gofundme"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 131100,
+    "max_value": 284700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "the ltstronggtsite reliability engineerltstronggt for productivity services is responsible for the technical design and operations of productivity solutions used globally by employees and partners these solutions will enable the workforce to create share and collaborate on content from anywhere at anytime built upon the microsoft and azure platforms this technical leadership role is expected to apply a software engineering mindset to system administration topics elevating the availability reliability and security of solutions while reducing operational costsltbrgtltbrgtstand provides end to end it solutions to enterprise partners across the united states and with offices in connecticut atlanta new york raleigh and moreltbrgtltbrgtltstronggtltugtspecific solutions includeltbrgtltugtltstronggtltulgtltligto sharepoint onedrive teamsltligtltligtfile storage and sharing netfillers dfs dropbox gsuite boxltligtltligtdocument creation word excel powerpointltligtltligtvideo audio and text chat ms teamsltligtltligtcontent migration metalogix sharegate spmt migration managerltligtltligtapplication deployment azureawsphysical infrastructureltligtltligtazure administrationltligtltligtwrite code and scripts to automate everything possibleltbrgtltligtltulgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtlead the technical design implementation and operation of productivity solutions with an emphasis on cloud and network drive migration to o storage sharepoint and onedriveltligtltligtdesign and implementation of application workflow and data connectors migration to o storages from network shares cloud storages box dropbox gsuiteltligtltligtcontribute to the site reliability engineering center of excellence including the creation of standard artifacts best practices and learning plansltligtltligtparticipate as a standing member of the engineering review board to evaluate trade studies approve solution designs and maintain the overall workplace system architectureltligtltligtdevelopment of sharepoint onedrive designltligtltligtparticipate in the weekly agile process to resolve technical impediments and assist in user story definition and sizingltbrgtltligtltulgtltstronggtltugtqualificationsrequirementsltbrgtltugtltstronggtltulgtltligt years experience designing implementing and operating microsoft services at enterprise scaleltligtltligt years experience programming including shell scripting powershellltligtltligt years experience designing scalable and reliable enterprise solutions including considerations for multitier software architectures networking and securityltligtltligt years experience with cloudbased infrastructure and platform services including identity and access management azureltligtltligtexperience with data loss prevention archiving ediscovery and compliance preferredltligtltligtbachelors degree in computerrelated field preferred or equivalent years of experienceltbrgtltligtltulgtltstronggtltugtdesired characteristics ltbrgtltugtltstronggtltulgtltligtability to communicate effectively both written and verbally to stakeholders and engineersltligtltligtability to build effective crossfunctional relationships in support of delivering enterprisewide solutionsltligtltligtability to execute within a fastpaced agile processltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T22:03:34.000Z"
+  },
+  "company": {
+    "name": "STAND 8 Technology Services",
+    "link": "https://www.linkedin.com/company/westand8"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

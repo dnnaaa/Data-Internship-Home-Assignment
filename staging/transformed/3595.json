@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "job id ltbrgtltbrgtthe deployment automation team at citi manages a platform that orchestrates releases across a very large number of enterprise applications this is a mature platform running without major issues and supporting modern deployment strategies like canary bluegreen containers microservices public cloud alongside some more traditional distributed systems and databasesltbrgtltbrgtas we expand our continuous delivery product portfolio we are looking for a sre handson engineer with experience running platforms as scale leveraging industry observability and automation platforms someone who brings fresh ideas demonstrates a unique and informed viewpoint and enjoys collaborating with a crossfunctional team to develop realworld solutions and positive user experiences at every interactionltbrgtltbrgtresponsibilitiesltbrgtltulgtltligtconfigure and tune the observability platforms we use to streamline alerting and proactive issue identificationltligtltligtautomate manual activities as new features are added to the platformltligtltligtensure the platform functional test suite remains complete and runs quicklyltligtltligtexpand performance and load testing capability to better simulate real production useltligtltligtperform root cause analysis owning actionable followupsltligtltligtmeasure and optimize system performance setting proper metrics and slasslosltligtltligtmange risk and control activities across the platform and teamltbrgtltligtltulgtessential skillsltbrgtltulgtltligt sre and operational role running a large enterprise platformltligtltligt years working with linuxltligtltligt years scripting in pythonshellbashkshltligtltligt years of software development experience java on linuxltligtltligtextensive experience working with and customizing automation scripts ansible is currently usedltligtltligtprior experiences with devops cicd tools like git and jenkinsltligtltligtexperience analyzing data to drive decisionsltligtltligtcompetent with api web services and microservices developmentltligtltligtstrong communication skills both written and oralltligtltligtstrong architecture and designltligtltligtstrong analytical algorithmic and problemsolving skillsltligtltligtexcellent teamwork and proactive attitudeltligtltligtbsms degree in computer science or related technical fieldltbrgtltligtltulgtdesired skillsltbrgtltulgtltligtexperience with docker kubernetes openshiftltligtltligtexperience with sqlnosql databases like oracle mongodbltligtltligtjava spring framework development experienceltligtltligtexperience in config management tooling eg ansible chef puppet or saltstackltligtltligtexperience writing automation testsltligtltligtability to quickly learn new concepts and softwareltbrgtltligtltulgtltbrgtltbrgtltstronggtjob family group ltbrgtltbrgtltstronggttechnologyltbrgtltbrgtltbrgtltbrgtltstronggtjob familyltbrgtltbrgtltstronggtsystems ampamp engineeringltbrgtltbrgtltbrgtltbrgtltstronggttime typeltbrgtltbrgtltstronggtltbrgtltbrgtciti is an equal opportunity and affirmative action employerltbrgtltbrgtqualified applicants will receive consideration without regard to their race color religion sex sexual orientation gender identity national origin disability or status as a protected veteranltbrgtltbrgtcitigroup inc and its subsidiaries citi invite all qualified interested applicants to apply for career opportunities if you are a person with a disability and need a reasonable accommodation to use our search tools andor apply for a career opportunity review ltstronggtaccessibility at citiltstronggtltbrgtltbrgtview the ltstronggteeo is the lawltstronggt poster view the ltstronggteeo is the law supplementltstronggtltbrgtltbrgtview the ltstronggteeo policy statementltstronggtltbrgtltbrgtview the ltstronggtpay transparency postingltbrgtltbrgtltstronggt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Citi",
+    "link": "https://www.linkedin.com/company/citi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

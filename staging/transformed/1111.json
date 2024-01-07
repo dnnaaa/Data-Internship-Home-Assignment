@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II",
+    "industry": "Electrical/Electronic Manufacturing,Mechanical or Industrial Engineering,Medical Devices",
+    "description": "ltstronggtjob description ltbrgtltbrgtltstronggtltstronggtjob summaryltbrgtltbrgtltstronggtat midmark digital diagnostics we develop ecg spirometry and vital sign devices used by physicians and nurses we are now looking for a talented senior software developer who wants to help us deliver great medical software we build applications that interface with diagnostic devices and connect to a wide variety of healthcare systems we are using net c as well as angular and typescript we work in crossfunctional teams and we like agile continuous delivery and automationltbrgtltbrgtwe are now looking for a talented software developer that can help us take software development to the next levelltbrgtltbrgtltstronggtessentialprimary dutiesltbrgtltstronggtltulgt ltligt architect design implement and unit test new medical device software applications ltligt ltligt maintain support debug enhance and refactor existing software applications ltligt ltligt analyze prototype and estimate new product features ltligt ltligt work in crossfunctional teams with other software developers test automation engineers and firmware engineers ltligt ltligt create and update software documentation specifications and design documentation ltligt ltbrgtltulgtltstronggteducation andor experienceltbrgtltbrgtltstronggtbachelors degree in computer engineering or computer science electrical engineering or related field required and years of experience in a related field preferred ltbrgtltbrgtltstronggtcompetencyskill requirements ltbrgtltbrgtltstronggtltstronggt primary ltbrgtltstronggtltulgt ltligtltulgt ltligt experience with microsoft programming languages and frameworks c net net core aspnet web api wpf ltligt ltligt experience of testdriven development tdd and good objectoriented design ltligt ltligt experience with database development including preferably sql server ltligt ltligt experience of frontend development using javascripttypescript and angular ltligt ltligt excellent communication skills verbal and written ltligt ltligt excellent problemsolving skills ltligt ltulgt ltligt ltbrgtltulgtltstronggtsecondaryltbrgtltstronggtltulgt ltligtltulgt ltligt knowledge of fda and iso regulations for medical devices ltligt ltligt experience interfacing with electronics via usb bluetooth and other network technologies ltligt ltligt knowledge of azure ltligt ltligt experience of working with build automation and continuous delivery cicd using azure devops github actions jenkins or similar tools ltligt ltulgt ltligt ltbrgtltbrgtltulgtltstronggt about us ltbrgtltbrgtltstronggtmidmark is the only clinical environment design and manufacturing company that enables a better care experience at the point of care in medical dental and animal health by harmonizing space technologies and workflows we enhance interactions between patients and caregivers resulting in more efficient care and better outcomes by living our corporate values our teammates worldwide make this possibleltbrgtltbrgteoaa employer minoritiesfemalesprotected veteransdisabled",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:10:50.000Z"
+  },
+  "company": {
+    "name": "Midmark Corporation",
+    "link": "https://www.linkedin.com/company/midmark-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76400,
+    "max_value": 111000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Torrance",
+    "region": "CA",
+    "postal_code": "90506",
+    "street_address": null,
+    "latitude": 33.83633,
+    "longitude": -118.340034
+  }
+}

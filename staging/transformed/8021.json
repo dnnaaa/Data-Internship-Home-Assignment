@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "ltstronggtltugtposition summary what youll doltbrgtltbrgtltugtltstronggtdata scientist machine learningltbrgtltbrgtsunnyvaleltbrgtltbrgtthe merchant data science team researches and develops algorithms that power our core areas like pricing assortment optimization replenishment store layout etc we work at enormous scale millions of items x thousands of stores x dozens of variations to deliver great products at great prices to our customersltbrgtltbrgtyou will be working closely with other data scientists machine learning engineers operations research scientists data engineers within the team as well collaborate with product managers software engineers and analysts from partner teams to deliver data products that aim to simplify and streamline our store operations we work with various techniques from machine learning classical machine learning deep learning reinforcement learning operations research causal inference and statistics our work has been published in top tier conferences such as kdd and informsltbrgtltbrgtwhat we are looking forltbrgtltulgtltligtphdms in a quantitative discipline computer science statistics operations research mathematics etcltligtltligtexpertise in one or more areas among machine learning classical methods deep learning reinforcement learning causal inference statisticsltligtltligtexperience with leading data science projects from conception to productionltligtltligtstrong software development skills in languages such as python scala or javaltligtltligtexperience with distributed systems and tools such spark hadoop etcltligtltligtability to communicate your results from deeply technical to nontechnical audiencesltligtltligtability to influence and collaborate with cross functional leaders in engineering product analytics etcltbrgtltligtltulgtnice to have but not requiredltbrgtltulgtltligtpublished work in top tier journals and conferences kdd informs neurips icml wwwltbrgtltligtltulgtthe above information has been designed to indicate the general nature and level of work performed in the role it is not designed to contain or be interpreted as a comprehensive inventory of all duties responsibilities and qualifications required of employees assigned to this job the full job description can be made available as part of the hiring process ltbrgtltbrgtltstronggtltugtminimum qualificationsltbrgtltbrgtltugtltstronggtltemgtltemgtoutlined below are the required minimum qualifications for this position if none are listed there are no minimum qualifications ltbrgtltbrgtltemgtltemgtoption bachelors degree in statistics economics analytics mathematics computer science information technology or related field and ltbrgtltbrgtyears experience in an analytics or related field option masters degree in statistics economics analytics mathematics computer scienceltbrgtltbrgtinformation technology or related field option years experience in an analytics or related field preferred qualificationsltbrgtltbrgtltemgtltemgtoutlined below are the optional preferred qualifications for this position if none are listed there are no preferred qualifications ltbrgtltbrgtltemgtltemgtdata science machine learning optimization models masters degree in machine learning computer science information technology operations research statistics applied mathematics econometrics successful completion of one or more assessments in python spark scala or r using open source frameworks for example scikit learn tensorflow torch primary location w california ave sunnyvale ca united states of america",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T01:56:10.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88400,
+    "max_value": 127000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

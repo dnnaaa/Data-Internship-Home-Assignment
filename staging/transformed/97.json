@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Silicon Validation Software Engineer: Embedded and Low-level Programming",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtimagine what you could do here at apple new ideas have a way of becoming extraordinary products services and customer experiences very quickly bring passion and dedication to your job and theres no telling what you could accomplish dynamic smart people and inspiring innovative technologies are the norm here the people who work here have reinvented entire industries with all apple hardware products the same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it join us to help deliver the next groundbreaking apple productltbrgtltbrgtltbrgtare you passionate about changing the world we have a critical impact on getting high quality functional products to millions of customers quickly and we are hiring all levels from junior to senior roles you will become part of our core infrastructure team responsible for porting and improving our embedded test software environments including cfe and our rtos and perhaps linuxltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtyou are an excellent c programmerltbrgtltbrgtyou are an expert in boot code lowlevel os code drivers computer initialization io devices soc bringup debuggersltbrgtltbrgtyou have a detailed understanding of soc architectureltbrgtltbrgtyou have experience and are interested in writing code to test io devices andor functional unitsltbrgtltbrgtlinux driver experience an assetltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgt you will be porting cfebootcodertos to new soc and cpu architecturesltbrgtltbrgtltbrgt improving the lowlevel support provided in our debug environments to provide better support for writing higherlevel tests eg scaler jpegltbrgtltbrgtltbrgt you will be implementing device libraries to aid in the portability of device drivers bringing up lowlevel code on new socs ltbrgtltbrgtltbrgt you will work with other teams to support our common socs and memory init codeltbrgtltbrgtltbrgtdesired ability to write linux drivers and to write directed tests for ips on the socltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs ms phd in ee or cs is requiredltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:16:42.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

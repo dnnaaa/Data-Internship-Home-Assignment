@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Scala Engineer",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "ltpgtltstronggtjava functional scala engineerltstronggtltpgtltpgtltstronggtnew york city ny and san francisco caltstronggtltpgtltpgtltstronggtmonthsltstronggtltpgtltpgtltstronggtltstronggtltpgtltpgtltstronggtrequirementsltstronggtltpgtltpgtstrong experience with functional programming languages scala clojure haskell or common lispltpgtltpgtexperience with one or more functional libraries or similar zio cats andor monixltpgtltpgtexperience with cloud computing aws microsoft azure google cloudltpgtltpgtltbrgtltpgtltpgtltstronggtday to day responsibilitiesltstronggtltpgtltpgtthis role will contribute to building a modern system of record platform for financial data including software development code reviews design discussions work planning and prioritizationampnbspthe platform is written in functional scala and extensively utilizesltpgtltpgtthe zio libraryampnbspthe role would also involveampnbspmentoring lessexperienced team members in functionalampnbspscala and software development techniques and best practicesampnbspbusiness hour oncall support and troubleshooting are also part of the roleltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:24:31.000Z"
+  },
+  "company": {
+    "name": "Pyramid Consulting, Inc",
+    "link": "https://www.linkedin.com/company/pyramid-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62600,
+    "max_value": 73600,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

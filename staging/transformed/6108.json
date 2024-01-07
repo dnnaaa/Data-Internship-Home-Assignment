@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Consumer Goods,Retail,Financial Services",
+    "description": "as a senior site reliability engineer you will work with other members of our operations ampamp internal tooling teams to design and deliver the platforms tools and processes necessary to ensure that our customers have the best possible experience in the luxury ecommerce world your focus will be on evaluating runtime systems building monitoring and incident response capabilities and automating monitoring and automatic feedback systems for our development staging and production systems you will work directly with development quality assurance and operations and product management team members to gather requirements analyze the technical landscape and deliver solutions if you are passionate about solving problems in complex distributed systems and eager to get handson with automation democratizing access to operational information and enabling ownership over scalable services then we look forward to talking with you about the opportunities at saksltbrgtltbrgtltstronggtltugtwho we areltbrgtltbrgtltugtltstronggtsaks is a worldrenowned luxury ecommerce destination the companys unique approach combines a focus on the digital customer experience with a strong connection to a network of extraordinary stores that extends that seamless experience into the real worldltbrgtltbrgton its website and app saks offers an unparalleled selection of curated merchandise across fashion for women and men beauty jewelry home dcor and more in addition to the shopping experience customers come to saks for inspiring editorial content access to digital stylists lifestyle experiences and other worldclass services the company is currently in the midst of a dramatic expansion driven by significant enhancements to its platforms and offerings with the goal of becoming the preeminent destination for luxury internationallyltbrgtltbrgtltstronggtltugtrole summaryltbrgtltugtltstronggtltulgtltligtmanage cloud provider infrastructure system deployments and product release operationsltligtltligtmonitor and evaluate saks frontend applications web platform and integrations with backend systems respond to incidents plan capacity and correct and improve systems to reduce outages and customer disruptionsltligtltligtcollaborate with product management software engineering and qa teams to ensure best practices and maintain high standards for availability performance data security data privacy and customer experienceltligtltligtdrive product excellence through endtoend automation of maintenance and upgrade processes codedriven definition of all systems improvements and rootcause analysis of incidents and outagesltligtltligtmentor and train new junior team members through exemplary design and implementation of solutions dedicated time investment in knowledge sharing and pairing and professional responses to challenging situationsltligtltligtreasonable tier oncall responsibilities driven by modern alerting tools such as pagerduty and newrelicltligtltligtparticipate in the definition and refinement of effective software delivery processes such as ci cd tdd development lifecycle and architectureltligtltligtresearch emerging technologies for application in the saks consumer experienceltbrgtltligtltulgtltstronggtltugtkey qualificationsltbrgtltbrgtltugtltstronggtin order to succeed in this role you should be highly enthusiastic about technology yet respectful and pragmatic about when and why to use specific solutions you should be passionate about building strong performant teams but also be comfortable working with contractors and outsourcing firms as needed above all you should be an effective communicator and a great collaborator willing to work with a diverse group of people both within and without the product development organizationltbrgtltulgtltligt years of experience in systems administration cloud app development or devopsltligtltligt years managing cloud platforms such as aws gcp or azureltligtltligtdemonstrated ability to mentor junior team members and develop internal experience in software best practicesltligtltligtworking knowledge of ip networking internet protocols http https load balancers and high availability architectureltligtltligtexpertise in developing infrastructure as code using tools such as terraform or cloud formationltligtltligtexpertise in building and maintaining cicd pipelines using tools such as jenkins gocd or circleciltligtltligtexperience building scripts tooling and automation using modern programming languages such as python ruby go or similar objectoriented languageltligtltligtproduction experience with distributed application architecture using containers orchestrators kubernetes ecs nomad andor serverless technologyltligtltligtexperience with implementing and using monitoring alerting and observability tools such as datadog amazon cloudwatch and pagerduty in measuring and optimizing around the four golden signalsltligtltligtstrongly desired experience in the retail or fashion industriesltligtltligtappreciated interest and curiosity for working in a variety of languages and frameworks with flexibility towards team and organizational adoptionltbrgtltligtltulgtltstronggtltugtyour life and career at saksltbrgtltugtltstronggtltulgtltligtbe a part of an entrepreneurial team hyperfocused on massive growth ltligtltligtbenefits package for all eligible fulltime employees including medical vision and dental ltligtltligtan amazing employee discount ltbrgtltligtltulgtltemgtthank you for your interest in saks we look forward to reviewing your applicationltbrgtltbrgtltemgtsaks provides equal employment opportunities eeo to all employees and applicants for employment without regard to race color religion sex national origin age disability or genetics in addition to federal law requirements saks complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities this policy applies to all terms and conditions of employment including recruiting hiring placement promotion termination layoff recall transfer leaves of absence compensation and trainingltbrgtltbrgtsaks welcomes all applicants for this position should you be individually selected to participate in an assessment or selection process accommodations are available upon request in relation to the materials or processes to be used",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Saks Fifth Avenue",
+    "link": "https://www.linkedin.com/company/saksfifthave"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

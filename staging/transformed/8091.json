@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Services",
+    "description": "ltpgtsophus it is looking for dynamic and driven professionals to join a rapidly growing highperformance team our client is a leading provider of digital global system for mobile communicationsgeneral packet radio service gsmgprs wireless voice and data technology standards site reliability engineer ace platform engineering will support critical api platform devops and other activities for the digital services groupltpgtltpgt ltpgtltulgtltligtposition duties and responsibilities include but are not limited to ltligtltligtprovide consulting services for improved system stability availability performance and reliabilityltligtltligtassist in determining the impact of operational issues and provide input into their resolution via data extraction and quantificationltligtltligtwork through daytoday support issues ensure effective and timely resolution of issues in production environment troubleshoot customer impacting issuesltligtltligtforecast and plan for rapidly growing environmentltligtltligtsupport multiple applications specifically running solo glookubernetespcfgcpjava based systems in an enterprise environmentltligtltligtsupporting gloo running on kubernetes grafana prometheus cassandra postgres spring boot or java based applications running on pcf and weblogicltligtltligtapply monitoring and creating complex alerts and dashboards for production systemsltligtltligtprovide capacity analysis tuning analysis for cloud applications in a linux and container platformltligtltligtavailable to provide x on call support on a rotating basis with other team membersltligtltligtlead efforts in troubleshooting recovery and root cause investigationltligtltligtperform analysis of user requirements and problems to automate or improve systems and review system capabilities workflow and scheduling limitationsltligtltligtable to follow and develop detailed work plans schedules project estimates resource plans and status reportsltligtltligtfacilitate dr disaster recovery exercises to ensure that the team are fully prepared in any eventltligtltligtlead root cause analysis session to understand what causes issues in production and come up with solutions that will prevent them from happening in the futureltligtltligtensure documentation is created and remain updated for any related workltligtltligtstrong understanding of unix operating systems and any scripting languageltligtltligtevaluates product and service solutionsltligtltulgtltpgtltstronggt ltstronggtltpgtltpgtltstronggtskill requirements ltstronggtltpgtltulgtltligtstrong experience with infrastructure and supportltligtltligtstrong experience with linux osltligtltligtstrong experience with kubernetes and gloo edge soloioltligtltligtexperience with cloud native applicationsltligtltligtexperience with rest or soap api supportltligtltligtexperience with tools like nginx docker postman soap ui elk app dynamics cicd tools and gitlabltligtltligtgood experience in performance measures and tuning capacity planning and management contingency and disaster recoveryltligtltligtstrong scripting knowledge and experienceltligtltligtgood understanding of networking and routingltligtltulgtltpgt ltpgtltpgtltstronggtprimary requirements ltstronggtltpgtltulgtltligtmasters degree in information technology computer science computer information systems computer applications related field or its equivalent and years of relevant work experienceltligtltligtalternative requirements applicant must have bachelors degree in information technology computer science computer information systems computer applications related field or its equivalent and years of relevant work experienceltligtltligtwill accept applicant with any suitable combination of education training or experience will accept year bachelors degree year masters degree in related field as determined to be equivalent to a usltligtltligtmasters degree as determined by a qualified evaluation serviceltligtltulgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-14T21:06:38.000Z"
+  },
+  "company": {
+    "name": "Sophus IT Solutions",
+    "link": "https://www.linkedin.com/company/sophusitsolutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

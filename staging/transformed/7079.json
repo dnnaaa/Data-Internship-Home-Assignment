@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "ltpgtsfox is looking for a site reliability engineer passionate about blockchain based financial technology we are looking for someone who shares our values is a team player but can work independently and who thrives in a dynamic environmentltpgtltpgtltbrgtltpgtltpgtltstronggtroleltstronggtltpgtltpgtin this role you will build and maintain a realtime trading infrastructure alongside the backend and frontend engineers the ideal candidate for this position is a tool builder we are looking for a strong engineer who is passionate about applying that skill set to problems related to operations and system administrationltpgtltpgtltbrgtltpgtltpgtltstronggtwhat youll doltstronggtltpgtltulgtltligtdevelop and maintain an sla and error budget for hundreds of microservicesltligtltligtengineer services aimed at infrastructure automation and high availabilityltligtltligtown and improve sfoxs continuous integration and deployment processesltligtltligtdevelop and maintain infrastructure and security strategyltligtltligtanalyze potential risks of downtime and develop systems that will eliminate the issueltligtltligtwork alongside the engineering team to improve the quality of their code ampamp systemsltligtltulgtltpgtltbrgtltpgtltpgtltstronggtabout youltstronggtltpgtltulgtltligtundergraduate degree in computer science and engineering or equivalent required masters degree is a plusltligtltligtfive years of experience maintaining high availability servicesltligtltligtextensive experience with aws cloudflare kubernetes docker and linuxltligtltligtworking knowledge of google app engine kops cloudformation terraform and circleciltligtltligtknowledge of security best practicesltligtltligtexperience with bash python yaml configuration and secret managementltligtltligtintimate knowledge of building and maintaining database clusters caches and proxies redis nginx etcltligtltligtpassion for innovation automation and for working in early stage startupsltligtltulgtltpgtltbrgtltpgtltpgtltstronggtltspan classqlcursorgtltspangtwe loveltstronggtltpgtltulgtltligtexperience working with trading and market dataltligtltligtexperience in highfrequency or algorithmic tradingltligtltligtexperience in trading digital currencyltligtltligtknowledge of computational mathematics statistics and machine learningltligtltligtunderstanding of digital currency trading marketltligtltligtinterest in bitcoin digital currency and distributed ledger technologyltligtltulgtltpgtltbrgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T15:39:48.000Z"
+  },
+  "company": {
+    "name": "SFOX",
+    "link": "https://www.linkedin.com/company/sfox"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

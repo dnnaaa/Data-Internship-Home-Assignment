@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "dice is the leading career destination for tech experts at every stage of their careers our client thoughtfocus is seeking the following apply via dice todayltbrgtltbrgtjob title site reliability engineer job type contract contract duration months important immediate start the candidate must be in west coast pacific time zone must be expert in kubernetes eks summary objective as a site reliability engineer you will be a part of a team that will design develop deliver and maintain a microservices based cloud software solution on a servicemesh using modern orchestration technologies what youll do responsible for cloud platform production infrastructure respond to production incidents receiving oncall notifications of service distributions and coordinating with development teams to resolve outages create and share incident postmortems set up and maintain observability infrastructure maintain service level objectives monitor and improve service performance and scalability reduce mttr and false positive rates ensure and report on grc compliance reduce toil automate automate and automate some more skills you need youre passionate about researching implementing and managing solutions to build a cloud native platform you get into deep philosophical debates about the benefits of each major cloud provider and can argue the merits of each you know what five nines means and the steps needed to achieve it you understand that observability is crucial and you have a dashboard of metrics that prove it you dream about new ways to optimize cloud infrastructure you laugh maniacally as you design chaos engineering tests your root cause analysis walks the fine line between detail and brevity while understanding the true goal is to learn teach and adapt your systems are so well maintained that you double check your alert settings because they havent gone off in months technologies you should know aws kubernetes eks terraform istio argocd datadog kafka amazon msk",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T22:17:45.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Hospital &amp; Health Care",
+    "description": "cerebral staffing llc is seeking a ltstronggtsite reliability engineerltstronggt to work remotely for our direct client ltstronggtjohn deere ltbrgtltbrgtltstronggtas a site reliability engineer for john deere you will engage with teams across our enterprise to bring focus and knowledge on reliability performance ampamp stability operational readiness observability and technical practices this team member will be pairing with application development teams to accomplish this our focus will start with measuring what the customer finds value in and from there we will drive to make that a better experienceltbrgtltbrgtresponsibilitiesltbrgtltulgtltligtltligtltligtreliabilityltligtltligtidentify technical and process gaps to implement improvements that increase operational reliabilityltligtltligtincrease operational efficiency and promote stability through automationltligtltligtproblem management help teams perform postincident reviews to eliminate the possibility of reoccurrenceltligtltligtperformance ampamp stabilityltligtltligtworks with other members of their assigned product to ensure that the inscope applicationsplatforms are meeting performance and stability requirements through helping the team implement load tests tracing monitoring etcltligtltligtoperational readinessltligtltligtensures that applicationsplatforms in the product are operationally ready for productionltligtltligtprovides guidance to product teams on devsecopsltligtltligtobservabilityltligtltligtdevelop dashboards for alerting and monitoring to ensure application systems service reliability and availabilityltligtltligtmonitoring and metrics works with app dev teams to ensure that applicationsplatforms have the appropriate monitoring and metrics in place to appropriately measure performance and stabilityltligtltligtan devopsengineering technical practices focusltligtltligtwrite quality code using solid principles in test driven development with languages such as java ruby go python and bashltligtltligthave functional working knowledge of linux systems as we engage with different teamsltligtltligta foundational knowledge of cicd to use in working with the teams we engage withltligtltligtbe able to apply infrastructure as code as a practice in everything we work withltligtltligtprovide functional knowledge of howwhen to use cloud to solve different problems related to reliabilityltbrgtltligtltulgtltstronggtcerebral staffing offers healthvisiondental insurance paid holidaypto shorttime disability k and paid life insuranceltbrgtltbrgtltstronggtpowered by jazzhrltbrgtltbrgtgafiii",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T19:05:32.000Z"
+  },
+  "company": {
+    "name": "Cerebral Staffing, LLC",
+    "link": "https://www.linkedin.com/company/cerebral-staffing-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 156000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Milan",
+    "region": "IL",
+    "postal_code": "61264",
+    "street_address": null,
+    "latitude": 41.44266,
+    "longitude": -90.56416
+  }
+}

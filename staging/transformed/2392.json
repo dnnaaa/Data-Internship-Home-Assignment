@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "ltstronggtltugtteam nameltbrgtltbrgtltugtltstronggtit site reliability engineeringltbrgtltbrgtltstronggtltugtjob titleltbrgtltbrgtltugtltstronggtsite reliability engineerltbrgtltbrgtltstronggtltugtrequisition idltbrgtltbrgtltugtltstronggtrltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtat blizzard entertainment our site reliability engineers sres use systems expertise combined with software engineering patterns to help define create and support the architecture build systems orchestration and operations of services across the business the role is comprised of talented engineers that are focused on evangelizing reliabilityasafeature through monitoring servicelevel objectives automation everythingascode and testingltbrgtltbrgtblizzards games and platforms reach a global audience of passionate gamers the scale is massive and the challenges are very real but wise application of technology is the answer to keep it all running reliably with minimal oversight our site reliability engineers are at the heart of this work working directly with the engineering teams from idea to launch to deliver the most epic and reliable experiences everltbrgtltbrgtas an sre at blizzard you may find yourselfltbrgtltulgtltligtbeing part of an oncall rotation to assist finding a resolution during incidentsltligtltligthosting blameless postmortems to share learnings discover gaps embrace transparency and improve reliability across our servicesltligtltligtbuilding positive and collaborative relationships across the companyltligtltligtemploying your systems knowledge to triage problems and tune resource usageltligtltligtchampioning automation to reduce toil and increase development velocityltligtltligthelping define and instrument servicelevel objectives to ensure epic player experiencesltligtltligtleveraging configuration management to build and maintain consistency across servicesltligtltligtbuilding terraform configs to manage infrastructure in public and private cloudsltligtltligtsupporting and improving build pipelines with jenkins argo andor spinnakerltligtltligtadopting containers and kubernetes for new and existing servicesltligtltligtapplying everythingascode methodologies across configuration infrastructure orchestration and elsewhere ltbrgtltligtltulgtyou may succeed in this role if youltbrgtltulgtltligtlove to solve novel and exciting problemsltligtltligtdislike solving the same problems overandover so you automate or eliminate themltligtltligtare inspired to make everyones job easier by improving workflowsltligtltligtare comfortable digging through metrics logs and whatever else is available to triage and fix an incident at any timeltligtltligtstrive to be better smarter and faster tomorrow than you are todayltligtltligtenjoy trying new technologies to improve what were doing todayltligtltligtare okay using older technologies that may not be perfect but are good enough and low maintenanceltligtltligtnaturally spread the philosophies and practices of devops to othersltligtltligtlike to collaborate with others to solve problems share knowledge and provide feedbackltligtltligtcan selfassess the needs of a system or team and make a case to prioritize that workltligtltligtrelish working with software network cloud and systems engineers to solve problems across all tiers of the stackltligtltligthelp your peers succeed as much as you can ltbrgtltligtltulgttypes of projects you may work onltbrgtltulgtltligtmanaging services and infrastructure supporting blizzards incredible platforms and gamesltligtltligtdefining the future of running services for our platforms and games with kubernetesltligtltligtsupporting our massive global data platforms across multiple cloudsltligtltligtperforming and improving service migrations from one clouddata center to another ltligtltligtworking closely with our incubation teams to help define how future products should operateltligtltligtintegrating monitoring and logging with systems to improve observability and enable servicelevel objectivesltligtltligtdesigning and executing stress tests to validate scale expectations vs reality ltbrgtltligtltulgtareas of expertise for an sre at blizzardltbrgtltbrgtltstronggtltugtbelow is a nonexhaustive list of technologies sres may be exposed toltbrgtltbrgtltugtltstronggtsres at blizzard are expected to become experts in the technologies used by the teams they are working withltbrgtltulgtltligtservicelevel objectives sli slo sla error budget burn rateltligtltligtdistributed systems architectures microservices highavailability electionsltligtltligtconfiguration management puppet hiera terraform terragrunt ansibleltligtltligtcontainer computing docker kubernetes service meshltligtltligtcloud services and architecture aws gcp openstackltligtltligtdistributed message bus rabbitmq kafkaltligtltligtproxies and load balancing nginx haproxy envoyltligtltligtmonitoring prometheus kibana grafana elasticsearch datadogltligtltligtlogging splunk syslog elk stack linux journal grepltligtltligtsource control github enterprise perforceltligtltligtcicd jenkins argo spinnakerltligtltligtlinux bash debugging tuningltligtltligtnetworking triaging packet loss routingltligtltligtprogramming python go c c shell powershellltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T12:56:52.000Z"
+  },
+  "company": {
+    "name": "Blizzard Entertainment",
+    "link": "https://www.linkedin.com/company/blizzard-entertainment"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 187000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92602",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtjob descriptionltstronggtltpgtltpgtltbrgtltpgtltulgtltligtapply advanced machine learning deep learning and nlpnlu techniques to build cutting edge ai applicationsltligtltligtuse effective text representation techniques to develop useful featuresltligtltligtwrite productionready code in python applying coding and oop best practicesltligtltligtdevelop and deliver software using python and various ai related libraries applying the corporate sdlc and support continuous integration and continuous deployment of the microservices use containerization orchestration devops for faster delivery and easier maintenanceltligtltligtdefine and implement evaluation strategies for each required functionality demonstrate applicability and performance of the delivered application and communicate clearly on its limitsltligtltligtcollaborate with the various teamsampnbsppresent plans ideas and deliverablesltligtltulgtltpgtltbrgtltpgtltpgtltstronggtjob qualificationltstronggtltpgtltpgtampnbspltpgtltulgtltligtbachelors degree in computer science mathematics or related fieldltligtltligtat least one year of experience as a natural language processing engineerltligtltligtknowledge of data structures semantic extraction and modellingltligtltligtknowledge of text representation eg ngrams sentiment analysis bag of words etcltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T16:14:47.000Z"
+  },
+  "company": {
+    "name": "Wipro Limited",
+    "link": "https://in.linkedin.com/company/wipro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Frontend",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "ltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtas a frontend engineer youll work on the code behind apps used by millions globally every day in hundreds of cities people tap their phones to get a ride get food delivered or earn extra cash with uber were looking for hardworking engineers to make sure every one of those experiences is magical join us to work on some of the most exciting challenges in techltbrgtltbrgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligtbachelors degree in computer science or related technical field or equivalent practical experienceltligtltligttwo years of experience coding with html css javascript and related web technologiesltligtltligtexperience in web frontend development experience with modern javascript tooling react redux or equivalent and so onltbrgtltligtltulgtltstronggtltugtpreferred qualificationltbrgtltugtltstronggtltulgtltligtat least five years of software engineering experienceltligtltligtexperience working with react or nodejs applicationsltligtltligtexperience with unit and integration testingltligtltligtgood written verbal communication skillsltligtltligtgreat team playerltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T09:40:11.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 104000,
+    "max_value": 188000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

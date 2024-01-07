@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Financial Services,Investment Banking,Investment Management",
+    "description": "morgan stanley is a leading global financial services firm providing a wide range of investment banking securities investment management and wealth management services we advise originate trade manage and distribute capital for governments institutions and individuals as a market leader the talent and passion of our people is critical to our success together we share a common set of values rooted in integrity excellence and strong team ethic we provide you a superior foundation for building a professional career where you can learn achieve and growltbrgtltbrgtltstronggttechnologyroledepartment at morgan stanley ltbrgtltbrgtltstronggttechnology is the key differentiator that ensures that we manage our global businesses and serve clients on a market leading platform that is resilient safe efficient smart fast and flexible technology redefines how we do business in global complex and dynamic financial markets we have a large number of award winning technology platforms that help to propel our firms businesses to be the top in the market our india technology teams are based in mumbai and bengaluru we have built strong technofunctional teams which partner with our offices globally taking global ownership of systems and products we have a vibrant and diverse mix of technologists working on different technologies and functional domains there is a large focus on innovation inclusion giving back to the community and sharing knowledgeltbrgtltbrgtltstronggtdepartment profileltbrgtltbrgtltstronggtwealth management technology wmimt is responsible for the design development delivery and support of the technical platform behind the products and services used by the business morgan stanley wealth management wm is a product of the acquisition of smith barney from citigroup which was completed in june its core client base is individual investors small to mediumsize businesses and institutions and high net worth families and individuals in the second half of wm reached a milestone with its business having surpassed trillion in total client assetsltbrgtltbrgtltstronggtltugtposition overviewltbrgtltbrgtltugtltstronggtwe are seeking a machine learning engineer with expertise in design and development of data and ml centric applications at scale the right candidate would have a background in data engineering and requisite familiarity and experience working with machine learning ml algorithms and frameworks the role is a confluence of engineering programming ml and data analysis knowledge of data science is a plus this position is for the strats team which is part of artificial intelligence and knowledge management group within morgan stanley wealth management the team is comprised of members located in nyunited states mumbaiindia and bengaluruindia the team partners with various businesses and it groups within firm to develop analytics and ml powered solutions aimed at riskanalytics and vulnerability detection assessment the team accumulates data from a variety of internal and external upstream systems in order to develop statistics models dashboards and metrics for the technology risk teamltbrgtltbrgtltstronggtthe right candidate has responsibilitiesltbrgtltstronggtltulgtltligtcreate ml model training validation and hyperparameter search pipelinesltligtltligtexplore new data sources and data select appropriate datasets and their representation methods perform data analysis statistical and otherwise to derive inferences from dataltligtltligtdesign machine learning systems and oversee the platform on which the solutions would be deployedltligtltligtensure data integrity through data quality validation governance and transparencyltligtltligtdesign and build distributed scalable and reliable data pipelines that ingest and process data at scale and in realtimeltligtltligtproduction deployment and model monitoring to ensure stable performance and adherence to standardsltligtltligtevaluate stateofart datacentric technologies and prototype solutions to improve our architecture and platformltligtltligtunderstand data visualization to create meaningful dashboards for endusersltbrgtltligtltulgtltstronggtltugtprimary skillsltbrgtltugtltstronggtltulgtltligtexperienced professional with years of experience developing and implementing ml models in big data ecosystem ie hadoop spark hbase hive impala or any other similar distributed computing technologyltligtltligtproficiency with pythonr and basic libraries for machine learning such as scikitlearn pandasltligtltligtproficiency with dataiku or similar toolsltligtltligtproficiency in data analysis using complex and optimized sql and or abovementioned technologiesltligtltligtunderstanding of data structures data modeling and software architectureltligtltligtexperience in architecture design and implementation of data intensive applications for practical usecasesltligtltligtexpertise in visualizing large datasets in an efficient mannerltligtltligtability to work in fast paced and dynamic environmentltligtltligtgood written and verbal communication skillsltbrgtltligtltulgtltstronggtltugtgood to have skillsltbrgtltugtltstronggtltulgtltligtindepth understanding of machine learning and statisticsltligtltligtexperience in domains finance mortgages bank deposit products ltligtltligttableau for data visualizationltligtltligtexperience working in an agile environmentltbrgtltligtltulgtltstronggtposting dateltbrgtltbrgtltstronggtapr ltbrgtltbrgtltstronggtprimary locationltbrgtltbrgtltstronggtamericasunited states of americanew yorknew yorkltbrgtltbrgtltstronggteducation levelltbrgtltbrgtltstronggtbachelors degreeltbrgtltbrgtltstronggtjobltbrgtltbrgtltstronggtdevelopmentltbrgtltbrgtltstronggtemployment typeltbrgtltbrgtltstronggtfull timeltbrgtltbrgtltstronggtjob levelltbrgtltbrgtltstronggtvice president",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T00:33:23.000Z"
+  },
+  "company": {
+    "name": "Morgan Stanley",
+    "link": "https://www.linkedin.com/company/morgan-stanley"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76400,
+    "max_value": 111000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

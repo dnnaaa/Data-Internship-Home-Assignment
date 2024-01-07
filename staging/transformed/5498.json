@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (.NET)",
+    "industry": "Accounting,Financial Services,Information Technology and Services",
+    "description": "ltulgtltligtare you passionate about net technologyltligtltligtare you a team builder a team player a leader extraordinaireltligtltligtdo you find yourself constantly looking for ways to do better be better and build better softwareltligtltligtif yes to all we would like to talk to youltligtltulgt ltstronggtresponsibilitiesltbrgtltstronggtltulgtltligtdesign develop and deliver code that is necessary to support new feature developments and enhancements in an agile environmentltligtltligtwork closely with our derivative and risk teams to integrate best practices in the development of analytical tools and processesltligtltligtwork extensively with large data sets and have the ability to optimize and create efficient data models and sql queries for performance ltligtltligtinterface with rd party data vendors to consume rd party apisltligtltligteffectively communicate and document the application architecture utilizing industry standards as part of a teamltligtltligtdeliver unit tests with all code to prove correctness robustness and scalabilityltligtltulgt ltstronggtqualifications ltbrgtltstronggtltulgtltligta minimum of years software development experienceltligtltligtexperience with rest api web apis restful web servicesltligtltligtexperience with c ms sql javascriptltligtltligtstrong experience in one or more of the following technologies aspnet mvc web apiltligtltligtexperience with modern ui web development ie angular typescriptltligtltligtstrong experience with sql server and database designltligtltligtknowledge of gpucuda programming and programming for and deploying applications on the cloud is preferredltligtltligtknowledge of solid principles is preferredltligtltulgt ltstronggtsalary ltstronggt ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:11:36.000Z"
+  },
+  "company": {
+    "name": "Allied OneSource",
+    "link": "https://www.linkedin.com/company/allied-onesource"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81400,
+    "max_value": 138000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "West Des Moines",
+    "region": "IA",
+    "postal_code": "50265",
+    "street_address": null,
+    "latitude": 41.575504,
+    "longitude": -93.71303
+  }
+}

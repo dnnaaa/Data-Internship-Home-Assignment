@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services",
+    "description": "as an sre youll be focused on running better production applications and systemsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtdesign code test and deliver software to automate manual operational workltligtltligttroubleshoot priority incidents facilitate blameless postmortems and ensure permanent closure of incidentsltligtltligtengage with development team throughout the life cycle to help develop software for reliability and scale ensuring minimal refactoring or changesltligtltligtidentify application patterns and analytics in support of better service level objectivesltligtltligtdesign selfhealing and resiliency patternsltligtltligtdesign automated software and product upgrades change management and release management solutionsltligtltligtcoach or manage teams as applicableltligtltligtparticipate in the x support coverage as neededltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligtbachelors degree or equivalent experience in an software engineering disciplineltligtltligtexpertise in at least one technology stack designing coding testing and delivering softwareltligtltligtproficiency in one or more technology domains may be a crossdomain expert able to solve complex and mission critical problems within a business or across the firmltligtltligtworking knowledge of infrastructure components eg routers load balancers cloud products container systems compute storage and networksltligtltligtexcellent debugging and trouble shooting skillsltligtltulgtjpmorgan chase ampamp co one of the oldest financial institutions offers innovative financial solutions to millions of consumers small businesses and many of the worlds most prominent corporate institutional and government clients under the jp morgan and chase brands our history spans over years and today we are a leader in investment banking consumer and small business banking commercial banking financial transaction processing and asset managementltbrgtltbrgtwe recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success we are an equal opportunity employer and place a high value on diversity and inclusion at our company we do not discriminate on the basis of any protected attribute including race religion color national origin gender sexual orientation gender identity gender expression age marital or veteran status pregnancy or disability or any other basis protected under applicable law in accordance with applicable law we make reasonable accommodations for applicants and employees religious practices and beliefs as well as any mental health or physical disability needsltbrgtltbrgtequal opportunity employerdisabilityveterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T12:56:56.000Z"
+  },
+  "company": {
+    "name": "JPMorgan Chase &amp; Co.",
+    "link": "https://www.linkedin.com/company/jpmorganchase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 93400,
+    "max_value": 190000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Data Engineer",
+    "industry": "Information Technology and Services,Insurance",
+    "description": "ltpgtltstronggtsorry no corp to corp available with this opportunityltstronggtltpgtltpgtltbrgtltpgtltpgtltstronggtmachine learning data engineerltstronggtltpgtltpgtjoin our team work with us work on challenging machine learning and ai projects with the goal to improve the everyday life of clients members you will collaborate with data scientist analyst business and it teams to design implement and deploy machine learning and ai services using python pyspark azure services databricks terraform and other opensource software develop plans designs code and documentation and to perform code reviews testing and debugging you will embrace and enforce best practices in our data science community with automated repeatable data pipelinesltpgtltpgtsome examples of how we add capabilities to machine learning platform includeltpgtltulgtltligtcreating templates for data scientists embracing leadingltligtltligtedge modeling techniquesltligtltligtestablishing a feature store with tens of thousands of features available to use in predictive modelsltligtltligtdefining monitoring auditing data lineage and dependency tracking for data pipelines to improve qualityltligtltligtintegrating ethical ai bias monitoring and drift analysis into modelling processingltligtltligtstandardizing the definitions of clinical financial and actuarial features for use across the businessltligtltulgtltpgtltstronggtsome of the tools we useltstronggtltpgtltulgtltligtpython pyspark azure databricksltligtltligtazure data factory azure devops azure kubernetesampnbspservice cosmosdb appinsights kafka pulsarltligtltligtterraformltligtltligtopensource ml software like scikit learn sparkml tensorflow horovod petastormltligtltulgtltpgtampnbspltpgtltpgtltstronggtjob descriptionltstronggtltpgtltulgtltligtbuild and deploy ml models on azure using best practices in security and azure servicesltligtltligtunderstand best practices for effective predictive models including cluster management and algorithms and evangelize with data scientistsltligtltligtthrive in a fastpaced agile environment closely interacting with business analysts software engineers machine learning scientists data engineers and data scientistsltligtltligtput together production templates review and test ml code and deploy it to productionltligtltulgtltpgtampnbspltpgtltpgtltstronggtrole essentialsltstronggtltpgtltulgtltligtbs in computer science or related fieldltligtltligt years of experience working on cloud platforms azure strongly preferredltligtltligt years of experience with machine learning and ailtligtltligt years of software development experience with significant python experienceltligtltligtsolid knowledge of data structures and algorithmsltligtltligtexperience in production environments ideally enterprise level directly responsible for creating production jobsltligtltligtability to learn new technologies and comprehend unfamiliar data domains and business processes quicklyltligtltulgtltpgtampnbspltpgtltpgtltstronggtrole desirablesltstronggtltpgtltulgtltligtopensource contributions and portfolio of shipped code at githubltligtltligtexperience with azure particularly azure data factory adf spark git and other software engineering toolsltligtltligtexperience working with data scientists to streamline code implement reliable production processes to score models andor building scalable efficient processes to derive new dataltligtltligtfamiliar with healthcare applications terminologies and dataltligtltligtpassion projects with mlainlp for example kaggle competitions and hackathonsltligtltulgtltpgtampnbspltpgtltpgtltstronggtrole bonusltstronggtltpgtltulgtltligtworking multiple tools together on the azure platform databricks adf appinsights and other monitoringlogging tools to deploy to productionltligtltligtexperience in an enterprise production environment where they have hardened refactored or otherwise improved upon the training code from data scientistsltligtltulgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-08T14:26:40.000Z"
+  },
+  "company": {
+    "name": "Strategic Systems Inc",
+    "link": "https://www.linkedin.com/company/strategic-systems-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati",
+    "region": "OH",
+    "postal_code": "45241",
+    "street_address": null,
+    "latitude": 39.1037,
+    "longitude": -84.51361
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Financial Services",
+    "description": "you lead the way weve got your backltbrgtltbrgtat american express we know that with the right backing people and businesses have the power to progress in incredible ways whether were supporting our customers financial confidence to move ahead taking commerce to new heights or encouraging people to explore the world our colleagues are constantly redefining whats possible and were proud to back each other every step of the way when you join teamamex you become part of a diverse community of over colleagues all with a common goal to deliver an exceptional customer experience every dayltbrgtltbrgtltstronggtamerican express is looking for a handson software engineer in the risk decision technologies rdt organization for the customer c engineering team ltstronggtthe rdt team develops and handles critical components and platforms for new products being launched to support the next generation of customers across market segments the c platform is a critical platform in american express that provides a holistic view of the customers relationships with various american express products and manages customers demographics and provides intelligent insights about customers contact preferences this platform is an integral part of all critical user journeys and is at the fore front of all the new initiatives the company is undertakingltbrgtltbrgtin c we build and operationalize highly available and scalable services using eventdriven reactive architecture to provide real time services to power critical use cases across the company we perform data analysis work on anomaly detection and create new data insightsltbrgtltbrgtthis role of an engineer will be an integral part of a team that designs and builds largescale cloudnative eventdriven reactive applications to create degree view of the customerltbrgtltbrgtltstronggtltugtas a software engineer you willltbrgtltugtltstronggtltulgt ltligtbuild new microservices that help manages our rapidly growing data hubltligt ltligtbuild services to perform real time data processing at scale forltligt ltligtrelational analytical queries across multidimensional dataltligt ltligtbuild services that generalize stream processing to make it trivial to source sink and stream process dataltligt ltligtimprove efficiency reliability and scalability of our data pipelinesltligt ltligtwork on crossfunctional initiatives and collaborate with engineers across organizationsltligt ltligtbuild cicd pipelines for continuous integration and deliveryltligt ltulgtltulgt ltligt years of experience in building large scale distributed applications with objectoriented design using java related stackltligt ltligtproficient in identifying and applying software design patternsltligt ltligtexperience with nosql technologies such as cassandra couchbase etcltligt ltligtexperience with web services and api development on enterprise platformsltligt ltligtexperience with automated release management using maven git jenkinsltligt ltligtholds a bachelors degree in computer science information systems or other related field or has equivalent work experienceltligt ltligtexperience with vertx and event driven architecture is a plusltligt ltligtexperience with couchbase postgres is a plusltligt ltligtexperience with dockeropenshift based deployment is a plusltligt ltbrgtltulgtltstronggtemployment eligibility to work with american express in the us is required as the company will not pursue visa sponsorship for these positions ltbrgtltbrgtltstronggtltstronggtamerican express is an equal opportunity employer and makes employment decisions without regard to race color religion sex sexual orientation gender identity national origin protected veteran status disability status age or any other status protected by lawltstronggt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:34:53.000Z"
+  },
+  "company": {
+    "name": "American Express",
+    "link": "https://www.linkedin.com/company/american-express"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 90000,
+    "max_value": 126000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist - Marketing Focus",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtjob summaryltbrgtltbrgtltugtltstronggtjoin highly skilled data science team using state of the art machine learning and data analysis to attack a broad range of unique problems we are engaged in solving difficult problems in prediction optimization clustering anomaly detection time series analysis and natural language processing nlp application areas include network operation cyber security customer experiences marketing and many more you will have a unique opportunity to apply data science and machine learning techniques to wireless data and work in a new area for data science which is deep and scientificltbrgtltbrgtthe data is huge in scale encompassing measurements from tens of millions of users worldwide at time granularity of seconds and your work will go into enterprise class products as well as consumer products that you and your friends are buyingltbrgtltbrgtltstronggtltugtresponsibilitiesltugtltstronggt ltulgtltligtcollaborate with cross functional teams to translate complex reallife business problems into concrete problem statements formulate the technical specifications and develop the machine learning solutionsltligtltligtutilize data science and machine learning techniques toltligtltulgtltligtidentify opportunities to acquire new customers and upsell new productsltligtltligtsegment customers into different cohorts based on their wifi usage behaviors and characteristicsltligtltligtmeasure the impact of different marketing campaigns such as referral royalty credits rebates rewards and optimize expensesltligtltligtpredict user behaviors such as calls churn and satisfaction scores to identify underlying problems and support requirementsltligtltulgtltligtdesign and develop data pipelines from various data sources by processing structured and unstructured data to support our machine learning and analytic needsltligtltligtconduct indepth analysis on our wifi telemetry and user behavior data derive actionable insights as well as critical kpis build dashboards to monitor the network statistics and propose the direction of our product developmentltligtltligtcreate compelling data stories and visualizations for marketing and publicityltbrgtltligtltulgtltstronggtltugtqualifications requiredltbrgtltugtltstronggtltulgtltligtstrong ability in python and sqlltligtltligtexperience in performing sophisticated statistical analysis on realworld large datasetsltligtltligtexpertise in data analysis and processing in particular data wrangling skills such as data cleaning augmentation validation the creation of etl pipelinesltligtltligtexperience working with high volume data and distributed data processing tools spark mapreduce hadoop hive etcltligtltligthandson experience working with machine learning frameworks and fundamental understanding of machine learning conceptstechniquesltligtltligtproactive autonomous yet collaborative passionate about growing our business and can thrive in a fastpaced and intellectually rigorous environmentltligtltligt years of industrial experience in data science requiredltligtltligtms or phd in related disciplinesltbrgtltligtltulgtltstronggtltugtexperience desiredltbrgtltugtltstronggtltulgtltligtexperience in marketing analytics and ab testingltligtltligtexperience with data visualization tools such as tableau and redashltligtltligtexperience in timeseries analysis and forecastingltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:19:01.000Z"
+  },
+  "company": {
+    "name": "Plume Design, Inc",
+    "link": "https://www.linkedin.com/company/plume-wifi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 105000,
+    "max_value": 173000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

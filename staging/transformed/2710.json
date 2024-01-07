@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "ltpgtltugtsite reliability engineer sreltugtltpgtltpgtpalo alto ca united statesltpgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtltstronggtltugtabout yo labsltugtltstronggtltpgtltpgttechnology has changed daily life in a way no one could have imaginedampnbspits made us more productive capable and connectedampnbspbut it has come at a costampnbspwere productive but overwhelmedampnbspcapable but paralyzed by too many choicesampnbspconnected but only if social media countsampnbspliving this way creates a void in our daily livesampnbspyo labs is here to change thatampnbspour team is committed to alleviating the mental load that our modern world has created by putting human connection back into technology and caretaking at the heart of everything we createltpgtltpgtltbrgtltpgtltpgtas part of a growing team you will work on various aspects of the tooling and infrastructure including security and identity kubernetes clusters cicd systems services federation mesh technologiesampnbspltpgtltpgtltbrgtltpgtltpgtltstronggtltugtjob dutiesltugtltstronggtltpgtltulgtltligtdesign and build tooling automation and services that enable productivity across the entire organizationampnbspltligtltligtimprove security posture of the organization by way of tooling policy example code and publishing best practicesampnbspltligtltligtdesign and automate lifecycle for cloud resources including ekskubernetes vms iot core iam usersroles etcampnbspltligtltligtdesign and implement observability solution enabling developers self service debugging and alerting capabilitiesampnbspltligtltligtdive and support our idp and sso solution from corp network into cloudproduction systemsampnbspltligtltligthelp to manage cicd systems tooling and general automationampnbspltligtltligtdefine build and evangelize best practices for a kubernetes based architectureampnbspampnbspltligtltulgtltpgtltbrgtltpgtltpgtltstronggtltugtqualificationsltugtltstronggtltpgtltulgtltligtbabs degree or equivalent experienceltligtltligt or more years of system and site reliability engineering experienceltligtltligtknowledge of the primary aws services ec elb rds route ampamp sltligtltligtknowledge of idps such as googles gsuite and oktaltligtltligtfirst hand experience kubernetes running in awsltligtltligtexperience deploying microservices using an envoy based meshltligtltligtleading highlyavailable and faulttolerant enterprise and webscale software deploymentsltligtltligtinfrastructure automation through code and general scripting eg go bash pythonltligtltligtconfiguration management using terraformltligtltligtstrong practical linux systems administration skills in a cloud and containerized environmentltligtltligtexperience managing cloud operations including data assurance monitoring alerting and notificationsltligtltligtdemonstrated ability to think strategically about business product and technical challengesltligtltligtexperience leading discussions across teams regarding tradeoffs best practices and risk mitigationltligtltulgtltpgtltbrgtltpgtltpgtltstronggtltugtwhat we offerltugtltstronggtltpgtltulgtltligtcompetitive compensation packageltligtltligtcomprehensive benefitsltligtltligtpet insuranceltligtltligtpaid parental care leaveltligtltligtemployee referral programltligtltligteducational assistanceltligtltligtflexible work programltligtltligtvolunteer time offltligtltligttotal well being programltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T06:20:37.000Z"
+  },
+  "company": {
+    "name": "Yo Labs",
+    "link": "https://www.linkedin.com/company/yo-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

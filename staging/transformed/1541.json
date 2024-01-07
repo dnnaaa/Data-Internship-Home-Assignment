@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "ltstronggtthe roleltbrgtltbrgtltstronggttesla aims to accelerate worlds transition to a sustainable energy by ensuring we provide a seamless and frictionless experience to our customers to meet this goal tesla is constantly striving to innovate and provide best in class services through introduction of pioneering new products and services to that end tesla is seeking hardworking and passionate software engineers as various levels these engineers will be part of a startup team that is focused on delivering a highly scalable platform that enables growth of current and future products and services to our customersltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt design and develop high quality scalable and stable web applications andor backend servicesltligtltligt develop clientside applications that connect with web servicesltligtltligt develop backend web servicesltligtltligt follow teslas high standards for securitybest practices in all developmentltligtltligt partner closely with security team for code analysis and design reviewsltligtltligt perform unit testingltligtltligt process bug reports and release fixesltligtltligt participate in code reviewsltligtltligt participate in agile processesltligtltligt always think innovatively to solve customer problemsltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligt bachelors or masters degree in computer science or related field or equivalent in experienceltligtltligt years of experience in building software products for external customer use in java c c c or some other objectoriented language with evidence of exceptional abilityltligtltligt experience with writing sqlbased applications such as mysql or ms sql or oracleltligtltligt experience working with linux or similar ossltligtltligt experience building scalable applications web applications or backend servicesltligtltligt detailoriented can identify and fix own bugs and write quality code that runs efficientlyltligtltligt passionate positive cando attitude and can adapt to any challenge and willing to take ownership of problems and brings issues to full resolutionltligtltligt enjoy working in a team that follows agile practices and code reviews and cicdltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T19:50:38.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 72300,
+    "max_value": 128000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

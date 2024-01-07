@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Data Engineer - Azure Platform",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtltstronggt key role responsibilities ltbrgtltstronggtltulgtltligt translate business requirements to technical solutions leveraging strong business acumen ltligtltligt analyses current business practices processes and procedures as well as identifying future business opportunities for leveraging microsoft azure data ampamp analytics paas services ltligtltligt support the planning and implementation of data design services providing sizing and configuration assistance and performing needs assessments ltligtltligt delivery of architectures for transformations and modernizations of enterprise data solutions using azure cloud data technologies ltligtltligt design and build modern data pipelines and data streams ltligtltligt design and build data service apis ltligtltligt develop and maintain data warehouse schematics layouts architectures and relationalnonrelational databases for data access and advanced analytics ltligtltligt expose data to endusers using powerbi azure api apps or any other modern visualization platform or experience ltligtltligt implement effective metrics and monitoring processes ltligtltligt travel as needed ltbrgtltligtltulgtltstronggtltugtkey role skill ampamp capability requirementsltbrgtltugtltstronggtltulgtltligt strong experience as an azure data engineer and must have azure purview experience ltligtltligt strong experience in azure functions optional logic apps optional c net sql apis rest ltligtltligt demonstrated experience in turning business use cases and requirements into technical solutions ltligtltligt expert level understanding of azure data factory azure data lake azure sql dw and azure sql azure app service is required ltligtltligt experience in business processing mapping of data and analytics solutions ltligtltligt ability to conduct data profiling cataloging and mapping for technical design and construction of technical data flow ltligtltligt the ability to apply such methods to solve business problems using one or more azure data and analytics services in combination with building data pipelines data streams and system integration ltligtltligt azure iot azure hdinsight spark azure cosmos db azure stream analytics is a plus ltligtltligt knowledge of python is a plus ltligtltligt experience preparing data for data science and machine learning ltligtltligt experience preparing data for use in azure machine learning andor azure databricks is a plus ltligtltligt demonstrated experience preparing data and building data pipelines for ai use cases text voice image etc ltligtltligt designing and building data pipelines using streams of iot data ltligtltligt knowledge of lambda and kappa architecture patterns ltligtltligt knowledge of master data management mdm and data quality tools and processes ltligtltligt strong team collaboration and experience working with remote teams ltligtltligt knowledge of devops processes including cicd and infrastructure as code fundamentals ltligtltligt working experience with visual studio powershell scripting and arm templates ltligtltligt experience with gittfsvsts is a mustltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:41:34.000Z"
+  },
+  "company": {
+    "name": "UST",
+    "link": "https://www.linkedin.com/company/ustglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Winston-Salem",
+    "region": "NC",
+    "postal_code": "27150",
+    "street_address": null,
+    "latitude": 36.09626,
+    "longitude": -80.24374
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Integration Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltstronggtltugtresponsibilitiesltbrgtltbrgtltugtltstronggtjob description for data integration engineerltbrgtltbrgtto develop a global lab automation data architecture for the global quality laboratory enterprise including information system eln lims integration with vendorindependent laboratory work cells additional support is needed from industry experts in gmp laboratory information technology automation integration and data architecture to achieve these goalsltbrgtltbrgtglobal quality laboratories gql would like to request months of support to build a library of device driversedge devices for automation hardware to be able to publishsubscribe data to a message queue platform using mqtt protocolltbrgtltbrgtactivities the role will take part to develop and implement our strategy include but are not limited toltbrgtltulgtltligtdeliverables attributed to proofofconcept testingdevelopmentltligtltligthardware requirements to satisfy process if applicable ltligtltligtdevelopimplement instrumentdevice connectorsdriversedge devices ltligtltligtarchitectural data handling and transfer technologiessolutions ltligtltligtdefine process execution system requirements and scopeltligtltligtcollaboration with crossfunctional teams to implement endtoend integration from deviceinstrument to lab systemltbrgtltligtltulgtltstronggttechnology requestedltbrgtltstronggtltulgtltligtjava pythonltligtltligtapache kafka or other messaging queue platformsltligtltligtmqtt or other similar messaging protocolltligtltligtgitltbrgtltligtltulgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligthighly motivated individual with years experience working in a gmpregulated environmentltligtltligtbs in engineering computer science related technical field or equivalent experienceltligtltligtexcellent verbal and written communication skillsltligtltligtstrong understanding of data architecture for message brokers eg apache kafka azure edgehub mqtt sparkplug b protocolltligtltligtexperience with equipment specific apis or interfaces andor web apis eg restful ltligtltligtknowledgeexperience developing drivers microservices and software interfacesltligtltligtagile software developmentltbrgtltligtltulgtltstronggtltugtadditional skillspreferencesltbrgtltugtltstronggtltulgtltligtexperience with pharmaceutical or related regulated industriesltligtltligtexperience in laboratory operations lims and eln laboratory automation ltbrgtltligtltulgtmanufacturers including but not limited to biovia thermo scientific hamilton robotics biosero green button go molecular devices softmax pro brooks samplestores hamilton work cells biotek gen darwin lims smartlab labvantageltbrgtltulgtltligtexperience with computer software validation requirements and qualification processes and documentationltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:52:52.000Z"
+  },
+  "company": {
+    "name": "Centraprise",
+    "link": "https://www.linkedin.com/company/centraprise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

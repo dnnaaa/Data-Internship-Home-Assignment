@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtltugtour opportunityltbrgtltbrgtltugtltstronggtchewy is looking to hire ltstronggtsite reliability engineersltstronggt at our boston ma location site reliability engineers are a cross between system and software engineers who are responsible for all operational aspects of chewys ecommerce platform the team is responsible for designing building monitoring and maintaining the infrastructure of our internetfacing and internal services were looking for engineers who want to be a part of developing infrastructure software maintaining it and scaling chewys technology stack come help us build a bigger and better chewy as a site reliability engineer you will be part of a small family within chewy that has a huge impact on our incredible growth ideal candidates will possess the ability to discuss complex technical concepts with a diverse audience across all areas of the organization they will remain calm under pressure and always strive to add structure to highpressure fast paced tasks or projectsltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtfocus on service stability and reliability by working with application owners to set slos error budget and backup and dr strategiesltligtltligtcomplete understanding of operational tools and concepts such as alerting monitoring logging and health checksltligtltligtperform capacity planning and production readiness assessmentltligtltligtembed with product teams during the design and requirements phase of new product development through to initial production launchltligtltligtidentify requirements for other operational teams release engineering automation etc during application development phaseltligtltligtbe a technology and devops evangelist for the rest of the companyltligtltligtparticipate in oncall rotation for level support escalationsltbrgtltligtltulgtltstronggtltugtwhat youll needltbrgtltugtltstronggtltulgtltligtat least years of experience working in an sre role or similarltligtltligthands on experience with orchestration and system configuration tools such as ansible puppet chef terraform preferred etcltligtltligtminimum years of experience in building and managing applications in public cloud platforms like aws preferred gcp or azureltligtltligtexpert in building and maintaining highly available applications including redundancy fail over scalability monitoring and performanceltligtltligthighly skilled in identifying performance bottlenecks identifying anomalous system behavior and resolving root cause of service issuesltligtltligtsolid understandingexperience of web services databases and relating infrastructurearchitectureltligtltligtexperience working with open source community troubleshooting patch submission etcltligtltligtdemonstrated years of linux system administrationltligtltligtexperience with ci tools such as bamboo jenkins circleciltligtltligtability to organize troubleshoot and continuously learnltligtltligtprevious experience working within controls such as sox pci etcltligtltligtbachelors degree mis or cs preferred or equivalent work experience ltligtltligtposition may require travelltbrgtltligtltulgtltstronggtltugtbonusltbrgtltugtltstronggtltulgtltligtaws certified solutions architectltligtltligtadvanced terraform knowledge and orchestration using jenkinsltligtltligtdatadog integration expertise for containerltbrgtltligtltulgtchewy is committed to equal opportunity we value and embrace diversity and inclusion of all team membersltbrgtltbrgtif you have a disability under the americans with disabilities act or similar law or you require a religious accommodation and you wish to discuss potential accommodations related to applying for employment at chewy please contact ltugthrchewycomltugtltbrgtltbrgtto access chewys privacy policy which contains information regarding information collected from job applicants and how we use it please click here httpswwwchewycomappcontentprivacy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T14:59:36.000Z"
+  },
+  "company": {
+    "name": "Chewy",
+    "link": "https://www.linkedin.com/company/chewy-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

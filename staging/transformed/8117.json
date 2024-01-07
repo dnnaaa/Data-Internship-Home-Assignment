@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Mechanical or Industrial Engineering",
+    "description": "spacex was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not today spacex is actively developing the technologies to make this possible with the ultimate goal of enabling human life on marsltbrgtltbrgtltstronggtsite reliability engineerltbrgtltbrgtltstronggtspacex is looking for an experienced site reliability engineer to operate and scale custombuilt missioncritical products for engineering test and launch examples of these products include telemetry databases automated data analysis systems continuous integration systems for rocket and simulation software test infrastructure compute fleet orchestration and vehicle configuration signoff tools we have no shortage of hard problems and challenges the ideal candidate will be flexible possess broad skills across product operations and software development and flourish in a fastpaced and challenging environment he or she should be a selfstarter selfmotivator and demonstrate ingenuity to excel at this positionltbrgtltbrgtltstronggtresponsibilitiesltbrgtltstronggtltulgtltligtdeploy upgrade operatemaintain and scale our suite of mission critical products and services ltligtltligtclosely collaborate with software engineers to create highly operable and maintainable products ltligtltligtmanage the underlying infrastructure in collaboration with it ltligtltligtengage in and improve the whole software development lifecycle of services from inception and design through deployment operation and refinement ltligtltligtpractice sustainable incident response and blameless postmortems ltligtltligtprovide enduser support to engineering for products ltligtltligtparticipate in the teams oncall rotation periodically ltbrgtltbrgtltligtltulgtltstronggtbasic qualificationsltbrgtltstronggtltulgtltligt years of site reliability or devops experience ltligtltligt years of experience with linux operating systems ltligtltligtexperience with puppet ansible or other automation frameworks ltligtltligtexperience with source code and version control tools such as subversion or git ltbrgtltbrgtltligtltulgtltstronggtpreferred skills and experienceltbrgtltstronggtltulgtltligtbachelors degree in computer science information systemsit or engineering ltligtltligt years of systems administration site reliability engineering or devops experience ltligtltligt years of experience with python and pythonbased development frameworks ltligtltligtstrong understanding of docker and kubernetes or similar technologies lxclxd podman swarm ltligtltligtstrong understanding of virtualization and hypervisor technologies virtualbox kvm vsphere ec gce ltligtltligtautomation skills in bash python andor other languages ltligtltligtunderstanding of databases and data modeling ltligtltligtexperience with infrastructure as code iac products for automatically managing hundreds of servers ltligtltligtfocus on performance bottlenecks and performance improvement techniques ltligtltligtexperience with workflow and issue management tools such as jira ltligtltligtstrong networking knowledge of tcpip ltligtltligtcomfortable working with mission critical and sensitive systems with a sense of urgency appropriate to the responsibilities ltligtltligtexcellent communications skills with the ability to communicate with customers peers management etc in both formal and informal situations ltbrgtltbrgtltligtltulgtltstronggtitar requirementsltbrgtltstronggtltulgtltligtto conform to us government space technology export regulations including the international traffic in arms regulations itar you must be a us citizen lawful permanent resident of the us protected individual as defined by usc ba or eligible to obtain the required authorizations from the us department of state learn more about the itar here ltbrgtltbrgtltligtltulgtspacex is an equal opportunity employer employment with spacex is governed on the basis of merit competence and qualifications and will not be influenced in any manner by race color religion gender national originethnicity veteran status disability status age sexual orientation gender identity marital status mental or physical disability or any other legally protected statusltbrgtltbrgtapplicants wishing to view a copy of spacexs affirmative action plan for veterans and individuals with disabilities or applicants requiring reasonable accommodation to the applicationinterview process should notify the human resources department at",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-01T18:07:02.000Z"
+  },
+  "company": {
+    "name": "SpaceX",
+    "link": "https://www.linkedin.com/company/spacex"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75400,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hawthorne",
+    "region": "CA",
+    "postal_code": "90251",
+    "street_address": null,
+    "latitude": 33.916424,
+    "longitude": -118.35028
+  }
+}

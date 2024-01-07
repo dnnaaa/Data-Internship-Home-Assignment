@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "the financial industry thrives on data driven decision making you will be joining the team that builds and operates foundational platform used by the rest of goldman sachs to apply data science and machine learning to the daily operations of the firm we take the best components from open source and major cloud providers and adapt and expand them to accommodate unique needs of the firm the resulting systems are not only part and parcel of the daily life of hundreds of goldman sachs data scientists but also play critical role in the experience of thousands of goldman sachs clientsltbrgtltbrgtltstronggtltugthow you will fulfill your potentialltbrgtltbrgtltugtltstronggtltstronggt responsibilities and qualifications ltbrgtltstronggtltulgtltligt a true greenfield opportunity you will join the team as we embark on creating new scalable and resilient data science tools for a complex industryltligtltligt you will collaborate with data scientists and business leaders to understand challenges facing the firm and its clientsltligtltligt your design and development work will contribute to a worldclass client experience and optimize business performanceltbrgtltligtltulgtltstronggtltugtskills and experience we are looking forltbrgtltugtltstronggtltulgtltligt years of experience in systems using machine learning and other artificial intelligence techniquesltligtltligt working knowledge of more than one programming language python r java c etcltligtltligt experience building and operating distributed systems on the cloudltligtltligt experience working closely with data scientists and appreciation for their unique workflowltbrgtltligtltulgtltstronggtltugtabout goldman sachsltbrgtltbrgtltugtltstronggtthe goldman sachs group inc is a leading global investment banking securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base that includes corporations financial institutions governments and individuals founded in the firm is headquartered in new york and maintains offices in all major financial centers around the worldltbrgtltbrgt the goldman sachs group inc all rights reserved goldman sachs is an equal employmentaffirmative action employer femaleminoritydisabilityvetltbrgtltbrgtdivision engineering",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T01:04:59.000Z"
+  },
+  "company": {
+    "name": "Goldman Sachs",
+    "link": "https://www.linkedin.com/company/goldman-sachs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80600,
+    "max_value": 159000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

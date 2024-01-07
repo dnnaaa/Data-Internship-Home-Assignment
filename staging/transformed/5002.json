@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - RetailMeNot",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtwe are looking for a site reliability engineer ii to join our sre team we define the systems and services that allow retailmenot development teams to have a lowfriction deployment experience with alwayson monitoring and the faulttolerant infrastructure sre works on defining servicelevel agreements slas leading incident response practicing blameless postmortems and automating processes to reduce operational toilltbrgtltbrgtas a member of the team youll be responsible for delivering highly scalable and resilient cloud deployment and provisioning solutions you will be exposed to technology like kubernetes prometheus helm terraform and others you will help automate and streamline the companys operations and processes through innovations in application monitoring and alerting cicd modernization and other effortsltbrgtltbrgtare you a software engineer with a real passion for delivering and automation opportunities are you looking to join an organization with a wellestablished sre culture start hereltbrgtltbrgtltstronggtretailmenot is headquartered in austin tx this position is fully remote and we encourage applicants nationwideltbrgtltbrgtltstronggtwho you areltbrgtltulgtltligtyou have a bachelors degree in computer science or equivalent stem field or equivalent work experienceltligtltligtyou have at least years of sre or devops experienceltligtltligtyou have exposure to and understanding of cloud aws google cloud azure etc architecturesservicesltligtltligtyou have experience writing code with python shell go java or similar languagesltligtltligtyou have worked within the container and container orchestration space docker kubernetes etcltligtltligtyou have worked with infrastructure provisioning tools like cloudformation terraform chef puppet or othersltligtltligtyou have enabled cicd pipelines using tools such as jenkins aws code pipeline gitlab or othersltligtltligtyou bring a deep understanding and application of computer science fundamentals data structures algorithms and design patternsltligtltligtyou understand networking protocols tcpip http dns etcltligtltligtyou have a track record of delivering successful solutions and collaborating with othersltligtltligtyou have strong interpersonal skills and can explain sre concepts to a wider audienceltbrgtltligtltulgtwhat youll doltbrgtltulgtltligtyoull be working closely with docker and kubernetes to containerize applications and provision infrastructureltligtltligtyou will investigate new technologies and tools and recommend those that best fit the team and organizationltligtltligtyou will champion sre methodologies around monitoring distributed tracing deployment strategies eg canary sandbox and loggingltligtltligtyou will identify and execute on opportunities to optimize existing systems improve infrastructure and eliminate work through automationltligtltligtyou will participate in our oncall rotation for production servicesltbrgtltligtltulgtwho we areltbrgtltulgtltligtwe have an open environment where engineers are given a lot of responsibility and the freedom to make a huge impactltligtltligtwe have lots of smart people to work with and learn fromltligtltligtwe work on large scale challenges with a variety of technologies and believe in an evergrowing diversity of technology platformsltligtltligtwe believe in giving prizes bonuses and recognition for doing what you enjoyltligtltligtwe have a phenomenal open vacation policyltligtltulgtretailmenotltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:40:52.000Z"
+  },
+  "company": {
+    "name": "RetailMeNot",
+    "link": "https://www.linkedin.com/company/retail-me-not"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

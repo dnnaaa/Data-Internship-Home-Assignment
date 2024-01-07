@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "ltstronggtltugtour companyltbrgtltbrgtltugtltstronggtchanging the world through digital experiences is what adobes all about we give everyonefrom emerging artists to global brandseverything they need to design and deliver exceptional digital experiences were passionate about empowering people to create beautiful and powerful images videos and apps and transform how companies interact with customers across every screenltbrgtltbrgtwere on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity we realize that new ideas can come from everywhere in the organization and we know the next big idea could be yoursltbrgtltbrgtltstronggtthe opportunity ltbrgtltbrgtltstronggtadobes commerce customer engineering team is looking for a site reliability engineer to join our cloud operations teamltbrgtltbrgtas a highgrowth ecommerce company we are looking for an experienced sre with a heavy emphasis on backend operations support we define create and operate adobes ecommerce platform that includes client experience build and deploy analysis production applications and infrastructureltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtwork on reliability and performance aspects for database infrastructure pieces that allow adobe commerce cloud to scale ltligtltligtsolve complicated issues with live cloud server environments and provide software configuration and tuning recommendations for optimal performanceltligtltligttake ownership and provide feedback on any infrastructure changes related to db including version upgradesltligtltligtwrite software layers scripts deployment frameworks tracers monitors selfhealingauto remediation tools and automate the processesltligtltligtanalyze sql queries and provide query optimization recommendations and best practicesltligtltligtcollaborate with engineers to diagnose and troubleshoot database errorsltligtltligtparticipate on rcas and take action items to mitigate issuesltligtltligtparticipate in shared oncall schedule followthesun model managed across sredbre ampamp engineeringltligtltligtexcellent social skills in your interactions with internal and external developerscommunitymerchantsltbrgtltligtltulgtltstronggtltugtwhat you need to succeedltbrgtltugtltstronggtltulgtltligtbachelors degree on computer science or similarltligtltligt years experience working on paassaas handling high transactional environments providing critical x uptimeltligtltligtexperience on sophisticated database migrations into cloud native databases aws aurora preferredltligtltligtfluent on transactional nosql dbs elasticsearch redisltligtltligtexperience on lamp architecture stack also proven experience on highscalable containerbased environments kubernetes docker swarm ltligtltligtconfirmed experience on high level languages bash python ruby perl or similarltligtltligtexperience working with hyperscale cloud providers aws azure gcp etcltligtltligtexperience in securing monitoring capacity planning fullproof dr backup ampamp recovery for distributed database systemsltligtltligtextensive experience with monitoring logging alerting systemsltligtltligtintellectual curiosity to pursue the unknown and to continuously learnltligtltligtgreat communication interpersonal and teamwork skills to work with internal teams but also our customersltligtltligtgood social skills and desire to work in a dynamic and fastpaced environmentltligtltligtexperience usingimplementing cicd frameworks such jenkins travis gitlab ci all about iaac is also relevant in our stuck so real handson using chefpuppet ansible terraform etc is also welcomeltligtltligtparticipate in oncall pager rotationltbrgtltligtltulgtltstronggtltugtbonus points for the followingltbrgtltugtltstronggtltulgtltligtawsazure certificationltligtltligtlinux certificationltligtltligtkubernetes certificationltligtltligtmysql certificationltligtltligtother database experiencecertifications sqlnonsqlltligtltligtexperience in lean sixsigma or kaizenltligtltligtitil certificationltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T04:05:15.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Hospital &amp; Health Care",
+    "description": "the national insurance producer registry nipr an affiliate of the national association of insurance commissioners naic has an exciting opportunity for a software engineer iii or sr software engineer nipr is looking for a team member who enjoys working for an organization that strives every day to support the public good and make a difference this individual will work as a developer on a cross functional agile team supporting current needs including cloud migration in addition as a sr software engineer this position will act as a mentor to staff the niprs office is located in the town pavilion building just a block from downtown kansas citys power and light district town pavilion includes a fitness center and great restaurants this is a fulltime position which will allow a person to work remotely hybrid inoffice and remote or in the niprs physical office space apply today responsibilities include actively participates in team meetings daily standup planning retrospective etcfollows all standards and best practices as defined by naicnipr solution architectsfollows naicnipr accepted guidelines on version control for all technical developmentproficient in application design development languages security and tools participates in automation of tests and processes proficient in unit integration regression and performance testing participates in code reviews provides technical and architectural suggestions to improve existing code base troubleshoots and resolves data and application software problems as assignedoperates under minimal supervision within a collaborative team environmentprovides excellent customer service to naicnipr customers both internally and externally displays willingness to work effectively and learn from more experienced staff skills and experience java development experience on a crossfunctional agile team willing and able to train and mentor others java springspring boot experience continuous integrationcontinuous delivery ci cd must have sql knowledge proficient in query writing structure source control systems git subversion etc cloud development experience aws gcp azure cloud foundry html unixlinux jboss xmljsonyaml jira or other issue tracking tool minimum education andor experience required bachelors degree ba in computer science or associates degree in applied science specific to computer science six to eight years related work experience or an equivalent combination of education and work experience preferred knowledge ampamp experience react ampamp redux experience amazon web services aws basic competency preferred java servlet container competency eg jboss tomcat dockerkubernetes competency experience with insurance industry a plus participated in devops environment participated in a cloud migration git competency automation testing with at least one automation toolselenium rest assured jmeter etc why work at nipr hour work week tuition reimbursement referral bonuses choice of insurance plans vacation buy back adoption assistance infants in the workplace parental leave employee recognition programs days off for community service student loan repayment program fitness center the nipr is proud to be an equal opportunity employer applicants for all positions are considered without regard to age race creed color religion sex sexual orientation gender identity or expression national origin or ancestry marital status pregnancy genetic information military or veteran status disability or any other basis protected by applicable law pdndbaeddbfbec",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:42:59.000Z"
+  },
+  "company": {
+    "name": " Professional Diversity Network",
+    "link": "https://www.linkedin.com/company/prodivnet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City",
+    "region": "MO",
+    "postal_code": "64113",
+    "street_address": null,
+    "latitude": 39.099792,
+    "longitude": -94.57856
+  }
+}

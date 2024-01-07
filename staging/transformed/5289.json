@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Silicon Validation Software Engineer: Site Reliability",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtimagine what you could do here at apple new ideas have a way of becoming extraordinary products services and customer experiences very quickly bring passion and dedication to your job and theres no telling what you could accomplish dynamic smart people and inspiring innovative technologies are the norm here the people who work here have reinvented entire industries with all apple hardware products the same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it join us to help deliver the next groundbreaking apple productltbrgtltbrgtltbrgtwe are a small devops team providing continuous build and integration services for the silicon validation software department we are the bridge between software engineering and silicon validation platforms which is critical to delivering high quality apple silicon for the majority of apples new productsltbrgtltbrgtltbrgtyou will design develop and deploy systems to support the build and release of software developed by hundreds of apple engineers your success here has a direct impact on products used by billions of usersltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgt years managing largescale distributed systems ampgt nodes onprem and cloudltbrgtltbrgtexpertise with buildrelease cicd pipelines methodologies and tools jenkins artifact management etcltbrgtltbrgt years of objectoriented languages experience javagroovy python etcltbrgtltbrgtexperience collecting metrics and maintaining a monitoring and alerting system to identify bottlenecks and improve service performanceltbrgtltbrgtexperience with log aggregation and analysis systems splunk elk stack etcltbrgtltbrgtexpertise with a configuration management provisioning system salt preferredltbrgtltbrgtability to inspectdebug thirdpartyopensource code in order to investigate and understand subtle performance problemsltbrgtltbrgtexperience with enterprise virtualization solutions vsphereltbrgtltbrgtexperience deploying and supporting java applicationsltbrgtltbrgta detailed testandmeasure approach to continually improving service reliability and performanceltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtas a site reliability engineer sre you will be responsible for solving problems and maintaining an everexpanding constellation of systems tools and services such as jenkins gerrit saltstack grafana influx zabbix and vmwareltbrgtltbrgtltbrgtyou will work with other teams to understand their needs in order to implement optimal solutions this will require independent problem solving and collaborating with other teams to adjust our infrastructure to achieve their missionsltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbachelors degree in computer science or relevant industry experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:34:24.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

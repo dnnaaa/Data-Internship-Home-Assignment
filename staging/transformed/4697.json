@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Core Platform",
+    "industry": "Online Media,Entertainment,Computer Software",
+    "description": "ltpgtas a key member of the core platform engineering team you will work directly with business and technical stakeholders to lead and execute a variety of projects including exploration of new languages tools and technologies such as go netcore aws aurora elastic search etc building new apis and microservices refactoring of existing services and data stores to fit well in our cloudnative distributed architecture personalization and many more while working on these projects you will hold responsibility for full lifecycle management including requirements analysis technical design implementation testing documentation deployment to production and postproduction ownershipltpgtltpgtltbrgtltpgtltpgtltstronggtthe team ltstronggtltpgtltpgtthe platform team is responsible for running apis that serve catalog and enable ux not only for tuneins own apps but also hundreds of different devices from smart speakers to cars the system that powers it consists of several dozens of services built in a split between netcore and golang all running in kubernetes other parts of our stack include aws aurora and dynamo for persistent storage and redis for caching and grpc for crossservice interaction our current crew size is seven and growing and we own the full cycle of development of our services from planning to deploymentltpgtltpgtltbrgtltpgtltpgtltstronggtwhat youll do ltstronggtltpgtltulgtltligtdesign and build services and applications for scale on the order of tens of millions of users and optimize code for numerous platformsltligtltligtprofile and optimize browse and search algorithms over large datasetsltligtltligtcontribute to architecture design and implementation of nextgeneration monetization and metadata delivery platformltligtltligtcontribute to the development of new web and mobile applications and servicesltligtltligtcreate technical specifications for new products executing from start to finish and owning the quality of the service in productionltligtltligtcreate and enhance integrations with external partners like amazon microsoft sonos tesla and googleltligtltligtmaintain and extend heterogeneous environment including our core net codebase and our set of services written in go java and nodejsltligtltligtmaintain and extend api services sdks and developer documentationltligtltulgtltpgtltbrgtltpgtltpgtltstronggtwhat we are looking forltstronggtltpgtltulgtltligt years of relevant experienceltligtltligtexpertise with objectoriented languages such as c go java or cltligtltligtdirect experience with modern server application stacks design development and deployment of high volume web applications and apis millions of transactions per dayltligtltligtworking knowledge of both relational and nosql database design and management here at tunein we are using mysql redis dynamodb redshift and moreltligtltligthistory of building resilient stateless scalable distributed and observable systemsltligtltligtfamiliarity with microservices knowledge of modern cloud services such as aws or similarltligtltligtexperience working with cicd systems and infrastructure as code practices are a big plusltligtltligtunderstanding of presentation technologies including xhtml css and javascript is a plusltligtltligta practical perspective on software engineering discipline focus on learning and delivering and passion for high qualityltligtltligtgreat energy and enthusiasm with a positive collaborative working style clear communication and writing skills enthusiasm for audio content preferredltligtltligtbachelors in computer science or equivalent experienceltligtltulgtltpgtltbrgtltpgtltpgtltstronggtour compensation ampamp benefitsampnbspltstronggtltpgtltulgtltligttunein offers competitive salary bonus and equity compensation packagesltligtltligtwe offer generous benefits including coverage of all health plans for employees and dependents regardless of which medical health plan you chooseltligtltligtdental and vision plan coverageltligtltligtflexible time off policy plus paid holidays ltligtltligtk planltligtltligtwellness stipendcell phone subsidyltligtltligttrainings and educational spending pet insurance moreltligtltulgtltpgtltbrgtltpgtltpgtltstronggtabout tuneinltstronggtltpgtltpgttunein the leading live streaming and ondemand audio service brings together live sports news music podcasts and radio from around the globe with million monthly active users tunein is one of the most widely used streaming audio platforms in the world tunein broadcasts over owned ampamp operated and partner radio stations and boasts more than million podcasts with premiere distribution across platforms and connected devices tunein empowers listeners to hear what they love wherever here might be ltpgtltpgtltbrgtltpgtltpgttunein premium subscribers also unlock exclusive access to commercialfree news from top networks like cnbc cnn fox news radio and msnbc as well as commercialfree music channels for every mood and activity for more information please visit us at wwwtuneincom or follow us on facebook instagram or twitterltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:28:05.000Z"
+  },
+  "company": {
+    "name": "TuneIn",
+    "link": "https://www.linkedin.com/company/tunein"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

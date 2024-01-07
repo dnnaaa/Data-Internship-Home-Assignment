@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Big Data Platform",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "the roleltbrgtltbrgttesla is on mission is to accelerate the worlds transition to sustainable energy we are looking for a site reliability engineer to join our data platform team we are a small expert crossfunctional team made of data engineers and sres we are building a fairly large platform that other teams ranging from autopilot to service technicians leverage to collect and access data we are already processing trillions of events per day but with more and more cars on the road more and more superchargers powerwalls solar installations new factories in china and europe and of course new products coming to markets we need to think about scaling up our hybrid infrastructure to the next levelltbrgtltbrgtwhat we are buildingltbrgtltulgtltligtwe are building a hybrid platform with onprem datacenters and public clouds in multiple regionsltligtltligtour stack is fairly modern our services run in containers and we are taking advantage of everything we can in the cloudltligtltligtthe infrastructure is completely described and managed using infrastructureascode iac and configuration management toolsltligtltligtwe build and deploy over a hundred microservices using bazelltligtltligtat the datalayer the stack is built on top of technologies including spark kafka and relatedltligtltligtwe develop tools in python and go to support predominately javascalabased applicationsltligtltligtfor monitoring we use prometheus grafana splunk and cloudwatchltligtltulgtresponsibilitiesltbrgtltbrgtyoull work on high impact projects that improve data availability scalability and reliability of our data infrastructureltbrgtltulgtltligtthese days we are trying to expand our cloud infrastructure footprintltligtltligtwe are also continuing our work around our builds and deployments pipelinesltligtltligtoccasionally you will assist the datacenter operation team with our onprem presence as we plan for expansion and day to day operationsltligtltligtwe also need to think about the next steps for our metrics systems which is currently under heavy loadltligtltligtof course you will also design architect improve and support new and existing tools to help us operate at scaleltligtltligtand finally join us in our oncall rotationltligtltulgtrequirementsltbrgtltulgtltligtyou have a strong understanding of linux networking and production systemsltligtltligtyou have years of experience building and maintaining infrastructure and services or are a quick learnerltligtltligtyou are proficient at scripting and programmingltligtltligtyou have strong problem solving skills optimizing for the simplest most robust yet practical solutionsltligtltligtyou are reliable dependable trustworthy and a participating team memberltligtltligtyou are smart but humble with a bias for actionltligtltulgtpreferredltbrgtltulgtltligtyou have strong proficiency with go python andor javaltligtltligtyou have experience with aws or other cloud providersltligtltligtyou have experienced large scale infrastructureltligtltligtyou have used infrastructure as code tools such as terraform cloudformation ansible puppet or chefltligtltligtyou have experience with observability tools such as prometheus thanos cortex or sensultligtltligtyou have experience with orchestration systems such as kubernetes mesos or ecsltligtltligtyou have worked in a serviceoriented or microservice architectureltligtltligtyou have experience with security and hardening especially in a large or complex environmentltligtltligtyou have experience designing building and operating distributed systems at scale andor willing to learn the stack kafka hadoop hbase spark etcltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T08:13:58.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

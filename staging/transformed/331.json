@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Performance Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ice mortgage technology is the leading cloudbased platform provider for the mortgage finance industry ice mortgage technology solutions enable lenders to originate more loans reduce origination costs and reduce the time to close all while ensuring the highest levels of compliance quality and efficiency visit icemortgagetechnology to learn moreice mortgage technology is seeking a performance engineer to join the performance engineering team this person would be responsible for ensuring the end to end application performance and capacity of our market leading enterprise cloud solution deliver highly available responsive scalable and top quality applicationsservices performance delighting our customersresponsibilitieswork with product management product engineering cloud infrastructure and data engineering teams to find the optimal way to scale applications and the infrastructureown endtoend product performance of all elliemae applications and servicessupport architecture design assist in defining networking requirements and help codedebug to deliver high quality product releasesdevelop capacity studies to predict infrastructure growth projections in the areas of compute cpumemory storage and networkperform load and stress analysis of end to end application performance on infrastructure capacity planning of apis and key servicesconstruct complex workloads and data shapes to expose potential bottlenecks in the application or the infrastructureinnovate solutions to improve performance engineering effectivenessplay a key role in production incident analysis and troubleshooting requirements must havebachelors degree in computer science or equivalent from an accredited college or universityat least years of experience in performance engineering capacity panning with in depth knowledge of identifying and debugging applicationinfrastructure performance problemsexperience with the followingstrong hands on experience in coding ampamp scripting languages such as java c perl python tclsoftware application performance tuning over a visualized system and infrastructuredebugging monitoring optimization using appdynamics dynatrace newrelic loadrunner webload jmeter or similar toolshands on experience with application code instrumentation java or c and database profilingin depth knowledge of database fundamentals and architecture ms sql server oracle and mongodbbe a thinker help in finding performance bottlenecks debug to get rca and providerecommend a working solutionoutstanding attention to details and strong communication skillsrequirements preferredsuccessfully completed aws or azure solutions architect associateprofessional certification examgood troubleshooting and performance tuning experience with aws components like dynamo kinesis lambda etcknowledge and hands on experience working with distributed caching systems like hazelcast redis etcexcellent understanding of how a high transactional system scales the infrastructure load balancers filers firewalls mortgage technology is an equal opportunity and affirmative action employer women minorities people with disabilities and veterans are encouraged to applywe do not accept resumes from headhunters placement agencies or other suppliers that have not signed a formal agreement with usltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:01:17.000Z"
+  },
+  "company": {
+    "name": "ICE Mortgage Technology",
+    "link": "https://www.linkedin.com/company/icemortgagetechnology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

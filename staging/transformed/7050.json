@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "industry": "Airlines/Aviation,Information Technology and Services,Computer Software",
+    "description": "delta it is on a journey to becoming the best it organization in the airline industry a journey of transformation we are changing the way we do business from top to bottom as we strive to create meaningful and innovative solutions and are looking for team members to help us realize our visionltbrgtltbrgtour delta employees are thinkers doers innovators we are proactive we are collaborative we deliver impact to our customers lets continue on our transformation journey in becoming a worldclass it organization while continually working at the worlds best airlineltbrgtltbrgtltstronggtltugtjob overviewltbrgtltbrgtltugtltstronggtwere seeking an experienced senior site reliability engineer sre to join the delta it sre team the sre will work with delta it development squads to implement best practices for reliability and performance with the applications and services they support our ideal candidate is wellversed in modern cloudbased and on prem architecture and experienced in designing systems for reliability as well as implementing monitoring alerting and ops automation to reliably operate and maintain the services they buildltbrgtltbrgtthe sre works with developers to improve the reliability and resiliency of delta software solutions to meet the business requirements by implementing sre tools processes and best practices sre is what happens when you ask a software engineer to design an operations function the sre helps to design develop test debug and automate tasks for applications they troubleshoot incidents to address failure patterns automate remediation through runbooks and document application optimizationltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt building and supporting a reliable application suite for the environment in order to meet the development and maintenance requirements of systemsplatforms ltligtltligt working with development teams to evaluate the health stability and reliability of applications ltligtltligt utilizing monitoring alerts dashboards and management tools to ensure the availability reliability and performance of applications and services ltligtltligt constantly working to improve and implement automation of applications tasks ltligtltligt providing technical support for systemsplatforms according to application slas ltligtltligt responsible for designing and developing resiliency in the application code troubleshooting incidents engaging with squads to address failure patterns and participating in incident management ltligtltligt high school diploma ged or high school equivalency ltligtltligt embraces diverse people thinking and styles ltligtltligt consistently makes safety and security of self and others the priority ltligtltligt or more years of experience as an application developer or sre ltligtltligt or more years of experience with ops automation using a scripting language such as python or ansible ltligtltligt site reliability engineering knowledge of the theories and methodologies of reliability engineering ability to design develop and support various tools services and applications to maintain a reliable site environment ltligtltligt performance measurement and tuning knowledge of system performance testing and programming ability to monitor measure and optimize system performance and network communication ltligtltligt cicd pipeline knowledge of concepts values and tools applied in building continuous integrationci continuous delivery and continuous deploymentcd pipeline ability to design build implement and maintain cicd pipelines to achieve the automation of software delivery process ltligtltligt software release management knowledge of strategies practices and tools for managing versions and distribution of software products and enhancements ability to evaluate and improve release management practices and tools ltligtltligt application maintenance knowledge of production applications ability to monitor application functions and resolve issues to maintain optimal conditions for system applications ltligtltligt software engineering knowledge of software engineering ability to deliver new or enhanced software products ltligtltligt agile development knowledge of agile methodologies and the agile development lifecycle ability to utilize formal agile methodologies disciplines practices and techniques for the delivery of new and enhanced applications ltligtltligt container knowledge of concept functions and capabilities of container tools and techniques ability to effectively apply containers in various it business environments ltligtltligt cloud platform knowledge of the products and services regarding cloud platforms ability to utilize related tools and technologies to develop cloud solutions and deploy applications on cloud platforms ltligtltligt where permitted by applicable law must have received or be willing to receive the covid vaccine by date of hire to be considered for usbased job if not currently employed by delta air lines inc ltligtltligt bachelors degree in computer science information technology or related field is preferred ltligtltligt aws certified sysops administrator or aws certified devops engineer certification is preferred ltligtltligt experience with an apm tool such as dynatrace new relic appdynamics or datadog is preferred ltligtltligt experience with airline applications and infrastructure technology is a plus ltligtltligt experience developing ops automation in tekton pipelines is a plus ltligtltligt experience developing applications andor automation running in red hat openshift is a plusltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T10:11:00.000Z"
+  },
+  "company": {
+    "name": "Delta Air Lines",
+    "link": "https://www.linkedin.com/company/delta-air-lines"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

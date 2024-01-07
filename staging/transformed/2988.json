@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "los angeles caltbrgtltbrgtgreenlots is unlocking the possibilities of the new electric mobility future by delivering innovative software and services that empowers utilities cities communities and automakers to deploy ev charging infrastructure at scale our technology is connecting people to their destinations in a safer cleaner and smarter way headquartered in los angeles ca the companys global footprint spans across three continents with deployments in different countriesltbrgtltbrgtat greenlots we are looking for candidates who want to be a part of something bigger than themselves authentic purposedriven individuals who believe having a career means making a meaningful impact on our business and the world we believe in creating and doing the next right thing especially when stepping into new spaces and territories previously unexplored we are looking for the bold and the courageous the innovative and the accountable those who can quickly translate ideas into meaningful action and those who have a passion for learning and growing along with usltbrgtltbrgtgreenlots is looking for a ltstronggtlead site reliability engineerltstronggt to join our team we would like to find a highly engaged engineer who is obsessed with monitoring observability code quality and selfhealing infrastructures you should be able to identify troubleshoot and resolve issues quickly and develop strategies to ensure our environment never experiences the same problem twice responsibilities include capacity planning performance tuning and automationtools development expect to spend time focusing software engineering activities and should be eager to approach all code changes using a testdriven development model as a site reliability engineer you will have great influence on the way we design and deploy our services and infrastructure across the enterprise this position will be part of a great team that is developing exciting products and solutions and playing a key part in driving forward the electrification of transportation ltbrgtltbrgtltstronggtltugtwhat you will doltbrgtltugtltstronggtltulgtltligt apply a everythingascode philosophy across configuration infrastructure orchestration methodologies to ensure our production systems are fault tolerant and resilient ltligtltligt have a mentoring mindset wilto participate in live training and create robust documentation work with product development teams to define and implement enhanced monitoring and logging solutions to improve observability and enable servicelevel objectives to ensure a world class customer experience ltligtltligt participate in groundup infrastructure design and planning for all future products and services ltligtltligt be part of an oncall rotation and act as incident commander to assist finding a resolution during incidents ltligtltligt host blameless postmortems to share learnings discover gaps embrace transparency and improve reliability across our services ltligtltligt design and implement improvements to existing systems after reviewing past incidents and employ your systems knowledge to triage problems and tune resource usage ltbrgtltligtltulgtltstronggtltugtwho were looking forltbrgtltugtltstronggtltulgtltligt bachelors degree in computer science engineering or equivalent work experience required ltligtltligt years experience working as full stack engineer focused on product feature andor systems development or equivalent experience ltligtltligt years of experience with aws ltligtltligt must be comfortable reading and writing in any of the following java go cc python ltligtltligt experience with iaccm tools terraform cloud formation ansible chef puppet salt ltligtltligt well versed with one or more cloud service provider offerings aws preferred azure gcp ltligtltligt understanding of containers and related technologies such as docker podman swarm kubernetes in a production environment ltligtltligt you understand networks protocols servers storage systems and the linux operating system familiar with common application and systemlevel health monitoring system newrelic datadog etc ltbrgtltligtltulgtltstronggtltugtwhat we offerltbrgtltugtltstronggtltulgtltligt a work environment that allows you to work with and learn from some of the best and brightest in this emerging industry ltligtltligt the ability to make a difference in a world that needs our technology to help reduce carbon emissions and enable a more sustainable energy future using electric vehicle charging software services and infrastructure ltligtltligt the freedom to learn suggest and implement innovative new ideas eg systems processes programs and technologies ltligtltligt daily ownership of your role in a challenging highgrowth environment ltligtltligt a casual work environment and culture that support work life fit enabling you to fit life into your work and work into your life ie flexible scheduling virtualization options and a generous holiday package ltligtltligt wellbeing programs that enable you to thrive eg investment in ergonomics healthy snacks in the workplace completely subsidized onsite gym program ltligtltligt competitive pay and benefits programs designed to enable you to thrive inside and outside of work participation in greenlots performance and rewards bonus program ltligtltligt best in class medical benefits that offer healthcare coverage for employees medical dental vision and a k program that support financial wellbeing ltligtltligt innovative paid time off program ltligtltligt flex work schedule ltligtltligt a collaborative progressive headquarter location at the row dtla with fully subsidized onsite parking and access to unique food and beverage experiences ie coffee shops bars and restaurantsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Greenlots",
+    "link": "https://www.linkedin.com/company/greenlots"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

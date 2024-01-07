@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Perception - Behavior Prediction",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "ponyai is a startup colocated in silicon valley and china our mission is to revolutionize the future of transportation by building the safest and most reliable technology for autonomous vehicles armed with the latest breakthroughs in artificial intelligence we aim to deliver our technology at a global scale we believe our work has the potential to transform lives and industries for the betterltbrgtltbrgtltstronggtin this role you will ltbrgtltstronggtltulgt ltligtwork with experts in the field of self driving vehicles on software architecture and design system and module design evaluation metrics specification and implementation of test and regression frameworksltligt ltligtwork with experts in machine learning to design and implement the state of the art deep learning and machine learning algorithms to solve open questions such as behavior prediction decision making and computer vision with real road test dataltligt ltligtoptimize software to run robustly under tight runtime constraintsltligt ltligtimplement user friendly tools to mine useful data from road test logs evaluate performance and solve real road test issuesltligt ltbrgtltbrgtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgt ltligtmaster in computer science or at least years of equivalent industry experience in similar technical fieldsltligt ltligtsolid understanding of data structures algorithms parallel computing code optimization and large scale data processingltligt ltligtexperience in applied machine learning including data collection and analysis evaluation and feature engineeringltligt ltligtexpertise in cpythonltligt ltbrgtltbrgtltulgtltstronggtltugtits preferred if you haveltbrgtltugtltstronggtltulgt ltligtphd in deep learning machine learning robotics natural language processing or similar technical field of studyltligt ltligtexperience in applying mldl for behavior prediction imitation learning motion planningltligt ltligtexperience in deploying deep learning algorithms for real time applications with limited computing resourcesltligt ltligtexperience in convex optimization computational geometry or linear algebraltligt ltligtexperience in gpucudatensorrtltligt ltligtexperience with tensorflowltligt ltbrgtltbrgtltulgtltstronggtltugtabout ponyailtbrgtltbrgtltugtltstronggtponyai inc ponyai is pursuing an ambitious vision for autonomous mobility we aim to bring safe sustainable and accessible mobility to the entire world we believe that autonomous technology can make our roads exponentially safer for travelers founded in late ponyai has been a pioneer in autonomous mobility technologies and services across the us and china spearheading publicfacing robotaxi pilots in both markets the company is currently valued at b and some of its major investors include toyota otpp sequoia capital china and idg capital",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-06T23:00:48.000Z"
+  },
+  "company": {
+    "name": "Pony.ai",
+    "link": "https://www.linkedin.com/company/pony-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 156000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "dice is the leading career destination for tech experts at every stage of their careers our client synechron is seeking the following apply via dice todayltbrgtltbrgtjob description we are looking for site reliability engineers to help define and maintain reliability standards for our application and infrastructure portfolio you will play a critical role in accelerating application modernization and public cloud adoption as an sre you will be able to drive sre practice and principles across the organization including working on unified telemetry across our environments application and infrastructure modernization slo and sli onboarding and tracking advanced continuous deployment strategies performance and scalability blameless postmortem culture requirements years as a site reliability engineer devops engineer years as a software engineer understanding of key sre concepts such as service level objectives linux proficiency in one systems programming language pythongo preferred kubernetes andor cloud foundry aws including knowledge of iam vpc networking grafana preferred qualifications terraform aws sysopssolution architect certification prometheus promql datadog kubernetes ckackad certifications golang python java",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-01T13:49:23.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

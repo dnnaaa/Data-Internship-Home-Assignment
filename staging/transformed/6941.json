@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Remote)",
+    "industry": "",
+    "description": "we are looking for a full stack net engineer to join the broadlume team youll take ownership for evolving and maintaining our c aspnet codebase including using best practices around style guides frameworks and automated unit and integration testing youll work on applications used by our operations team and our customers to manage thousands of small businesses nationwideltbrgtltulgtltligtthis is a full time remote positionltbrgtltligtltulgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtfind solutions for the most unique and challenging customer requests integrating new products into our ecosystem of offeringsltligtltligtbuild out tools and applications that power a massive product inventory systemltligtltligtprovide technical leadership for our net codebases and act as a mentor for other engineers on the team ltligtltligtpartner with engineers on our distributed teams to help architect a unified experience for our customers to access multiple applications they rely on to run their businesses ltbrgtltligtltulgtltstronggtltugtwho you areltbrgtltbrgtltugtltstronggtltstronggtrequirementsltbrgtltstronggtltulgtltligt years with c aspnet including mvc web api entity frameworkltligtltligtexperience with optimizing sql queries for performance building stored procedures database views functions and triggersltligtltligtyou enjoy working with tsql due to complexity in the database complex database operations are written in tsql and not through entity frameworkltligtltligtstrong htmlcss skills and expertise with javascripttypescript and modernjavascript frameworks such as react angular or vuejsltligtltligta philosophy that investing time in code reviews mentorship and automated testing helps a team move fasterltligtltligtyou have experience with microsoft sql server administration maintaining iis in productionltligtltligtyou are knowledgeable about net concepts like lambda expressions linq queriesltbrgtltligtltulgtltstronggtnice to havesltbrgtltstronggtltulgtltligtyou have crossed paths with microsoft azure particularly azure pipelines for cicd previouslyltligtltligtfamiliarity with google cloud for cicdltligtltligtyou want to learn more about or have experience in php ruby or reactltligtltligtexperience or interest in dockerkubernetesltligtltligtyou are familiar with rackspace architectureltligtltligtyou are comfortable working with git and githubltligtltligtexperience or interest in mongodbltligtltligtyou can contribute to designing good apis understanding of restjson and graphqlltbrgtltligtltulgtltugtltstronggtbenefitsltbrgtltstronggtltugtltulgtltligthealth care plan medical dental ampamp visionltligtltligtretirement plan k matchltligtltligtlife insuranceltligtltligtunlimited paid time off ltligtltligtfamily leaveltligtltligtshort term ampamp long term disabilityltligtltligtwork from homeltligtltligtwellness resourcesltbrgtltligtltulgtwho we areltbrgtltbrgtour mission at broadlume is pretty simple simplify the complicated world of digital marketing for the flooring industry the opportunity is massive and we have the team to execute the visionexcept well for youltbrgtltbrgtat broadlume we are committed to working with and providing reasonable accommodations to individuals with disabilities if you need a reasonable accommodation because of a disability for any part of the employment process please email us at careersbroadlumecom and let us know the nature of your request and your contact informationltbrgtltbrgtbroadlume is an equal opportunity employer qualified applicants will receive consideration for employment without regard to sex gender identity sexual orientation race color religion national origin disability protected veteran status age or any other characteristic protected by law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T20:06:18.000Z"
+  },
+  "company": {
+    "name": "Broadlume",
+    "link": "https://www.linkedin.com/company/broadlume"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtinfosys is seeking a ltstronggtsite reliability engineerltstronggt we are looking for a candidate who is devops professional with relevant experience in system administration and software engineering the candidate will be helping to build and operate complex systems which are huge missioncritical ntier and microservice architectureltbrgtltbrgtltstronggt site reliability engineer ltstronggt sre with a robust and diverse background will be responsible for managing applications and infrastructure for our client designing and implementing the software and infrastructure development lifecycle sdlc and idlc with a focus on automation reliability high availability and system integration the location for this position is ltstronggtanywhere in the usaltstronggt this position may require travelltbrgtltbrgtltstronggtltugtrequired site reliability engineer qualificationsltbrgtltugtltstronggtltulgtltligt bachelors degree or foreign equivalent required from an accredited institution will also consider three years of progressive experience in the specialty in lieu of every year of education ltligtltligt at least years of information technology experience ltligtltligt us citizens and those authorized to work in the us are encouraged to apply we are unable to sponsor at this time ltligtltulgt ltstronggtltugt preferred site reliability engineer qualifications ltbrgtltugtltstronggtltulgtltligt at least years of experience on cloud and onpremises infrastructure like aws azure openstack cloud foundry open shift etc ltligtltligt at least years of experience in a highlevel programming language like python or ruby or go lang terraform cloud formation azure arm etc ltligtltligt design and implement the cicd services like jenkins bamboo azure devops aws code app dynamics data dog splunk kibana prometheus grafana elastic search etc ltligtltligt proficiency in automated deployment tools such as kubernetes docker swarm and related orchestration technologies with good experience in creating a platform that can run scalable driving simulations ltligtltligt experience in agile development techniques including scrum kanban etc ltligtltligt strong knowledge of windowslinuxunixbsd internals with experience with linux commandline shell powershell perl scripting python mysql mongo db hadoop technologies envoy haproxy nginx ansible puppet salt chef etc ltligtltligt workflow monitoring metrics service latency cpu utilization vm stats heap io latency resource utilization understanding of security and regulatory compliances as well as identity and access management based on rbac using policies and iam ltligtltulgt ltstronggt about us ltbrgtltbrgtltstronggtinfosys is a global leader in nextgeneration digital services and consulting we enable clients in countries to navigate their digital transformationltbrgtltbrgtwith over three decades of experience in managing the systems and workings of global enterprises we expertly steer our clients through their digital journey we do it by enabling the enterprise with an aipowered core that helps prioritize the execution of change we also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight our alwayson learning agenda drives their continuous improvement through building and transferring digital skills expertise and ideas from our innovation ecosystemltbrgtltbrgtltstronggt to learn more about infosys and see our ideas in action please visit us atltbrgtltbrgteoeminorityfemaleveterandisabledsexual orientationgender identitynational originltstronggt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T16:25:27.000Z"
+  },
+  "company": {
+    "name": "Infosys",
+    "link": "https://in.linkedin.com/company/infosys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 132,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Evansville",
+    "region": "IN",
+    "postal_code": "47744",
+    "street_address": null,
+    "latitude": 37.975708,
+    "longitude": -87.56991
+  }
+}

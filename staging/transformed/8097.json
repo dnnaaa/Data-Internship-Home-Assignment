@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer-Supercomputing",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "tesla is currently looking for a seasoned site reliability engineer sre to join the supercomputing teamltbrgtltbrgtas an infrastructure engineer on the supercomputing team you will be working directly with the highperformance computing and machine learning infrastructure that drives the development of all the innovations in engineering and autopilotai work that makes tesla a world leader in ev technology continued development and automation of this infrastructure management processes is imperative to the success of our many rampampd teams and the company as a wholeltbrgtltbrgtyou are expected to have deep understanding of resource management and scaling for distributed computing systems with the evergrowing need for more data and more compute resources cluster builds are getting larger and more complex and in need of more automated processes for deployment monitoring selfhealing when possible and alerting youll be working in a crossfunctional and highly versatile team that designs implements and maintains all tesla supercomputing resources you will be responsible for ensuring greatly improved processes in rapid compute deployments in geographically distributed areas to help provide maximum system efficiencyltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt manage our onprem supercomputers to support our growing workloadsltligtltligt leverage and improve upon existing cluster management solutions to ensure rapid deployment and scalabilityltligtltligt ensure the reliability of the existing systems to guarantee uptime and availability of core foundational servicesltligtltligt take part in a x oncall rotationltligtltligt work closely with cluster architects to design and document automated workflows that can be easily implemented by remote hands with little or no understanding of internal systemsltligtltligt influence architectural decisions with focus on security scalability and highperformanceltligtltligt work with engineering teams to understand useful metrics to collect and implement such monitoring and alerting with existing monitoring solutionsltligtltligt improve root cause analysis and corrective action for problems large and small identify patterns and design task automationsltligtltligt help develop automated tools to collect information that can be directly used to assist users creating root cause analysis for issues in their job submissionsltligtltligt organize and document implemented solutions for long term information retention with our internal ticketing and documentation systemltligtltligt author technical documentation for workflowsprocessesbest practices relating to the functionality of various clusters storage systems and software solutionsltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligt bachelors degree in computer science electrical engineering or related field with years of additional equivalent experience or evidence of exceptional ability related to the positionltligtltligt advanced experience with configuration management systems such as ansible puppet or terraformltligtltligt demonstrable knowledge of tcpip ipoib linux operating system internals filesystems diskstorage technologies and storage protocolsltligtltligt proficiency in highlevel programming language andor scripting with python go bashltligtltligt excellent time management and communication skills are absolute mustsltligtltligt years experience withltligtltligtcluster deployment and operationsltligtltligtlinux operating system flavors centosrhel ubuntultligtltligtconfiguration management software ansible etcltligtltligtsystems monitoring and alerting prometheus grafana telegraf splunk etcltligtltligtadministering hpc workload managers slurm lsf etcltligtltligt years experience withltligtltligthighthroughput lowlatency networksltligtltligtgpubased computing systemsltligtltligthigh performance storage systemsltbrgtltligtltulgtnice to haveltbrgtltulgtltligt experience with multisite onprem and oncloud hybrid software and hardware deploymentsltligtltligt experience working with eda caecfd or ml workloads a huge plusltligtltligt experience with containers docker singularity kubernetesltligtltligt experience with hardware accelerators fpga asic basedltligtltligt experience with parallel filesystemsltligtltligt previous experience at the largescale data center and remote systems managementltligtltligt familiarity with public cloud compute and storage resource orchestrationltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-18T13:28:11.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Dev Ops Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtas an engineer in the system firmware and diagnostics team you will be part of a team building hardwareondemand infrastructure and tools for use by developers across apple we build a product that enables remote development control and testing of new hardware we also develop tools for enhancing developer workflows and automation pipelines for product developmentltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtat least years handson experience in continuous integration andor infrastructure engineeringdevopsltbrgtltbrgtexcellent python bash and scripting fundamentalsltbrgtltbrgtexperience with cloud platforms such as aws gce azure or similarltbrgtltbrgtexperience with infrastructureascode tools such as ansible chef terraform or cloudformationltbrgtltbrgtexperience with containerization and cluster management technologies like docker and kubernetesltbrgtltbrgtknowledge of buildrelease processes and cicd systems such as jenkinsltbrgtltbrgtltbrgtgreat to havesltbrgtltbrgtexperience working in an agile software development lifecycleltbrgtltbrgtexperience with physical hardware lifecycle projects proto evt dvt and pvtltbrgtltbrgtexperience working within lab environmentsltbrgtltbrgtexperience managing external vendors is a huge plusltbrgtltbrgtexperience with gitltbrgtltbrgtexperience with languages tools and frameworks for embedded systems and embedded systems testing is great to have make gcc or clang tool chain cunit google test clang static analysis cppcheck gcov etcltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtworking on core technologies youll have the opportunity to make a major impact in the way that apple develops tests and manufactures all of its products our environment fosters product innovation rapid product iteration and a liberating amount of autonomyltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs or higher in computer science computer engineering or equivalent experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:47:37.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 94100,
+    "max_value": 190000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

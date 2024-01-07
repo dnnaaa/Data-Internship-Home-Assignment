@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Sr Engineer",
+    "industry": "Financial Services,Investment Management,Banking",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtimportant note during the application process ensure your contact information email and phone number is up to date and upload your current resume when submitting your application for consideration to participate in some selection activities you will need to respond to an invitation the invitation can be sent by both email and text message in order to receive text message invitations your profile must include a mobile phone number designated as personal cell or cellular in the contact information of your applicationltbrgtltbrgtat wells fargo we are looking for talented people who will put our customers at the center of everything we do we are seeking candidates who embrace diversity equity and inclusion in a workplace where everyone feels valued and inspiredltbrgtltbrgthelp us build a better wells fargo it all begins with outstanding talent it all begins with youltbrgtltbrgttechnology sets it strategy enhances the design development and operations of our systems optimizes the wells fargo infrastructure provides information security and enables wells fargo global customers to have hours a day days a week banking access through inbranch online atms and other channelsltbrgtltbrgtour mission is to deliver stable secure scalable and innovative services at speeds that delight and satisfy our customers and unleash the skills potential of our employeesltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltbrgtltugtltstronggtdev squad developer responsibilities will include but are not limited toltbrgtltbrgtwellsfargo gateway is a enterprisewide business api channel focused on packaging our products and services as small discrete pieces of functionality that can be delivered to websites mobile devices or customers internal tools wfg technology group is seeking a developer for the wfg development squadsltbrgtltulgt ltligtresponsible for designing rest api schemaltligt ltligtgenerate swagger and other api documentationltligt ltligtdevelop automated acceptance and unit test for the agile teamltligt ltligtwork with jenkins and ci tools to automate dev build deployment and testingltligt ltligtimplementing service transformation routing enrichment and orchestration in javajee and spring frameworkltligt ltligtdesign and development of adaptersplugins for external application integrationltligt ltligtwriting junitintegration test cases to validate the code quality and code coverageltbrgtltligtltulgtselected candidate will be required to work within the following wells fargo location s tryon st charlotte nc market st san francisco caltbrgtrelocation assistance is not available for this positionltbrgtltbrgtltstronggtltugtrequired qualificationsltbrgtltugtltstronggtltulgtltligt years of software engineering experienceltligtltligt years of java experienceltligtltligt years of jee experienceltligtltligt years of web services experienceltligtltligt years of spring framework experience such as spring bootltligtltligt years of json javascript object notation development experienceltligtltligt years of xml extensible markup language experienceltligtltligt years of hibernate experienceltligtltligt years of experience with jira software confluence software or combination of bothltligtltligt years of experience with system integration testing sitltligtltligt years of database experienceltligtltligt years of experience in building and deploying microservices and cross channel restful application programming interface apis using apigee consul resiliencej and redisltligtltligt years of experience developing and using restful application program interface apiltligtltligt years of experience in api modeling languages and annotation with yaml swagger ramlltligtltligt years of experience securing apis using oauth open authorization saml security assertion markup language openid connect or similar productsltbrgtltbrgtltligtltulgtltstronggtltugtdesired qualificationsltbrgtltugtltstronggtltulgtltligtan industrystandard technology certificationltligtltligtstrong verbal written and interpersonal communication skillsltligtltligtknowledge and understanding of test driven application developmentltligtltligt years of experience with continuous integration development technologies such as ibm udeploy urbancode deploy jenkins etcltligtltligt year of experience designing and implementing solutions for test automationltligtltligt years of agile experienceltligtltligtexperience with version control or source code repositories to include jenkins github artifactory or xmlspyltbrgtltbrgtltligtltulgtltstronggtltugtother desired qualificationsltbrgtltugtltstronggtltulgt ltligtui user interface development experience with react x java script or similar technologiesltligt ltligtknowledge and understanding of behavior driven application development bddltligt ltligtcucumber experienceltligt ltligtsdk development experienceltbrgtltbrgtltligtltulgtltstronggtstreet addressltbrgtltbrgtltstronggtltstronggtnccharlotte ltstronggt s tryon st charlotte ncltbrgtltbrgtltstronggtdisclaimerltbrgtltstronggtltulgtall offers for employment with wells fargo are contingent upon the candidate having successfully completed a criminal background check wells fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local state and federal law including section of the federal deposit insurance actltbrgtltbrgtrelevant military experience is considered for veterans and transitioning service men and womenltbrgtltbrgtwells fargo is an affirmative action and equal opportunity employer minorityfemaledisabledveterangender identitysexual orientationltbrgtltbrgtltulgtltstronggtltugtbenefitsltbrgtltbrgtltugtltstronggtltstronggtbenefits summaryltbrgtltbrgtltstronggtvisit httpswwwwellsfargocomaboutcareersbenefits for benefits informationltbrgtltbrgtltstronggtltugtreference numberltbrgtltbrgtltugtltstronggt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:08:16.000Z"
+  },
+  "company": {
+    "name": "Wells Fargo",
+    "link": "https://www.linkedin.com/company/wellsfargo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

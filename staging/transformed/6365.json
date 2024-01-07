@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtdata scientistltstronggtltpgtltpgtltstronggtlocationltstronggt bellevue wa mostly remote workltpgtltpgtltstronggtcontractltstronggt month contract with potential to extendltpgtltpgtltstronggtbenefits ltstronggt weeks of pto annuallyltpgtltpgtltstronggtpay rateltstronggt hr on wltpgtltpgtltbrgtltpgtltpgtltstronggtdri tickets a week ampamp experimentation supportltstronggtltpgtltulgtltligtrespond to tickets flag if need to be raised to exp or guide teams typical issuesltligtltligtdebug why scorecards arent running late build interesting slices etcltligtltligthow to analyze a scorecard needs ramp up with dsdevltligtltulgtltpgtltbrgtltpgtltpgtltstronggtexperimentation healthltstronggtltpgtltulgtltligtbuild back p auto shut down reporting no reports today to see scorecard delaysltligtltligtmetrics and templates clean up to reduce load on cosmos where unnecessaryltligtltligtmake sure metrics have updated descriptionsltligtltligtmonitor and remove certain repeat scorecards as needed ltligtltligttriage new metric additions mg changes to follow best practices description use cache etc include dsdevltligtltulgtltpgtltbrgtltpgtltpgtltstronggtdashboardltstronggtltpgtltulgtltligtmonitor platform experimentation healthltligtltligtensure updates are done at least weekly for syncsltligtltligtupdates to dashboard for new dataltligtltulgtltpgtltbrgtltpgtltpgtltstronggtexperiment programltstronggtltpgtltulgtltligtarrange and or share exp brownbags and remind rally folks experimentsltligtltligtmaintain a faqs wikiltligtltulgtltpgtltbrgtltpgtltpgtltstronggtcommunicationltstronggtltpgtltulgtltligtshare monthly updates on health top changes top asks top questions offline or office hrsltligtltligtshare live sites via emails bannersltligtltligtupdate banners in exp or tools etcltligtltligtupdate or follow up on tooling messages to give selfserve directions ampgt propose fixessolutionsltligtltligtoffice hours support host it pull experts gather questions and follow ups answer frequent onesltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequired qualificationltstronggtltpgtltulgtltligtsql python basic codingscripting skillsltligtltligtdashboarding powerbi or tableaultligtltligtexcellent communication and partnerships skillsltligtltligtproblem solving skillsltligtltligtmo ab experimentation ampamp testingltligtltligtdata science experienceltligtltulgtltpgtltbrgtltpgtltpgtltstronggtpreferred qualificationltstronggtltpgtltulgtltligtoperations or technical support handling experienceltligtltligtc family language programming experienceltligtltligtms data stack experience like cosmosscopeltligtltulgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-26T17:01:46.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

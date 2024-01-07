@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Development Engineer in Test - System SW",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "at sonos we want to create the ultimate listening experience for our customers and connect them to the content they want where they want it as part of the sonos team youll collaborate with people of all styles skill sets and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do to the best work of their livesltbrgtltbrgtas a sr sdet for the system software team you will be responsible for leading validation efforts of low level software during early stages of new product development in a fast paced dynamic environment you will work closely with the development team to ensure new products and features have not regressed the existing product line prospective candidates will be hands on leaders who will drive design and develop test automation to run on and off target this will require collaboration with your partners in development and quality to help define and execute the test strategies in order to deliver high quality products in addition you will work with teams of industryleading innovators across acoustics mechanical engineering software engineering hardware engineering and user experience if you love music solving challenging problems and delivering highquality products we want to talk with youltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligt engineer new automated frameworks to support on target api testing ltligtltligt drive and document test strategies design edge cases and conduct manual and automated linux kernel testing ltligtltligt act as primary point of contact for validation of software needed for early hardware bring up ltligtltligt review requirements behavior specifications and design documents to begin test development early and uncover issues prior to implementation ltligtltligt constantly perform gap analysis to ensure good test coverage assess and provide proactive advice or solutions ltligtltligt investigate logs and triage bugs to determine root cause and establish prioritization of any issues discovered during manual andor automated testing that runs in a ci environment ltligtltligt mentor other members of the team to expand their technical competencies and to adapt the best software engineering practices ltbrgtltbrgtltligtltulgtltstronggtltugtbasic qualificationsltbrgtltbrgtltugtltstronggtltstronggtwhat youll needltbrgtltstronggtltulgtltligt bachelors degree in computer science computer engineering electrical engineering or equivalent experience ltligtltligt years of experience in linux kernel or embedded development or test ltligtltligt strong knowledge of linux in both user and kernel space ltligtltligt hands on experience with gdb or any other debugging mechanisms for white box testing ltligtltligt experience in reading schematics and being able to develop automated tests using external hardware ltligtltligt experience programming in an object orientated language such as python or c ltligtltligt reading level proficiency in c ltbrgtltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligt familiarity with low level communication protocols like i c pcie and usb ltligtltligt experience designing and running git leveraging cicd pipelines ltligtltligt experience with jira jenkins and ansible ltligtltligt familiarity with pytestltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T17:14:52.000Z"
+  },
+  "company": {
+    "name": "Sonos, Inc.",
+    "link": "https://www.linkedin.com/company/sonos-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Barbara",
+    "region": "CA",
+    "postal_code": "93105",
+    "street_address": null,
+    "latitude": 34.420868,
+    "longitude": -119.69834
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Development Engineer in Test",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "system softwareltbrgtltbrgtltemgtposting locations seattle boston san francisco santa barbaraltbrgtltbrgtltemgtltstronggtltstronggtrole summaryltbrgtltbrgtltstronggtltstronggtltemgt at sonos we want to create the ultimate listening experience for our customers and know that it starts by listening to each other as part of the sonos team youll collaborate with people of all styles skill sets and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do the best work of their lives ltbrgtltbrgtltemgtas a sr sdet for the system software team you will be responsible for leading automated testing of low level drivers and firmware in a fast paced dynamic environment prospective candidates will be handson leaders who will drive design and develop test automation to run on and off target this will require collaboration with your partners in development and quality to help define and execute the test strategies in order to deliver high quality products in addition you will work with teams of industryleading innovators across acoustics mechanical engineering software engineering hardware engineering and user experience if you love music solving challenging problems and delivering highquality products we want to talk with youltbrgtltbrgtltstronggtltstronggtwhat youll do ltbrgtltstronggtltstronggtltulgtltligt architect and deploy new automated test environments to support low level driver testing this may require creative approaches for automating physical interactions with units under test ltligtltligt triage and maintain existing automation and testbeds ltligtltligt work with manual test engineers to develop automation around repetitive manual test cases ltligtltligt work with team members to develop strategies for reliability testing of the hwsw interaction layer ltligtltligt work with team members to develop strategies for api testing of the abstraction layer used by user space applications ltligtltligt mentor other members of the team to expand their technical competencies and to adopt the best software engineering practices ltbrgtltligtltulgtltstronggtltstronggtwhat youll needltbrgtltbrgtltstronggtltstronggtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligt bachelors degree in computer science computer engineering electrical engineering or equivalent experience ltligtltligt years of experience in testing iotembedded systems preferably in a linux environment ltligtltligt experience developing and deploying python packages ltligtltligt experience designing and running git based cicd pipelines ltligtltligt reading level proficiency in cc ltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligt strong cc development skills ltligtltligt familiarity with low level communication protocols like i c pcie and usb ltligtltligt knowledge of linux in both user and kernel space ltligtltligt experience with jira jenkins and ansible ltligtltligt familiarity with pytest ltligtltligt interest in diy iot and robotics projectsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:31:55.000Z"
+  },
+  "company": {
+    "name": "Sonos, Inc.",
+    "link": "https://www.linkedin.com/company/sonos-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92300,
+    "max_value": 165000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

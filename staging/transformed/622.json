@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Test and Evaluation Engineer",
+    "industry": "Aviation &amp; Aerospace",
+    "description": "ltpgtasec is currently searching for a test and evaluation tampampe engineer that requires the demonstrated knowledge and ability to apply basic theory and technical procedures to nonstandard and routine applications the work requires selection and application of standard engineering techniques procedures and criteria using judgement and ingenuity in making minor adaptations and modifications the tampampe engineer will perform work which involves conventual types of plans investigations surveys configurations or equipmentampnbspltpgtltpgtltbrgtltpgtltpgtthe idea lab is developing a software system called the distributed training network guard dtng this system is a controlled interface whose purpose is to bridge simulation training enclaves while segregating and protecting data on a needtoknow basis the system software includes several executables that validates and verifies the simulation training data against data format specifications and rule sets that determine if the simulation data may be passed as received passed with changes per the rule set or blocked from passing to the receiving enclave these assessments are made in both directions the data format specifications and rule sets are developed by dtng software developers in accordance with the customers requirements and security classification guidesltpgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltpgtampnbspltstronggteducationltstronggtampnbspltpgtltulgtltligtbachelors degree in engineering or equivalent technical degree from an abetaccredited institutionampnbspltligtltulgtltpgtltbrgtltpgtltpgtltstronggtltspan classqlcursorgtltspangtexperienceltstronggtltpgtltulgtltligtfour years of experience in test and evaluationampnbspltligtltligtpreferred direct experience in one or a combination of the following areas training systems aircraft systemsubsystem development test and evaluation or software and hardware for software application developmentampnbspltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequired clearanceampnbspltstronggtthis position is subject to a government security investigation and must meet eligibility requirements for access to classified information this position requires an active security clearanceampnbspltpgtltpgtltbrgtltpgtltpgtltstronggttasks and responsibilitiesltstronggtltpgtltulgtltligtresponsible for the overall verification and validation of the software system as well as the dtng rule set softwareampnbspltligtltligtdevelop and document software acceptance test plan for customer rule sets and dtng software system this includes all test phases from initial software development labbased testing using test tools and harnesses and the integration testing with the actual training devicesampnbspltligtltligtdevelop and document detailed software test procedures for rule sets and dtng software system test procedures must be written in detail from initial software development labbased testing to all software requirements using test tools and harnesses test tools and harnesses included gots products such as next generation threat system ngts scenarios as well as idea lab developed tools and programs integration test procedures to be used in the training environment with actual training devices will also need to be written rule set test procedures must be written in such detail so as to verify all possible rule decision paths have been coveredltligtltligtcreate simulation scenarios for the test toolsharnesses to drive test proceduresampnbspltligtltligtdocument the test case traceability to the requirements specifications to ensure all requirements have adequate coverageltligtltligtwork with development team as well as training device owners to schedule testing resources develop test verification and validation schedules to ensure adequate access to required personnel and training assets for all testing phases testing resources range from inhouse lab resources to offsite distributed training centers ono baseltligtltligtdocument test results in detail creating a body of evidence for system and rule set assessment and authorization by a thirdparty evaluator traceability of results to log files from all tools and harnesses used within the test is required as part of the body of evidenceltligtltligtprepare and present all materials required for the pre and post testing systems engineering technical review setr events ie test readiness review system verification review provide tampampe input to other setr events eg system requirements review preliminarycritical design review as requiredltligtltulgtltpgtltbrgtltpgtltpgtltstronggtskills and qualificationsampnbspltstronggtltpgtltulgtltligtexcellent verbal and written communication skillsampnbspltligtltligtexcellent interpersonal and customer service skillsampnbspltligtltligtdetail orientedampnbspltligtltligtability to organize and prioritize tasksampnbspltligtltligtdemonstrated critical thinking and problemsolving skillsampnbspltligtltligtproficient with microsoft office suite to include outlook excel word and powerpointampnbspltligtltligtexperience utilizing software tools for engineeringampnbspltligtltligtability to adapt to evolving technologyampnbspltligtltulgtltpgtltbrgtltpgtltpgtwe recruit employ train compensate and promote the most qualified persons for employment without regard to race color religion sex national origin ancestry age marital status sexual orientation gender identity and expression disability veteran status genetic information or any other status protected by law asec will not discharge or in any other manner discriminate against employees or applicants because they choose to inquire about discuss or disclose their own compensation or the compensation of another employee or applicantltpgtltpgtltbrgtltpgtltpgtif youd like more information about your eeo rights as an applicant under the law please click here httpwwwdolgovofccpregscomplianceposterspdfeeopostpdfltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:40:31.000Z"
+  },
+  "company": {
+    "name": "Aviation Systems Engineering Company",
+    "link": "https://www.linkedin.com/company/aviation-systems-engineering-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

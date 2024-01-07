@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtat apple new ideas have a way of becoming phenomenal products services and customer experiences very quickly you bring passion and dedication to your job and theres no telling what you could accomplishltbrgtltbrgtltbrgtwe are building the next generation systems powering apple pay working alongside a talented team of engineers our initiative is to build the strategic elements of the apple pay stack enabling first to market features that differentiate our productsltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgt years of professional development experienceltbrgtltbrgtsignificant experience years in designing implementing ampamp supporting highly scalable systems and services in java scala andor other jvmbased languagesltbrgtltbrgtat least years experience with sql nosql or newsql technologies see additional requirements belowltbrgtltbrgtselfstarter with strong customer and product focusltbrgtltbrgtability to communicate thoughtfully leveraging problemsolving skills and a learning mindset to build longterm relationshipsltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtwe are looking for a team member with a strong foundation in computer science theory and industry experience in this role you will design develop and deliver components of a distributed system that is key to the apple pay stackltbrgtltbrgtltbrgtyou will have a proven ability to solve problems interest in continuous learning and digging deep into the domain when necessary ltbrgtltbrgtltbrgtjob functions include ltbrgtltbrgtltbrgt crossfunctional collaboration throughout the entire software lifecycleltbrgtltbrgt scoping design and implementation of scalable resilient distributed systemsltbrgtltbrgt participating in design sessions and code reviews with peers to elevate the quality of engineering across the organizationltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs or ms in computer science or related technical field equivalent work experience will be consideredltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgtany of the following is an advantageltbrgtltbrgtpractical experience with cockroachdb cassandra foundationdb dynamodbltbrgtltbrgtpublic cloud platforms aws gcp etcltbrgtltbrgtdeployment experience using docker and kubernetesltbrgtltbrgtrelational data modeling ampamp practical experience with rdbms oracle postgres mysql etcltbrgtltbrgtpractical experience with apache kafkaltbrgtltbrgtfintech experienceltbrgtltbrgtpayments experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T08:52:02.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62600,
+    "max_value": 86400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

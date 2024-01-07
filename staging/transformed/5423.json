@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Frontend)",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "ltstronggtltugtthe key areas that the team is working on areltbrgtltbrgtltugtltstronggtas an engineer on the observability application team youll help build the nextgeneration of observability experiences that are used by every engineer at uber to develop scale understand and monitor their systems in an environment with over microservices hundreds of thousands of cpu cores in multiple datacenters and the cloud and hundreds of thousands of concurrent trips around the worldltbrgtltulgtltligtubers alert configuration and execution engine that provides realtime alerting for uber services umonitor as a product also serves as a cohesive entry pointobservability portal for our engineers to discover observability golden signals and help investigate outages across the observability toolsetltligtltligtour dashboarding and visualization tools which display contextsensitive information from across the uber ecosystem enabling quick detection and mitigation of issuesltligtltligtbuild a brand new platform for service level agreements and engineering metrics that helps engineering leadership as well as engineers monitor the long term health of their organizations and team and improve how software is built and delivered at uberltbrgtltligtltulgtltstronggtltugtwhat the candidate will need bonus pointsltbrgtltbrgtltugtltstronggtwhat the candidate will doltbrgtltulgtltligtdesign deliver and maintain systems that enable thousands of engineers and managers to improve the reliability of their services apps and processesltligtltligtcollaborate with product managers data science and other stakeholders to gather requirementsltligtltligtpartner with fellow engineers to architect develop and scale observability tooling while keeping operational issues in mindltligtltligtmentor and support your fellow teammatesltligtltligtdrive ongoing efficiency and reliability improvements that improve the quality of the systemsltligtltligtwrite clear documentation so that other engineers can partner to contribute and deliverltbrgtltligtltulgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligtbachelors degree in computer science or related technical field or equivalent practical experienceltligtltligttwo years of experience coding with html css javascript and related web technologiesltligtltligtexperience in web frontend development experience with modern javascript tooling react redux or equivalent and so onltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligtexperience working with react or nodejs applicationsltligtltligtgood written verbal communication skillsltligtltligtbs or ms in computer science or a related technical field or equivalent experienceltligtltligtdetailed problemsolving approach and knowledge of algorithms data structures and complexity analysisltligtltligtexperience working on internal infrastructure toolsltligtltligtgrit drive and a strong feeling of ownership coupled with collaborationltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T14:05:54.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76300,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Ridgewood",
+    "region": "NY",
+    "postal_code": "14109",
+    "street_address": null,
+    "latitude": 43.244495,
+    "longitude": -78.65104
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Distributed Systems - Energy Software",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "ltstronggtltugtroleltbrgtltbrgtltugtltstronggtwant to work on iot platforms that support powerwall powerpack megapack tesla solar solar roof powerhub supercharger autobidder model sx and the tesla app want to work with functional programming streaming data and distributed systems want to work with scala akka reactive streams influxdb postgresql and kubernetes tesla is looking for a software engineer to build the cloud services that power these products driving the worldwide transition to sustainable energyltbrgtltbrgtthis platform provides realtime monitoring optimization and control of distributed renewableenergy assets including generation storage grid services and electricvehicles the platform incorporates reliable data collection and storage for millions of realtime data streams services for publishing and subscribing to streaming data support for realtime stream processing and aggregation and reliable lowlatency messaging for the distributed command and control of energy assets you must enjoy working on challenges related to the availability reliability scalability and security of these distributed software systemsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt design develop and maintain distributed software systems that incorporate realtime and streaming data for monitoring aggregation and controlltligtltligt characterize complex problems related to the scalability reliability performance and security of production systemsltligtltligt test the performance scalability and reliability of software systems at scale including developing the services to support this testingltligtltligt provide technical leadership and foster collaborationltligtltligt maintain the high quality standards of the teamltbrgtltligtltulgtemployee benefitsltbrgtltulgtltligtas a full time tesla employee you will receive full benefits from day for you and your dependents ltligtltligtkaiser and unitedhealthcare ppo and hsa plans including infertility coverageltligtltligt medical plan choices with paycheck contribution ltligtltligtvision ampamp dental plans including orthodontic coverageltligtltligtcompany paid life adampampd shortterm and longterm disability ltligtltligtk employee stock purchase plans and other financial benefits ltligtltligtemployee assistance program paid time off and paid holidaysltligtltligtbackup childcare and employee discountsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T21:43:10.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 112000,
+    "max_value": 148000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "in microsoft health next our team is transforming healthcare by incubating and delivering data and analytics services to improve health outcomes at scale we are part of technology ampamp research building a suite of healthcare services including azure api for fhir iomt fhir connector and medical imaging server for dicom we are growing to support additional healthcare scenarios and data types that enable our customers to derive more valuable insights and intelligence from their dataltbrgtltbrgtwere looking for a service engineer to help make our azure services the top choice for healthcare organizations looking to bring their data to the cloudltbrgtltbrgtour top priority is customer trust and you will work across teams to design and implement our shared platform for security compliance with regulatory requirements high availability disaster recovery safe deployments across multiple regions scalability and moreltbrgtltbrgtmsfthealthcare resoluteltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtmonitor and triage all customer reported incidents participate in root cause analysis and help drive work to prevent such incidents andor reduce time to mitigate and time to resolveltligtltligtwork together with the product engineering team to ensure the right set of monitoring capabilities are built in with featuresltligtltligtidentify monitoring gaps and drive implementationltligtltligtconsume and extend telemetry using queries dashboards and alerts to monitor reliabilityltligtltligtcoordinate large scale deployments across multiple teams services and regions ensuring impact is understood and communicated clearly with stakeholdersltligtltligtunderstand and apply security requirements for handling healthcare information including sdl and industry certifications like iso hitrust and fedrampltbrgtltligtltulgtltstronggtltugtrequiredltbrgtltbrgtltugtltstronggtqualificationsltbrgtltulgtltligtbachelors degree in computer science or years of related technical field experienceltligtltligt years of industry experience in service engineering site reliability engineering for a production serviceltligtltligtexperience with scripting or programming languages eg powershell c javaltbrgtltligtltulgtltstronggtltugtpreferredltbrgtltugtltstronggtltulgtltligtexperience in azure aws or similar cloud platformsltbrgtltligtltulgtability to meet microsoft customer andor government security screening requirements are required for this role these requirements include but are not limited to the following specialized security screenings microsoft cloud background check this position will be required to pass the microsoft cloud background check upon hiretransfer and every two years thereafterltbrgtltbrgtmicrosoft is an equal opportunity employer all qualified applicants will receive consideration for employment without regard to age ancestry color family or medical care leave gender identity or expression genetic information marital status medical condition national origin physical or mental disability political affiliation protected veteran status race religion sex including pregnancy sexual orientation or any other characteristic protected by applicable laws regulations and ordinances we also consider qualified applicants regardless of criminal histories consistent with legal requirements if you need assistance andor a reasonable accommodation due to a disability during the application or the recruiting process please send a request via the accommodation request formltbrgtltbrgtbenefitsperks listed below may vary depending on the nature of your employment with microsoft and the country where you work",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T21:17:19.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 111000,
+    "max_value": 155000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "ltpgtltstronggtabout the teamltstronggtltpgtltpgtonce a workday application is built by our developers it is handed over to the environments team this is the team that supports the operations of our applications and services we manage all environments from production sandbox sales and implementation this team pushes new code to our existing customers monitors the health performance and reliability of the workday stack and in general keep the lights on with coverageltpgtltpgtltbrgtltpgtltpgtltstronggtabout the roleltstronggtltpgtltpgtin this role we must think about our customers both internal and external delivering quickly on a wide range of daily tasks from environment provisioning performance monitoring environment troubleshooting adhoc walk ups and automation efforts while creating transparency of work being performedltpgtltpgtthis position requires a proven understanding of linux systems in a production environment as you will be part of a team that is directly responsible for writing and maintaining scripts bash ruby python that support the environment provision processltpgtltpgtyou understand that workday service is available and requires oncall participation careful maintenance planning of changes detailed runbooks teamwork maintain due diligence around the s configuration tasks that we perform daily if the work performed is manually repeated often you find a way to automate the task in short you deliverltpgtltpgtltbrgtltpgtltulgtltligtdo everything from script management monitoring patching to code deploymentsltligtltligttechnology brings out the geek in you as you think about all things environments related including topics like site reliability scalability performance and ways to automateltligtltligtshould go without saying you are technical you have a solid understanding of linux systems and servers and have good knowledge of networking protocols and you are outstanding with release management and environment code deploymentsltligtltligtltbrgtltligtltulgtltpgtltstronggtabout youltstronggtltpgtltpgtltstronggtbasic qualificationsltstronggtltpgtltpgtltbrgtltpgtltulgtltligt years of environment operations experienceltligtltligtmust have experience running and maintaining a x internetoriented production environment preferably across multiple data centersltligtltligtmust have bs or ms degree in computer science engineering or related technical discipline or equivalent experienceltligtltligtampnbspexperience deploying and operating apache tomcat and httpd mysql cape clear esb subversion java web applicationsltligtltligtyoure no stranger to linux ssh and tunnels are your only means to gain server access you can debug with the best of em using command line basics like top sar tcpdump iptables dmesg to name a fewampnbspltligtltligtexperience with many tool sets chef puppet ossec splunk solas bladelogic ansible jira confluenceltligtltulgtltpgtltbrgtltpgtltpgtltstronggtother qualificationsltstronggtltpgtltpgtltbrgtltpgtltulgtltligthave a strong understanding of enterprise level thinking on a few levels documentation runbooks root cause analysis capacitytrending bug fixes and scripting and your skills show itltligtltligthave a secret passion about monitoring when false positives show up on your radar you quickly address it your inner wish list is to make monitoring phenomenal againampnbspltligtltligtcan handle multiple tasks make the right business decisions and tackle problems while under pressure and prioritize and coordinate effectivelyampnbspltligtltligtable to work some nights and weekends is required as part of the oncall support and production update rotationltligtltligthave experience with centos sunos solarislinuxdevopsltligtltligthave experience working in a sas audited environmentltligtltulgtltpgtltbrgtltpgtltpgthttpsworkdaywdmyworkdayjobscomworkdayjobusacapleasantonsitereliabilityengineerjrltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T14:36:45.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 131000,
+    "max_value": 210000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

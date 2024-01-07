@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE), Information Security",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtthis position can be location in santa clara valley ca or seattle wa ltbrgtltbrgtltbrgtimagine what you could do here at apple new ideas have a way of becoming extraordinary products services and customer experiences very quickly bring passion and dedication to your job and theres no telling what you could accomplish ltbrgtltbrgtltbrgtwe are seeking a sre who is passionate about security and can thrive in a fastpaced environment where both individual drive and team collaboration are the keys to success the sre will configure tune and troubleshoot multitiered systems to achieve optimal application performance stability and availability the sre will work closely with software developers infrastructure and network engineers to deploy maintain and support applications and services the sre will work with users to analyze and resolve issues reported against services and applicationsltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgta positive and respectful attitudeltbrgtltbrgtlinuxunix system administration experience along with a working knowledge of common linux and macos file systemsltbrgtltbrgtbackground using container and container orchestration technologies docker kubernetesltbrgtltbrgtat least years of experience supporting restful applications using technologies such as java ruby rails python nginx etcltbrgtltbrgtknowledge and experience with software version control systems and source code management gitgithubltbrgtltbrgtat least years of experience deploying configuring and supporting software in the cloud awsltbrgtltbrgtexperience working with atlassian tools confluence jira jira servicedeskltbrgtltbrgtfamiliarity with log aggregation and visualization tools such as zabbixsplunkltbrgtltbrgtexperience creating and using sql queries to diagnose problemsltbrgtltbrgtan understanding of cicd technologies such as jenkinsltbrgtltbrgtfamiliarity with agile development methodologyltbrgtltbrgtexcellent written and verbal communication skills ability to work effectively with technical and nontechnical usersltbrgtltbrgtthe desire to provide a great customer experienceltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtthe successful candidate will be highly selfmotivated with a passion for excellence quality and attention to detail the sre will be responsible for operating and supporting application environments working on deployments and automation and working closely with the development engineers to assist with implementation and deployment of features responsibilities of the devops engineer will includeltbrgtltbrgtltbrgt determine optimal configurations for application software servers database connectionsltbrgtltbrgt environment monitoring and task automationltbrgtltbrgt set up and manage monitoring toolsltbrgtltbrgt measure and optimize system performanceltbrgtltbrgt work with users to gather technical details and better understand issuesltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbachelors degree or equivalent work experienceltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgt knowledge and experience using one or more programming languages including swift objectivec golang python shell java rubyrails for scripting andor developmentltbrgtltbrgt familiarity with networking concepts eg open systems interconnection osi modelltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T16:25:57.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81200,
+    "max_value": 209000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Engineer 2 - Machine Learning/Data Engineer",
+    "industry": "Research,Higher Education",
+    "description": "ltstronggtslac job postings ltbrgtltbrgtltstronggtslac national accelerator laboratory seeks a machine learning engineer with a proven track record of enabling machine learning applications at scale in the sciences slac is one of the worlds premier research laboratories with internationally leading capabilities in photon science accelerator physics high energy physics hep and energy sciencesltbrgtltbrgtmachine learning is expected to play an important role in nearly every major project at slac applications include deep learning for detector analysis online control of facilities surrogate models for highfidelity simulations and new modes of data analysis to handle data rates that can reach tbssecond though still in its early stages in physics ml is expected to have a transformative effect on slacs science outputltbrgtltbrgtthe new ml initiative was founded to push the limits of slacs highest impact science the data engineer position will help ml researchers scale training to large data sets deploy solutions to live experiments build infrastructure to assemble data sets and enable active control of experiments and scientific facilities while the position does not require deep ml expertise the candidate should be comfortable enough with ml concepts to work closely with researchers the role is interdisciplinary and collaborative and the candidate will work jointly with scientists at slac academics at stanford industrial partners in silicon valley and facility users from around the world finally the candidate should have a creative spark to tackle unsolved problems in scienceltbrgtltbrgtltstronggtltugtyour specific responsibilities includeltbrgtltugtltstronggtltulgt ltligtscale ml solutions to ingest large data sets use distributed computing infrastructure and deploy to live experimentsltligt ltligtcreate infrastructure to assemble training data sets from develop data apis and etl processes for complex heterogeneous data sourcesltligt ltligtdevelop platforms for online control of facilities and experimentsltligt ltligtimplement ml solutions at the edge to handle large data ratesltbrgtltbrgtltligtltulgtltstronggtltugtto be successful in this position you will bringltbrgtltugtltstronggtltulgt ltligta bachelors degree in computer science electrical engineering statistics physics or related field and years of experience includingltligt ltligtbuilding and deploying ml solutions for scienceltligt ltligtdeep expertise in data science languages and platforms including python cjava scala pytorch tensorflow jax slurm horovod mpi openmpltligt ltligtdistributed systems hadoop stackltligt ltligtdata visualization software paraview qt plotlydashltligt ltligtexperience with container technology eg docker singularity shifter and orchestration eg kuburnetesltligt ltligtdatabases sql nosql etcltligt ltligtdata warehouse concepts eg redshiftlike etcltligt ltligtdeveloping platforms for online control of experiments or facilitiesltbrgtltbrgtltligtltulgtltstronggtltugtin addition preferred requirements includeltbrgtltugtltstronggtltulgt ltligta masters degree in computer science electrical engineering or related fieldltligt ltligt years data analysis experience with scientific dataltligt ltligt years experience working at a doe laboratoryltbrgtltbrgtltligtltulgtltstronggtltugtslac employee competenciesltbrgtltugtltstronggtltulgt ltligtltstronggteffective decisionsltstronggt uses job knowledge and solid judgment to make quality decisions in a timely mannerltligt ltligtltstronggtselfdevelopmentltstronggt pursues a variety of venues and opportunities to continue learning and developingltligt ltligtltstronggtdependabilityltstronggt can be counted on to deliver results with a sense of personal responsibility for expected outcomesltligt ltligtltstronggtinitiativeltstronggt pursues work and interactions proactively with optimism positive energy and motivation to move things forwardltligt ltligtltstronggtadaptabilityltstronggt flexes as needed when change occurs maintains an open outlook while adjusting and accommodating changesltligt ltligtltstronggtcommunicationltstronggt ensures effective information flow to various audiences and creates and delivers clear appropriate written spoken presented messagesltligt ltligtltstronggtrelationshipsltstronggt builds relationships to foster trust collaboration and a positive climate to achieve common goalsltbrgtltbrgtltligtltulgtltstronggtltugtphysical requirements and working conditionsltbrgtltugtltstronggtltulgt ltligtconsistent with its obligations under the law the university will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of the job may work extended hours during peak business cyclesltbrgtltbrgtltligtltulgtltstronggtltugtwork standardsltbrgtltugtltstronggtltulgt ltligtinterpersonal skills demonstrates the ability to work well with stanford colleagues and clients and with external organizationsltligt ltligtpromote culture of safety demonstrates commitment to personal responsibility and value for environment safety and security communicates related concerns uses and promotes safe behaviors based on training and lessons learned meets the applicable roles and responsibilities as described in the esh manual chapter general policy and responsibilities httpwwwgroupslacstanfordeduesheshmanualpdfseshchpdfltligt ltligtsubject to and expected to comply with all applicable university policies and procedures including but not limited to the personnel policies and other policies found in the universitys administrative guide httpadminguidestanfordedultligtltulgtltligtltligtltulgt ltligtltstronggtclassification titleltstronggt staff engineer ltligt ltligtltstronggtgradeltstronggt k ltstronggtjob codeltstronggt ltligt ltligt ltstronggtdurationltstronggt years plus opportunity for continuing appointmentltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-05T21:02:19.000Z"
+  },
+  "company": {
+    "name": "SLAC National Accelerator Laboratory",
+    "link": "https://www.linkedin.com/company/slac-national-accelerator-laboratory"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtthe video computer vision organization is working on exciting technologies for future apple products our focus is on ml based solution around real time image and video we have contributed to the faceid and facekit project in the past and more recently the new lidar ipad sensor we are looking for the right site reliability engineer to help us take our efforts to the next levelltbrgtltbrgtltbrgtin this role you will be part of the core data infrastructure team for the video computer vision organization you will be a core contributor in our sre team to develop and maintain a modern deployment system for cloud services and applications you will be responsible for system bringup deployment reliability security and service scalability this role is highly multifunctional and you will work very closely with various highly skilled software development ml teams developing cutting edge algorithmsltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgt years in managing site reliability engineering teams and supporting mission critical applicationsltbrgtltbrgtltbrgt years managing large fleet of nix systemsltbrgtltbrgtltbrgt years of hybrid cloud data center aws gcp azureltbrgtltbrgtltbrgt years with configuration management tools such as ansible or terraformltbrgtltbrgtltbrgt years of programming experience preferably pythonltbrgtltbrgtltbrgt years of managing relational and nosql databasesltbrgtltbrgtltbrgt years of building fully automated cicd pipelinesltbrgtltbrgtltbrgtyou should also be selfdirected analytical and work well in a team environmentltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtyour core responsibility is to provide operational support of multiple cloud based applications with an emphasis on deployment security scalability and reliability running on aws and apple infrastructure operations tech stack ansible terraform go python prometheus with some bash scripting common technologies include django docker kubernetes postgres redis and cassandra we make have a hybrid infrastructure and make use amazon web service extensively along with homegrown compute cloudsltbrgtltbrgtltbrgtwhat qualities will make you successful we are looking for a driven and dedicated site reliability engineer possessing handson experience withltbrgtltbrgtltbrgt core operations experience with linux ansible or similar docker kubernetes postgresltbrgtltbrgtltbrgt engage various software development teams to collaborate and build services from the ground upltbrgtltbrgtltbrgt expertise in networking with an emphasis on securityltbrgtltbrgtltbrgt experience building systems both onpremise data center and on public cloud aws gcp or azure welcomeltbrgtltbrgtltbrgt working knowledge of deploying microservices django go jvmsltbrgtltbrgtltbrgt have worked with schedulers such as kubernetes aws ecs or eksltbrgtltbrgtltbrgt ability to write code in one of many high level languages python preferredltbrgtltbrgtltbrgt vast experience using linux with knowledge of kernelsystem tuningltbrgtltbrgtltbrgt last but not least you are battletested and have a few interesting production talesltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbsms in computer sciencecomputer engineering or equivalent experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-28T09:07:09.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

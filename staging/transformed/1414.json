@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Machine Learning Engineer, Data Science",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "ltstronggtabout the role ltstronggtactioniq is looking for an experienced teamoriented senior machine learning engineer with a strong track record of building machine learning ml platforms or acting as the tech lead for the buildout of an ml platform or ml features you will be the first hire of a team at actioniq that will spearhead the next wave of ml technologies as part of that effort you will drive early architecture decisions and the implementation of an ml platform that works with and complements our core data processing platform you will work closely with our data science team to build a system that automates their daytoday workflows and enables new ml explorations you will also collaborate with our product team to build more intelligence into our productltbrgtltbrgtltstronggtabout the team ltstronggtthe data science team at actioniq is responsible for working closely with customers and translating their user data into actionable business insights as our first machine learning engineer you will work with your counterparts in data science as well as other platform teams to build out a machine learning team and platform that can be used to transition models and experiments into reliable productionquality product features and workflowsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgt ltligtassess the existing platform and datascience architecture at actioniq design and implement a highquality scalable machine learning platform using either custom selfhosted or managed services ensure that the resulting platform can maintain throughput and latency requirements given magnitude changes in customer dataltligt ltligtoverhaul our current data science development workflows and toolingltligt ltligtset best practices for the continued evolution and support of both the machine learning platform as well as data science development toolingltligt ltligtparticipate in the oncall rotation to support our production systems take learnings from any incidents to help rearchitect or update systems processes or configs to avoid them entirelyltligt ltbrgtltbrgtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgt ltligt years supporting data science or machine learning platforms including developing and maintaining production level code with experience both as an implementer and tech leadltligt ltligtstrong understanding of datascience algorithms with the ability to implementenhance a range of model forms gbm knn etc and feature transformationsltligt ltligtstrong interest in and history of building reliable wellarchitected production codeltligt ltligtstrong track record of working with datascience platforms and libraries such as spark scikitlearn etc with proficiency in python and scala in production settingsltligt ltligtexcellent communication and collaboration skillsltligt ltligtenthusiasm and a growthoriented mindset as well as the desire to work in a small motivated team to build performant reliable machine learning at scaleltligt ltligtinterest in working with jvmbased bigdata technologies including spark kafka etcltligt ltbrgtltulgtltemgtour work is broad and complex in nature please dont rule yourself out if you do not meet every requirement ltbrgtltbrgtltemgtltugtltstronggtbenefitsltbrgtltstronggtltugtltulgt ltligtwork with a fun inclusive and smart team of people as we build a nycbased enterprise software companyltligt ltligtcompetitive compensation package including significant equity componentltligt ltligtbacked by toptier vcs sequoia andreessen horowitz firstmark capitalltligt ltligttop notch health insurance benefits including weeks paid parental leave for both parentsltligt ltligtwe are currently working remotely due to covid but we will be opening a beautiful new office right on madison square park all nycbased employees will be expected to return to the office days per week beginning after labor day ltligt ltligtcheck out our latest blog about our return to work hereltligt ltligtwork from home stipend to optimize your set upltligt ltbrgtltulgtltemgtactioniq is committed to building an inclusive equitable and diverse organization we embrace equal opportunity for all applicants and seek to foster a culture of belonging for our employees we recognize and appreciate that the more inclusive we are the better we will function as a team aiq welcomes qualified applicants of any race color ancestry religion sex national origin gender identity gender expression age marital or family status disability military veteran status and any other status or background join us on our journey to build a product that will help our customers deliver memorable experiences that will drive loyalty and growthltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T03:21:24.000Z"
+  },
+  "company": {
+    "name": "ActionIQ",
+    "link": "https://www.linkedin.com/company/actioniq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

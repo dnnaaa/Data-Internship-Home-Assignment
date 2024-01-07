@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtimagine what you could do here at apple new ideas have a way of becoming extraordinary products services and customer experiences very quickly do you bring passion and dedication to your job if so we are looking for individuals like you ltbrgtltbrgtltbrgtthe retail infrastructure team is responsible for building and supporting the core of our technology behind retails customerfacing interactive experiences with our products and today at apple this role will operate and pioneer infrastructure enabling software delivery cutting edge support and new devops maturity for a growing era of edge and retail innovationltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtstrong sense of ownership customer service time management and integrity demonstrated through clear communicationltbrgtltbrgtexcellent interpersonal and communication skillsltbrgtltbrgtmust be capable of independent problemsolving and selfdirection with an eye towards creating business value for our internal customersltbrgtltbrgtsolid grounding in buildrelease cicd pipelines methodologies and tools jenkins spinnaker artifactoryltbrgtltbrgtproven ability to write programs using a highlevel programming language as well as modern application server frameworks ruby python goltbrgtltbrgtworking knowledge of enterprise virtualization solutions vsphereltbrgtltbrgtexperience developing administering and executing disaster recovery solutionsltbrgtltbrgtdeep understanding of the linux operating systemltbrgtltbrgtexperience with configuration management systems chef ansible and provisioning systemsltbrgtltbrgtpractical knowledge of network technologies security and communication protocols including tcpip dns dhcp load balancing firewalls jump and proxy servers network file systems intrusion detection secret stores cdns and cachingltbrgtltbrgtbackground using kubernetes docker aws immutable infrastructure and related technologies in geographically dispersed production environmentsltbrgtltbrgtexperience administering and supporting rdms and nosql databasesltbrgtltbrgtpassion for eliminating repetitive manual processes using data and automation eg splunk rundeck stackstorm pulumi etcltbrgtltbrgtdemonstrated experience supporting restful session based web applications using technologies such as java ruby rails passenger php python nginx etcltbrgtltbrgtexperience developing and tuning observability platforms and load generation tools in order to proactively identify and implement changes to ensure optimal application availability and performanceltbrgtltbrgtworking knowledge of developing building and maintaining rpm packages including the ability to read and modify makefiles configure scripts and compilation of cc programsltbrgtltbrgtknowledge of the x window system xorg configuration and the gnome desktop environmentltbrgtltbrgtability to easily change priorities or manage multiple priorities as the business needs dictates ltbrgtltbrgtcapable of taking part in a oncall rotation and travel occasionallyltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtapple retail interactive technology infrastructure team runs services that serve a large number of our customer experiences operating at our scale across multiple geographically dispersed points of presence and delivering on over a million customer experiences per day presents unique challenges as an sre apple youll need to solve these problems using data strategic internally developed platforms and collaborative expertise sres apple own the full infrastructure stack from deploying operating systems and storage architectures to distribution management and continuous software delivery our responsibilities are both broad and deepltbrgtltbrgtltbrgtresponsibilitiesltbrgtltbrgtmanage operate and deliver automated capabilities for repeated resolution and deployment across our infrastructure ltbrgtltbrgtdeploy support and monitor new and existing services platforms and application stacks inclusive of both custom internet facing services supporting customer facing systems as well as internal business solutionsltbrgtltbrgtarchitect author and deliver capabilities to improve the availability scalability and security of apples distributed retail interactive offeringsltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgtthis position is based on site in santa clara valley cupertino ca or austin txltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T15:50:36.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82700,
+    "max_value": 209000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

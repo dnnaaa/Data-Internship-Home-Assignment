@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services",
+    "description": "ltpgtltstronggtltstronggtdirect fulltime client hireltpgtltpgt remoteltpgtltpgtclient internationalampnbspdata analytics and technology company serving as a major player in the global economy as a provider of business and consumer financial data hr solutions and fraud prevention services assisting employers employees financial institutions and government agencies make critical decisionsampnbspin operation for over years employing over ltpgtltpgtltbrgtltpgtltpgtcomprehensive benefits competitive salary plus bonus up to ltpgtltpgtampnbspltpgtltpgtltstronggtoverviewltstronggtltpgtltpgtseeking a site reliability engineering sre for building and running largescale distributed faulttolerant systems ensure that internal and external services meet or exceed reliability and performance expectations while adhering to established engineering principles build and run production systems and engineer solutions to operational problems will be responsible for overall system operation using a variety of tools and approaches to solve a broad set of problems such as limiting time spent on operational work blameless postmortems proactive identification and prevention of potential outagesltpgtltpgtltstronggtampnbspltstronggtltpgtltpgtltstronggtroleltstronggtltpgtltulgtltligtengage in and improve the software development lifecycle from inception and design through development deployment operation and refinementltligtltligtinfluence and design infrastructure architecture standards and methods for largescale systemsltligtltligtsupport services prior to production via infrastructure design software platform development load testing capacity planning and launch reviewsltligtltligtmaintain services during deployment and in production by measuring and monitoring key performance and service level indicators including availability latency and overall system healthltligtltligtautomate system scalability and continually work to improve system resiliency performance and efficiencyltligtltligtpractice sustainable incident response as part of an oncall rotation and through blameless postmortemsltligtltligtremediate tasks within corrective action plan via sustainable preventative and automated measures whenever possibleltligtltulgtltpgtltstronggtampnbspltstronggtltpgtltpgtltstronggtqualificationsltstronggtltpgtltulgtltligtbs degree in computer science or related technical field involving coding eg physics or mathematics or equivalent job experience requiredltligtltligt years of public cloud experience requiredltligtltligtgoogle cloud platform experience in a professional setting requiredltligtltligtexperience managing infrastructure as code via tools such as terraform or cloudformation requiredltligtltligtproficiency with continuous integration and continuous delivery tooling and practicesltligtltligtexperience in languages such as python ruby bash java go perl javascript andor nodejsltligtltligtsystem administration skills including automation and orchestration of linuxwindows using chef puppet ansible salt stack andor containers docker kubernetes etcltligtltligtproficiency with monitoring tools like stackdriver datadog or appdynamicsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T20:59:05.000Z"
+  },
+  "company": {
+    "name": "TechnoSmarts, Inc.",
+    "link": "https://www.linkedin.com/company/technosmarts-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tallahassee",
+    "region": "FL",
+    "postal_code": "32308",
+    "street_address": null,
+    "latitude": 30.44074,
+    "longitude": -84.27833
+  }
+}

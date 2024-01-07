@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - System",
+    "industry": "Internet",
+    "description": "ltpgtfounded in bytedance is a technology company operating a range of content platforms that inform educate entertain and inspire people across languages cultures and geographiesltpgtltpgtwith a suite of more than a dozen products including tiktok douyin toutiao helo and resso bytedance now has a portfolio of applications available in over markets and languagesltpgtltpgtsystem technology and engineering ste team which belongs to system department in bytedance inc has been committed to the development and research in infrastructure system technologies such as operating system kernel various virtualization technologies cloud native sdn nfv performance optimization of system software and libraries stability and reliability of largescale data center collaborative design of nextgeneration hardware and software etc we actively participate in opensource communities and incorporate cuttingedge technology and innovation into our productsltpgtltpgtwe are looking for a passionate site reliability engineer to join us and help build a reliable infrastructure ecosystem in this role you will have the chance to design and develop automation tools for infrastructure management and solve real problems in our infrastructure ecosystem as an sre youll be focused on running better production applications and systemsltpgtltpgtltbrgtltpgtltpgtresponsibilitiesltpgtltpgt participate in the design development implementation testing and maintenance of automation tools for infrastructure management and maintenanceltpgtltpgt install and configure the development environment deploy services ensure the compliance of operation proceduresltpgtltpgt collaborate with engineers to develop solutions that improve the reliability of our production ecosystemltpgtltpgt provide oncall support incident response and collaborative debuggingltpgtltpgtqualificationsltpgtltpgtbasic qualificationsltpgtltpgt a bachelors or masters degree in computer science information science engineering mathematics or a related field or experience equivalent to a bachelors degree based on five or more years of work experienceltpgtltpgt two or more years of professional experience as a site reliability engineer or in related occupations systems administration devops engineering networkingautomation softwaresystems developmentltpgtltpgt good understanding of computer science fundamentals in algorithms and data structuresltpgtltpgt good understanding of computer networking fundamentalsltpgtltpgt proficiency in one or more scripting languages such as python bashltpgtltpgt experience working with container environments such as docker and kubernetesltpgtltpgtltbrgtltpgtltpgtpreferred qualificationsltpgtltpgt experience building and operating largescale highly available distributed systems or web services with a high degree of operational excellenceltpgtltpgt good understanding of linux operating system internals such as network and storage subsystemsltpgtltpgt experience in hybrid onpremises multicloud environmentsltpgtltpgt experience running and maintaining a x production environmentltpgtltpgtltbrgtltpgtltpgtbytedance is committed to creating an inclusive space where employees are valued for their skills experiences and unique perspectives our platform connects people from across the globe and so does our workplace at bytedance our mission is to inspire creativity and enrich life to achieve that goal we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach we believe individuals shouldnt be disadvantaged because of their background or identity but instead should be considered based on their strengths and experience we are passionate about this and hope you are tooltpgtltpgtltbrgtltpgtltpgtbytedance is committed to providing reasonable accommodations during our recruitment process if you need assistance or accommodation please reach out to usrcbytedancecomltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T03:26:16.000Z"
+  },
+  "company": {
+    "name": "ByteDance",
+    "link": "https://cn.linkedin.com/company/bytedance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 142000,
+    "max_value": 235000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

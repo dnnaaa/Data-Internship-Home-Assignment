@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "ltpgtltstronggtsite reliability engineer remoteltstronggtltpgtltpgtltstronggt month contract extensions conversion to fulltimeltstronggtltpgtltpgtltstronggtampnbspltstronggtltpgtltpgtltstronggtprojectltstronggtltpgtltpgtltstronggtltugtdemonware has a large number of products they have written lots of small pieces of software they have written thats all custom have production services that are running in aws all need to be migrated to gcpampnbspneed ability to write glue code and understand integration into open source products and propriety products written in their own codeltugtltstronggtltpgtltpgtltstronggtampnbspltstronggtltpgtltpgtltstronggtmust havesltstronggtltpgtltulgtltligt years experience in a devopssre roleltligtltligtexpert with python developmentltligtltligtexperience using python to glue applications togetherltligtltligtexperience with awsltligtltligtexperience with gcp ltligtltligtstrong experience with kubernetes ltligtltligtmust have worked and written helm chartsltligtltligtyaml filesltligtltligtkubernetes cluster deploymentsltligtltulgtltpgtltstronggtampnbspltstronggtltpgtltpgtltstronggtday to day ltstronggtltpgtltpgtltstronggtltugtthis person will need an indepth knowledge of complex systems with lots of unknowns we need them to have the ability to look at the system and understand what decisions people have made in the pastampnbspwe will need them to have the ability to reason with complex systems and be able to reason and make decisions this person needs to be able to look at infrastructure and reverse engineer problems in order to see decisions people have made and fix problems or reimplement that in a different placeampnbspthey do not need to be the decision makers but capable of understanding the problem and make informed decisions later down the road on different projects they do not need to write software but instead have the ability to move complex software from a complex environment and move it to a different complex environment items like debugging troubleshooting high scale looking at logs understanding services at scaleampnbspltugtltstronggtltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T18:20:48.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Woodinville",
+    "region": "WA",
+    "postal_code": "98072",
+    "street_address": null,
+    "latitude": 47.754467,
+    "longitude": -122.16324
+  }
+}

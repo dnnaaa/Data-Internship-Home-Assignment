@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtapple is looking for a senior sre with automation tooling experience to drive and be part of a team that is building monitoring and maintaining large scale highly resilient systems youll be contributing to bare metal os stack platform and network infrastructure for a critical and unique customerfacing apple service this is a rare opportunity to design build and control the entire scale end to end infrastructure along with all supporting components such as provisioning logging metrics monitoring deployment and sw development platform from the beginning within a team with a noops cultureltbrgtltbrgtltbrgtlocation we are open to santa clara valley cupertino california or austin texasltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtexperience in a devops or sre roleltbrgtltbrgtexperience with modern webscale services including servers vips load balancers proxiesltbrgtltbrgtable to write software needed to build and operate a large scale platform x including the development and staging platformsltbrgtltbrgtproficient in at least one of these languages python golang rust cltbrgtltbrgtfamiliar with bare metal bootstrap provisioning configuration and orchestrationltbrgtltbrgthighly experienced with one of these puppet chef saltstack ansible ltbrgtltbrgtyoure comfortable testing and rolling new kernels drivers libraries os changes config sync and building the systems to keep servers at an appropriate level and functionalityltbrgtltbrgtyoure knowledgable running systems for containerized servicesdocker and managing how they interact with network ampamp system resourcesltbrgtltbrgtyouve implemented and utilized your own metrics tsdb and logging platform with a front end such as grafanaltbrgtltbrgtyouve implemented a monitoring system such as sensu zabbix or nagios even better if youve written your ownltbrgtltbrgtyoure comfortable building and operating infrastructure that employs a chaos monkey bonus youve written that chaos monkey serviceltbrgtltbrgtyou enjoy analyzing performance end to end service experience and overall system health you dig and dig at what initially seems like a small oddity until you determine the root cause and drive it to resolution if its a potential issue regardless of whose problem it isltbrgtltbrgtflexibility and comfort working on a dynamic fastgrowing effort with minimal documentation and process in a small team environment quick learner aptitude to deal with ambiguity and enthusiasm to help solve difficult issuesltbrgtltbrgtltbrgtbonus native kubernetes implementation including cni kafka etcd experienceltbrgtltbrgtbonus youre familiar with distributed orchestration systems ltbrgtltbrgtbonus experience with cisco juniper or arista routing and switching hardware os including wirelessltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtyou will build and run an apple service that millions of customers use every day youll also build and run the infrastructure that powers those services were looking for people who like to solve operational problems using software rather than shell prompts as we scale apples services for customers around the world help us build the apple experience on a global scaleltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgt networks computers electronics and software have been your hobby since you were in grade schoolltbrgtltbrgt technical engineering bs would be nice though not requiredltbrgtltbrgt ms in cs ce or ee is even betterltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T02:31:05.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

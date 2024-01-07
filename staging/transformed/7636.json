@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Health, Wellness and Fitness,Mental Health Care",
+    "description": "ltpgtltstronggtabout usltstronggtltpgtltpgtat ginger we believe that everyone deserves access to incredible mental healthcare our ondemand system brings together behavioral health coaches therapists and psychiatrists who work as a team to deliver personalized care right through your smartphoneampnbspthe ginger app provides members with access to the support they need within seconds days a year millions of people have access to ginger through leading employers health plans and our network of partnersltpgtltpgtginger has been recognized by the world economic forum as a technology pioneer and by fast company as one of the most innovative companies in healthcareampnbspltpgtltpgtltbrgtltpgtltpgtltstronggtabout the roleltstronggtltpgtltpgtwe are looking for an outstanding machine learning engineer whoampnbspis passionate about helping people be their best selves you will be working closely with our data science product engineering and care teams as you build and maintain machine learning models that move the needle for the companyltpgtltpgtltbrgtltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtdesign train and validate algorithms to derive as much actionable information from our data text media activity etc as possibleltligtltligtengineer informative features that allow us to infer quality of care summarize salient conversations etcltligtltligtdevelop and deploy algorithms that extend coach and clinician awareness of member goals status history and probable future conditionsltligtltligtwrite new algorithms to deliver personalized healthpromoting content recommendations based on a range of featuresampnbspltligtltligtwrite clear annotation instructions and collect training data from multiple careteam annotators for training modelsltligtltligtcollaborate with engineers to integrate algorithms efficiently with backend production services and monitor them after launchltligtltligtwork with the product team to define new products build ml solutions and integrate them into the roadmapltligtltligtimprove and help define the data science teams processes and toolingltligtltligtemploy data to keep our eyes on the prize improved mentalhealth outcomes for all membersltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligtexperience solving problems with machine learning in an academic or professional settingltligtltligtfluency in programming with python yearsltligtltligtstrong exploratory data analysis skills including data visualization using numpy pandas matplotlib etcltligtltligtstrong foundations in statistics and mathematicsltligtltligtfamiliarity with recent advances in natural language processing computer vision speech processing reinforcement learning etcltligtltligtmasters or phd in cs math applied sciences or engineering or equivalent realworld experienceltligtltulgtltpgtltbrgtltpgtltpgtltstronggtpreferredltstronggtltpgtltulgtltligtexperience conducting annotation and collecting dataltligtltligtexperience working in a public cloud environment like aws gcp etcltligtltligtexperience with deep learning is a plusltligtltligtexperience in the healthcare spaceltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T20:45:38.000Z"
+  },
+  "company": {
+    "name": "Ginger",
+    "link": "https://www.linkedin.com/company/carebyginger"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

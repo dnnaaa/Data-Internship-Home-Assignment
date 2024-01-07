@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Machine Learning",
+    "industry": "Computer Software",
+    "description": "are you passionate about machine learning and looking for an opportunity to make an impact in healthcareltbrgtltbrgtfathom is on a mission to understand and structure the worlds medical data starting by making sense of the terabytes of clinician notes contained within the electronic health records of health systemsltbrgtltbrgtwe are seeking extraordinary machine learning engineers to join our team developers and scientists who can not only design machinebased systems but also think creatively about the human interactions necessary to augment and train those systemsltbrgtltbrgtplease note this position has a minimum requirement of years of experience for earlier career candidates we encourage you to apply to our sf andor toronto locationsltbrgtltbrgtltstronggtltugtas a machine learning engineer you willltbrgtltugtltstronggtltulgtltligtyou will develop nlp systems that help us structure and understand biomedical information and patient recordsltligtltligtyou will work with a variety of structured and unstructured data sourcesltligtltligtyou will imagine and implement creative dataacquisition and labeling systems using tools ampamp techniques like crowdsourcing and novel active learning approachesltligtltligtyou will work with the latest nlp approaches bert transformerltligtltligtyou will train your models at scale horovod nvidia vsltligtltligtyou will use and iterate on scalable and novel machine learning pipelines airflow on kubernetesltligtltligtyou will read and integrate state of the art techniques into fathoms ml infrastructure such as mixed precision on transformer networksltbrgtltligtltulgtltstronggtltugtwere looking for teammates who bringltbrgtltugtltstronggtltulgtltligt years of development experience in a companyproduction settingltligtltligtexperience with deep learning frameworks like tensorflow or pytorchltligtltligtindustry or academic experience working on a range of ml problems particularly nlpltligtltligtstrong software development skills with a focus on building sound and scalable mlltligtltligtexcitement about taking groundbreaking technologies and techniques to one of the most important and most archaic industriesltligtltligta real passion for finding analyzing and incorporating the latest research directly into a production environmentltligtltligtgood intuition for understanding what good research looks like and where we should focus effort to maximize outcomesltbrgtltligtltulgtltstronggtltugtbonus points if you have experience withltbrgtltugtltstronggtltulgtltligtdeveloping and improving core nlp componentsnot just grabbing things off the shelfltligtltligtleading largescale crowdsourcing data labeling and acquisition amazon turk crowdflower etcltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T17:06:49.000Z"
+  },
+  "company": {
+    "name": "Fathom",
+    "link": "https://au.linkedin.com/company/fathom-applications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

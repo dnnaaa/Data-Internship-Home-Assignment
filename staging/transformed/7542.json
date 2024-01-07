@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "we are presently looking for an experienced software engineer to join a team focused on developing software that aids in the collection and processing of images our customers appetite for images is unbounded and you will help meet their needs by designingbuildingsupporting a variety of applications that enable us to collect catalog and process more images more efficiently and with higher quality ltbrgtltbrgtbabs in computer science or related technical fieldltbrgt years of software development experienceltbrgt years experience developing with python java or other oo languagesltbrgtbuilt applications using relational databases such as mysql postgresqlltbrgtexperience with html javascript react amp jquery cssltbrgtexperience building and supporting batch or realtime data processes with technologies including docker kubernetes terraform ansible aws lambdaltbrgta solid foundation in software development and software design principlesltbrgtexperience with agile methodologies such as scrum and testdriven developmentltbrgtstrong communication skills youll be interfacing with users and other technical teamsltbrgtability and passion for learning new technology",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:21:36.000Z"
+  },
+  "company": {
+    "name": "Gracenote",
+    "link": "https://www.linkedin.com/company/gracenote"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80000,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

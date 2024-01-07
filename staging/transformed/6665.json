@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtthe oracle cloud infrastructure oci team can provide you the opportunity to build and operate a suite of massive scale integrated cloud services in a broadly distributed multitenant cloud environmentampnbspoci is committed to providing the best in cloud products that meet the needs of our customers who are tackling some of the worlds biggest challenges we offer unique opportunities for smart handson engineers with the expertise and passion to solve difficult problems in distributed highly available services and virtualized infrastructureampnbspat every level our engineers have a significant technical and business impact designing and building innovative new systems to power our customers business critical applicationsampnbspltpgtltpgtampnbspltpgtltpgtoracle tactical edge cloud otec is a new product that extends oracle cloud beyond the datacenters and brings its core features to customer locations even those without consistent internet access we are building a complex yet exciting offering that will span across cloud services and a fleet of ruggedized high powered devices that will handle a wide range of specialized workloads in collecting processing and analyzing massive amounts of data where low latency computing is criticalltpgtltpgtampnbspltpgtltpgtltstronggtposition overviewltstronggtltpgtltpgtthe site reliability engineering sre discipline in oci incorporates the ethos of software engineering and applies it large scale operations problems as a sre your primary goals are to create highly reliable and ultrascalable software systems to manage the operations of our servicesltpgtltpgtampnbspltpgtltpgta sre will spend a significant amount of their time doing ops related work such as production issues and service oncall when not working on operations the sre is working on software engineering tasks such as design and development of systems that increase our reliability scalability and reduce operational overhead through automation the ideal sre candidate is proficient programmer who has large breadth of knowledge and experience including areas such as networking internet protocols and linux systemsltpgtltpgtampnbspltpgtltpgtour sres are close partners with service owners in all aspects of service operations and ownership we have a strong culture of innovation collaboration and team work inspired by the devops philosophyltpgtltpgtampnbspltpgtltpgtltstronggt responsibilitiesltstronggtltpgtltulgtltligt work closely with development team on maintaining operational health of core compute services for api availability and low latencyltligtltligt managing and triaging tickets driving prioritization and execution of work based on impactltligtltligt scale systems sustainably through mechanisms such as easy to use tooling and automation work in concert with service developers to evolve systemsproducts for better scalability reliability and development velocityltligtltligt drives new runbooks to help reduce mean triage time of incidents prioritize and automate high hit count runbooksltligtltligt practice sustainable incident response and drive root case analysisltligtltulgtltpgtampnbspltpgtltpgtltstronggt qualificationsltstronggtltpgtltulgtltligtbs degree in computer science or related technical field involving coding or equivalent practical experienceltligtltligtunderstanding of linux operating systems and linux system administrationltligtltligtstrong understanding of linuxunix commandsltligtltligtexperience automating tasks with scripting languages such as python bash and javascriptltligtltligtsystematic problemsolving approach strong communication skills a sense of ownership and driveltligtltligtdeep understand of service metrics and alarms through the development of dashboards service kpis alarming systemsltligtltligtexperience working in an operational environment with mission critical tier one services with associated pager dutyltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:12:02.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

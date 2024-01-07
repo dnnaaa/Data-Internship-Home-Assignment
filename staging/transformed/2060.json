@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Linux DevOps Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtimagine what you could do here at apple new ideas have a way of becoming phenomenal products services and customer experiences very quickly bring passion and dedication to your job and theres no telling what you could accomplish apple pay is transforming the industry in payments transit and identity and were aggressively focusing on the customers digital wallet experience our scale and security demands create unique opportunities for innovative and creative solutions which contribute to millions of customers daily interactionsltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtbuild automate and support mission critical highly secure and highly available large scale infrastructureltbrgtltbrgtlinux systems administration experience rhel or centos or similarltbrgtltbrgtin depth understanding of os systems security encryption linux kernel tuning and debugging and networking stack and interfacesltbrgtltbrgtconfiguration automation automation cookbooks and test suites for chef puppet or ansibleltbrgtltbrgtexcellent coding or scripting skills python golang or bashltbrgtltbrgtcloud technologies kubernetes docker and aws infrastructure servicesltbrgtltbrgtsupport compute and data infrastructure both in the cloud and onpremise data centersltbrgtltbrgtautomate and enforce it governance security compliance and audit standardsltbrgtltbrgtcicd experience with github artifactory and team city or jenkinsltbrgtltbrgtexcellent documentation and verbal communication skillsltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtthe apple pay team is looking for an enthusiastic linux devops engineer to support our rapid growth and expansion be a key part of the infrastructure engineering team at apple pay with a broad impact across product and customer experiences gather requirements build infrastructure and tooling to support apple pay product initiatives be a conduit for technical expertise in liaising with external apple pay partners provide technical guidance solving expertise and architectural insight to development quality and site reliability teams solve complex problems using both opensource and inhouse tooling to support security and business initiatives build applications and tools to reduce barriers decrease friction and speed up delivery of products scale existing technologies or promote new technologies to outpace current growth projections evangelize next generation cloud and onpremise products and processes experiment with their implementation and bring them from concept to production readinessltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs degree in computer science or equivalent field with years or ms degree with years experience or equivalent experienceltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgt strong ability and enthusiasm to learn new technologies in a short timeltbrgtltbrgt prior experience as an sre software developer or system administratorltbrgtltbrgt experience with the hashicorp stack nomad consul vault terraformltbrgtltbrgt familiarity with data infrastructure cassandra kafka redis and elastic searchltbrgtltbrgt experience with hybrid cloud technologies pulumi terraformltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:43:46.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Remote",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtjob descriptionltbrgtltbrgtas an effective change agent of change control management the software release engineer will help organize and coordinate software deployments for multiple software delivery teams while upholding change control management practices and policy as a site reliability engineer the software release engineer will administrate and leverage cicd practices to aid software delivery teams towards robust automation solutions in cloudbased environments tasks include maintaining healthy relationships with members of software development and delivery infrastructure and operational teams administration of intellectual property and configuration management deployment coordination software pipeline tool administration automation solution development documentation and communication of change and change policyltbrgtltbrgtltstronggtltugtessential duties and responsibilitiesltbrgtltugtltstronggtltulgtltligtadminister and oversight of software packaging and deployment to production and nonproduction environmentsltligtltligtmay conduct code deployments to production and nonproduction environments as scheduledltligtltligtadminister amazon web services aws andor cloudbased provisioning and delivery solutionsltligtltligtresponsible for software assetartifact repository and source code repository management and administrationltligtltligtresponsible for scriptsoftware automation for software configuration management tasksltligtltligtprovide support and resolution of configuration problems that may occur during the software deploymentsltligtltligtwork with cross functional product delivery teams to clearly understand communicate and document changes with each software deployment activityltligtltligtparticipates in project planning of change management tasks in alignment with software development lifecycleltligtltligtresponsible for creation and administration of change control management change acceptance policies process and standards documentationltligtltligtadminister regulatory compliance develop and conduct internal software auditsltligtltulgtqualificationsltbrgtltulgtltligt years of software configuration management experience surrounding release managementltligtltligths diploma required bachelors degree preferredltligtltligtfamiliarity with maven based repository management technology jfrog artifactory sonatype nexus archiva etcltligtltligtfamiliarity with the agile development methodologyltligtltligtproven experience working with continuous integration environment and tools ex jenkins bamboo team city maven git chef puppetltligtltligtproven ability to function within a fastpaced and highpressure environmentltligtltligtwindows and unix os proficiencyltligtltligtscripting experience with unix andor windows and any maven ant python perl experience is idealltligtltligtexperience with developing software release automation solutionsltligtltligtstrong attention to detail and ability to follow established proceduresltligtltligtfamiliarity with itil or mof software and change management concepts desiredltligtltligtfamiliarity with oraclesql server and rdbms concepts desiredltligtltligtfamiliarity with clearcase or other change management tools desiredltligtltligtable to effectively influence and negotiate successful outcomesltligtltulgtltemgtapplicants for employment in the us must have valid work authorization that does not now andor will not in the future require sponsorship of a visa for employment authorization in the usltbrgtltbrgtltemgtwe are an equal opportunity employer and make hiring decisions based on merit recruitment hiring training and job assignments are made without regard to race color national origin age ancestry religion sex sexual orientation gender identity gender expression marital status disability or any other protected classification we consider all qualified applicants including those with criminal histories in a manner consistent with state and local laws including the city of los angeles fair chance initiative for hiring ordinanceltbrgtltbrgtto apply please email your resume to jledesmaledgentcom",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Ledgent Technology",
+    "link": "https://www.linkedin.com/company/ledgent-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 104000,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

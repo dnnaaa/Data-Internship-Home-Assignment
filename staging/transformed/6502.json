@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "ltpgtrole machine learning engineer full time ltpgtltpgtlocation dallas texas usaltpgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtwe are looking for a motivated and passionate machine learning engineers for our teamltpgtltpgtas part of this job you will be responsible forltpgtltulgtltligtproviding solutions for the deployment execution validation monitoring and improvement of data science solutionsltligtltligtcreating scalable machine learning systems that are highly performantltligtltligtbuilding reusable production data pipelines for implemented machine learning modelsltligtltligtwriting productionquality code and libraries that can be packaged as containers installed and deployedltligtltulgtltpgtltstronggtrequirementsltstronggtltpgtltpgtampnbspltpgtltulgtltligtbachelors degree or higher in computer science or related with years of work experienceltligtltligtability to collaborate with data engineers and data scientist to build data and model pipelines and help running machine learning tests and experimentsltligtltligtability to manage the infrastructure and data pipelines needed to bring ml solution to productionltligtltligtendtoend understanding of applications being created and maintain scalable machine learning solutions in productionltligtltligtability to abstract complexity of production for machine learning using containersltligtltligtability to troubleshoot production machine learning model issues including recommendations for retrain revalidate and improvementsltligtltligtexperience with big data projects using multiple types of structured and unstructured dataltligtltligtability to work with a global team playing a key role in communicating problem context to the remote teamsltligtltligtexcellent communication and teamwork skillsltligtltulgtltpgtltstronggtadditional skills required ltstronggtltpgtltulgtltligtpython spark hadoop docker with an emphasis on good coding practices in a continuous integration context model evaluation and experimental designltligtltligttestdriven development prefer py testnose experience with cloud environmentsltligtltligtproficiency in statistical tools relational databases and expertise in programming languages like pythonsql is desiredltligtltulgtltpgtltstronggtgood to have ltstronggtltpgtltulgtltligtknowledge of ml frameworks like scikitlearn tensorflow keras etcltligtltligtknowledge of mlflow airflow kubernetesltligtltligtknowledge on any of the cloud native mlaas offerings like aws sagemaker azureml or google ai platformltligtltulgtltpgtampnbspltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T19:52:15.000Z"
+  },
+  "company": {
+    "name": "ALOIS Staffing",
+    "link": "https://www.linkedin.com/company/alois-staffing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

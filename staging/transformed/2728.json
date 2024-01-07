@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer-AWS - SP&amp;R",
+    "industry": "Computer Hardware,Computer Software,Computer Networking",
+    "description": "ltstronggtltstronggtltstronggtwhat youll doltbrgtltbrgtltbrgtltstronggtltstronggtltstronggtyou will be responsible for operating in a senior role guiding the efficient automation of build deploy and release to support ciscos securex research team this includes developing and encouraging infrastructure as code and cicd pipelines identifying automation opportunities and mentoring delivery and design and implementation of platform and service life cycleltbrgtltbrgtltbrgtltstronggtltstronggtltstronggtwho youll work withltbrgtltbrgtltstronggtltstronggtltstronggtthis team is decisive and fast moving by the nature of the product they work on working with us youll be working with a team that sees the results of their work in the security of our customers the work we do is important and we get to see thatltbrgtltbrgtltbrgtltstronggtltstronggtltstronggtwho you areltbrgtltbrgtltstronggtltstronggtltstronggtltulgtltligtyoull have at least five years of experience with aws hosted services including use of cloudformation or terraform as a deployment platformltligtltligta successful candidate will know the value of micro services rest apis proper web scale architecture containerization and be able to effectively use programming to automate use of these conceptsltbrgtltligtltulgtltstronggt the position requires minimum of years experience with the following ltbrgtltbrgtltstronggtltulgtltligtarchitecture and engineering of microservicebased distributionsltligtltligtweb services and rest apisltligtltligtweb scale architectureltligtltligtdocker imagecontainer primitives and orchestration suites eg kubernetes mesosdcos nomadltligtltligtgitlab ci pipeline authoring or jenkins travis circleci etcltligtltligthashicorp terraform or aws cloudformation in a production environmentltligtltligtone or more objectoriented programming languages python go rust ruby etcltligtltulgtltstronggt the following experiences are preferred ltbrgtltstronggtltulgtltligt years traditional server administration concepts networking storage securityltligtltligt years experience administering one or more linux distributionsltligtltligt years of shell scriptingltligtltligt years experience with git vcsltligtltligt years in a leadership capacityltbrgtltbrgtltligtltulgtplease note this posting is to advertise potential job opportunities this exact role may not be open today but could open in the near future when you apply a cisco representative may contact you directly if a relevant position opensltbrgtltbrgtwearecisco where each person is unique but we bring our talents to work as a team and make a difference powering an inclusive future for allltbrgtltbrgtwe embrace digital and help our customers implement change in their digital businesses some may think were old years strong and only about hardware but were also a software company and a security company we even invented an intuitive network that adapts predicts learns and protects no other company can do what we do you cant put us in a boxltbrgtltbrgtbut digital transformation is an empty buzz phrase without a culture that allows for innovation creativity and yes even failure if you learn from itltbrgtltbrgtday to day we focus on the give and take we give our best give our egos a break and give of ourselves because giving back is built into our dna we take accountability bold steps and take difference to heart because without diversity of thought and a dedication to equality for all there is no moving forwardltbrgtltbrgtso you have colorful hair dont care tattoos show off your ink like polka dots thats cool pop culture geek many of us are passion for technology and world changing be you with us",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T17:12:12.000Z"
+  },
+  "company": {
+    "name": "Cisco",
+    "link": "https://www.linkedin.com/company/cisco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 117000,
+    "max_value": 203000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

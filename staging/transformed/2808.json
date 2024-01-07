@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "ltpgtltstronggtrequired skillsltstronggtltpgtltulgtltligtexpert in mysql and one or more of the following oracle mongodb postgres oracle mssql kafka hadoop hbase or hiveampnbspltligtltligtexperience in kafka for at least year is must ltligtltligtbachelors degree in computer science or information technologyltligtltligtexpert in database and sql tuningampnbspltligtltligtexpert troubleshooterampnbspltligtltligtauthored software to do parts or all of your jobltligtltligtstrong shell python and sql scripting to automate db related jobsampnbspampnbspltligtltligtfamiliarity with observability tools such as grafana prometheus vividcortex solarwinds nagios icinga munin cacti wiresharkltligtltligtability to work with development teamsampnbspltligtltligtfamiliarity with low level debugging tools strace tcpdump gdb lsof and netstatampnbspltligtltligtfamiliarity with splunkampnbspltligtltligtexpertise in setting up and testing backupsampnbspltligtltulgtltpgtampnbspltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtrespond to issues within the service level objective during your assigned oncall rotationltligtltligtsupport of of these tracks of technologyltligtltligtkafka elasticsearchlogstashkibana and rabbitmqltligtltligtmysql postgres oracle mssqlltligtltligtwrite software to improve the reliability scalability and performance of clients infrastructureltligtltligttroubleshoot broken systems and services issuesltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T19:29:29.000Z"
+  },
+  "company": {
+    "name": "Akraya, Inc.",
+    "link": "https://www.linkedin.com/company/akraya-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Consumer Electronics",
+    "description": "ltpgtltstronggtsite reliability engineerltstronggtltpgtltpgtour client is looking to hire a site reliability engineer to join their team the sre will configure tune and troubleshoot multitiered systems to achieve optimal application performance stability and availability in this role this person will work closely with the software engineers infrastructure and network engineers to deploy and maintain our services this position is fully remote but ltstronggtcandidates must be able to work pst hours ltstronggtadditionally candidates for this role ltstronggtmust be eligible to work w we are unable to work cc at this timeltstronggtltpgtltpgtltbrgtltpgtltpgtltstronggtthe right candidate for this role willltstronggtltpgtltulgtltligthave a handson get the job done attitudeltligtltligtbe a selfstarter who can troubleshoot from start to finish with minimal supervisionltligtltligthave the flexibility to deal with rapidly changing needsltligtltligtbe able to balance multiple projects and assignmentsltligtltulgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligt years of experience as an sre in a large fastpaced production environmentltligtltligtmust have at least years of experience building and managing aws infrastructure using terraformltligtltligtmust be able to demonstrate deep knowledge of the following aws managed services eks ecs mskltligtltligtmust have strong python skills the ability to write simple and complex automation scripts from scratch as well as modify existing onesltligtltligtmust have excellent troubleshooting skillsltligtltligtmust have excellent communication skills and be able to work crossfunctionallyltligtltulgtltpgtltbrgtltpgtltpgtltstronggtplus skillsltstronggtltpgtltulgtltligtexperience with kubernetes will help with troubleshootingltligtltligtunderstanding of the linux and system administration at a large scaleltligtltulgtltpgtltbrgtltpgtltpgtltstronggtdaytodayltstronggtltpgtltpgtthe primary function of the role is or moreltpgtltulgtltligtsupporting the health of the production systemsltligtltligtdaily looking at all the monitoring dashboards to see if there are any problems that need to be taken care of and then prioritizing thoseltligtltligtas needed monitoring the infrastructure issues slack channel from the engineering group and communicate with that team to further understand the problem and resolve itltligtltulgtltpgtthe secondary function of the role is or lessltpgtltulgtltligtworking on sprint board tasks example someone comes across a problem and they currently arent monitoring for that so the task on the sprint board is create a new monitoring system this person would then develop scripts used for environment monitoring and task automation using pythonltligtltulgtltpgtltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T17:00:51.000Z"
+  },
+  "company": {
+    "name": "The Select Group",
+    "link": "https://www.linkedin.com/company/the-select-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

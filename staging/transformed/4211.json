@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "we are witnessing a massive shift of consumer presence from offline to online with it there is a need for technologies that enable online businesses to thrive bolt is at the center of this universe leading the next generation of ecommerce having created a bestinclass buying experience from checkout to fraud detection payments and more with our help retailers can successfully compete with the online retail giants that have the means to invest in technologyltbrgtltbrgtthe data platform team works closely with all teams and crossfunctional partners including product engineering and data analysts to build a foundational data stack powering business analyticsltbrgtltbrgtwe are looking for someone to play a missioncritical role in designing and building the machine models fraud detection categorization recommendation personalization price analysis etc that powers bolt this should someone with experience creativity and passion for producing worldclass technology companies and consumers alike will rely heavily on what you build and youll have a ton of trust and responsibility if challenges excite you and youre ready for a large one let us knowltbrgtltbrgtcheck out our engineering blog ltbrgtltbrgtltstronggtltugtyou willltbrgtltugtltstronggtltulgtltligtbuild production ready machine learning models your models will be the engine that powers all online commerce through boltltligtltligtconduct data analysis to determine which policies we adopt and help inform strategic growthltligtltligtbuild machine learning infrastructure data pipelines and production ready services to serve live trafficltligtltligtwork with other teams at bolt to engineer new features for models or new product features that help improve bolt businessltbrgtltligtltulgtltstronggtltugtabout youltbrgtltugtltstronggtltulgtltligtpassion to improve ecommerce businessesltligtltligtstrong communication skills in a crossfunctional teamltligtltligtunrelenting focus on impactltligtltligtbachelors degree in relevant technical discipline or equivalent experienceltligtltligtsoftware engineering background in a teamoriented software development environmentltligtltligt years of machine learning experienceltligtltligtmastery of a scientific computing language r or python and sql experience with data analysis and statisticsltbrgtltligtltulgtltstronggtltugtour stackltbrgtltugtltstronggtltulgtltligtaws lambda for data ingestion and kinesis firehose to transport them into sltligtltligtstep functions and lambdas to coordinate workflowsltligtltligtaws redshift as the data warehouse spark on emr for doing etlltligtltligtterraform for maintaining infraltligtltligtjenkins ampamp circleci for build pipelinesltligtltligtpostgres rds is our application databaseltligtltligtour code base is primarily in golang ampamp typescript however our data bits are mostly in pythonltbrgtltligtltulgtltstronggtltugtbenefitsltbrgtltugtltstronggtltulgtltligtcompetitive payltligtltligtflexible ptoltligtltligtretirement plansltligtltligtcell phone reimbursementltligtltligtwifi reimbursementltligtltligtcomprehensive health coverage medical dental and visionltligtltligtmonthly wellness stipendltligtltligtpaid parental leaveltligtltligtmonthly virtual team eventsltbrgtltligtltulgtbolt is proud to be an equal opportunity workplace we are committed to equal employment opportunity regardless of race color ancestry religion sex national origin sexual orientation age citizenship marital status disability gender identity or veteran status pursuant to the san francisco fair chance ordinance we will consider for employment qualified applicants with arrest and conviction records if you have a disability or special need that requires accommodation please let us knowltbrgtltbrgtcheck out our engineering blog",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T06:31:54.000Z"
+  },
+  "company": {
+    "name": "Bolt",
+    "link": "https://www.linkedin.com/company/bolt-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

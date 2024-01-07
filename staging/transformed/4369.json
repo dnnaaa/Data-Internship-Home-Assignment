@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer/Developer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "dice is the leading career destination for tech experts at every stage of their careers our client initiate government solutions is seeking the following apply via dice todayltbrgtltbrgtfounded in initiate government solutions igs a woman owned small business specializes in healthcare information solutions with an emphasis on technology spectrum igs partners with government and commercial clients to tackle the most challenging healthcare information technology issues including large scale implementations business informatics analytics and electronic health record support igs is currently recruiting for the position of a fulltime software engineerdeveloper to support our work with the national library of medicine nlm responsibilities and duties included but not limited to design software development and coding prototyping documentation testing and configuration software development projects will use agile development principles with necessary documentation humancentered design and an extensible infrastructure develop webbased interactive systems using agile principles work with nlm to ensure that the system is compliant with security policies post all code to a publicly available code repository consistent with a public domain cc license ensure that the architecture is extensible to allow for further development including integration with compatible internal or external systems secure coding practices particularly where those practices impact development of information systems that meet fisma requirements c c c python java and perl programming in a predominantly linux application development environment including windows and macos environments minimum qualifications bachelors degree in computer science or related degree or equivalent experience knowledge of the software development lifecycle ability to develop unit testing of code components or complete applications strong understanding of software engineering experience working on a variety of software development projects deep programming language knowledge experience handling large amounts of data or working in a distributed computing environment programming experience in a linux environment experience with cloud technologies proficiency in at least one modern programming language such as java c c golang fluency in scripting languages such as bash csh perl or python ability to work with common structured documents at least one of xml json experience with opensource projects experience with cicd pipelines unit testing integration and regression testing ability to obtain or maintain an nlm public trust preferred qualifications and core competencies must be a selfmotivator with ability to work remotely as part of a team or independently with little supervision or direction an nlm public trust benefits initiate government solutions offers competitive compensation and a strong benefits package including comprehensive medical dental and vision care matching k paid time off flexible spending accounts life insurance disability coverage and other benefits that help provide financial protection for you and your family initiate government solutions participates in the electronic employment verification program initiate government solutions is an equal opportunity employer our company policy is to provide equal opportunity in all areas of employment practice without regard to race color religion sex sexual orientation national origin age marital status veteran status citizenship or disability",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:00:47.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69900,
+    "max_value": 92700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bethesda",
+    "region": "MD",
+    "postal_code": "20894",
+    "street_address": null,
+    "latitude": 38.984856,
+    "longitude": -77.09269
+  }
+}

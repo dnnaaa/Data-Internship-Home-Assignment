@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Platform Engineering",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "ltstronggtroleltbrgtltbrgtltstronggtteslas platform engineering is looking for a site reliability engineer to join our team as a member of the team you will be building and maintaining kubernetes clusters using infrastructureascode tools like ansible terraform argocd and helm and helping the application teams to be successful on our platform the underlying infrastructure is a a mix of onpremise vms bare metal hosts and public clouds such as aws located all around the globe which presents unique challenges and opportunity to work with different types of infrastructure technologies a successful candidate will be expected to possess expert knowledge in linux fundamentals architecture and performance tuning as well as software development skills to match experience running kubernetes in production will be a strong plus we prefer golang or python for any automation or tools we have to build along the way we are the team that runs production critical workloads for every aspect of the business at tesla and sets the standards for other teams a group of wellrounded generalists that not only solve the hardest problems in the industry but also push other engineering teams at large to be better join us to get a chance to work with some of the best engineers in the industry for one of the most transformative companies in the history of both automotive and energy industriesltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtmanage our kubernetes clusters onprem and in the cloud to support our growing workloadsltligtltligtparticipating in the architecture design process and troubleshooting of live applications with the product teamsltligtltligtparticipating in a x oncall rotation hours day shift once a week on a weekday and a weekend shift once every weeksltligtltligtinfluence architectural decisions with focus on security scalability and highperformanceltligtltligtsetup and maintain monitoring metrics ampamp reporting systems for finegrained observability and actionable alertingltligtltligtauthoring technical documentation for workflowsprocessesbest practicesltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligt years of managing webscale infrastructure in a production nix environmentltligtltligtability to prioritize tasks and work independentlyltligtltligtadvanced or expertlevel linux administration and performance tuning skillsltligtltligttrack record of practical problem solving under pressureltligtltligtexcellent communication and documentation skillsltligtltligtbs or ms degree in computer science or engineering or equivalent experienceltligtltligtadvanced experience with configuration management systems such as ansible terraform or puppetltligtltligtdemonstrable knowledge of the linux operating system internals networking stack filesystems resource scheduling and process managementltligtltligtexperience with aws or other cloud infrastructure providersltligtltligtexperience managing containerbased workloads using kubernetes or other orchestration software in production argocd helmltligtltligtproficiency in a highlevel language like python go ruby andor javaltligtltligtselfdriven with an analytical mind with a bias for actionltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:27:56.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

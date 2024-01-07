@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Defense &amp; Space",
+    "description": "ltpgtthis is an opportunity to work at a worldfamous federally funded research ampamp development organization with a great cultureampnbspltpgtltpgtthey have a need of a ltstronggtsoftware engineer ltstronggtto provide support to the software team in implementing and integrating pythonbased analysis capabilities for resiliency testbed along with angular web front endsltpgtltpgtltbrgtltpgtltpgtltstronggtkey pointsltstronggtltpgtltulgtltligtltstronggttitleampnbspampnbspsoftware engineerltstronggtltligtltligtltstronggtlocationampnbspltstronggtlexington ma greater bostonltligtltligtltstronggtjob type w contractltstronggtltligtltulgtltpgtltbrgtltpgtltpgtltstronggtposition scopejob functionsltstronggtampnbspltpgtltulgtltligtdevelop ltstronggtpythonbased analysis capabilitiesltstronggt for resiliency testbed this includes ingesting and processing experimental data from the testbed and producing value and insights using statistical and ltstronggtmlbased techniquesltstronggtltligtltligtdevelop ltstronggtangular web front endsltstronggt develop web app front ends in angular that communicates with various backend technologies and apisltligtltligtinfrastructure ltstronggtautomation with docker ansible and terraformltstronggt this includes developing automation for configuration and deployment of the software services to ltstronggtaws and esxltstronggt environments using ltstronggtcontainers and ansibleltstronggt and including infrastructure configuration with terraform this task also includes using automation to secure and harden deployed servicesltligtltligtltstronggtjavabased applications for data processing and adaptationltstronggt develop java applications primarily focused on ingesting adapting and normalizing data for downstream analytics secondary tasks include developing ltstronggtspringbootbased java microservicesltstronggtltligtltligtalso perform related ltstronggttesting and compose compile and maintain documentationltstronggt for users and administrators ltligtltligta secondary role will be to assist the development team in the planning and execution of effective agile software development practices ltligtltligtmust be able to communicate collaborate and work effectively within our rst teamltligtltligtthe software developer must have a willingness to take on new technologies and work in areas and take on responsibilities that they are not necessarily an expert inltligtltulgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtltstronggtskills requiredltstronggtltpgtltulgtltligtexperience developing nontrivial applications using ltstronggtpython java angular json protobufs mavenltstronggt agile software development source code version control systems ie git ampamp githubltligtltligtexperience developing deployment pipelines using ltstronggtdocker ansible and terraformltstronggtltligtltligtexperience securing and hardening deployed services using ansibleltligtltligtexperience with ltstronggtelastic stack apache nifiltstronggtltligtltligtltstronggtunit testing and integration testingltstronggtltligtltligtdeveloping debugging and executing software in a ltstronggtwindows and linux environmentltstronggtltligtltligtproducing editing and maintaining documentation aimed at users and other developersltligtltligtexperience with ltstronggtactivemq kafkaltstronggt and other middleware and messaging platformsltligtltulgtltpgtltbrgtltpgtltpgtltstronggteducationampnbspltstronggtbachelors degreeampnbspwith ampnbspyears of relevant work experienceltpgtltpgtampnbspltpgtltpgtwork authorizationampnbspltstronggtus citizenshipampnbspltstronggtis requiredltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:39:58.000Z"
+  },
+  "company": {
+    "name": "Minuteman Group LLC",
+    "link": "https://www.linkedin.com/company/minuteman-group-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lexington",
+    "region": "MA",
+    "postal_code": "02420",
+    "street_address": null,
+    "latitude": 42.44817,
+    "longitude": -71.224724
+  }
+}

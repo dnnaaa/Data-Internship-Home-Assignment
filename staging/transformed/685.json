@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Hospital &amp; Health Care",
+    "description": "ltpgtatampnbspcarta healthcare we believe in a multidisciplinary approach to solving problemsampnbspour mission is to automate and simplify the work that burns out clinical staff so they can focus on patient care our ai enabled technology offers a complete solution people process and technology to support the healthcare registry data marketampnbspwe design products that transform the way hospitals use data to deliver care we make analyzing data fast easy and useful for everyone we give clinicians time back to focus on research and care that improve patient lives by reducing paperworkampnbspcarta healthcare is a remote organization with headquarters in san francisco and portland oregonampnbspto learn more about our ai enabled solutions and more about our company pleaseampnbspltemgtvisit wwwcartahealthcareltemgtltpgtltpgtltbrgtltpgtltpgtwe are looking for aampnbspdata scientistampnbspresponsible for working with and improving our automation natural language processing and machine learning toolsampnbspyour primary focus will be building tools to extract actionable clinical insights from unstructured data sourcesampnbspthis will include expanding the capabilities of cartas nlp pipeline building new algorithms and orchestrating the training evaluation and deployment of these algorithms to live dataltpgtltpgtampnbspltpgtltpgtresponsibilitiesltpgtltulgtltligtinterpret messy structured and unstructured clinical data to produce actionable insightsltligtltligtwork with parallelized and modular data ingest and machine learning techniquesltligtltligtimprove the performance of cartas automation and machine learning pipelinesltligtltligtwork with clinical experts to generate deidentified datasets for evaluating our ml algorithmsltligtltligtorchestrate the training deployment and evaluation of ml pipelines across multiple customer deploymentsltligtltligtcollaborate with other team members and stakeholdersampnbspltligtltulgtltpgtltbrgtltpgtltpgtwhat youll needltpgtltulgtltligtphd in biomedical informatics statistics computer science or related fieldltligtltligtstrong understanding of the core principles of statisticalmachine learningltligtltligtexperience working with clinical dataltligtltligtexperience with natural language processing tools eg spacyltligtltligtpython expertise years experienceltligtltligtproficient understanding of code versioning tools ie gitltligtltligtfamiliarity with jupyter notebooks or other data science toolsltligtltligtstrong data visualization skills tableau matplotlib etcltligtltligtexperience with the fhir standard for medical dataltligtltligtpostgres or sql expertiseltligtltligta handson engaged approach to solving problemsampnbspampnbspampnbspampnbspltligtltligtexcellent communication skills and experience in collaborative environmentsampnbspltligtltligtthe desire to be continually learning about emerging technologiesindustry trendsltligtltligtjob is remote but candidates must be usbasedltligtltulgtltpgtltbrgtltpgtltpgtwhy we love carta healthcare and why you will tooltpgtltulgtltligtindustry leading productsltligtltligtwork hard and have fun doing itltligtltligtwork alongside some of the most talented and dedicated teammatesltligtltligtmission drivenampnbspltligtltulgtltligtltligt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T22:54:19.000Z"
+  },
+  "company": {
+    "name": "Carta Healthcare Inc.",
+    "link": "https://www.linkedin.com/company/cartahealthcare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

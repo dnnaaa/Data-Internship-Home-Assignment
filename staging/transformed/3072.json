@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Health, Wellness and Fitness",
+    "description": "ltpgtsite reliability engineerltpgtltpgtltstronggtltugtjob descriptionltugtltstronggtltpgtltpgta client is looking for a traditional infrastructure engineere turned devops engineer they are looking for someone who can come in with knowledge of infrastructure as code ansible along with monitoring experience they currently use newrelic the best thing you can bring to the table is automation to get code out the door automation on the deployment process and create a selfhealing environment they are currently using ansible to automateltpgtltpgtltbrgtltpgtltpgtto explain the environment everything is in aws they currently run everything on ec instances along with lambda and eventually would love to become serverlessltpgtltpgtltbrgtltpgtltpgtthey are currently working on a migration from dockerswarm to eks and kubernetes at plexus they have support from the vendor tools like ks jenkins etc where you will be able to lean on that support if neededltpgtltpgtltbrgtltpgtltpgtltstronggtltugtrequired skills ampamp experienceltugtltstronggtltpgtltulgtltligt yrs of experience in a devops role or years of implementingsupporting cicdltligtltligtnewrelic or something similarltligtltligtansible or similarltligtltligtcloudformation or terraformltligtltligtseleniumltligtltligtdockerltligtltligtvpc servicesltligtltulgtltpgtltbrgtltpgtltpgtltstronggtltugtdesired skills ampamp experienceltugtltstronggtltpgtltulgtltligtawsltligtltligtredisltligtltligtkubernetesltligtltligtlogglyltligtltulgtltpgtltbrgtltpgtltpgtltspangttech breakdown ltspangtltpgtltulgtltligttools not all required but this is some that they work with aws ansible bitbucket docker dockerswarm kubernetes eks jenkins newrelic loggly lambda redis elasticcache vcp selenium etcltligtltulgtltpgtltbrgtltpgtltpgtthe offerltpgtltulgtltligtfulltime direct hireltligtltligtk quarterly bonuses ltligtltulgtltpgtltbrgtltpgtltpgtltstronggtltugtyou will receive the following benefitsltugtltstronggtltpgtltulgtltligt company paid medical dental and vision for employeesltligtltligtk program with a company match and immediate vestingltligtltligtquarterly bonuses based on company profitabilityltligtltligtweekly drawings for gift cards and cashltligtltligtpaid sick time leaveltligtltulgtltpgtltbrgtltpgtltpgtapplicants must be currently authorized to work in the united states on a fulltime basis now and in the futureltpgtltpgtltstronggtposted byltstronggt ashly haleltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T17:44:48.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Scottsdale",
+    "region": "AZ",
+    "postal_code": "85266",
+    "street_address": null,
+    "latitude": 33.494907,
+    "longitude": -111.92606
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data &amp; Applied Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "answers ranking applied scientistltbrgtltbrgtthe bing team is looking for an applied scientist for universal triggering team the team is responsible for determining to show or not to show one answer in search result page and placing the shown answers at a proper position in the pageltbrgtltbrgtthe task requires not only the good understanding on the intent of the query and the intent of the answers but also good understanding on the users interaction with bing search result to know if the placement of answers satisfy users or notltbrgtltbrgtnearly half a billion users visit bingcom worldwide monthly and this gives us pbs of data to work with this role is a great opportunity to make solid impact on the org train models and come up with heuristics that can improve ranking and on how users can be more productive with searchltbrgtltbrgtas an applied scientist in this team you will be analyzing and parsing pbs of search logs and train models using these logs to understand what the users intent really is you will have ample opportunity to innovate in improving the models structure pr and other core metrics to satisfy the users intent and continue to build upon our data driven culture at microsoftltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtanalyze the search logs to find better signals to indicate users satisfactiondissatisfaction and improve the metric to measure the quality of the answers accordinglyltligtltligtfind better signals to indicate the relevance of the answers to the query and apply the new signals in rankers to improve the qualityltligtltligtimprove the intent understanding models to better organize the whole pageltligtltligtdevelop tools and dashboards for easier debug and monitorltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligta degree or majored in computer science electrical engineering or related technical fieldltligtltligt years proficiency in general programing language like c cc javaltligtltligt years professional experience in machine learning and data analysisltligtltligtability to work independently and strong communication and collaboration skillsltbrgtltligtltulgtltstronggtltugtpreferred skillsltbrgtltbrgtltugtltstronggtfamiliarity with search engines is a huge plusltbrgtltbrgtmicrosoft is an equal opportunity employer all qualified applicants will receive consideration for employment without regard to age ancestry color family or medical care leave gender identity or expression genetic information marital status medical condition national origin physical or mental disability political affiliation protected veteran status race religion sex including pregnancy sexual orientation or any other characteristic protected by applicable laws regulations and ordinances we also consider qualified applicants regardless of criminal histories consistent with legal requirements if you need assistance andor a reasonable accommodation due to a disability during the application or the recruiting process please send a request via the accommodation request formltbrgtltbrgtbenefitsperks listed below may vary depending on the nature of your employment with microsoft and the country where you work",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T22:46:07.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

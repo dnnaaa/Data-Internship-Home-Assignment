@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltbrgtltbrgtat sensormatic solutions a division of johnson controls jci we bring together diverse data and insights with our intelligent operating platform that is designed to drive improved shopper experiences and retail outcomes our innovative solutions loss prevention shoppertrak and inventory intelligence drive improved customer experiences and enable retailers to create streamlined shoppingltbrgtltbrgtltstronggtwhat you will doltbrgtltbrgtltstronggt ltulgtltligtas a site reliability engineer sre you will tune and troubleshoot multitiered systems to achieve efficient application performance stability and availability the sre will work closely with the software engineers infrastructure and network engineers to deploy and maintain our servicesltligt ltligtyou will act as rd level technical support liaison between sensormatic solutions external and internal customers vendors and the technology departments on a global scale ltligt ltligtyou will be a point of contact and assist in application and infrastructure implementation support monitoring incident response and trainingltligt ltligtresponsible for availability latency performance efficiency change management monitoring emergency response and capacity planningltligt ltbrgtltbrgtltulgtinvestigate and identify the root cause of moderately sophisticated customer network infrastructure application and server issuesltbrgtltstronggthow you will do itltbrgtltbrgtltstronggt ltulgtltligtsupervise and report the status of tickets to respective internalexternal customers and interested parties ltligt ltligtdrive platform reliability methodologies influence design decisions and get handson to tackle key infrastructure cluster automation and scaling challengesltligt ltligtanalyze investigate and identify root cause of complex customer issues and communicate findings to appropriate group for resolution ltligt ltligtwork with different areas of the business to establish slis and slos for customer platformsltligt ltligtensure that error budgets are maintained and slos are metltligt ltligtbuild tools to reduce toil and automate workflowsltligt ltligtfollow and implement sensormatics production change control processltligt ltligt oncall duty in case of emergencies based on rotating shifts alongside other global teams ltligt ltligtserve as incident commander to lead efforts in resolving missioncritical issues across the entire engineering organizationltligt ltligtcollaborate closely with product developers and perform production readiness reviews to ensure that designed solutions respond to nonfunctional requirements such as availability performance security and maintainability as well as functional requirements such as security scalability and reliabilityltligt ltligthelp developers interface with tooling including our kubernetes platform and inhouse continuous delivery pipeline for terraformltligt ltligtwork offhours periodically to accommodate maintenancedowntime windows as well as outagesltligt ltligtbuild and update howto documents runbooks and procedures for troubleshooting and system managementltligt ltligtparticipate in research and development activity as needed to progress sensormatics new or improved products processes or formulasltbrgt ltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T05:15:45.000Z"
+  },
+  "company": {
+    "name": "Johnson Controls",
+    "link": "https://ie.linkedin.com/company/johnson-controls"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79500,
+    "max_value": 98700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtexperian consumer services is seeking a machine learning engineer to help deliver personalized financial solutions to our customers the ideal candidate must have the ability to extract insights from data and deliver a ml project from beginning to end including understanding business needs trainingvalidating ml models and deploying ml models to applications in addition the candidate must be able to thrive in a complex and fastpaced environmentltbrgtltbrgtltstronggtltugtabout us but well be briefltbrgtltbrgtltugtltstronggtexperian is the worlds leading global information services company unlocking the power of data to create more opportunities for consumers businesses and society we are thrilled to share that fortune has named experian one of the best companies to work for in addition for the last five years weve been name in the worlds most innovative companies by forbes magazineltbrgtltbrgtltstronggtltugtwhat youll be doingltbrgtltugtltstronggtltulgtltligt develop machine learning algorithms with huge data sets to solve challenging business questionsltligtltligt improve performances of existing ml algorithmsltligtltligt partner with data scientists to discover new data sources and create new input features for ml modelsltligtltligt build end to end data pipeline for ml modelsltligtltligt implement stateoftheart experimental systems and evaluate model performancesltligtltligt communicate key analytical results to stakeholdersltbrgtltligtltulgtltstronggtltugtwhat your background looks likeltbrgtltugtltstronggtltulgtltligt advanced degree in a quantitative field machine learning data science computer science etc or equivalent professional experienceltligtltligt years of work experience in a quantitative field such as data science or statistical modeling using cloud computing services such as aws google cloud platform snowflake databricks etc experience with ecommerce and digital marketing is preferredltligtltligt experience with statistical modeling techniques such as regression support vector machines and neural nets experience with natural language processing is a plus experience with deep learning algorithms such as convolutional neural networks and recurrent neural networks is a plusltligtltligt experience with clustercomputing framework such as hadoop or sparkltligtltligt working knowledge of data science tools eg numpy pandas scikit tensorflow keras rltligtltligt experience with data processing tools eg sqlltligtltligt experience with version control systems ie git github and writing production ready codeltligtltligt excellent oral and written communication skillsltbrgtltligtltulgtltstronggtperksltbrgtltstronggtltulgtltligt during this pandemic all experian employees are working remotely once its safe to do so well slowly return to our offices however we are in no rush to do this the safety of our employees is of utmost importanceltligtltligt three weeks of vacation to start five sick days and two volunteer days plus eleven paid holidaysltligtltligt competitive pay and comprehensive benefits package with a bonus target of ltligtltligt flexible work schedule and relaxed dress codeltbrgtltligtltulgtltstronggtltugtadditional informationltbrgtltbrgtltugtltstronggtall your information will be kept confidential according to eeo guidelinesltbrgtltbrgtltemgtexperian is proud to be an equal opportunity and affirmative action employer our goal is to create a thriving inclusive and diverse team where people love their work and love working together we believe that diversity equity and inclusion is essential to our purpose of creating a better tomorrow we value the uniqueness of every individual and want you to bring your whole authentic self to work for us this is the power of you and it ensures that we live what we believeltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T23:57:46.000Z"
+  },
+  "company": {
+    "name": "Experian",
+    "link": "https://www.linkedin.com/company/experian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 100000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "site reliability engineer sr devops engineerltbrgtlocation seattle wa remote okltbrgtduration monthsltbrgtrequiredltbrgt bachelors degree in cs or a related stem engineering field strongly preferredltbrgt relevant certifications are a plusltbrgt years of site reliability devops engineeringltbrgt expertise in aws azureltbrgt expertise in kubernetes kops amp helm ltbrgt istio service mesh experience is strongly preferredltbrgt experience with infrastructure as code iiac requiredltbrgt specifically we are looking for terraformltbrgt fluency in at least one language required python c java should have strong api experienceltbrgt experience working in soa and factor app methodologyltbrgt strong leadership initiative taking and capacity for decision makingltbrgt expert knowledge in any or all of these is a huge plus prometheus operator grafana loki elk stack opentelemetry jaegeropentracingltbrgt participate in the oncall rotationltbrgtltbrgtwhat youll doltbrgt work across teams to completely automate everything we doltbrgt drive and own best practices with automation be passionate and proactiveltbrgt approach alerting monitoring and log aggregation with an eye toward flexibility and insightdriven metricsltbrgt collaborate with the teams to ensure ongoing infrastructure managementautomation iac cicd pipeline construction in collaboration with the release engineering team monitoring and maintenanceltbrgt enable our engineering teams to deliver high quality software fast well tested in a highly repeatable wayltbrgt create automated tool sets to deploy measure solidify and observe our infrastructure ltbrgt ongoing study and implementation of the industrys latest best practices and drive those within the companyltbrgt participate in the oncall rotationltbrgtltbrgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T19:20:22.000Z"
+  },
+  "company": {
+    "name": "OrgSpire Inc",
+    "link": "https://www.linkedin.com/company/orgspire-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

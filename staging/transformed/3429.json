@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtthe sponsored products allocation and pricing team is responsible for auctions that drive a multibillion dollar advertising program we use datadriven approaches to make tradeoffs between publisher advertiser and shopper concerns as a part of sponsored products ads program with a broad mandate to experiment and innovate using the power of data science big data and machine learning we are growing at an unprecedented rate with a seemingly endless range of new opportunitiesltbrgtltbrgtas a machine learning engineer on the sponsored products allocation and pricing team youll have a unique opportunity to build our next generation platform to leverage vast amounts of data and machine learning techniques to optimize auctions for sponsored products on amazon youll work with product managers economists and scientists to solve complex problems at amazonscale bringing your engineering skills together with the powers of aws to launch solutions that will have direct customer impactltbrgtltbrgtamazon is investing heavily in building a world class advertising business and we define and delivering a collection of selfservice performance advertising products that drive discovery and sales our products are strategically important to our retail and marketplace businesses driving longterm growth we are a highly motivated collaborative and funloving team building a high growth business this is an opportunity to make a significant impact on the future of the amazon visionltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt design and implement infrastructure for orchestrating end to end machine learning lifecyclesltligtltligt work with a variety of technologies such as spark emr aws lambda and step functions etcltligtltligt set up processes to monitor and continually improve efficiency and performance of kpisltligtltligt help shape the technical direction for simulation and automation to evolve the auction mechanismltligtltligt partner with data scientists to drive machine learning modeling and experimental design such as ab testingltbrgtltbrgtltligtltulgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligt programming experience with at least one modern language such as java c or c including objectoriented designltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligt experience working with highperformance scalable systemsltligtltligt experience in online advertisingltligtltligt years of industry experienceltligtltligt msphd in computer science or a related technical disciplineltbrgtltligtltulgtamazon is committed to a diverse and inclusive workplace amazon is an equal opportunity employer and does not discriminate on the basis of race national origin gender gender identity sexual orientation protected veteran status disability age or other legally protected status for individuals with disabilities who would like to request an accommodation please visit httpswwwamazonjobsendisabilityusltbrgtltbrgtsspajobsltbrgtltbrgtltbrgtltstronggtcompanyltstronggt amazoncom services llcltbrgtjob id a",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T01:24:27.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65300,
+    "max_value": 101000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

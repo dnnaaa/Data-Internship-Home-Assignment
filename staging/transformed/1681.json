@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Staffing and Recruiting",
+    "description": "ltpgtltstronggtltugtno ctcltugtltstronggtltpgtltpgtltbrgtltpgtltpgtltstronggtjob descriptionltstronggtltpgtltpgtthis role with the funding team within corporate treasury entails development and maintenance of data analytics and visualization tools that provide business insights meet management reporting needs and automate business tasks the job involves coordination with teams within the corporate treasury and technology organizations to identify business requirements and to deliver tools that satisfy those requirementsltpgtltpgtltbrgtltpgtltpgtthe developer will build data pipelines by sourcing data from various upstream systems and housing it within a relational database in a format that facilitates consumption by frontend tools the data pipeline will be developed using a combination of technologies including python oracle and amps the developer will also create data analytics and visualization tools using python microsoft excel and tableaultpgtltpgtltbrgtltpgtltpgtltstronggtrequired skillsltstronggtltpgtltulgtltligt years of overall development experienceltligtltligt years building data pipelines and visualization toolsltligtltligt years of python and data analytics using pandasltligtltligt years of oracle sql developmentltligtltligt year programming microsoft excel vba charts pivot and data tablesltligtltulgtltpgtltstronggtnice to haveltstronggtltpgtltulgtltligtexperience in r programmingltligtltligtexperience building tableau visualizationsltligtltligtexperience with git version control perl and linuxltligtltligtfamiliarity with oracle analytics performance tuning and administrationltligtltulgtltpgtltstronggteducationampnbspltstronggtltpgtltulgtltligtat minimum a bachelors degree in engineering computerdata science or a quantitative disciplineltligtltulgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtremote until further noticeltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-29T18:18:53.000Z"
+  },
+  "company": {
+    "name": "Mitchell Martin Inc.",
+    "link": "https://www.linkedin.com/company/mitchell-martin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte Metro",
+    "region": null,
+    "postal_code": "28209",
+    "street_address": null,
+    "latitude": 35.225204,
+    "longitude": -80.83933
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Research,Computer Software,Biotechnology",
+    "description": "this is a fully ltstronggtremote and work from home wfhltstronggt opportunity within the usltbrgtltbrgtscience is accelerating the research and development of breakthrough biomedical treatments by bringing clinical trials to patients homes backed by venture investors such as glynn capital google ventures redmile group drx capital and lux capital we are revolutionizing the clinical trial industry one patient at a time to help us achieve our goal we are seeking a ltstronggtsite reliability engineer sre ltstronggt eager to make an impact within a missiondriven organizationltbrgtltbrgtwe count on our sres to empower our users with a rich feature set high availability and stellar performance level to pursue their missions we are looking for a self driven engineer to help scale our growing presence you have likely been an application software engineer in the past and have gained a deep understanding of infrastructure and operations or have been a systems administrator with extensive experience across technologies who has spent the last few years learning modern automation and cloud native infrastructure skills you must enjoy working alongside system architects and software engineers to maintain and improve a highly available highly scalable saas platformltbrgtltbrgtltstronggtltugtduties include but are not limited toltbrgtltugtltstronggtltulgtltligt run the production environment by monitoring availability and taking a holistic view of system health ltligtltligt make monitoring and alerting alert on symptoms and not on outages ltligtltligt improve reliability quality and time to market of our software ltligtltligt measure and optimize system performance with an eye toward pushing our capabilities forward getting ahead of customer needs and innovating to continually improve ltligtltligt partner with development teams to improve services through rigorous testing and release procedures ltligtltligt review code and pull requests to ensure architectural standards and code quality are maintained across repos ltligtltligt debug and fix production issues across services and levels of the stack ltligtltligt deploy the code into production environment ltligtltligt understand the market and our customers needs ltligtltligt responsible for knowledge share ltligtltligt foster and maintain a work environment that supports being kind useful and awesome ltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligt bachelors degree in computer science or other highly technical scientific discipline ltligtltligt years of proven experience working in a devops or sre environment ltligtltligt years of hands on experience deploying and or supporting highly distributed multitiered systems as scale ltligtltligt years of application software development ltligtltligt hands on experience with public cloud environments preferably aws certifications a plus ltligtltligt ability to program structured and oo with one or more high level languages such as java cc python php javascript and ruby ltligtltligt a proactive approach to spotting problems areas for improvement and performance bottlenecks ltbrgtltligtltulgtltstronggtltugtskills competenciesltbrgtltugtltstronggtltulgtltligt experience managing systems using infrastructure as code tools terraform chef ansible ltligtltligt demonstrated ability to utilize modern monitoring tools new relic splunk datadog ltligtltligt ability to triage execute root cause analysis and be decisive under pressure ltligtltligt proficient communication skills with an ability to reach both technical and nontechnical audience ltligtltligt ability to mentor and train less experienced team members ltligtltligt coding experience beyond simple scripts ltligtltligt proficiency with cicd tools ltbrgtltligtltulgtltstronggtltugtcapabilitiesltbrgtltugtltstronggtltulgtltligt ability to communicate in english both verbal and writtenltbrgtltligtltulgtltstronggtdirect reportsltbrgtltbrgtltstronggtno direct reportsltbrgtltbrgtscience values the wellbeing of its employees and aims to provide team members with everything they need to succeedltbrgtltbrgtsubmit your resume to apply",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:17:49.000Z"
+  },
+  "company": {
+    "name": "Science 37",
+    "link": "https://www.linkedin.com/company/science-37"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer - McD Tech Labs",
+    "industry": "Restaurants",
+    "description": "ltpgtwe are currently looking for skilled site reliability engineers to develop maintain and support container orchestration kubernetes distributed ml workloads network services storage layers and configuration of a petabyte scale aws storage and kafka stream stackltbrgtltbrgtltpgtltpgtresponsibilitiesltbrgtltbrgtltpgtltulgtltligtdevelop and maintain high performance ks clusters across multiple regionsltligtltligtdevelop and maintain telemetry infrastructure and visualization for metrics logs and distributed tracingltligtltligtdevelop and maintain the operational configuration of a petabyte scale storage and stream analysis serviceltligtltligtwork with audio and speech ai engineers to accelerate development and deployment of heterogeneous analysis and distributed training pipelinesltligtltligtparticipate in the definition and management of slis slos and error budgets for infrastructure and production servicesltligtltligtdesign and implement infrastructureascode pipelinesltbrgtltbrgtltligtltulgtltstronggtqualificationsltbrgtltbrgtltstronggtltpgtrequired qualificationsltbrgtltbrgtltpgtltulgtltligtltpgt years linux experience configuring supporting and optimizing ltbrgtltbrgtltpgtltligtltligtltpgt years aws experience designing implementing and support cloudbased infrastructure ltbrgtltbrgtltpgtltligtltligtltpgt years experience architecting deploying and supporting kubernetes in cloud environments ltbrgtltbrgtltpgtltligtltligtltpgt years experience designing and supporting distributed systems ltbrgtltbrgtltpgtltligtltligtltpgtexperience writing production code in one of more languages such as python java go in a microservices environment ltbrgtltbrgtltpgtltligtltulgtltpgtdesired qualificationsltbrgtltbrgtltpgtltulgtltligtltpgtfamiliarity running distributed ml workloads in cluster orchestrated environments ltbrgtltbrgtltpgtltligtltligtltpgtexperience building and supporting telemetry infrastructure grafana prometheus and similar tools ltbrgtltbrgtltpgtltligtltligtltpgtexperience designing and implementing infrastructure as code pipelines ltbrgtltbrgtltpgtltligtltligtltpgt years pubsub experience kafka sqs sns mqtt ltbrgtltbrgtltpgtltligtltligtltpgtplus for experience implementing best security practices into infrastructure ltbrgtltbrgtltbrgtltbrgtltpgtltligtltulgtltstronggtadditional informationltbrgtltbrgtltstronggtltpgtmcdonalds is committed to providing qualified individuals with disabilities reasonable accommodations to perform the essential functions of their jobs additionally if you or another applicant of whom you are aware require assistance accessing or reading this job posting or otherwise seek assistance in the application process please contact recruitingsupportteamusmcdcomltbrgtltbrgtltpgtltpgtmcdonalds provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to sex sex stereotyping pregnancy including pregnancy childbirth and medical conditions related to pregnancy childbirth or breastfeeding race color religion ancestry or national origin age disability status medical condition marital status sexual orientation gender gender identity gender expression transgender status protected military or veteran status citizenship status genetic information or any other characteristic protected by federal state or local laws this policy applies to all terms and conditions of employment including recruiting hiring placement promotion termination layoff recall transfer leaves of absence compensation and trainingltbrgtltbrgtltpgtltpgtnothing in this job posting or description should be construed as an offer or guarantee of employmentltbrgtltbrgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T18:26:14.000Z"
+  },
+  "company": {
+    "name": "McDonald's",
+    "link": "https://www.linkedin.com/company/mcdonald%27s-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

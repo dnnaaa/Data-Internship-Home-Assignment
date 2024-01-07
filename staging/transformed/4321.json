@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtpathwire is looking for a site reliability engineer to join our site reliability engineering team this team is responsible for building and operating the infrastructure at the heart of every pathwire service as an engineer on this team you will be responsible for the daytoday management of the global infrastructure this would include monitoring and tracking key performance indicators working with other engineers to ensure our products and services are appropriately resources automating all the things and planning for future growth and scalabilityltbrgtltbrgtltpgtltbrgtltpgtltbrgtltbrgtltbrgtltpgtltbrgtltpgtltstronggtresponsibilitiesltbrgtltbrgtltbrgtltstronggtltpgtltbrgtltulgt ltligtwork closely with other engineering teams to identity systems requirementsltligt ltligtbuild and support our cloudbased microservices infrastructureltligt ltligtautomate wherever possible routine processes and remediation tasks shouldnt require human intervention ltligt ltligtdevelop monitor and track slos for the systems under management ltligt ltligttroubleshoot and resolve issues coming from support staff other engineering teams and our automated monitoring systemltligt ltligtensure our datastores are healthy and operations at optimal performance levels ltligt ltligtcontribute to our growing engineering management team and culture ltligt ltbrgtltulgtltpgtrequirementsltbrgtltbrgtltpgtltulgt ltligt years experience in infrastructureopssresaasplatforms ltligt ltligtexperience with containers and orchestration systems like nomad ltligt ltligtexperience with cloud providers such as aws gcpltligt ltligtexpertise with distributed data stores such as cassandra mongodb and elasticsearch ltligt ltligta strong and nimble set of technical skills across technologies the team interacts with such as commonly used infrastructure technologiesltligt ltligtstrong communication skills and demonstrated capability of building strong relationships with peers and leaderships ltligt ltligtexperience operating and maintaining production systems in a linux and public cloud environmentltligt ltbrgtltulgtltpgtbenefitsltbrgtltbrgtltpgtltulgt ltligt ltstronggtkeeping you healthyltstronggt pathwire offers employer paid comprehensive medical dental and vision plans us we offer a variety of supplemental plans to meet your individual needs and provide access to telehealth for all participantsltligt ltligt ltstronggtkeeping you balancedltstronggt pathwire provides free virtual counseling resources through our employee assistance programs your mental health is as important as your physical healthltligt ltligt ltstronggtfinancial securityltstronggt we offer an employer match for k participants to help you plan for the future usltligt ltligt ltstronggttake a breakltstronggt we believe performance at work requires balance at home this is why we provide weeks of timeoff to all employeesltligt ltligt ltstronggtfamily planningltstronggt we know that families can be built in a variety of ways and this is why pathwire offers paid parental leave and family planning supportltligt ltligt ltstronggtwork where you areltstronggt its not where you work that matters this is why we provide flexible remote work offerings for most of our rolesltligt ltulgtltbrgtltpgtpathwire embraces diversity and equal opportunity in all aspects of our business we are committed to building a company that empowers individuals from a diverse set of backgrounds and values diversity of thought as a beacon for performance the more inclusive we are the better our work will beltbrgtltbrgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T16:20:11.000Z"
+  },
+  "company": {
+    "name": "Mailgun by Pathwire",
+    "link": "https://www.linkedin.com/company/mailgun"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

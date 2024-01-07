@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "energetic insurance is developing novel risk management solutions to unlock exponential growth in renewable and distributed energy we are backed by one of the largest insurance companies in the world and our flagship product enables financing of commercial solar projects we are venture backed and have received grant funding from the us department of energy the commonwealth of massachusetts and support from multiple incubator programsin the role of data scientist you will be responsible for designing and prototyping new analyses for energetic insurance as well as incrementally improving existing analyses based on new available data sources this role will require the data scientist to integrate effectively with the entire rest of the company with underwriting for assessing risk for various industry verticals with product development for establishing the methodology to price new products and with software engineering for implementing and integrating models into production codethe vast majority of the work will be in the r programming languageltbrgtltstronggtltugtcore responsibilitiesltbrgtltugtltstronggtltulgtltligt development of new risk models to support product development including sensitivity testing scenario generation and hypothesis testingltligtltligt testing new risk models to ensure consistent resultsltligtltligt maintaining existing models making updates as necessaryltligtltligt assisting underwriting team with quantitative analysisltligtltligt identifying and evaluating publicly available and proprietary data sets gathering data and etlltligtltligt collaborating with other teams across energeticltbrgtltligtltulgtltstronggt an ideal candidate will haveltbrgtltstronggtltulgtltligt deep understanding of full data scienceanalytics process from hypothesis to reporting resultsltligtltligt knowledge and familiarity with basic software designarchitecture is a plusltligtltligt strong written and oral communication skillsltligtltligt excellence in documentation attention to detail organization developed oralwritten communication skillsltligtltligt ability to effectively multitaskltligtltligt passion for learning new skills and acquiring domain expertiseltligtltligt the desire to work in a fun fastpaced environmentallyfocused startup environmentltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligt bachelors degree in lab or social science computer science mathematics engineering or other related field or equivalent experienceltligtltligt familiarity with a programming language examples r matlaboctave python excel microsoft vba cc cjava etcltligtltligt demonstrated ability to conduct analysesltligtltligt understanding of modeling conceptsltbrgtltligtltulgtsalary commensurate with experience this job is located in boston ma energetic insurance is an equal opportunity employer and strongly encourages people from diverse backgrounds to apply",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T18:04:53.000Z"
+  },
+  "company": {
+    "name": "Energetic Insurance",
+    "link": "https://www.linkedin.com/company/energetic-insurance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

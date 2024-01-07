@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE), Apple Cloud Services",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtpeople at apple dont just build products they craft the kind of experience that have revolutionized entire industries the diverse collection of our people and their ideas inspire innovation in everything we do imagine what you could do here join apple and help us leave the world better than we found it the apple cloud services acs team builds and provides systems and infrastructure that fuel apples services such as icloud itunes siri and maps we are the foundation on which apples software developers build the products that our customers love we are looking for passionate and talented site reliability engineers to continue our focus in providing our customers the highest quality apple services experience our services have to scale globally stay highly available and just work if you love designing engineering and running systems and infrastructure that will help millions of customers then this is the place for youltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtstrong sense of ownership and integrity demonstrated through clear communication and collaborationltbrgtltbrgtexperience in managing and scaling distributed systems in a public private or hybrid cloud environmentltbrgtltbrgtthe ability to design author and release code in languages like go python ruby or javaltbrgtltbrgtacute drive to automate manual operations and to improve them through repeated iterationltbrgtltbrgtunderstanding of the linux operating system standard networking protocols and componentsltbrgtltbrgthandson experience managing large numbers of diverse systems with configuration management or software delivery platforms such as puppet chef ansible and spinnakerltbrgtltbrgtexperience with deploying supporting and monitoring new and existing services platforms and application stacksltbrgtltbrgtexcellent troubleshooting and problem solving skillsltbrgtltbrgtexperience with scale testing disaster recovery and capacity planningltbrgtltbrgtfamiliarity with microservices architecture and container orchestration with kubernetesltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtapple cloud services infrastructure is big operating at our scale across multiple geographically dispersed data centers and servicing hundreds of millions of users presents unique challenges as an sre at apple youll need to solve these problems using data teamwork and your own expertise sres at apple own the full infrastructure stack from device driver performance debugging to content delivery network traffic management our responsibilities are both broad and deepltbrgtltbrgtltbrgtacs runs the majority of its systems on linux we run a mix of open source vendor licensed and internally developed tools to perform functions such as system configuration management provisioning software deployment logging and monitoring youll learn these tools and have opportunities to improve them our team is collaborative we work closely with the development teams we support to deliver the best results for apple we think critically and strive to balance the best solution with the need to get things done for each engineering challenge we face good ideas are heard and results are rewardedltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgt bsms in computer science or equivalent years of software development or production operations experience in a largescale environmentltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T16:20:55.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77100,
+    "max_value": 117000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

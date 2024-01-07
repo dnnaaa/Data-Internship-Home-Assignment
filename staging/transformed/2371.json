@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "ltpgtwithings revolutionized connected health by launching the worlds first wifi scale in our awardwinning ecosystem includes beautifully designed easy to use connected devices for monitoring blood pressure weight activity sleep temperature and moreltpgtltpgtour devices are now used in diabetes prevention and weightloss programs remote patient monitoring and universityled clinical studies they are key enabling technologies to support our partners strategies providing the accuracy reliability and portability they need in order for their programs to be successful join us in our mission of preventive healthltpgtltpgtltbrgtltpgtltpgtltstronggtjob summaryltstronggtltpgtltpgtwe are seeking a skilled and experienced candidate to join our platform operations team as site reliability engineer sre the platform operations team is responsible for ensuring that our platform is fast and stable for the millions of active devices it serves around the globe while remaining agile and scalable in order to meet future demand we accomplish this through adherence to principles of observability automation and choosing the right tool to tackle each problemltpgtltpgtltbrgtltpgtltpgtto optimize performance and efficiency we use a hybrid baremetalcloud infrastructure controlling as much of the stack as we reasonably can we adapt our platform and database architecture very frequently to support and enable our growthltpgtltpgtltbrgtltpgtltpgtltstronggtdaytoday responsibilities and duties may includeltstronggtltpgtltulgtltligtsupporting the availability and speed of our production applicationsltligtltligtsolving alerts and decreasing manual tasks by increasing automationltligtltligtdatabase management debugging upgradesltligtltligtimprovement of continuous integration pipelinesltligtltligtwebservices troubleshooting and performance improvementltligtltligtadditional operational responsibilitiesltligtltulgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligtservers ubuntu kvm lxc and physical hostltligtltligtcloud aws gcp and ovhltligtltligtdatabases cassandrascylladb postgresql mysql riak redis clusterltligtltligtconfiguration management ansible terraformltligtltligtlanguages python php and bashltligtltligtbachelors degree or higher in computer science or equivalent experienceltligtltligtmust have a valid passport and be able to travel internationally up to of the timeltligtltligtleading candidates will understand and adhere to the principles of site reliability engineering shared ownership work reduction through automation operations through software and be ready to enthusiastically meet the challenges of supporting high performance high availability applications in a realtime heavy traffic environment if that sounds like the challenge you are looking for please get in touch ltligtltulgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtltstronggtbenefitsltstronggtltpgtltulgtltligthealth care plan medical dental ampamp visionltligtltligtretirement plan kltligtltligtlife insurance basic voluntary ampamp adampampdltligtltligtpaid time off vacation sick ampamp public holidaysltligtltligtfamily leave maternity paternityltligtltligtshort term ampamp long term disabilityltligtltligttraining ampamp developmentltligtltligtfree food ampamp snacksltligtltligtwellness reimbursementltligtltligthealthcare ampamp dependent care fsaltligtltligtcommuter fsaltligtltligtbiketowork benefitltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T09:38:13.000Z"
+  },
+  "company": {
+    "name": "Withings",
+    "link": "https://fr.linkedin.com/company/withings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

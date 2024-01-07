@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Entry Level",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltemgtconfidence can sometimes hold us back from applying for a job but well let you in on a secret theres no such thing as the perfect candidate hubspot is a place where everyone can grow so however you identify and whatever background you bring with you please apply if this is a role that would make you excited to come into work every dayltbrgtltbrgtltemgtltstronggtltugtas an engineer at hubspot you will have the opportunity to work with technologies such as the followingltbrgtltbrgtltugtltstronggtltstronggthubspot welcomes upcoming graduates to join our team with flexible start dates in ltstronggt were looking for entry level engineering talent to join one of the fastest growing most ambitious engineering teams in the world we hire talented people and work with them to find the role that suits them bestltbrgtltulgtltligtback end we write lots of microservices primarily with java our apis are restful and use the minimal dropwizard framework we take advantage of kafka spark and hadoop for processing volumes of dataltligtltligtfront end our web applications are complex singlepage apps written in javascript react ecmascript sass we make extensive use of hubspots own design system canvasltligtltligtcore data infrastructure ampamp reliability building the systems that power thousands of services with singularity on apache mesos and empowering access to massive datasets with hbase elastic search zookeeper redis mysql and memcachedltbrgtltligtltulgtat hubspot apps are owned and developed by small autonomous crossfunctional teams you and your team set the goals set the timelines build the software go to user tests and think like owners if you like the sound of ltstronggtengineering at hubspotltstronggt please apply here so we can learn more about youltbrgtltbrgtltemgtwe know theltemgtltemgt confidence gapltemgtltemgt andltemgtltemgt imposter syndromeltemgtltemgt can get in the way of meeting spectacular candidates so please dont hesitate to apply wed love to hear from youltbrgtltbrgtltemgtltstronggtltugtabout hubspotltbrgtltbrgtltugtltstronggthubspot nyse hubs is a leading customer relationship management crm platform that provides software and support to help businesses grow better we build marketing sales service and website management products that start free and scale to meet our customers needs at any stage of growth were also building a company culture that empowers people to do their best work if that sounds like something youd like to be part of wed love to hear from youltbrgtltbrgtyou can find out more about our company culture in the hubspot culture code which has more than m views and learn about our commitment to creating a diverse and inclusive workplace too thanks to the work of every employee globally hubspot was named the best place to work on glassdoor in and has been recognized for awardwinning culture by great place to work comparably fortune entrepreneur inc and moreltbrgtltbrgtheadquartered in cambridge massachusetts hubspot was founded in today thousands of employees work across the globe in hubspot offices and remotely visit our careers website to learn more about culture and opportunities at hubspotltbrgtltbrgtltemgtby submitting your application you agree that hubspot may collect your personal data for recruiting global organization planning and related purposes hubspots ltemgtltemgtprivacy noticeltemgtltemgt explains what personal information we may process where we may process your personal information our purposes for processing your personal information and the rights you can exercise over hubspots use of your personal informationltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T21:19:05.000Z"
+  },
+  "company": {
+    "name": "HubSpot",
+    "link": "https://www.linkedin.com/company/hubspot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 115000,
+    "max_value": 120000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Back End Software Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "ltstronggtthe roleltbrgtltbrgtltstronggtin this development role you will architect design and develop missioncritical services and applications that require high availability concurrency multitenancy and high scalability for a large global user base the individual in this role will work intimately with various aspect of developing backend services and data storage and retrievalltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt interface with product management and engineering to determine end to end requirements resolve problems and perform testing related to customer facing high traffic services and applicationsltligtltligt ensure service level agreements with stakeholders are defined and metltligtltligt design write test and document applications while identifying solutions to complex problemsltligtltligt define optimal system performance at scale and at different layers while using system profiling tools and stress testing to find and fix weak spotsltligtltligt implement continuous integration regression and deployment while maintaining the existing system and codebaseltligtltligt design and build scalable highavailability missioncritical systems and apisltligtltligt ensure feature quality through extensive testing unit integration functional performance and regression with a focus towards automationltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligt years of experience in web application design and development with evidence of exceptional abilityltligtltligt exceptional problem solving and coding skillsltligtltligt experience with microservices architectures and apifirst designltligtltligt design and development experience with applications that require high availability concurrency multitenancy scalabilityltligtltligt experience with docker and kubernetesltligtltligt strong sql experience mysql postgresqlltligtltligt experience in nosql database like mongodb or cassandra is highly desirableltligtltligt strong experience building web services that are secure scalable and performantltligtltligt experience with python and the django frameworkltligtltligt knowledge of different caching strategies performance tuning transaction management across systems and messaging systemsltligtltligt experience with redis or in memory computingltligtltligt experience with nodejs is a plusltligtltligt experience with graphql is a plusltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T09:44:45.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

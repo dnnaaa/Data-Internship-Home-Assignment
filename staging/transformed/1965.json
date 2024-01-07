@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Software Engineer, Site Reliability Engineering",
+    "industry": "Marketing and Advertising,Computer Software,Hospital &amp; Health Care",
+    "description": "ltstronggtltugtabout the teamltbrgtltbrgtltugtltstronggtthe site reliability engineering sre team manages and scales core components of slacks infrastructure and product we continuously seek to improve the visibility speed and safety of slacks distributed application architectureltbrgtwe are a growing and evolving team welcoming new perspectives and strategies to address evolving challenges to reliability we collaborate with many product and infrastructure engineering teams at slack to continuously improve shared technology and processes improving the baseline of reliabilityltbrgtslack has a positive diverse and supportive culturewe look for people who are curious inventive and work to be a little better every single day in our work together we aim to be smart humble hardworking and above all collaborative if this sounds like a good fit for you why not say helloltbrgtwhat you will be doingltbrgtyou will directly support multiple components of slacks infrastructure including rate limiting services monitoring and visibility automation and other infrastructure toolingltbrgtyou will collaboratively help support and define the reliability processes that enable slack to continue to serve our customersltbrgtyou will lead large engineering projects from start to finish where the scope is mostly understoodltbrgtyou will help define slaslos for slack manage code deployments fixes and software updates and automate our operational processesltbrgtthis team has an operational responsibility in addition to being a software development team you will participate in the teams oncall rotation assist with triaging and addressing production issues and respond to incidents at slackltbrgtyou will review code and get your code reviewed mentor and be mentored by other engineers teamwork is what makes the dream workltbrgtwhat you should haveltbrgtcuriosity about how things work and love to share that knowledge with othersltbrgtexperience managing critical production infrastructure maintaining reliability and uptime and having a customer first view of operational safetyltbrgta positive approach that embraces standard methodologies for software management and reliability including unit testing code review design documentation debugging and troubleshootingltbrgta passion for reliability scaling patterns uptime and availabilityltbrgta demonstrable history of thriving within a software development team even if your roles have included traditional operations andor infrastructure management dutiesltbrgtltbrgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtprofessional experience of functional or imperative programming languages eg php python ruby go c or java used without frameworksltbrgtknowledge of apache hhvm memcache docker kubernetes or similar systems and toolsltbrgtstrong command of computer science fundamentals data structures algorithms programming languages distributed systems and information retrievalltbrgtbachelors degree in computer science engineering or related field or equivalent training or work experienceltbrgtexperience developing and managing modern public cloud infrastructure especially awsltbrgtltbrgtltstronggtltugtbonus pointsltbrgtltbrgtltugtltstronggtexperience as a site reliability engineer sre or as a platform or infrastructure engineer building and managing reliability mechanisms on distributed infrastructureltbrgtcomfortable with deploying operating and debugging software on linux at scaleltbrgtability to dig deep across multiple layers of the stack from networking and virtualisation to configuration management and packagingltbrgtconversant with deployment automationconfiguration management tools such as chef puppet ansible or saltltbrgtfamiliarity with incident response programs and processes including triaging and resolving production incidents at an organization with challenging slas and customer expectationsltbrgtslack is registered as an employer in many but not all states if you are not located in or able to work from a state where slack is registered you will not be eligible for employmentvisa sponsorship may not be available in certain remote locationsltbrgtvisa sponsorship is not available for candidates living outside the country of this positionltbrgtpdnacbedcbaa",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:42:57.000Z"
+  },
+  "company": {
+    "name": " Professional Diversity Network",
+    "link": "https://www.linkedin.com/company/prodivnet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

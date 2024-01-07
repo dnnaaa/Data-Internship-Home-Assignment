@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "our software provides industrial robots with the perception necessary for them to collaborate safely and effectively with human workers were looking for software engineers with both the creativity and the rigor needed to develop software that meets realworld reliability requirementsltbrgtltbrgtyou willltbrgtltbrgtltulgt ltligtdevelop highly reliable modern c software ltligt ltligtwork on a multithreaded linux application running on a high performance timecritical computing platformltligt ltligtdesign and implement unit and integration testing strategies for missioncritical software ltligt ltligtoperate outside your area of direct expertise to solve hard problems with the rest of our crossdisciplinary teamltligt ltbrgtltulgtyou areltbrgtltbrgtltulgt ltligtexperienced developing and shipping production quality c software applicationsltligt ltligtpassionate about rigorous testing and validation practices because creating unit testing is a core part of our development process ltligt ltligtable to use your communications skills and big picture understanding to help translate high level requirements into working softwareltligt ltligta firstprinciples thinker who can invent novel solutions to challenging technical problemsltligt ltbrgtltulgtbonus pointsltbrgtltbrgtltulgt ltligtyou have developed software for regulated environments such as functional safety or medical devicesltligt ltbrgtltulgtour toolbox includesltbrgtltbrgtltulgt ltligtc gcc gdb clangtidyltligt ltligtlinux google test openembedded gitltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T20:29:58.000Z"
+  },
+  "company": {
+    "name": "Veo Robotics, Inc.",
+    "link": "https://www.linkedin.com/company/veobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

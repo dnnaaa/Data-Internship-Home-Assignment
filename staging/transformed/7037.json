@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Automotive,Information Technology and Services",
+    "description": "ltstronggtltugtwho we areltbrgtltbrgtltugtltstronggtargo ai is in the business of building selfdriving technology you can trust with experienced leaders in the field and collaborative partnerships with some of the worlds largest automakers were building selfdriving technology that is engineered to scale globally and transform mobility for millionsltbrgtltbrgttalented individuals join our team because they share our purpose to make it safe easy and enjoyable for everyone to get around cities we aspire to impact key industries that move people and goods from ride hailing to deliveriesltbrgtltbrgtltstronggtltugtmeet the teamltbrgtltbrgtltugtltstronggtas the foundation of argo ai engineering the software factory team is poised to build the most productive engineering team in the world with an engineering system that scales we build and develop the build system backend and frontend infrastructure ci and tooling that touches all phases and all aspects of software development from source management to deploying to individual avs roaming around different cities from distributed buildingtesting to orchestrating container based integration tests in the cloud from customizing and installing oss and firmware to building cli and web services and applicationsltbrgtltbrgtat software factory you will get to work with c python java go react typescript bazel docker kubernetes aws jenkins linux embedded systems etc our team is impactful and highleverage we make the entire engineering organization more productive you will have visibility into every other engineering team and their systems and youll engage in helping and mentoring themltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtdesign and implement scalable distributed systems to facilitate the development of selfdriving vehiclesltligtltligtmonitor and maintain missioncritical production services to ensure maximum uptimeltligtltligtempower engineers to get to full autonomy faster by providing initiative and technical leadership to build reliable highquality solutions that scale with argos engineering processesltligtltligtwork on cars in the cloud and with everything in betweenltligtltligtscale the reliability and velocity of our systems and processes through increased automationltligtltligtdocument actions to build a comprehensive library of runbooks which will act as a knowledge base and foundation for automationltligtltligtparticipate in an oncall rotation and culture of continuous improvement through blameless postmortemsltligtltligtcontribute to our buildtestcicd system the largest distributed system at argo ailtligtltligtopen source your work describe it in blog posts and talk about it at conferences ltbrgtltligtltulgtltstronggtltugtwhat youll need to succeedltbrgtltugtltstronggtltulgtltligtdegree in computer engineering computer science electrical engineering robotics or a related field ltligtltligtfundamental understanding of linux operating system internals tcpip networking and storage subsystemsltligtltligtstrong experience scaling and securing services in the cloud aws gcp or cloud native environmentsltligtltligtexperience using infrastructureascode principles to automate the creation of infrastructure resources eg terraform cloudformationltligtltligtunderstanding of engineering design limitations and ability to provide guidance to teams to scale their services to achieve desired performance within budgetltligtltligtexperience implementing and debugging cloud native and open source tools such as kubernetes etcd prometheus fluentd and istioltligtltligtstrong communication skills and the ability to work effectively in a diverse and distributed teamltbrgtltligtltulgtltstronggtltugtnice to havesltbrgtltugtltstronggtltulgtltligtyou love build tools bazel buildbarn cargo etcltligtltligtyou are enthused by software quality unit testing sca testautomationltligtltligtexperience working with modern build and ci systems eg jenkins buildkite teamcity gitlabltligtltligtexperience working with docker and kubernetes especially for running gpu workloadsltligtltligtyou are familiar with cloud infrastructure aws gcp azure kubernetes dockerltligtltligtexperience with oslinux kernel or driverltligtltligtexperience with embedded systems yocto petalinux or firmware developmentltligtltligtexperience with ansible puppet chef salt terraform etcltbrgtltligtltulgtltstronggtltugtwhat we offer youltbrgtltugtltstronggtltulgtltligthighquality individual and family medical dental and vision insuranceltligtltligtcompetitive compensation packagesltligtltligtemployermatched k retirement plan with immediate vestingltligtltligtemployerpaid group term life insurance and the option to elect voluntary life insurance ltligtltligtpaid parental leave ltligtltligtpaid medical leaveltligtltligtunlimited vacationltligtltligtcomplimentary daily lunches beverages and snacksltligtltligtpretax commuter benefitsltligtltligtmonthly wellness stipend ltligtltligtprofessional development reimbursementltligtltligtemployee assistance programltligtltligtdiscounted programs that include legal services identity theft protection pet insurance and moreltligtltligtcompany and team bonding outlets employee resource groups quarterly team activity stipend and wellness initiativesltbrgtltligtltulgtltstronggtltugtour backgroundltbrgtltbrgtltugtltstronggtargo ai was founded in late by industry experts with extensive experience building robotic systems for commercial applications our oncesmall team has since grown into an over person strong company with strategic partnerships with two of the worlds leading automakers ford and volkswagen our selfdriving system is the first with commercial deployment plans for europe and the us and thanks to an ability to tap into both automakers global reach our technology platform has the largest geographic deployment potential of any selfdriving technology to dateltbrgtltbrgtat argo ai we believe that embracing differences delivers superior results we are an equal opportunity employer that is committed to an inclusive environment for all employees",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:25:53.000Z"
+  },
+  "company": {
+    "name": "Argo AI",
+    "link": "https://www.linkedin.com/company/argo-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

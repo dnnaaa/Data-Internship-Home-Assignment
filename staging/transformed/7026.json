@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "favors mission is anything delivered our engineering team makes hightouch logistics happen the favor technology platform is the engine behind the business enabling millions of favors our technology efficiently manages the realtime assignment of runners to favors facilitates communication between customers runners and support keeps thousands of customer and runner mobile applications in sync and moreltbrgtltbrgtwe are looking for a data scientist to join our growing data science team this person will design and implement models that have a tangible effect on our products and business they will work on the full lifecycle of machine learning projects from problem definition to feature exploration to ensuring the models they develop work properly in production this role will be focused on understanding our supply and demand metrics across texas and forecasting these based on market conditionsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtevaluate data assets and explore derivative features for use in modelsltligtltligtiterate on multiple approaches to determine the best way to solve data science problemsltligtltligtdevelop a robust framework for thoroughly testing models and understanding model accuracyltligtltligtdesign and implement models using the best available technologyltligtltligtwork with machine learning engineers to serve predictions from models in production environmentsltligtltligtscope and estimate level of effort for data science problemsltligtltligtidentify potential milestones for data science projects such as feature exploration minimum viable model and deploymentltbrgtltligtltulgtltstronggtltugtskills ampamp qualificationsltbrgtltugtltstronggtltulgtltligtmasters or phd degree in statistics computer science data science economics mathematics operations research or another quantitative field or equivalentltligtltligt years of combined experience in machine learning statistics data modeling programming or applied research in related fieldsltligtltligtexcellent understanding of machine learning techniques and algorithms such as knn svm decision trees and arima modelsltligtltligtproficient with python and sqlltligtltligtstrong statistical backgroundltligtltligtexperience with common data science tools such as pandas keras tensorflow etcltbrgtltligtltulgtltstronggtltugtideal candidatesltbrgtltugtltstronggtltulgtltligtwork with amazon web services and sagemakerltligtltligtexperience with supply and demand forecastingltbrgtltligtltulgtat favor we believe that to run texas we need to represent texas by putting ltstronggtcommunity firstltstronggt we honor the diversity of our backgrounds and experiences through sharing our unique voices our community grows when we challenge ourselves to learn and see the world from anothers view we are committed to growing a team with different backgrounds experiences abilities and perspectives and are an equal opportunity employer",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T20:58:55.000Z"
+  },
+  "company": {
+    "name": "Favor Delivery",
+    "link": "https://www.linkedin.com/company/favor"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96800,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Entertainment",
+    "description": "ltstronggtltugtcompany overviewltbrgtltbrgtltugtltstronggtwarnermedia is a powerful portfolio of iconic entertainment news and sports brands we bring people technology and the worlds best storytellers together to drive culture and meaningful connection we believe the enduring power of stories can open our eyes to the world to each other and to new and different perspectivesltbrgtltbrgtjoin us shape your story hereltbrgtltbrgtltstronggtthe jobltbrgtltbrgtltstronggtwarnermedia seeks a site reliability engineer to lead sre efforts within our warnermedia technology ampamp operations wmto organization the sre team owns and manages the infrastructure stack for our unified video delivery platform a core set of products and workflows that power video acquisition encoding delivery and playback across our warnermedia brandsltbrgtltbrgtas a handson site reliability engineer you will be a key contributor to maintain and improve our highlyavailable highlyscalable video systems infrastructure using containers cluster management cloud services and performance tools to keep our systems available in x environments you will help to build platform automation configuration management and service administration for cloud and onprem environments you will work closely with our product developers to review cloud architecture footprints setup cloud stack resources contribute code for infrastructure needs setup cicd pipelines and develop new tooling our tech stack includes aws kubernetes docker terraform postgres mongo jenkins and elasticsearchltbrgtltbrgtthe site reliability engineer will need to be strong in devops and sre practices combining software and systems engineering to build largescale distributed faulttolerant systems you will need to lead full endtoend sre projects that include cloud solution design environment creation and configuration deploying and supporting cloud services and writing strong technical documentation you will assist with critical incident management and oncall rotations for afterhours supportltbrgtltbrgtltstronggtthe dailyltbrgtltstronggtltulgtltligtcode scale and support the cloud stack supporting warnermedia live streaming and vod workflows with performance and cost efficiency as primary goalsltligtltligtdesign and implement cloud infrastructure with optimal decisions for availability reliability scalability maintainability and securityltligtltligtbuild tooling and services to track applicationsystem health and performanceltligtltligtimplement infrastructure as code using best practices to standardize stack resources setup across multiple environmentsltligtltligtbuild improve and support cicd pipelines with developer buyin and full automationltligtltligtevaluate emerging cloud technologies for adoption via discovery and proofofconceptsltligtltligtdevelop operational automation and selfservice frameworks for developers and support teamsltligtltligtmonitor and troubleshoot applications and cloud infrastructure across all environmentsltligtltligtprovide tiered oncall support for critical application incidents during offhours and weekendsltligtltligtwrite robust technical documentation for systems and processes ltbrgtltligtltulgtltstronggtltugtthe essentialsltbrgtltugtltstronggtltulgtltligtbachelors degree in computer science or equivalent experienceltligtltligtdeep understanding of aws containers and kubernetes eks rkeltligtltligtexperience in designing implementing and supporting container and serverless cloud stacksltligtltligt years as a site reliability devops engineer for enterprisescale systemsltligtltligt years experience in cloud and container designs architectures and migrationsltligtltligt years experience in aws cloud technologies with broad exposure to aws suite of services including s efs rds ecs eks alb route etcltligtltligt years experience in software development lifecycle and application modernizationltligtltligtstrong experience with unixlinux system administration at scaleltligtltligtexperience using source control git and cicd pipelinesltligtltligtability to code tooling using golang nodejs python shell scripting or other languagesltligtltligtstrong problem solving and troubleshooting skills for incident remediationltligtltligtability to work in a dynamic fastpaced environmentltligtltligtclear and effective communicator with both technical and nontechnical audiencesltligtltligtexperience in full digital video stack is a plus video encoding cmafdashhls adaptive bit rate packaging cdn delivery drm solutions and aws video cloud service medialive mediaconvert mediapackage video playbackltbrgtltligtltulgtltstronggtthe perksltbrgtltstronggtltulgtltligtexclusive warnermedia events and advance screeningsltligtltligtpaid time off every year to volunteer for eligible employeesltligtltligtaccess to wellbeing tools resources and freebiesltligtltligtaccess to inhouse learning and development resourcesltligtltligtpart of the warnermedia family of powerhouse brandsltbrgtltligtltulgtwarner media llc and its subsidiaries are equal opportunity employers qualified candidates will receive consideration for employment without regard to race color religion national origin gender sexual orientation gender identity or expression age mental or physical disability and genetic information marital status citizenship status military status protected veteran status or any other category protected by law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T14:16:41.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

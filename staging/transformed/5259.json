@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Silicon Validation Software Engineer: Linux Driver and Kernel Developer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtimagine what you could do here at apple new ideas have a way of becoming extraordinary products services and customer experiences very quickly bring passion and dedication to your job and theres no telling what you could accomplish dynamic smart people and inspiring innovative technologies are the norm here the people who work here have reinvented entire industries with all apple hardware products the same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it join us to help deliver the next groundbreaking apple product ltbrgtltbrgtltbrgtare you passionate about changing the world join our growing silicon validation team we have a critical impact on getting high quality functional products to millions of customers quickly and we are hiring all levels from junior to senior roles as part of the silicon validation team you will develop linux device drivers and userland tests for exercising and testing the various subsystems in complex socsltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtexperienced in embedded linux kernel development experienceltbrgtltbrgtexpertise with linux usb or usb and pcieltbrgtltbrgtsolid knowledge of linux kernel internals process scheduler memory management concurrencysynchronization memory allocation file systems and networking or storage subsystems architectureltbrgtltbrgtyou bring extensive device driver development and support one or more of usb network graphics video mtd storage power managementltbrgtltbrgtyou have strong debugging skills in kernel contextltbrgtltbrgtexperience with exercisingvalidation of system from user space knowledge of user space apiltbrgtltbrgtportedmaintained linux distribution for a platformltbrgtltbrgtskilled c programmerltbrgtltbrgtfamiliarity with arm architecture a plusltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgt you will work closely with designers and architects to understand functional ip blocks and their usecases ltbrgtltbrgt you will be implementing bsp and doing software bringup on pre and postsilicon platforms ltbrgtltbrgt you will be developing linux device drivers and userland tests for exercising and testing the various subsystems in complex socsltbrgtltbrgt you will debug and rootcause a variety of hardware and software issuesltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs or ms in electrical engineering computer science or relevant discipline is requiredltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:29:24.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

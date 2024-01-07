@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "ltpgtltstronggtabout usltstronggtltpgtltpgtltbrgtltpgtltpgtklover is a rapidly growing financial data startup released on ios and android early our app provides instant minimalfee nocreditcheck cash advances in a transparent exchange for financial data to date weve given out over in paycheck advances to our millions of users and ingested billions of financial transactions into our data lake we are now looking to grow our user base and explore new financial service offerings and we want you to play a crucial role in our organizations next phaseltpgtltpgtltbrgtltpgtltpgtltstronggtabout youltstronggtltpgtltpgtltbrgtltpgtltpgtyou have built and deployed services from the ground up you are diligent in architecting robust and resilient systems and you are thorough and thoughtful in considering edge cases in your designs you have solved problems of scale in the past and you know how to structure applications with high throughput and consistent uptime in mind you write testable code you are patient during qa and you know long term maintainability trumps rushing out a release you get the right stakeholders in place early to make sure your designs will meet business requirements and you keep your focus on the end product when evaluating technical solutionsltpgtltpgtltbrgtltpgtltpgtltstronggtyour roleltstronggtltpgtltpgtltbrgtltpgtltpgtat klover youll be a core member of our platform team gaining a deep understanding of our technology stack and working side by side with our other engineers youll be challenged to solve new problems in a collaborative environment alongside other seasoned data and software engineersltpgtltpgtltbrgtltpgtltpgtltstronggta typical weekltstronggtltpgtltpgtltbrgtltpgtltulgtltligtyoull write test and deploy backend code in golang leveraging the grpc frameworkltligtltligtyoull build deploy and maintain new services with an eye towards maintainability and throughputltligtltligtyoull manage and monitor our ecs and lambda based aws infrastructureltligtltligtyoull contribute to our data lake infrastructure moving data from our mysql db to data stores used by our data science business analyst and data monetization teamsampnbspltligtltligtyoull collaborate with our hardworking and nimble team through biweekly sprints standups architecture review sessions slack discussions pull requests and post mortemsltligtltulgtltpgtltbrgtltpgtltpgtltstronggtour ideal candidateltstronggtltpgtltpgtltstronggtltspan classqlcursorgtltspangtltstronggtltpgtltulgtltligtyouve been building and scaling backends for yearsltligtltligtyou have experience golang and know how to leverage goroutines and channels to build parallel and concurrent applicationsltligtltligtyou have extensive experience working with sql databases beyond building simple crud appsltligtltligtyou can lead technical architecture discussions and help drive technical decisionsltligtltligtyou write understandable testable code with an eye towards maintainabilityltligtltligtyou feel comfortable learning new apis studying documentation and example implementationsltligtltligtyou possess strong computer science fundamentals data structures algorithms programming languages distributed systems and information retrievalltligtltligtyou have strong communication skills a positive attitude and empathyltligtltligtyou have selfawareness and a desire to continually improveltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T18:05:06.000Z"
+  },
+  "company": {
+    "name": "Klover",
+    "link": "https://www.linkedin.com/company/joinklover"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

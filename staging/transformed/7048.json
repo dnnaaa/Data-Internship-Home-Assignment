@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "coinbase has built the worlds leading compliant cryptocurrency platform serving over million accounts in more than countries with multiple successful products and our vocal advocacy for blockchain technology we have played a major part in mainstream awareness and adoption of cryptocurrency we are proud to offer an entire suite of products that are helping build the cryptoeconomy and increase economic freedom around the worldltbrgtltbrgtthere are a few things we look for across all hires we make at coinbase regardless of role or team first we look for signals that a candidate will thrive in a culture like ours where we default to trust embrace feedback disrupt ourselves and expect sustained high performance because we play as a championship team second we expect all employees to commit to our missionfocused approach to our work finally we seek people with the desire and capacity to build and share expertise in the frontier technologies of crypto and blockchain in whatever way is most relevant to their roleltbrgtltbrgtcoinbase cloud is the leading blockchain infrastructure provider and we are looking for an experienced devops engineer to join our highlyskilled and passionate team in the us or canadaltbrgtltbrgtwe believe in the power of blockchain technology and building a decentralized future that enables greater participation in global financial networks our mission is to provide superior infrastructure for multiple blockchains strengthen the entire ecosystem and enable the pioneers of tomorrowltbrgtltbrgtltstronggtltugtwhat youll be doingltbrgtltugtltstronggtltulgtltligtbuild services and infrastructure that help to automate the deployment of blockchain network infrastructureltligtltligtwrite cloudagnostic infrastructure as code infrastructure is in our dna and is our primary output as a team you will produce terraform hcl and kubernetes yaml on a daily basisltligtltligtinteract and collaborate with other engineers and team members we have a highly focused and collaborative team we prioritize creating a shared understanding of our systems and supported networks and we are dedicated to supporting each other on a daily basisltligtltligtincorporate monitoring alerting and observability into our platform to promote the highest standards of system health reliability and uptimeltligtltligtmaintain security and compliance standards the security of our infrastructure and our customers infrastructure is our utmost priorityltligtltligtbuild easytouse tooling that helps accelerate our engineering teams and processesltligtltligtautomate deployment validation and quality control procedures across our entire companyltligtltligtwrite integration tests and contribute to maintaining a healthy cicd pipelineltbrgtltligtltulgtltstronggtltugtwhat we look for in youltbrgtltugtltstronggtltulgtltligtthe ability to proactively manage the needs of a growing company with minimal oversightltligtltligtan analytical mindset you should feel comfortable using qualitative and quantitative data to inform your decisionmakingltligtltligtindepth knowledge of unix or linux and the command lineltligtltligtproficiency in a modern programming language such as go python or rustltligtltligtexperience in containerizing modern applications with dockerltligtltligtskill in defining infrastructure as code with terraform or other similar toolsltligtltligtfamiliarity with container orchestration and the cloud native ecosystemltligtltligtthe ability to identify human processes that can be scripted and automated and the skills to script and automate themltligtltligtexcellent written and verbal communication skillsltligtltligtthe drive to build something meaningful in a groundbreaking entrepreneurial environmentltbrgtltligtltulgtthis role does not require a degree in computer science we think creativity and excellence benefit from diverse backgrounds and disciplinesltbrgtltbrgtltstronggtltugtnice to havesltbrgtltugtltstronggtltulgtltligtexperience with more than one of the leading cloud providers awsgcpazureltligtltligtexperience with a service mesh technology such as istio or consulltligtltligtexperience running blockchain infrastructureltbrgtltligtltulgtcommitment to equal opportunityltbrgtltbrgtcoinbase is committed to diversity in its workforce and is proud to be an equal opportunity employer all qualified applicants will receive consideration for employment without regard to race color religion creed gender national origin age disability veteran status sex gender expression or identity sexual orientation or any other basis protected by applicable law coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal state and local law for us applicants you may view pay transparency employee rights and equal employment opportunity is the law notices by clicking on their corresponding links additionally coinbase participates in the everify program in certain locations as required by lawltbrgtltbrgtcoinbase is also committed to providing reasonable accommodations to individuals with disabilities if you need a reasonable accommodation because of a disability for any part of the employment process please send an email to accommodations coinbasecom and let us know the nature of your request and your contact information for quick access to screen reading technology compatible with this site click here to download a free compatible screen reader free step by step tutorial can be found here please contact accommodations coinbasecom for additional information or to request accommodationsltbrgtltbrgtglobal data privacy notice for job candidates and applicantsltbrgtltbrgtdepending on your location the general data protection regulation gdpr and california consumer privacy act ccpa may regulate the way we manage the data of job applicants our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here irelandeu united kingdom and california by submitting your application you are agreeing to our use and processing of your data as requiredltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T01:29:16.000Z"
+  },
+  "company": {
+    "name": "Coinbase",
+    "link": "https://www.linkedin.com/company/coinbase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

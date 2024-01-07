@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Research)",
+    "industry": "",
+    "description": "ltpgtltugtposition overviewltugtltpgtltpgtthe research data scientist primary responsibility will be in medical device safety and surveillance activities using realworld data from the nestcc research network and data partners this position will utilize their expertise to use novel data science tools to perform statistical analysis on large complex datasets in order to uncover medical device safety signals or trends within the active surveillance environmentltpgtltpgtltbrgtltpgtltpgtltugtobjectives and responsibilitiesltugtltpgtltpgt develop data analytic programs within active surveillance for medical device safety and reliabilityltpgtltpgtampnbspestablish data analytics infrastructure to improve efficiency and to facilitate datadriven decisions ltpgtltpgtampnbspdevelop and implement machine learning algorithms and predictive modelsanalyticsltpgtltpgt create automated data analysis workflow and meaningful data visualization dashboards in support of trend reporting and escalation ltpgtltpgt utilize various data science programming tools to include python java r and sql ltpgtltpgtampnbsputilizes various statistical techniques and reliability tools such as hadoop cloudera data science workbench minitab jmp or jupyter notebook ltpgtltpgtampnbsputilize various data visualization tools such as tableau power bi or spotfire ltpgtltpgtampnbspcoordinate data quality security maintenance ltpgtltpgtampnbspestablish policies and procedures related to data collection and accuracy of dataltpgtltpgtampnbspworking with network collaborators to integrate their data into the cloud environmentltpgtltpgtampnbspprovide endtoend data integration ltpgtltpgtampnbspdata intake data quality assessmentevaluation data curation enrichmentpreparationltpgtltpgtampnbspdesign and implement scalable data integration processes including ingestion cleaning curation unification etcltpgtltpgtampnbspdevelop tools to support data profiling and data quality methodologiesltpgtltpgtltbrgtltpgtltpgtltugtrequirementsltugtltpgtltulgtltligtgraduate degree in biostatistics bioinformatics data science machine learning epidemiology or similar quantitative disciplineltligtltligt years working as a data scientist or biostatisticianltligtltligtproficiency in python r sqlltligtltligtexperience with ai frameworks and mlops principlesltligtltligtknowledge of big data analytics approaches using cloud services from google cloud platform preferred aws or azureltligtltligtfamiliarity with healthcare data and sources of realworld data for safety signal detectionltligtltulgtltpgtltbrgtltpgtltpgtltugtother skillsabilitiesltugtltpgtltulgtltligtstrong problemsolving and analytical skillsltligtltligtability to handle confidential and sensitive company information responsiblyltligtltligtworking knowledge of cfr fda qsr iso preferredltligtltligtexperience using rwdrwe from multiple sources is a plusltligtltligtexperience with healthcare common data models such as omop ib or pcornet a plusltligtltligtability to translate technical jargon into laymans terms for explanatory purposesltligtltulgtltpgtampnbspltpgtltpgtltugtreporting relationshipsltugtltpgtltpgtampnbspthe employee will report to the director of medical device safety nestccltpgtltpgtltbrgtltpgtltpgtto apply email your resume to careersmdicorg with research data scientist nestcc as the subject of the email please include a cover letter with your resumeltpgtltpgtltbrgtltpgtltpgtnoteampnbspthis scope of services is not intended to be allinclusive the data scientist may perform other related duties ltpgtltpgtltemgtmdic is an equal opportunity employerltemgtltpgtltpgtltbrgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T16:53:49.000Z"
+  },
+  "company": {
+    "name": "Medical Device Innovation Consortium (MDIC)",
+    "link": "https://www.linkedin.com/company/medical-device-innovation-consortium-mdic-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

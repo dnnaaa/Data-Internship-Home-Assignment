@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Application Development - Austin, TX",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "lockerdome is an ad platform with a brain designed specifically for performancebased advertising the brain behind the platform is neo an inhouse ai which uses machine learning to process billions of data points and make intelligent decisions at lightning speed learn more at lockerdomecomltbrgtltbrgtas an application developer on the engineering ampamp product team you will be expected to write clean and maintainable code building tools that will be used by thousands of brands and publishers and reaching millions of end usersltbrgtltbrgtthis position will be part of our austinbased team candidates residing in or near austin tx are preferredltbrgtltbrgtltstronggtltugtyour skills should includeltbrgtltugtltstronggtltulgtltligt indepth knowledge of javascript and nodejsltligtltligt experience with responsive web design using css and sassltligtltligt ability to learn new skills and information sets quicklyltligtltligt ability to solve unique or complex problems and provide actionable guidanceltbrgtltligtltulgtltstronggtltugtskills that are a plusltbrgtltugtltstronggtltulgtltligt experience with c particularly with a lowlevel performance focusltligtltligt familiarity with redis or other keyvalue databasesltligtltligt familiarity with highperformance distributed systemsltbrgtltligtltulgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt build web applications using lockerdomes inhouse javascript framework coralltligtltligt improve and streamline the data flow pipeline for our inhouse machine learning algorithmsltligtltligt iterate on lockerdomes data and analytics dashboardltligtltligt streamline and automate processes and procedures across the companyltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T17:11:50.000Z"
+  },
+  "company": {
+    "name": "LockerDome",
+    "link": "https://www.linkedin.com/company/lockerdome"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68200,
+    "max_value": 149000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "St Louis",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

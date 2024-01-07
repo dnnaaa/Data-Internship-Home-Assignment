@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior DevOps Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "as the leading workforce management solution for the skilled trades workrise makes it easier for skilled laborers to find work and for companies to find indemand workers workrise currently operates in wind solar construction oil and gas and defense industries were growing and wed love to learn what you can add to our teamltbrgtltbrgtthe engineering team at workrise leverages a variety of tools to enable and sustain a scalable and highlyresilient platform for delivering customer value we are organized into agile crossfunctional product line teams consisting of engineering product and design which allows us to develop deep expertise and rapidly deliver highvalue features and functionalityltbrgtltbrgtwe are looking for a cloud engineer to help us build the next evolution of the workrise cloud infrastructure google cloud platform terraform developer tooling cicd and application infrastructure kubernetes istio service mesh and monitoring open telemetry sumo logic ltbrgtltbrgtsound like you keep readingltbrgtltbrgtltstronggtltugtwhat youll be doingltbrgtltugtltstronggtltulgtltligtmaintaining and improving a kubernetes based microservice ecosystem that empowers our application teams to rapidly and securely deliver value ltligtltligtdesigning and developing devops processes and tools to automate and audit application service operationsltligtltligtimplementing easy to use tooling to provide platform level resources to application teams as a source of best practice standardsltligtltligtcollaborate with our application teams to understand their pain points and ensure their successltligtltligtchampioning continuous improvement of our methods to deploy ampamp support our cloud architectureltligtltligtmanaging projects through completion ltligtltligtmentoring devops engineers across the organization providing guidance and support with a sense of stewardship for their growthltligtltligtinfluencing the wider engineering team through demos brown bag topics and design proposalsltligtltligthandling oncall rotation ensuring high uptime and resiliency for our customers and development teamsltbrgtltligtltulgtltstronggtltugtwhat you should haveltbrgtltugtltstronggtltulgtltligt years supporting a high availability cloud environment in a devops or sre role ltligtltligtextensive networking skills vpc vpn tcpip routing load balancing dnsltligtltligtexperience provisioning deploying and supporting containers with helm kustomize kubernetes and dockerltligtltligtdeploying and supporting endtoend cicd git jenkins spinnaker circleci etcltligtltligthandson monitoring tool usage sumologic stackdriver grafana prometheusltligtltligtexperience with infrastructure as code technologies preferably terraformltligtltligtexperience with remote collaboration with teams in different time zonesltligtltligtexperience with one or more cloud technologies aws gcp azureltligtltligtbs degree or equivalent practical experienceltbrgtltligtltulgtltstronggtltugtmore than a jobltbrgtltbrgtltugtltstronggtat workrise you can feel good about your work and furthering our mission to serve those who do the hard work we recognize that making an impact matters to you and we believe in providing an environment that fosters that ambition we welcome you to develop relationships with coworkers by displaying our company values own the mission learn and grow solutions over ego and raise the bar in appreciation for your contributions we support you with various health insurance plan options including medical dental vision flexible paid time off and competitive k matchingltbrgtltbrgtas a worldclass employer workrise is committed to providing an environment where any and all people feel welcome respected and free to be their authentic selves we welcome applicants of all gender identities sexual orientation educational background religion ethnicities veteran status and citizenships wed love to learn what you can add to our teamltbrgtltbrgtltstronggtltugtwho we areltbrgtltbrgtltugtltstronggtin we set out to create a better way to get work done in the oil ampamp gas industry the goal to build the most reliable and costeffective workforce solution using technology to make it easier to manage and deploy workers at scale and while our commitment hasnt changed our business has what started in oil ampamp gas has grown to include construction wind solar and defense so we believe its time our companys name reflects that evolution were excited to announce that rigup is now workrise a fullstack workforce provider powered by technology specifically built for the diverse industries we serve",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:54:47.000Z"
+  },
+  "company": {
+    "name": "Workrise",
+    "link": "https://www.linkedin.com/company/workrise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

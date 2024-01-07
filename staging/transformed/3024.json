@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "",
+    "description": "responsibilities and dutiesltbrgt design and implement build systems including deployment and configuration managementltbrgt test amp troubleshoot implemented designsltbrgt build and test automation tools for infrastructure provisioningltbrgt handle code deployments in all environmentsltbrgt monitor metrics and develop ways to improveltbrgt provide technical guidance and educate team members and coworkers on developmentltbrgtand operationsltbrgt brainstorm for new ideas and ways to improve deliveryltbrgt consult with peers for feedback during design amp testing phasesltbrgt build maintain and monitor configuration standardsltbrgt maintain daytoday management and administration of projectsltbrgt manage ci and cd tools in collaboration with the teamltbrgt document and design various processes update existing processesltbrgt improve infrastructure development and application developmentltbrgt follow all best practices and procedures as established by the companyltbrgtrequired qualificationsltbrgt minimum years previous commercial experience in development and operations or related it computer or operations fieldltbrgt previous experience with software development infrastructure development or development and operationsltbrgt strong experience with linuxbased infrastructure databases cicd tools scripting such as javascript php python perl amp rubyltbrgt strong experience with configuration management tools such as puppet chef and ansibleltbrgt strong experience with development tools including jira and gitltbrgt uptodate on the latest industry trends able to articulate trends and potential clearlyltbrgtand confidentlyltbrgt good interpersonal skills and communication with all levels of managementltbrgt able to multitask prioritize and manage time efficientlyltbrgt able to physically stand bend squat and lift equipment up to pounds or moreltbrgt selfmotivated and takes initiative with little directionltbrgt eligibility to work in the united states",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T01:59:36.000Z"
+  },
+  "company": {
+    "name": "Sail Internet",
+    "link": "https://www.linkedin.com/company/sail-internet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

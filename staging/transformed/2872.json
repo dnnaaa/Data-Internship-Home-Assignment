@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Internet",
+    "description": "our client is rethinking the way that code is written they are wellfunded and a team of earlyltbrgtltbrgttoday most people write code by sitting at a desk memorizing a syntax that varies with different tools and pushing buttons and doing so for long periods of time is known to cause physical pain wed knowour client created the company after developing repetitive strain injuries think carpal tunnel common among people who use computers all day that made typing incredibly painful were building a future where everyone can write code with the highestbandwidth input mechanism we have our voiceltbrgtltbrgtour mission make programming more efficient and accessible to everyone ltstronggtour client would require you to be able to be at the office in san francisco caltbrgtltbrgtltstronggtltstronggtltugtthe role ampamp responsibilitiesltbrgtltbrgtltugtltstronggtwere looking for machine learning engineers excited to apply the latest in asr and nlp to code and build on our speechtocode platformltbrgtltbrgtheres a sample of projects youd be able to work on from day ltbrgtltulgtltligtarchitect transformerbased neural networks to model both code and natural englishltligtltligtapply state of the art speech recognition techniques to our dataset to optimize the accuracy and performance of the productltligtltligtbuild on our training pipeline which includes automatic labeling and seamless backtestingltligtltligtuse semantic parsing techniques to enable deep understanding of user intentltligtltligtsupport a wide range of speakers and environments through techniques like speaker identification and noise suppressionltbrgtltligtltulgtltstronggtour ml stackltbrgtltstronggtltulgtltligtour speechtocode engine uses state of the art deep learning served using a containerized grpc streaming service written in c for maximum performance weve also developed our own models trained specifically for programmingltligtltligtour offline training and annotation pipelines are written using python and pytorchltligtltligtwhenever possible we contribute back to the opensource communityltbrgtltligtltulgtltstronggtjoin our teamltbrgtltstronggtltulgtltligtmaintain a growth mindsetltligtltulgtltligtwe welcome hard technical challenges and in solving them were continually learning from each other were always trying to improve ourselves and show determination in solving problemsltligtltulgtltligttake initiativeltligtltulgtltligtwere building a team where everyone can freely contribute and discuss ideas we value thinking beyond just the immediate scope of what were working on and proposing new sometimes crazy ideasltligtltulgtltligtcommunicate directlyltligtltulgtltligtas a small team direct respectful communication is critical to our success we aim to create an environment where everyone can vocalize their ideas and meaningfully collaborate on solutionsltligtltulgtltligtgo the extra mileltligtltulgtltligtsometimes spending an extra minutes on a code refactor now can save someone else hours down the line we strive to maintain a high quality bar to keep our iteration speed highltligtltulgtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T01:54:01.000Z"
+  },
+  "company": {
+    "name": "Recruiting from Scratch",
+    "link": "https://www.linkedin.com/company/recruiting-from-scratch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

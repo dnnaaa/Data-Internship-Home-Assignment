@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Ad Platform",
+    "industry": "Internet",
+    "description": "ltstronggtltugtabout usltbrgtltbrgtltugtltstronggtlaunched in twitch is a global community that comes together each day to create multiplayer entertainment unique live unpredictable experiences created by the interactions of millions we bring the joy of coop to everything from casual gaming to worldclass esports to anime marathons music and art streams twitch also hosts twitchcon where we bring everyone together to celebrate learn and grow their personal interests and passions were always live at twitch stay up to date on all things twitch on linkedin twitter and on our blog ltbrgtltbrgtltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggttwitch enables content creators to livestream content to their communities across the globe advertising is a core part of twitchs business model and spans across many product areas we take pride in our mission to help creators earn a living by entertaining and educating their viewers on the advertising team youll work with a passionate and customer obsessed team we are a growing team of product and engineering professionals based in the twitch hq at downtown sfltbrgtltbrgttwitch is looking for backend and full stack engineers with the curiosity and creativity to develop user experiences services and apis that grow the advertising and promotion business these systems give creators opportunities to make money the data they need to do this wellltbrgtltbrgtthe ideal contributor has experience building and delivering highquality production uxs and web services in a distributed systems environmentltbrgtltbrgtas the leader in this space twitch has a unique opportunity to invent what advertising as a product means in a livestreaming context our products include creative realtime experiences specific to twitch if youre excited about having an outsize impact in an area thats ripe for innovation come work with usltbrgtltbrgtltstronggtltugtyou willltbrgtltugtltstronggtltulgtltligt develop deliver and operate new product services and features on native aws infrastructureltligtltligtscale and improve existing apis and services used to power the twitch advertising platformltligtltligtimprove engineering processes and tools to increase team effectivenessltligtltligtcontribute to overall team and organization technical strategy and architecture designltligtltligtwork across teams and organizations to deliver value to our creators viewers and advertisersltligtltulgt ltstronggtltstronggtyou haveltbrgtltstronggtltstronggtltulgtltligt years of experience developing distributed services andor highvolume data processing workflowsltligtltligtproficient coder in one or more of the following go java pythonltligtltligtexperience developing and operating highvolume lowlatency distributed services andor highvolume data processing workflowsltligtltligtbachelors degree or above in computer science or related fieldltligtltulgt ltstronggtltstronggtbonus pointsltbrgtltstronggtltstronggtltulgtltligtexperience refining technical strategy and mentoring engineersltligtltligtexperience or familiarity with the aws ecosystem of services ec rds dynamo lambda and cloudwatchltligtltligtexperience or familiarity with data pipelines kinesis airflow redshift or sparkltligtltligtexperience or familiarity with experience building graphql apisltligtltligtexperience or familiarity with docker kubernetes and the container ecosystemltligtltulgt ltstronggtltstronggtperksltbrgtltstronggtltstronggtltulgtltligtmedical dental vision ampamp disability insuranceltligtltligt k ltligtltligtmaternity and parental leave ltligtltligtflexible ptoltligtltligt commuter benefits ltligtltligtamazon employee discountltligtltligtmonthly contribution and discounts for wellness related activities ampamp programs eg gym memberships offsite massagesltligtltligtbreakfast lunch ampamp dinner served dailyltligtltligtfree snacks and beveragesltbrgtltligtltulgtpursuant to the san francisco fair chance ordinance we will consider for employment qualified applicants with arrest and conviction recordsltbrgtltbrgtwe are an equal opportunity employer and value diversity at twitch we do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:06:52.000Z"
+  },
+  "company": {
+    "name": "Twitch",
+    "link": "https://www.linkedin.com/company/twitch-tv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 116000,
+    "max_value": 175000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

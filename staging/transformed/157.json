@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist / Machine Learning Engineer (NLP)",
+    "industry": "Information Technology and Services",
+    "description": "role summaryltbrgtltbrgtin this role you will be working with other data scientists and engineers to help build our unstructured data extraction pipeline you will be responsible for leveraging the latest machine learning and natural language processing technology to structure and normalize data from medical records the ideal candidate will have no issue digging into messy data working with clinical subject matter experts to develop annotation guidelines to produce highquality machine learning models as a data scientist at ciitizen you will have the opportunity to touch all parts of the machine learning project lifecycle from dataset curation to model deploymentltbrgtltbrgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgt ltligt years experience prototyping and deploying production nlp machine learning modelsltligt ltligt years experience with python and solid software development skillsltligt ltligtfamiliarity with common nlpml frameworks spacy pytorch tensorflow kerasltligt ltligtfluency in stateoftheart machine learning techniques including transformers cnns rnns to solve nlp tasks like named entity recognition information extraction named entity linkingltligt ltligtexcellent ability to communicate technical information to nontechnical audiencesltligt ltbrgtltbrgtltulgtltstronggtltugtnice to haveltbrgtltugtltstronggtltulgt ltligtexperience with medical ontologies snomed ct loinc rxnorm etc ltligt ltligtexperience working with clinical dataltligt ltligtexperience in kubernetes cloudbased microservicesltligt ltligtexperience working with document images ocrltligt ltligtfamiliarity with javaltligt ltbrgtltbrgtltulgtltstronggtltugtcompany profileltbrgtltbrgtltugtltstronggtciitizen is a health technology platform that enables patients with cancer and rare neurologic disorders to collect digitize and share their health information funded by andreessenhorowitz and founded by serial entrepreneur and former head of health at apple anil sethi it began with the simple idea that anyone should be able to manage their own medical records but was motivated by the harder reality of helping anils own sister fight her battle with cancer our mission is for patients to control their healthcare data so that they can control their healthcare options",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-01T00:57:46.000Z"
+  },
+  "company": {
+    "name": "Ciitizen",
+    "link": "https://www.linkedin.com/company/ciitizen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97600,
+    "max_value": 210000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

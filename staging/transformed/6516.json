@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist / Machine Learning Engineer (NLP) - Remote",
+    "industry": "Information Technology and Services",
+    "description": "role summaryltbrgtltbrgtin this role you will be working with other data scientists and engineers to help build our unstructured data extraction pipeline you will be responsible for leveraging the latest machine learning and natural language processing technology to structure and normalize data from medical records the ideal candidate will have no issue digging into messy data working with clinical subject matter experts to develop annotation guidelines to produce highquality machine learning models as a data scientist at ciitizen you will have the opportunity to touch all parts of the machine learning project lifecycle from dataset curation to model deploymentltbrgtltbrgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligt years experience prototyping and deploying production nlp machine learning modelsltligtltligt years experience with python and solid software development skillsltligtltligtfamiliarity with common nlpml frameworks spacy pytorch tensorflow kerasltligtltligtfluency in stateoftheart machine learning techniques including transformers cnns rnns to solve nlp tasks like named entity recognition information extraction named entity linkingltligtltligtexcellent ability to communicate technical information to nontechnical audiencesltligtltligtonly accepting us based applicants at this timeltbrgtltligtltulgtltstronggtltugtnice to haveltbrgtltugtltstronggtltulgtltligtexperience with medical ontologies snomed ct loinc rxnorm etc ltligtltligtexperience working with clinical dataltligtltligtexperience in kubernetes cloudbased microservicesltligtltligtexperience working with document images ocrltligtltligtfamiliarity with javaltbrgtltligtltulgtltstronggtltugtcompany profileltbrgtltbrgtltugtltstronggtciitizen is a health technology platform that enables patients with cancer and rare neurologic disorders to collect digitize and share their health information funded by andreessenhorowitz and founded by serial entrepreneur and former head of health at apple anil sethi it began with the simple idea that anyone should be able to manage their own medical records but was motivated by the harder reality of helping anils own sister fight her battle with cancer our mission is for patients to control their healthcare data so that they can control their healthcare optionsltbrgtltbrgtthis is a remote position",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T07:53:47.000Z"
+  },
+  "company": {
+    "name": "Ciitizen",
+    "link": "https://www.linkedin.com/company/ciitizen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Antonio",
+    "region": "TX",
+    "postal_code": "78266",
+    "street_address": null,
+    "latitude": 29.42517,
+    "longitude": -98.49461
+  }
+}

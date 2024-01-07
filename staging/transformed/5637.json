@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "ltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtunderstanding the business payment platforms and customer flows that generate the source data for the projectltligtltligtanalyzing and understanding the data needed for modeling and platform featuresltligtltligtcleaning the data and ensuring the validity of the dataltligtltligtpreprocessing the data via shell scripts and a programming language such as python java scala etcltligtltligtiteratively computing features and tuning parameters to improve the quality of the modelltligtltligtcommunicating your findings to the project team and client stakeholdersltligtltligtassisting in decision making and making recommendations on data science aspects of the projectltligtltligtcollaborating with key stakeholders data scientists engineers risk managers users on the projectltligtltulgtltpgtampnbspltpgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligtproficient in machine learning training and testing avoiding overfitting etcltligtltligtexperience with applying machine learning techniques to predictive modelingltligtltligtknowledge of big data technologies such as spark hadoop and related platformsltligtltligtproficiency in bash python and either java or scalaltligtltligtproficient in querying databases spark pyspark hive sql oracle cassandraltligtltligtexperience with extracting insights from raw data and transforming them into useful featuresltligtltligtknowledge of resource monitoring and runtime optimization both at jvm and os levelltligtltligtknowledge of statistics or data visualization is a plusltligtltligtknowledge of treebased algorithms random forests xgboost lgbm is a plusltligtltligtknowledge of deep learning algorithms is a plusltligtltligtability to communicate your findings in a clear way and prepare stakeholder presentationsltligtltligtprior clientfacing consulting experience is a plusltligtltulgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T17:11:50.000Z"
+  },
+  "company": {
+    "name": "Mindlance",
+    "link": "https://www.linkedin.com/company/mindlance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greenwood Village",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.616886,
+    "longitude": -104.95051
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Insurance,Research",
+    "description": "working out of our chevy chase mdwashington dc office geicos data science team uses predictive analytics and innovative machine learning models to create value from data we solve problems across geico from marketing to claims and underwriting and are responsible for developing and driving strategic modeling initiatives we see our projects through the entire data science lifecycle from problem definition to data exploration data munging modeling analysis and deployment into production systems we maintain a close partnership with it to ensure that our models can be deployed quickly and monitored in a flexible deployment frameworkltbrgtltbrgtas a ltstronggtdata scientistltstronggt you will be a member of this diverse and highly skilled team on any given day you may be exploring new data sets with a business or it partner learning the intricacies of a business process building models or coordinating the productionalization of a model you will use a variety of tools including sql python r spark and shell scripting in a variety of environments including various databases linux servers and hadoop youll work in a highly collaborative team environment where you will quickly develop wide ranging exposure to new methods and best practices for conducting data science in a commercial environmentltbrgtltbrgtltstronggtltugtexpected qualificationsltbrgtltugtltstronggtltulgtltligtbachelors degree in a quantitative discipline such as statistics data science computer science mathematics engineering physics etc advanced degree strongly preferredltligtltligt years experience and solid understanding of machine learning techniques academic and internship experience may also be consideredltligtltligt years experience of combined industryacademic experience with predictive modeling and advanced analyticsltligtltligtsolid understanding and experience with advanced statistics and modern machine learning predictive techniques such as glms decision trees forests boosted ensembles neural networks deep learning etcltligtltligtstrong coding skills using common data science tools such as python strongly preferred r linuxunix command line and shell scripting etc ltligtltligtstrong skills in data processing using sql hive impala spark or equivalent querying languageltligtltligtfamiliarity with distributed storage and big data computing technology aws hadoop spark etcltligtltligtexcellent communication skillsltligtltligtpassion for extracting hidden insights and building machine learning systems that enhance business outcomesltbrgtltligtltulgtto ensure our associates receive the training and support needed to excel and thrive associates hired for this position are generally required to work at the geico building during their orientation period geico follows federal and state guidance and legal requirements regarding measures designed to limit the spread of covid including masking and social distancing measures may vary by geico locationltbrgtltbrgtltstronggtltugtbenefitsltbrgtltbrgtltugtltstronggtltemgtas a ltstronggtdata scientistltstronggt youll enjoy our ltemgtgeico total rewards program ltemgtto help secure your financial future and preserve your health and wellbeing includingltbrgtltemgtltulgtltligtpremier medical dental and vision insurance with no waiting periodltligtltligtpaid vacation sick and parental leaveltligtltligtk plan with profit sharingltligtltligttuition reimbursementltligtltligtpaid training and licensuresltligtltligtbenefits may be different by location benefit eligibility requirements vary and may include length of serviceltligtltligtcoverage begins with the pay period after hire date must enroll in new hire benefits within days of the date of hire for coverage to take effect ltbrgtltligtltulgtltstronggtltugteeo statementltbrgtltbrgtltugtltstronggtltemgtthe equal employment opportunity policy of the geico companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race color religious creed national origin ancestry age gender pregnancy sexual orientation gender identity marital status familial status disability or genetic information in compliance with applicable federal state and local law geico hires and promotes individuals solely on the basis of their qualifications for the job to be filled ltbrgtltbrgtltemgtltemgtgeico reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity andor perform the essential functions of the job unless the accommodation would impose an undue hardship to the company this applies to all applicants and associates geico also provides a work environment in which each associate is able to be productive and work to the best of their ability we do not condone or tolerate an atmosphere of intimidation or harassment we expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicantsltbrgtltbrgtltemgtltemgtdiamltbrgtltbrgtltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:15:47.000Z"
+  },
+  "company": {
+    "name": "GEICO",
+    "link": "https://www.linkedin.com/company/geico"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 84500,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chevy Chase",
+    "region": "MD",
+    "postal_code": "20861",
+    "street_address": null,
+    "latitude": 38.98284,
+    "longitude": -77.08646
+  }
+}

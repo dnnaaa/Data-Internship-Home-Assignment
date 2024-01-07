@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "looking for work in a fun up amp coming startup want to help solve one of the most troubling issues for programmers across the globe do you think the code correction process is far too time consuming and tedious for developersltbrgtltbrgtmetabob is an ai assisted tool used to debug and visualize python code using a combination of conventional status analysis attentionbased models and a degree visualizer metabob is able to detect where problems are how they interact with other aspects of your codebase as well as offer plaintext recommendations on how to fix them metabobs model is written on open source code from python developers across the globe creating a dynamic uniquely intuitive base to help identify where problems will likely occurltbrgtltbrgtwe would like to expand our growing data science team by bringing on an additional team member to help us process and analyze our ever growing database you will be working primarily with our existing tooling to help identify and boost the overall accuracy and coherence of our existing ai models however we are actively developing new techniques as well and you will get to support that effort by developing exploratory models and assessing their performance based on specific characteristicsltbrgtltbrgtresponsibilitiesltbrgtltbrgt assess the continuing growth of our mlai techniques to identify and resolve potential causes of performance degradationltbrgt research and implement additional methods and techniques to improve our productsltbrgt develop automatable mlai training tasks to be deployed alongside our ai pipelineltbrgtltbrgtrequirementsltbrgtltbrgt strong python proficiency both inside and out of jupyter notebooksltbrgt a solid background in natural language processing nlp with experience using common tools nltk spacy gensim tomotopyltbrgt knowledge of current technologies and ml frameworks tensorflow pytorch sklearn kerasltbrgt experience developing mlops in particular argoltbrgt experience with cloud services like awsltbrgtltbrgtmetabob is an equal opportunity employer and does not discriminate on the basis of actual or perceived race color religious creed sex national originancestry physicalmental disability medical condition genetic information marital status gender identity age military status genderpregnancy or sexual orientation all correspondence related to this position and the application process will be conducted via email andor phone",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T23:09:52.000Z"
+  },
+  "company": {
+    "name": "Metabob",
+    "link": "https://www.linkedin.com/company/metabob"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

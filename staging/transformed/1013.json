@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Developer III - Data Engineer, IS Core Services",
+    "industry": "Logistics and Supply Chain,Human Resources,Financial Services",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggtwere not in the shipping business were in the information business peter rose expeditors founderltbrgtltbrgtglobal supply chain management is what we do but at the heart of expeditors you will find professionalism leadership and a friendly environment all of which foster an innovative customer servicebased approach to logisticsltbrgtltulgtltligt trained professionalsltligtltligt locations worldwideltligtltligtfortune ltligtltligtglobally unified systemsltligtltulgt job descriptionltbrgtltbrgtvelocity variety and volume those are three vs of the big data that our global logistics company expeditors is handling daily while moving freight from all over the world we invite you to an exciting opportunity to become part of a big data development team to help build a data lake environment and to support users through ingesting analyzing and visualizing expeditors big data you will be working with highly skilled software development engineers using eventdriven architecture domain driven design and event sourcing if you are a data geek and excited about big data related technologies we would like to talk to you about this great opportunityltbrgtltbrgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtltstronggtminimum qualificationsltbrgtltstronggtltulgtltligt years of professional software development experienceltligtltligtobjectoriented programming and componentbased development with javapythonltligtltligtexperience working with both structured and unstructured data with a high degree of sql knowledgeltligtltligtexperience designing and implementing scalable etlelt processesltligtltligtexperience in modeling data for low latency reportingltligtltligtexpertise with big data ecosystem services such as sparksparksql kafka apache nifi hadoophive mongodb hbase and kafka streamsltligtltligtexperienced in modern big data analytics using data lakes spark and different file formats like avro json and parquetltligtltligtexperience working with large cloud data lakesltligtltligthandson experience with databricks building data pipelinesltligtltligtperformance tuning troubleshooting and diagnostics process monitoring and profilingltligtltligtability to work in a fastpaced environment with evolving requirements and capability goalsltligtltligtappetite for learning new ampamp emerging technologiesltligtltligtstrong problemsolving skills and communication skillsltligtltligtselfmotivated driven and independent individualltbrgtltligtltulgtltstronggtltugtdesired qualificationsltbrgtltugtltstronggtltulgtltligtbs in computer science or similar or comparable work experienceltligtltligtprior experience with any cloud stack preferably azureltligtltligtprior experience with open source apache projectsltligtltligtunderstanding of reporting tools such as power bimicrostrategytableau etcltligtltligtexperience with orchestrating complex data pipelines using tools like azure data factory or apache airflowltligtltligtexperience with largescale data processing complex event processing stream processingltligtltligtexperience working with cicd pipelines source code repositories and operating environmentsltligtltligtunderstanding containerization virtualization and cloud computingltligtltligtexperience working in the scrum agile software development frameworkltligtltligtdemonstrated expertise in linuxltbrgtltligtltulgtadditional informationltbrgtltbrgtltstronggtltugtexpeditors offers excellent benefitsltbrgtltugtltstronggtltulgtltligtpaid vacation holiday sick time ltligtltligthealth plan medical prescription drug dental and visionltligtltligtlife and long term disability insurance ltligtltligtk retirement savings plan ltligtltligtemployee stock purchase planltligtltligttraining and personnel development programltbrgtltligtltulgtltemgtall your information will be kept confidential according to eeo guidelines successful candidates must pass a background checkltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Expeditors",
+    "link": "https://www.linkedin.com/company/expeditors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78400,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "ltpgtgraylog is a leading log management solution that hundreds of thousands of it professionals across the globe rely on every day with a focus on security compliance operations and devops graylog delivers a better user experience by making analysis ridiculously fast and efficient using a more costeffective and flexible architecture purposebuilt for modern log analytics graylog removes complexity from data exploration compliance audits and threat hunting so users can quickly and easily find meaning in data and act fasterltpgtltpgtltbrgtltpgtltpgtgraylog cloud is an exciting new offering from an established innovator in the log management domain it is a powerful flexible and seamless centralized log management experience without the burden of operational and infrastructure costs youll be able to contribute on the foundational stages and directly contribute to key strategic decisions this opportunity can help shape your careerampnbspltpgtltpgtltbrgtltpgtltpgtthis team is operating from germany and the united states and we are hiring for both locations we always have been a remote company and your exact locations in those countries does not matter if you are living in a city with a local graylog office houston hamburg munich you are of course welcome to get a permanent desk thereltpgtltpgtltbrgtltpgtltpgtresponsibilitiesampnbspltpgtltulgtltligtbuild and maintain globespanning cloud infrastructure on aws primarily using docker terraform and kubernetesltligtltligtautomate manual tasks and ensure all resulting code is under source controlltligtltligtemploy and maintain state of the art monitoring and logging toolsltligtltligtbuild a cicd pipeline that ensures our customers never see bugsltligtltligtbuild a faulttolerant and highly available system that will meet our service level objectives and data loss prevention goalsltligtltulgtltpgtltbrgtltpgtltpgtrequirementsltpgtltulgtltligtexperience with iac or configuration management tools we use terraform and ansibleltligtltligtexperience with development and operation of highly available and scalable cloud infrastructures graylog cloud runs on awsltligtltligtexperience with a distributed version control system git mercurial or comparableltligtltligtexperience with graylog is a big plusltligtltligtparticipation in the graylog cloud oncall rotationltligtltligtworking with remote teams requires a prudent approach active inquiry and effective communication via chatltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T21:35:22.000Z"
+  },
+  "company": {
+    "name": "Graylog, Inc.",
+    "link": "https://www.linkedin.com/company/graylog"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

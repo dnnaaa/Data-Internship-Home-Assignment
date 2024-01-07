@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II, Uber Freight",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "ltstronggtltugtwhat youll doltbrgtltbrgtltugtltstronggtas a fullstack software engineer on freight you will be tasked with creating scalable architecture fullstack features algorithms systems and applications that power our independent drivers shippers sales and operations teams that work to transport freight across the country you will be developing scalable backend microservices creating react based frontend components and experiences and partnering with product and product operations you will be working on automating inefficiencies and helping drive ways to scale the business additionally you will be breaking monolith into microservicesltbrgtltbrgtltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtfreight engineering is tasked with creating the algorithms systems applications that power our independent drivers sales and operations teams and shippers that need to transport freight across the country comprised of uber veterans and newcomers we are looking for candidates who share our enthusiasm for disrupting todays toughest challenges in transportation we are a customer obsessed team and care deeply about our users continually looking for opportunities to improve their livesltbrgtltbrgtthe carrier experience team builds applications and products for the carriers and drivers that haul with uber freight the team must keep inmind the demands of the role and how to make life easier during the trip and reduce the administrative steps that accompany each load carrier experience is a crossfunctional team comprised of backend android ios and web engineersltbrgtltbrgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligtminimum of years experienceltligtltligtexperience developing web based applicationsltligtltligtexperience developing backend microservices golang java or nodejs and how they interface with storage systemsltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligtcs degree or equivalent experienceltligtltligtexperience working on reactreduxltligtltligtknowledge of distributed systemsltligtltligtproduct development experienceltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:22:32.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 113000,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Anselmo",
+    "region": "CA",
+    "postal_code": "94960",
+    "street_address": null,
+    "latitude": 37.975376,
+    "longitude": -122.56184
+  }
+}

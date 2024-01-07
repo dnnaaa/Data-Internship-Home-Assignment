@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "job title site reliability engineerltbrgtltbrgtreports to site reliability engineering managerltbrgtltbrgtltstronggtltugtjob dutiesltbrgtltugtltstronggtltulgtltligt work collaboratively with software engineering to specify deploy and operate our systems ltligtltligt help automate all the things and streamline our operations and processes ltligtltligt build and maintain tools for deployment monitoring and operations ltligtltligt troubleshoot and resolve issues in our dev test and production environments ltbrgtltligtltulgtltstronggtltugttechnical skill requirementsltbrgtltugtltstronggtltulgtltligt knowledge of and experience with amazon web services and microsoft azure infrastructure configuration and maintenance this includes the ability to perform basic maintenance troubleshoot instance and networking issues and create new infrastructure using the ui cli and via iac infrastructure as code ltligtltligt ability to perform linux systems administration including system updates restarts performance monitoring and troubleshooting ltligtltligt ability to use puppet and other tools for system deployment and configuration management ltligtltligt ability to use terraform cloudformation or other tools for infrastructure deployment and management iac ltligtltligt ability to effectively use git for daytoday tasks involving devops configuration management and infrastructure as code development ltligtltligt understanding of core internet services and protocols such as dns email and web services ltligtltligt understanding of programming languages used in web applications such as python ruby and php ltligtltligt understanding of database technologies and management including mysql and postgres ltbrgtltligtltulgtability to interact with other teams andor customers in a professional mannerltbrgtltbrgthttpswwwforstacomprivacyhtmlltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T05:28:16.000Z"
+  },
+  "company": {
+    "name": "Forsta",
+    "link": "https://www.linkedin.com/company/forstainfo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

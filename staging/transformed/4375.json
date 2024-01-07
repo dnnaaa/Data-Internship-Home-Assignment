@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "ltstronggtltugtour companyltbrgtltbrgtltugtltstronggtchanging the world through digital experiences is what adobes all about we give everyonefrom emerging artists to global brandseverything they need to design and deliver exceptional digital experiences were passionate about empowering people to create beautiful and powerful images videos and apps and transform how companies interact with customers across every screenltbrgtltbrgtwere on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity we realize that new ideas can come from everywhere in the organization and we know the next big idea could be yoursltbrgtltbrgtltstronggtltugtposition summaryltbrgtltbrgtltugtltstronggtltemgtadobe customer solutions is looking for a full time data engineer with experience in building data integrations using aws technology stack as part of the teams data as a service portfolio for adobes digital experience enterprise customersltbrgtltbrgtltemgtltemgtcustomer facing engineers who enjoy tackling complex technical challenges have a passion for delighting customers and who are selfmotivated to push themselves in a team oriented culture will thrive in our environmentltbrgtltbrgtltemgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtcollaborate with data architects enterprise architects solution consultants and product engineering teams to capture customer data integration requirements conceptualize solutions ampamp build required technology stackltligtltligtcollaborate with enterprise customers engineering team to identify data sources profile and quantify quality of data sources develop tools to prepare data and build data pipelines for integrating customer data sources and third party data sources with adobe solutionsltligtltligtdevelop new features and improve existing data integrations with customer data ecosystemltligtltligtencourage team to think outofthebox and overcome engineering obstacles while incorporating new innovative design principlesltligtltligtcollaborate with a project manager to bill and forecast time for customer solutionsltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtexperience as an enterprise data engineer from a consulting backgroundltligtltligtproven experience in buildingoperatingmaintaining fault tolerant and scalable data processing integrations using awsltligtltligt years experience in python programming languageltligtltligtsoftware development experience working with apache airflow spark mongodb mysqlltligtltligtstrong capacity to manage numerous projects are a mustltligtltligtexperience using docker or kubernetes is a plusltligtltligtbsms degree in computer science or equivalent industry experienceltligtltligtability to identify and resolve problems associated with production grade large scale data processing workflowsltligtltligtexcellent communication skills were a geographically distributed teamltligtltligtexperience creating and maintaining unit tests and continuous integrationltligtltligtpassion for creating intelligent data pipelines that customers love to useltbrgtltligtltulgtltstronggtspecial consideration given forltbrgtltstronggtltulgtltligtexperience ampamp knowledge with web analytics or digital marketingltligtltligtexperience ampamp knowledge with customer data platform cdp or data management platform dmpltligtltligtexperience ampamp knowledge with adobe experience cloud solutionsltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:01:27.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 155000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

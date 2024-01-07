@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ML and Data Infrastructure Lead Engineer - SPG",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtas an engineer in the special projects group you will be part of a team building infrastructure and tools for exciting new technologies that will shape the future you will work in a startuplike environment where products are still being defined and developed giving you the chance to influence some of the core tools used by the project you will be part of every stage of development from concept to deploymentltbrgtltbrgtltbrgtwe are looking for an senior engineer to architect build and scale a robust ecosystem for data processing and distributed computation specifically you will develop solutions that will orchestrate and support the seamless transitioning of petabytes of data through various stages like ingestion indexingmining transformation machine learning and algorithm validationltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtyou have handson experience in building distributed systems including realtime streaming and batch data processingltbrgtltbrgtyou are proficient in multiple programming languages relevant for such systems eg python c go javaltbrgtltbrgtyou know what it takes to deploy and operate high availability production systems in the cloudltbrgtltbrgtyou have experience designing serviceoriented architectures and leveraging various data stores technologies blob nosql and relationalltbrgtltbrgtyou have experience with cloud computing platform like aws gcp and azureltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgt develop and scale a data processing platform using the latest opensource technologiesltbrgtltbrgt develop platforms that enable researchers and developers to run machine learning jobs in the cloud easilyltbrgtltbrgt define a consistent continuous integrationdeployment model that will encourage crossfunctional development teams to selfservice application unit testing deployment and operationsltbrgtltbrgt influence and lead crossfunctional initiatives that will align the team towards commonly used technologies and methodologiesltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgtapples most important resource our soul is our people apple benefits help further the wellbeing of our employees and their families in meaningful ways no matter where you work at apple you can take advantage of our health and wellness resources and timeaway programmers were proud to provide stock grants to employees at all levels of the company and we also give employees the option to buy apple stock at a discount both offer everyone at apple the chance to share in the companys success youll discover many more benefits of working at apple such as programmers that match your charitable contributions reimburse you for continuing your education and give you special employee pricing on apple products apple benefits programmers vary by country and are subject to eligibility requirements apple is an equal opportunity employer that is committed to inclusion and diversity we take affirmative action to ensure equal opportunity for all applicants without regard to race color religion sex sexual orientation gender identity national origin disability veteran status or other legally protected characteristics apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities apple is a drugfree workplaceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:41:29.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

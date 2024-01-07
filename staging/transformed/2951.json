@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology",
+    "description": "ltstronggtabout us ltbrgtltbrgtltstronggtour mission is to cure cancer through high performance accessible early cancer detection that means saving livesltbrgtltbrgtdelfi diagnostics is a johns hopkins spinoff focused on the noninvasive detection of cancer at earlier stages when it is most curable delfi uses artificial intelligence and whole genome sequencing to detect unique patterns of dna fragmentation in the blood of patients with cancer these analyses are performed through simultaneous examination of millions of dna sequences using machine learning to identify tumorspecific abnormalitiesltbrgtltbrgtin our passionate pursuit to radically improve health outcomes we serve humanity when weltbrgtltbrgtlead with science anchor in pragmatism we pioneer lifechanging science by ensuring quality transparency and rigor at all times we explore thoughtfully experiment smartly and deliver impact with convictionltbrgtltbrgtbuild with ampamp for all we embrace diverse backgrounds to innovate and achieve together we are not just building a product we aim to disrupt the path of cancer for all no matter geography or socioeconomic classltbrgtltbrgtput we over i we are a home for highperforming people through teamwork we build collective intelligence each of us wins when those we serve and those who serve with uswin we show up with empathy humility and integrity at every step of the journeyltbrgtltbrgtin this role you will work with a crossfunctional team of bioinformatics scientists clinicians engineers and other data scientists to analyze genomic and clinical data of individuals diagnosed with and at risk of cancer this position will develop and implement machine learning to models to make predictions about a variety of clinical characteristics including optimizing our ability to detect cancer early results will be communicated to internal and external stakeholders using visualizations this work will culminate in the development of products with the potential for clinical impactltbrgtltbrgtltstronggt what youll do ltbrgtltstronggtltulgtltligtdevelop machine learning models to make accurate predictions about cancer and other clinical characteristicsltligtltligtperform feature engineering by working with researchers to establish representations of whole genome sequencing wgs data that reflect cancerdriven changesltligtltligtdevelop reproducible analyses using rmarkdown jupyter notebook etc and version control using gitwork with our lab team to develop experiments to understand impact on classification performanceltligtltligtcollaborate with engineers to implement improvements into our bioinformatics pipelineltligtltligtdevelop visualizations to interpret and communicate resultsltbrgtltbrgtltligtltulgtltstronggt required ltbrgtltstronggtltulgtltligtms or phd in biostatistics or a related field with three plus years of experience or equalltligtltligtexcellent understanding of machine learning techniques and algorithmsltligtltligtexperience with common data science toolkits and libraries such as rcarettidyverse and pythonscikitlearnpandasltligtltligtexperience with data analysis and visualization using r andor python with a demonstrated ability to apply these skills to relevant scientific problemsltligtltligtable to work on a crossfunctional team in a collaborative environmentltligtltligtworking knowledge of linuxltbrgtltbrgtltligtltulgtltstronggt preferred ltbrgtltstronggtltulgtltligtknowledge of cancer genomicsltligtltligtexpertise in computational analysis of highthroughput technologies in genomics especially with cfdnaltligtltligtdemonstrated ability to uncover new biological insights from large genomics datasetsltligtltligtexperience with highperformance computingltligtltligtfamiliarity with product development is a plusltligtltulgtan equal opportunity employerltbrgtltbrgtwe are an equal opportunity employer and value diversity at our company we do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T17:12:10.000Z"
+  },
+  "company": {
+    "name": "Delfi Diagnostics",
+    "link": "https://www.linkedin.com/company/delfi-diagnostics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Baltimore",
+    "region": "MD",
+    "postal_code": "21226",
+    "street_address": null,
+    "latitude": 39.290443,
+    "longitude": -76.612335
+  }
+}

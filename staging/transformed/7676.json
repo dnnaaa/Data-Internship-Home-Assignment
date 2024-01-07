@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Health ML",
+    "industry": "Internet",
+    "description": "ltbrgtltbrgtthe health ml engineering team is responsible for building scalable detection systems that keep spam manipulation and abuse at bay we use ml and relevance techniques to make twitter safer and to limit the spread of misinformation on the platform our team works across the product to detect abusive and spammy users and content increase action on bad actors drive changes in user behavior and detect and remediate accounts that are violating the terms of service on twitterltbrgtltbrgtltstronggtwe develop maintain and contribute to several machine learning models and systems including ltbrgtltstronggtltulgtltligtmodels that detect unwanted interactionsltligtltligtmodels to prioritize human review of accounts violating twitterampaposs policies to more quickly take action and limit their damageltligtltligtdetection of bots that misuse the platform or spread misinformationltligtltligtdetection of repeat abusive offenders who create new accounts after being suspendedltligtltligtrealtime rule engines and clustering systems to identify and action on clusters of bad actors at scaleltbrgtltligtltulgtteams who are hiringltbrgtltbrgtltstronggtplatform manipulation ltstronggtaiming to stop adversarial efforts to manipulate our platform ampamp mitigate attempts to artificially amplify or suppress information or manipulate peoples experience on twitterltbrgtltbrgtltstronggtaccount integrity ltstronggtguard the safety security and credibility of twitter accounts by ensuring bad actors are unable to create andor sustain accounts on the platform or compromise accounts belonging to organic usersltbrgtltbrgtltstronggtcivic integrity ltstronggtprotect and promote the health of public conversation on twitter as it relates to a specific civic event or broader civic engagementltbrgtltbrgtltstronggtabusive interactions ltstronggtensuring twitter is a safe space for public conversation safe from severe abusive interactions to enable users healthy participationltbrgtltbrgtltstronggtmisinformation ltstronggtreducing creation and remediate consumption of misleading information in order to eliminate its potential harm to twitter usersltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltbrgtltugtltstronggtalthough you will work on cuttingedge problems this position is not a pure research position you will participate in the engineering lifecycle at twitter including designing distributed systems writing production code and data pipelines conducting code reviews and working alongside our infrastructure and reliability teams youll apply data science machine learning andor graph analysis techniques to a variety of modeling and relevance problems involving users their social graph their tweets and their behaviorltbrgtltbrgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtltstronggtwho you areltbrgtltbrgtltstronggtyoure a relevance engineer applied data scientist or machinelearning engineer who wants to work on exciting algorithmic and deep infrastructure issues to improve the health of the public conversation on twitter youre experienced at solving large scale relevance problems and comfortable doing incremental quality work while building brand new systems to enable future improvementsltbrgtltulgtltligtyou are experienced in one or more of the following machine learning including deep learning information retrieval recommendation systems social network analysisltligtltligtyou are a strong technical advocate with a background in java c or scala and pythonltligtltligtexperience with a number of ml techniques and frameworks eg data discretization normalization sampling linear regression decision trees deep neural networks etcltligtltligt years experience with one or more dl software frameworks such as tensorflow pytorch theanoltligtltligtyou strive to find the right balance between moving fast to deliver quality improvements to users and accumulating technical debt that drags down productivityltligtltligtyou have a collaborative working style with a strong focus on disciplined execution and resultsltligtltligtyou like to ground decisions in data and reasoning and solve root causes of problems rather than surface issuesltligtltligtyou are adept at communicating relevant information clearly and conciselyltligtltligtyou look ahead to identify opportunities and thrive in a culture of innovationltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtbs ms or phd in computer science or machine learning related degree or equivalent work experience in the fieldltligtltligtexperience leading and delivering effective security or ml solutions for large scale production use casesltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-05T14:45:33.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

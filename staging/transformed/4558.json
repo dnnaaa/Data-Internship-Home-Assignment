@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Defense &amp; Space",
+    "description": "ltpgtltstronggtoverviewltstronggtltpgtltpgtsoftware engineer shall support a distributed system providing various platformasaservice paas features to a diverse customer set the paas system shall support several applications as standalone instances or configured with several supporting componentsampnbspltpgtltpgtltbrgtltpgtltpgtltstronggtqualificationsltstronggtltpgtltpgtmasters degree in computer science or related discipline from an accredited college or university plus five years of experience as a swe in programs and contracts of similar scope type and complexityltpgtltpgtorltpgtltpgtbachelors degree in computer science or related discipline from an accredited college or university plus seven years of experience as a swe in programs and contracts of similar scope type and complexityltpgtltpgtorltpgtltpgtnine years of experience as a swe in programs and contracts of similar scope type and complexityltpgtltpgtandltpgtltpgtus citizenshipltpgtltpgtandltpgtltpgtts sci wfs polyltpgtltpgtltbrgtltpgtltpgtltstronggttask required skillsltstronggtltpgtltulgtltligtexperience using the unix command lineltligtltligtexperience writing scripts using bashltligtltligtbasic understanding of source control systems specifically gitltligtltligtexperience with cicd principles and methodologiesltligtltligtfamiliarity with ruby and the rails frameworkltligtltligtfamiliarity with javascript specifically nodejsltligtltligtgeneral sql database knowledge preferably postgresltligtltligtexperience with gitlab cicd and pipelinesltligtltulgtltpgtltbrgtltpgtltpgtltstronggttask desired skillsltstronggtltpgtltulgtltligtexperience with containerization technologies such as dockerltligtltligtexperience with container orchestration technologies such as kubernetes openshift and helmltligtltligtexperience with inmemory data structure stores such as redisltligtltligtdemonstrated domain knowledge in distributed systems cloudbased technologiesltligtltligtdemonstrated understanding of the core software development lifecycleltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:01:51.000Z"
+  },
+  "company": {
+    "name": "Wrench",
+    "link": "https://www.linkedin.com/company/wrench-io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Annapolis Junction",
+    "region": "MD",
+    "postal_code": "20701",
+    "street_address": null,
+    "latitude": 39.121826,
+    "longitude": -76.78431
+  }
+}

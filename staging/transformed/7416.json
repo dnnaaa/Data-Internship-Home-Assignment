@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AWS Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "ltstronggtthis is a remote roleltbrgtltbrgtltstronggtthis jobot job is hosted by kyle shawltbrgtltbrgtare you a fit easy apply now by clicking the apply button and sending us your resumeltbrgtltbrgtsalary per yearltbrgtltbrgtltstronggta bit about usltbrgtltbrgtltstronggtwe are a tech unicorn building a digital experience platform that leverages tons of data to provide global businesses and brands insights to best build hyperpersonalized customer experiences when engaging with their digital platforms and sites we work with some of the biggest brands in the world across industriesltbrgtltbrgtweve been growing rapidly and are looking to significantly expand our infrastructure team by hiring several site reliability engineersltbrgtltbrgtltstronggtltbrgtltbrgtltstronggtwhy join usltbrgtltbrgtltbrgtltstronggtltstronggtwe provide a lucrative compensation package with competitive pay great medical and dental benefits flex pto and k matching as a fullyremote team we embrace work flexibility and work life balance our culture matters most to us and we value collaboration no egos and teamplayers who enjoy working with their colleaguesltbrgtltbrgtwe have a unique and diverse team make up and hire with a techagnostic approach allowing us to hire some of the sharpest minds in the industry regardless of technical or development language experienceltbrgtltbrgtltstronggtjob detailsltbrgtltbrgtltstronggtas a aws site reliability engineer youll be responsible for rebuilding and refining our cloud infrastructure from the ground up to better automate scale and improve the stability and security of our cloud environment we are seeking a sre with strong cloud experience that loves automation and has worked in cloud environments holding significant amounts of dataltbrgtltbrgtour infrastructure is predominantly hosted in aws along with a bit of gcp and we are in the midst of containerizing our environment with kubernetesltbrgtltbrgtltstronggtqualificationsltbrgtltstronggtltulgtltligt years of site reliability devops engineering experienceltligtltligt experience building scaling and automating cloud environments aws preferred but open to azure of gcpltligtltligt loves writing infrastructure as code iac with terraform or cloudformationltligtltligt strong scripter capable of writing automation scripts with bash python ruby or related languagesltligtltligt experience managing and handling large amounts of dataltligtltligt exposure to big data data streaming tools like kafka spark samza hadoop hbase etcltligtltligt configuration management experience with chef puppet or ansibleltligtltligt experience standing up and automating cicd pipelines ltligtltligt containerization experience with docker kubernetes ecs gke or related toolltbrgtltligtltulgtplussesltbrgtltulgtltligt bs in computer science or related fieldltligtltligt loves collaboration ltligtltligt enjoys bringing new ideas to the table ltligtltligt likes challenges and operates with a tech agnostic approach using the best tools at handltbrgtltligtltulgtinterested in hearing more easy apply now by clicking the apply buttonltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T21:39:24.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

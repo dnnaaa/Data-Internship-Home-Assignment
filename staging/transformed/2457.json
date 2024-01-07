@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer, CartaX",
+    "industry": "Internet,Financial Services",
+    "description": "ltstronggtltstronggtthe company youll joinltstronggtltstronggt ltstronggtat carta we create owners and make private markets liquid ltbrgtltbrgtltstronggtwe live in a world where some people live on the equity stack and enjoy exponential wealth growth and preferential tax treatment others live on the debt stack and may work their entire lives for a company and retire only with the cash theyve managed to save from their paychecks our contribution to solving the wealth inequality problem is moving people from the debt stack payroll to the equity stack by making it as easy to issue equity to employees as it is to put them on payroll we can create more ownersltbrgtltbrgtat carta we are helpful transparent fair and kind we are relentless executors unconventional thinkers and masters of our craftltbrgtltbrgtto learn more here is what one of our investors wrote about leading our series fltbrgtltbrgtltstronggtltstronggtthe team youll work withltbrgtltbrgtltstronggtltstronggtltstronggt you will be joining our newest vertical at carta called cartax the cartax team is creating more owners by removing restrictions on when and how employees exercise equity our team is building a greenfield marketplace that will allow the trading of shares in return for liquidity for employees of preipo companies cartax will be the worlds first vertically integrated financial marketplace for private securities ltbrgtltbrgtltstronggtupon joining the cartax sre team youll be building secure scalable and resilient financial technology services to advance cartas mission in the marketplace of private securities and serve customers around the world youll be part of the team responsible for building and running the backend services and infrastructure supporting features such as order management and handling market access matching engines and posttradeltbrgtltbrgtltstronggtthe problems youll solve ltbrgtltbrgtltstronggtthe cartax sre team ensures we have a process and systems in place to support infrastructure that is resilient scalable and secure as we continue to scale existing products and host new products as they are producedltbrgtltbrgtsome of the problems youll help us solve areltbrgtltulgtltligt hosting our distributed systems containerization infrastructure as code problems and our overall developer operations problems ltligtltligt ensure that cartax products stay live work and are fixed quickly and effectively while also setting up systems to expedite production time ltligtltligt architecture and operation of the infrastructure and services that live on top of it ltligtltulgt ltstronggtltstronggtabout youltbrgtltbrgtltstronggtltstronggtyou have senior level experience in an sre role building and operating production systems and services you have experience with hosting distributed systems on multiple cloud providers specifically google cloud platform and aws you have experience with containerization specifically docker and kubernetes and you wrangle your infrastructure with code terraform ansible etc you prefer to build your solutions in python or golang but can throw together some expert bash or command line wizardry in a pinch you want to participate in a team and organization that believes in and practices the concepts of just culture and psychological safetyltbrgtltbrgtmost importantly youre excited to work on a product that will fundamentally change the way private companies view liquidity going public and how employees exercise their optionsltbrgtltbrgtwe are an equal opportunity employer and are committed to providing a positive interview experience for every candidate if accommodations due to a disability or medical condition are needed connect with us via email at recruitingcartacom as a company we value fairness helpfulness transparency leadership and build our teams around these values check out our careers page to get to know us better as you think about your next step at carta",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T19:15:07.000Z"
+  },
+  "company": {
+    "name": "Carta",
+    "link": "https://www.linkedin.com/company/carta--"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

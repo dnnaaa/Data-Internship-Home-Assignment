@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtdata scientists are responsible for cleaning transforming enriching and analyzing vast amounts of raw data from various systems using apache spark and other analytics packages to develop valuable features and to provide readytouse data to stakeholders for robust downstream analysis they analyze data for correlations to identify trends and predictive power and build maintain and deploy predictive models data scientists work with analysts to understand business needs and requirements and data engineers to implement scalable pipelines for etl model training and scoring they service both adhoc requests as well as core pipeline development the ideal candidate has a passion for discovering insight hidden in large data sets and working with stakeholders to improve business outcomes they keep up with the latest technology including the latest versions of spark new analytical packages etc they must have a proven ability to drive business results with their databased insights and be comfortable working with a wide range of stakeholders and functional teamsltpgtltpgtltbrgtltpgtltpgtltstronggtcore responsibilitiesltstronggtltpgtltulgtltligtcollaborate with product management and engineering departments to understand company needs and devise possible solutionsltligtltligtmine and analyze data from company databases to drive optimization and improvement of product development marketing techniques and business strategiesltligtltligtcommunicate results and ideas to key decision makersltligtltligtresearch and develop predictive models for data analysisltligtltligtoptimize joint development efforts through appropriate database use and project designltligtltligtassess the effectiveness and accuracy of new data sources and data gathering techniquesltligtltligtdevelop custom data transformations models algorithms to apply to data setsltligtltligtuse predictive modeling to increase and optimize customer experiences revenue generation ad targeting and other business outcomesltligtltligtdevelop processes and tools to monitor and analyze model performance and data accuracyltligtltligtcreate highperformance pipelines in apache spark for data transformation aggregation and model trainingltligtltligtdevelop and share well documented analysis in data science notebook solutions like jupyterltligtltligtwrite documentation with all codeltligtltulgtltpgtltbrgtltpgtltpgtltstronggtbasic qualificationsltstronggtltpgtltulgtltligtexcellent communication and interpersonal skillsltligtltligtknowledge of agile methodologies and tools eg scrum jiraltligtltligtbasic system administration skills in both a windows and linux environmentltligtltligtbachelors degree in computer science statistics applied math or related fieldltligtltligt years practical experience with apache spark etl machine learning data processing and data analyticsltligtltligtstrong experience with python and bash shell scriptingltligtltligtstrong experience with apache spark and mlflowltligtltligtstrong experience with aws andor google cloud platformltligtltligtexperience training deploying monitoring and updating machine learning modelsltligtltligtknowledge of a variety of machine learning techniques including clustering decision trees random forest boosting text mining and neural networks and their realworld advantages and drawbacksglmregression random forest boosting trees text mining social network analysis etcltligtltligtexperience with multiple machine learning libraries including xgboost scikitlearn tensorflow and pytorchltligtltligtexperience working with and creating data architecturesltligtltligtthe ability to teach and train others in the methodologies and practices used in data scienceltligtltligtfamiliarity with git and code versioning practicesltligtltligtfamiliarity with the atlassian product suite including jira and confluenceltligtltligta drive to learn and master new technologies and techniquesltligtltulgtltpgtltbrgtltpgtltpgtltstronggtpreferred qualificationsltstronggtltpgtltulgtltligtstrong experience with scalaltligtltligt years practical experience with apache spark scala and python etl machine learning data processing and data analyticsltligtltligtstrong experience with apache spark x including query tuning and performance optimizationltligtltligtmasters or doctoral degree in computer science statistics applied math or related fieldltligtltligtstrong experience with aws emr glue and athenaltligtltligtexperience working with healthcare data specifically healthcare insurance claims dataltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T12:38:39.000Z"
+  },
+  "company": {
+    "name": "Bridge Technical Talent",
+    "link": "https://www.linkedin.com/company/bridge-technical-talent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Connecticut",
+    "region": "United States",
+    "postal_code": "06450",
+    "street_address": null,
+    "latitude": 41.575153,
+    "longitude": -72.73828
+  }
+}

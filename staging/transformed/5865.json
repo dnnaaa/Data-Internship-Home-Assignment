@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer 4",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtthis role would require this person to design and develop data pipeline that will orchestrate data movement transformation and loading into destination this person would also be required to work on data apis securely exposing data through various endpoints this role will also require you to work on creating appropriate data models to store aggregated denormalized and flat tables this person will also work on securing data that is being transmitted in the data pipelineltbrgtltbrgtthis person will be responsible for designing ampamp developing data pipelines etl processes for analytics ampamp ingestion to data warehouse and then route data to multiple destination systems for consumption using cloud native principles they should understand schema drift and design the pipeline processes to take care of schema changes they will code the pipeline with appropriate faulttolerance specified and be able to send notifications on critical failure scenariosltbrgtltbrgtltstronggtltugtjob requirementsltbrgtltugtltstronggtltulgtltligt years of working experience of web application development in java using microservices frameworks such as helidon dropwizard etc ltligtltligtexposure to opensource technologies like apache flinkspark for real time streaming and apache kafkaaws kinesisoci streaming service as messaging system ltligtltligthandson experience working with oracle goldengate technologies to extract change data capture will be advantageous ltligtltligtproficiency in kubernetes and containerization to build scalable and resilient applicationservices ltligtltligtshould be able to design and decompose a monolith application into servicebased architecture ltligtltligtproficient with api development to fetch data using rest and graphql ltligtltligtworking experience with git cicd pipelines using jenkins or any other alternative devops tool ltligtltligtbackground in automation tools such as terraform important ltligtltligtindepth understanding of data models and the difference between various modelling techniques good to have working experience with uml modeling ltligtltligtgood working knowledge of oracle database oracle autonomous database dbms packages sql plsql python intellij ltligtltligtexperience with application migration to cloud services and the data security considerations important such as rest inuse and motion will be good ltligtltligtgood to have data structures and algorithms os fundamentals memory management socket programming caching load balancing etc ltligtltligtextensive cloud architecture engineering design and automation experience with one of the major cloud platforms oci aws azure gcp ltbrgtltligtltulgtdesign develop troubleshoot and debug software programs for databases applications tools networks etcltbrgtltbrgtas a member of the software engineering division you will take an active role in the definition and evolution of standard practices and procedures you will be responsible for defining and developing software for tasks associated with the developing designing and debugging of software applications or operating systemsltbrgtltbrgtwork is nonroutine and very complex involving the application of advanced technicalbusiness skills in area of specialization leading contributor individually and as a team member providing direction and mentoring to others bs or ms degree or equivalent experience relevant to functional area years of software engineering or related experienceltbrgtltbrgtif you are a colorado resident please contact us or email us at oraclesalaryinquiriesusoraclecom to receive compensation and benefits information for this role please include this job id in the subject line of the emailltbrgtltbrgtltstronggtltugtabout usltbrgtltbrgtltugtltstronggtinnovation starts with inclusion at oracle we are committed to creating a workplace where all kinds of people can be themselves and do their best work its when everyones voice is heard and valued that we are inspired to go beyond whats been done before thats why we need people with diverse backgrounds beliefs and abilities to help us create the future and are proud to be an affirmativeaction equal opportunity employerltbrgtltbrgtoracle is an equal employment opportunity employer all qualified applicants will receive consideration for employment without regard to race color religion sex national origin sexual orientation gender identity disability and protected veterans status age or any other characteristic protected by law oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:40:56.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Software Engineer for RHEL Migrations - Remote",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "ltstronggtltugtjob summaryltbrgtltbrgtltugtltstronggtthe red hat engineering team is looking for a software engineer with practical experience in operating system migrations to join our team in this role you will help with creating migration tools for moving systems from one version of red hat enterprise linux rhel to the next you will also design solutions for migrating other operating systems to red hat enterprise linux rhel as a software engineer you will work with innovative technology and will help improve the user experience for linux admins you will work as part of an international team this role will allow you to learn more about the inner workings of linux and to improve your python language skills you will work on the upstream projects in github and your contributions will be visible to anyone including the community and customers successful applicants must reside in a country where red hat is registered to do businessltbrgtltbrgtltstronggtltugtprimary job responsibilitiesltbrgtltugtltstronggtltulgtltligtdevelop next generation migration tools for cloud environments ltligtltligtcontribute to upstream software development for the convertrhel project ltligtltligtdesign develop and deliver features for red hats upgrades and migrations teamsltligtltligtwork in a continuous integration ci and continuous delivery cd environment for rapid development and feedbackltbrgtltligtltulgtltstronggtltugtrequired skillsltbrgtltugtltstronggtltulgtltligt years of software development experienceltligtltligtpractical coding experience in python or similar languageltligtltligtlinux system administration knowledge ltligtltligtexperience writing scripts to troubleshoot and correct linux system issuesltbrgtltligtltulgtltstronggtltugtthe following are considered a plusltbrgtltugtltstronggtltulgtltligtexperience in linux kernel or linux user space development ltligtltligtupstream involvement in open source projects including patches submitted for upstream inclusionltligtltligtpractical experience with agile software development ltligtltligtability to work in a ci and cd environmentltligtltligtexperience in automation using ansible or similarltligtltligtfamiliarity with openshift ltbrgtltligtltulgtltstronggtltugtabout red hatltbrgtltbrgtltugtltstronggtred hat is the worlds leading provider of enterprise open source software solutions using a communitypowered approach to deliver reliable and highperforming linux hybrid cloud container and kubernetes technologies red hat helps customers integrate new and existing it applications develop cloudnative applications standardize on our industryleading operating system and automate secure and manage complex environments awardwinning support training and consulting services make red hat a trusted adviser to the fortune as a strategic partner to cloud providers system integrators application vendors customers and open source communities red hat can help organizations prepare for the digital futureltbrgtltbrgtred hat is proud to be an equal opportunity workplace and an affirmative action employer we review applications for employment without regard to their race color religion sex sexual orientation gender identity national origin ancestry citizenship age veteran status genetic information physical or mental disability medical condition marital status or any other basis prohibited by lawltbrgtltbrgtred hat does not seek or accept unsolicited resumes or cvs from recruitment agencies we are not responsible for and will not pay any fees commissions or any other payment related to unsolicited resumes or cvs except as required in a written contract between red hat and the recruitment agency or party requesting payment of a feeltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:47:18.000Z"
+  },
+  "company": {
+    "name": "Red Hat",
+    "link": "https://www.linkedin.com/company/red-hat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 57400,
+    "max_value": 70700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

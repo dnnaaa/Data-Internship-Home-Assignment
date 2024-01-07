@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtservice reliability engineer sreltstronggtltpgtltpgtltbrgtltpgtltpgtserve roboticsltpgtltpgtltbrgtltpgtltpgtat serve robotics were reimagining how things move in cities our personable sidewalk delivery robot serve is our vision for the future its designed to take deliveries off congested streets make deliveries available to more people and benefit local businesses why move twopound burritos with twoton carsltpgtltpgtthe serve fleet has been delighting merchants customers and pedestrians along the way in los angeles while fulfilling commercial deliveries were looking for talented individuals who will grow robotic deliveries from surprising novelty to efficient ubiquityltpgtltpgtltbrgtltpgtltpgtwho we areltpgtltpgtwe are tech industry veterans in software hardware and design who are pooling our skills to build the future we want to live in we are solving realworld problems by leveraging robotics machine learning and computer vision among other disciplines with an eye toward the endtoend user experience our team is agile diverse and driven we believe that the best way to solve complicated dynamic problems is collaboratively and respectfullyltpgtltpgtltbrgtltpgtltpgtwhat youll be doingltpgtltpgtthe service reliability engineer for rover operations is responsible for increasing the availability of the systems used to operate our fleet of rovers at serve roboticsampnbspsres are part of a larger engineering team that works closely with both our fleet operation and robotics teamsltpgtltpgtroughly half of your time will be spent handling alerts from the production robotic fleet monitoring and doing preventive maintenanceampnbspthe other half of your time will be spent eliminating the need to respond to alerts in the first place which directly supports server robotics growth goalsltpgtltpgtltbrgtltpgtltpgtlocationampnbspremote us or canadaltpgtltpgtltbrgtltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtcover oncall shifts while the fleet is in operationltligtltligtdiagnosing and characterization of failure casesltligtltligtlead the creation of runbooks and support documentationltligtltligtautomating detection and recovery of known failure statesltligtltligttracking and reporting of issues affecting system availabilityltligtltligtsetup of automated monitoring of systems and processesltligtltligtsystems maintenanceltligtltulgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligtbs in computer science electrical or equivalent engineering fieldltligtltligt years in a prior sre or systems administrations roleltligtltligtexperience managing linux systems which includes upgrading monitoring performance finding system failures etcltligtltligtconfident with complex scripting bash expertise appreciatedltligtltulgtltpgtltstronggtbonusltstronggtltpgtltulgtltligtexperience with any of the following technologies python dockerkubernetes grafanaprometheus google cloudawsltligtltligtexperience of setting up and tracking the effectiveness of oncall processes and toolsltligtltulgtltpgtmore about usltpgtltpgtltbrgtltpgtltpgtserve robotics is the team that created the postmates delivery robot and brought it to life in la completing tens of thousands of deliveries in las busiest neighborhoods now were an independent company growing rapidly in order to connect people with what they need via robots designed to serve peopleltpgtltpgtltbrgtltpgtltpgtwe are proud to be an equal employment opportunity and affirmative action employer qualified applicants are considered without regards to race color religion national origin age sex marital status ancestry physical or mental disability veteran status gender identity or sexual orientationltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T15:31:34.000Z"
+  },
+  "company": {
+    "name": "Serve Robotics",
+    "link": "https://www.linkedin.com/company/serve-robotics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

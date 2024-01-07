@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "ltpgtleveraging financial information is what puzzle is all about we are an ambitious startup well funded by a top tier vc with an experienced team who have built multiple successful companies and raised over mltpgtltpgtltbrgtltpgtltpgtwe are solving a true pain point that every company has and keeps having as they growltpgtltpgtltbrgtltpgtltpgtwe are on a mission to hire the very best and are committed to creating a culture where everyone is respected and has access to equal opportunity we know that new ideas can come from anywhere in the organization and the next big idea could be yoursltpgtltpgtltbrgtltpgtltpgtwhat are we doingltpgtltpgtltbrgtltpgtltpgtstarting a company has become easier but growing a company is more complicated than ever we are building a realtime smarter financial infrastructure to put trustworthy data into the hands of decisionmakersltpgtltpgtltbrgtltpgtltpgtwe are currently remote but will have a hub in san francisco but you can work from anywhereltpgtltpgtltbrgtltpgtltpgtjob descriptionltpgtltpgtltbrgtltpgtltpgtas part of puzzle you will help design and build our financial data systemltpgtltpgtltbrgtltpgtltpgtwe will be ingesting large amounts of data from disparate sources transforming them organizing them and correlating them delivering the core platform for the rest of our productsampnbspampnbspltpgtltpgtltbrgtltpgtltpgtwe expect the data to be large dirty and difficult to wrangleltpgtltpgtltbrgtltpgtltpgtwe want to be as real time as possible event driven and decoupled redundant resistant and secureampnbspand accuracy is keyltpgtltpgtltbrgtltpgtltpgtthis is your opportunity to be an early engineer at a well funded startup that has a successful founder and a drive to change how companys leverage their financials we are remote first so anywhere in north america works for usltpgtltpgtltbrgtltpgtltpgtwhat youll doltpgtltpgtltbrgtltpgtltulgtltligtscale out our core ingestion platformltligtltligtcreate unique functionality for correlation of dataltligtltligtdesign interfaces and apis to our dataltligtltligtextend and architect our event pipeline for speed and scaleltligtltligtextend our core reporting platformltligtltligtwork on designing endpoints for our productltligtltligthandle an ever growing stream of dataltligtltligtanything else that comes alongltligtltulgtltpgtltbrgtltpgtltpgtwhat you need to succeedltpgtltpgtltbrgtltpgtltulgtltligtbsms in computer science a related field or equivalent work experienceltligtltligt years as a professional software engineerltligtltligtexperience developing largescale data intensive applications ideally using technologies like node python pubsub kafka kinesis elasticsearchltligtltligtexperience maintaining highly available faulttolerant and distributed services including familiarity with technologies microservices managed services gcp dockerltligtltligtexperience with the design of and integration with apis and web services such as rest apis and graphqlltligtltligtexperience with agile software development methodologiesltligtltligtexperience with financial systems is a big plusltligtltligtexperience with security is a big plusltligtltulgtltpgtltbrgtltpgtltpgtdesired skillsltpgtltulgtltligtpractical experience in developing applications using microservices container technologies container management systems such as docker kubernetes etcltligtltligtstrong experience with databases design sql nosql and analyticsltligtltligtprior working experience in utility computing andor cloud computing domain highly desiredltligtltligtexperience building and deploying applications and services into cloud environments gcp highly desiredltligtltulgtltpgtltbrgtltpgtltpgtpuzzle is an equal opportunity and affirmative action employer we welcome and encourage diversity in the workplace regardless of gender race or color ethnicity or national origin age disability religion sexual orientation gender identity or expression veteran status or any other characteristics protected by lawltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T16:57:48.000Z"
+  },
+  "company": {
+    "name": "Puzzle",
+    "link": "https://www.linkedin.com/company/valencia-data"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

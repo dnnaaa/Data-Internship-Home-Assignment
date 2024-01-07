@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "join us as we pursue our disruptive vision to make machine data accessible usable and valuable to everyone we are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers at splunk were committed to our work customers having fun and most significantly to each others success learn more about splunk careers and how you can become a part of our journeyltbrgtltbrgtltstronggtltstronggtrole ltbrgtltbrgtltstronggtltstronggtsplunks cloud services group is looking for a site reliability engineer to help lead design and build the next generation of our large scale cloud offering you will be working on core services and applications that form the primitives for our current and future cloud service offerings site reliability engineers in this role will be engaging with multiple service owners across the platform to teach and implement modern interpretations of sre observability chaos engineering and devops this role is highly visible and impactful to the organization and will help shape splunks engineering culture for years to come your job in a nutshell is to make every team around you better including your ownltbrgtltbrgtltstronggtltstronggtyou will ltbrgtltstronggtltstronggtltulgtltligtwork across the organization to deliver quality products that delight splunks passionate usersltligtltligtembed with teams of tightknit engineers who are building a stateoftheart cloudbased environment for massivescale data processingltligtltligtmentor new engineers to achieve more than they thought possible you enjoy making other teams successful and are fulfilled through the success of othersltligtltulgtltstronggtltstronggtqualifications ltbrgtltstronggtltstronggtltulgtltligtyou enjoy building and running distributed systems at scale in production you understand the challenges and tradeoffs to be made when building and deploying systems to productionltligtltligtexperience working with container deployment and orchestration technologies with knowledge of fundamentals including service discovery deployments monitoring scheduling load balancing knowledge of kubernetes go and docker preferredltligtltligtunderstanding of systems programming network stack file system os services and networking l vs l network architecture vlans etcltligtltligtknowledge of standard methodologies related to security performance and disaster recoveryltligtltligtskilled in identifying performance bottlenecks identifying anomalous system behavior and resolving root cause of service issuesltligtltligtyou have proven skills to effectively work across teams and functions to influence design operations and deployment of highly available softwareltligtltligtyou work hard to make the users of splunks products happier every dayltligtltulgtltstronggtltstronggtpreferred skills ltbrgtltstronggtltstronggtltulgtltligtexperience with running kubernetes environments and understanding of multitenancy and security implicationsltligtltligtexperience with development and deployment in a hosted cloud environment preferably aws ampamp gcpltligtltligtexperience with distributed cloud service development infrastructure traffic management and architectureltligtltligtexperience with optimized and scalable software that operates on a large number of nodesltbrgtltligtltulgtwe value diversity at our company all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin or any other applicable legally protected characteristics in the location in which the candidate is applyingltbrgtltbrgtfor job positions in san francisco ca and other locations where required we will consider for employment qualified applicants with arrest and conviction recordsltbrgtltbrgtcolorado only minimum base salary of you may also be eligible for incentive pay equity benefitsnote disclosure per sb et seq",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T07:05:15.000Z"
+  },
+  "company": {
+    "name": "Splunk",
+    "link": "https://www.linkedin.com/company/splunk"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

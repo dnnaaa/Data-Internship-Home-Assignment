@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggtamwell is a leading telehealth platform in the united states and globally connecting and enabling providers insurers patients and innovators to deliver greater access to more affordable higher quality care amwell believes that digital care delivery will transform healthcare the company offers a single comprehensive platform to support all telehealth needs from urgent to acute and postacute care as well as chronic care management and healthy living with over a decade of experience amwell powers telehealth solutions for over hospitals and over health plan partners with over employers covering over million livesltbrgtltbrgtltstronggtbrief overviewltbrgtltbrgtltstronggtthe senior data engineer will manage utilize move and transform data from our data center and cloud repositories to create reports for senior management and clients conduct business analysis on data requests to ensure clarity on the need and proper data usage adherent to security mandates build various etl pipelines among the various tools in play to surface data for consumption by our reporting tool prioritize competing requests from internal and external stakeholders in addition to keeping the reporting infrastructure on par with new product functionality and release cycles become a subject matter expert in data classification within the platform and utilize your expertise to identify the most efficient path to deliver data from a to b as needed working hand in hand with hosting analytics and product be accountable for the delivery of accurate and timely reporting solutionsltbrgtltbrgtltstronggtcore responsibilitiesltbrgtltstronggtltulgt ltligtdevelop build deploy and maintain cloud platform solutionsltligt ltligtdesign and support the database and table schemas for new and evolving sources of data being brought into the data warehouseltligt ltligtmonitor and troubleshoot performance issuesltligt ltligtdefine and promote the teams design principles and best practicesltligt ltligtwork with business teams to be able to define requirements for real time reportingltligt ltbrgtltulgtltstronggtqualificationsltbrgtltstronggtltulgt ltligtminimum two years of handson aws data technology experienceltligt ltligtsql etlelt and mdmltligt ltligtfamiliarity with linux shell scriptingltligt ltligtexperience in building data lake in aws leveraging technologies like ec s lambda glue dynamo db redshift etcltligt ltligtexpertise in building data ingestion tools using technologies like python to extract data from relational databasesexternal apisltligt ltligtexperience in redshift or any mpp and columnar database on the cloudltligt ltligtexperience in cicd release automation and deployment cloudformation jenkins etcltligt ltligtexperience and good understating of databases oracle netezza and etl toolsltligt ltligtgood understanding of overall aws security services like kms iam etcltligt ltligtexperience using lake formation tools for creation of data pipelinesltligt ltligtstrong relationship management experience particularly influencing others in a decision processltligt ltligtselfstarter curious accountable enjoys a healthy level of autonomy strong work ethic able to succeed in a fastpaced high intensity start up environmentltligt ltligtexcellent oral and written communications skillsltligt ltligtdemonstrates agility and welcomes changeltligt ltligtbsms in computer science engineering or equivalentltligt ltligtaws certified is a plusltligt ltbrgtltbrgtltulgtltstronggtltugtadditional informationltbrgtltbrgtltugtltstronggtltstronggtyour teamltbrgtltbrgtltstronggtshould you join amwell and the technical services team you can expectltbrgtltbrgttechnical services delivers client specific platform configurations custom reporting needs and integration solutions enabling our platform to work hand in hand with third party systems across our customer base we love to troubleshoot and diagnose production defects innovate to expand our outofthebox platform and work directly with clientsltbrgtltbrgtwhether youre an advocate for the latest and greatest ios and android features are committed to the ideal backend architecture or are dedicated to providing the best web usability we have a place for you on our teamltbrgtltbrgtltstronggtworking at amwellltbrgtltbrgtltstronggtwe strive to make the hard work of healthcare look easy in order to make this a reality we look for people with a fastpaced missiondriven mentality were a gogetter culture that prides itself on quality efficiency smarts initiative creative thinking and a strong work ethic amwell is headquartered in boston ma with additional offices in reston va and seattle wa in addition to the opportunity to build the future of healthcare technology we offerltbrgtltulgt ltligtunlimited paid time offltligt ltligtk matchltligt ltligtcompetitive health dental and vision insurance plansltligt ltligtthe equipment and resources needed to be successful working in a remote settingltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-17T05:10:41.000Z"
+  },
+  "company": {
+    "name": "Amwell",
+    "link": "https://www.linkedin.com/company/amwellcorp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 86200,
+    "max_value": 171000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

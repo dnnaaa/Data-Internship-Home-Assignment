@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "position site reliability engineerltbrgtlocation remoteltbrgtjob type monthsltbrgtltbrgtjob responsibilitiesltbrgt work in a crossfunctional team to design and implement the next generation of cicdltbrgt platform as a service inhouse productltbrgt leverage kubernetes operators tekton and spinnaker pipelines to automate theltbrgt deployment and administration of applications across multiple environments onpremltbrgt and in the cloudltbrgt define workflows and processes to meet infrastructureascode objectivesltbrgt actively facilitate continuous improvementltbrgt monitor various systems capacity and health indicators and trendsltbrgt provide x tier troubleshooting and breakfix support for production servicesltbrgt design and build restful microservices enabling the application of rolebased accessltbrgt control network policies and service registrationltbrgtltbrgtrequired qualificationsltbrgt years of relevant work experienceltbrgt strong software engineering skills preferably working in multiple programmingltbrgt languages java go pythonltbrgt proficiency in cloudnative technologies and architectures docker kubernetesltbrgt openshiftltbrgt proficiency in revision control and devops best practices gitltbrgt expert linux experience red hat centosltbrgtltbrgtpreferred qualificationsltbrgt experience with public or private cloud services aws azure google cloudltbrgt openstackltbrgt familiarity with continuous integrationdeployment tools and platforms spinnakerltbrgt drone jenkins ansibleltbrgt familiarity with application performance monitoring apm or tracingltbrgt contributions to opensource projectsltbrgtltbrgtregardsltbrgtjusteenltbrgttechnical recruiterltbrgtvdart incltbrgtemail justeendvdartinccomltbrgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T17:59:58.000Z"
+  },
+  "company": {
+    "name": "VDart",
+    "link": "https://www.linkedin.com/company/vdart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

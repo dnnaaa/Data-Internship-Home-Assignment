@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer ( Remote)",
+    "industry": "Management Consulting",
+    "description": "ltpgttiger analytics is looking to recruit for a motivated and passionate ltstronggtmachine learning engineers ltstronggtfor our teamltpgtltpgtltbrgtltpgtltpgtyou will be responsible for the following on day today basisltpgtltulgtltligtsupport data scientists in onboarding new models and software onto the platformsltligtltligtaddress any environment accessperformance issuesltligtltligtbuild end to end pipelineairflow dags for new modelsltligtltligtdata identification availability and feature engineering as part of data science supportltligtltligtapi or stream endpoint engineering for model integration dont need to build from scratch as they some frameworks already built internallyltligtltligtfirst line of support for issues such as spinning up of the jupyter notes on their kubernetes based platform connection to snowflake and hive etcltligtltulgtltpgtltbrgtltpgtltpgtexperience and proficiency ltpgtltulgtltligtspark including spark streaming python and sqlltligtltligtaws emr lambdas sltligtltligtcreating data pipelines for ml specifically sourcing and munging data as well as preparing featuresltligtltligtexperience with optimizationtuning code and algorithms and operationalization of modelsltligtltligtrequires very little handholdingampnbspin terms of skills and is able to navigate the organization independentlyltligtltligtcan work with cicd pipelines using jenkins git etcltligtltulgtltpgtampnbspltpgtltpgtknowledge and optionally some experienceltpgtltulgtltligtairflow orchestration pipelinesltligtltligtkafka streaming end pointsltligtltulgtltpgtampnbspampnbspltpgtltpgtgood to know not mandatoryltpgtltulgtltligtinfra devops including kubernetesltligtltulgtltpgtampnbspltpgtltulgtltligtbachelors degree or higher in computer science or related with years of work experienceltligtltligtability to collaborate with data engineers and data scientist to build data and model pipelines and help running machine learning tests and experimentsltligtltligtability to manage the infrastructure and data pipelines needed to bring ml solution to productionltligtltligtendtoend understanding of applications being created and maintain scalable machine learning solutions in productionltligtltligtability to abstract complexity of production for machine learning using containersltligtltligtability to troubleshoot production machine learning model issues including recommendations for retrain revalidate and improvementsltligtltligtexperience with big data projects using multiple types of structured and unstructured dataltligtltligtability to work with a global team playing a key role in communicating problem context to the remote teamsltligtltligtexcellent communication and teamwork skillsltligtltulgtltpgtltbrgtltpgtltpgttiger analytics is an advanced analytics consulting firm we are the trusted analytics partner for several fortune companies enabling them to generate business value from data our consultants bring deep expertise in data science machine learning and ai our business value and leadership have been recognized by various market research firms including forrester and gartnerltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T15:23:42.000Z"
+  },
+  "company": {
+    "name": "Tiger Analytics",
+    "link": "https://www.linkedin.com/company/tiger-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington DC-Baltimore Area",
+    "region": null,
+    "postal_code": "21201",
+    "street_address": null,
+    "latitude": 38.873062,
+    "longitude": -77.007385
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "experience with javascript and creating javascript apis ltbrgtltbrgt experience with flutter and dart languageltbrgtltbrgt experience working with cdns and cloud providers ltbrgtltbrgt commitment to excellence",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T04:06:51.000Z"
+  },
+  "company": {
+    "name": "Nostra",
+    "link": "https://www.linkedin.com/company/nostraai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

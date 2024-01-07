@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "C++ Software Engineer (Pre-Silicon)",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtimagine what you could do here at apple new ideas have a way of becoming extraordinary products services and customer experiences very quickly bring passion and dedication to your job and theres no telling what you could accomplish dynamic smart people and inspiring innovative technologies are the norm here the people who work here have reinvented entire industries with all apple hardware products the same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it join us to help deliver the next groundbreaking apple product do you love working on challenges that no one has solved yet as a member of our dynamic group you will have the unique and rewarding opportunity to craft upcoming products that will delight and inspire millions of apples customers every single dayltbrgtltbrgtltbrgtare you passionate about changing the world we have a critical impact on getting high quality functional products to millions of customers quickly we are looking for you to join our virtual platform team focusing on the creation deployment and support of an advanced presilicon environment for software bringup in this highly visible role you will be at the center of the system on chip validation efforts collaborating with software and chip design disciplinesltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtexperience with c working with a large software codebase requiredltbrgtltbrgtexperience with a presilicon platform such as emulation palladium veloce or zebu or fpga preferred ltbrgtltbrgtexperience bringingup operating systems on new hardware preferredltbrgtltbrgtstrong computer architecture foundation either soc or cpu preferredltbrgtltbrgtsome knowledge of verilog or systemverilog is usefulltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtas a senior engineer in the virtual platform team you will work closely with emulation hardware verification and software teams to create and improve an emulationbased virtual platform environment develop new emulation workloads and platforms to enhance user productivity deliver complex environments based on high performance emulation models and transactors in system verilog and cc root cause failing socprocessor operating system and driver tests and emulator environment issuesltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs or ms in electrical engineer computer science or relevant discipline is required with over years relevant experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:42:04.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 72500,
+    "max_value": 157300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

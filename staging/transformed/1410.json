@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist/Engineer - 37041",
+    "industry": "Defense &amp; Space",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtenlighten an alion company is looking for a data scientistengineer to join our team the data scientistengineer will establish and implement endtoend proof of concepts for leading edge analytic and data mining systems this work may include modifying data during the etl process exploring new datasets to understand the data and derive value and generating analytics with complementary dashboards and visualizations they will be responsible for the creation of innovative methodologies for extracting key parameters from big data coming from various sensorsltbrgtltbrgtltstronggtltugtsecurity clearanceltbrgtltugtltstronggtltulgtltligta current tssci top secret level us government clearance is required and therefore all candidates must be a us citizen ltbrgtltligtltulgtltstronggtltugtrequired skillsltbrgtltbrgtltugtltstronggtltemgtcandidates must have most of the following required skillsltbrgtltemgtltulgtltligtbs degree in computer science electrical engineering statistics operations research applied math or equivalent fieldsltligtltligtmust have years of data scientist or equivalent experience working with data software engineering database design etcltligtltligtmust have a software development background in order to prototype custom analyticstoolingltligtltligtpractical experience with data analysis and exploration especially with diverse data setsltligtltligtexperience in streaming andor batch analytics eg kafka spark flink storm mapreduce hadoopltligtltligtarchitect and work closely with other team members to develop scalable cloudbased data analytic solutionsltligtltligtfamiliar with scalable distributed data processing management and visualization tools eg hadoop elk kafka accumulo graph databases etcltligtltligtcapable of applying the latest technologies and methodologies in machine learning data mining and predictive analytics to correlate disparate datasets and events and derive valueltligtltligthas a proven ability to learn quickly and works well both independently as well as in a team settingltligtltligtother duties as assignedltbrgtltligtltulgtltstronggtltugtdesired skillsltbrgtltugtltstronggtltulgtltligtexperience with containers eg docker kubernetesltligtltligtexperience with dod data types and current dod data strategiesltligtltligtcj nfltbrgtltligtltulgtsecurity clearance top secretsensitive comp infoltbrgtltbrgttelework limited",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Alion Science and Technology",
+    "link": "https://www.linkedin.com/company/alionscience"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95100,
+    "max_value": 152000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Linthicum Heights",
+    "region": "MD",
+    "postal_code": "21090",
+    "street_address": null,
+    "latitude": 39.195045,
+    "longitude": -76.68526
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Computer Vision and Machine Learning - Strategic Data Solutions",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtapples strategic data solutions sds team is looking for a talented individual who is passionate about implementing and operating analytical solutions that have direct measurable impact to apple and its customers as a cv and ml data scientist on the sds team you will build endtoend solutions for preventing fraud waste and abuse while safeguarding the customer experience the daytoday work consists of identifying new fraud leads by connecting different data sources together working with a team of annotators to curate a labeled image dataset building computer vision pipelines or training convnet models deploying the analytic product into a realtime decisioning platform and ensuring ongoing operational excellence by monitoring and making operational adjustments the adversarial nature of fraud and the large scale of the business make for exciting challenges on this team you will apply a variety of data science approaches towards the mitigation of fraudltbrgtltbrgtltbrgtthis position is located in austin txltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtpractical experience and theoretical understanding of computer vision methods eg local feature matching or deep learning models eg cnnltbrgtltbrgtexcellent communication skills with the ability to distill complex ideas into concise businessfocused messagesltbrgtltbrgtproficiency in a common programming language such as python java or clojureltbrgtltbrgtability to extract business insights and identify stories behind the dataltbrgtltbrgtability to navigate complex systems spanning toolchains and teamsltbrgtltbrgtexperience with a data query language eg sqlltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgt translate business needs into technical solutions work with program managers data scientists and business partners to incorporate analytic solutions into business processes ltbrgtltbrgt explore text and image datasets to identify patterns of fraudulent behavior ltbrgtltbrgt move quickly to combat adversarial attacks by developing and deploying updated models ltbrgtltbrgt maintain operational excellence by developing and monitoring program metrics ltbrgtltbrgt analyze data and communicate findings to audiences with various technical backgrounds eg engineers program managers and executives ltbrgtltbrgt coordinate with engineers and system administrators to deploy analytics to a realtime decisioning platform ltbrgtltbrgt identify and implement new data science tools to complement the existing capabilities of the teamltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgt ms or phd in computer science machine learning engineering or other technical field with years experience in computer vision or deep learningltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:30:55.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "ltpgthave you ever wanted to build the fastest computer systems in the worldampnbspthese days supercomputers are called high performance computing clusters and they require ultrahighspeed networking hardware and software cornelis networks mission is to deliver innovative purposebuilt interconnect solutions that enable our customers to optimally apply vast computational resources to create those clusters and solve the worlds toughest problemsltpgtltpgtltbrgtltpgtltpgtcornelis networks is hiring talented software development engineer to help implement the apis that applications will need to use these clusters the bulk of the work will be focused around the interfacing our hardware to different opensource standard apis such as open mpi and gpu software standards such as cuda and ncclltpgtltpgtltbrgtltpgtltpgtltstronggthost software responsibilitiesltstronggtltpgtltulgtltligtresponsible for maintaining and developing new features for both inhouse and opensource apis that allow customers to write applications for with use the omnipath fabricsltligtltligtanalyze and develop technology solutions based on customer requirementsltligtltligtbuild and implement host software products to meet business demandsltligtltligtwork with developers and architects in developing host software configurations based on requirementsltligtltligtidentify and apply innovative technologies to update existing host softwareltligtltligtcreate and maintain documentation for host software installations changes and upgradesltligtltligttrain junior engineers on host software updates and new installationsltligtltligtcoordinate with vendors and support team on problem resolution design issues and upgradesltligtltligtperform troubleshooting incident response and patching in a timely mannerltligtltligttroubleshoot and resolve technical problems in timely and accurate manner to improve application performance and functionalityltligtltligtevaluate system architecture and make recommendations as requiredltligtltligtdevelop and implement standard processes for installation maintenance and enhancement of host software applicationsampnbspltligtltulgtltpgtltstronggtminimum qualificationsltstronggtltpgtltulgtltligtbachelors masters or phd degree in engineering computer science or related discipline or the equivalent in training and experienceltligtltligtexperience with networking software in the linux kernel and extensive experience in c codingltligtltligtunderstanding of network protocols tcpip scalable algorithms and virtualization software development tools and scripting in a linux environment including git source controlampnbspltligtltulgtltpgtltstronggtpreferred qualificationsltstronggtltpgtltulgtltligtdevelopment bit accurate and transaction accurate modeling experience in csystemcltligtltligtexperience in one or more scripting language tcl python perl shellscriptingltligtltligtexperience withltligtltligtinfiniband or another hpc interconnectltligtltligtdeveloping and supporting opensource projectsltligtltligtopen fabrics enterprise distribution and upperlayer protocols such as ipoib srp etcltligtltligtkernel file system software including lustre nfsltligtltligtwireshark and network traffic analysisltligtltligtexcellent communication skillsampnbspltligtltulgtltpgtltstronggtpreferred locationltstronggtltpgtltulgtltligtcornelis networks prefers key staff to be located at its wayne pa headquarters but fully supports remote employees who are able to travel to our offices when safe periodically for inperson collaborationampnbspltligtltligtcornelis networks is an equal opportunity and affirmative action employerltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:00:21.000Z"
+  },
+  "company": {
+    "name": "Cornelis Networks",
+    "link": "https://www.linkedin.com/company/cornelisnetworks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Malvern",
+    "region": "PA",
+    "postal_code": "19355",
+    "street_address": null,
+    "latitude": 40.033436,
+    "longitude": -75.51271
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "ltstronggtltugtour companyltbrgtltbrgtltugtltstronggtchanging the world through digital experiences is what adobes all about we give everyonefrom emerging artists to global brandseverything they need to design and deliver exceptional digital experiences were passionate about empowering people to create beautiful and powerful images videos and apps and transform how companies interact with customers across every screenltbrgtltbrgtwere on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity we realize that new ideas can come from everywhere in the organization and we know the next big idea could be yoursltbrgtltbrgtltstronggtthe opportunity ltbrgtltbrgtltstronggtdo you thrive on solving hard problems at scale do you want to build cloudnative systems that work seamlessly across devices are you interested in defining the future of marketing by making it fast fun and frictionless to create and deliver marketing campaigns most of all are you passionate about helping enterprise improve user experienceltbrgtltbrgtwe are a team of passionate storytellers technology innovators and change agents we build infrastructure to enable our clients in providing the best user experience to their customers building on success of adobe experience platform we provide solutions to build tools that allows them to reach and communicate with endusersltbrgtltbrgtltstronggtltugtwhat will you doltbrgtltugtltstronggtltulgtltligtbuild develop test ampamp deploy microservices for marketing toolsltligtltligtdesign services that scale horizontally perform at high throughput and low latenciesltligtltligtparticipating in all aspects of software development activities including design coding code review unitintegration testing bug fixing and codeapi documentationltligtltligtworking in crossfunctional teams to ensure superb endtoend user experience for customersltligtltligtfast prototyping of ideas and concepts and researching latest industry trendsltbrgtltbrgtltligtltulgtltstronggtltugtwhat you need to succeedltbrgtltugtltstronggtltulgtltligtbs yrs experience or ms yrs experience in computer science or relevant fieldltligtltligtexperience building web services in javascala restful apisltligtltligtexperience in web server technologies http servers ltligtltligtexperience working with streaming technologies like kafka ltligtltligtexperience using nosql datastores and data access patterns and strategiesltligtltligtexperience building highly scalable and performance focussed applicationsltligtltligtproven ability to develop robust efficient highquality codeltligtltligtability to troubleshoot and resolve problems using appropriate tools and techniquesltligtltligtknowledge of modern development patterns agile cicd kubernetes microservices achitectureltligtltligtknowledgeable of secure scalable and highly available service development practicesltligtltligtteam player with a thirst to learn sense of urgency and ownership and thrives in a fastpaced environmentltligtltligtexcellent written and verbal communication skillsltligtltligtability to learn quickly and adapt to changing priorities and requirementsltligtltligtselfstarter requiring minimal directionltbrgtltbrgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T22:01:21.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 155000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

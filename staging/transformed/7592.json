@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - 100% Remote",
+    "industry": "Information Technology and Services",
+    "description": "ltpgtltstronggtjob titleltstronggtampnbspdata engineerltpgtltpgtltstronggtposition typeltstronggt contract until december monthsltpgtltpgtltstronggtlocationltstronggt remote no travel prefer central or east coast location since a lot of the team onshore work east coastltpgtltpgt ltpgtltpgtltstronggtprimary skillsltstronggt years of developerdata engineer experience working specifically in azure python scala sql andor databricks hands on experienceltpgtltpgt ltpgtltpgtltstronggtrequirements ltstronggtltpgtltulgtltligtat least years of developerdata engineer experience working specifically in azureltligtltligtmust have python scala sql andor databricks hands on experienceltligtltligtshould be independent worker but collaborate with necessary peers and deliver results incrementally by taking full ownership of tasksltligtltulgtltpgtampnbspltpgtltpgtltstronggtdaily duties ltstronggtltpgtltpgtampnbspampnbspampnbspampnbspampnbspgen to gen transitionltpgtltpgtaampnbspampnbspampnbspampnbspampnbspmajority of their data pipelines are using azure data lake storage gen which is going to be deprecated by microsoftltpgtltpgtbampnbspampnbspampnbspampnbspampnbsphence they need to migrate this to adls gen versionltpgtltpgtcampnbspampnbspampnbspampnbspampnbspapproximately data pipelines will be impacted from an ingestion pov and another pipelines will also need to be updated in refined data processltpgtltpgtltbrgtltpgtltpgtampnbspampnbspampnbspampnbspampnbspdata quality automationltpgtltpgtaampnbspampnbspampnbspampnbspampnbsptoday they have several notebooks and scripts that perform aggregate quality checks for multiple sourcesltpgtltpgtbampnbspampnbspampnbspampnbspampnbspsome of these need to be upgraded to use more current pipeline run information and also needs automationltpgtltpgtcampnbspampnbspampnbspampnbspampnbspthey will utilize adlsg to store this metadata for reporting and analysis ltpgtltpgtltbrgtltpgtltpgtampnbspampnbspampnbspampnbspampnbspfunctions optimization and vacuum implementationltpgtltpgtaampnbspampnbspampnbspampnbspampnbspthere are azure functions based processes that needs update and optimization as each of them are running independentlyltpgtltpgtbampnbspampnbspampnbspampnbspampnbspopportunity to modularize some of these functions and as a result reduce overhead on system resourcesltpgtltpgtampnbspltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:39:17.000Z"
+  },
+  "company": {
+    "name": "Staffing Technologies",
+    "link": "https://www.linkedin.com/company/staffing-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

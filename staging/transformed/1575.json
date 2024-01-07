@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "ltstronggtroleltbrgtltbrgtltstronggttesla is looking for a strong software engineer to design and develop software for its current and next generations of business systems applications this position will be working with the software engineering team in fremont caltbrgtltbrgtthe team will build the system used to supply material to the distribution and service centers it will be built with the longterm vision of being a global system to manage warehouses for all tesla business operations which includes vehicle service and energy products this will be a businesscritical system essential to support the growth and mission of tesla the candidate will be working in go angular react and mysqlltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgt ltligtdesign implement and deliver endtoend fully functional solutionsltligt ltligtcontribute relevant clean concise quality documentation to teslas knowledge base to support increase organizational information sharingltligt ltligtautomating your repetitive development tasksltligt ltligtevangelize best practices in software development and software development lifecycleltligt ltbrgtltbrgtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgt ltligtbs degree in computer science it or related fieldsltligt ltligt years in application developmentltligt ltligtrestful api design ampamp implementationltligt ltligtexperience with automated testingltligt ltligtweb frontend development using tools such as javascript angular react etcltligt ltligtbackend development using tools such as go java ruby etcltligt ltligtdatabase knowledge such as mysql oracle postgres etc ltligt ltligtexperience working on business services software or enterprise softwareltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T07:44:07.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

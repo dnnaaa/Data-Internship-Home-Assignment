@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "ltpgtltstronggtclient established financial organizationltstronggtltpgtltpgtltstronggttitle site reliability engineer kubernetesltstronggtltpgtltpgtltstronggtlength direct hireltstronggtltpgtltpgtltstronggtlocation jersey city nj or dallas tx hybrid days office rest wfhltstronggtltpgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtltstronggtsummaryltstronggtltpgtltpgtwe are looking for a container migration sre who understands the enterprise containers in docker swarm to advanced kubernetes platforms openshift tanzu deployments and has prior experience with container migrations and deployments the container migration sre will bring in kubernetes deployment with software engineering sre standard methodologies this role will be instrumental in continuing our container first strategy delivery bringing expertise with development and implementation of container migration projectsltpgtltpgtltbrgtltpgtltpgtltstronggtyour primary responsibilitiesltstronggtltpgtltulgtltligtlead the container platform ecosystemltligtltligtcluster capacity management and provisioning through automation of underlying hostsltligtltligtunderstanding the infrastructure components server network storage firewall load balancer etc required for kubernetes platform infrastructure as a codeiacltligtltligtdeveloper differentiatorltligtltligtexperience with a modern application software language especially a systems programming language go pythonltligtltligtunderstanding of architectural patterns microservices are important but experience with other patterns helpfulltligtltligtpractitioner of version control experience with different branching strategies and understands why gitflow is not a good choice for cicd and enterprise development teamsltligtltligtunderstands and uses unit and functional testing ideally advocates tests up front advocates tests for moving fasterltligtltligtexperience defining delivery pipelines demonstrable work in automation and observability bonus points for experience using gitops for deploymentltligtltligtunderstand ks resiliency patterns hpa selfhealingltligtltligtunderstands container image optimizationltligtltulgtltpgtltbrgtltpgtltpgtltstronggtqualificationsltstronggtltpgtltulgtltligtminimum of years of related experienceltligtltligtbachelors degree requiredltligtltligtkubernetes andor tanzu or openshift container platformltligtltligtkubernetes and pythonltligtltligtexpertise in tanzu solutions as a service offeringsltligtltligtexperience delivering infrastructure as code using cicd practicesltligtltligtproven track record of applying technology to tackle business problemsltligtltligtexperience with migrateonboard application onto kubernetesltligtltligtaws associate certifications or higher preferredltligtltulgtltpgtredhat certifications in linux and openshift administration preferredltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T15:13:13.000Z"
+  },
+  "company": {
+    "name": "HireTalent - Diversity Staffing &amp; Recruiting Firm",
+    "link": "https://www.linkedin.com/company/hiretalent_"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jersey City",
+    "region": "NJ",
+    "postal_code": "07306",
+    "street_address": null,
+    "latitude": 40.717495,
+    "longitude": -74.04411
+  }
+}

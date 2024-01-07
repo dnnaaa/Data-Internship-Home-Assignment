@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Intern",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "summer college internshipltbrgtltbrgtdevelopers at mim software work alongside industry experts and leading clinicians across the world we solve complicated problems in innovative teams and gain a solid clinical perspective on medical imaging and the departments that use it while onthejob were looking for passionate interns with great communication skills who can excel in our flexible highly teamcentered work environmentltbrgtltbrgtareas of focusltbrgtltbrgtmim our flagship software platform based around a java core uses techniques such as image deformation image segmentation and statistical analysis to solve the problems faced by todays medical professionals if youre interested in creating elegant software solutions to difficult realworld problems at lightning speed mim is for you no prior medical knowledge requiredltbrgtltbrgtmimcloud medical images need to get from point a to point b thats where mimcloud comes in mimcloud engineers apply web technologies like google app engine gwt bootstrap html css and javascript to break down the borders between institutions doctors and patients all while maintaining security privacy and usabilityltbrgtltbrgtmimsoftwarecom more than just marketing our frontfacing website is our primary method of customer engagement for support and training built on the play framework and utilizing java scala and twirl with a postgresql backend mimsoftwarecom is the virtual window into the world of mimltbrgtltbrgtcore mim software moves too fast to settle for hiring consultants and purchasing erp systems our business runs on core our inhouse system to manage our sales support product development and regulatorycompliant testing running on mariadb ruby on rails and great ideas from all over the company core development is fast flexible and funltbrgtltbrgtweb clinical data solutions our nextgen suite of tools to unite clinical data for uses beyond image processing such as analytics peer review and decision support these tools are web deployed using the play framework for java scala twirl templates a postgresql database and docker containers as the hosting environment with a rich ui built using bootstrap reactjs and typescriptltbrgtltbrgtalgorithms research medical image processing takes research and development by working alongside the scientists on our algorithms research team software engineers on the team research new technologies implement prototypes and build tools and infrastructure for largescale data analysisltbrgtltbrgtltstronggt what youll do ltbrgtltstronggtltulgtltligtdevelop complex algorithms for image analysis and business logic improve user experience ltligtltligtwork within specifications to meet project objectives in a timely manner ltligtltligtcommunicate with peers and customers ltligtltligtwork with project team members under an agile development process ltligtltligtadhere to quality and design control procedures specific to the medical device marketltligtltulgtwhat youll needltbrgtltulgtltligtpursuing a bachelors or masters degree in one of the following majors computer science computer engineering mathematics biomedical engineering electrical engineering or physics ltligtltligtrequired skills include general problemsolving strong analytical thinking and an aptitude for math and scienceltligtltligtexperience with technologies we use preferred but not requiredltligtltulgttechnologies we useltbrgtltbrgtruby on railsltbrgtltulgtltligt mariadbltligtltligt javascriptltligtltligt javaltligtltligt google web toolkitltligtltligt google app engineltligtltligt mongodbltligtltligt apple iosltligtltligt openclltligtltligt pythonltligtltligt tensorflowltligtltligt dockerltligtltligt matlabltligtltligt cudaltligtltulgt",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-31T17:08:51.000Z"
+  },
+  "company": {
+    "name": "MIM Software Inc.",
+    "link": "https://www.linkedin.com/company/mim-software-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beachwood",
+    "region": "OH",
+    "postal_code": "44122",
+    "street_address": null,
+    "latitude": 41.479305,
+    "longitude": -81.49784
+  }
+}

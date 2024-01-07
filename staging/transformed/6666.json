@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Sports",
+    "description": "we are draftkings were inspired by our shared passion for developing creative solutions to complex challenges and empowering the people around us to do their best work we are industry leaders in the digital entertainment and technology space propelled by constant curiosity and diverse perspectivesltbrgtltbrgtour teams are fueled by innovation we are looking ahead building whats next and continuously reinventing the industry were a publicly traded nasdaq dkng technology company headquartered in boston with teams around the world and an expanding global presenceltbrgtltbrgtbuilding the possibilitiesltbrgtltbrgtwere growing rapidly as a site reliability engineer you will help us continue running our applications smoothly as our business scales draftkings solves some of the most interesting challenges in the tech industry and when you join our team youll have the opportunity to see your ideas and solutions directly impact our productsltbrgtltbrgtwhat you will do as a site reliability engineerltbrgtltulgtltligtcreate selfprovisioning infrastructure using tools like chef terraform and dockerltligtltligtlearn how to define key metrics and slas around new web services being created to support our rapid traffic growthltligtltligtyou will learn how to design and implement monitoring and alerting strategies to enforce application slasltligtltligtyou will also foster a continuous deployment ecosystem that will allow draftkings to operate at a massive scaleltbrgtltbrgtltligtltulgtwhat youll bringltbrgtltulgtltligtyour experience with cloud environments and provisioning automationltligtltligtunderstanding of common scripting languages ruby python bashexperience working with at least one objectoriented language java c etcltligtltligtworking knowledge of networking and web concepts and ability to debug issues down to the packetsltligtltligtunderstanding of the linuxwindows command line and system operationsltligtltligtworking knowledge of basic systems metrics like cpu memory and processesltbrgtltbrgtltligtltulgtjoin usltbrgtltbrgtwe strive to create a place where all feel safe empowered engaged championed and inspired draftkings is proud to be an equal opportunity employer this means we do not tolerate discrimination of any kind and are committed to providing equal employment opportunities regardless of your gender identity race nationality religion sexual orientation status as a protected veteran or status as an individual with a disabilityltbrgtltbrgtready to build whats next apply nowltbrgtltbrgtas a regulated gaming company you may be required to obtain a gaming license issued by the appropriate state agency as a condition of employment",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T21:39:51.000Z"
+  },
+  "company": {
+    "name": "DraftKings Inc.",
+    "link": "https://www.linkedin.com/company/draftkings-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

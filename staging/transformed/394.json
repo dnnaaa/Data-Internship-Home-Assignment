@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior, Software Engineer, Linux/Android OS",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtjob descriptionltbrgtltbrgtltstronggtwe are looking for an os developer interested in building the next generation augmented reality operating system using industrystandard tools and technologies this is an opportunity for you to contribute to the development of a new class of mobile computing devices that will transform the enterpriseltbrgtltbrgtltstronggtresponsibilitiesltbrgtltstronggtltulgtltligtwork on multiple levels of the os stack from drivers to frameworksltligtltligtleverage native apis for deep integration with all platformsltligtltligtdiagnose and fix bugs ltligtltligtmaintain code and write automated tests to ensure the product is of the highest qualityltligtltligtwrite documentationltligtltligtmentor and guide other engineersltbrgtltligtltulgtltstronggtqualificationsltbrgtltstronggtltulgtltligtstrong knowledge of embedded software developmentltligtltligtstrong knowledge of linux or aospltligtltligtthorough knowledge of modern cc standards libraries and best practicesltligtltligtstrong knowledge of at least one scripting language among the following python javascriptltligtltligtproficient knowledge of cc build toolchainsltligtltligtfamiliarity with build scripting languages eg cmake ninja gyp gn gnu autotools mesonltbrgtltligtltulgtltstronggtltugteducationltbrgtltugtltstronggtltulgtltligt years experience with embedded linux developmentltligtltligt years experience with ccltligtltligt years experience with androidltligtltligtopen source experience strongly recommendedltligtltligtaosp development is a plusltligtltligtbachelor of science in computer science or engineering required masters degree preferred ltligtltulgt ltstronggtadditional informationltbrgtltstronggtltulgtltligtall your information will be kept confidential according to equal employment opportunities guidelinesltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:02:24.000Z"
+  },
+  "company": {
+    "name": "Magic Leap",
+    "link": "https://www.linkedin.com/company/magic-leap-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 176000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

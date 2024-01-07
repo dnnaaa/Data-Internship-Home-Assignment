@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "cohesity radically simplifies data management we make it easy to back up manage and derive value from data across the data center edge and cloud cohesity also helps ensure data is in compliance and protected against ransomware attacks we offer a full suite of data management services consolidated on one multicloud data platform reducing complexity and eliminating mass data fragmentation cohesity can be delivered as a service selfmanaged or provided by a cohesitypowered partnerltbrgtltbrgtweve been named a leader by multiple analyst firms and are prominently featured in the forbes cloud and crns coolest cloud companies our growth is off the charts and were just getting startedltbrgtltbrgtltstronggtltugtprimary job responsibilitiesltbrgtltugtltstronggtltulgt ltligtresponsible for deployment maintenance and operations on cohesity clusters deployed worldwideltligt ltligtdevelop scripts and framework for automating repetitive tasksltligt ltligtdebug issues with backups on microsoft hyperv vmware vsphere and linux kvm hypervisorsltligt ltligtprovide support on clusters deployed in cloud platforms like amazon web services microsoft azure and google cloud platformltligt ltligtwrite scripts using bash or python for log capture and analysis on large clustersltligt ltligtproactively monitor and manage the availability of clusters and associated applicationsltligt ltligtperform performance analysis tuning and provide recommendations on issues and suggest cluster expansion if required ltligt ltligtdefine and drive changes to cohesity data platform to product engineering teams based on feedback from deploymentsltligt ltligtprovide support for issues pertaining to powershell cmdlets and restful apis and provide scripts for automating tasks on cohesity data platformltligt ltligtwork on debugging and resolving technical issues with the centos platformltligt ltbrgtltbrgtltulgtltstronggtltugtrequired skillsltbrgtltugtltstronggtltulgt ltligtbachelors degree with years of experience or masters degree specializing in storage networking or virtualizationltligt ltligtexperience with python bash or powershellltligt ltligtdeep understanding of linux platform and ability to identify and resolve issues with the linux kernel associated with storage networking compute and memoryltligt ltligtability to analyze system diagnostics and clearly articulate issuesltligt ltligtgood understanding of linux debugging utilities with an emphasis on systemtap tcpdump ftrace strace wireshark gdb and crashltligt ltligtgood understand of remote file access protocols including nfs smb cifsltligt ltligtgood understand of storagerelated concepts including virtualization and data protection eg vmware commvault symantec emc netappltligt ltbrgtltbrgtltulgtltstronggtltugtadvantageousltbrgtltugtltstronggtltulgt ltligtexperience working with a distributed file systemltligt ltligtperformance analysis experienceltligt ltligtcentos linux platform architecture experienceltligt ltligtexperience debugging complex serialized multithreaded codeltligt ltbrgtltbrgtltulgtltstronggtltugtdata privacy notice for job candidatesltbrgtltbrgtltugtltstronggtfor information on personal data processing please see our ltstronggtprivacy policyltbrgtltbrgtltstronggtltstronggtequal employment opportunity employer eeoeltbrgtltbrgtltstronggtcohesity is an equal employment opportunity employer all qualified applicants will receive consideration for employment without regard to race color creed religion sex sexual orientation national origin or nationality ancestry age disability gender identity or expression marital status veteran status or any other category protected by lawltbrgtltbrgtif you are an individual with a disability and require a reasonable accommodation to complete any part of the application process or are limited in the ability or unable to access or use this online application process and need an alternative method for applying you may contact us at cohesity or talentcohesitycom for assistanceltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T05:08:58.000Z"
+  },
+  "company": {
+    "name": "Cohesity",
+    "link": "https://www.linkedin.com/company/cohesity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 125000,
+    "max_value": 226000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

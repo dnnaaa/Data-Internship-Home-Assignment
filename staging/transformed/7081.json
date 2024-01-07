@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "",
+    "description": "ltpgtltstronggtdescriptionltstronggtltpgtltulgtltligtperson leaving moving wanted a hybrid modelltligtltligtpython kubernetes containerization terraform ansibleltligtltligtapex downloads used pythonltligtltligthave an sre junior resource offshore partner managing that offshore resourceltligtltligthe was introducing their stack into kubernetes and dockerltligtltligtsetting up new environmentsltligtltligtin charge of their release cicd pipelineltligtltligtbash scriptltligtltligtpython nice to haveltligtltulgtltpgtltstronggtresponsibilitiesltstronggtltpgtltulgtltligtmanage deployments in aws to support workloads and servicesltligtltligtestablish endtoend monitoring and alerting on all critical components of the applications including availability latency and overall system healthltligtltligtparticipate in the oncall rotation supporting the platform andor the production applicationsltligtltligtwork with development teams to make sure applications are production ready scalable and reliable from the ground upltligtltligtperform deployment configuration changes and integration testing of the workload and servicesltligtltligtdebug infrastructureservicesworkloads and provide failureroot cause analysisltligtltligtwrite automation code for provisioning and operating infrastructure at massive scaleltligtltligtwork with security team to remediate security findings and implementing security featuresltligtltulgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligt years of aws experienceltligtltligt year of system engineering experienceltligtltligt years of devops experienceltligtltligtproficient in tool development using one or more programming languages such as java ruby python perl and c passion for eliminating repetitive manual processes using automation and experience with devops automation tools such as terraform ansible helm charts jenkinsgitlab etcltligtltligtexperience with cicd pipeline configuration deployment and supportltligtltligtunderstanding of dbs such as mysql elasticsearchltligtltligtdeep understanding of the linux operating system including kernel memory process threads static shared libraries ipc signalsltligtltligtunderstanding of standard networking protocols and components such as http dns ecmp tcpip icmp the osi model subnetting and load balancing strategiesltligtltligtknowledge of best practices related to security performance and disaster recoveryltligtltligtdocker kubernetes experienceltligtltligtexcellent problem solving and analytical skillsltligtltligthas general security awareness to support security remediation related to infrastructureltligtltligtmust have strong infrastructure backgroundltligtltulgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-01T19:18:45.000Z"
+  },
+  "company": {
+    "name": "InfoObjects Inc.",
+    "link": "https://www.linkedin.com/company/infoobjects-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

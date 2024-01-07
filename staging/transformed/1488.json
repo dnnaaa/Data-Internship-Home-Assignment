@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "locations va mclean united states of america mclean virginialtbrgtltbrgtmachine learning engineerltbrgtltbrgtas a capital one machine learning engineer youll be part of an agile team dedicated toproductionizing machine learning applications and systems at scale youll participate in thedetailed technical design development and implementation of machine learning applicationsusing existing and emerging technology platforms working within an agile environment youllfocus on machine learning architectural design develop and review model and application codeand ensure high availability and performance of our machine learning applications youll havethe opportunity to continuously learn and apply the latest innovations and best practices inmachine learning engineering to keep capital one at the cutting edge of technologyltbrgtltbrgtwe are seeking software engineers who are passionate about marrying data with emerging technologies to join our team as a ltugtcapital one software engineerltugt youll have the opportunity to be on the forefront of driving a major transformation within capital one learn more about ltugtlifeatcapitaloneltugt and our commitment to ltugtdiversity ampamp inclusionltugt by jumping to ltugtslides ltugt on our corporate social responsibility report this requisition is an advertisement for multiple opportunities within our tech organization by applying to this particular role youll also be considered for other roles within capital ones engineering organizationltbrgtltbrgtltstronggtltugtwhat youll do in the roleltbrgtltugtltstronggtltulgtltligtdeliver ml software models and components that solve realworld business problems while working in collaboration with the product and data science teamsltligtltligtsolve complex problems by writing and testing application code developing and validating ml models and automating tests and deployment ltligtltligtcollaborate as part of a crossfunctional agile team to create and enhance software that enables stateoftheart next generation big data and machine learning applicationsltligtltligtleverage cloudbased architectures and technologies to deliver optimized ml models atscale ltligtltligtconstruct optimized data pipelines to feed ml models ltligtltligtuse programming languages like python scala or java ltligtltligtleverage continuous integration and continuous deployment best practices includingtest automation and monitoring to ensure successful deployment of ml models andapplication code ltbrgtltligtltulgtltstronggtltugtbasic qualificationsltbrgtltugtltstronggtltulgtltligtbachelors degree ltligtltligtat least year of experience designing and building dataintensive solutions using distributed computingltligtltligtat least year of experience programming with python scala or java ltligtltligtat least year of machine learning experience with an industry recognized ml framework scikitlearn pytorch dask spark or tensorflow ltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligtexperience developing and deploying ml solutions in a public cloud such as aws azure or google cloud platform ltligtltligtmasters or doctoral degree in computer science electrical engineering mathematics or a similar field ltligtltligt years of experience working with large code bases in a team environmentltligtltligt years of experience with distributed file systems or multinode database paradigms ltligtltligtcontributed to open source ml softwareltligtltligt years of experience building productionready data pipelines that feed ml modelsltbrgtltligtltulgtat this time capital one will not sponsor a new applicant for employment authorization for this positionltbrgtltbrgtjob category information technology engineering technology explorers technology explorers",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T18:16:22.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85900,
+    "max_value": 175000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

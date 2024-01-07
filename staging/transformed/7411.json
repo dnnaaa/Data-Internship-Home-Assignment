@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "airtable is a missioncritical system for a diverse set of teams and industries we build our platform to scale stay resilient and deliver delightful user experience all around our infrastructure requires thorough thinking deep research into how things work and rigorous coding our mission is ambitious but we like to keep our infrastructure simpleltbrgtltbrgtas one of the first dedicated site reliability engineers at airtable you will play a critical role in scaling and refining our operational practices site reliability engineering begins with building solid automation across the software delivery process including configuration provisioning testing deployment and beyond sres will also work with software engineers to help understand the way their code behaves in production and build nontrivial internal tooling to enable this we also strive for a strong security posture and sre will help define and implement operational practices that protect our users lastly of course our operations team is the last line of defense when incidents happen and sres will be part of the team that responds to themltbrgtltbrgtltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtautomate everything deploys rollbacks database provisioning failovers and everything in betweenltligtltligtdesign and implement monitoring tooling across the stack and optimize systems for uptime performance and reliability based on the data gathered by this toolingltligtltligtdesign and write tests that investigate how our infrastructure handles failure and scalingltligtltligtresearch hotoffthepress cves and implement best practicesltligtltligtbuild occasional product features as appropriateltligtltligtwrite solid maintainable code including a lot of javascript for all of the aboveltligtltligtmanage our elasticsearch clusterltbrgtltligtltulgtltstronggtltugtwho you areltbrgtltugtltstronggtltulgtltligtyoure painfully thorough whether its scripting bulletproof deployment automation writing a recovery playbook that an engineer can follow without fail at am or digging into logs and monitoring data to find the root of a problemltligtltligtyoure ok carrying a pager and take it seriously but you take pride when the pager hasnt rung in the past weekltligtltligtyouve worked with linux containersnamespaces and system automation tools for unix and cloud platformsltligtltligtyou have years of relevant technical experience including significant experience with site reliabilitydevops or server infrastructure engineeringltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-06T18:10:11.000Z"
+  },
+  "company": {
+    "name": "Airtable",
+    "link": "https://www.linkedin.com/company/airtable"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

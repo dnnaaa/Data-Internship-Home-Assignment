@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "ltstronggtltugtorganization summaryltbrgtltbrgtltugtltstronggtif you love the pursuit of excellence and are inspired by the challenges that come through driving innovations that impact how the world lives works and plays then we invite you to learn more about microsoft operations and the value we deliver across microsoft and to our customers and partners we offer unique opportunities to work on interesting global projects in an environment that appreciates diversity focuses on talent development and recognizes and rewards great workltbrgtltbrgtwe make doing business with microsoft easyltbrgtltbrgtltstronggtltugtposition descriptionltbrgtltbrgtltugtltstronggtthe microsoft business operations data engineering team is looking for a talented site reliability engineer to design build ampamp operate business oriented services for microsoftltbrgtltbrgtthe successful candidate will be at ease leading the architecture for the next generation of data engineering platform as we move into paas performance tuning sql and ssas troubleshooting across complex distributed systems and leading incident investigations ampamp capable of identifying root cause in a complex distributed environmentltbrgtltbrgtltstronggtltugtrelated technologyltbrgtltugtltstronggtltulgtltligtbig data technologies data bricks kusto kensholtligtltligtsql server ssas ssis ssrsltligtltligtazure sqlltligtltligtsql datawarehouse synapseltligtltligtazure infrastructure iaas paasltligtltligtpowershell shell scriptsltligtltligtmonitoring tools such as app insights log analytics kusto genevaltligtltligtazure devopsltligtltligttsql sql azure mssqlltligtltligtdaxmdx queryingltligtltligtnet and c ltbrgtltligtltulgtltstronggtltugtresponsibilitiesltbrgtltbrgtltugtltstronggtltstronggtresponsibilitiesltbrgtltstronggtltulgtltligtconduct troubleshooting and determine root cause of complex cross product issues adf data bricks sql server ssas ssrs powerbi power platform etcltligtltligtconduct performance analysistuningltligtltligtensure accurate service capacity planningltligtltligtbuild tools develop efficient support processes ampamp contribute to our knowledge baseltligtltligtplan ampamp conduct proof of concept projects with new technology ampamp processesltligtltligtbuild optimize monitoring ampamp selfhealing capabilitiesltligtltligtcollaborate at depth with peers in development ampamp program managementltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtltstronggtbasic qualifications must be quantitativeltbrgtltstronggtltulgtltligtdegree in computer science or similar subject data science it business intelligence data warehousing math statistics or relevant industry experience equivalent to a degreeltligtltligt years experience in site reliability service engineering or an operations team delivering industryleading technical solutions with the highest qualityltligtltligt years experience writing code in c or a similar high level languageltligtltligt years experience writing scripts in powershell or a similar scripting languageltligtltligt years of experience with itil mof or other industry standard operations support frameworkltligtltligt years knowledge experience with devopsltligtltligt years experience working in an agile environment scrum etcltligtltligt years experience with continuous delivery ampamp configuration managementltligtltligt years experience with telemetry instrumentation monitoring ampamp alertingltligtltligtstrong analytical capabilitiesltligtltligtability to manage multiple priorities commitments ampamp projectsltligtltligta passion for customer experience ampamp usability including successful delivery of customer selfservice tools ampamp automated managementoptimization of servicesltbrgtltligtltulgtltstronggtltugtpreferred qualifications can be quantitative ampamp qualitativeltbrgtltbrgtltugtltstronggtit is desirable that you have one or more of the following msft certificationsltbrgtltulgtltligtazure infrastructureltligtltligtazure architectureltligtltligtsql server administrationltligtltligtwindows server administrationltbrgtltligtltulgtmicrosoft is an equal opportunity employer all qualified applicants will receive consideration for employment without regard to age ancestry color family or medical care leave gender identity or expression genetic information marital status medical condition national origin physical or mental disability political affiliation protected veteran status race religion sex including pregnancy sexual orientation or any other characteristic protected by applicable laws regulations and ordinances we also consider qualified applicants regardless of criminal histories consistent with legal requirements if you need assistance andor a reasonable accommodation due to a disability during the application or the recruiting process please send a request via the accommodation request formltbrgtltbrgtbenefitsperks listed below may vary depending on the nature of your employment with microsoft and the country where you work",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T02:43:13.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

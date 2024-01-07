@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Infrastructure",
+    "industry": "Internet",
+    "description": "ltpgtgoal to facilitate and empower every teamindividual managing services at scale scope this team manages all infra services across bytedance as well as tiktok operation in the us as the team is ramping up it is very operationheavy and now we are moving into a future of automationcodeheavy projects we would like to automate ourselves out of work responsibilities build and maintain our advanced compute network and storage infrastructure build automation to manage and monitor infrastructure services and applications experience in configuration management and infrastructure provisioning tech chef puppet ansible terraform experience or strong knowledge on storage concepts objectblockfile storage nfs compute concepts different os environments virtualization networking concepts dns http tcp udp ip database concepts mysqlpostgresql databases linux serversltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T22:52:53.000Z"
+  },
+  "company": {
+    "name": "TikTok",
+    "link": "https://www.linkedin.com/company/tiktok"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

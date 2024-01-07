@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Mechanical or Industrial Engineering",
+    "description": "spacex was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not today spacex is actively developing the technologies to make this possible with the ultimate goal of enabling human life on marsltbrgtltbrgtltstronggtsite reliability engineer starlink ltbrgtltbrgtltstronggtwant to build the next era of the internet want to develop the infrastructure necessary to operate thousands of satellites in space and bring high speed broadband to every corner of the world spacex is looking for an experienced site reliability engineer to design operate and scale the infrastructure we use to run starlink a global isp and the worlds largest satellite constellation we have no shortage of hard problems and challenges the ideal candidate will be flexible possess broad skills across product operations and software development and flourish in a fastpaced and challenging environmentltbrgtltbrgtltstronggtresponsibilitiesltbrgtltstronggtltulgtltligtdevelop automation to deploy and manage compute resources both onpremises and in the cloudltligtltligtdeploy and manage core infrastructure such as databases monitoring and storageltligtltligtclosely collaborate with software engineers to create highly scalable operable and maintainable productsltligtltligtengage in and improve the whole lifecycle of services from inception and design through deployment operation and refinement ltbrgtltligtltulgtltstronggtbasic qualifications ltbrgtltstronggtltulgtltligt years of site reliability or devops experienceltligtltligt years of experience with linux operating systemsltligtltligtexperience with terraform ansible or other infrastructure toolsltligtltligtexperience with containerization technologies ie docker kubernetes etcltligtltligtautomation experience in bash python andor other scripting languagesltligtltligtexperience with source code and version control tools such as gitltbrgtltligtltulgtltstronggtpreferred skills and experienceltbrgtltstronggtltulgtltligtbachelors degree in computer science information systemsit or an engineering disciplineltligtltligt years of systems administration site reliability engineering or devops experienceltligtltligt years of experience with python and pythonbased development frameworksltligtltligtstrong understanding of docker vagrant and kubernetes or similar technologiesltligtltligtstrong understanding of virtualization and hypervisor technologiesltligtltligtunderstanding of databases and data modelingltligtltligtexperience with automatically managing dozens or hundreds of serversltligtltligtfocus on performance bottlenecks and performance improvement techniquesltligtltligtstrong networking knowledge of tcpipltligtltligtmust be comfortable working with mission critical with a sense of urgency appropriate to the responsibilitiesltligtltligtexcellent communications skills with the ability to communicate with customers peers management etc in both formal and informal situationsltbrgtltligtltulgtltstronggtadditional requirementsltbrgtltstronggtltulgtltligtability to work long hours and weekends as necessaryltbrgtltligtltulgtltstronggtitar requirementsltbrgtltstronggtltulgtltligtto conform to us government space technology export regulations including the international traffic in arms regulations itar you must be a us citizen lawful permanent resident of the us protected individual as defined by usc ba or eligible to obtain the required authorizations from the us department of state learn more about the itar here ltbrgtltligtltulgtspacex is an equal opportunity employer employment with spacex is governed on the basis of merit competence and qualifications and will not be influenced in any manner by race color religion gender national originethnicity veteran status disability status age sexual orientation gender identity marital status mental or physical disability or any other legally protected statusltbrgtltbrgtapplicants wishing to view a copy of spacexs affirmative action plan for veterans and individuals with disabilities or applicants requiring reasonable accommodation to the applicationinterview process should notify the human resources department at",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T05:08:33.000Z"
+  },
+  "company": {
+    "name": "SpaceX",
+    "link": "https://www.linkedin.com/company/spacex"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

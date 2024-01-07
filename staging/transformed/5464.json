@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Telecommunications",
+    "description": "ltpgtltstronggtabout the roleltstronggtltpgtltpgtwe are looking for our next extraordinaryampnbspltstronggtltemgtsite reliability engineer ltemgtltstronggtto level up ourampnbspltstronggtltemgttechops teamltemgtltstronggtltpgtltpgtas a sre you have the mind of a software engineer and the soul of a systems administrator you are the guardian angel of our systems infrastructure you have no trouble communicating your take on problems that arise enterprise and network administration are in your dna and you have the blood test to prove it or maybe just the experience that works too your time would be split between writing code and operationalizing infrastructure aka scripting yourself out of a jobltpgtltpgtyour usual day of awesomeness includesampnbspampnbspltpgtltulgtltligtmaintain the core infrastructureltligtltligtdebug software at the code and infrastructure levelltligtltligtsoftware development to help support production code and bring automation to routine tasksltligtltligtcollaborate with engineers in the deployment and scaling of new product featuresltligtltligtarchitect scalable reliable solutions for business requirementsltligtltligtmaintain services once they are live by measuring and monitoring availability latency and overall system healthltligtltligtcreate documentation and diagrams of systems and processesltligtltligtinvestigate production incidents help determine contributing factors implement fixes and write blameless postmortemsltligtltligtarchitect create and implement automation into our sdlcltligtltligtbe responsible for configuration management tools and monitoring strategyltligtltligtunderstand production call flows to support incident managementltligtltligthelp meet objectives for the business by interacting with other teams within the organizationltligtltulgtltpgtltugttechnologies youll work withltugtltpgtltulgtltligtnodejs golang pythonltligtltligtgit cicd toolsltligtltligtdocker kubernetesltligtltligtterraformltligtltligtaws lambdas ec kinesis s route rds dynamo and many othersltligtltligtelkltligtltligtdatadog bitbucket jiraltligtltligtweb servers apachenginxvarnishltligtltligtnosql dbsltligtltligtsql rds auroramssqlpsqlltligtltligtcm tools like ansibleltligtltligthttp tlssslltligtltligtlinuxltligtltligtnetwork routing and firewallsltligtltulgtltpgtltstronggtwhat you bringltstronggtltpgtltulgtltligtsoftware engineering nodejs preferredltligtltligtscripting in bash pythonltligtltligtexperience with designingmaintaining linux based systemsltligtltligtmonitoring production systemsltligtltligtexperience with aws and cloud hostingltligtltligtunderstanding of system and network security best practicesltligtltligtmonitoringalarming complex systemsltligtltligtadvanced troubleshooting and fault isolation skillsltligtltligthighly collaborative with effective written and verbal communication skillsltligtltulgtltpgtltbrgtltpgtltpgtltstronggtour values lets make life ultra togetherltstronggtltpgtltulgtltligtltstronggtownershipltstronggtampnbspwe are all owners be the outcome and get the job doneltligtltligtltstronggtaction biasedltstronggtampnbspbe brilliant proactive and act with urgencyltligtltligtltstronggtembrace the adventureltstronggtampnbspbe agile adaptive and thrive on changeltligtltligtltstronggtinvent and simplifyltstronggtampnbspnever accept good enoughltligtltulgtltpgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T04:24:33.000Z"
+  },
+  "company": {
+    "name": "Ultra Mobile",
+    "link": "https://www.linkedin.com/company/ultra-mobile"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Cloud Operations Engineer/ Site Reliability Engineer (Remote, USA)",
+    "industry": "Information Technology and Services,Computer Software,Computer Networking",
+    "description": "ltstronggtltugtcompany descriptionltbrgtltbrgtltugtltstronggtactivevideo is a silicon valley company that harnesses the power of the cloud to accelerate multiplatform television experiences and is the developer of appcloud and cloudtv cloudbased software virtualization platforms that enables service providers content aggregators and ce manufacturers to deliver the latest tv experiences to millions of settops and connected devices we are based in san jose ca with an office in hilversum the netherlandsltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtas a cloud operations engineer at activevideo you will use leading edge technologies to build deploy operate and maintain configuration management and orchestration routines to deliver and scale applications and services in virtualized environments and in the cloud as part of a small geographically distributed cloud operations team we are committed to delivering bestinclass system uptime and operations observability through automation and instrumentationltbrgtltbrgtthis is a key technical role within the cloud platform and operations organization that interfaces closely with the cloud infrastructure development teams product and customer engagement teams the ideal candidate is a selfstarter with a strong focus on collaboration automation continuous improvement and an innovative mindset that will lead to operational efficiencies and increased compliance the candidate must have a trackrecord of managing live productions environments with strict availability targets and extensive experience building automation to support continuous software releasesltbrgtltulgtltligtdeliver configuration management and orchestration routines to deploy and scale applications and services in aws running a microservice architecture on kubernetes operating and maintaining these systems in production and critical user facing environments ltligtltligtsupport product development teams in the delivery of continuous integration continuous deployment providing templates and patterns to follow to ensure code produced by product development teams is deployed and scaledltligtltligtperform root cause analysis for production issues whether the root cause is in infrastructure environment configuration application or deployment routines understand when to escalate to product development teams remediate root causes and implement preventative actionsltligtltligtparticipate in oncall rotation and afterhours maintenance when necessary respond to major incidents and participate in bridge calls in support of initiatives and incident responseltligtltligtactively collaborate with the product development teams and qa teams to build automated testing and monitoring of deployments implementing and utilizing different deployment methodologies such as canary or blue greenltligtltligtrevamp and continuously optimize application release cycles as production environments and product suite scalesltligtltligtparticipate in change management activities which include reviews approvals rollback plans and live operations transitionltligtltligtapplying automation where possible to reduce manual and repetitive tasksltligtltligtarchitect and implement monitoring reporting alerting and centralized dashboarding solutions for proactive event detection to increase uptime and application performance and reduce failuresltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltugtltstronggtltulgtltligt years of experience as a sre operating a public cloud platformltligtltligt years experience working with configuration management and orchestration technologies such as cloud formation ansible or comparableltligtltligtexperience managing and launching cloudnative applications in docker containers with kubernetes orchestration using helmltligtltligtextensive knowledge of troubleshooting in a linux and kubernetes environment using tools like splunk prtg datadog new relic etcltligtltligtexperience launching multiple deployment strategies in live production environmentsltligtltligtknowledge of application performance and monitoringltligtltligtknowledge of cloud infrastructure principles including infrastructure as codeltligtltligtindepth knowledge of cicd tools and methodologies examples bamboo jenkins artifactory or similarltligtltligtproficiency in python bash or other programming languageltligtltligtability to quickly learn new and existing technologiesltligtltligtability to work in fast paced and dynamic environmentltligtltligtstrong written and verbal communication skillsltligtltligtaws associate certificationltbrgtltligtltulgtltstronggttravel and location requirementsltbrgtltstronggtltulgtltligt ability to travel to activevideo locations on occasionltbrgtltligtltulgtadditional informationltbrgtltbrgtyoull become part of a team consisting of strong deliveryminded technologists the culture is highly informal and our structure flat this enables our employees to be flexible and to research their ideas and of course we offer a competitive package with competitive salaries medical dental vision life k and pto starting at days for the first year of serviceltbrgtltbrgtweampaposre an equal opportunity employer all applicants will be considered for employment without attention to race color religion sex sexual orientation gender identity national origin veteran or disability status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:00:00.000Z"
+  },
+  "company": {
+    "name": "ActiveVideo",
+    "link": "https://www.linkedin.com/company/activevideo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Miami",
+    "region": "FL",
+    "postal_code": "33299",
+    "street_address": null,
+    "latitude": 25.775084,
+    "longitude": -80.1947
+  }
+}

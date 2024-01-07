@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtltstronggtposition overviewltbrgtltbrgtltstronggtour machine learning team is seeking an experienced senior machine learning engineer the team is in need of someone who is a skilled software engineer and proficient in ml libraries system design and pipelines as a machine learning engineer you will be building stateoftheart models for our products using test driven development and working with the software engineering team to deploy and maintain the models in productionltbrgtltbrgtltstronggtltugtjob dutiesresponsibilitiesltbrgtltugtltstronggtltulgtltligtdesign train and deliver machine learning solutions to a wide range of datasets from small datasets to big data time series to d matrices both unlabeled and labeled ltligtltligtcollaborate with the development team and ml engineers to implement test and validate new algorithms and integrate the algorithms with the existing frontend and backend systems ltligtltligtbuild stateoftheart models for various modeling tasks eg time series forecasting spatiotemporal and trafficlogistic ltligtltligtoptimize and automate model training and testing experimentation tracking development and production ltligtltligtskilled in breaking down problems documenting problem statements and estimating efforts ltligtltligtmentor junior engineers perform code reviews and document design decisions ltligtltligtcreate web servicesapis for serving mlai model results ltbrgtltligtltulgtltstronggtltugtminimum qualificationsltbrgtltugtltstronggtltulgtltligtphd or ms in computer science electrical engineering or similar field ltligtltligt years of experience with one modern language such as java c python including objectoriented design ltligtltligt years of experience with machine learning tools and deep learning algorithms and techniques including but not limited to ltligtltligtpytorch tensorflow keras ltligtltligtcnn lstm rnn ltligtltligtscikitlearn pandas numpy ltligtltligtoptimization techniques and finetuning models ltligtltligt years of experience contributing to the architecture and design architecture design patterns reliability and scaling of new and current systems ltligtltligtexperience with mlops and other production level implementation frameworks and pipelines ltligtltligtexperience with messaging systems docker kubernetes spark emr and cloud platforms aws or azure ltligtltligtable to work independently on problems and in highly collaborative team environments ltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligtteam management and mentoring junior members ltligtltligtgraphbased machine learning ltligtltligtresearch experience with high impact publications ltligtltligtapplication of ml in industrial projectsltligtltulgtltstronggtplease note due to covid all positions at beyond limits are currently remote however once our offices are fully reopened most work is expected to be performed inperson at our main headquarters in glendale caltbrgtltbrgtltstronggtltstronggtltugtabout beyond limitsltbrgtltbrgtltugtltstronggtbeyond limits is a pioneering artificial intelligence engineering company creating advanced software solutions that go beyond conventional ai founded in with a legacy in space exploration beyond limits is transforming proven technologies from caltech and nasas jet propulsion laboratory into advanced ai solutions hardened to industrial strength and put to work for forwardlooking companies on earth we leverage this unparalleled innovation portfolio along with proprietary cognitive technologies to help companies solve tough complex missioncritical problems and transform their business we apply a unique hybrid approach to ai combining numeric ai techniques like machine learning with higherorder symbolic ai and expert human knowledge to deliver intuitive cognitive reasoning and information our cognitive computing technology mimics human thought processes and provides explainable reasoning to aid humanlike decisionmakingltbrgtltbrgtbeyond limits provides equal employment opportunities eeo to all employees and applicants for employment without regard to race color religion sex national origin age disability or genetics in addition to federal law requirements beyond limits complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities this policy applies to all terms and conditions of employment including recruiting hiring placement promotion termination layoff recall transfer leaves of absence compensation and trainingltbrgtltbrgtbeyond limits expressly prohibits any form of workplace harassment based on race color religion gender sexual orientation gender identity or expression national origin age genetic information disability or veteran status improper interference with the ability of beyond limits employees to perform their job duties may result in discipline up to and including discharge",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-05T04:57:13.000Z"
+  },
+  "company": {
+    "name": "Beyond Limits",
+    "link": "https://www.linkedin.com/company/beyond-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Glendale",
+    "region": "CA",
+    "postal_code": "91205",
+    "street_address": null,
+    "latitude": 34.148136,
+    "longitude": -118.24644
+  }
+}

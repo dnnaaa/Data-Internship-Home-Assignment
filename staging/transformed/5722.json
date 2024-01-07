@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Data Engineer",
+    "industry": "Airlines/Aviation",
+    "description": "ltpgtltstronggtjob responsibilitiesltbrgtltbrgtltstronggtltpgtltulgtltligtwork closely with source data application teams and product owners to design implement and support analytics solutions that provide insights to make better decisionsltligtltligtimplement data migration and data engineering solutions using azure products and services azure data lake storage azure data factory azure functions event hub azure stream analytics azure databricks etc and traditional data warehouse toolsltligtltligtperform multiple aspects involved in the development lifecycle design cloud engineering infrastructure network security and administration ingestion preparation data modeling testing cicd pipelines performance tuning deployments consumption bi alerting prod supportltligtltligtprovide technical leadership and collaborate within a team environment as well as work independentlyltligtltligtbe a part of a devops team that completely owns and supports their productltligtltligtimplement batch and streaming data pipelines using cloud technologiesltligtltligtleads development of coding standards best practices and privacy and security guidelinesltligtltligtmentors others on technical and domain skills to create multifunctional teamsltligtltulgtltpgtltbrgt ltstronggtminimum qualifications education ampamp prior job experienceltbrgtltbrgtltstronggtltpgtltulgtltligtbachelors degree in computer science computer engineering technology information systems cismis engineering or related technical discipline or equivalent experiencetrainingltligtltligt years software solution development using agile devops operating in a product model that includes designing developing and implementing largescale applications or data engineering solutionsltligtltligt years data analytics experience using sqlltligtltligt years of cloud development and data lake experience prefer microsoft azure including azure eventhub azure data factory azure databricks azure devops azure blob storage azure data lake azure power apps and power biltligtltligtcombination of development administration ampamp support experience in several of the following toolsplatforms required ltulgtltligtscripting python spark unix sqlltligtltligtdata platforms teradata cassandra mongodb oracle sql server adls snowflake azure data explorer administration skills a plusltligtltligtazure cloud technologies azure data factory azure databricks azure blob storage azure data lake azure power apps and azure functionsltligtltligtcicd github jenkins azure devops terraformltligtltligtbi analytics tool stack cognos tableau power bi alteryx denodo and grafanaltligtltligtdata warehousing datastage informaticaltligtltligtdata governance and privacy informatica axon and edc bigidltligtltulgtltligtltulgtltpgtltbrgt ltstronggtpreferred qualifications education ampamp prior job experienceltbrgtltbrgtltstronggtltpgtltulgtltligt years software solution development using agile dev ops product model that includes designing developing and implementing largescale applications or data engineering solutionsltligtltligt years data analytics experience using sqlltligtltligt years fullstack development experience preferably in azureltligtltligt years of cloud development and data lake experience prefer microsoft azure including azure eventhub azure data factory azure functions adx asa azure databricks azure devops azure blob storage azure data lake azure power apps and power biltligtltligtairline industry experienceltligtltulgtltpgtltbrgt ltstronggtskills licenses ampamp certificationsltbrgtltbrgtltstronggtltpgtltulgtltligtexpertise with the azure technology stack for data management data ingestion capture processing curation and creating consumption layersltligtltligtexpertise in providing practical direction within the azure native cloud servicesltligtltligtazure development track certification preferredltligtltligtspark certification preferredltligtltulgtltpgtltbrgt ltstronggtltbrgtltbrgtltstronggtltpgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:22:51.000Z"
+  },
+  "company": {
+    "name": "Ntelicor",
+    "link": "https://www.linkedin.com/company/ntelicor"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Worth",
+    "region": "TX",
+    "postal_code": "76116",
+    "street_address": null,
+    "latitude": 32.749905,
+    "longitude": -97.33034
+  }
+}

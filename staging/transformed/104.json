@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior C++ Software Engineer",
+    "industry": "Financial Services",
+    "description": "ltstronggtjob purposeltbrgtltbrgtltstronggtice data services the premier provider of realtime market data from around the world is looking for a senior c software engineer our team is comprised of experts in software development network programming performance optimizations and tools development the individual will join the ids news and content team and will be responsible for developing solutions to distribute news headlines and contributed content into the ice connect platform the ice connect platform products and tools process and distribute market data from around the globe servicing streaming realtime quotes and charts using cutting edge caching and time series databaseltbrgtltbrgtthe ideal candidate should be a highly motivated individual with a proven background in system design and development additionally the candidate should possess solid knowledge of serverside technologies good experience with iterative development and sdlc tools and the ability to work well with othersltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgt ltligt understand complex business systems and workflows and explain them to other developers ltligt ltligt exercise judgment within defined standard practices and procedures to analyze test design program debug modify and implement system requirements ltligt ltligt work closely with the business units and stakeholders on gathering and understanding system requirements ltligt ltligt plan and estimate the development for key components applications and systems ltligt ltligt balance design considerations with delivering specified requirements ltligt ltligt solve business problems through the use of applied proven technologies ltligt ltligt work with system operations database administration and systems software in production support and defining system recovery procedures ltligt ltligt develop high performance and business critical applications that work on large data sets in a clustered environment ltligt ltligt identify root causes and develop solutions for program failures ltligt ltligt collaborate with business analysts and qa analysts in the design and execution of business feature regression and integration testing ltligt ltligt plan and execute unit tests to ensure the developed code is free of functional defects ltligt ltbrgtltbrgtltulgtltstronggtltugtknowledge and experienceltbrgtltugtltstronggtltulgt ltligt bachelors degree or equivalent in computer science or related field ltligt ltligt years of c development experience for windows ltligt ltligt mssql relational database experience ltligt ltligt strong understanding of modern c ampamp stl up to and including c ltligt ltligt multithreaded application development experience ltligt ltligt demonstrable experience in design and system architecture ltligt ltligt strong interpersonal skills and ability to work well in a team environment ltligt ltbrgtltbrgtltulgtltstronggtltugtpreferredltbrgtltugtltstronggtltulgt ltligt exposure to the financial services technologies domain ltligt ltligt experience with test automation software ltligt ltligt experience with distributed storage solutions andor nosql databases ltligt ltligt experience with scripting language bash powershell python ltligt ltbrgtltulgtintercontinental exchange inc is an equal opportunity and affirmative action employer all qualified applicants will receive consideration for employment without regard to race color religion gender sexual orientation gender identity national origin or ancestry age disability or veteran status or other protected statusltbrgtltbrgtadditional informationltbrgtltulgt ltligt job type standard ltligt ltligt schedule fulltimeltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:12:26.000Z"
+  },
+  "company": {
+    "name": "ICE",
+    "link": "https://www.linkedin.com/company/icemarkets"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103000,
+    "max_value": 143000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

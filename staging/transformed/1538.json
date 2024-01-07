@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "harperdb is looking for a software engineerltbrgtltbrgtlocation remoteusa onlydenverltbrgtltbrgtsalary k k equityltbrgtltbrgtbenefits healthcare vision dental k unlimited pto flexible working hoursltbrgtltbrgtharperdb is looking for a software engineer who is interested in working on harperdb core which is written in nodejs this role entails working on all aspects of harperdb core including product install our data storage layer distributed data replication restful interface and all areas in between we are looking for someone early in their career who is eager to learn and grow in the roleltbrgtltbrgtharperdb is a distributed database focused on making developers lives easier while delivering easy to use tools that help reduce global data latency we are primarily focused on gaming media and ecommerce use cases but also work with customers in other areasltbrgtltbrgtwe highly value transparency focus accountability and kindness in our team we try our best to be good humans we work very hard but also believe strongly in supporting a healthy work life balance we value creativity and flexibility of thinking we believe in finding good people and helping them grow in their careers our team is fully remote currently with no plans to return to an office we are mainly in the denver area but have teammates spread out across the usltbrgtltbrgtharperdb is experiencing massive growth which is fun and exciting but also intense we are looking for someone who is a good team player wants to help harperdb scale and build new products and services we are a startup which comes with a lot of fun innovation and flexibility but also means that sometimes priorities shift on a dime that we are a small scrappy team and that sometimes we need help outside core hoursltbrgtltbrgtif you are not scared away yet please send your resumeltbrgtltbrgtltstronggtltugtrequirementsltbrgtltbrgtltugtltstronggtwe are looking for someone who generally fits the skillset below but open to helping the right candidate learn in areas where they might lack experienceltbrgtltbrgtltstronggtltugtrequiredltbrgtltugtltstronggtltulgt ltligtnodejs developmentltligt ltligtexperiencing using sql and nosql databasesltligt ltligtexperience building restful interfacesltligt ltligtfamiliarity with version control and other development toolsltligt ltligtminimum years professional experienceltligt ltbrgtltulgtbonus pointsltbrgtltulgt ltligtexperience with websockets or other pubsub based communication protocolsltligt ltligtexperience with docker kubernetesltligt ltligtexperience using cloud services aws azure gcpltligt ltligtexperience with linux based osltligt ltbrgtltbrgtltulgtltugtltstronggtbenefitsltbrgtltbrgtltstronggtltugtsalary k k equityltbrgtltbrgtbenefits healthcare vision dental k unlimited pto flexible working hours",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T03:29:48.000Z"
+  },
+  "company": {
+    "name": "HarperDB, Inc.",
+    "link": "https://www.linkedin.com/company/harperdbinc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

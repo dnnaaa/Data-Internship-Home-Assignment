@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Remote",
+    "industry": "Financial Services,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "position descriptionltbrgtltbrgtthis is a full time remote position within the united statesltbrgtltbrgtmayo clinic is seeking a software engineer to design and build backend services that support our portfolio of datacentric clinical and analytic applications these applications leverage cloud computing big data mobile data science data warehousing machine learning using state of the art software development applications and frameworks our software engineers ensures that these cloudbased microservices adhere to uptime and accuracy targets are resilient and scale as data volumes and traffic increase they work closely with the data engineering platform and solutions teams to develop applications as required to benefit our practice and patientsltbrgtworks closely with the product owners product managers architects to translate requirements into code developing services around data warehousing big data cloud computing business intelligence analytics and machine learning participate in devops agile continuous development and integration frameworks programming in highlevel languages such as go python java etc work on deployment automationconfiguration management with tools including but not limited to ado puppet chef or ansible or azure pipelines cloudformation terraform following a devops model ensure all appropriate documentation of processes and source code is created and maintained communicate effectively with peers leaders and customers throughout the organization participate in expert level troubleshooting and resolve problems through root cause analysis data and system investigation continues to build knowledge of the organization processes and customers performs a range of mainly straightforward assignments uses prescribed guidelines or policies to analyze and resolve problems receives a moderate level of guidance and directionltbrgtltbrgtmayo clinic will not sponsor or transfer visas for this positionltbrgtltbrgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtbachelors degree in computer scienceengineering or related fieldltbrgtltulgtltligt have working knowledge and experience of software engineering with a minimum of internships and a minimum of yr of experience or yrs of experience coding applications or services in a highlevel language c c golang java c etcltligtltligt demonstrated problem solving and time management skillsltligtltligt possesses strong technical aptitude for designing and implementing software solutionsltligtltligt experience with modern application development frameworksltligtltligt knowledge of professional software engineering practices ampamp best practices for the full software development life cycle including coding standards code reviews source control management build processes testing and operationsltligtltligt deep handson technical expertise excellent verbal and written communication skillsltligtltligt experience with agile software development techniquesltbrgtltligtltulgtltstronggtltugtadditional qualificationsltbrgtltbrgtltugtltstronggtpreferred qualifications for this position includeltbrgtltulgtltligt ability to use a wide variety of opensource technologies and cloudbased servicesltligtltligt experience with google and azure cloud environmentsltligtltligt experience in databases analytics big data systems or business intelligence productsltligtltligt experience with building highperformance highly available and scalable distributed systemsltligtltligt experience developing software for healthcare related industriesltbrgtltligtltulgtsite descriptionltbrgtltbrgtmayo clinic is located in the heart of downtown rochester minnesota a vibrant friendly city that provides a highly livable environment for more than mayo staff and students the city is consistently ranked among the best places to live in the united states because of its affordable cost of living healthy lifestyle excellent school systems and exceptionally high quality of lifeltbrgtltbrgtcompensation detailltbrgtltbrgtrequired education experience and tenure may be considered along with internal equity when job offers are extended the salary range every weeks is approx based on a fulltime positionltbrgtltbrgtequal opportunity employerltbrgtltbrgtas an affirmative action and equal opportunity employer mayo clinic is committed to creating an inclusive environment that values the diversity of its employees and does not discriminate against any employee or candidate women minorities veterans people from the lgbtq communities and people with disabilities are strongly encouraged to apply to join our teams reasonable accommodations to access job openings or to apply for a job are available",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T03:52:11.000Z"
+  },
+  "company": {
+    "name": "Mayo Clinic",
+    "link": "https://www.linkedin.com/company/mayo-clinic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81300,
+    "max_value": 120000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rochester",
+    "region": "MN",
+    "postal_code": "55901",
+    "street_address": null,
+    "latitude": 44.019333,
+    "longitude": -92.45887
+  }
+}

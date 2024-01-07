@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Telecommunications,Financial Services",
+    "description": "dish is a fortune company with more than billion in annual revenue that continues to redefine the communications industry our legacy is innovation and a willingness to challenge the status quo including reinventing ourselves we disrupted the paytv industry in the mids with the launch of the dish satellite tv service taking on some of the largest us corporations in the process and grew to be the fourthlargest paytv provider we are doing it again with the first live internetdelivered tv service sling tv that bucks traditional paytv norms and gives consumers a truly new way to access and watch televisionltbrgtltbrgtnow we have our sights set on upending the wireless industry and unseating the entrenched incumbent carriersltbrgtltbrgtwe are driven by curiosity pride adventure and a desire to win its in our dna were looking for people with boundless energy intelligence and an overwhelming need to achieve to join our team as we embark on the next chapter of our storyltbrgtltbrgtopportunity is here we are dishltbrgtltbrgtwe are currently looking for an innovative data scientist to add to our customer experience operations cxo team reporting to the sr manager voc the individual will be responsible for creating value from data the ideal candidate will help us discover information hidden in vast amounts of data and help us make smarter decisions to deliver products and processes that enhance both agent and customer experience your primary focus will be in applying data mining techniques doing statistical analysis and building high quality prediction systems integrated with our internally used products from ticketing systems to crms etc areas of focus on the voc team are centered on analyzing text from surveys chats social and calls to see why customers are contacting us and presenting those findings to improve experienceprocesses additionally the role will support the journey team through the use of time based models or other methodsltbrgtltbrgtltstronggtltugtprimary responsibilitiesltbrgtltugtltstronggtltulgtltligt selecting features building and optimizing classifiers using machine learning techniquesltligtltligtdata mining using stateoftheart methods ltligtltligtextending companys data with third party sources of information when neededltligtltligtenhancing data collection procedures to include information that is relevant for building analytic systemsltligtltligtprocessing cleansing and verifying the integrity of data used for analysisltligtltligtdoing adhoc analysis and presenting results in a clear manner ltbrgtltbrgtltligtltulgtltstronggt to be successful in this role our ideal candidate will have ltbrgtltstronggtltulgtltligt msphd preferably in computer science mathematics or statistics three years of related experience andor training or equivalent combination of education and experience ltligtltligtexcellent understanding of machine learning techniques and algorithms such as knn naive bayes svm decision forests etcltligtltligtexperience with common data science toolkits such as r weka numpy matlab etc excellence in at least one of these is highly desirableltligtltligtgreat communication skillsltligtltligtexperience with data visualization tools such as djs ggplot etcltligtltligtproficiency in using query languages such as sql hive pigltligtltulgt compensation yr yrltbrgtltbrgtfrom versatile health perks to new career opportunities check out our benefits on our careers website ltbrgtltbrgtemployment is contingent on successful completion of a preemployment screen which may include a drug test",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:16:38.000Z"
+  },
+  "company": {
+    "name": "DISH Network",
+    "link": "https://www.linkedin.com/company/dish-network"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 72300,
+    "max_value": 139000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood",
+    "region": "CO",
+    "postal_code": "80110",
+    "street_address": null,
+    "latitude": 39.649437,
+    "longitude": -104.98891
+  }
+}

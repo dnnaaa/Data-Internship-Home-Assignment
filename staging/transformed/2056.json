@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Build Systems Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtapple is looking for a talented detail oriented and results oriented software engineer to develop a build infrastructure for our nextgeneration products in this position you will have the opportunity to work with a group of top notch software engineers from related but different backgrounds to make a product truly innovative to be successful in this role the candidate must be handson proactive excellent at problem solving and have a strong desire to learnltbrgtltbrgtltbrgtthis build engineer candidate takes pride in creating and managing a build and test infrastructure as well as automated build tools using continuous integration practices this engineer needs to closely work with crossfunctional teams to identify the issues design and implement the proper solution and work with the engineering teams to properly test and deploy the changes critical thinking writing solid and clean code planning documenting and communicating within the team and crossfunctionally is critical to the success of the roleltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtyears of sw development and build infrastructure experienceltbrgtltbrgtexcellent software development process skillsltbrgtltbrgtprevious experience working on a project that has a build and release process integrating at least componentsltbrgtltbrgtexperience with jenkins or similar toolsltbrgtltbrgtbreath of knowledge on a variety of techniques and tools in the areas of build test deploy and releaseltbrgtltbrgthave created and managed software package dependencies such as deb dmgltbrgtltbrgtfamiliar with artifact management solutions artifactory aptly package mirrorsltbrgtltbrgtdemonstrated experience with project level build tools such as bazel cmake make buck ninja for large scale softwareltbrgtltbrgtexperience in building c based projectsltbrgtltbrgtdeep understanding of build dependencies at various levels header dependencies linking dependencies tools dependencies package dependenciesltbrgtltbrgtability to script in python bashltbrgtltbrgtfamiliarity with macos and linux development and debugging toolsltbrgtltbrgtexperience with embedded systems software a plusltbrgtltbrgtexperience with llvm andor xcode is a plusltbrgtltbrgtexcellent teamwork and communication skillsltbrgtltbrgtstrong verbal and written communication skillsltbrgtltbrgtability to manage multiple tasks and selfprioritizeltbrgtltbrgtdetail orientedltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtas a build engineer you will be responsible for developing a multilanguage build infrastructure for a unified set of os kernels frameworks applications and internet services analyzing build and test cycle time robustness and optimizing software builds developing tools to enable developer efficiency for build test and release tasks apple is seeking a software engineer with a strong technical and programming background enthusiastic about build and test infrastructures the successful candidate for this role is a teamoriented professional with excellent communication skills comfortable in a fastpaced environmentltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbsmsee in computer science or related fieldltbrgtltbrgt ltbrgtltstronggtadditional requirementsltbrgtltstronggt ltbrgt coding experience in a c based language a plus c c objectivecltbrgtltbrgt familiarity with container ecosystem cluster schedulers kubernetes docker service registries secrets management is a plusltbrgtltbrgt familiar with virtualization technologies vmware kvm is a plusltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:45:14.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 115000,
+    "max_value": 181000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

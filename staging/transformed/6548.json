@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Training and Acceleration- Video Engineering",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtthe video computer vision org is a centralized applied research and engineering team responsible for developing realtime ondevice computer vision and machine perception technologies across apple products we focus on a balance of research and development to deliver apple quality stateoftheart experiences our team prides itself on innovating through the full stack and partnering with hw sw and ml teams to influence the sensor and silicon roadmap that brings our vision to lifeltbrgtltbrgtltbrgtto succeed within this role you should have shown experience in several of the following areasltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtstrong experience in the area of developing machine learning training framework or hardware acceleration of machine learning tasksltbrgtltbrgtstrong software engineering skillsstrong python programmingltbrgtltbrgtstrong communication skills great work ethic and teamworkltbrgtltbrgtfamiliar with hardware architecture cache utilization data streaming modelltbrgtltbrgtfamiliar with network optimization algorithm including quantization sparsification experience with knowledge distillation or nas is a plusltbrgtltbrgtexperience on computer vision and machine learning model development is a big plusltbrgtltbrgtexperience on management of a team of people is a plusltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtwere looking for strong software engineerleads to build a next generation deep learning technology stack to accelerate ondevice machine learning capabilities and emerging innovations youll be part of close nit software developers and deep learning experts working in the area of hardware aware neural network optimization algorithms and neural architecture search were looking for candidates with strong software engineering skills passionate about machine learning computational science and hardware ltbrgtltbrgtresponsibilitiesltbrgtltbrgt design and develop apis for common and emerging deep learning primitives layers tensor operations optimizers and more specific hardware featuresltbrgtltbrgtltbrgt implement efficient tensor operations and dnn training algorithmsltbrgtltbrgtltbrgt train and evaluate dnns for the purpose of benchmarking neural network optimization algorithms our framework reduces latency and power consumption of neural networks found in many apple productsltbrgtltbrgtltbrgt perform research in emerging areas of efficient neural network development including quantization pruning compression and neural architecture search as well as novel differentiable compute primitivesltbrgtltbrgtltbrgt we encourage publishing novel research at top ml conferencesltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtyouve got one of the following threeltbrgtltbrgtltbrgt phd in machine learning statistics optimization or related field with experience building production systems or have equivalent experience in industryltbrgtltbrgtltbrgt ms in cs with years of experience in working with large ml projectsltbrgtltbrgtltbrgt bs in cs with years of experience in the industry with at least years in machine learningltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T08:56:01.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 115000,
+    "max_value": 155000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

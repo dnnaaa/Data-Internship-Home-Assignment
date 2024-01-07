@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "C#/.Net Developer (Full Stack)",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "ltstronggtltugtsummaryltbrgtltbrgtltugtltstronggtprovides andor facilitates the planning analysis design development implementation and maintenance of software applicationsltbrgtltbrgtltstronggtdutiesltbrgtltstronggtltulgtltligtparticipate in the backlog identification and refinement for new andor existing systemsltligtltligtwork with other application development team members to estimate plan and schedule tasks to meet assigned target dates ltligtltligtdocument new and existing systems develop workflows and create other supporting documents in adherence to all departmental and corporate standardsltligtltligtobtain approvals and consult with production control as needed to prepare programssystems for implementation correspond with clients to implement operations programsenhancements and identifyresolve problemsltligtltligtreview completed code documentation and other deliverables to ensure that they meet specifications and requirements based on defined expectationsltligtltligtlearn use and enhance the delivery of systems using agile software engineering and devops practicesltligtltulgt ltstronggtrequirementsltbrgtltstronggtltulgtltligtbachelors degree in business computer science engineering or related fieldltligtltligtminimum years application development experienceltligtltligtinsurance or financial services industry experience is a plusltligtltligtdemonstrated successful experience and knowledge in the microsoft net platform including one or more of the following net net core mvc web forms cltligtltligtdemonstrated successful experience and knowledge in one or more source control systems such as azure devops git tfsltligtltligtdemonstrated successful experience and knowledge of one or more database management systems such as microsoft sql server or oracleltligtltligtdemonstrated successful experience and knowledge of web services frameworks development or consumption such as rest or soapltligtltligtdemonstrated successful experience and knowledge of unit and functional testing frameworks such as mstest xunit nunit cucumber or seleniumltligtltligtdemonstrated working knowledge of objectoriented analysis and development ooad data structures and relational database conceptsltligtltligtdemonstrated successful experience in one or more development methodologies preferably those that support agile software developmentltligtltligtdemonstrated working knowledge of data structure and database concepts and practicesltligtltligtproficient computer skills required including microsoft office suiteltligtltligtdemonstrated successful ability to build positive relationships and partnerships within department across the organization and with external customersltligtltligtexcellent organizational skills and ability to function in a fast paced highly visible and changing environmentltligtltligtexcellent verbal and written communication skills with the ability to interact with internal and external customersltbrgtltligtltulgtnetcore net",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:46:47.000Z"
+  },
+  "company": {
+    "name": "Root Seven",
+    "link": "https://www.linkedin.com/company/recruiting-information-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62800,
+    "max_value": 110000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Farmington Hills",
+    "region": "MI",
+    "postal_code": "48321",
+    "street_address": null,
+    "latitude": 42.484673,
+    "longitude": -83.35918
+  }
+}

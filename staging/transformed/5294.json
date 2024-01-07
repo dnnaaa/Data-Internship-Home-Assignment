@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "GNSS System-Debug Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtwould you like to join apples growing wireless silicon development team ltbrgtltbrgtltbrgtglobal navigation satellite systems gnss space vehicles transmit the power of a lightbulb they are miles away and are moving four kilometers per second the received signals are commonly one hundred times weaker than cosmic microwave background radiation left over from the big bang and arrive next to interfering signals ten billion times stronger just few mhz awayltbrgtltbrgtltbrgtour gnss team is part of apples wireless soc team we are a vertically integrated engineering team spanning rf mixed signal analog design systems engineering design verification rtl design firmware and software engineering test and validation ltbrgtltbrgtltbrgtour focus is on highly energy efficient and robust gnss receiver design we develop gnss technology that touches hundreds of millions of lives something we are passionate about wed like you to consider being a part of our team ltbrgtltbrgtltbrgtas a gnss rf system debug engineer you will be a key member of apples cellular team driving cellular development for our next generation wireless products used by millions come to apple and do your lifes best workltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtminimum of years of experience in rf system level test development debug and reportingltbrgtltbrgtstrong rf background and familiarity with rf systems fundamentalsltbrgtltbrgtworking knowledge of rf test equipment network analyzer spectrum analyzer vector signal analyzer vector signal generator etcltbrgtltbrgtexperience in rfsystem simulation environment systemvue matlab or verilogaltbrgtltbrgtknowledge in test and script development python perl tclltbrgtltbrgtworking knowledge of rf pll and general wireless systems measurements ie ip nf acpr phase noise lock time etcltbrgtltbrgtstrong verbal and written communication skillsltbrgtltbrgtprevious gps experience is a plusltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtin this role you will be part of the gnss rf system team and perform lab system level investigations implement rf standalone calibrations and run system level validationcharacterization of gnss soc ipltbrgtltbrgtltbrgtscope of work when collaborating withltbrgtltbrgtrf architects ltbrgtltbrgt rf system modeling of rfanalog impairmentsltbrgtltbrgt correlate radio behavioral model to system measurementsltbrgtltbrgt analysisverification of radio calibrations iq dcoc delay calibration iip etcltbrgtltbrgt rf system characterization measuring phase noise sensitivity and other radio parametersltbrgtltbrgtltbrgt rfic circuit designers phy phy fw engineers ltbrgtltbrgt bench test debug and characterization of rf soc ip including receivers pll amplifiers adcs crystal oscillators and pmultbrgtltbrgt debug of chip level or board level desense and spur issuesltbrgtltbrgt generation of rf designverificationtest reportltbrgtltbrgt collaborate with system bringup and integration teams on rf board layout test interface methodology and programming sequence and rf calibration programmingltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgta bs degree in ee or related fields is required a msc degree is desirableltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:34:13.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

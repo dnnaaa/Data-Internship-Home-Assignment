@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "snapdocs is a rapidly growing san franciscobased real estate technology unicorn backed by leading investors sequoia y combinator tiger global fprime and others were on a mission to perfect mortgage closings for all powering millions of closings a year snapdocs is leading the charge to modernize streamline and improve the mortgage process for lenders borrowers and settlementltbrgtltbrgtthe type of problems we focus on involve workflow product design and data monolith vs microservice is an ongoing debate we are working to find a good authentication pattern that allows for people to work across companies in multiple roles which is trickier than you might think domain driven design is our guiding lightltbrgtltbrgtwe trust our team members to make smart decisions this means we value both independent work as well as collaboration were becoming ubiquitous in one segment of the market and now were looking to hire another core engineer to help us scale our platformltbrgtltbrgtas a software engineer you will play a central role in building a quality digital closing platform that our partners can trust and use we build highvolume lowlatency applications for missioncritical business systems that enable our users to streamline workflows you will design build and maintain apis services and distributed systems in addition to contributing to core services you will contribute to debugging production issues across services participate in code reviews and arch specs your day to day interactions span product and engineering teams to release at a high velocity in all phases of the sdlc we have a small team so your contributions will have huge impactltbrgtltbrgthere is where you come in upon completing your bsba computer science you joined the industry ready to contribute to a growing business now its time to dive into the startup world and apply your talents to solve real world problems over the past years you have mastered objectoriented programming with at least one of these ruby go python scala java etc working in a production environment more recently you have been focused on backend development building apis services ampamp working with relational databases postgresql mysql etc you have a bias for testing and quality is at the center of your work cross functional collaboration is important to you as you are eager to solve a range of problems across the org today our team is working in ruby on rails react postgres aws docker ampamp kubernetes to name a few but things change quickly so be comfortable learning new tools we take a pragmatic approach to programming language experience and believe languages can be learned so dont get too hung up if you have not worked with our tools hopefully learning new tools ampamp new languages is something you are eager to doltbrgtltbrgtsnapdocs strongly values diversity and drive we want to work with people of different backgrounds and different paths in life and we trust our team to make smart decisions this means we value independent work as well as collaboration we provide excellent benefits listed below and are located in both san francisco and denverltbrgtltbrgtltstronggtltugtour benefits include but are not limited toltbrgtltbrgtltugtltstronggtltulgtltligt days of vacationltligtltligtcompany subsidized health dental vision insuranceltligtltligtflexible spending account for healthcare and dependent careltligtltligtk with up to company matchltligtltligtlife and disability insuranceltligtltligtcommuter benefitsltbrgtltbrgtltligtltulgtsnapdocs is proud to be an equal opportunity workplace we are committed to equal employment opportunity regardless of race color ancestry religion sex national origin sexual orientation age citizenship marital status disability gender identity or veteran status if you have a disability or special need that requires accommodation please let us knowltbrgtltbrgtcalifornia residents applying for positions at snapdocs are subject to our candidate privacy policy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T18:09:27.000Z"
+  },
+  "company": {
+    "name": "Snapdocs",
+    "link": "https://www.linkedin.com/company/snapdocs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77900,
+    "max_value": 161000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "ltstronggtltugtworker subtypeltbrgtltbrgtltugtltstronggtregularltbrgtltbrgtltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtltstronggtthe positionltbrgtltbrgtltstronggtat blackberry we develop stateoftheart machine learning algorithms to solve longstanding problems in computer security we discover novel ml techniques and applications build systems to handle petabytes of ludicrously high dimensional data and protect people from bad actorsltbrgtltbrgtwere looking for a machine learning engineer to work on a team of scientists and engineers and automate the training and evaluation of models underlying all of our security products across millions of endpoints as well as in the cloud this position will partner with many peer engineering product and research teams so written and inperson communication skills are extremely importantltbrgtltbrgtltstronggtltugtwhat you will doltbrgtltugtltstronggtltulgtltligtbuild and maintain automated feature engineering and machine learning training systems in python ltligtltulgtltulgtltligtbuild and maintain analytics tools for use within our aws cloud environment ltligtltligtregularly contribute to documentation of our systems and tools as well as code reviews ltligtltligtcommunicate with internal teams and stakeholders to understand project requirements ltbrgtltbrgtltligtltulgtltstronggtwho ltstronggtltstronggtare weltstronggtltstronggt looking forltstronggtltstronggtltbrgtltstronggtltulgtltligtexperience writing and maintaining python ideally on a collaborative team ltligtltligtexperience performing analytics and developing tools using python and pandas ltligtltligtexperience with unit testing and version control ltligtltulgtltulgtltligtexcellent written and verbal communication ltligtltligtgood understanding of the nix command line ltligtltligt years in industry with a phd or years with a masters degree or years with a bachelors ltbrgtltbrgtltligtltulgtltstronggtabove and beyondltbrgtltstronggtltulgtltligtexperience automating infrastructure to perform feature extraction and selection ltligtltligtexperience automating infrastructure to train evaluate and deploy ml algorithms ltligtltligtsolid grasp of statistics including product evaluation techniques like abn testing ltligtltulgtltulgtltligtexperience using aws s ec glue data catalog etc ltligtltligtexperience with serverless queryinplace technologies like presto athena ltligtltligtexperience building and using docker containers ltbrgtltbrgtltligtltulgtltstronggtltugtjob family group nameltbrgtltbrgtltugtltstronggtproduct developmentltbrgtltbrgtltstronggtltugtscheduled weekly hoursltbrgtltbrgtltugtltstronggt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:12:47.000Z"
+  },
+  "company": {
+    "name": "BlackBerry",
+    "link": "https://ca.linkedin.com/company/blackberry"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

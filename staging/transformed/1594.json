@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Venmo (Backend)",
+    "industry": "Computer Software,Financial Services,Internet",
+    "description": "fueled by a fundamental belief that having access to financial services creates opportunity paypal nasdaq pypl is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy our open digital payments platform gives paypals million active account holders the confidence to connect and transact in new and powerful ways whether they are online on a mobile device in an app or in person through a combination of technological innovation and strategic partnerships paypal creates better ways to manage and move money and offers choice and flexibility when sending payments paying or getting paid available in more than markets around the world the paypal platform including braintree venmo and xoom enables consumers and merchants to receive money in more than currencies withdraw funds in currencies and hold balances in their paypal accounts in currenciesltbrgtltbrgtltstronggtjob description summaryltbrgtltstronggtabout us venmo was founded on the principles of breaking down the intimidating barriers around financial transactions to make them intuitive friendly and even fun and it worked people love sending money with venmo and were growing by leaps and bounds but were only just getting started we want to take that magic of sending money with venmo and cascade it into every place where people use money that means connecting people to their money in the most intuitive and fun way possible then connecting people with each other users already love venmo but we know there are lots of things we havent thought of to make the experience of using venmo even more delightful and valuable all thats going to take a lot of figuring out lets figure it out together what youll do venmo is looking for a staff software engineer to join the team to deliver high quality secure products to millions of users as an engineer on the commerce team you will be primarily responsible for feature development that help us monetize venmo platform through products like venmo pay business profiles qrc etc you should be comfortable with working with cross functional teams to deliver projects you should excel at planning developing and testing your code as well supporting members of the team with code reviews and technical guidanceltbrgtltbrgtltstronggtjob descriptionltbrgtltstronggtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtlead engineering efforts and takes ownership of multiple larger project features modules or services ltligtltligtprovides technical leadership for a team with limited guidance from management or senior teammates ltligtltligtdesign estimate and implement new and refactored software services on the platform securely reliably and at scale take ownership for quality of design and implementation of software components ltligtltligtdeliver high quality code on time and follow our sdlc process ltligtltligthave an appetite to learn and contribute to complex projects alongside your colleagues ltligtltligtparticipate in code reviews ltligtltligtinteract with various nonengineering teams such as product support finance operations compliance and legal ltligtltligtfollow engineering best practices as well as propose new ones ltligtltligtbreak down monolithic backend systems down to distributed scalable resilient servicessystems ltligtltligtscale our distributed services architecture to support growth while maintaining performance and reliability ltligtltligtcollaborate with other engineers in software design and development best practices to significantly drive faster iteration and experimentation ltligtltligtstrong active advocacy for technical standards and quality across paypal inc ltligtltligtinterface with the product and other functional teams and their leadership to deliver new features and services against the product roadmap ltligtltligttechnologies we use python django mysql aws etcltbrgtltbrgtltligtltulgtwere a purposedriven company whose beliefs are the foundation for how we conduct business every day we hold ourselves to our one team behaviors which demand that we hold the highest ethical standards to empower an open and diverse workplace and strive to treat everyone who is touched by our business with dignity and respect our employees challenge the status quo ask questions and find solutions we want to break down barriers to financial empowerment join us as we change the way the world defines financial freedomltbrgtltbrgtpaypal provides equal employment opportunity eeo to all persons regardless of age color national origin citizenship status physical or mental disability race religion creed gender sex pregnancy sexual orientation gender identity andor expression genetic information marital status status with regard to public assistance veteran status or any other characteristic protected by federal state or local law in addition paypal will provide reasonable accommodations for qualified individuals with disabilitiesltbrgtltbrgtreq id r",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T00:18:10.000Z"
+  },
+  "company": {
+    "name": "Venmo",
+    "link": "https://www.linkedin.com/company/venmo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75500,
+    "max_value": 117000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

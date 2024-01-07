@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "array is revolutionizing how businesses leverage and enhance consumer data our platform apis components and rules engine enables innovative companies and developers to seamlessly integrate credit and identity data into their apps websites or workflows founded by serial entrepreneurs with several exits weve been nearly doubling revenue monthly were looking for passionate and creative teammates to help us scale and supercharge the company if youre looking for autonomy impact and cuttingedge fintech wed love to hear from you though fully remote our team is the foundation of our success we strive for diverse backgrounds opinions and approaches we encourage respectful dissent digging for the truth so that we can deliver the best product for our clients and users continuous improvement experimentation and a clear mission stretch us individually and togetherltbrgtltbrgtwe are seeking experienced resultsdriven and passionate engineers to join our infrastructure project team our ideal candidate is a selfstarter and has excellent communication skills our collaborative environment relies heavily on innovation technical savvy and problemsolving skills this is a fulltime remote position within the us as our newest sre engineer youll be a major contributor to the companys success youll work with teams across the organization to build and maintain monitorable performant reliable and highlyscalable software systems your technical contributions will help protect dozens of brands facilitate continuous delivery support our sla for hightraffic websites and mobile applications in the credit score and reporting industryltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtevangelize best practices for building and operating highly reliable systemsltligtltligtconsult in system design to meet reliability and capacity requirementsltligtltligtconstantly optimizing performance and reliabilityltligtltligtsupport application deployments building new systems and upgrading and patching existing ones through devops methodologiesltligtltligtautomate infrastructure and configuration managementltligtltligtconduct timely postmortems of production infrastructure incidentsltligtltligtassist with all aspects of operational security and pci complianceltligtltligtseek out potential threats to security and reliability and advocate solutionsltbrgtltligtltulgtltstronggtltugtjob requirementsltbrgtltugtltstronggtltulgtltligtpassion for reliable scalable observable software with strong sense of ownershipltligtltligt years experience developing and monitoring missioncritical systemsltligtltligthands on experience with docker and dockercomposeltligtltligtproficiency working with and understanding a containerized development workflowltligtltligtstrong background in linuxunix administration eg redhatcentos alpine linuxltligtltligtexperience with configuration management tools like ansibleltligtltligtexperience with infrastructure as code iac tools like packer and terraformltligtltligtexperience in deploying large scale docker based environments with openshift or kubernetes or similar productltligtltligtexperience with languages like bash python or nodejsltligtltligtexperience implementing application clustering load balancing concepts and technologiesltligtltligtexperience using devops toolingmodules with vmware vspheres apiltligtltligtproficiency administering a cicd pipeline we use gitlabltligtltligtproficiency with networking fundamentals diagnostic troubleshooting etcltligtltligtproficient in using command line tools to quickly triage and fix production issuesltligtltligtunderstanding of protocolstechnologies like http ssl ldap sql html xmlltbrgtltligtltulgtltstronggtltugtnice to haveltbrgtltugtltstronggtltulgtltligtexperience implementing cicd bluegreen deployments using gitlab cicdltligtltligt youre a wizard with terraformltligtltligtproject atomic red hat and fedora atomic hostltligtltligtconsulltligtltligtbuild and maintain data stores with postgresqlltligtltligtimplement keepalived linux ha in a scalable environmentltligtltligtindepth knowledge of distributed computing and data systems multiregion presence high traffic websitesltligtltligtindepth knowledge of immutable infrastructure compostable infrastructure andor serverless computingltbrgtltligtltulgtgreat products and great ideas dont happen by accident our goal is to grow through the recruitment of truly exceptional people and we appreciate your application teamwork is the foundation of our success and we look forward to getting to know more about you thank you again for considering arrayhave an innovative dayltbrgtltbrgtbestltbrgtltbrgtthe array recruiting team",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T02:56:50.000Z"
+  },
+  "company": {
+    "name": "ARRAY",
+    "link": "https://www.linkedin.com/company/arrayinfotech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97400,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hattiesburg",
+    "region": "MS",
+    "postal_code": "39407",
+    "street_address": null,
+    "latitude": 31.326464,
+    "longitude": -89.289665
+  }
+}

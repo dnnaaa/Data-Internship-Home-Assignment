@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Telecommunications",
+    "description": "ltpgtas a software engineer you will work with a premier team developing and deploying new technologies on a nextgeneration satellite network ltpgtltpgtltbrgtltpgtltpgtthe groundbreaking satellite network is redefining what is possible with satellitebased internet service requiring you to innovate design and develop in the world of secure softwaredefined satellite communicationltpgtltpgtltbrgtltpgtltpgtviasats unique position as a service provider and equipment manufacturer allows you to experience the whole life cycle of networking software development all the way from design to deploymentltpgtltpgtltbrgtltpgtltpgtltstronggtrequirementsltstronggtltpgtltulgtltligt years of software engineering experience with coding and debugging skills in c and c on linuxltligtltligtexperience with encryption and authentication softwareltligtltligtexperience with openssl crypto librariesltligtltligtexperience with bash and python scripting in linuxltligtltligtpossess a devops approachltligtltligtup to travel to carlsbad ca if not currently in the arealtligtltulgtltpgtltbrgtltpgtltpgtltstronggtpreferencesltstronggtltpgtltulgtltligtdeep knowledge of os features like multithreading synchronization memory management and networking on linux or linuxlike operating systemsltligtltligtexperience with linux device driver design development and test in addition to kernel crypto moduleltligtltligtexperience with implementing rest apis and working with json preferably in c or cltligtltligtexperience configuringdebugging embedded https serversltligtltligtbackground in data structures and algorithm designltligtltligtproficient in software development tools source code control environmentltligtltligtexperience designing and implementing networking protocols at the phy mac transport and application layersltligtltligtexperience working in an agile scrum development environmentltligtltligtexperience with modern updates to the c language cltligtltligtexperience with arm cpusltligtltligtexperience with arm trustzoneltligtltligtexperience with tls protocolsltligtltulgtltpgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:12:03.000Z"
+  },
+  "company": {
+    "name": "Viasat Inc.",
+    "link": "https://www.linkedin.com/company/viasat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

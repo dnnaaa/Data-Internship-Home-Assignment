@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Vehicle Engineering",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "the roleltbrgtltbrgtteslas vehicle engineering team is currently seeking a site reliability engineer sre to focus on improving our inhouse manufacturing and supply chain computer vision platform this role will contribute to many of our other purposebuilt applications that automate and improve the process of designing building and delivering tesla products globallyltbrgtltbrgtteslas vehicle engineering team in general owns the centralized technical aspects of our multicontinent gigafactory network and product line the systems we work on include teslas most important programs such as cybertruck cell production robotaxi and new factories the software team is responsible for making these systems and operations every bit as intelligent and dynamic as the products themselvesltbrgtltbrgtas a member of the supply chain and ops automation team scoa you will lead our efforts to deploy software in texas berlin and beyond we are currently looking for an experienced sre to scale our infrastructure to multiple datacenters whileltbrgtltbrgtimproving our existing ci pipeline cd flow gitops and other devopsrelated tasks on our highavailability and dataintensive applications in scoa engineers have theltbrgtltbrgtownership freedom to push forward their recommendations experiment and ultimatelyltbrgtltbrgtdrive new technology into the production line to positively impact the company and our customersltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtderive functional application and nonfunctional availability performance security and maintainability cost requirements for global deployments and scaling needs ltligtltligtcollaborate with stakeholders across regions to understand deployment requirements ltligtltligtdeliver on deployment requirements with proactive monitoring tools and dashboards ltligtltligtmaintain existing infrastructure deployed both on aws and private kubernetes clusters ltligtltligtrecommend latest ops best practices with a focus on automation ltligtltligtwrite technical documentation and runbooks ltbrgtltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtbs in computer sciencerelated field or equivalent industry experience ltligtltligtfluency with tools for orchestration in aws or a private cloud especially with kubernetes using tools like terraform ansible argocd and docker ltligtltligtdemonstrated ability to respond to production outages and implement longterm fixes ltligtltligtfamiliarity with of machinetomachine communication concepts ie tcpip web sockets and rpc ltligtltligtunderstanding of when to use and how to set up message brokers eg kafka and aws kinesis ltligtltligtability to choose the right storage system eg relational dbs aws rds for postgres cockroachdb cache redis elastic search s public and private clouds timeseries dbs influxdb prometheus based on the application need ltligtltligtrelevant experience with the gopythonjs or other programming languages ltbrgtltbrgtltligtltulgtltemgtemployee benefits ltbrgtltemgtltulgtltligtltemgtas a full time tesla employee you will receive full benefits from day for you and your dependents ltemgtltligtltligtltemgtkaiser and unitedhealthcare ppo and hsa plans including infertility coverageltemgtltligtltligtltemgt medical plan choices with paycheck contribution ltemgtltligtltligtltemgtvision ampamp dental plans including orthodontic coverageltemgtltligtltligtltemgtcompany paid life adampampd shortterm and longterm disability ltemgtltligtltligtltemgtk employee stock purchase plans and other financial benefits ltemgtltligtltligtltemgtemployee assistance program paid time off and paid holidaysltemgtltligtltligtltemgtbackup childcare and employee discountsltbrgtltemgtltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-04T19:52:26.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 106000,
+    "max_value": 188000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "ltpgtltstronggtabout jitsultstronggtltpgtltpgtjitsu delivers the power of aiml transparently for high quality decision making ad hoc querying large amounts of data is expensive and slow cloud tco is high and existing solutions have scaling challenges cloud data warehouses are expensive proprietary silos there is a need to query data directly from the data lake without having to make a data copy into a dwltpgtltpgtltbrgtltpgtltpgtltstronggtabout the roleltstronggtltpgtltpgtwe are looking to hire a software engineer to join our earlystage team in this role you will be a critical part of our engineering team developing in the jitsu server jitsu managementcontrol plane and developing on cloud and onprem infrastructureltpgtltpgtltbrgtltpgtltpgtltstronggtroleresponsibilitiesltstronggtltpgtltulgtltligtlead and drive projects that span our stack including c java scala node services and a web ui written in typescript and reactltligtltligtdevelop and automate the infrastructure to deploy and upgrade jitsu software in various environments such as aws and onpremises platforms in a scalable and robust mannerltligtltligtintegrate deployment with security infrastructure such as ldap ad and iamltligtltligtwork on the containerization of services via docker eg dockerhubharbor yaml files and docker orchestration software eg kubernetesltligtltligtdevelop operational tools to monitor and control cloud instances running jitsu softwareltligtltligttake ownership of internal systems ci source code control ampamp review artifact management etcltligtltligtpromote strong collaboration within a cross functional teamltligtltligtbuild for scale and high performanceltligtltulgtltpgtltbrgtltpgtltpgtltstronggtdesired skillsexperienceltstronggtltpgtltulgtltligt years of relevant experienceltligtltligtbsms in computer science or equivalent experienceltligtltligtsignificant software development experienceltligtltligtdistributed system development experience is a big plusltligtltligtdeep understanding of algorithms and datastructuresltligtltligtdemonstrated technical leadership experience such as being an architect or tech lead for high impact customer facing projects is a big plusltligtltligtdeep understanding of modern web applications design architecture good api design patterns performance and scaleltligtltligtexperience in modern technologies such as javascript typescript react angular node java scala kubernetes and sqlltligtltligtat least years in cloud computing awsltligtltligtaws infrastructure development experienceltligtltligtworking knowledge of aws security iam cloudformation lambdas and other servicesltligtltligtexperience and knowledge of git github gitlab etcltligtltligtexperience with cloud computing toolsets terraform vault packer etcltligtltligtexperience with configuration management tools ansible chef puppetltligtltligtinterest and ability to learn other coding languages as neededltligtltligttremendous attention to details and ability to build reliable and scalable software systemsltligtltligtexcellent communication skills and experience working in highperformance teamsltligtltligtinterest in working in a small fastmoving early stage startup environmentltligtltulgtltpgtltbrgtltpgtltpgtltstronggtcontactltstronggtltpgtltulgtltligtif interested in the position please send your resume to jobsjitsuai principals onlyltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T18:16:34.000Z"
+  },
+  "company": {
+    "name": "Jitsu, Inc.",
+    "link": "https://www.linkedin.com/company/jitsuai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

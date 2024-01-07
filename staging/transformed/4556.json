@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "holtsville new yorkltbrgtltbrgtltstronggtskills ltstronggtpython software developerpythondeveloperpython developersoftware engineersoftwareengineerautomationautomative engineerltbrgtltbrgtltstronggtltugtdescriptionltbrgtltbrgtltugtltstronggtltstronggtposition detailsltbrgtltbrgtltstronggtltstronggtjob titleltstronggtltstronggt ltstronggtltstronggtsoftware engineer iltbrgtltbrgtltstronggtltstronggtlocationltstronggtltstronggt ltstronggtltstronggtholtsville nyltbrgtltbrgtltstronggtltstronggtdurationltstronggtltstronggt ltstronggtltstronggt months possible extensionltbrgtltbrgtltstronggtltstronggtltugtdescriptionltbrgtltugtltstronggtltulgtltligtthe tasking involves setting up and programming a universal robotic ur arm and gripper to pick up grocery items and move them across the plane of a scanner as performed by a human checkerltligtltligtthe ur robot and table are large so this tasking would be in the holtsville facilityltligtltligtfor safety and security reasons this tasking cant be fully performed remotely and the candidate would need to be in officeltligtltligtthe sample set of test items is largeltligtltligtsome training is involved but the candidate must have some experience with robots and robotic control so the training is limitedltbrgtltligtltulgtltstronggtltugtrequired skillsltbrgtltugtltstronggtltulgtltligtdevelops and implements software systems or applications through the use of software best practices such as specification design coding testing documentation and maintenanceltligtltligtknowledge of development environments configuration management tools and operating systems is expectedltligtltligtbachelors degree in an appropriate engineering discipline requiredltligtltligtminimum of years of engineering experienceltligtltligtsome experience in pythonscript programming and robotsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Collabera Inc.",
+    "link": "https://www.linkedin.com/company/collabera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68200,
+    "max_value": 84000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

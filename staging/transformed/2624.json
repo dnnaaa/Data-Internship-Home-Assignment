@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "job descriptionltbrgtrequired skillsltbrgt ideal candidate should have a degree in a quantitative field eg mathematics computer science physics economics engineering statistics operations research quantitative social science etcltbrgt basic knowledge on software development principles and architectureltbrgt good analytical and problemsolving abilitiesltbrgt ability to break down and understand complex business problems define a solution and implement it using advanced quantitative methodsltbrgt familiarity with programming for data analysis ideally python sql or rltbrgt solid oral and written communication skills especially around analytical concepts and methodsltbrgt great work ethic and intellectual curiosityltbrgt knowledge of cloud technologies such as aws or google cloudltbrgt knowledge of any relational database such as my sqlltbrgt must be a team player with excellent communication and problemsolving skills and have experience working with customers across teamsltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T13:32:52.000Z"
+  },
+  "company": {
+    "name": "Numero Data",
+    "link": "https://www.linkedin.com/company/numero-data"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Herndon",
+    "region": "VA",
+    "postal_code": "22092",
+    "street_address": null,
+    "latitude": 38.96973,
+    "longitude": -77.38387
+  }
+}

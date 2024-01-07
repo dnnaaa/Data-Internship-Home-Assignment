@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "ltstronggtltugtjob descriptionltbrgtltbrgtltugtltstronggtltstronggtposition titleltstronggt machine learning engineerltbrgtltbrgtltstronggtposition descriptionltstronggt protingent staffing has an exciting direct hire opportunity with our client in redmond waltbrgtltbrgtltstronggtltugtjob requirementsltbrgtltugtltstronggtltulgtltligtdesign develop implement and evaluate novel computer vision and machine learning algorithms as applied to advanced driver assistant systems adas and autonomous vehicles avltligtltligtwork on largescale datasets focusing on building scalable and accurate computer perception systemsltligtltligtdesign and implement algorithms for semantic segmentation object classification and object velocity estimation based on d point cloud dataltligtltligtperform training tuning and hyperparameter optimization on deep learning models suitable for implementation on edge devicesltligtltligtcollaborate closely with team members on developing systems from prototyping to production levelltligtltligtwork closely with software firmware and rtl teams to implement efficient realtime algorithms realizable in edge devices in embedded software or directly on siliconltbrgtltligtltulgtltstronggtltugtjob qualificationsltbrgtltugtltstronggtltulgtltligtexperience in designing and applying efficient cv and ml algorithms for computer vision andor computer perception applicationsltligtltligtpractical computer vision experience in areas of object detection recognition segmentation d computer vision andor multiobject trackingltligtltligtexperience with computer vision frameworks such as opencv and machine learning frameworks such as tensorflow or pytorchltligtltligtfluent in c and pythonltligtltligtknowledge of digital filtering and d point cloud data conditioning for computer vision pipelinesltbrgtltligtltulgtltstronggtabout protingentltstronggt protingent is a niche provider of top engineering and it talent to software electronics medical device telecom and aerospace companies nationwide protingent exists to make a positive impact and contribution to the lives of others as well as our community by providing relevant rewarding and exciting work opportunities for our candidates",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T19:58:35.000Z"
+  },
+  "company": {
+    "name": "Protingent",
+    "link": "https://www.linkedin.com/company/protingent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

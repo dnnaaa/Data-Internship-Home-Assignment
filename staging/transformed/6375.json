@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer ( SRE )",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtthe site reliability engineer sre position requires a mix of strategic engineering and design along with handson technical work an ideal candidate will have experience in being a systems administrator that has moved on to devopsautomation in their career and have coding skills to automate tasks and build tools to help with our service operations the sre will configure tune and troubleshoot multitiered systems to achieve optimal application performance stability and availability the sre will work closely with the software engineers infrastructure and network engineers to deploy and maintain our servicesltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgt strong sense of ownership customer service and integrity demonstrated through clear communicationltbrgtltbrgt deep understanding of the linux and system administration at largescaleltbrgtltbrgt understanding of standard networking protocols and components such as http dns tcpip the osi model subnetting and load balancing strategiesltbrgtltbrgt coding experience using a highlevel programming language like java ruby python php perl or cltbrgtltbrgt experience with kubernetes is a plus but not requiredltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtthe successful candidate will be highly selfmotivated with a passion for excellence quality and attention to detail the sre will work on automation deployments aid in architectural design and work closely with the development engineers within the team to assist with the implementation of complex features responsibilities of the sre include the following passion for quality and automation an ability to understand complex systems and a desire to constantly make things better determine optimal configurations for application software application servers database connections and indexes etc develop and maintain scripts used for environment monitoring and task automation perl shell php etc experience setting up and managing monitoring tools such as graphite prometheus influxdb grafana set priorities and work efficiently in a fastpaced environment measure and optimize system performance plan and manage capacity of the systems explore and evaluate new technologies and solutions to push the capabilities forward getting ahead of customers needs innovate and continually improve strong communication skills and ability to work effectively across multiple business and technical teams demonstrate ability to deliver results on time with high quality experience with docker spinnaker kubernetes and aws is a plusltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbachelors degree in computer science or equivalent industry experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T14:56:21.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82700,
+    "max_value": 209000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

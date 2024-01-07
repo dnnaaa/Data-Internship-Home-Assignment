@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "om is on a mission to improve health outcomes by unlocking the power of data we are a healthcare data and technology company focused on improving real world clinical data and outcomes accelerating medical research and personalizing healthcare our interdisciplinary team uses expertise in medicine software big data machine learning public health and mathematics to transform records from a diverse set of sources into enriched research grade data this data allows us to generate unique insights in a variety of disease areasltbrgtltbrgtas a data engineer youll build out and enhance bigdata pipelines code dataoriented product features and analyze our complex data assets the ideal candidate is a smart creative and curious analytical thinker who demonstrates strong software engineering skills and an excellent aptitude for data analysis this is a key role within our engineering team with responsibility for driving our high standardsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgt ltligtbuild automate and improve bigdata pipelinesltligt ltligtcode test and deliver dataoriented product featuresltligt ltligtintegrate new data sources into our data assetltligt ltligtmodel enhance and enrich database schemas and underlying dataltligt ltligtcraft scalable backend software and tools using modern software engineering practicesltligt ltligtanalyze and interpret data flows attributes and qualityltligt ltbrgtltbrgtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgt ltligtstrong programming skills preferably python scala java or similarltligt ltligtexcellent sql skillsltligt ltligtsolid understanding of software engineering principlesltligt ltligtcomfort working in an agilescrum environment with continuous deliveryltligt ltligta strong desire to advance healthcare and improve patient outcomesltligt ltligtexcellent attention to detailltligt ltulgtnice to haveltbrgtltulgt ltligtfamiliarity with cloudbased platforms such as aws databricks andor snowflake dbltligt ltligtdata processing experience with python scala spark andor airflowltligt ltligtautomated unit and integration testing experienceltligt ltligtexperience with cicd tools such as jenkinsltligt ltligtbackground in medical records and health insurance claimsltligt ltligtexperience working on systems with strong security and privacy requirementsltligt ltbrgtltbrgtltulgtom is an equal employment opportunity employer and considers qualified applicants without regard to gender sexual orientation gender identity religion race veteran or disability status at om ensuring that people feel respected valued and included is essential to our success we are committed to working together to provide a work environment that embraces the principles of diversity equity and inclusionltbrgtltbrgtltstronggtdirect applicants only no agenciesltstronggt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-08T11:31:14.000Z"
+  },
+  "company": {
+    "name": "OM1, Inc.",
+    "link": "https://www.linkedin.com/company/om1-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82700,
+    "max_value": 180300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

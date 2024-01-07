@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Kubernetes",
+    "industry": "",
+    "description": "ltpgttitle site reliability engineer kubernetesltpgtltpgtltbrgtltpgtltpgtlocation dallastx or jersey city njltpgtltpgtltbrgtltpgtltpgtexperience level associateltpgtltpgtltbrgtltpgtltpgtexperience required yearsampnbspltpgtltpgtltbrgtltpgtltpgteducation level bachelors degreeampnbspltpgtltpgtltbrgtltpgtltpgtjob function information technologyltpgtltpgtltbrgtltpgtltpgtindustry financial servicesampnbspltpgtltpgtltbrgtltpgtltpgtvisa only us citizens and greencard holdersltpgtltpgtltbrgtltpgtltpgtsummaryltpgtltpgtltbrgtltpgtltpgtwe are looking for a container migration sre who understands the enterprise containers in docker swarm to advanced kubernetes platforms openshift tanzu deployments and has prior experience with container migrations and deployments the container migration sre will bring in kubernetes deployment with software engineering sre standard methodologies this role will be instrumental in continuing our container first strategy delivery bringing expertise with development and implementation of container migration projectsltpgtltpgtltbrgtltpgtltpgtyour primary responsibilitiesltpgtltpgtltbrgtltpgtltpgtlead the container platform ecosystemltpgtltpgtcluster capacity management and provisioning through automation of underlying hostsltpgtltpgtunderstanding the infrastructure components server network storage firewall load balancer etc required for kubernetes platform infrastructure as a codeiacltpgtltpgtexperience with a modern application software language especially a systems programming language go pythonltpgtltpgtunderstanding of architectural patterns microservices are important but experience with other patterns helpfulltpgtltpgtpractitioner of version control experience with different branching strategies and understands why gitflow is not a good choice for cicd and enterprise development teamsltpgtltpgtunderstands and uses unit and functional testing ideally advocates tests up front advocates tests for moving fasterltpgtltpgtexperience defining delivery pipelines demonstrable work in automation and observability bonus points for experience using gitops for deploymentltpgtltpgtunderstand ks resiliency patterns hpa selfhealingltpgtltpgtunderstands container image optimizationltpgtltpgtltbrgtltpgtltpgtmust have container migration docker kubernetes infrastructure as a codeiacltpgtltpgtltbrgtltpgtltpgtqualificationsltpgtltpgtltbrgtltpgtltpgtminimum of years of related experienceltpgtltpgtbachelors degree requiredltpgtltpgtkubernetes andor tanzu or openshift container platformltpgtltpgtkubernetes and pythonltpgtltpgtexpertise in tanzu solutions as a service offeringsltpgtltpgtexperience delivering infrastructure as code using cicd practicesltpgtltpgtproven track record of applying technology to tackle business problemsltpgtltpgtexperience with migrateonboard application onto kubernetesltpgtltpgtaws associate certifications or higher preferredltpgtltpgtredhat certifications in linux and openshift administration preferredltpgtltpgtltbrgtltpgtltpgtif interested connect on linkedin or mail on ritadazxpertscomltpgtltpgtplease note visa only us citizens and greencard holdersltpgtltpgtltbrgtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T12:48:27.000Z"
+  },
+  "company": {
+    "name": "A2Zxperts",
+    "link": "https://www.linkedin.com/company/a2zxperts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jersey City",
+    "region": "NJ",
+    "postal_code": "07306",
+    "street_address": null,
+    "latitude": 40.717495,
+    "longitude": -74.04411
+  }
+}

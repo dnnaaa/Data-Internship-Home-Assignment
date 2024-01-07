@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Public Safety",
+    "description": "ltpgtltstronggtwho we areltstronggtltpgtltpgtthe oracle state ampamp local global business unit slgbuampnbspthat is in the process of designing ampamp developing a suite of saas applications for the state ampamp local government markets using cutting edge technologies these are exciting times in our space we are growing fast still at an early stage and working on ambitious new initiativesltpgtltpgtltstronggtwho you areltstronggtltpgtltpgtas a site reliability engineer sre within the public safety saas team you will assist in designing building and operating a highly distributed saas service with extremely high availability and scalability requirements you will work as a member of our crossdiscipline service development team you will work in concert with developers to evolve systemsproducts for better scalability reliability and enable developer velocity you will be responsible to ensure our services and systems are designed and build from the start with reliability scalability and observability as a critical feature you will also author and maintain operational run books to help reduce mean time of incidents toi and be responsible for managing and triaging operational tickets pertaining to the data platform services emphasis on driving prioritization and execution of work based on business impact is a mustltpgtltpgtltstronggtwhat you will doltstronggtltpgtltulgtltligtdesign write and deploy software to improve the availability scalability and efficiency of oracle products and servicesltligtltligtsolve complex problems related to infrastructure cloud services and build automation to prevent problem recurrenceltligtltligtdevelop designs architectures standards and methods for largescale distributed systemsltligtltligtfacilitate service capacity planning and demand forecasting software performance analysis and system tuningltligtltligtwork as a member of the development team and share full stack ownership of a collection of services andor technology area understand the endtoend configuration technical dependencies and overall behavioral characteristics of production servicesltligtltligtarticulate technical characteristics of services and technology areas and guide development teams to engineer and add capabilities to internal oracle servicesltligtltligtact as ultimate escalation point for complex or critical issues that have not yet been documented as standard operating procedures sopsltligtltligtutilize a deep understanding of service topology and the dependencies required to troubleshoot issues and define mitigationsltligtltligtunderstand and explain the effect of product architecture decisions on distributed systemsltligtltligtserve as part of a x on call rotation in support of the public safety saas suiteltligtltligtprofessional curiosity and a desire to a develop deep understanding of services and technologiesltligtltulgtltpgtltstronggtwhat youve doneltstronggtltpgtltulgtltligt years of experience with java python andor any other oop language andor scriptingltligtltligt years of experience inampnbspdesigning building and operating a highly distributed saas service with high availability and scalability requirementsltligtltligt years of experience working with fault tolerant highly available high throughput distributed scalable systemsltligtltligt years of experience with monitoring and observability technologies like prometheus grafana fluentd elasticsearch kibana or equivalentltligtltulgtltpgtltstronggtit would be awesome if you also hadltstronggtltpgtltulgtltligtsoftware development operationsltligtltligtdevelopingoperating large scale distributed services applicationsltligtltligtsystem administration including linux internals tcpip dns load balancing technologiesltligtltligtcontainer administration and development utilizing kubernetes docker mesos or similarltligtltligtinfrastructure automation through terraform chef ansible puppet or similarltligtltligtbig data infrastructure including hadoop spark nosql object storage or similarltligtltligtexperience with tcpip and socket programmingltligtltligtknowledge of cloud compute technologies network monitoring data processing and analyticsltligtltligtexperience with cicd pipelines including vcs gitltligtltulgtltpgtltstronggtliremoteltstronggtltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:11:38.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

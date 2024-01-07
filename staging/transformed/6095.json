@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ltspangtltspangtltspangtltspangtyour roleltbrgt working closely in partnership with engineering to maximize availability operability scalabilityltbrgtperformance and reliability of services by leveraging our deep understanding of our applicationsltbrgtand endtoend flows with expertise in infrastructureltbrgt application and infrastructure on call site up issues for production and nonproductionltbrgt building deploying and scaling systems across onpremises datacentersltbrgt operability and availability design readiness and reviewltbrgt design operations automation and tooling to improve the reliability of our services andltbrgtinfrastructureltbrgt capacity planning and management for disaster recovery and resiliencyltbrgt application and infrastructure monitoring alerting and dashboardsltbrgt security best practices patching and hygieneltbrgt drive incident and problem management and analysisltbrgt ltbrgtltstronggtyoultstronggt ltstronggthaveltbrgtltstronggt confirmed experience supporting internetfacing production services and distributed systemsltbrgt solid programming experience in python golang or similarltbrgt expertise in operating linuxbased systems with a solid understanding of its internalsltbrgt experience running dockerbased workloads in productionltbrgt experience in container orchestration platforms like nomad or kubernetesltbrgt experience with hardware or software based load balancing solutions eg netscalers nginx etcltbrgt experience with apms splunk grafana or similar monitoring toolsltbrgt terraform puppet or other configuration management toolsltbrgt demonstrated problem solving ability utilizing creative and innovating thinking but also adhering toltbrgta strong sense of ownership customer service and integrityltbrgt experience partnering and collaborating very closely with engineering and platform teamsltbrgt excellent communications skillsltbrgtltspangtltspangt ownership mindset selfdriven and quick learnerltspangtltspangt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T16:45:01.000Z"
+  },
+  "company": {
+    "name": "Veear Projects Inc.",
+    "link": "https://www.linkedin.com/company/veear-projects-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.31855,
+    "longitude": -122.03675
+  }
+}

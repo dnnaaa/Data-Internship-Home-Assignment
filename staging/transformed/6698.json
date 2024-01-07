@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "dice is the leading career destination for tech experts at every stage of their careers our client virtusa corporation is seeking the following apply via dice todayltbrgtltbrgtjob requirements ability to communicate clearly be it verbal written or hey we need to document this service that we inherited understand responding with urgency while juggling multiple priorities being a part of an oncall rotation ability to dig in with very little supervision and get to the core of an issue problem finding a problem or solution and driving it through to completion ability to create write implement systems or service level software solutions experience in using maintaining aws or google cloud platform projects and cloud native services configuration management saltstack puppet ansible sensu docker cicd systems jenkins teamcity bamboo experience using branch based source control linux debian ubuntu centos rhel compiled programming language golang preferred java c c scripting programming language python ruby experience writing software in a shared source control environment experience with running cicd systems on macos fleet",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-21T19:35:55.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

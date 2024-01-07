@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "ltstronggtltugtresponsibilities includeltbrgtltbrgtltugtltstronggtposition summary what youll doltbrgtltulgtltligtprimarily responsible for delivering high quality technical designs and code for the product requirements in a fastpaced agile scrum environmentltligtltligtlead and participate in small to mediumscale projects by reviewing project requirements translating requirements into technical solutions gathering requested information for example design documents product requirements wire frames writing and developing code conducting unit testing communicating status and issues to team members and stakeholders collaborating with project team and cross functional teams troubleshooting open issues and bugfixes ensuring ontime delivery and handoffs interacting with project manager to provide input on project plan and providing leadership to the project teamltligtltligtstrive for continuous improvement in efficiencyltligtltligttroubleshoot business and production issues by gathering information for example issue impact criticality possible root cause engaging support teams to assist in the resolution of issues formulating an action plan performing actions as designated in the plan interpreting the results to determine further action performs root cause analysis to prevent future occurrence of issues and completing online documentationltligtltligtprovide support to the business by responding to users questions concerns and issues for example technical feasibility implementation strategies identifying short and longterm solutions facilitating resolutions and leading crossfunctional partnershipltbrgtltligtltulgtltstronggtltugtabout youltbrgtltbrgtltugtltstronggtyou have and can implement big ideas with a positive attitude you want to be a part of the team to disrupt this industry and you have these main skillsltbrgtltulgtltligtmust have strong knowledge ampamp handson experience building react native apps on android devicesltligtltligtexperience building customizable reusable and dynamic components using reactjs react hooks redux javascript es typescript html css and nodejsltligtltligtability to build products with focus on testability someone who loves test coverage well versed with using jest and mocking frameworksltligtltligtexperience in automation testing using tools such as detoxltligtltligtexperience in implementing ui analytics to report customer behavior and improve ui accordinglyltligtltligtexperience with project build with cicd pipelines through jenkinsltligtltligtstrong knowledge of data structures and algorithmsltligtltligta disciplined approach to development code review testing documentation and code structure in a team environmentltligtltligta constant desire to improve learn more and take things to the next level and a passion for adopting the latest industry best practicesltligtltligtexperience with monitoring tools such as dynatrace splunk grafanaltligtltligtnative ios or android experience is a plusltbrgtltligtltulgtnice to haveltbrgtltulgtltligtexperience with cloud technologies azure preferred ampamp kubernetesltligtltligtexperience with graphql ampamp nextjsltligtltulgt minimum qualificationsltbrgtltbrgtltemgtltemgtoutlined below are the required minimum qualifications for this position if none are listed there are no minimum qualifications ltbrgtltbrgtltemgtltemgtbachelors degree in computer science and years experience in software engineering or related field or years experience in softwareltbrgtltbrgtltstronggtltugtengineering or related field preferred qualificationsltbrgtltbrgtltugtltstronggtltemgtltemgtoutlined below are the optional preferred qualifications for this position if none are listed there are no preferred qualifications ltbrgtltbrgtltemgtltemgtmasters degree in computer science or related field and years experience in software engineering or related field primary location parkridge dr suite reston va united states of america",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:24:53.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83400,
+    "max_value": 113000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

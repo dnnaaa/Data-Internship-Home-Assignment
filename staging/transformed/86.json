@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Science Internship",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "ltstronggtltugtabout the teamltbrgtltbrgtltugtltstronggtdata is at the core of outreachs strategy it drives our customers and ourselves to the highest levels of success we use it for everything from customer health scores and revenue dashboards to operational metrics of our aws infrastructure to helping increase product engagement and user productivity through automated natural language understanding to predictive analytics and causal inference via experimentation as our customer base continues to grow we are looking at new ways of leveraging our data to save our customers time and improve their sales efficiency the key goal of the data science team is to transform how sales reps operate by enabling personalized guided selling this requires a deep understanding of customer communication emails threads and callmeetings transcripts to extract useful information determine the situation the deal is in and recommend next steps as a member of the team you will be on the ground floor working directly with the vp of data science to define and implement our strategy for delivering on this vision you will be responsible for delivering models datadriven functionality and enduser features based on these models that will be deployed into production as well as analyzing the data to produce actionable insights and inform next stepsltbrgtltbrgtltstronggtyour daily adventures will include ltstronggt analyzing huge volumes of communication such as emails phone call transcripts meeting transcripts the data velocity is in terabytesltbrgtltbrgtdeveloping highly efficient machine learning models and extracting insights and actions i mplementing and testing prototypes on our large scale distributed data infrastructure closely working with machine learning engineers to deploy your models and insights into production working with internal teams to validate your results and enable them to take action based on your insights rigorously measuring the impact of your work via data analysis and experimentationltbrgtltbrgtltstronggtltugtbasic requirementsltbrgtltugtltstronggtltulgtltulgtltligtacademic or industry background in artificial intelligence in data scienceltligtltligtyou have used at least one of the following statistical learning techniques for nlp deep learning hmms crfs svms lda lsi mrfs etc and used at least one of the modern distributed ml and deep learning frameworks tensorflow pytorch mxnet etcltligtltligtyou have experience working with distributed data processing frameworks such as sparkltligtltligtyou have strong programming skills in python and are familiar with at least one other object oriented programming language c java scala etcltligtltligtyou are able to quickly pick up new tools and languages and excited about building things and experimentingltligtltligtyou go above and beyond to help your teamltligtltligtyou are honest admit mistakes and own fixing themltbrgtltbrgtltligtltulgtltulgtltstronggtwhy youll love it hereltbrgtltbrgtltstronggtltligt generous medical dental and vision coverage for fulltime employees and their dependentsltligtltligt flexible time offltligtltligt k to help you save for the futureltligtltligt companyorganized and personal paid volunteer days to support the community that supports usltligtltligt fun company and team outings or virtual events these days because we play just as hard as we workltligtltligt diversity and inclusion programs that promote employee resource groups like own outreach womens networkltligtltligt a parental leave program that includes not just extended time off but options for a paid night nurse food delivery gradual return to work and the gottman institutes bringing home baby course for new parentsltligtltligt employee referral bonuses to encourage the addition of great new people to the teamltligtltligt plus unlimited snacks and beverages in our kitchen once were back in the office that isltligtltligt were an equal opportunity employer all applicants will be considered for employment without attention to race color religion sex sexual orientation gender identity national origin veteran or disability statusltligt",
+    "employment_type": "TEMPORARY",
+    "date_posted": "2021-07-09T20:23:13.000Z"
+  },
+  "company": {
+    "name": "Outreach",
+    "link": "https://www.linkedin.com/company/outreach-saas"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

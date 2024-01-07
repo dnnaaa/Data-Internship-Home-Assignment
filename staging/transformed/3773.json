@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Entertainment",
+    "description": "ltstronggtltugtcompany overviewltbrgtltbrgtltugtltstronggtwarnermedia is a powerful portfolio of iconic entertainment news and sports brands we bring people technology and the worlds best storytellers together to drive culture and meaningful connection we believe the enduring power of stories can open our eyes to the world to each other and to new and different perspectivesltbrgtltbrgtwb technology combines warner bros industryleading technologists and disciplines to ensure global alignment with business strategy and accelerated delivery of innovative technology solutions studio and industrywide from preproduction through archiving the wbt organization will provide critical business and technology intelligence and services to all studio business units wbt manages the studios enterprise systems and solutions emerging platforms information security consumer intelligence content mastering and delivery and moreltbrgtltbrgtjoin us shape your story hereltbrgtltbrgtltstronggtthe jobltbrgtltbrgtltstronggtwarner bros entertainment inc seeks a software engineer for the digopsprodeng bb applications departmentltbrgtltbrgtltstronggtthe dailyltbrgtltstronggtltulgtltligtwork with a team of highly motivated developers to effectively implement solutions and delivery production quality applications that are highly supportable and maintainableltligtltligtoverall responsibility for design code quality and deploymentsltligtltligttroubleshoot and fix bugs security vulnerabilities and operational issuesltligtltligtparticipate in software development projects using an agile process and toolsltligtltligtpartner with internal and external teams to understand business and technical requirements to document technical specificationsltligtltligtwork with other software engineers to build front end components using javascript and javascript frameworksltligtltligtintegrate javascript components with microservicesrestful apisltligtltligtunderstand state management and state management tools like reduxltligtltligtdesign and create responsive web pages for a variety of platformsltligtltligtintegrate javascript components with external technologiesltligtltligtcollaborate with api developers to build datadriven microservicesltbrgtltligtltulgtltstronggtltugtthe essentialsltbrgtltugtltstronggtltulgtltligtexperience using javascript frameworks such as react reactnative angular and videojs to build components that integrate with restful apisltligtltligtexperience using webbased technologies such as typescript html css and jsonltligtltligtexperience designing and building responsive web pagesltligtltligtexperience using javascript testing tools or frameworks like react testing library jest mocha or jasmineltligtltligtexperience using redux as the state container for your javascript appsltligtltligtexperience building reusable javascript components and high order componentsltligtltligtexperience working with container technologies like dockerltligtltligtexperience developing microservices using languages like python c go java nodejsltligtltligtusing rest apis is a plusltligtltligtux experience is helpfulltligtltligtgit or github in a cicd development workflow is a plus ltbrgtltligtltulgtltstronggtthe perksltbrgtltstronggtltulgtltligtexclusive warnermedia events and advance screeningsltligtltligtpaid time off every year to volunteer for eligible employeesltligtltligtaccess to wellbeing tools resources and freebiesltligtltligtaccess to inhouse learning and development resourcesltligtltligtpart of the warnermedia family of powerhouse brandsltbrgtltligtltulgtwarner media llc and its subsidiaries are equal opportunity employers qualified candidates will receive consideration for employment without regard to race color religion national origin gender sexual orientation gender identity or expression age mental or physical disability and genetic information marital status citizenship status military status protected veteran status or any other category protected by law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T13:51:15.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78200,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burbank",
+    "region": "CA",
+    "postal_code": "91504",
+    "street_address": null,
+    "latitude": 34.182053,
+    "longitude": -118.30747
+  }
+}

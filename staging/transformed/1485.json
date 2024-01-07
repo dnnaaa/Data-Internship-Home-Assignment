@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Entertainment,Computer Games",
+    "description": "ltstronggtltugtwho we areltbrgtltbrgtltugtltstronggtat visual concepts we believe great games are made by diverse and empowered teams with a shared passion for play as one of the worlds top game development studios we have shipped over multisku titles to critical acclaim and commercial success our teams are independent and entrepreneurial our studios in agoura hills novato orange county budapest shanghai austin san jose vancouver and seoul are committed to artistry and technical innovation offering top candidates the opportunity to learn and grow with some of the smartest and most creative minds in the industryltbrgtltbrgtltstronggtltugtwhat you will doltbrgtltugtltstronggtltulgt ltligthelp design and develop machine learning models to solve classification pose estimation character transition and mesh generation problemsltligt ltligtimplement data processing scraping and annotation procedures to prepare model training dataltligt ltligtwork with our internal game engine to integrate and visualize model inference resultsltligt ltbrgtltbrgtltulgtltstronggtltugtwho we think will be a great fitltbrgtltugtltstronggtltulgt ltligtbachelors degree in computer science maths or related disciplineltligt ltligt years of programming experience in python with specific experience using numpy and opencvltligt ltligtexperience solving supervised learning problems with modern machine learning libraries such as tensorflow and pytorchltligt ltligtstrong understanding of d maths including quaternions linear algebra and d matrix transformationsltligt ltligtsome experience in ccltligt ltbrgtltbrgtltulgtltstronggtltugtbonusltbrgtltugtltstronggtltulgt ltligtexperience working in game development a plusltligt ltligtexperience working with d game engines such as unity and unreal a plusltligt ltbrgtltbrgtltulgtltemgtltstronggtplease note that visual concepts entertainment and k games never use instant messaging apps or personal email accounts to contact prospective employees or conduct interviews when emailing only use vcentertainmentcom and kcom accountsltstronggtltemgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T22:14:18.000Z"
+  },
+  "company": {
+    "name": "Visual Concepts",
+    "link": "https://www.linkedin.com/company/visual-concepts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 101900,
+    "max_value": 218700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Novato",
+    "region": "CA",
+    "postal_code": "94947",
+    "street_address": null,
+    "latitude": 38.109188,
+    "longitude": -122.578255
+  }
+}

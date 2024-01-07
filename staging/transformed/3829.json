@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer / SRE",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "dice is the leading career destination for tech experts at every stage of their careers our client itech solutions is seeking the following apply via dice todayltbrgtltbrgtsite reliability engineer duties we are looking for a site reliability engineer sre who is passionate around solving business problems through innovation and engineering practices the sre would serve as the bridge between our operations members and service delivery members the individual will be embedded in the operations team and enable the sre community of practice by helping to bridge the needs and technologies of both teams while enabling the operations members to streamline and automate the repetitive and manual activities the application environment is a blend between on premise cloud the role requires a wide variety of strengths and capabilities including years of experience in developer operations roles knowledge of application data and infrastructure architecture dislines working proficiency in development and monitoring tools ability to work in large collaborative teams to achieve organization goals a mindset focused on reliability uptime and the customer experience years of sre experience years of public cloud experience willing to work on a distributed team spanning multiple time zones analytical and problemsolving skills good communication skills the desire to continually learn and test your own boundaries exposure to standard software development practices including agile deployment pipelines continuous integrations and continuous delivery understanding of software skills such as business analysis development maintenance and software improvements qualifications experience with monitoring and observability systems like dynatrace ca apm splunk etc experience in one or more programming languages python java scala pyspark experience with build and deployment pipeline technologies like jenkins cloudbees terraform urban code deploy ansible maven github experience working with relational databases or hdfs or cloud storage hands on experiences in aws technologies cloud watch step functions lambda glue ec redshift dynamodb sqs ecseks elastic search snowflake elastic cache databricks to name a few exposure to containerization docker and kubernetes experiences with additional enterprise technologies openshift kafka redhat databricks the primary responsibilities include monitoring alerting and communication manage and monitor production systems application availability performance issues data and integration issues stakeholder communication incident management and root cause analysis facilitate the incident management guide the team on root cause analysis manage performance metrics work with stakeholders to identify define the service level indicators and objectives measure and report the performance metrics automation and tools work with the service delivery teams in developing and testing automation of repetitive and manual efforts work closely with engineering teams on monitoring and performance management tools initiatives to improve system reliability and performance team building help teams transition to sre mind set help with sre adoption across teams for more information please contact karen schur ator since itech solutions inc has been providing it consulting and direct hire services to the insurance financial communications manufacturing and government sectors with local offices in connecticut minnesota colorado massachusetts tennessee north carolina and new jersey pennsylvania area our recruiting strategy is simple if you want to find qualified it professionals then use it professionals to find them so at itech solutions our personnel are all career it professionals with a wide range of it experience we can honestly say our staff understands the technologies the complexities of finding and selecting the appropriate personnel and the pressures of running successful it projects employer will not sponsor applicants for any employment visas at hiring or in the future including but not limited to hb visas corptocorp or subcontract personnel will not be considered for this position",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T06:00:31.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bloomfield",
+    "region": "NJ",
+    "postal_code": "07003",
+    "street_address": null,
+    "latitude": 40.809128,
+    "longitude": -74.18716
+  }
+}

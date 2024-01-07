@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Maps",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtare you a selfstarter looking for an exciting career opportunity do you like to ship data science and machine learning solutions that impact apple maps users around the world a job at apple is unlike any other youve had youll be challenged inspired and you will be proud of your work maps are a significant part of our everyday lives whether you are looking for the nearest gas station finding a transit route that gets you to the big game before kickoff or selecting a peculiar restaurant for dinner with friends you are relying on information from the maps data engineering team our maps team is charged with building algorithms to process and enrich data from many sources and multiple modalities and presenting a unified rich and up to date set of points of interest pois to all apple maps users across the world were looking for a scientistengineer who can take projects from initial data mining and research through all stages of prototyping development and final integration into the production code that goes out to the users at apple our team provides the foundation for building extraordinary customer experiences with features that have become an indispensable part of so many lives around the worldltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgt years of experience in building large scale machine learning systemsltbrgtltbrgtltbrgtintuitive understanding of machine learning algorithms supervised and unsupervised modeling techniques and their performance characteristicsltbrgtltbrgtltbrgtexperience working with large scale and real world datasetsltbrgtltbrgtltbrgtexperience with machine learning tools and libraries such as tensorflow scikitlearn r spark pytorchltbrgtltbrgtltbrgtexperience applying nlp and machine learning techniques to text dataltbrgtltbrgtltbrgtdeep learning computer vision topic modeling graph algorithms are plusesltbrgtltbrgtltbrgtknowledge of apache hadoop spark solrlucene cassandra and related technologiesltbrgtltbrgtltbrgtstrong programming skills in java scala python or cltbrgtltbrgtltbrgtmetrics focused and passionate about delivering models that render high quality resultsltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtapple maps points of interest poi team is looking for creative and motivated contributors who thrive in dynamic environment and enjoy working in small teams as a member of our team you will work on applied machine learning and natural language processing algorithms to seek problems that focus on topics such as classification ranking clustering and related algorithms to augment and enrich points of interest pois you will have full ownership of your projects and build end to end machine learning systems and modules youll be collaborating with software engineers machine learning engineers statisticians and data scientists and editorial teams across maps organizationltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtmasters or phd in computer science electrical engineering statistics or related fieldltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-10T04:12:37.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 135000,
+    "max_value": 206000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

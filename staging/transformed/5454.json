@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtimagine what you could do here at apple great ideas have a way of becoming great products services and customer experiences very quickly bring passion and dedication to your job and theres no telling what you could accomplishltbrgtltbrgtltbrgtapple corporate finance systems engineering is looking for an application support engineer for a critical payments application the corporate systems group at apple focuses on creative ways to engineer business solutions to meet growing needs of apples finance apple pay itunes sales retail and it service organizations at core our portfolio comprises of engineered custom solutions to process very highvolume microtransactions from apple pay itunes downloads app store iphone activations sales from retail online and resellers etc these solutions are based on cutting edge enterprise technologies ranging from server side java web technologies search platforms cloud technology oracle and nosql databases accurately processing such high volume transactions is our core strengthltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgt years of experience in site reliability engineering application support engineeringltbrgtltbrgt years of software development experienceltbrgtltbrgtapplication and database engineering for scaleltbrgtltbrgtapplication support practices and procedures for critical platformsltbrgtltbrgtapplication monitoring and profiling toolsltbrgtltbrgtmanaging applications on cloud platforms preferably aws ltbrgtltbrgtcontainers build and release tools and deployment strategiesltbrgtltbrgtfamiliarity with docker is highly desiredltbrgtltbrgtlarge scale database clusters integrationltbrgtltbrgtfamiliarity with messaging platformsltbrgtltbrgtprior experience on cloud migration is a huge plusltbrgtltbrgtfundamental knowledge in javaltbrgtltbrgtscripting languages such as bash and pythonltbrgtltbrgtfamiliarity with search platformsltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtin this role you will be a part of technical operations application support site reliability engineering for cloud infrastructure strategy ci cd for a payments platform the role requires candidate to embrace a complex software product architecture to support a continuous stream of payments data to ensure accurate invoicing disbursements receipts and payments ltbrgtltbrgtltbrgtthis role is responsible for infrastructure design and scalability to support the platform and for the related product development the role will take actively monitor production health of the platform including tickets operational retrospects and definitionmanagement of necessary controls ltbrgtltbrgtltbrgtas business evolves this role will identify utilities that can assist in operations and execute the product development for it monitoring alerting profiling tools fault tolerance etc will be a charter for this role the platform is a part of very fast paced initiates from a range of business units good communication building business relationships and thriving in fast pace are necessary for this roleltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs computer science or equivalentltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T06:54:19.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80100,
+    "max_value": 157000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

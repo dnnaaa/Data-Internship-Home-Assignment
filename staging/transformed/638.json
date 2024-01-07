@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AWS DevOps Engineer",
+    "industry": "Staffing and Recruiting,Information Technology and Services",
+    "description": "ltpgtour team needs a devops engineer to help automate processes and create infrastructure as code needing someone who would be able to explain what thy have done and how they got there help with deployments of their systems etc helping with getting cicd pipelines to work using terraform as infrastructure as code thelp with terrafrom development they will use azure devops for most cicd they will be deploying serverless resources with lambda and deploying ec instances to awsampnbspltpgtltpgtltbrgtltpgtltpgtthis is a month contract to hire and will sit remoe working cstltpgtltpgtltbrgtltpgtltpgtrequirementsltpgtltulgtltligt years in a devops role ltligtltligtextensive aws experience deploying lambdas and api gateways ltligtltligtexpert using terraform experience creating terraform from scratch create and manipulate modules resources ltligtltligtexperience with cicd pipelinesltligtltulgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-15T21:56:50.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

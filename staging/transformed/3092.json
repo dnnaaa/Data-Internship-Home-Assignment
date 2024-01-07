@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "a site reliability engineer ensures the availability of rainfocus applications by constantly improving our monitoring processes addressing scalability problems and helping triage production issuesltbrgtltbrgtltstronggt essential responsibilities ltbrgtltstronggtltulgtltligtmonitor production systems performance to ensure event and feature launches go smoothlyltligtltligtdebug critical production issues and provide a root cause analysis afterltligtltligtarchitect and develop tooling as needed to automate or improve monitoring and alerting processesltligtltulgtrequired experienceskills ampamp attributesltbrgtltulgtltligt years of professional software development experienceltligtltligtbs in computer science a similar field or equivalent experienceltligtltligtexperience in objectoriented design and programmingltligtltligtexperience working with a relational database management system including database design and advanced sql queriesltligtltligtexperience scaling systems in a high traffic environmentltligtltligtexperience using a variety of technologies to solve problems and being able to pick the right tool for the jobltligtltligtexperience with aws andor kubernetes is a plusltbrgtltbrgtltligtltulgtltstronggt personal characteristics ltbrgtltstronggtltulgtltligtthe best candidates for this position will need to have strong chemistry and a culture fit within rainfocus they will need to be comfortable working in a fastpaced challenging and dynamic environment additional personal qualities includeltligtltligtteamplayerltligtltligtselfmotivatedltligtltligtstrong communicatorltbrgtltbrgtltligtltulgtltstronggt success measures ltbrgtltstronggtltulgtltligta good steward of company resourcesltligtltligttakes ownership of assigned tasks and sees them through to completionltligtltligtable to communicate across multiple teams and disciplinesltligtltligta passion for solving complex problems with custom code and offtheshelf productsltligtltulgt remote options available some travel may be required",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:10:32.000Z"
+  },
+  "company": {
+    "name": "RainFocus",
+    "link": "https://www.linkedin.com/company/rainfocus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

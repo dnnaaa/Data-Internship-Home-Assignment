@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Airlines/Aviation,Information Technology and Services,Computer Software",
+    "description": "ltstronggtltugtjob overviewltbrgtltbrgtltugtltstronggtwere seeking an experienced site reliability engineer sre to join the delta it sre team theltbrgtltbrgtsre will work with delta it development squads to implement best practices for reliability andltbrgtltbrgtperformance with the applications and services they support our ideal candidate is wellversed in modern cloudbased and on prem architecture and experienced in designing systemsltbrgtltbrgtfor reliability as well as implementing monitoring alerting and ops automation to reliablyltbrgtltbrgtoperate and maintain the services they buildltbrgtltbrgtthe sre works with developers to improve the reliability and resiliency of delta softwareltbrgtltbrgtsolutions to meet the business requirements by implementing sre tools processes and bestltbrgtltbrgtpractices sre is what happens when you ask a software engineer to design an operationsltbrgtltbrgtfunction the sre helps to design develop test debug and automate tasks for applicationsltbrgtltbrgtthey troubleshoot incidents to address failure patterns automate remediation throughltbrgtltbrgtrunbooks and document application optimizationltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligt building and supporting a reliable application suite for the environment in order to meetltbrgtltligtltulgtthe development and maintenance requirements of systemsplatformsltbrgtltulgtltligt working with development teams to evaluate the health stability and reliability ofltbrgtltligtltulgtapplicationsltbrgtltulgtltligt utilizing monitoring alerts dashboards and management tools to ensure theltbrgtltligtltulgtavailability reliability and performance of applications and servicesltbrgtltulgtltligt constantly working to improve and implement automation of applications tasksltligtltligt providing technical support for systemsplatforms according to application slasltligtltligt responsible for designing and developing resiliency in the application codeltbrgtltligtltulgttroubleshooting incidents engaging with squads to address failure patterns andltbrgtltbrgtparticipating in incident managementltbrgtltbrgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligt high school diploma ged or high school equivalencyltligtltligt embraces diverse people thinking and stylesltligtltligt consistently makes safety and security of self and others the priorityltligtltligt or more years of experience as an application developer or sreltligtltligt experience with ops automation using a scripting language such as python or ansibleltligtltligt site reliability engineering knowledge of the theories and methodologies of reliabilityltbrgtltligtltulgtengineering ability to design develop and support various tools services andltbrgtltbrgtapplications to maintain a reliable site environmentltbrgtltulgtltligt performance measurement and tuning knowledge of system performance testing andltbrgtltligtltulgtprogramming ability to monitor measure and optimize system performance andltbrgtltbrgtnetwork communicationltbrgtltulgtltligt cicd pipeline knowledge of concepts values and tools applied in building continuousltbrgtltligtltulgtintegrationci continuous delivery and continuous deploymentcd pipeline ability toltbrgtltbrgtdesign build implement and maintain cicd pipelines to achieve the automation ofltbrgtltbrgtsoftware delivery processltbrgtltulgtltligt software release management knowledge of strategies practices and tools forltbrgtltligtltulgtmanaging versions and distribution of software products and enhancements ability toltbrgtltbrgtevaluate and improve release management practices and toolsltbrgtltulgtltligt application maintenance knowledge of production applications ability to monitorltbrgtltligtltulgtapplication functions and resolve issues to maintain optimal conditions for systemltbrgtltbrgtapplicationsltbrgtltulgtltligt software engineering knowledge of software engineering ability to deliver new orltbrgtltligtltulgtenhanced software productsltbrgtltulgtltligt agile development knowledge of agile methodologies and the agile developmentltbrgtltligtltulgtlifecycle ability to utilize formal agile methodologies disciplines practices andltbrgtltbrgttechniques for the delivery of new and enhanced applicationsltbrgtltulgtltligt container knowledge of concept functions and capabilities of container tools andltbrgtltligtltulgttechniques ability to effectively apply containers in various it business environmentsltbrgtltulgtltligt cloud platform knowledge of the products and services regarding cloud platformsltbrgtltligtltulgtability to utilize related tools and technologies to develop cloud solutions and deployltbrgtltbrgtapplications on cloud platformsltbrgtltbrgtwhere permitted by applicable law must have received or be willing to receive the covid vaccine by date of hire to be considered for usbased job if not currently employed by delta air lines incltbrgtltbrgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligt bachelors degree in computer science information technology or related field isltbrgtltligtltulgtpreferredltbrgtltulgtltligt aws certified sysops administrator or aws certified devops engineer certification isltbrgtltligtltulgtpreferredltbrgtltulgtltligt experience with an apm tool such as dynatrace new relic appdynamics or datadog isltbrgtltligtltulgtpreferredltbrgtltulgtltligt experience with airline applications and infrastructure technology is a plusltligtltligt experience developing ops automation in tekton pipelines is a plusltligtltligt experience developing applications andor automation running in red hat openshift is altbrgtltligtltulgtplus",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T22:14:57.000Z"
+  },
+  "company": {
+    "name": "Delta Air Lines",
+    "link": "https://www.linkedin.com/company/delta-air-lines"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

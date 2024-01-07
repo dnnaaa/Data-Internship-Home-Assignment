@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer Azure",
+    "industry": "Higher Education",
+    "description": "ltpgtltstronggtopportunityltstronggtltpgtltpgtltstronggt ltstronggtltpgtltpgtas a data engineer azure you will be responsible for developing implementing and optimizing modern cloud data solutions on the azure synapse platform in an agile environment you will be instrumental in supporting migrations of existing integrations and data models to the azure cloud ltpgtltpgtltbrgtltpgtltpgtltstronggtessential duties and responsibilitiesltstronggtltpgtltulgtltligtdataltligtltulgtltolgtltligtassist business users with technical solutionsltligtltolgtltulgtltligtwork with business owners to identify new types of data that are of interest to be pulled into the university data hubltligtltligtgather requirements perform data analysis and profile data to design appropriate solutionsltligtltligtdesign develop and deploy schemas tables snapshots and views to deliver cloudbased data and analytical solutionsltligtltligtimprove data usability reliability efficiency security and quality in adherence with industry best practices eg change data capture data quality monitoring user access provisioning and platform governanceltligtltligttest and document dataltligtltligtdata platformsltligtltulgtltolgtltligtdesign configure deploy and evolve robust secure and optimized azure enterprisescale cloud data solutionsltligtltligtazure data lake sql synapse data factory azure functionsltligtltolgtltulgtltligtdata ingestion and consumption capacity and performance planning and optimization in support of analytical and machine learning initiativesltligtltligtsupport of automation efforts to improve version control and to accelerate releasesltligtltligtsupport operations by identifying researching and resolving performance and production issuesltligtltligtdata integrationsltligtltulgtltolgtltligtplan and execute data integration strategies and approaches for batch and near realtime data acquire ingest and process data from multiple source systems into the data lakeltligtltolgtltulgtltligtdesign develop document and test data pipelines that ingest and store data from structured and unstructured sources within the azure data platformltligtltulgtltpgtltstronggtqualificationsltstronggtltpgtltpgtltbrgtltpgtltpgtltstronggtsoft skillsltstronggtltpgtltulgtltligtthe ideal candidate will be an energetic selfstarter who can assess complex data problems take ownership and drive for results combines strong analytical skills with a focus on detail thoroughness and quality and is a team player who can work independently but with a passion for sharing knowledge with othersltligtltulgtltpgtltstronggttechnical skillsltstronggtltpgtltpgtmust haveltpgtltulgtltligt years of handson experience working in azure including data factory sql data warehouse synapse and data lake storageltligtltligt years of experience working with dimensional data warehousesltligtltligt years of experience working in a data engineering role or building and maintaining data solutionsltligtltligt years of sql proficiency developing sql server code including stored procedures views and ctesltligtltligtexperience in scaling data solutions in the azure stackltligtltligthandson experience in sql server optimization best practicesltligtltligtproven experience developing data pipelines for acquisition cleansing and integration adf and cdc error handling best practicesltligtltulgtltpgtideallyltpgtltulgtltligtsome experience using powerbi and data visualizationltligtltligtsome experience with data preparation or data profiling toolsltligtltligtexperience in writing user stories for data ingestion change data capture data transformation and data validation using atlassian jiraltligtltligtany experience using talend databricks spark hadoop aws redshift or other nonmicrosoft technologiesltligtltligtknowledge of data lineage and data governanceltligtltulgtltpgtltstronggtadditional requirementsltstronggtltpgtltulgtltligtbachelors degree or equivalent work experience requiredltligtltligta minimum of years of it experience as a dba or data engineerltligtltulgtltpgtltbrgtltpgtltpgtltbrgtltpgtltpgtdevry is proud to be an equal employment opportunity employer we believe diversity is essential to our educational mission and to the success of our community we are committed to fostering a working environment where differences are respected valued and embracedltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:22:31.000Z"
+  },
+  "company": {
+    "name": "DeVry University",
+    "link": "https://www.linkedin.com/company/devry-university"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Naperville",
+    "region": "IL",
+    "postal_code": "60563",
+    "street_address": null,
+    "latitude": 41.771496,
+    "longitude": -88.148
+  }
+}

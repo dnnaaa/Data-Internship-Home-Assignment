@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - All levels",
+    "industry": "Internet",
+    "description": "for of programming jobs the primary focus is on using abstractions for instance using react js to build a responsive web portal or hammering out an api in express or rocket they are about taking ways of seeing the world that others have invented and applying them to the task at handltbrgtltbrgtwe value and respect this work and our jobs involve a fair share of it but we are looking for engineers who get up in the morning for the other ltbrgtltbrgtwe want the abstraction creators the engineers who are more excited about the technology that doesnt exist yet than the technology that doesltbrgtltbrgtwe want people who are dreaming about creating new programming languages or operating system kernels or even just small npm packages with apis that better reflect the problem space than prior abstractionsltbrgtltbrgtwe need this because the business bubble is in is taking common patterns for constructing software and capturing those patterns in repeatable technology so that they become accessible and intuitive via our visual language we are in the business of figuring out how to let our users express what they want to create as simply and directly as possible and then solving the hard problems of taking what they express and running it performantly scalably and securely in the cloudltbrgtltbrgtin addition to creating better abstractions the other pole of bubbles business is helping our users solve their problems our users build everything from community projects to vcbacked startups we are often a critical part of our customers operations as a bubble engineer you get a direct feedback loop with customers our community is incredibly vocal and whenever we announce a release on our community forum it always sparks feedback and engagement and often celebrationltbrgtltbrgtso the other thing we look for and value in our hiring process is people who love to ship code and see it impact peoples lives we live in a dynamic tension between passionate love for technology in its pure form and pragmatic caring for the end product that tension is our secret sauce the constant backandforth between solving the customer problem and designing the right longterm solution is whats led to a product that people tell us literally changed their lives read our last fundraising announcement and our communitys reaction to it ltbrgtltbrgtwe have a number of hard problems we are trying to solveltbrgtltulgtltligt ensuring userwritten queries get compiled into scalable highperformant sql ltligtltligt building tooling to help users secure their applications ltligtltligt evolving our core language from being an interpreter to more of a compiler to enable faster page loads ltligtltligt making bubble easier to learn and more powerful by taking common user pain points and converting them into new language features ltbrgtltbrgtltligtltulgtwe are looking for experienced programmers excited to help us tackle them the ideal candidate loves solving hard technical problems to achieve a business goal and has invested in their craft with a diversity of experiencesltbrgtltbrgtltstronggtfamiliarity with our stack is helpful but dont hesitate to apply if you havent worked with all of theseltbrgtltbrgtltstronggtbecause we are hiring programmers to design and implement a new language we dont have any hard requirements about what technologies you need to know coming inltbrgtltulgtltligt aws ltligtltligt postgres ltligtltligt redis ltligtltligt node ltligtltligt coffeescript ltligtltligt es ltbrgtltbrgtltligtltulgtltstronggtwe look for the following in candidatesltbrgtltstronggtltulgtltligt goal orientation and ability to find pragmatic solutions to hard problems ltligtltligt strong communication skills we believe that the ability to explain your work to others is important ltligtltligt experience writing highquality production code ideally at least years of professional experience or multiple internships at startups or companies with strong tech cultures ltligtltligt diversity of technical background we like candidates who have worked with multiple languages and problem spaces because we think that breadth of experience makes it easier to see multiple potential solutions to a problem ltligtltligt alignment with our values desire to empower others a focus on team and user success over individual achievement and transparency and willingness to admit mistakes and failures ltbrgtltbrgtltligtltulgtwe think bubble is amazing but we also think we have an incredibly long way to go our aim is huge we are trying to replace the entire traditional engineering stack as such we think that we are going to continually build and rebuild our systems as we scale up we have a limitless well of engineering challenges ahead of us to create the platform we envision if you are passionate about creating technological leverage for people and the idea of an earlybutgrowing startup whose main obstacle to success is our ability to solve hard engineering problems is exciting we look forward to hearing from youltbrgtltbrgtnote at this time we are only considering candidates who are authorized to work in the us if you have an opt or a current hb please apply",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T03:50:58.000Z"
+  },
+  "company": {
+    "name": "Bubble",
+    "link": "https://www.linkedin.com/company/bubble-hq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77300,
+    "max_value": 166000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

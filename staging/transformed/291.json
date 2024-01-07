@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Defense &amp; Space,Information Technology and Services,Electrical/Electronic Manufacturing",
+    "description": "the naval nuclear laboratory is seeking a senior data engineer to join a growing team dedicated to collecting and transforming data from the united states nuclear navy for analytics throughout the laboratoryltbrgtltbrgtas a senior data engineer you will be part of a team responsible for designing developing optimizing and maintaining the extract transform and load etl process for incoming shipboard data used in naval nuclear propulsion systems in a hadoop environmentltbrgtltbrgtyou will evaluate new and emerging technologies to deliver scalable solutions to transforming shipboard data in an enterprisewide data warehouse from which operational metrics and support analytics can be easily and reliably generatedltbrgtltbrgtltstronggtltugtpreferred skills includeltbrgtltugtltstronggtltulgtltligtknowledge of distributed technologies such as hadoop hive sparkltligt ltligtexperience in linux shell scripting and software development using languages such as sql python scalaltligt ltligtexperience in optimization and performance tuning of etl workloads and understanding of database internalsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:27:52.000Z"
+  },
+  "company": {
+    "name": "Naval Nuclear Laboratory (FMP)",
+    "link": "https://www.linkedin.com/company/naval-nuclear-laboratory-bmpc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99800,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Niskayuna",
+    "region": "NY",
+    "postal_code": "12008",
+    "street_address": null,
+    "latitude": 42.805782,
+    "longitude": -73.896965
+  }
+}

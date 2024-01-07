@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Investment Management",
+    "description": "ltstronggtabout dorilton capitalltbrgtltbrgtltstronggtdorilton is a private investment firm that invests in businesses across a range of industry sectors working in partnership with management to build value over the longterm by providing funding and expertise to drive growth we help our companies and our people achieve their full potentialltbrgtltbrgtltstronggtabout the roleltbrgtltbrgtltstronggtwe are seeking a highly motivated and goaloriented data engineer to join our rapidly expanding organization the data engineer will be part of a growing advanced analytics team and will develop deploy and maintain scalable software solutions and services the ideal candidate is a data engineer capable to leverage cutting edge technologies to optimize longterm digital solutions as a data engineer you will contribute to the design and implementation of data pipelines for the dorilton platform in this role you will partner closely with the advanced analytics team members to help collect stream transform and effectively manage data for integration into critical reporting data visualizations and data products you will take their findings and create robust reusable code that is scalable and addresses the needs of our growing business the candidate will be focused driven and have strong communication skills they should be able to think critically have excellent time management skills and have a demonstrated ability to execute in fast paced environmentsltbrgtltbrgtltstronggtltugtposition responsibilitiesltbrgtltugtltstronggtltulgtltligtingest raw data assessing quality cleansing structuring for downstream processingltligtltligtfacilitate and execute the collection processing and analysis of virtually all business dataltligtltligtcombine and correlate large datasets from multiple data sources and analyze for integrityltligtltligtbuild the infrastructure required for efficient etl of data from a wide variety of data sourcesltligtltligtwrite code to interact with multiple external apis and systemsltligtltligtdesign complex queries to crunch data and produce summary and aggregate datasetsltligtltligthelp maintain the cloudbased data warehouse central to our effortsltligtltligtbuild data expertise and leverage data controls to ensure privacy security compliance data quality and operations for allocated areas of ownershipltligtltligtassist with datarelated technical issues and support their data infrastructure needsltligtltligtcreate scalable architecture to support the management deployment and usage of machine learning and mathematical modelsltligtltligtcollaborate with the analytics team members to optimize data pipelines and bring analytical prototypes to productionltligtltligtpartner with our scientists to manipulate datasets and to provide new features tailored to our business requirementsltligtltligtidentify design and implement internal process improvements find related data sources to our business needs automating manual processes optimizing data delivery redesigning infrastructure for greater scalability etcltbrgtltligtltulgtltstronggtltugtposition requirementsltbrgtltugtltstronggtltulgtltligta bachelors degree preferably in a computer science or a related fieldltligtltligtworking sql knowledge and experience working with relational databases query authoring sql as well as working familiarity with a variety of databasesltligtltligtexperience with schema design and dimensional data modelingltligtltligtexperience in custom etl design implementation and maintenanceltligtltligtexperience building and optimizing data pipelinesltligtltligtexperience performing root cause analysis on internal and external data and processes to answer specific business questions and find opportunities for improvementltligtltligta successful history of manipulating processing and extracting value from large disconnected datasetsltligtltligtexperience analyzing data to identify deliverables gaps and inconsistenciesltligtltligtexperience supporting and working with multifunctional teams in a dynamic environmentltligtltligtsolid software testing documentation and debugging practices in the context of distributed systemsltligtltligtgood knowledge of unixlinux including scriptingltbrgtltligtltulgtltstronggtltugtkey technologiesltbrgtltugtltstronggtltulgtltligtcloud environments such as gcp azure aws etcltligtltligtexperience with objectorientedobject function scripting languages python java etcltligtltligtexperience with snowflakeltligtltligtexperience with visualization tools power bi or tableaultligtltligtbonus experience with sparkltligtltligtbonus experience working with kubernetesltligtltligtbonus experience implementing and tuning machine learning modelsltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:23:56.000Z"
+  },
+  "company": {
+    "name": "Dorilton",
+    "link": "https://www.linkedin.com/company/dorilton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

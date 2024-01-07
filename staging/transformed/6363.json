@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software",
+    "description": "ltstronggtltugtwhat youll doltbrgtltugtltstronggtltulgtltligtdevelop scientifically rigorous creative methodologies to continuously improve our machine learning modelsltligtltligtincorporate machine learning and datadriven decisioning into the core of our infrastructureltligtltligtcontribute to design and automation of model training model postprocessing and evaluation pipelines at scaleltligtltligtleverage the extensive data generated in addition to data from external sources to generate structured knowledge about our feature spaceltligtltligtpresent your results internally and externallyltligtltligtdefend your methodology and incorporate feedback from internal teams as well as customersltligtltligtimprove model performance by identifying failure modes using supervised and unsupervised learning techniquesltligtltligtideate and implement datadriven methodologies to help scale model performance across geographical climatic and temporal dimensionsltligtltligtimplement automated solutions for ensuring data quality and deliveryltligtltligtexplore and mine new data sources that will help optimize and validate our modelsltligtltligtlink model capabilities to market needs by customizing models designing and running validation studiesltligtltligtcontribute to peer mentorship knowledge bases and skills transferltbrgtltligtltulgtltstronggtltugtskillsrequirementsltbrgtltugtltstronggtltulgtltligtphd in a stem field and years of handson industry experienceltligtltligtsolid knowledge of statistical techniques including hypothesis testing statistical sampling significance testing statistical inference maximum likelihood estimation and experimental design among othersltligtltligtmastery of supervised and unsupervised algorithms and their implementations machine learning concepts including regularization learning curves optimizing hyperparameters crossvalidation among othersltligtltligtadvanced knowledge and significant programming experience in python programming or other scripting language including relevant libraries like numpy pandas scipy matplotlibltligtltligtfamiliarity with the linux environment including shell scripting git and tools for reproducibility eg virtual environments docker ltligtltligtdemonstrated expertise in building data tools for etl and data analysisltligtltligtexperience in building meaningful data visualizations using at least one scriptingbased visualization tool such as matplotlib jsor bokehltligtltligtnice to havesexperience designing data schemas and extracting data from sql and nosql databases experience with gis systems experience with modern data technologies eg spark pytorch jupyter notebook dockerexperience with cloud computing on aws or gcpltligtltulgt",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-26T01:05:58.000Z"
+  },
+  "company": {
+    "name": "Resiliency LLC",
+    "link": "https://www.linkedin.com/company/resiliencyllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

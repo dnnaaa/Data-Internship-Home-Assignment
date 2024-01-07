@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software engineer - Perception",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtapple is looking for software engineers to develop and deploy perception technologies for autonomous systems you will work on a hardwaresoftware product enabled by the systems you buildltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtc you write clean welltested code youre passionate about code efficiency and correctnessltbrgtltbrgtexperience working with production software ltbrgtltbrgtyou are able to understand and contribute to highquality software for a complex systemltbrgtltbrgtexperience implementing numerical algorithms preferably in hpc environmentltbrgtltbrgtproficient understanding of algorithms and data structuresltbrgtltbrgtexcellent communication skills you collaborate optimally with other teams and communicate clearly about your workltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtwhat youll doltbrgtltbrgt take groundbreaking perception models from the lab to a critical systemltbrgtltbrgt work with machine learning teams to harden models for deploymentltbrgtltbrgt implement optimized algorithms that perform within platform constraintsltbrgtltbrgt develop and support tools that accelerate development and deploymentltbrgtltbrgt ownership for design development deployment and testltbrgtltbrgtworking with the team ltbrgtltbrgt youll join a fantastic team of hardworking engineers and researchers with deep experience in robotics machine learning and software engineering we hope you are passionate about the values that drive usltbrgtltbrgt passion for the mission were here to make something great we seek whatever work is right for the product and strive for the best possible resultsltbrgtltbrgt modesty the right answer is more meaningful than being right we search for solutions as a team and value cleareyed feedbackltbrgtltbrgt lean habits you cant grow without limits time constraints and big goals inspire us to sharpen our focus and learn to make phenomenal decisionsltbrgtltbrgtltbrgtltbrgtother skills we like to seeltbrgtltbrgt experience with python programmingltbrgtltbrgt experience with parallel tbb openmp andor gpgpu programmingltbrgtltbrgt strong d math and linear algebra skillsltbrgtltbrgt familiarity with cloud development eg aws spark sql and databasesltbrgtltbrgt familiarity with optimization of neural networks for deploymentltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbachelors or masters degree in computer science or equivalent professional experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:36:45.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

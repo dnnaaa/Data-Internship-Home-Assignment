@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "the microsoft search in bing team is looking for strong fullstack a senior developer with a passion for building large scale web services and state of the art web applications in this role you will have the opportunity to work on complex problems interface closely with the partner teams and contribute to the exciting product in microsoftltbrgtltbrgtyou will be part of a passionate and growing team who takes pride in their work and cares about their colleagues if you are someone who takes ownership of your projects and thrives in a dynamic environment then lets chatltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtarchitect design and develop large scale distributed software services and solutions in collaboration with teammates ltligtltligttake endtoend responsibility for the development observability quality testing and production readiness of the services you build ltligtltligtinvest in the growth of an inclusive and capable by mentoring and training team members within the team and across the org ltligtltligtconstantly improve our live site with monitoring and automation ltligtltligtbuild accessible experiences sensitive to the needs of all users ltligtltligtmodularize components for use across microsoft ltbrgtltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtltstronggtrequired qualificationsltbrgtltstronggtltulgtltligtbachelors degree or higher in a computer science or related technicalengineering disciplineltligtltligt years professional experience with at least one of cccjavaother programming language ltligtltligt years of clientside web development experience in typescript javascript reactreduxor similar technologies ltligtltligtexpertise in middle tierbackend technologies such as net relational andor nonrelational nosql databases web services and restful conceptsltbrgtltbrgtltligtltulgtltstronggtltugtpreferred qualificationsltbrgtltugtltstronggtltulgtltligt years of implementing code level patterns that allow large codebases ampamp teams to scale ltligtltligtgreat written and oral presentation skillsltligtltligtexperience driving efforts across product groups and business units ltligtltligtsolid coding debugging algorithm design and problemsolving skillsltligtltligtexperience with orchestration and distributed system architecture patterns ltligtltligttelemetry and experimentationltbrgtltbrgtltligtltulgtmicrosoft is an equal opportunity employer all qualified applicants will receive consideration for employment without regard to age ancestry color family or medical care leave gender identity or expression genetic information marital status medical condition national origin physical or mental disability political affiliation protected veteran status race religion sex including pregnancy sexual orientation or any other characteristic protected by applicable laws regulations and ordinances we also consider qualified applicants regardless of criminal histories consistent with legal requirements if you need assistance andor a reasonable accommodation due to a disability during the application or the recruiting process please send a request via the accommodation request formltbrgtltbrgtbenefitsperks listed below may vary depending on the nature of your employment with microsoft and the country where you workltbrgtltbrgtwebxt bing webdevelopement",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:03:56.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 150000,
+    "max_value": 182000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "i am hiring datascientist in seattle wa for a renowned pharmaceutuical clientltbrgtltbrgtqualification and experienceltbrgt bs degree with years of experience a msc degree with years of experience or a recent phd in statistics biostatistics computer science bioinformatics or similar fieldsltbrgt strong desire to learn with an interest in immunooncology and cellular therapyltbrgt experienced in interdisciplinary collaborations at the interface of data science and life sciencesltbrgt proficient in good coding practicesltbrgt command of data science stack of tools rpython notebooks and gitltbrgt experience with r shiny dash plotly streamlit or other reactive visualization frameworkltbrgt experience with apis or ability to quickly learn how to use them eg r httr or python requestsltbrgt experienced in data visualization and analyticsltbrgt experienced in setting up data workflows that interface with diverse ecosystem of data platforms and apisltbrgt computing proficiency base knowledge of linux os and interaction with cloudresources particularly awsltbrgtltbrgtpreferred ltbrgt experience with practicing agileltbrgt preferred experience with clinical data practices and standardsltbrgt preferred experience working with omics andor flow cytometry dataltbrgt preferred experience with cicd framework and sqlltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T22:30:58.000Z"
+  },
+  "company": {
+    "name": "ACS Solutions",
+    "link": "https://www.linkedin.com/company/acs-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

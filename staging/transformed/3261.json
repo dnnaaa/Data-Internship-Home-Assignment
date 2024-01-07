@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgthave you ever wanted to work on something that really matters is it important to you to help others live longer more fulfilling lives the health strategic initiatives team is focused on just that enabling individuals to live a healthier happier life through personalized and compelling products we are an experienced team of engineers data scientists doctors designers pms and business leaders we work in a collaborative and dynamic environment where we are constantly pushing ourselves to redefine the industry and create delightful user experiencesltbrgtltbrgtltbrgtdata is central to the success of our team we work in a tight feedback loop where data insights drive feature development and design as well as defining future strategy and products as a data engineer you contribution will be foundational to all we achieveltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtdeveloping etl and debugging using spark framework pysparkspark scala spark sql spark uiltbrgtltbrgtimplementing data transformation using pythonltbrgtltbrgtexperience with unixbased command line interface and bash scriptsltbrgtltbrgtexperience with workflow scheduling orchestration such as airflow or oozieltbrgtltbrgtdatabase development experience with relational or mppdistributed systems experience w postgresltbrgtltbrgtdata visualization experience using python or similar technologiesltbrgtltbrgtexperience with query apis using json protocolbuffers or xmlltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtone of your main areas of contribution will be in the area of analytics tools and services to support analyticsltbrgtltbrgtimplement and maintain endtoend data pipelines with structural understanding of data productsltbrgtltbrgtdeveloping tools to support analytics needs and facilitate analysis and insightsltbrgtltbrgtcreate intermediate tables from raw data to support adhoc analyses and reportingltbrgtltbrgtdevelop and maintain data qa frameworkltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgta background in computer science mathematics or similar quantitative field with a minimum of years professional experience masters preferredltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T08:01:58.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 122000,
+    "max_value": 220000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

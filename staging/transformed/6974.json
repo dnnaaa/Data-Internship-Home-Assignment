@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtdo you love solving sophisticated challenges and are passionate about data at apple great ideas have a way of becoming phenomenal products services and customer experiences very quickly bring passion and dedication to your work and theres no telling what we could accomplishltbrgtltbrgtltbrgtjoin us and become an early member of the acs data governance infrastructure team we are building an ecosystem of services to help apple organize its data better take betterinformed actions on the data with increasing precision in security privacy and efficiency improve its risk management capabilities and increase confidence in the data qualityltbrgtltbrgtltbrgtwe are looking for a passionate software engineer with experience in developing largescale services and infrastructure to join our friendly collaborative team if you are intrigued and want to learn more apply for this position we get to influence dataled decisions that touch billions of apples customers every day and we would love to chat with youltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtyou have a successful track record and proven experience in backend software developmentltbrgtltbrgtyou have a demonstrated aptitude for building launching and operating very largescale production internet servicesltbrgtltbrgtyou have a deep knowledge of java java libraries nonblocking and threadsafe programmingltbrgtltbrgtyou have some exposure to structured or unstructured storage and cachingltbrgtltbrgtyou have an understanding of file system handling on linuxltbrgtltbrgtexperience with web ui including modern js frameworks eg react a plus knowledge of continuous integration testing methodologies tdd and agile development methodologiesltbrgtltbrgtmost importantly you are thrilled to help solve the big data governance challengesltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtwe just started on a journey to build the foundational components for the data governance initiative we are developing a unified data catalog with a technical layer to enable a central system to capture and store the metadata we are also building a compatible inference layer to help our users make sense of the stored business and operational metadata across all the datasets we also plan to develop a centralized and pluggable policy engine that is well integrated with apples ecosystem and allows our stakeholders to customize and apply data policy rules for all datasetsltbrgtltbrgtwe are creating these centralized infrastructure pieces to foster a broader data strategy here at apple these infrastructure pieces will provide visibility to apples datasets taxonomy and business context the work is impactful and focuses on solving data distributed systems problems relating to scale and efficiencyltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbs ms or phd in computer science or equivalent experienceltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T09:21:23.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

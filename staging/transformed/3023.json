@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ltstronggtyears of experience ltstronggt yearsltbrgtltbrgtltstronggteducation requirements ltstronggt bachelors degreeltbrgtltbrgtltstronggtposition description ltstronggt cicd engineer is responsible for the setup maintenance and ongoing development of continuous buildintegration infrastructureltbrgtltbrgtltstronggtltugtrequirementsltbrgtltbrgtltugtltstronggtltstronggtresponsibilities ltbrgtltstronggtltulgt ltligtcreate and maintain fully automated ci build processes for multiple environmentsltligt ltligtwrite build and deployment scriptsltligt ltligtsupport cicd tools integration operations change management and maintenanceltligt ltligtsupport full automation of citestingltligt ltligtdevelop policies standards guidelines governance and related guidance for both cicd operations and for work of developersltligt ltligtonboard train and support developers from source control through build automation merge resolution ci test automation deployment based on tools usage and policies standardsltligt ltligtenable devops by moving code from devtest to staging and production troubleshoot issues along the cicd pipelineltligt ltligtgood understanding of quality control and test automation in agilebased continuous integration environmentsltligt ltbrgtltbrgtltulgtltstronggtltugtrequired skillsltbrgtltugtltstronggtltulgt ltligt years of experience building devsecops pipelines for implementing cicd for cloud applicationsltligt ltligtpossess deep expertise in scripting languages like bash python and groovy and are very skilled in troubleshooting deployment issues on awsltligt ltligthave minimum years of experience managing resources on awsltligt ltligtpossess deep expertise in many tools from the devsecops tool chainltligt ltligtworking knowledge of fundamental linux systems administrationltligt ltligtworking knowledge of fundamental windows systems administration ltligt ltligt ltstronggtcertifications ltstronggtltstronggt aws solutions architect associate or developer associateltstronggt ltligt ltligtmust be able to obtain a public trust security clearanceltligt ltbrgtltbrgtltulgtltstronggtltugtpreferred skillsltbrgtltugtltstronggtltulgtltligtprevious experience with va and working on va legacy systems for education serviceltbrgtltbrgtltligtltulgtltstronggtltugtsoft skillsltbrgtltugtltstronggtltulgt ltligt ltstronggtorganizational skills ltstronggt can plan and prioritize work follows tasks to their logical conclusion and makes sure that everything has been done to the right standard good attention to detailltligt ltligt ltstronggtteam work ltstronggt able to enthuse and maintain project interest comfortable working both individually and as part of a team prepared to challenge ideas within a group in a constructive way ltligt ltligt ltstronggtcommunications ltstronggt ability to communicate clearly and efficiently to team members and clients verbally and in writing able to present ideas in a variety of ways depending upon audience and context excellent active listening skillsltligt ltligt ltstronggtquantitative management ltstronggt ability to determine process measures and track to determine process effectiveness and efficiency ltligt ltligt ltstronggtresults orientedltstronggt able to drive things forward regardless of personal interest in the taskltligt ltbrgtltbrgtltulgtltugtltstronggtbenefitsltbrgtltbrgtltstronggtltugtses provides a competitive salary and the following benefitsltbrgtltulgt ltligtmedicalltligt ltligtdentalltligt ltligtvisionltligt ltligtadampampdltligt ltligtstdltligt ltligtltdltligt ltligtcompany paid life insuranceltligt ltligtk with employer contributionltligt ltligtpaid time offltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T15:59:48.000Z"
+  },
+  "company": {
+    "name": "SES Corporation",
+    "link": "https://www.linkedin.com/company/ses-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chantilly",
+    "region": "VA",
+    "postal_code": "22022",
+    "street_address": null,
+    "latitude": 38.888687,
+    "longitude": -77.417496
+  }
+}

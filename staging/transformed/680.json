@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology,Research,Medical Devices",
+    "description": "ltstronggtintroductionltbrgtltbrgtltstronggtilluminas clinical bioinformatics group are looking for an enthusiastic and highly numerate data scientist to join their team based in san diego ca to support the development of new illumina products and help maintain onmarket solutionsltbrgtltbrgtmembers of the team collaborate closely with lab scientists to support assay development and with software engineers to support software development the team is responsible for experimental design data management data analysis algorithm development and bioinformatics software development the ideal candidate will be able to work in a crossfunctional team translating the challenges faced by the group into bioinformatics solutionsltbrgtltbrgtltstronggtltugtresponsibilities include but are not limited toltbrgtltugtltstronggtltulgtltligtbuild robust pipelines and adhoc scripts to analyze massively parallel sequencing ngs genomic data and organize the results to enable further analysisltligtltligtwrite productionquality implementations of bioinformatic tools and machine learning algorithms for inclusion in illuminas dragen bioit softwareltligtltligtsupport the assay development team with experimental design and data analysisltligtltligtdevelop novel and optimize existing algorithms to improve product performance and patient outcomesltligtltligtregular communication of analysis results and other findings to a crossfunctional teamltligtltligtproduce documentation of data analyses custom software tools or software development activities to meet the requirements of ivd product developmentltligtltulgtltstronggtskills and experienceltstronggtltstronggtrequiredltbrgtltstronggtltulgtltligtphd or masters degree with more than years of industry experience in statistics bioinformatics computational biology computer science or a related fieldltligtltligtdemonstrated experience with statistical and mathematical modelling of largescale datasets using a distributed computing environmentltligtltligtdemonstrated experience with machine learning techniques bayesian statistics and multivariate analysisltligtltligtdemonstrated participation in highly collaborative efforts with research scientists and engineersltligtltligtexpert in r at the level of authorship of rspecific articles presentations at specialized conferences authorship and maintenance of a cran package showcase of r shiny apps data science blogs with high page rankltligtltligtmust have very strong written communication and presentation skills with the ability to present to both scientific and corporate audiencesltligtltulgtltstronggtdesirableltbrgtltstronggtltulgtltligtproficiency with tidyverse bioconductor jupyter notebooksltligtltligtexperience with version control systems eg githubltligtltligtexperience with sge strongly preferred experience with other job managers torquepbslsf is acceptableltligtltligtexperience working with ngs data or other genetic informationltligtltulgtat illumina we strive to foster a diverse and inclusive workplace by cultivating an environment in which everyone contributes to our mission built on a strong foundation illumina has always been rooted in openness collaboration and seeking alternative views and perspectives to propel innovation in genomics we are proud to confirm a zeronet gap in pay regardless of gender ethnicity or race we also have several employee resource groups erg that deliver career development experiences increase cultural awareness and demonstrate our collective commitment to diversity and inclusion in the communities we live and work we are proud to be an equal opportunity employer committed to providing employment opportunity regardless of sex race creed color gender religion marital status domestic partner status age national origin or ancestry physical or mental disability medical condition sexual orientation pregnancy military or veteran status citizenship status and genetic information if you require accommodation to complete the application or interview process please contact accommodationsilluminacom to learn more visit httpswwwdolgovofccpregscomplianceposterspdfeeopostpdf",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T00:59:08.000Z"
+  },
+  "company": {
+    "name": "Illumina",
+    "link": "https://www.linkedin.com/company/illumina"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76600,
+    "max_value": 135000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

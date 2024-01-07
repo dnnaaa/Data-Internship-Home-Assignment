@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Simulation Technology - New College Grad",
+    "industry": "Computer Hardware,Computer Software,Consumer Electronics",
+    "description": "intelligent machines powered by ai computers that can learn reason and interact with people are no longer science fiction today a selfdriving car powered by ai can meander through a country road at night and find its way an aipowered robot can learn motor skills through trial and error this is truly an outstanding time the era of ai has begun at nvidia simulation is at the core of everything we do nvidia gpus and nvidia expertise are paving the way for simulation technology to shape the future by joining our team you will directly contribute to an exciting field surely to change our way of lifeltbrgtltbrgtwe are now looking for a software engineer new college grad for our roboticsav simulation teamltbrgtltbrgtltstronggtltugtwhat you will be doingltbrgtltugtltstronggtltulgtltligtwork closely with simulation engineers robotics researchers and artists to define and deliver a simulation environment that accelerates robotics and autonomous vehicle developmentltbrgtltligtltulgtltstronggtltugtyou will help build productionquality software thatltbrgtltugtltstronggtltulgtltligtsimulates trains and tests different types of robots vehicles and scales from the edge to the cloudltligtltligtsimulates different physical sensors camera lidar imu vehicle and rigidsoft body dynamicsltligtltligtgenerates synthetic data segmentation bounding boxes labels etc for perception navigation and manipulation trainingltligtltligtensures transfer learning from simulation to physical robotsltligtltligtprovides a simulation environment to develop intelligent machines that can work closely with people in a safe collaborative mannerltbrgtltligtltulgtltstronggtltugtwhat we need to seeltbrgtltugtltstronggtltulgtltligtphd masters or bachelors degree in computer science applied math or related field or equivalent experienceltligtltligtsoftware development skills c pythonltligtltligtstrong mathematical fundamentals including linear algebra and calculusltligtltligtexperience with gamephysics engine developmentltligtltligtambitious to deliver eager to learn new things and strong communication skillsltbrgtltligtltulgtltstronggtltugtways to stand out from the crowdltbrgtltugtltstronggtltulgtltligtexperience with ros opendrive physics simulation software sensor simulation computer graphics version controlltligtltligtbackground with docker scalable cloud aws kubernetes deploymentsltligtltligtexperience with shipping and supporting software productsltligtltligtfamiliar with ai concepts supervised learning reinforcement learningltligtltligtbackground with dataparallel andor accelerated computing cuda openclltbrgtltligtltulgtnvidia is widely considered to be one of the technology worlds most desirable employers we have some of the most forwardthinking and talented people in the world working for us if youre creative and have a passion for developing and shipping groundbreaking products we want to hear from youltbrgtltbrgtnvidia is committed to fostering a diverse work environment and proud to be an equal opportunity employer as we highly value diversity in our current and future employees we do not discriminate including in our hiring and promotion practices on the basis of race religion color national origin gender gender expression sexual orientation age marital status veteran status disability status or any other characteristic protected by lawltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T06:18:14.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 130000,
+    "max_value": 170000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

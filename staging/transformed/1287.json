@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Performance Software Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "ltstronggtltugtthe roleltbrgtltbrgtltugtltstronggtas a member of the dojo machine learning team you will be responsible for enabling teslas neural networks to train efficiently on our upcoming inhouse customsilicon supercomputer systems join a small team of experienced developers in optimizing and scaling the deployment of our pytorchderived neural networks on teslas custom massivelyparallel dojo accelerators work with many of the same great engineers who delivered teslas custom fsd computer the ideal candidate has experience with writing software for large distributed systemsltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltugtltstronggtltulgtltligtunderstand and model the end to end training performance of the autopilot sw teams pytorchderived neural networks on the dojo systemltligtltligtdevelop software that scales and improves training performance based on your analysis of bottlenecksltligtltligtcollaborate with the dojo hw team to understand current hw architecture and propose future improvementsltbrgtltbrgtltligtltulgtltstronggtltugtrequirementsltbrgtltugtltstronggtltulgtltligtbs in relevant field computer science computer engineering etcltligtltligtcomfortable with c and pythonltligtltligtcapable of delivering results with minimal oversightltligtltligtgood communication skillsltbrgtltbrgtltligtltulgtltstronggtltugtnice to haveltbrgtltugtltstronggtltulgtltligtexperience scaling neural network training systems or other large distributed systemsltligtltligtfamiliarity with the internals of pytorchltligtltligtperformance analysis experienceltligtltligtexperience coding parallel programsltligtltligtable to work from deer creek palo alto officeltligtltligtready to start soonltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T23:31:11.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

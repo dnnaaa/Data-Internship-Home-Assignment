@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Apple Media Products",
+    "industry": "Consumer Electronics",
+    "description": "ltbrgtltstronggtsummaryltbrgtltstronggt ltbrgtthe apple media products engineering team is one of the most exciting examples of apples longheld passion for combining art and technology these are the people who power the app store apple tv apple music apple podcasts and apple books and they do it on a massive scale meeting apples high expectations with high performance to deliver a huge variety of entertainment in over languages to more than countriesltbrgtltbrgtltbrgtthese engineers build secure endtoend solutions they develop the custom software used to process all the creative work the tools that providers use to deliver that media all the serverside systems and the apis for many apple services ltbrgtltbrgtltbrgtthanks to apples unique integration of hardware software and services engineers here partner to get behind a single unified vision that vision always includes a deep commitment to strengthening apples privacy policy one of apples core values although services are a bigger part of apples business than ever before these teams remain small nimble and crossfunctional offering greater exposure to the array of opportunities hereltbrgtltbrgt ltbrgtltstronggtkey qualificationsltbrgtltstronggt ltbrgtat least years experience in a professional programming position with java and similar languagesltbrgtltbrgtstrong understanding of building microservices using reststyle apisltbrgtltbrgtindepth knowledge of database systems and domain modeling techniquesltbrgtltbrgtconfidence with both sql databases like oracle and nosql databases like cassandraltbrgtltbrgtjson protobuf serialization and grpcltbrgtltbrgtexperience deploying software on elastic platforms such as kubernetes ec etcltbrgtltbrgtenjoys fixingimproving things and finding solutions to difficult problemsltbrgtltbrgtstrong belief in automation and tooling as a critical part of the software lifecycleltbrgtltbrgtstrong written and oral communication skillsltbrgtltbrgt ltbrgtltstronggtdescriptionltbrgtltstronggt ltbrgtas an engineer on the amp asset infrastructure team youll support the content processing pipelines and asset management for all of apples digital content including apps music movies and books on the app store and itunes store we manage the life cycle of apples digital assets and are responsible for maintaining secure access to them across both new and legacy applications ltbrgtltbrgtltbrgtas a member of our team you will collaborate with multiple engineering teams business operations production support site reliability engineering quality assurance and other infrastructure teams you will develop the next generation of asset management systems and and work with our partner teams to migrate legacy systems onto your new platforms we will be seamlessly migrating live data and content while maintaining the service quality apple customers expectltbrgtltbrgtltbrgtour team is geographically diverse were looking for someone whose people skills complement their coding skills someone who likes improving things as much as building things and someone who is passionate about discovering new ways to accelerate the rate at which we can improve our productsltbrgtltbrgt ltbrgtltstronggteducation ampamp experienceltbrgtltstronggt ltbrgtbachelors or masters degree in computer science or equivalentltbrgtltbrgt ltbrgtrole number ltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:15:30.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 153000,
+    "max_value": 203000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

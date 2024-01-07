@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Systems Engineer - Data Modeling / Date Mapping",
+    "industry": "Civil Engineering",
+    "description": "ltstronggtltugtperaton overviewltbrgtltbrgtltugtltstronggtperaton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy as the worlds leading mission capability integrator and transformative enterprise it provider we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure peraton serves as a valued partner to essential government agencies across the intelligence space cyber defense civilian health and state and local markets every day our employees do the cant be done solving the most daunting challenges facing our customersltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltbrgtltugtltstronggtprovide support and related services to the implementation of enterprise data representations in various mission domains the successful individual will perform endtoend systems engineering for data flows from the perspective of data format modeling data mapping and support to implementers and mission customers this position requires strong software and systems engineering expertise from cradle to grave with limited highlevel direction in the areas ofltbrgtltulgtltligtperforming highlevel data requirements analysis to support application of data standards across the enterprise duties require a broad range of knowledge including information technology requirements technical architecture analysis eg understanding data flow diagrams system architecture diagrams etc and an understanding of functional and system analysisltligtltligtcoordinating across teams that leverage multiple development methodologies agile scrum ampamp kanban etcltligtltligtpossessing an instinctive aptitude to leverage information and knowledge sharing networks and navigate conflict in a way that fosters constructive outcomesltbrgtltligtltulgtthe selected candidate will demonstrate the aptitude to learn and grow in the following areasltbrgtltulgtltligtintegrating national and tactical data architectures into enterprise data representations or formats that can produce outputs to support multiple system architectures this includes systems and data architecture and integration data modeling and data mapping in direct support of enterprise technology leadershipltligtltligtmaintaining awareness of commercial data standards and community data standardization activitiesltligtltligtcorporate architecture and tools to include the event warehouse content warehouseltbrgtltligtltulgtapplicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified informationltbrgtltbrgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtltstronggtindividual capabilitiesexperience requiredltbrgtltstronggtltulgtltligtbachelors degree in a qualified engineering field or a related discipline from an accredited college or university with a minimum of years of general systems engineering experience a masters degree or phd in a qualified engineering field or a related discipline from an accredited college or university with a minimum of years of general systems engineering experience or a high school diploma or ged with a minimum of years of general systems engineering experienceltligtltligtnosql databases elasticsearch snowflake etcltligtltligtlinuxltligtltligtawsgcp or our local variants mashcsltligtltligtcontainers dockerltligtltligtorchestration ansiblepuppetchefsaltltligtltligtdata wrangling mungingmovingtransferring itltligtltligtopen sourcegithubltligtltligtposition requires tssci clearance with polygraphltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:47:16.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62200,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Meade",
+    "region": "MD",
+    "postal_code": "20755",
+    "street_address": null,
+    "latitude": 39.09555,
+    "longitude": -76.75768
+  }
+}

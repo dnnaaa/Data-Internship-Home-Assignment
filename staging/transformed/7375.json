@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer 2",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "ltstronggtsite reliability engineer iiltbrgtltbrgtltstronggtltstronggtdigital security ampamp resilience dsrltbrgtltbrgtltstronggtthe mission of microsoft digital is to power protect and transform microsoft as the voice of our digital transition in the market as part of microsofts cloud ai group we are responsible for building managing and securing the platform products processes and services that powers microsoft we build maintain and implement a cloudfirst approach to our technology and experiences from custombuilt business solutions developing our campus of the future and our productivity and collaboration experiences like teams and sharepoint to horizontal rd party solutions like sap and adobe as a steward of microsoft and our customers data a core function of microsoft digital is ensuring the security of every aspect of the business microsoft digital is responsible for companywide information security and compliance with a strategic focus on information protection assessment awareness governance and enterprise business continuity microsoft digitals charter is also to influence and work alongside engineers across the company and with strategic partners to build and grow their cloud products and services as customer zero we deploy these services inside microsoft and then share best practices with enterprise customers at scale across the globe we have exciting opportunities for you to innovate influence transform inspire and grow within our organization and we encourage you to apply to learn moreltbrgtltbrgtsecurity boundaries have changed and identity is the new perimeter with such a shift there is a strong emphasis on carefully analyzing and in many cases hitting refresh on the components that comprise the enterprise identity and access management platforms as we know themltbrgtltbrgtmicrosoft is seeking an identity focused site reliability engineer to join the digital security ampamp resilience dsr organization as we undergo the journey to ensure that the right identities get access to the right resources at the right time protected each step of the wayltbrgtltbrgtwith your experience and knowledge of active directory ad azure including azure ad data synchronization enterprise identity management solutions and overall service health you will champion our own identitycentric digital transformation and support hundreds of thousands of employees as they seek to empower every person on the planet to accomplish moreltbrgtltbrgtltstronggtpreferred work locationsltbrgtltbrgtltstronggtatlanta georgialtbrgtltbrgtaustin texasltbrgtltbrgtredmond washingtonltbrgtltbrgtreston virginialtbrgtltbrgtremote in the usltbrgtltbrgtltstronggtltugtresponsibilitiesltbrgtltbrgtltugtltstronggtltstronggtkey responsibilitiesltbrgtltstronggtltulgtltligtprovide technical engineering for a crossfunctional highly visible operations team supporting the identity platform for microsofts corporate networkltligtltligtidentify opportunities and drive the implementation of automation to improve service health manageability reliability and telemetryltligtltligtown triage investigate and resolve service issues with an emphasis on broad communications learning ampamp teaching throughout the processltligtltligtability to read write configure design and script endtoend service telemetry alerting and selfhealing capabilities for platforms authoring functional and technical documentationltligtltligtcommunicate on a deeply technical level with product engineering project management and operations teams to improve and optimize products improve infrastructure and evolve services ltligtltligtremain current on new technologies methods and procedures including but not limited to coding practices such as testdriven development continuous integration and continuous deploymentltbrgtltligtltulgtltstronggtltugtqualificationsltbrgtltbrgtltugtltstronggtltstronggtknowledge experience and skills requiredltbrgtltstronggtltulgtltligt years of active directory or aad powershell windows server sqlltligtltligt years of supporting data synchronization products ie mim andor aadconnectltligtltligt years of enterprise scale identity management experience ltligtltligt years of developing and supporting web services andor deploymentorchestration automation ltbrgtltligtltulgtltstronggtltugtpreferred not requiredltbrgtltugtltstronggtltulgtltligtbsba in computer science or equivalent work experience ltligtltligtprogramming experience with cltligtltligtexperience with service telemetry tools such as azure log analytics and appinsightsltligtltligtfurther experience with exchange dns adfs certificate management ltbrgtltligtltulgtmicrosoft is an equal opportunity employer all qualified applicants will receive consideration for employment without regard to age ancestry color family or medical care leave gender identity or expression genetic information marital status medical condition national origin physical or mental disability political affiliation protected veteran status race religion sex including pregnancy sexual orientation or any other characteristic protected by applicable laws regulations and ordinances we also consider qualified applicants regardless of criminal histories consistent with legal requirements if you need assistance andor a reasonable accommodation due to a disability during the application or the recruiting process please send a request via the accommodation request formltbrgtltbrgtbenefitsperks listed below may vary depending on the nature of your employment with microsoft and the country where you work",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-03T10:45:44.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

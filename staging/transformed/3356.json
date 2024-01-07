@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "ltpgturjanet is an atlantabased technology company that has built the worlds first and largest platform to aggregate utility data through this platform our customers use utility data to support a variety of applications and use cases including energy management sustainability reporting bill payment credit decisioning and address verification our ltpgtltpgt platform which has won numerous awards is available in fortyseven countries around the world and expanding rapidly ltpgtltpgturjanet has positive impacts on climate change financial inclusion and data privacy were looking for top talent to join our team and help shape the future of our business ltpgtltpgturjanet seeks a site reliability engineer to be part of our team in atlanta georgia this individual will be part of the global team that provides support for our production operations in the cloud they will also be responsible for contributing to the maintenance and improvement of our infrastructure the successful candidate will have experience in aws a solid understanding of continuous deployment automation production alarming and ltpgtltpgt operations and some scripting and coding experience ltpgtltpgtltstronggtresponsibilities ltstronggtltpgtltpgt monitor maintain and improve the engineering infrastructure making sure that our production environment is ltpgtltpgt continually available for our customers and responding to any alerts or issues ltpgtltulgtltligtparticipate in production operations shift coverage to ensure continuous availability x of the infrastructure ltligtltligtyoure responsible for maintaining ltligtltligtwork directly with engineering to help troubleshoot and adjust alarms as needed to keep alarms relevant and ltligtltulgtltpgt alarm fatigue at a minimum ltpgtltulgtltligtcreate and maintain documentation regarding processes and troubleshooting procedures ltligtltligtengineer tools and processes to reduce downtime and toil for the team ltligtltulgtltpgt contribute to projects either as an individual or as part of a small team with research and implementation to help bring them to completion ltpgtltpgt ltpgtltpgt participate in peer technical design review sessions to assist in bringing about best practices and optimize designssolutions ltpgtltpgtltstronggtrequirements ltstronggtltpgtltulgtltligt at least years experience in an operations support role in the public cloud ltligtltligtfamiliarity with aws our primary workloads are on aws and as a result so are all the daytoday operations ltligtltulgtltpgt you will be responsible for you should have a familiarity with aws somewhere near the aws solutions architect associate level as well as the handson experience to match you must have this in order to perform the job ltpgtltulgtltligtsome familiarization with containers and kubernetes the majority of our workloads are containerized understanding the basic concepts will be needed to assist with your troubleshooting ltligtltligtsolid understanding of continuous delivery and infrastructure as code design and most implementation of the mechanisms will fall to more senior members of the team however you will be utilizing the existing implementations daily and in the case of iac be making adjustments ltligtltligtsome experience with scripting you should have a moderate amount of experience with scripting andor programming and be able to pick up new ones quickly scripting work will include not only modification or ltligtltulgtltpgt improvement of existing scripts but creation of new ones as necessary this position will primarily use bash ltpgtltpgtpython or golang ltpgtltulgtltligtstrong understanding of some of the commonly used internet protocols and networking as well as cloud ltligtltligtnetworking subnetting firewalling and protocols like dns ssh https smtp as well as any aws ltligtltligtspecific implementations route security groupsacls albs ses etc will be used on a regular basis ltligtltligtexperience with jenkins we use jenkins heavily in our daytoday operations ltligtltligtfamiliarity with atlassian products we use multiple atlassian products familiarity with jira confluence and ltligtltulgtltpgt bitbucket or an equivalent git based scm will assist greatly in your daytoday tasksltpgtltpgt familiarity with source control git being able to perform checkouts branching and commits as needed to ltpgtltpgtmake changes that will get processed by the cd systemltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T13:09:52.000Z"
+  },
+  "company": {
+    "name": "Urjanet",
+    "link": "https://www.linkedin.com/company/urjanet-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

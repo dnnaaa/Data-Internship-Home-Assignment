@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "ltpgtltstronggtoverviewltstronggtltpgtltpgtltbrgtltpgtltpgtas a member of our banking clients data science team youll be working on the machine learning pipelines that provide actionable intelligence that helps their bankers grow their books of business while working with an ever expanding number of clients the team aims to accomplish this goal with effective use of technology and data science techniques coupled with genuine curiosity and handson understanding of the business that we strive to facilitateampnbspltpgtltpgtltbrgtltpgtltpgtltstronggtresponsibilitiesltstronggtltpgtltpgtltbrgtltpgtltpgt produce intelligence eg predictive models reports dashboards to assist bankers with their clients needs youll illuminate these needs through indepth study of the clients business with the bank and their interactions with the bankers you will also apply your intuition and relevant statistical techniques to make inferences and predictions from dataltpgtltpgt promote your work and supporting its adoption youll be producing and interacting with a lot of artifacts communicated to bankers and executives on a regular basis as well as collecting feedback and providing governance once they are in production you will need to think critically about how your output is utilized by its audience communicating results to stakeholders in a way that makes them useful will be contingent on your ability to appreciate and assimilate the bankers perspective success in this regard means being a banker before being a data scientistltpgtltpgt build out the banks data pipelines much of the data is not big but it is messy and the engineering pipelines are often built concurrently with analysis your data wrangling chops will be tested dailyltpgtltpgtltbrgtltpgtltpgtltstronggtexperienceltstronggtltpgtltpgtltstronggtltspan classqlcursorgtltspangtltstronggtltpgtltpgt gritltpgtltpgt curiosityltpgtltpgt organizationltpgtltpgt thoughtfulnessltpgtltpgt strong statistical acumenltpgtltpgt experience navigating tight deadlinesltpgtltpgt effective oral and written communicationltpgtltpgt a portfolio of selfdirected data projectsltpgtltpgt a graduate degree in the physical sciencesltpgtltpgt several thousand hours of prior coding experienceltpgtltpgt ability to identify the key deliverables for initially vague problem statementsltpgtltpgthandson experience with the following technologies would be very helpfulltpgtltpgt gitltpgtltpgt commandline interface on linuxmacosltpgtltpgt databases eg sql server snowflake mongodbltpgtltpgt python eg scipy stack statsmodels pyspark tensorflowltpgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T18:13:41.000Z"
+  },
+  "company": {
+    "name": "Addastaff Consulting Incorporated",
+    "link": "https://www.linkedin.com/company/addastaff-consulting-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

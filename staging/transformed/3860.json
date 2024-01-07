@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "ltstronggtltugtabout stackpathltbrgtltbrgtltugtltstronggtstackpath is a platform of secure internet services built at the clouds edge stackpath services enable developers to build protection and performance into any cloudbased solutionfrom apps to games web sites and beyondwithout needing cloud security and delivery expertise of their own more than customers already use stackpath services ranging from earlystage enterprises to fortune organizations headquartered in dallas texas stackpath has offices across the us and around the worldltbrgtltbrgtfor more information follow stackpath at wwwfbcomstackpathllc and wwwtwittercomstackpathltbrgtltbrgtltstronggtltugtabout the roleltbrgtltbrgtltugtltstronggtthe stackpath site reliability engineering sre team combines software systems and network engineering to deploy and run a portfolio of highperformance edge services including cdn waf and compute sres daily focus is on the availability change velocity performance and capacity of customerfacing services and supporting internal systemsltbrgtltbrgton the sre team you will have the opportunity to apply your experience against systems at scale where a single week can involve shifting terabits of traffic between sites deploying configuration changes to shave milliseconds off billions of requests or enabling a new software feature on thousands of systems using automated tooling you designed and builtltbrgtltbrgtthis role will report to our vp site reliability engineeringltbrgtltbrgtltstronggtltugtessential duties and responsibilitiesltbrgtltugtltstronggtltulgtltligtrespond to incidents during oncall dutyltligtltligtrespond to complex customer escalations which often cross system network and software boundariesltligtltligtdesign develop and maintain internal service metrics sla slo sli in crossteam collaborationsltligtltligtdesign develop and maintain dashboards tooling alarms and playbooks in collaboration with operations teams to support servicelevel objectivesltligtltligtdesign develop and maintain reusable monitoring and canary infrastructureltligtltligtdesign execute and evaluate performance experimentsltligtltligtcollaborate with development teams to complete production readiness checklists prior to major feature launchesltligtltligtcollaborate with operations and engineering teams in determining root cause of major incidents performance anomalies or other customerimpacting issuesltbrgtltligtltulgtltstronggtltugtdesired skills and experienceltbrgtltugtltstronggtltulgtltligtexperience with monitoring and alerting platforms prometheus and alertmanager grafana zabbix nagiosltligtltligtexperience with a linux server environmentltligtltligtexperience with scripting languages python ruby perlltligtltligtexperience with systems programming languages go cltligtltligtexperience with configuration management systems puppet ansible chefltligtltligtexpertlevel proficiency in systems network or software engineeringltligtltligtexcited about working on a remotefirst engineering teamltligtltligtproficient at troubleshooting complex systemsltligtltligtproduction experience in a service provider environmentltligtltligtcomfortable with a software engineering workflow for collaboration and configuration management branches pull requests merges conflictsltbrgtltligtltulgtltstronggtltugtprojects you might work onltbrgtltugtltstronggtltulgtltligtproduct launchesltligtltligtsoftware and platform feature releasesltligtltligtlive streaming event planning and executionltligtltligtnetwork reach and capability expansionltligtltligtnetwork and system automation tooling developmentltligtltligttelemetry and monitoring system developmentltligtltligtdefining service metrics sla slo sli during new product developmentltbrgtltligtltulgtltstronggtltugtthis job description is not intended to be allinclusiveltbrgtltbrgtltugtltstronggtltstronggtstackpath is an equal opportunity employer eoeaa mfdvltbrgtltbrgtltstronggtif your experience and qualifications match our current needs a member of our human resources team will contact you we look forward to hearing from youltbrgtltbrgtstackpath collects and processes personal data submitted by job applicants in accordance with our privacy policyltbrgtltbrgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T01:30:50.000Z"
+  },
+  "company": {
+    "name": "StackPath",
+    "link": "https://www.linkedin.com/company/stackpath"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

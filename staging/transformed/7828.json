@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer II",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "who we are looking forltbrgtltbrgtltstronggtltugtwe seek a hardworking and passionate full stack developers with knowledge of datacenter infrastructure and cloud platforms who can bring the followingltbrgtltugtltstronggtltulgtltligtability to observe diagnose and develop fixes for production issues quickly and efficientlyltligtltligtability to develop and drive real time supervising solutions that provide visibility into site health and key performance indicatorsltligtltligtstrong communication skills written and verbal you excel at clearly articulating issues and their impactsltligtltligthighly confident and capable in reporting and communicating high value metrics to leadership deep understanding of the business landscape and how site reliability influences our consumersltligtltligtworking understanding of it service management incident problem change and knowledge managementltligtltligtability to work across teams business and technical to continuously analyze system performance in production troubleshoot consumer reported issues and proactively identify areas in need of optimizationltligtltligtpractical experience in managing and leading application reliability practices for order management and fulfillment related systemsltligtltligtdemonstrated negotiation and influencing skillsltligtltligtpassion for coaching guiding mentoring and learningltligtltulgt what you will work onltbrgtltbrgtas a site reliability engineer you will be passionate about maximum availability observability reliability security and performance for nike digital order management systemsltbrgtltbrgtsres perform deep problem analysis detect infrastructure or code defects define report and create observability processes for key performance indicators kpis and work with product delivery teams to provide long term solutions to production issuesltbrgtltbrgtwhat you bringltbrgtltulgtltligtbachelors degree in computer science information systems business or other relevant subject arealtligtltligt years of professional experience in software development operations or supportltligtltligtstrong design and development experience with javaltligtltligtexperience in micro service architecture domain driven design and restful services using languages such as java node scala python etcltligtltligtexperience working with nosql data stores like cassandra dynamodb mongodb etcltligtltligtexposure to supply chain domain areas like inventory management order management logistics management warehouse managementltligtltligtexperience working in a distributedcloudbased environment eg amazon ec gce rackspace azure etcltligtltligtexperience in other modern enterprise languages functional or other scala python golang etc is preferredltligtltligtbasic understanding of dns networking virtualization linuxltligtltligtexpertise in designingbuildingsupporting scalable cloudbased micro servicesltligtltligtgood understanding of restful apisltligtltligtbasic understanding of common tools for service management agile and observability servicenow jira jenkins splunk new relic signalfxltligtltligtbackground with itil or lean a plusltligtltulgt",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T02:32:32.000Z"
+  },
+  "company": {
+    "name": "Nike",
+    "link": "https://www.linkedin.com/company/nike"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

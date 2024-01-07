@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "please note all roles at rhino are remote and there will be no future inoffice mandateltbrgtltbrgtour mission is to give renters everywhere greater financial freedom to plan and enjoy their livesltbrgtltbrgtour first product eliminates cash security deposits and puts more money back in renters pockets with over billion tied up in security deposits for million renters in the united states alone its time for security deposits to officially become a thing of the past tying up money at one of lifes biggest and most expensive moments just isnt fairltbrgtltbrgtso we threw out the antiquated way of doing things and built a technologydriven insurance product to help bring renting into the st century with rhino millions of renters across the country now have the opportunity to save with our awardwinning deposit insurance weve already saved hundreds of millions of dollars for renters and are trusted in over million homes nationwide and most importantly were just getting startedltbrgtltbrgtas a data engineer at rhino you will build data infrastructure to enable data driven decision making for the whole company you will be partnering with data science business intelligence and business stakeholders to build tools data models and pipelines to empower teams to access and use data in an effective and scalable wayltbrgtltbrgtthis role reports to a data engineering managerltbrgtltbrgtltstronggtltugtin this role you willltbrgtltugtltstronggtltulgtltligt build scalable data pipelines and api integrations to support continuing increase in data volume and complexity ltligtltligt design and build the infrastructure required for optimal extraction transformation and loading of data from a wide variety of data sources ltligtltligt create data tools for data science and bi teams to assist them in building and optimizing our product into an innovative industry leader ltligtltligt develop data models to power analyses and reporting by a variety of teams such as finance operations and sales ltligtltligt participate in code reviews standups and planning sessions while listening to feedback and commenting on others approaches ltligtltligt work with stakeholders including the executive product data science and bi teams to assist with datarelated technical issues and support their data infrastructure needs ltligtltulgt ltstronggtwere ideally seekingltbrgtltstronggtltulgtltligt years of professional experience in data engineeringltligtltligtstrong proficiency in python and sqlltligtltligt interest in learning cutting edge technologies such as serverless computing and distributed systems ltligtltligt someone who is excited to problem solve and quickly ship features in a collaborative rigorous and fastpaced environment ltligtltligt familiarity with objectoriented programming ltligtltligt experience with building etl pipelines data warehousing and data modeling ltligtltligt experience or interest in working with data science analytics or business stakeholders ltligtltligt experience with airflow and google cloud platform is a plus ltligtltulgt ltstronggtbenefitsltbrgtltstronggtltulgtltligtcompetitive compensation and kltligtltligtunlimited pto to give our employees a little extra rampampr when they need itltligtltligtstock option plan to give our employees a direct stake in rhinos successltligtltligtcomprehensive health coverage medical dental visionltligtltligtremote work program to allow for flexibility between home and the officeltligtltligtgenerous parental leave to create a familyfriendly cultureltligtltligtwellness perks gym classpass ampamp citibike membershipsltligtltligtcommuter benefits through a flexible spending accountltligtltligtfintech equality coalition founding memberltbrgtltligtltulgtrhino is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment all employment decisions at rhino are without regard to race color age religion or belief sexual orientation family or parental status or any other status protected by the laws or regulations in the locations where we operate rhino has a zerotolerance policy against discrimination or harassment based on any of these characteristics this includes recruitment hiring promotions transfers discipline terminations wage and salary administration benefits and training",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T02:58:24.000Z"
+  },
+  "company": {
+    "name": "Rhino",
+    "link": "https://www.linkedin.com/company/rhino-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Quip",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "ltemgtto get the best candidate experience please consider applying for a maximum of roles within months to ensure you are not duplicating effortsltbrgtltbrgtltemgtltstronggt job category ltstronggtproducts and technologyltstronggt job details ltbrgtltbrgtltstronggtat quip we have built an amazing new way for teams to collaborate communicate and make decisions whether youre three friends in an office or one of the largest companies on the planet with tens of thousands of employees at all corners of the globe our site reliability engineering sre team makes sure that quip is delightfully fast always available for our customers whenever they need it and wellinsulated from outages or unpleasant surprisesltbrgtltbrgtwe never lose sight of one of our guiding principles you cannot meet these goals at the expense of the health and happiness of the team working on them maintaining a healthy and supportive work environment good worklife balance and encouraging technical and professional growth for team members is as of much a core value for us as having topnotch operational standardsltbrgtltbrgtour team focuses on keeping our product running smoothly consistently and without repetitive manual work toil we know we have a keen product and a fantastic place to work and were looking for some great people to join our sre team to keep everything that wayltbrgtltbrgtltstronggtltugtyou would get the opportunity toltbrgtltugtltstronggtltulgtltligtcontinually develop quips operational reliability and simplicityltligtltligtmaintain our observability and automation at the level where we need it to be by extending existing infrastructure setting up open source projects or even developing custom solutions when necessaryltligtltligtinvestigate and repair bugs mysterious occurrences and production issues throughout the entire system in concert with product and infrastructure engineersltligtltligtchampion operational excellence and production quality across the entire companyltbrgtltligtltulgtskills and technologies youd use and learn or improve hereltbrgtltulgtltligtbuilding efficient scalable and reliable products on cloud platformsltligtltligtunderstanding modifying and writing python code both in our product codebase and in supporting infrastructure for automationltligtltligtusing configuration and orchestration tools to create repeatable auditable documentedincode systemsltligtltligtdesigning systems for the sweet spot of longterm scale and reliability while keeping manual maintenance and complexity costs down and still shipping at reasonable speedsltbrgtltligtltulgtthings were looking for in people who we want to join usltbrgtltulgtltligtkeen interest in keeping a holistic view of entire systems in mind patterns architectures data flows lifecycles edge cases and risksltligtltligtexcited about continually reducing complexity and creating systems that are easily understandable repeatable and observableltligtltligtconvinced about the importance of communication both verbal and writtenonline close team collaboration and sharing information with others creating documentation or inperson trainingltligtltligteager to learn bestinfield design and engineering practices from coworkers with a wealth of skills and experience and getting to add your unique mark to what were buildingltligtltligtdrawn to understand at a rough level the basic skeleton of the stacks on which your system operates from both network ssltls http dns tcp ip cidr local networking global routing and host processdaemon system library process supervisor binary packaging unix distribution kernel perspectivesltbrgtltligtltulgtbonus points not at all required but would let you hit the ground runningltbrgtltulgtltligtexperience running mediumtolarge userfacing services on public cloud services particularly awsltligtltligtexperience running scaling tuning and debugging production sql databases particularly amazon aurora mysqlltligtltligtexperience with configuration and orchestration management tools particularly terraform and dockerltligtltligtexperience with and opinions about modern bestpractice observabilitydebuggingloggingmonitoring stacksltligtltligtcomfortable writing python specifically python scripts and libraries and modifying existing codeltligtltulgtltstronggt accommodations ltbrgtltbrgtltstronggtif you require assistance due to a disability applying for open positions please submit a request via this accommodations request formltbrgtltbrgtltstronggt posting statement ltbrgtltbrgtltstronggtat salesforce we believe that the business of business is to improve the state of our world each of us has a responsibility to drive equality in our communities and workplaces we are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay employee resource groups inclusive benefits and more learn more about equality at salesforce and explore our benefitsltbrgtltbrgtltugtsalesforcecomltugt and ltugtsalesforceorgltugt are equal employment opportunity and affirmative action employers qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender perception or identity national origin age marital status protected veteran status or disability status ltugtsalesforcecomltugt and ltugtsalesforceorgltugt do not accept unsolicited headhunter and agency resumes ltugtsalesforcecomltugt and ltugtsalesforceorgltugt will not pay any thirdparty agency or company that does not have a signed agreement with ltugtsalesforcecomltugt or ltugtsalesforceorgltugt ltbrgtltbrgtsalesforce welcomes allltbrgtltbrgtpursuant to the san francisco fair chance ordinance and the los angeles fair chance initiative for hiring salesforce will consider for employment qualified applicants with arrest and conviction records",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T22:06:38.000Z"
+  },
+  "company": {
+    "name": "Quip",
+    "link": "https://www.linkedin.com/company/quip-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}
