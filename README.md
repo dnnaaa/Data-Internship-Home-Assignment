@@ -198,3 +198,71 @@ Read the transformed data from `staging/transformed`, and save it to the sqlite 
 As mentioned previously, your code should be unit tested.
 
 Hints: Use pytest for your unit tests as well as mocks for external services.
+
+
+
+## Assignment
+
+# ETL Pipeline for LinkedIn Job Posts
+You can find the first Steps of assignment in the main repo 
+This repository contains an ETL (Extract, Transform, Load) pipeline designed to process LinkedIn job postings. The pipeline is orchestrated using Apache Airflow and stores data in an SQLite database.
+
+## Overview
+
+The ETL pipeline is divided into several stages:
+
+1. **Creating Tables**: SQL scripts to create the necessary tables in the SQLite database.
+2. **Extracting Data**: Python scripts to extract job posting data from a CSV file.
+3. **Transforming Data**: Scripts to transform the extracted data into a suitable format.
+4. **Loading Data**: Scripts to load the transformed data into the SQLite database.
+5. **Testing**: Unit tests to ensure the integrity of the ETL process.
+
+## Project Structure
+
+- `dags/`
+  - `etl.py`: The Airflow DAG for orchestrating the ETL process.
+- `scripts/`
+  - `creating_tables.py`: Script to create database tables.
+  - `extracting.py`: Script for the extraction of data.
+  - `transforming.py`: Script for transforming the data.
+  - `loading.py`: Script for loading data into the database.
+- `tests/`
+  - Unit tests for each stage of the ETL process.
+- `README.md`: Documentation of the project (this file).
+  and in staging you find some results f EXTRACTING AND TRANSFORMING 
+
+## Setup and Running
+
+### Prerequisites
+
+- Apache Airflow
+- SQLite
+- Python 3.x
+
+### Instructions
+
+1. **Setting Up the Database**:
+   - Ensure SQLite is installed and accessible.
+   - The database file is located at: `/path/to/your/etl_database.db`.
+
+2. **Configuring Airflow**:
+   - Set up Airflow to use the SQLite database.
+   - Place the DAG script (`etl.py`) in the Airflow DAGs folder.
+
+3. **Executing the Pipeline**:
+   - Access the Airflow web interface.
+   - Airflow Schedular -- Airflow WebServer -port 8080
+   - You can find SOME Scripts in scrio.txt
+   - Manually trigger the `etl` to start the ETL process.
+     
+
+4. **Verifying the Results**:
+   - Use SQLite command-line tools or a database viewer to check the loaded data.
+   - Example query: `SELECT * FROM job LIMIT 10;`.
+
+5. **Running Tests**:
+   - Navigate to the `tests/` directory.
+   - Run the test scripts to ensure each part of the pipeline works as expected.
+
+
+*This README is a general guide. For more detailed instructions, refer to the specific documentation in each script.*

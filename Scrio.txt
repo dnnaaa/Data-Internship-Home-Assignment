@@ -1,0 +1,9 @@
+source venv/bin/activate
+
+export AIRFLOW_HOME="/mnt/c/Users/otman/Bureau/AirFlow/data-internship-home-assignment-main/data-internship-home-assignment-main"
+
+ airflow db migrate
+ 
+ airflow users create  --username MoussaouiOthman --firstname othman --lastname Moussaoui  --role Admin  --email moussaouiothman1@gmail.com
+
+airflow standalone
