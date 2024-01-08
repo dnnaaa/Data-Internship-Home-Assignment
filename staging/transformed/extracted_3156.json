@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "Data Scientist- St. Louisno C2C, must be our W2.Will consider qualified OPT if valid through August, 2022You will:Implement and design prototypes for data wrangling, preprocessing, postprocessing and visualization mechanisms, andDesign predictive/machine learning/AI type analytical models. Description:• Collaborate with data scientists/engineers/stewards on data extraction and data cleaning.• Design, implement and optimize statistical and machine learning models based on structured and unstructured data.• Work closely with the software engineering team in the delivery of the developed models.Requirements:• PhD in Mathematics, Economics, Operations Research or a related field with statistics courses/publications/proven expertise or...• Master's degree plus 2 years of industry experience outside of academia• Proficient in machine learning algorithms and concepts;• Ability to work in a highly interactive, team-oriented environment. Comfort in communicating technical content in an easy to understand way• Proficiency of at least one of Python or R is a must-have and working knowledge of the other• Working knowledge of programming languages such as SQL, Java, Javascript, and Anylogic simulation software is a plus.• Experience with optimization models and commercial solvers is a plus.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-09T21:41:23.000Z"
+    },
+    "company": {
+        "name": "Envision",
+        "link": "https://www.linkedin.com/company/envision"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "St. Louis City County",
+        "region": "MO",
+        "postal_code": "63121",
+        "street_address": null,
+        "latitude": 38.635357,
+        "longitude": -90.20099
+    }
+}

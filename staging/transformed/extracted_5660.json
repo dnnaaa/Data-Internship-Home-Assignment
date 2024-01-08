@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "Job Description: Production Support / Application Support, Linux / Windows / SQL – Expert ;Desired Skills:SQL experts in Unix/Linux Production Support profiles. SQL is the main deciding factorUnix – 8/10Windows – How to login, IIS, Services, Security policy, Computer management – 8/10SQL – Strong knowledge (Writing queries, Stored procedure trouble-shooting, Statistics, DDL, DML knowledge, transact-SQL, Oracle) – 9/10Monitoring – 8/10Analytical – Needs to understand production issue scenarios and approach to engage and resolve – 8/10Communication – 8/10 Good to have:Scheduling tools – 7/10Security Certificate Management – 7/10SFTP, SSH protocol – 7/10Linux –AdvancedSQL – AdvancedWindows – AdvancedScripting (such as Shell/Perl or PowerShell)Knowledge of production application environments and components including database design and performance (such as Oracle, MS SQL); virtual servers (such as VMWare); monitoring platforms (such as Geneos); application resiliency automation; scheduling tools (such as Autosys); load balancing (such as DR pairs, CNAMES, A-Record); transmission protocols (such as SFTP, NDM); Messaging tools (such as MQ, KAFKA)BS or MS in Computer Science highly desiredService Now – a plusInvestment Banking Financial Services (such as institutional markets, post trade technology, prime brokerage and fund services) a plus.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-23T19:31:41.000Z"
+    },
+    "company": {
+        "name": "Securepeoplebase, Inc",
+        "link": "https://www.linkedin.com/company/securepleoplebase-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas",
+        "region": "TX",
+        "postal_code": "75342",
+        "street_address": null,
+        "latitude": 32.777977,
+        "longitude": -96.79621
+    }
+}

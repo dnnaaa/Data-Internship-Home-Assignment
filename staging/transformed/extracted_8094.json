@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer/Architect",
+        "industry": "Information Technology and Services",
+        "description": "Role: Site Reliability Engineer/ArchitectLocation: Frisco, TX (remote till pandemic)Type: FTEThis is a highly visible global role based in HCL Cloud Native Labs where you will be responsible for implementing the Site Reliability Engineering (SRE) journey for the world’s largest and most successful enterprises. This position requires a mix of strong technical credibility, a ‘Cloud Native’ mindset and exceptional customer-facing skills. You will be a technical heavyweight and thought-leader, comfortable in the following domains:·        DevOps·        Site Reliability Engineering (SRE)You will: ·        Showcase world-class Reliability Engineering techniques and implementations·        Help clients drive organisational change enabled via SRE and associated behaviours·        Act as Trusted Advisor, guiding senior technical leaders as they implement SRE and similar approaches.·        Get deeply involved in hands-on engineering tasks, enabling and supporting complex Cloud Native solutions. ·        Coach modern reliability engineering and DevOps techniques. Help experienced teams adopt Cloud Native skills.·        Engineer new, next-generation solutions based on modern Cloud Native principles.·        Help educate and share best practice approaches to modern SRE techniques and approaches.Create custom learning paths; select and prepare materials to guide learning.Perform a thought-leader role, advancing the art-of-the-possible, author papers, be passionate about the domain and participate in industry dialogue.  Required Mandatory Skills / Experience ·        An experienced SRE working in ‘Cloud Native’ environments. ·        Hands-on experience with complete SRE & DevOps Lifecycle & Tooling sets·        Hands-on experience in private, hybrid and multi-cloud environments.·        IAC experience (writing and debugging) with tools like Terraform or Ansible·        This role is 50% Development and 50% ops (building things is a must)·        Hands-on Kubernetes or OpenShift or Docker experience·        Consultative mindset, experience acting in an advisory role. ·        Superior written and verbal communication skills.·        Hands on coding ability in Java / Python - writing your own programs / scripts from scratch·        Strong familiarity with 1 of the public cloud providers like GCP / AWS or Azure·        Hand-s on dashboarding / alerting experience with monitoring solutions like Stackdriver / ELK / Prometheus or Grafana or something similar·        Hands on experience in SRE metrics like SLI, SLO, SLAs, Error Budgets etc·        Hands on experience with Git and release management·        Ability and willingness to mentor junior staff and share knowledge.·        Advanced problem-solving experience·        Exposure to Agile / Scrum / XP development methodologies·        In-depth understanding of CI/CD PREFERRED EXPERIENCE·        7+ years of SRE/DevOps Consulting·        Deployment of highly available, large-scale & reliable Cloud Native applications. ·        Experience with multiple programming languages, such as: Java, C#, Python, Node.js and Go.·        Architectural, Engineering or DevOps Certification with one or more Public Cloud providers (AWS, Azure, GCP).·        Coaching / Advisory experience. Helping Developers and Operations professionals master Reliability Engineering & DevOps techniques particularly in relation to Cloud Native software applications.·        Extra curricula engineering passion (e.g. active open source contributor).·        Experience with designing and building applications using Microservices together with Container and Serverless technologies·        Experience with configuration management and automation technologies (e.g. Terraform, Chef, Puppet, Salt, or Ansible). BASIC SKILLS/EDUCATION·        BS level technical degree or equivalent experience; Computer Science or Engineering background preferred; Master’s Degree desired.·        Excellent communication and presentation skills.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-06T21:32:03.000Z"
+    },
+    "company": {
+        "name": "HCL Technologies",
+        "link": "https://in.linkedin.com/company/hcl-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Frisco",
+        "region": "TX",
+        "postal_code": "75034",
+        "street_address": null,
+        "latitude": 33.15066,
+        "longitude": -96.82508
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer (Only W2)",
+        "industry": "",
+        "description": "Title:                   Site Reliability EngineerLocation:           Hillsboro/Beaverton OR (100% Remote as well)Duration:           12+ Months Top Skills: AWS and Monitoring tools and Development experience in NodejsJob Description:As a site reliability engineer, you will be focused on maximum availability, observability, reliability, security, and performance for client Digital Experiences.SREs perform deep problem analysis, detect infrastructure, or code defects, define, report, and create observability processes for Key Performance Indicators (KPIs), and work with product delivery teams to provide long term solutions to production issues.We are looking for talented and passionate full stack developers with knowledge of datacentre infrastructure and cloud platforms who can bring the following:•           Ability to observe, diagnose, and develop fixes for production issues quickly and efficiently •           Ability to develop and drive real time monitoring solutions that provide visibility into site health and key performance indicators•           Strong communication skills (written and verbal). They must be able to clearly articulate issues and their impact(s)•           Working understanding of IT service management (Incident, Problem, Change and Knowledge management)•           Ability to work across teams (business and technical) to continuously analyse system performance in production, troubleshoot consumer reported issues, and proactively identify areas in need of optimization•           Practical experience in application reliability practices/production support for consumer facing web and/or mobile experiences or a strong technical skill set combined with a desire to learnQualifications/Skills•           Bachelor’s degree in Computer Science, Information Systems, Business, or other relevant subject area•           Basic understanding of DNS, Networking, Virtualization, Linux•           Expertise in designing/building/supporting scalable cloud-based Micro Services preferred•           Design and development experience with a modern language like Java preferred•           Proficiency with JavaScript on frontend (React, Angular, etc.) and backend (Node.js) components preferred•           Experience in other modern enterprise languages (functional or other – Scala, Python, Golang, etc.) is a plus•           Experience with No-SQL databases like DynamoDB, Cassandra, etc. a plus•           Good understanding of RESTful APIs •           Basic understanding of common tools for service management, agile, and observability: ServiceNow, Jira, Jenkins, Splunk, New Relic, SignalFX•           Background with ITIL or Lean a plus",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-04T17:16:54.000Z"
+    },
+    "company": {
+        "name": "Confidential",
+        "link": "https://in.linkedin.com/company/vidyaa-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Beaverton",
+        "region": "OR",
+        "postal_code": "97007",
+        "street_address": null,
+        "latitude": 45.486595,
+        "longitude": -122.795616
+    }
+}

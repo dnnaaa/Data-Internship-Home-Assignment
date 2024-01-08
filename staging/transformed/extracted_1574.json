@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Junior Software Engineer",
+        "industry": "",
+        "description": "Why would you want this role?This is an amazing opportunity for a highly motivated engineer to be a part of the pi-lit® engineering team that produces some of the most exciting technology in the transportation and autonomous vehicle industry. pi-lit® products are used around the world! Continuing our mission to improve safety on every mile of roadway. What we value?Our company is driven by three core principles: respect, integrity, and innovation. Is this you?We are looking for an experienced full-stack engineer interested in collaborating with a highly motivated and talented team. As a software engineer, you will be responsible for designing, maintaining, and testing both web and server projects. You will work closely with the engineering and sales team to define and help develop applications that solve our customer’s problems. You will enjoy the benefits of having direct involvement in the full cycle development of software and productization of solutions that will be used both nationally and internationally.You should excel in working with large-scale applications, frameworks and have outstanding communication and leadership skills.   ResponsibilitiesWriting clean, high-quality, high-performance, maintainable codeDevelop and support firmware and software including applications, database integration, interfaces, and new functionality enhancementsCoordinate cross-functionally to insure project meets business objectives and compliance standardsSupport test and deployment of new products and featuresParticipate in code reviewsMinimum QualificationsBachelor's degree in computer science, engineering, math or science discipline; Master's degree preferred.Strong experience in embedded C, C++, Python programmingTechnical trainingLinux & scripting languagesExperience with software debuggingExperience with code management repositoriesStrong communication and written skills",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-27T23:39:27.000Z"
+    },
+    "company": {
+        "name": "pi-lit® Technology",
+        "link": "https://www.linkedin.com/company/pilitroads"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Irvine",
+        "region": "CA",
+        "postal_code": "92717",
+        "street_address": null,
+        "latitude": 33.68591,
+        "longitude": -117.82472
+    }
+}

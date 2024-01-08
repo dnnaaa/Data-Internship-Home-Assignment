@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Junior Software Engineer",
+        "industry": "Machinery,Industrial Automation",
+        "description": "Job Description:  Looking for a talented and self-motivated Software Engineer. The ideal candidate will have experience developing and maintaining software in C++ and/or C#, ideally for machine controls and novel electro-mechanical systems.Job Duties:Design, implement and debug C++ and C# code for machine controls and HMI (GUI), utilities and backend software.Design, implement and debug PLC and/or motion controller code.Implement test and simulation code. Execute test plans and write test reports.Support, maintain, and document software functionality.Skills/Qualifications: Required: Object-oriented Design and Development (OOD).Experience with C++/C#.Experience with Winforms and/or WPF development in Microsoft Visual Studio (or equivalent; Qt/Java).Experience with software configuration management and source control systems (e.g. Mercurial or Git).Must be able to work in a collaborative environment.Strong analytical and communication skills. Strongly Desired: Experience with or aptitude towards software that controls and interfaces to hardware (analog and digital I/O).Experience or understanding of Database systems, such as Microsoft SQL or similar.Familiar with real-time concepts.Background in, or solid understanding of Mechatronics and interfacing concepts.Experience with additive Manufacturing / 3D Printing. Education/Experience:Required: B.S. degree in Software, Physics, Mechanical, Electrical, or related.  0+ years of experience developing software.Desired: M.S. degree preferred Travel:The expectation is up to 15% Relocation:The relocation package is negotiable.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-02T16:02:51.000Z"
+    },
+    "company": {
+        "name": "Seurat Technologies",
+        "link": "https://www.linkedin.com/company/seurat-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Wilmington",
+        "region": "MA",
+        "postal_code": "01887",
+        "street_address": null,
+        "latitude": 42.558285,
+        "longitude": -71.163826
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Sports",
+        "description": "Summary: The New York Mets are seeking a Software Engineer. This engineer will design, build, test, and deploy mobile and web applications that enrich the Mets data ecosystem and inform decision-making within Baseball Operations. This position requires strong background in mobile and web development. The ideal candidate would be a strong engineering generalist with prior experience building rapid prototypes and comfort in working on UX-focused products for users with varying levels of technical familiarity. Prior experience in or knowledge of baseball is a plus but is not required. Essential Duties & Responsibilities: Develop exciting user-facing applications by designing, building, and deploying reliable, readable code for platforms within Baseball Operations Collaborate with a variety of internal stakeholders to validate designs and facilitate clean rollouts and deployments of new products Build and maintain backend APIs to facilitate scalable flow of baseball data  Integrate with a variety of third-party APIs to enrich the New York Mets data ecosystem Work with data engineers to facilitate the easy collection and access of valuable baseball data Maintain and scale a broad collection of internal applications that enhance player development, scouting, and executive decision making Qualifications: Bachelor’s degree in computer science or a related field 3+ years of relevant work experience Strong proficiency in Javascript (including React, React Native, and/or Node.js frameworks) Experience building scalable system within cloud platforms, e.g. GCP, AWS Experience reviewing code and developing test suites for scalable technological systems Experience working with MySQL or other relational databases Familiarity with modern agile practices and development tools Ability to work collaboratively with designers, analysts, and other engineers Strong written and verbal communication skills Prior experience in baseball or biomechanics analysis is a plus Prior experience in mobile development (Objective-C, Java) is a plus The above information is intended to describe the general nature, type, and level of work to be performed. The information is not intended to be an exhaustive or complete list of all responsibilities, duties, and skills required for this position. Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time. The individual selected may perform other related duties as assigned or requested. The New York Mets recognize the importance of a diverse workforce and value the unique qualities individuals of various backgrounds and experiences can offer to the Organization. Our continued success depends heavily on the quality of our workforce. The Organization is committed to providing employees with the opportunity to develop to their fullest potential.   ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-19T17:11:09.000Z"
+    },
+    "company": {
+        "name": "New York Mets",
+        "link": "https://www.linkedin.com/company/new-york-mets"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York City Metropolitan Area",
+        "region": null,
+        "postal_code": "10021",
+        "street_address": null,
+        "latitude": 40.748295,
+        "longitude": -73.98556
+    }
+}

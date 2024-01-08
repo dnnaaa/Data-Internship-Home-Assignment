@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Data Scientist Software Engineer - Ag Robotics Start-up",
+        "industry": "",
+        "description": "We build robots for the next frontier of farming. We are a venture-backed startup based in Davis, CA, and we build robots to address some of farming’s toughest tasks.  Here’s what we can offer to you that you can’t get anywhere else: ✅ The chance to transform an industry and improve the lives of millions of farmworkers. ✅ First-hand exposure to an endless supply of incredibly challenging technical problems. ✅ The pressure to invent cutting-edge solutions to said problems (and mess up along the way).  ✅ Limitless career upside: you grow as we grow.  ✅ The chance to live in the ‘burbs of sunny California and ride your bike to a farm for work everyday.  ✅ A workplace that encourages building, learning and deploying.  See your work in the field! Still interested?  Read our mission and the job description below to see if you’re a good fit for us!  (www.advanced.farm)Use your powers for good! Build the architecture for logging, events, and other information to support cutting edge data analysisAnalyze collected data to spot trends in performance and reliability to inform further development by engineering, R&D, and field operations teams. Write reproducible data analysis that can be automated and scaled as our equipment fleet grows.Summarize and clearly communicate data analysis assumptions and results.  Build dashboards and applications that engineers, business managers and customers can rely on. Here’s what we’ll look for when we select someone to join the team.  M.S. or higher in mathematics, statistics, data science, engineering or a related field (no degree at all is also just fine, if you have a strong portfolio of examples) 3+ years experience working with data from hardware applications, and at least a basic knowledge of electrical and mechanical engineering concepts. Strong skills in git, Python, SQL, matplotlib, numpy, pandas, other data science/visualization tools Experience with web apps, devops, and machine learning. Legal work status in the US- please do not apply if you need visa sponsorship now or in the future.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-30T13:46:39.000Z"
+    },
+    "company": {
+        "name": "advanced.farm",
+        "link": "https://www.linkedin.com/company/advancedfarm"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Davis",
+        "region": "CA",
+        "postal_code": "95616",
+        "street_address": null,
+        "latitude": 38.546726,
+        "longitude": -121.74434
+    }
+}

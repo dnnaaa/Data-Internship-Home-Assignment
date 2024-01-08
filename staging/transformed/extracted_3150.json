@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Data Scientist / Machine Learning Engineer (remote)",
+        "industry": "Information Technology and Services",
+        "description": "Looking for a data scientist / machine learning engineer to join us to work models based on the construction data + public data sets that would help to build The Internet in US rural areas where, today, people have poor service, or no service at all.learning businessconverting business to technical ideasconverting these ideas to computer programs and models Three Must Have Technical Skill Setsfast.ai / PyTorchPython / Clojurepandas Three “Nice to have” Technical Skillsscikit-learndeep learningdata visualization (not via packaged software, but via libs like “seaborn”, “ggplot”, etc.)",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-10T08:20:29.000Z"
+    },
+    "company": {
+        "name": "inSync Staffing",
+        "link": "https://www.linkedin.com/company/insync-staffing"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Roswell",
+        "region": "GA",
+        "postal_code": "30076",
+        "street_address": null,
+        "latitude": 34.021652,
+        "longitude": -84.36167
+    }
+}

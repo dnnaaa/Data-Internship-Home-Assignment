@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Senior Developer / DevOps Engineer, Infrastructure",
+        "industry": "",
+        "description": "Blueciate Inc is lookin for Senior Developer / DevOps Engineer, InfrastructureUS Citizen with Active Secret Clearance. Customer           : DODLocation              : Herndon, VADuration             : Multi Year assignment EXPECTATIONS AND TASKSBecause we work on the cutting edge, we need someone who is eager to learn, a creative problem solver, resourceful in getting things to work and productive working independently or collaboratively. In your average week, you will:•            Work closely with our engineering and operations team to build, integrate, test and deploy SAP Analytics Cloud into our production systems.•            Collaborate with colleagues to understand new landscape requirements and help to adapt our solution to meet them•            Develop, test and maintain build system, CI/CD framework and deployment tools•            Automate and streamline deployment processes•            Develop and maintain a monitoring system that overlooks our build landscape•            Lead efforts in automation, continuous deployment, build, and configuration management•            Assess new technology projects and tools or migrate our environment to new versions to keep up with the rapid pace of change.•            Establish repeatable process for setup and maintenance of new landscapes in collaboration with the development and operations teams. EDUCATION AND QUALIFICATIONS/ SKILLS AND COMPETENCIES•            5+ years of relevant work experience•            Bachelor’s degree, preferably in Computer Science or Engineering•            Experience building and managing complex build pipelines using tools like Spinnaker, Jenkins•            Experience with AWS, GCP or Cloud Foundry •            Strong background in Linux/Unix Administration•            Experience in writing software in languages such as Java, Python, Go, JavaScript, C++ or similar•            Experience with containerization technologies such as Docker, docker-compose in a production environment. Experience maintaining applications in virtualized environments•            Experience with Source control such as GIT•            Ability to work well in a team as well as independently and have a positive, self-motivated can-do attitudeBonus if you have experience with:•            Infrastructure software tools such as Terraform, Ansible, and Packer•            Building containerized applications using Kubernetes, Docker•            Building software that must scale to thousands of users concurrently•            Experience with monitoring solutions such as Zabbix, Prometheus, Grafana WORK EXPERIENCE5+ years of relevant work experience developing web applications (can include internship or co-op experience)Amber K. (Business HR)INFO@blueciate.com972-607-9081www.blueciate.com",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-09-08T03:12:19.000Z"
+    },
+    "company": {
+        "name": "Blueciate",
+        "link": "https://www.linkedin.com/company/blueciate-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Herndon",
+        "region": "VA",
+        "postal_code": "22092",
+        "street_address": null,
+        "latitude": 38.96973,
+        "longitude": -77.38387
+    }
+}

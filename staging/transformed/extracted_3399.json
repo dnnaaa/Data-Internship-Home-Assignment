@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "Hi, We are have an opportunity for the below job. We will request you to revert back with your resume. Position: Data ScientistLocation: Plano TX (Currently Remote – Will be Onsite until the further announcement.Duration: Long TermJob Description:Duties to Perform•\tBuild proof-of-concept models using a prototype infrastructure•\tBring proof-of-concept models into production using prototype infrastructure•\tCommunicate shortcomings or improvements to multi-language API for database interaction•\tBuild proof-of-concept feature engineering batch and streaming jobs •\tCreate and present Powerpoint decks describing work to both technical and non-technical audiences•\tAssist in design and brainstorming sessions for prototype capabilitiesRequired Skill & Experience•\tExpert in Azure Cloud (*Machine Learning*: Event Hub/Streaming Analytics, HDI, DB, Azure ML, Azure Log Analytics, Databricks)•\tStrong statistics and machine learning fundamentals•\tDemonstrated experience putting models into real-time production •\tExperience with Python required; R, Scala, and (Java nice to have)•\tExperience with Spark DataFrame and SQL API's required.  Spark streaming/structured streaming are nice to have•\tExperience with Azure Cloud•\tExperience with Databricks(Spark, Delta Lake, MLFlow)•\tExperience with H2O Driverless AI•\tExperience with Kafka/Azure Event Hub•\tStrong Team Player•\tStrong problem-solving skills•\tStrong communication skills and the ability to describe shortcomings in system design•\tA strong desire and ability to learn new tools and technologies.•\tAirflow experience is nice to haveTechnical Environment•\tAzure•\tSQL / Mongo DB•\tPython / Pyspark•\tKafka / EventHub•\tLinux and Shell Scripting•\tPossibly R, Scala and Java•\tDatabricks•\tAzure data production and consumption tools (Event Hub, Azure Functions, Streaming Analytics,Regards,Suganya What's app :91 9043392040. ",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-13T13:59:23.000Z"
+    },
+    "company": {
+        "name": "To be disclosed",
+        "link": "https://www.linkedin.com/company/to-be-disclosed"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Plano",
+        "region": "TX",
+        "postal_code": "75093",
+        "street_address": null,
+        "latitude": 33.019695,
+        "longitude": -96.697586
+    }
+}

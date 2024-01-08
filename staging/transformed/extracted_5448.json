@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software",
+        "description": "Site Reliability Engineer - Unicorn startup w/ RevenueThis Jobot Job is hosted by Adam BennettAre you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.A Bit About UsWe’re a software company that has built a PaaS product that enables large enterprises to automate business decisions! We have a long list of current clients and have a line out the door of companies who want to integrate our platform into their supply chain, inventory, sales, and operation applications!Why join us?We’re at an inflection point. We’re scaling our teams and potentially doubling our company in size! We’re currently over 300 people. We have a culture-first organization and the leader of the DevOps / SRE team wants to see everyone succeed. We’re looking for engineers to help us scale! We’re an AWS/ Azure shop and rely heavily on Kubernetes for scale.Job DetailsMust have Senior experience with deploying and maintaining Kubernetes.Ideally, you have Sr. level experience with a scripting language to scale infrastructure.Senior experience supporting cloud applications in AWS or Azure.Monitoring applications are a really big “nice to have”Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-22T21:09:24.000Z"
+    },
+    "company": {
+        "name": "Jobot",
+        "link": "https://www.linkedin.com/company/jobot"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Jose",
+        "region": "CA",
+        "postal_code": "95148",
+        "street_address": null,
+        "latitude": 37.334793,
+        "longitude": -121.888145
+    }
+}

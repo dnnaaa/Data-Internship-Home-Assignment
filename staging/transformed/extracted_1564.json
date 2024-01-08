@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Junior Software Engineer",
+        "industry": "",
+        "description": "Brilliant Solutions is currently seeking a motivated and customer oriented Software Engineer to join our team in Springfield Virginia.The engineer will work on a team that provides research, technical guidance, testing, documenting and delivering unique solutions to meet the client's mission. You will have the opportunity to use your critical thinking skills to come up with intuitive designs and visualizations.Experience: Minimum 2+ years of knowledge and hands on. Positions Available: 1 Desired Certification: DoD 8570.1 IAT Level II  Responsibilities: Must have Software Development hands on experience. Assist senior developer in the integration of existing software into new or modified systems or operating environments. Includes assistance on application development, code review and analysis security assessments of various COTS and GOTS applications. Implement automation tasks for server workloads such as writing back-end processes, ANSIBLE playbooks, BASH or PYTHON scripts. Opportunity to tackle complex infrastructure, security and development problem sets. Developing and automating repeatable tasks. Maintain system security and execute common practices/procedures; monitor usage statistics and logs; monitors and remedies attempt to penetrate or corrupt server files. Maintain baseline configurations and performs modification of configuration settings and automation solutions. Qualifications: Assist senior engineers in the design, implementation, and administration of platform tools  Familiarity with software products with tools such as Ansible, Terraform etc. Experience with container configurations and services, especially Docker. Experience in collaborative software development using version control systems At least two years of professional experience in languages such Python, Rust and/or Go. Knowledge of web languages such as JavaScript are a plus but not required. Ability to write well-written code following best practices and design patterns. Familiar with Continuous Integration / Continuous Deployment (CI/CD) methodologies and products such as GitLab Pipelines, Jenkins, Travis CI, Circle, Github Actions, etc. Experienced with GIT repositories with hands on with tagging, releasing, and build processes (other repositories with similar code setup). Technical understanding of cybersecurity attack techniques and associated mitigations. Experience in UNIX/LINUX Server administration a plus. Experience with Cloud Storage and Virtualization solutions a plus. Experience in setup and maintenance of cloud infrastructure a plus. Android/mobile development knowledge is a plus.Core Competencies: Ability to review work of others and detect errors or needed modifications. Ability to work under direction of senior developers/engineers. Ability to determine and develop approach to solutions quickly. Ability to make recommendations to purchase hardware, software, and system\\application components. Strong communication skills, shows tact, effective listening skills and follow through. Innovation and Learning innovative technologies.  Travel and alternate hours: Occasional travel to customer sites in support of troubleshooting, testing, and deployment activities. Ability to work after hours and weekends as needed. (outages/upgrades) If you are ready to join our energetic team apply below. The job requires a active TS/SCI clearance.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-29T22:49:58.000Z"
+    },
+    "company": {
+        "name": "Brilliant Solutions Inc",
+        "link": "https://www.linkedin.com/company/brilliant-solutions-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Washington DC-Baltimore Area",
+        "region": null,
+        "postal_code": "21201",
+        "street_address": null,
+        "latitude": 38.873062,
+        "longitude": -77.007385
+    }
+}

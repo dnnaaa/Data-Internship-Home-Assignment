@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "The team works on multiple dimensionsUnique opportunity to work with open source.Work on Security, Onboarding and platform integrations with cutting edge Cloud security featuresKey responsibilities includeWork on developing code samples in the areas of mTLS and authenticationWork on onboarding security features MandatoryExperienced with an open-source software development environment. - Familiar with Golang - Bachelors in Engineering, Computer Science is preferred, or equivalence of industry experienceDesiredExperience in the following domain areas is a plus: - Networking - Authentication/Identity - API Client development",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-10T21:21:39.000Z"
+    },
+    "company": {
+        "name": "Crowdstaffing",
+        "link": "https://www.linkedin.com/company/crowdstaffing"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Kirkland",
+        "region": "WA",
+        "postal_code": "98034",
+        "street_address": null,
+        "latitude": 47.675507,
+        "longitude": -122.20336
+    }
+}

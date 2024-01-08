@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Health, Wellness and Fitness",
+        "description": "Sr. Software Engineer Job DescriptionThe Sr. Software Engineer position is accountable to deliver highest quality software for UHG/Optum next generation web-based Provider portals, applications, and solutions.  As an integral member of the technology delivery team, the Sr. Software Engineer will be a primary contributor in designing, coding, testing, debugging, documenting and supporting software applications consistent with established specifications and business requirements to deliver business value. The ideal candidate has 4+ years full-stack software engineering experience and proficiency in Microservices Architecture. Required Skills:·         4+ years of experience with Java (Must have Java 8 or higher)·         2+ years of Experience in Spring Boot or Spring MVC·         2+ years of Experience in Developing Rest Services·         2+ years of experience with Git·         2+years of experience in Kafka·         1+ years of experience with Dependency Injection framework·         3+ years of experience in Microservices·         5+ years of software development experience.·         3+ years of experience with agile development methodologies.·         1+ years of experience with Test-Driven Development using automated testing frameworks·         3+ years of experience ensuring your code builds and deploys properly through Continuous Integration/Continuous Deployment processes built in Jenkins.·        Hadoop,Security,spring,Docker,management,architecture,Debugging,Agile,Scrum,ant,Design,Automation,Azure,Adaptability,Engineering,Shipping,Testing, Communication, SAN, Kubernetes, Business,Java,Data Structures,React",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T12:46:47.000Z"
+    },
+    "company": {
+        "name": "Collabera Inc.",
+        "link": "https://www.linkedin.com/company/collabera"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 68200,
+        "max_value": 84000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Basking Ridge",
+        "region": "NJ",
+        "postal_code": "07920",
+        "street_address": null,
+        "latitude": 40.706573,
+        "longitude": -74.549515
+    }
+}

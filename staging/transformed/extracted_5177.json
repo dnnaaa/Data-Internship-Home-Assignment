@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer/DevOps",
+        "industry": "",
+        "description": "Malbek is the next-generation, cloud-based contract management solution, empowering business users to take control of their contracts. The world of contract management is full of tools with clunky user interfaces, costly implementations, and customers that are generally underwhelmed. We know it doesn’t need to be this way, and that’s why Malbek is forging a new path. From products that delight to exceptional people who make everything run smoothly, Malbek stands apart as a company with both an outstanding product portfolio and a refreshing culture. Check out Our Company page to learn more about us. We are looking for a talented DevOps engineer to join our SRE team in the US, where you will be supporting our SaaS solution running on AWS. Experience and Skills·      3+ years as a Site Reliability Engineer, DevOps Engineer·      2+ years AWS Experience (EC2, RDS, VPC, IAM, etc.)·      Excellent scripting skills – Bash, Python, Go, etc. ideally with some coding experience.·      Excellent Linux system administration and networking skills·      Automating build pipelines, deployments and monitoring·      Writing ansible playbooks for managing infrastructure or similar tools·      Diagnosing low-level systems issues and tuning performance·      Excellent Linux system administration and networking skills·      Good understanding of cloud operations and deployment pipelines. Candidates should also be able to demonstrate the following abilities.·      Ability to go off and research a new technology and provide a well thought out cost/benefit analysis.·      Excellent communication skills; collaborative and personable - happy to help take a lead on projects.                 Benefits·      A dynamic startup environment with a rapidly growing customer base·      Lots of space and freedom to be yourself and take ownership  ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T14:56:51.000Z"
+    },
+    "company": {
+        "name": "Malbek",
+        "link": "https://www.linkedin.com/company/malbek"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

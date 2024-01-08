@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Information Technology and Services,Hospital &amp; Health Care",
+        "description": "Software Engineer100% Remote6 month contract-to-hireFortune 500 Health Client Position Overview:  Team member will work on a team of truly talented individuals and be responsible for design, build and testing (using automation scripts but not limited to unit/integration/performance testing) of Product Enrollment Suite. This team is responsible for 5 systems all having to do with product. You will be working with homegrown systems and client systems. The candidate will be responsible for building components of the Product Enrollment Suite with a range of cutting edge technologies that interface with various enterprise systems. Key Technologies Needed:  Angular Nodejs/TypescriptPython Deployment/containerization tools (Kubernetes/docker/jenkins/etc.)  Required Experience / Qualifications:  ·         Solid Analytical skills·        Familiar with Micro-services Architecture and Rest patterns using leading industry recommended security frameworks·        Experience in Data Integration (batch, real-time) following Enterprise Integration Patterns·        Highly motivated, well-rounded, team player and self-starter that works best in a collaborative, dynamic, agile environment  Desired Experience / Qualifications:  ·        Experience in Cloud and related technologies such as AWS, Google, Azure·        SAFe Agile experience, with any SAFe certifications a plus·        Knowledge of reporting/BI tools such as Cognos would be plus·        Quick learner of new technologies and adapt to changes·        Excellent communication skills  ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T17:23:24.000Z"
+    },
+    "company": {
+        "name": "Brooksource",
+        "link": "https://www.linkedin.com/company/brooksource"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Indianapolis",
+        "region": "IN",
+        "postal_code": "46203",
+        "street_address": null,
+        "latitude": 39.76845,
+        "longitude": -86.15621
+    }
+}

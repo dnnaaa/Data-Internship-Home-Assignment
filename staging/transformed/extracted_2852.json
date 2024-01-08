@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Capital Markets,Financial Services,Investment Management",
+        "description": "·        Top Investment Firm looking for someone to own their data/analytics function·        Work with 2 founders and CTO on build out, data strategy·        Analyze large amounts of information to discover trends and patterns·        Build predictive models and machine-learning algorithms·        Communicate analytic solutions to stakeholders and implement improvements as needed to operational systems ·        Execute analytical data to help make better investment decisions ·        Utilize algorithms and models to mine big data stores, perform data and error analysis to improve models·        Experience or interest with analytics and modeling, machine learning methods, and programming",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T21:09:42.000Z"
+    },
+    "company": {
+        "name": "Mach Partners",
+        "link": "https://www.linkedin.com/company/machpartners"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Charlotte",
+        "region": "NC",
+        "postal_code": "28241",
+        "street_address": null,
+        "latitude": 35.223785,
+        "longitude": -80.84114
+    }
+}

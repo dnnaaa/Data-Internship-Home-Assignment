@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Remote Machine Learning Engineer",
+        "industry": "Financial Services,Information Technology and Services,Market Research",
+        "description": "Our client, a well-known global information services company, is actively looking for a Remote Machine Learning Engineer to join their team based out of Costa Mesa, CA! *This role will be 100% remote**This is an 8 month W2 contract with benefits!*You will be working closely with the data science and engineering teams to provide insights for their US Retail and Online Markets. They are looking for someone who is naturally curious in both technical and US business domains.Responsibilities:Analyze structured and unstructured data sources to determine the key business questions and hypotheses that can be explored with the data setsEvaluate approaches and algorithms based on available data and research objectivesDevelop experimental ML models to solve complex data mining problemsDesired SkillsBachelor's degree3+ years of experienceKnowledge of SQL, Snowflake, Pyspark, and AWS Sagemaker",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-11T15:34:08.000Z"
+    },
+    "company": {
+        "name": "Motion Recruitment",
+        "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Costa Mesa",
+        "region": "CA",
+        "postal_code": "92626",
+        "street_address": null,
+        "latitude": 33.663857,
+        "longitude": -117.90476
+    }
+}

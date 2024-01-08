@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "MZ Development (“MZD”) was founded in 2015 by assessment and technology experts with a shared vision for making performance assessment a reality for all. Since then, MZD’s platforms (OSCAR, OSCAR Classroom and ADAM) have been used by forward looking K-12 school districts and leading testing organizations to enhance their assessment programs. Our clients expect us to deliver innovative EdTech solutions that make performance assessment a realistic option for them. Now we are looking to add to our talented engineering team. This position will be part of a virtual team of engineers who have a love for education and developing technology to improve it. Responsibilities include gathering user requirements, defining system functionality and writing code in various languages.Ultimately, the role of the Software Engineer is to build high-quality, innovative and fully performing software that complies with coding standards and technical design.ResponsibilitiesThis position reports to the CTO and will have responsibility for new product development and support. Responsibilities include:·     Execute full software development life cycle (SDLC)·     Write well-designed, testable code·     Produce specifications and determine operational feasibility·     Integrate software components into a fully functional software system·     Develop software verification plans and quality assurance procedures·     Document and maintain software functionality·     Troubleshoot, debug and upgrade existing systems·     Deploy programs and evaluate user feedback·     Comply with project plans and industry standards·     Ensure software is updated with latest featuresRequired Skills and Experience·     BS degree in Computer Science, Engineering or relevant experience ·     Proven work experience as a Software Engineer or Software Developer (2-4 years)·     Experience with web development (2-4) years·     Familiarity with AWS hosted applications·     Experience using Go, Vue, Python, TensorFlow or MongoDB (desired)·     Experience with test-driven development·     Proficiency in software engineering tools·     Ability to document requirements and specifications·     Ability and desire to work as part of a virtual ·     Experience with GIT or similar VCS tools ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-30T04:19:13.000Z"
+    },
+    "company": {
+        "name": "MZ Development",
+        "link": "https://www.linkedin.com/company/mz-development"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Iowa City",
+        "region": "IA",
+        "postal_code": "52243",
+        "street_address": null,
+        "latitude": 41.66124,
+        "longitude": -91.53013
+    }
+}

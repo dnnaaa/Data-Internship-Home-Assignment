@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "Job title : SRELocation : NYCFull Time Position  Required Qualifications:·         4-5 years of work experience year work experience in a DevOps or Site Reliability Engineer role.·         Good working knowledge in production/application support·         Good with OOP concepts and Python programming/scripting·         Strong Computer Science fundamentals in Data Structures, Algorithms, Complexity Analysis, Object-Oriented Design and Designing Large Scale Data-Intensive Applications.·         4+ years industry experience in Expert Knowledge in Linux, Python, Shell, JavaScript, MongoDB, Elasticsearch, Redis·         Comfortable multi-tasking, managing multiple stakeholders and working as part of a team Preferred Qualifications:·         Experience in ELK Stack (Elasticsearch, Logstash, Kibana) or Prometheus + Grafana·         Experience with continuous deployment/delivery practices·         AWS Certifications such as Solution Architect, DevOps Engineer·         Experience with Container technologies like Docker, Kubernetes·         Experience with cloud computing systems·         Networking including TCP, HTTP, DNS, SSL certificates·         Knowledge of Slang/SecDB is a plus ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T19:53:50.000Z"
+    },
+    "company": {
+        "name": "Zentek  Infosoft ",
+        "link": "https://www.linkedin.com/company/zentekinfosoft"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "United States",
+        "postal_code": "13856",
+        "street_address": null,
+        "latitude": 42.93923,
+        "longitude": -75.62005
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Data Scientist / Data Analyst ",
+        "industry": "",
+        "description": "Description:Data Scientist / Data Analyst RequirementsLocation: Anywhere in US but wiling to work Pacific hours. ·         3+ years of data science, data analytics, or business intelligence experience·         Strong understanding of SQL  ( Strong - Strong)·         Experience with conducting data analysis in Python and / or R·         Experience building clear and easy to understand dashboards and presentations   (Tableau - Strong )·         Ability to communicate clearly and effectively to cross functional partners of varying technical levels·         Ability to define relevant metrics that can guide and influence stakeholders to appropriate and accurate insightsPluses·         Familiarity with Superset·         Familiarity with running weblab experiments, efficacy studies, or product validation tests·         Familiarity with machine learning basics·         Familiarity with Airbnb infrastructure, including Airflow, Presto SQL, and Hive SQL·         Experience creating and maintaining data pipelines·         Experience supporting engineering product work",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-06T17:31:00.000Z"
+    },
+    "company": {
+        "name": "Cool-Minds LLC",
+        "link": "https://www.linkedin.com/company/cool-mindsllc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Responsibilities: Suitable candidates will be part of Wipro Digital-Intelligent Enterprise practice .The job requires candidates to be proficient in leading a team of ML and NLP developers. Design and develop AI solutions to address business process automation challenges by applying Machine Learning models, Deep Learning, Classification models, statistical methods and NLU/NLP Skills·        Strong Python 2.7 or above programming skills, usage of open source libraries·        Experience building AI based automation solutions using platforms like IBM Watson/AWS Sagemaker/Azure ML/ Google APIs etc·        Applying innovative ideas to extract information from structured and unstructured document images·        Proficient in applying NLP techniques to process unstructured data content·        Proficient in modeling techniques such as Entity Extraction, Sequential Modelling (CRF, LSTM etc.) ·        Proficient with Machine learning (Supervised and UnSupervised) algorithms, Clustering, Classification, PCA, Fisher projections and other algorithm Kmeans, SVM, Random Forest.·        Proficient with Word Embeddings (Glove, Word2Vec).·        Team Leading capabilities·        Effective communication skills·        Agile based development methodology·        Flexibility for Short Term travels to Client locations. ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T10:19:51.000Z"
+    },
+    "company": {
+        "name": "Wipro Technologies",
+        "link": "https://in.linkedin.com/company/wiprotechnologiessjp"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "IN",
+        "locality": "Bengaluru",
+        "region": null,
+        "postal_code": "577566",
+        "street_address": null,
+        "latitude": 12.976747,
+        "longitude": 77.57528
+    }
+}

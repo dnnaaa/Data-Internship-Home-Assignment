@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "The purpose & responsibilities of the role include: Design, develop, debug, and maintain web-based applications written in Python. Be involved and participate in the overall application lifecycle for software applications supporting our Process Development department (including High-throughput screening, Analytics, Fermentation, Biocatalysis, and Downstream processing). Collaborate with scientists and front-end developers Discuss technical and design requirements with manager and end-users Provide training, help, and support to other team members Build high-quality reusable code that can be used in the future Troubleshoot and debug applications Learn about new technologies  Requirements: Candidate should have at least a master's, preferably in Software Engineering, or a degree in a quantitative discipline such as computer science, mathematics, computational biology, electrical engineering, bioengineering or equivalent. Industry experience is a plus, but not required. Biology exposes a plus, but not required. Experience with programming best practices (unit testing, CI/CD, etc.) and version control while contributing to or maintaining large codebases Expertise with scripting programming languages (Python is strongly preferred) English (spoken, written) is required Chinese (spoken or written) is a plus Candidates must be willing to locate near our facilities in either Lafayette, California, or Hangzhou, China. We are open to a hybrid work model. ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-29T18:47:03.000Z"
+    },
+    "company": {
+        "name": "Bota Biosciences",
+        "link": "https://www.linkedin.com/company/botabio"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Lafayette",
+        "region": "CA",
+        "postal_code": "94549",
+        "street_address": null,
+        "latitude": 37.890797,
+        "longitude": -122.12747
+    }
+}

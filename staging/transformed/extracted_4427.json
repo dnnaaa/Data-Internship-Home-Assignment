@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "Sunstone Engineering is a rapidly growing original equipment manufacturer of precision micro-welding equipment. We are a fast-paced engineering organization with a focus on new products using technologies such as embedded control systems, LCD and touch screen interfaces, USB and Ethernet communication, and high power control circuitry. The design and manufacturing of all our equipment is in-house, so this position provides full exposure to, and involvement in, the technologies and processes of research and development of micro-welding products.At Sunstone, we provide jewelers, manufactures and dreamers the equipment they need to make the world a better place. Our products include Laser, Pulse Arc, Capacitive Discharge, AC, and Hot Bar Reflow welding systems. These products are used by prestigious organizations like Apple, NASA, MIT, GE, HP, Lockheed Martin, Boeing, and many others. Job Requirements: • Bachelors of Science in Computer Science or equivalent • 2-4 year(s) experience in Java, Kotilin, or C# • Experience with or willingness to learn the Android SDK • Ability to work both as a member of a team and independently based on the project requirements • Ability to implement simple and well-designed solutions to complex software problems • Ability to mentor others and be mentored by others • A strong work ethic and commitment to seeing tasks through to completion • Passion for paying off technical debt early and often Preferred Skills (but not required): • Experience designing intuitive UI/UX • Experience writing Android libraries shared across multiple applications • Experience with C, HTML, CSS, D3.js, or AWS Lambda • Experience with writing effective unit tests • Experience with Micro-controllers, RTOS, or TCP-IP stack • Experience with Firebase • Experience with the Atlassian Suite (JIRA, Confluence, SourceTree), as well as Git or other source control • Experience with Linux Servers What you will be doing: • Designing, implementing, and maintaining new and existing Android applications • Working closely with firmware engineers to integrate hardware and software features of the welders • Participating in code reviews from both sides. • Reviewing and updating requirements and/or user stories • Writing or updating technical documentation or providing technical assistance to support and sales Benefits: • Salary: $65,000 - $85,000 / year + Bonus • 15 days of Paid Time Off + 10 paid holidays • Health insurance/Vision/Dental + $25/month towards Life Insurance • Simple IRA with 3% contribution company match • 40 - 45 hour work week",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T22:11:39.000Z"
+    },
+    "company": {
+        "name": "Sunstone Welders",
+        "link": "https://www.linkedin.com/company/sunstone-engineering"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Payson",
+        "region": "UT",
+        "postal_code": "84651",
+        "street_address": null,
+        "latitude": 40.042534,
+        "longitude": -111.73384
+    }
+}

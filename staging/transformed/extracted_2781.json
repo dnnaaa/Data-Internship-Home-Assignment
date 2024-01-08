@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer, Backend",
+        "industry": "Construction,Computer Software,Logistics and Supply Chain",
+        "description": "Lessen’s software engineering team is the driving engine behind the fastest growing startup in real estate services. Lessen is fundamentally changing how real estate services are initialized, managed, and delivered at scale. The company is well-funded by top Silicon Valley VCs and has committed clients and fast-growing revenue.    Lessen is building a two-sided marketplace that solves a well-defined set of customer and service professional needs. On one side of the marketplace, our software handles the logistics and workflow to connect service professionals to high-quality, well-specified projects with same-day payments. On the other side of the marketplace, our customers get access to timely, integrated property services including renovations, maintenance, and cleaning from the best professionals in the industry.  We are looking for Backend Senior Software Engineers who thrive on complex problems and relish the challenge of building mission-critical systems that solve real-world problems. If you are ready to be part of a high-growth startup that will stretch your skills and grow your career, we’d love to chat with you.   The successful candidate is expected to contribute to all parts of the software development and deployment lifecycle, including design, development, documentation, testing, and operations. They must possess strong verbal and written communication skills, be self-driven and deliver high-quality results in a fast-paced environment. They need to really enjoy working closely with their peers in a group of very smart and talented engineers. Our tech stack is built with modern software design principles using TypeScript, GraphQL, Node, Hasura, PostgreSQL, and AWS. As a Senior Engineer, you will help lead our teams to define our technology choices, architecture, team process, and standards.   Our team is intentional about attracting, developing, and retaining amazing talent from diverse backgrounds. We’re looking for teammates that are enthusiastic, empathetic, curious, motivated, reliable, and will help us amplify the positive & inclusive culture we’ve been building. BASIC QUALIFICATIONS 2+ years of overall backend programming experience2+ years of experience with Python, NodeJS and GraphQL 2+ years of experience contributing to the architecture, design, reliability and scaling of new and existing backend systems A sound understanding of computer science fundamentals such as algorithms, data structures, object-oriented design, functional programming, and databases Excellent written and oral communication skills High sense of ownership and great problem-solving skills   PREFERRED QUALIFICATIONS Bachelor's in computer science or related field 3+ years of overall professional software development experience Experience in data technologies such as real-time streaming with Apache Kafka or AWS Kinesis, ETL jobs, data lakes, and data warehousing  Ability to adapt quickly to a fast-paced development environment  Lessen is intentional about attracting, developing, and retaining amazing talent from diverse backgrounds. We’re looking for teammates that are enthusiastic, empathetic, curious, motivated, reliable, and will help us amplify the positive and inclusive culture we’ve been building. Lessen is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04T21:48:44.000Z"
+    },
+    "company": {
+        "name": "Lessen",
+        "link": "https://www.linkedin.com/company/lessen-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

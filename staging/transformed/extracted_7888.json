@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "We’re looking for a Senior Site Reliability Engineer to join our tight infrastructureteam that gets to architect, build, and operate modern cloud-native AWSenvironments and host enterprise-grade SaaS products. We use cutting edgetooling and cloud solutions to create innovative, resilient, observable, and securesolutions. We use Infrastructure as Code to define resources and configurations,machine images to deploy idempotent VMs, and build Jenkins pipelines toautomate blue/green and canary deployments of applications. We’ve embracedworking remotely and look forward to you joining the team.Who We AreAbsenceSoft is a rapidly growing Leave Management software company looking to hireamazing people like you! We are a radically innovative provider of SaaS solutions forFMLA, Disability, ADA, and other types of absences. We pride ourselves in havingcreated the most easily used, installed, and understood absence management systemand Human Resources Software. We value creative, innovative people who arepassionate about their work and who always believe there is always a better way.Leading With Our Core Values (THRIVE)• Team - We are a team. We show up for each other, act with empathy, listen well, havefun, collaborate, and bring our authentic selves to work every day.• Honesty - We are honest, trustworthy, and transparent with each other and our clients.We act with integrity, ask the tough questions, and are open to honest feedback.• Results - We are results-driven and act with urgency, accountability, and commitment.We strive for continuous improvement and operational efficiency.• Inspiring - We inspire and challenge each other every day. We bring a positive, can-doattitude to the team and lift everyone up around us.• Value - We provide tremendous value to our customers, employees, and shareholders,which drives everything we do and guides our decision making.• Entrepreneurial - We are willing to try new things and take risks, without fear offailure. We continuously learn and improve in a fast-paced environment.What You’ll Do• Create and maintain well-architected, idempotent AWS environments• Define infrastructure in Terraform• Create ansible playbooks to build fully baked AMIs• Build Jenkins jobs to deploy infrastructure and applications• Build and maintain data streaming and lambda functions for automation andmonitoring• Architect security and reliability solutions• Manage and monitor centralized monitoring and logging• Build an observability architecture with APM and SIEM• Troubleshoot and resolve performance and capacity hotspots in the platform• Create infrastructure self-service tooling to empower development and supportteamsWhat’ll Set You Up for Success• Bachelor’s degree in Computer Science or equivalent experience• 3+ year SaaS / commercial for Market software experience• 3+ years plus Cloud Operations/DevOps experience on AWS• Experience with CI/CD preferably with Jenkins• Experience with Puppet or Ansible on Linux and/or Windows• Experience Networking and DNS experience• Experience managing microservice architectures a plus• Experience with AWS serverless products a plus• Entrepreneurial in thinking, outlook, and creative problem-solvingWhat To Know Before You Apply• We’re located in beautiful Golden, Colorado.• This is a full-time, salaried position.• AbsenceSoft provides a wide variety of perks and benefits. Including full medical,dental, vision, 401K, and life insurance. Our brand new state of the art office hasautomatic standing desks and a brand new oversized kitchen complete withunlimited snacks and drinks. We support your professional growth includingindustry training and CLMS Certification; opportunities for additional industry andtechnology certifications, and continuing education.• The salary range for this position is between $90,000 - $150,000.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T16:55:33.000Z"
+    },
+    "company": {
+        "name": "AbsenceSoft",
+        "link": "https://www.linkedin.com/company/absencesoft"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

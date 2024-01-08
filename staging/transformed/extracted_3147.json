@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software and Machine Learning Engineer",
+        "industry": "Internet",
+        "description": "About us: Wiser Solutions is a suite of in-store and eCommerce intelligence and execution tools. We're on a mission to enable brands, retailers, and retail channel partners to gather intelligence and automate actions to optimize pricing, marketing, and operations initiatives, both in-store and online. Our Commerce Execution Suite is available globally. Position Summary:We are building the next generation data science technology on top of massive amounts of structured and unstructured data. We are a fast-paced, dynamic (and fun) organization with many unique and interesting technology challenges. You’ll get to help build our machine learning and data science stack, design our architecture, train, and deploy models, fix things when they break and do it with smart, down-to-earth people that enjoy having fun while working together. Essential Functions:Design and build software systems for machine learning, model inference and analytics Expand machine learning based intelligence capability of Wiser Data Platform by training models and deploying then for plethora of use cases  Partner closely with other scientists and engineers on the team to develop algorithms and drive key product initiatives Develop scalable, maintainable, high-quality production code to operationalize developed algorithms and modelsWork with Engineering and Product Management to identify modeling use-cases Present your research and insights to all levels of the company as well as academia Maintain regular and reliable work attendance Skills and Qualifications: BS/MS/PhD degree in Computer Science/Statistics/Data Science/Machine Learning or other related quantitative field At least 2-3 years of experience in heavily coding-oriented software- and/or data-science-role where you built and deployed systems and trained and deployed models. This is a hands-on role where you will be touching all elements of the system including data, server and model deployment layers  Must have significant background in Object-Oriented Design, assessing algorithm runtime and memory complexity and software building paradigms Experience with feature engineering, imputation methods, feature selection and input sampling for large datasets Knowledge of machine learning and data mining techniques in one or more areas of statistical modeling, supervised and unsupervised learning, regression analysis, time-series prediction, tree-based models, Bayesian modeling, deep learning, NLP, computer vision Strong coding skills and ability to develop model prototypes using open-source tools in Python (scikit-learn, xgboost, tensorflow) Familiarity with creating data pipelines and providing feed-and-care of models Ability to establish runtime and memory requirements/constraints of machine learning and data science algorithms Understanding of tradeoffs between model’s statistical and deployment runtime performance Familiarity with containers and commonly used techniques for deployment of models designed to generate predictions near-real-time Experience with dynamic pricing strategy or time-series data is a strong plus Ability to effectively work in Unix-based environment (Linux, MacOS etc.) Familiarity with Jupyter, Spark a strong plus Familiarity with A/B testing a plus Familiarity with reinforcement learning a plus Other Characteristics: Strong communication skills and ability to work effectively independently and in teams (local and distributed) Intellectually curious, with a passion for continuous learning and growing professionally Ability to multi-task, prioritize, work well in an interrupt driven environment, show initiative and respond quickly in a fast-paced environment. Possess a strong work ethic and proactive approach to problem solving",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-09T18:23:07.000Z"
+    },
+    "company": {
+        "name": "Wiser Solutions, Inc.",
+        "link": "https://www.linkedin.com/company/wiser"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

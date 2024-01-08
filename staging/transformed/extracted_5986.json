@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "Role: Data ScientistRoles and ResponsibilitiesSuitable candidates will be part of Wipro Digital-Intelligent Enterprise practice. The role entails leveraging Data Science and Machine Learning to solve typical problems within an organization and create IP that could be deployed in a productized mode. This will entail significant hands-on work on multiple Big Data Technologies, Data Analysis, Identifying data patterns, ML models, Insights generation. The role entails deployment in a customer context and managing customer expectations.   Technical Skills Required:·        Hands on with Python or R·        Analytics using industry leading BI tools and technologies·        Implementation knowledge of supervised\\un-supervised machine learning algorithms·        Good statistical analysis skills for data pre-processing and data wrangling·        Experienced in using big data frameworks like Hadoop·        Knowledge of business intelligence tools or reporting tools  Data Preparation for Modeling•      Missing Data Imputation,Outlier Treatment•      Scaling, Normalization, Standardization•      Encoding for Categorical Variables•      Oversampling\\Undersampling for reducing class imbalance Experience in building solutions using Model Library•      Feature Selection•      Tree-based Ensemble Models•      Gradient\\Adaptive Boosted Trees•      Hyper-parameter tuning  Building Prediction mechanisms using methods like Logistic regression, voting classifier stacking etc ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T10:15:53.000Z"
+    },
+    "company": {
+        "name": "Wipro Technologies",
+        "link": "https://in.linkedin.com/company/wiprotechnologiessjp"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "IN",
+        "locality": "Bengaluru",
+        "region": null,
+        "postal_code": "577566",
+        "street_address": null,
+        "latitude": 12.976747,
+        "longitude": 77.57528
+    }
+}

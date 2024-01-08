@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Data Scientist (Python and SQL)",
+        "industry": "Staffing and Recruiting",
+        "description": "Leading integrated power company in the U.S., built on the strength of our diverse competitive electric generation portfolio and leading retail electricity platform. A Fortune 500 company, we creates value through best-in-class operations, reliable and efficient electric generation, and a retail platform serving residential and commercial businesses. Working with electricity customers large and small, we implement sustainable solutions for producing and managing energy, developing smarter energy choices and delivering exceptional service as our retail electricity providers serve almost three million residential and commercial customers throughout the country.Job Summary:We apply advanced analytics and modeling to address challenging business problems. Within our Texas mass markets retail business, we aim to promote customized offerings: the right product offered through the right channel, with the right message at the right time for each current or prospective customer. To accomplish this, we leverage our data via predictive modeling, statistical analysis, and optimization. If you love data, programming, creative problem solving, and communicating results, you will fit right in.Essential Duties/Responsibilities:• Apply machine learning or Bayesian statistics to optimize marketing efforts with respect to customer acquisition, retention, attrition, cross-selling, and pricing.• Cooperate with software engineers to automate reports and develop applications.• Work with the marketing team to plan and analyze A/B tests.• Develop useful visualizations.• Translate, communicate, and present results and recommendations to non-technical audiences.• Lead and help develop junior analysts.Minimum Requirements:• Bachelor’s degree in one of the following: Statistics, Mathematics, Physics, Computer Science, Economics, Engineering, Operations Research, Industrial Engineering or a STEM related degree.• 3+ years in statistical modeling and quantitative analysis in industry or full-time academic research.• Proficiency with Python.• Statistical modeling and analysis skills.Preferred Qualifications:• Advanced Degree (MS or PhD) in a quantitative field is strongly preferred, such as Statistics, Mathematics, Physics, Computer Science, or Economics.• Strong SQL skills/understanding of relational databases.• Knowledge of Bayesian statistics preferred.• Survival modeling preferred.• Comfortable working in Linux a plus.• Knowledge of Econometrics a plus.• Experience with optimization algorithms a plus.• Hadoop experience with big data a plus.• Previous marketing experience a plus.• Previous retail electricity experience a plus.• SAS or R programming a plus.Additional Knowledge, Skills and Abilities:• Solid understanding of the use and interpretation of graduate level multivariate statistical techniques and sampling methods, such as multi-variants regression, ANOVA, factor analysis, cluster analysis, and principal components analysis.• Demonstrated ability to learn and apply new technologies and new analytics models/techniques.• Ability to work as a team member in a fast paced environment.• Good communication skills.• Ability to translate complex business issues into achievable analytical learning objectives and actionable analytical projects.• Strategic marketing mindset and firm understanding of key marketing and financial concepts.• Have you done any interesting analytics projects for fun? We would love to see them!",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-15T20:32:38.000Z"
+    },
+    "company": {
+        "name": "Primary Services",
+        "link": "https://www.linkedin.com/company/primary-services"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Houston",
+        "region": "TX",
+        "postal_code": "77208",
+        "street_address": null,
+        "latitude": 29.760803,
+        "longitude": -95.36951
+    }
+}

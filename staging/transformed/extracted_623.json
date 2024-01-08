@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer I (Java/Cloud)",
+        "industry": "Computer Software,Hospital &amp; Health Care",
+        "description": "The successful candidate must be proficient in at least one programming language (i.e., Java/C#), understand OOP and RDBMS concepts. Must be able to learn and directly contribute to the design and delivery of applications.  •\tParticipate in the complete software development lifecycle, from requirements through testing.•\tAssists in the construction, testing, and debugging of programs in accordance with engineering standards.•\tMaintains and documents programs in accordance with engineering standards.•\tMaintains technical specifications according to the changes introduced to the code and assist in development of new technical specifications.•\tSuggest estimates of efforts required to implement assigned tasks according to the schedule defined by technical management.•\tOther duties as required to support and meet the needs of the organizationRequirements:•\tBachelor’s Degree in process or completed in related field of study or equivalent experience.•\tUp to 4 years of software development experience.•\tExperience with Java 8 or above •\tExperience with 1 or more of the following:\to\tWeb technologies (HTML5, JavaScript, JQuery, REST).•\tExperience with one or more RDBMS (I.e., proficient in SQL).•\tUnderstand OOP and RDBMS concepts.•\tKnowledge of SDLC.•\tGood interpersonal, communications skills and ability to work independently.•\tStrong analytical and problem solving skills and proficient technical writing.•\tWorking knowledge of Software Version Control systems.•\tPreferred: Experience with microservices based architecture and AWS",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T18:40:34.000Z"
+    },
+    "company": {
+        "name": "MEDHOST",
+        "link": "https://www.linkedin.com/company/medhost"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Nashville Metropolitan Area",
+        "region": null,
+        "postal_code": "37201",
+        "street_address": null,
+        "latitude": 36.172813,
+        "longitude": -86.78488
+    }
+}

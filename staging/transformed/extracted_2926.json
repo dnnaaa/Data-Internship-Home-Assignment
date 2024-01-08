@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Information Technology and Services,Financial Services",
+        "description": "Modis has partnered with a unique company located in the Seattle, WA area to help find an experienced Software Engineer. The Client is a GIS software and services firm, and they create custom applications for both the web as well as distributed and scalable workflow applications. Many of their applications rely on specialty GIS/mapping software, especially from the MapInfo family of products.As a Software Engineer, you will be responsible for creating custom web and desktop applications in a collaborative team environment, writing mostly in C# and Javascript/Typescript and using numerous third party packages including cartographic and database tools. About 80% of your time will be spent creating features - planning, research, writing code (including unit tests), and reviewing. You will also support the Operations team in their work on acceptance testing, deployment, and technical support. The other 20% of your time will be spent on agile process meetings including daily standups, ad hoc planning meetings, biweekly retrospectives, lunch and learn events, and staff meetings.Skills You Will Use:TECHNICAL 4+ years of professional software engineering/development experience Write front and back-end code with unit tests. Model solutions to geometric, cartographic, and statistical problems. Solve bugs efficiently. Take unfamiliar code and figure out what it is doing. Create complex SQL queries and analyze indexing for performance. Ability to quickly learn new software and technical skills Ability to research and troubleshoot technical issues Ability to follow and understand a complex distributed algorithmSOCIAL/COOPERATIVE Strong written and oral communication skills Collaborative approach with team members Ability to prioritize and shift smoothly between tasks Resolve interpersonal conflicts professionally Ability to accept and offer constructive feedback Willingness to ask for and offer help as needed Willingness to take ownership of responsibilities and decisions Active engagement with commitment to helping create an inclusive workplace.Benefits: a comprehensive health insurance plan company matching 401K retirement plan standard business holidays (including your birthday) sick and safe time exceeding the requirements of Seattle law vacation time starting at 10 days per year and increasing to a maximum of 17 days per year a yearly profit-sharing bonus optional 40 hours paid volunteer time annual COLA salary adjustments Monthly “opposite” days to pursue innovation ideas and present to the team.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04T19:11:24.000Z"
+    },
+    "company": {
+        "name": "Modis",
+        "link": "https://ch.linkedin.com/company/modis"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

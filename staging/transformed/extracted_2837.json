@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Management Consulting,Information Technology and Services",
+        "description": "About the Role. . .Logic20/20 is seeking a Machine Learning Engineer who will be part of a team that leads the way in bringing artificial intelligence and machine learning into the very processes and systems that impact how customers are served. This is an exciting opportunity to make an impact with by leveraging AI and ML techniques to create production level systems through application of machine learning models. Core Responsibilities. . .Work with data scientists to take proof-of-concept models and implement them in production systemsDesign systems that work at scale and successfully handle customer loadDevelop software to help extract data and create features around itContribute to the team with software best practices—this is especially important given the fast pace nature of the work About You. . .You’re passionate about finding solutions to deep technical problemsYou have knowledge of professional enterprise software development and practices including software lifecycle, best coding practices, version control, architecture, testing and deploymentYou have experience in prototyping machine learning models on data from multiple data sources with many distinct attributesYou have experience in taking proof-of-concept machine learning models and figuring out how to deploy them into productionYou have familiarity with popular machine learning libraries and frameworks (Tensorflow, Keras, etc.)You are proficient in Python, and comfortable with object-oriented and programming languages (particularly Java).Additional exposure to Kubernetes, Sagemaker or other relevant technologies is desired.  Should have worked in data modeling, applying machine learning algorithms based on the business problemMaster's degree/PhD in computer science or related field About Logic20/20. . .Logic20/20 is one of Seattle’s fastest-growing consulting firms. We hire remarkable people to create simple, efficient solutions for complex problems.Although we make it look like magic, our success is due to our approach (methodical and structured) and the people we hire (smart, motivated, and team-oriented). Together, these enable us to consistently exceed client expectations—and our reputation is growing.For the past five years, we’ve placed in the top ten of Seattle Business magazine’s “Best Companies to Work For”. From engaged leadership and wide-ranging benefits to career mentorship and diverse internal opportunities, we pride ourselves on being one of the best companies to work with and work for.We hire people that are self-motivated, comfortable conceiving strategies on the fly, and enjoy working individually and as part of a team. Our work is high-energy and demanding, but new hires will quickly feel at home among colleagues as friendly and focused as they are. We bring our best to every opportunity, driving change in industries across the West Coast. Join us and you can, too.“We build an environment where we really operate as one team, building up each other’s careers and capabilities.” – Adam Cornille, Director, Advanced Analytics ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T21:07:47.000Z"
+    },
+    "company": {
+        "name": "Logic20/20, Inc.",
+        "link": "https://www.linkedin.com/company/logic20-20-inc-"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

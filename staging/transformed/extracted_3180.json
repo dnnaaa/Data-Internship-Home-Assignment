@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer I",
+        "industry": "",
+        "description": "Accendero Software, Inc. is seeking a candidate to fill the role of Software Engineer I at their Idaho Falls, ID location.    Accendero Software, Inc. works with state of the art start-ups and companies to help build the next generation of scientific and operational software infrastructure. The ideal candidate is a passionate developer who has experience with all levels of the software development lifecycle. This candidate should be prepared to immediately contribute in an agile engineering development and show leadership within a team of Junior Software Engineers. The ideal candidate should be prepared to adapt to changing requirements and deadlines in order to best suit customer needs.Accendero Software, Inc.  is an Equal Opportunity Employer and provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. Responsibilities: Develop new software applications for clients in multiple languages depending on client needs. Integrate with currently existing software applications to expand functionality depending on client needs. Coordinate with Project Management and senior Engineering to ensure all code is tested and prepared in a timely manner. Coordinate with Project Management and Quality to meet regulatory requirements for projects requiring GxP validation. Respond to changing scope and deadlines smoothly and efficiently. Take leadership roles on projects as required by Project Management.Requirements: A 4-year college degree (BS) in Computer Science or equivalent from a major accredited university and 1-2 years of full-stack software development experience OR 3-5 years of related experience in software engineering Experience with the Software Development Lifecycle and associated best practices. Proven work experience with Python, Java, and Javascript.Proven work experience with relational database structures. Proven work experience with non-relational database structures, especially MongoDB.Proven work experience with various version control software systems (Bitbucket, Git, etc.)Proven work experience with RESTful APIs.Demonstrable knowledge of best practices for testing code and proven work experience with various third party test suites (Selenium, Jest, etc.)Excellent problem-solving skills and attention to detail. Excellent oral and written communication skills Pluses: Experience with AWS. Experience within a development environment interacting with regulatory schemas such as GxP or ISO.  Familiarity with various other web or statistical languages (R, PERL, Java, etc.). Familiarity with Test Driven Development (TDD). ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T00:02:47.000Z"
+    },
+    "company": {
+        "name": "Accendero Software, Inc.",
+        "link": "https://www.linkedin.com/company/accendero-software-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Idaho Falls",
+        "region": "ID",
+        "postal_code": "83401",
+        "street_address": null,
+        "latitude": 43.491333,
+        "longitude": -112.04027
+    }
+}

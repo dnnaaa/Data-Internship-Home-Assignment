@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer (C#)",
+        "industry": "Staffing and Recruiting",
+        "description": "Must Haves: • At least a Bachelor's degree in computer science or related field (or equivalent experience) • 6+ years of experience in software development • Fundamental knowledge of Object-oriented design, data structures, algorithm design, problem-solving and complexity analysis. • Proven skills in C# and JavaScript (preferably VueJS) and two or more of the following: \t➢  TypeScript, CSS, SQL • The ability to communicate with users, other technical teams, and management to collect requirements, describe software product features, and technical designs. • Demonstrated willingness to learn new technologies and in solving challenging problems. • The ability to think abstractly and deal with ambiguous/under-defined problems. • The ability to learn and adapt quickly to changing requirements. Pluses: • Experience building complex multi-tier software systems and or services• Knowledge of professional software engineering practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations • SQL Server development skills including data integration, data modeling, query performance tuning, designing stored procedures • Experience with Public Key Infrastructure (PKI) in applications, especially smart card credentials• Experience with ORM technologies like Entity Framework, Dapper, or NHibernate • Experience with development in a Windows environment using .Net, Active Directory, IIS, Remote Desktop Services etc.• Experience with web-based applications, both local and cloud • Familiar with cloud solution stacks from either AWS or Azure • Experience with windows services, microservices, docker, containers • Experience writing, documenting and consuming REST APIs, GraphQL, etc • Familiar with development using Secure Software Development Lifecycle standards Day to Day: You work in a fast-paced environment where you will develop and deliver software that simplifies solutions for a broad set of interrelated problems. Specifically, you will join a talented team of dedicated professionals in delivering production-quality code against well[1]drafted requirements and business logic from product management. You will have the opportunity to create and deploy cutting edge solutions for commercial and government clients alike. Best of all, you’ll get to grow your experience working alongside smart people to solve problems that make the world a safer, more efficient place. What does a typical day look like for the Software Developer?Although no two days will be the same, you’ll:• Participate in high functioning software development projects including design and test• Interpret requirements and design specifications to develop, debug, test and maintain software applications to be deployed against a broad array of platforms and cloud services.• Maintain current knowledge of relevant technology• Proactively manage relationships with other team members• Present complex technical information in a clear and concise manner to a variety of audiences.• Facilitate consensus building and resolution of complex technical issues• Present complex technical information in a clear and concise manner to a variety of audiences.• Be an active participant in your development along your career path   ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-09T20:02:44.000Z"
+    },
+    "company": {
+        "name": "Insight Global",
+        "link": "https://www.linkedin.com/company/insight-global"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Raleigh-Durham-Chapel Hill Area",
+        "region": null,
+        "postal_code": "27603",
+        "street_address": null,
+        "latitude": 35.817448,
+        "longitude": -78.27004
+    }
+}

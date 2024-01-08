@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "(100% Remote) Site Reliability Engineer ",
+        "industry": "Information Technology and Services",
+        "description": "Our customer is a SaaS based AI product development startup. Their product automates and personalizes restaurant orders on high-volume voice channels using artificial intelligence (AI).Title - Site Reliability Engineer Location - Austin, Texas, United States - Remote till covidDuration - FulltimeResponsibilities● Be part of on-call rotation to respond to urgent bugs or production outages● Proactively identify and fix infrastructure bottlenecks● Choosing tooling for and understanding of CI / CD● GCP knowledge● Kubernetes (In a production environment)● Docker● Knowledge of working in an Agile environment● Infrastructure As Code● Develop, integrate and support features in the core server stack● Develop and support data pipeline and infrastructureDesirable Skills Include:● Microservices Architecture● Go● Python● ML Ops● Should be able to apply different tenants' configuration through code as well as tools.Experience● 3-5 years of experience in working with infrastructure as code● At least 1 year in Python or Golang● Comfortable developing, maintaining DevOps pipelines● Strong experience working with cloud services - AWS or GCP preferred● Exposure to NLP/AI/ML is a huge plus If interested please email me your resume at anna@avestacs.com",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T17:18:16.000Z"
+    },
+    "company": {
+        "name": "Avesta Computer Services",
+        "link": "https://www.linkedin.com/company/avesta-computer-services"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

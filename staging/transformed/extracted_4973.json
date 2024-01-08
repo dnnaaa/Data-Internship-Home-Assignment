@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Senior Full Stack Software Engineer (.NET)",
+        "industry": "Information Technology and Services",
+        "description": "Own and build solutions for eCommerce applications·       Build complex solutions from the ground up using the latest web technologies·       Develop new user-facing features using cutting-edge technologies·       Collaborate with a diverse team of designers, developers, and engineers·       Implement web design principles and standards to ensure our sites renders well across multiple devices ·       Translate designs and wireframes into high quality code·       Working in a dynamic, agile, team environment developing awesome new frontend applications ·       Innovating new ideas to evolve our applications and processes ·       Lead/contribute to engineering efforts from design to implementation, solving complex technical challenges around developer and engineering productivity and velocity·       Build and ensure our code artifacts are building in Continuous Integration (CI) fashion and we soon realize our dream of Continuous Delivery (CD)  What you bring to the role:·       Education: Bachelor's degree in Computer Science, or Relevant Science and Math disciplines with an IT emphasis is required·       10+ years’ of relevant technical experience, with at least 5 years building Front End Solutions in eCommerce, or Master’s degree plus 6+ years of relevant experience·       Deep hands-on experience with Front-end technologies JSON, HTML, CSS and CSS pre-processing frameworks (Sass, Less or Stylus), JavaScript, JavaScript libraries (Jquery) or Web Components and other industry standard frameworks·       Hands-on experience in developing frontend solutions·       High proficiency in React, JQuery, Angular 2 JS, Bootstrap, and Knockout JS·       Deep, hands-on experience with .NET Web development experience with C# /.NET4.x / MVC.·       Strong background in MS SQL Server, SQL Databases, and writing SQL stored procedures·       In-depth understanding of the entire web development process (design, development and deployment)·       Understanding of layout aesthetics·       Extensive experience with front end frameworks such as ASP.Net MVC, React, Angular, Vue, or Ember·       Good understanding of asynchronous request handling (AJAX)·       Experience with RESTful APIs and MicroServices·       Experience with unit testing libraries such as Mocha, Jest, Chai, Enzyme·       Experience with code versioning tools (TFS, git) and process·       Knowledge of SEO principles·       Strong interpersonal skills ·       Strong ability to collaborate and work across teams and disciplines ·       Strong software design and test methodology knowledge and abilities ·       Ability to communicate clearly and concisely, both verbally and in written forms ·       Ability to understand and analyze complex problems and break them into small solvable pieces·       Ability to learn new tools, frameworks, technologies and platforms required experience  ",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-20T22:54:42.000Z"
+    },
+    "company": {
+        "name": "Numentica LLC",
+        "link": "https://www.linkedin.com/company/numentica-llc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Irvine",
+        "region": "CA",
+        "postal_code": "92717",
+        "street_address": null,
+        "latitude": 33.68591,
+        "longitude": -117.82472
+    }
+}

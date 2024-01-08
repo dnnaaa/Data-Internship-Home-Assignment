@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Computer Software",
+        "description": "The Company  Running a restaurant is a balancing act - it’s a barrage of challenges from all directions and knowing how to maximize resources is the key to bringing it all together to make it a successful business. To make it work, it has to be clear where to focus.  Lineup.ai is a sophisticated digital tool that interprets contextual data to accurately predict how busy a restaurant will be — today, next week, or in three weeks. In partnership with best-in-class restaurants, and leveraging advanced machine learning models, the team at Lineup.ai has developed a solution by rooting our innovation efforts in our purpose – to help our customers mitigate risk and uncertainty. By considering multiple key factors that affect demand, Lineup.ai increases confidence and consistency in a manager’s decisions. Our easy-to-use software shows executives and managers exactly what they need to make better, faster decisions toward increasing efficiency and improving profitability. We’ve built a custom prediction engine tailored to each store’s specific geography, weather, and local events. Lineup.ai is up and running in multiple pilot locations, enabling continued iteration of the key features and refinement of the predictive model. What You Will Do: Experiment with a variety of machine learning algorithms to build, test, and refine predictive models for restaurant sales, labor, and inventory Identify and experiment with new data sources to increase the predictive power of our products Design and develop incremental model improvements and data acquisition strategies  Develop monitoring metrics to reflect real-world model performance and make recommendations to shape the future direction of models and digital solutions  Collaborate with Product, UX, and the leadership team to understand business requirements and prioritize solution development Collaborate with ML Engineer to determine how to best operationalize and scale solutions Partner with ML Engineer and the 1848 Ventures Data Science Practice Group to create more robust features and algorithms as well as develop shared best practices and broadly reusable components How You Will Get Here:  Commercial experience applying data and machine learning to drive generate business value A track record of designing and implementing time-series algorithms (forecasting) Experience operationalizing models in a three-tiered environment (dev, test, prod) A demonstrated ability to communicate technical findings to a non-technical audience A demonstrated ability to dive deep and solve new complex problems but the discernment to know when, and how deep to dive (progress over perfection; value driven) High levels of competence with Python High levels of competence with SQL A high-level understanding of data architecture and database design Proficient with a wide variety of machine learning and data munging libraries and tools (e.g. NumPy, scikit-learn, PyTorch, xgboost, etc.) Prior experience working with data engineers, software engineers, and dev ops teams to set up appropriate technical resources to perform Data Science work and translating prototypes to production  Proficiency with at least one cloud-based platform (Google Cloud Platform, Amazon Web Services, or Microsoft Azure) Nice To Haves: Prior experience implementing deep learning algorithms Experience with DAG / workflow orchestration tools (e.g. Airflow, Prefect) Experience writing unit tests Experience with other general-purpose programming languages ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-30T16:07:47.000Z"
+    },
+    "company": {
+        "name": "Lineup.ai",
+        "link": "https://www.linkedin.com/company/lineupai"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Westfield Center",
+        "region": "OH",
+        "postal_code": "44251",
+        "street_address": null,
+        "latitude": 41.02686,
+        "longitude": -81.94169
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "We are looking for an energetic and highly motivated Site Reliability Engineer (SRE) to join our team. A Systems Engineer who loves automation, or a Software Developer who loves infrastructure, will be ideal for this role. The Site Reliability Engineer (SRE) will be an integral part of our Software Development team, and should have a passion for technology and open source software. Responsibilities: Help develop and deploy tools and systems that assist the company’s Engineering, QA, and Operations team, to deliver high-quality software. Work with development to help evolve our continuous delivery process. Monitor and respond to alerts from technology infrastructure in order to ensure proper SLA's are met. Work throughout the technology stack to design, build, and monitor solutions that allow for continued scalability. Document work associated with troubleshooting, while utilizing problem solving skills Remain flexible. Have a strong sense of ownership for system uptime and performance. Skills and Experience: Bachelor’s Degree in Computer Science, Engineering or similar field is preferred. 2-3 years of experience. Knowledge of managing a Linux cluster environment (RHEL, CentOS). Exceptional skills with one or more scripting languages (bash, Python, Perl, Ruby or similar). Proven experience using configuration management tools such as Puppet or Chef. Experience supporting and troubleshooting any of the following technology components (or similar): Linux container technology and orchestration tools (Docker/Origin/Kubernetes), Continuous Integration tools (Jenkins), Logging and alerting platforms (Nagios/ElasticSearch/Splunk), Web application servers (Apache/Tomcat/Nginx), Databases in a distributed data center environment (MySQL/Couchbase, LDAP and Kerberos. Detail oriented individual, with strong communication skills used to collaborate and keep others informed. Ability to produce results while working independently, and in a team environment. Working knowledge of building and maintaining IP-based networks (Cisco) and F5 LTM, DNS and/or iRule development experience Experience with VMWare/vCenter or AWS is preferred, but not required     ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-05T15:31:44.000Z"
+    },
+    "company": {
+        "name": "Solution Partners, Inc.",
+        "link": "https://www.linkedin.com/company/solpart"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Chicago",
+        "region": "IL",
+        "postal_code": "60654",
+        "street_address": null,
+        "latitude": 41.88323,
+        "longitude": -87.6324
+    }
+}

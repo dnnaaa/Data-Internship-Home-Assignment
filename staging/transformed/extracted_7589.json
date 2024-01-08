@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "ServiceNow Developer",
+        "industry": "Information Technology and Services",
+        "description": "This is a 100% remote opportunity.  Open to full time or contractingAs a Technical Consultant you will work to develop, design and own technical solutions on the ServiceNow platform. You will provide administration, application development, maintenance, and technical support by using good practice web programming techniques to configure robust solutions to the client utilizing the ServiceNow platform.   Location: Remote - must be based in the US Travel Requirements: 25% or less Employment Status: Full-timeResponsibilities * Comfortable with Javascript and ServiceNow Javascript API's * Comfortable with configuration and customization of solutions in one (1) or more of the following specializations: * ServiceNow Mainline Application(s) (ITSM, ITBM, CSM, HR, ITOM, etc) * Service Portal (HTML, CSS, AngularJS, SASS, Bootstrap) * ServiceNow Application Development (Scoped Applications) * 3rd Party Integrations Development (REST, SOAP, MID Servers, etc) * Write/create custom business rules, client scripts, script includes, UI policies, ACL's, data policies, UI scripts * Work independently with customers on implementations and remote services * Can troubleshoot basic configuration/script issues * Attend requirements review and validation sessions as required * Participate in scrum ceremonies * Deliver measurable, positive results within the client and team's timeline resulting in positive feedback from clients * Build on current platform knowledge by learning new modules and broadening skillset * Remain innovative, creative, self-directed…a great leader and team player with a record of accomplishment in managing multiple complex tasks * Utilize strong communication, presentation, and writing skills * Maintain current certifications, keep up to date on all Delta releasesQualifications * Strong working knowledge of one (1) or more of the following specializations: * ServiceNow Mainline Application(s) (ITSM, ITBM, CSM, HR, ITOM, etc) * Service Portal (HTML, CSS, AngularJS, SASS, Bootstrap) * ServiceNow Application Development (Scoped Applications) * 3rd Party Integrations Development (REST, SOAP, MID Servers, etc) * ServiceNow Certified System Administrator is required * ServiceNow CIS certification is preferred * Consulting experience strongly preferred * BA/BS Degree education preferred ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:39:45.000Z"
+    },
+    "company": {
+        "name": "KORE1",
+        "link": "https://www.linkedin.com/company/kore1-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cincinnati Metropolitan Area",
+        "region": null,
+        "postal_code": "45220",
+        "street_address": null,
+        "latitude": 39.097866,
+        "longitude": -84.508
+    }
+}

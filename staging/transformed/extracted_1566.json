@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Jr. Software Engineer",
+        "industry": "Automotive",
+        "description": "We are looking for a candidate who has :• Working experience in coding within multiple technology stacks technologies – Ruby on Rails,• Working experience with AWSIts an entry level role .",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-28T17:59:10.000Z"
+    },
+    "company": {
+        "name": "Confidential",
+        "link": "https://www.linkedin.com/company/confidentialcompany"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

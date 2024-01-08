@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "Data Scientist/Analyst Location: SFO, CA (Remote can work from anywhere but wiling to work Pacific hours).3 Rounds of Interview Mandatory:·        3+ years of data science, data analytics, or business intelligence experience·        Strong understanding of SQL·        Experience with conducting data analysis in Python and / or R·        Experience building clear and easy to understand dashboards and presentations ·        Ability to communicate clearly and effectively to cross functional partners of varying technical levels·        Ability to define relevant metrics that can guide and influence stakeholders to appropriate and accurate insights Pluses·        Familiarity with Superset·        Familiarity with running weblab experiments, efficacy studies, or product validation tests·        Familiarity with machine learning basics·        Familiarity with Client infrastructure, including Airflow, Presto SQL, and Hive SQL·        Experience creating and maintaining data pipelines·        Experience supporting engineering product work",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-20T21:07:13.000Z"
+    },
+    "company": {
+        "name": "Derex Technologies Inc",
+        "link": "https://www.linkedin.com/company/derex-technologies-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

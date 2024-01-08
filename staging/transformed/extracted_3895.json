@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "",
+        "description": "Would you like to get involved at the forefront of applying AI & big data technology in life sciences research and work with the leading pharma, biotech and research institutions worldwide? If you are a bioinformatician with a passion for machine learning and data analysis, please read on!  We are looking for a skilled machine learning engineer to join the data science team. The successful applicant will implement state of the art graph neural network methods for drug target identification with the Euretos Knowledge Graph.  Euretos  Euretos (www.euretos.com) provides AI driven research support as well as direct access to the Euretos AI Platform to enable in-silico discovery & validation of targets, biomarkers and indications. By integrating over 250 different public databases, the Euretos platform provides the largest single environment in which the latest multi-omics data is interlinked to literature, experimental and clinical evidence.  We enable (pre)clinical researchers to take a systems biology approach connecting molecular multi-omics interactions, through cellular involvement, to the level of functional and phenotypic characterisation that are relevant for a disease or pathology. As part of this effort, Euretos uses statistical modeling and machine learning to create computational disease models.   You will be working at our offices at the Utrecht Science Park, Yalelaan 1, Utrecht.  Your Responsibilities  Implement state of the art machine learning methods to expand the analytics capabilities of the Euretos AI platform, with a focus on applying deep learning and graph neural network approaches to knowledge graphs Perform extensive characterisation and validation of the computational models developed by the data science team Interact with bioinformaticians and translational scientists to understand their needs and assist them in obtaining biological insights from the computational models  Your background  University degree, preferably a PhD, in machine learning, computer science, statistics or a related computational field Expert programmer skills in Python and preferably R Demonstrable experience in developing and implementing statistical models and machine learning methods for analysis of large-scale data sets Hands-on experience with deep learning, specifically graph neural networks / graph convolutional networksExperience working with large-scale biological datasets (-omics) is an advantage Motivated to acquire detailed knowledge of relevant concepts in biology and drug development Strong interpersonal skills and ability to manage projects and work with cross-functional teams Strong English writing and communication skills Who you are  Self propelled – take initiative to bring things forward Organised doer with hands-on mentality Affinity with biology and data analysis Attention to detail Systematic worker with a strong ability to meet deadlines  Apply Now!  Do you think you are the right person for the job? Then apply now and:  Send an email to jobs@euretos.com or  Contact Kees Albers on LinkedIn: https://nl.linkedin.com/in/kees-albers-721088151   ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-15T19:14:49.000Z"
+    },
+    "company": {
+        "name": "Euretos",
+        "link": "https://nl.linkedin.com/company/euretos"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "NL",
+        "locality": "Utrecht",
+        "region": null,
+        "postal_code": "3732",
+        "street_address": null,
+        "latitude": 52.08423,
+        "longitude": 5.16388
+    }
+}

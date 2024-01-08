@@ -1,0 +1,31 @@
+{
+    "job": {
+        "title": "Software Engineer ",
+        "industry": "Information Technology and Services",
+        "description": "PriceSpider is revolutionizing retail data technology by capturing actionable insights that improve the customer experience. Combining decades of data on consumer shopping behaviors with its proprietary data collection platform, PriceSpider arms brands with intelligence from thousands of ecommerce sites and marketplaces to help them drive sales conversions and protect brand integrity at every possible digital touch point. PriceSpider helps the world’s biggest brands enrich the consumer journey and build long-lasting relationships with their shoppers, resulting in more revenue and higher profit margins.We are looking for enthusiastic and passionate engineers to join our team. If you would enjoy working to bring real world value to many of the world’s largest companies, we would love to hear from you. Our platform runs thousands of jobs and processes millions of requests each day as we strive to collect the most accurate information about the way our customers’ products are used and consumed around the globe.  Essential Functions & Responsibilities: Work individually and collaboratively with global teams to create both scalable and maintainable solutions towards team and company goals Promote high quality coding standards through the employment of industry best practices, including unit-testing, CI/CD, and our expanding cloud only strategy Take responsibility for project quality, represented primarily by user adoption and data usability and accuracyIdentify and engage in opportunities to reduce legacy application inefficiencies as newer projects and solutions progress Create and maintain documentation and training material Research and explore new technology and systems for the application of improved solutions to internal and external client obligations Participate in project and team planning, including those responsible for the identification and enumeration of product requirements  Requirements and Qualifications: 4+ Years of experience in web application development preferably involving technologies promoting the movement, maintenance, and quality of data Experience with cloud service providers, preferably AWS (handled standard cloud service technologies including VMs, containers, queueing systems...) Thorough understanding of SQL Databases (MSSQL and Postgres)Experience with multiple languages, preferably Go and NodeJS (Typescript) Experience with ReactJS and functional componentsStrong understanding of REST architecture and how to build scalable API’sExperience with CI / CD procedures and tools (GitHub Actions, Jenkins, ...) Very analytical thinking and adaptability to frequently changing needs with an absolute solution orientation Excellent communication skills in an international environment Tech Stack:Any of: NodeJS, Golang, C#PostgreSQL, MSSQLGithub and Github Actions, CI/CD AWS in general Container, Kubernetes, Linux Messaging (e.g. RabbitMQ)Nice to have, any of: Jenkins, C#, Elastic Search, Kafka Location: We are hiring for this position in Irvine, CA or remote (PST). Remote work allowed.PriceSpider is an equal opportunity employer that is committed to inclusion and diversity. ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T21:08:36.000Z"
+    },
+    "company": {
+        "name": "PriceSpider",
+        "link": "https://www.linkedin.com/company/pricespider"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "California",
+        "region": "United States",
+        "postal_code": "93266",
+        "street_address": null,
+        "latitude": 37.254673,
+        "longitude": -119.61728
+    }
+}
