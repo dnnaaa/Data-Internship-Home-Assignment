@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer ",
+        "industry": "Information Technology and Services",
+        "description": "<p>PriceSpider is revolutionizing retail data technology by capturing actionable insights that improve the customer experience. Combining decades of data on consumer shopping behaviors with its proprietary data collection platform, PriceSpider arms brands with intelligence from thousands of ecommerce sites and marketplaces to help them drive sales conversions and protect brand integrity at every possible digital touch point. PriceSpider helps the world\u2019s biggest brands enrich the consumer journey and build long-lasting relationships with their shoppers, resulting in more revenue and higher profit margins.</p><p>We are looking for enthusiastic and passionate engineers to join our team. If you would enjoy working to bring real world value to many of the world\u2019s largest companies, we would love to hear from you. Our platform runs thousands of jobs and processes millions of requests each day as we strive to collect the most accurate information about the way our customers\u2019 products are used and consumed around the globe.&nbsp;</p><p>&nbsp;</p><p><strong>Essential Functions &amp; Responsibilities:</strong>&nbsp;</p><ul><li>Work individually and collaboratively with global teams to create&nbsp;both scalable and&nbsp;maintainable solutions towards team and company&nbsp;goals&nbsp;</li><li>Promote high quality coding standards through the employment of industry best practices, including unit-testing,&nbsp;CI/CD, and our expanding cloud&nbsp;only&nbsp;strategy&nbsp;</li><li>Take responsibility for project quality, represented primarily by user adoption and data usability and accuracy</li><li>Identify and engage in opportunities to reduce legacy application inefficiencies as newer projects and solutions progress&nbsp;</li><li>Create and maintain documentation and training material&nbsp;</li><li>Research and explore new technology and systems for the application of improved solutions to internal and external client obligations&nbsp;</li><li>Participate in project and team planning, including those responsible for the identification and enumeration of product requirements&nbsp;</li></ul><p>&nbsp;</p><p><strong>Requirements and Qualifications:</strong>&nbsp;</p><ul><li>4+ Years of experience&nbsp;in web application development preferably&nbsp;involving technologies promoting the movement, maintenance, and quality of&nbsp;data&nbsp;</li><li>Experience with cloud service providers, preferably AWS (handled&nbsp;standard cloud service technologies including VMs,&nbsp;containers,&nbsp;queueing systems...)&nbsp;</li><li>Thorough understanding of SQL Databases (MSSQL and Postgres)</li><li>Experience with multiple languages,&nbsp;preferably&nbsp;Go and NodeJS (Typescript)&nbsp;</li><li>Experience with ReactJS and functional components</li><li>Strong understanding of REST architecture and how to build scalable API\u2019s</li><li>Experience with CI / CD&nbsp;procedures and&nbsp;tools&nbsp;(GitHub Actions, Jenkins,&nbsp;...)&nbsp;</li><li>Very analytical thinking and adaptability to frequently changing needs&nbsp;with&nbsp;an absolute&nbsp;solution orientation&nbsp;</li><li>Excellent communication skills in an international environment</li></ul><p>&nbsp;</p><p><strong>Tech Stack:</strong></p><ul><li>Any of: NodeJS, Golang, C#</li><li>PostgreSQL, MSSQL</li><li>Github&nbsp;and&nbsp;Github&nbsp;Actions,&nbsp;CI/CD&nbsp;</li><li>AWS&nbsp;in&nbsp;general&nbsp;</li><li>Container,&nbsp;Kubernetes, Linux&nbsp;</li><li>Messaging&nbsp;(e.g.&nbsp;RabbitMQ)</li><li>Nice to have, any of:&nbsp;Jenkins, C#, Elastic Search, Kafka</li></ul><p>&nbsp;</p><p><strong>Location:</strong>&nbsp;</p><p>We are hiring for this position in Irvine, CA or remote (PST). Remote work allowed.</p><p><em>PriceSpider is an equal opportunity employer that is committed to inclusion and diversity.</em>&nbsp;</p>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T21:08:36.000Z"
+    },
+    "company": {
+        "name": "PriceSpider",
+        "link": "https://www.linkedin.com/company/pricespider"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": 0,
+        "max_value": 0,
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "California",
+        "region": "United States",
+        "postal_code": "93266",
+        "street_address": null,
+        "latitude": 37.254673,
+        "longitude": -119.61728
+    }
+}

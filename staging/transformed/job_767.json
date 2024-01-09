@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services",
+        "description": "<p><strong>Machine Learning Engineer:</strong></p><p><br></p><p><strong>About the Position</strong>&nbsp;</p><p>As a&nbsp;member of our Engineering team,&nbsp;you&nbsp;will work with a tight, highly skilled machine learning&nbsp;/ data science&nbsp;team dedicated to the development of&nbsp;proprietary consumer insights.&nbsp;You will be&nbsp;working closely with our Data Scientists,&nbsp;implementing&nbsp;highly available and scalable machine learning&nbsp;pipelines.&nbsp;</p><p><br></p><p>If you are a&nbsp;Software Engineer passionate for technology who wants to&nbsp;work with a mature,&nbsp;intensely skilled team, values total ownership of your work, and can\u2019t imagine a day without coding, we want to speak to you! We're looking for a creative, focused,&nbsp;collaborative,&nbsp;technically curious individual who enjoys both design as well as working hands-on with the code.&nbsp;</p><p><br></p><p>If you are interested in working on cutting edge ML and AI projects at&nbsp;Internet scale and speed this is the job for you!&nbsp;</p><p><br></p><p><strong>Key Responsibilities</strong>&nbsp;</p><ul><li>Design and implement ML feature&nbsp;pipelines&nbsp;</li><li>Optimize pipelines and processes for model development, experimentation and scaled production&nbsp;scoring&nbsp;&nbsp;</li><li>Implement machine learning algorithms and libraries in service to modeling and production scoring&nbsp;pipelines&nbsp;</li><li>Monitor and ensure the quality of machine learning&nbsp;solutions&nbsp;by implementing&nbsp;process&nbsp;and control disciplines&nbsp;as well as&nbsp;tooling&nbsp;to&nbsp;govern&nbsp;</li><li>Analyze large and complex data sets to derive valuable insights, inform feature and product&nbsp;development&nbsp;</li><li>Apply machine learning and data science techniques and design distributed&nbsp;systems&nbsp;</li></ul><p><br></p><p><strong>Qualifications &amp; Experience Requirements</strong>&nbsp;</p><ul><li>Strong&nbsp;Software Engineering background with emphasis in data&nbsp;science and&nbsp;machine&nbsp;learning&nbsp;</li><li>Fluent in Java, Python, and/or Scala programming languages&nbsp;</li><li>Strong communication skills including the ability to describe complex models and findings to different audiences and stakeholders, from&nbsp;data&nbsp;science peers to business decision-makers&nbsp;</li><li>Demonstrated exploratory analysis and visualization abilities in a non-academic&nbsp;settings&nbsp;</li><li>Strong bias for action and ability to pivot quickly and act with agility according to the needs of the&nbsp;business&nbsp;</li><li>Working knowledge of machine learning frameworks and the data and computation management mechanisms that surround them in a cloud&nbsp;environment&nbsp;(AWS)&nbsp;</li><li>Experience designing, implementing, and transitioning to AI/ML&nbsp;cloud based&nbsp;frameworks such as Amazon&nbsp;SageMaker&nbsp;</li><li>Experience implementing quality and control&nbsp;disciplines&nbsp;for Machine Learning&nbsp;pipelines&nbsp;through process and&nbsp;tooling&nbsp;</li><li>Ability to handle multiple projects simultaneously, meet deadlines, and effectively manage priorities and communicate&nbsp;progress&nbsp;</li><li>Fluent in Linux based systems, Docker,&nbsp;and code versioning tooling (Git/CI/CD)&nbsp;</li><li>Computer Science or equivalent degree and work experience&nbsp;</li></ul>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T15:23:52.000Z"
+    },
+    "company": {
+        "name": "1872 Consulting",
+        "link": "https://www.linkedin.com/company/1872-consulting"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 0,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": 0,
+        "max_value": 0,
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Virginia",
+        "region": "United States",
+        "postal_code": "23038",
+        "street_address": null,
+        "latitude": 37.512905,
+        "longitude": -78.697624
+    }
+}

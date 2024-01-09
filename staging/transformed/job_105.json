@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "",
+        "industry": "",
+        "description": "",
+        "employment_type": "",
+        "date_posted": ""
+    },
+    "company": {
+        "name": "",
+        "link": ""
+    },
+    "education": {
+        "required_credential": ""
+    },
+    "experience": {
+        "months_of_experience": 0,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": 0,
+        "max_value": 0,
+        "unit": ""
+    },
+    "location": {
+        "country": "",
+        "locality": "",
+        "region": "",
+        "postal_code": "",
+        "street_address": "",
+        "latitude": 0,
+        "longitude": 0
+    }
+}

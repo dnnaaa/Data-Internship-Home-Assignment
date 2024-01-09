@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "<p>The Data Scientist will report to the Senior Data Scientist within the University Analytics and Institutional Research department (UAIR) and will assist in the development and responsibilities of an integrated institutional planning office for the University of Arizona. The Data Scientist will serve as a liaison between the University Planning Office and UAIR and will be instrumental in providing statistical and predictive insights to University Senior Leadership to further institutional strategic goals. The scope of the office will be focused on institutional planning surrounding projections years into the future. The data scientist\u2019s concentration will be on developing statistical, predictive, and prescriptive models to help guide the work of the planning office, as well as support the broader data science needs of UAIR. The position will require not only the ability to carry out complex technical data science requirements, but also to communicate and share relevant insights from statistical analysis and modeling.</p><p>&nbsp;</p><p><strong>Responsibilities</strong></p><ul><li>Develop and implement statistical, machine-learning, and heuristic techniques to create descriptive,&nbsp;diagnostic,&nbsp;predictive, and prescriptive analytics&nbsp;</li><li>Collaborate with experts in various subject areas to get an understanding of underlying business processes, strategies,&nbsp;circumstances,&nbsp;and execution to produce effective statistical and machine-learning models&nbsp;</li><li>Identify opportunities to enhance our current analytical capabilities and develop new analytics products to enhance business insights and functions through expert mathematical, analytical, and computational techniques&nbsp;and guidance&nbsp;</li><li>Identify approaches to improve accuracy and effectiveness of&nbsp;existing&nbsp;analytical models&nbsp;</li><li>Present&nbsp;data-driven,&nbsp;informed, and results-based&nbsp;conclusions and recommendations to both internal and external&nbsp;leadership, college, department,&nbsp;and/or&nbsp;project teams, including tailoring to technical and non-technical audiences&nbsp;</li><li>Create visualizations, dashboards, presentations, and handouts to present&nbsp;conclusions and results in an intuitive format&nbsp;</li><li>Work with cross-functional teams&nbsp;in the selection&nbsp;of appropriate analytical methods, design&nbsp;of&nbsp;experiments and analytics, verification of data quality and information integrity,&nbsp;interpreting results, documenting processes and assumptions, and suitable presentation method&nbsp;</li><li>Coordination&nbsp;with Business Intelligence data engineers, developers, analysts, and architects to ensure integration of functionality and toolsets&nbsp;</li><li>Develop and document data modelling best practices and processes&nbsp;</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Master\u2019s&nbsp;Degree in Mathematics, Statistics, Computer Science, or other related field; AND five years\u2019&nbsp;experience with&nbsp;research, statistics, or analytics&nbsp;</li><li>Experience programming and using data analysis software, such as Python or R, in a professional work environment&nbsp;</li><li>One or more years\u2019 experience with a database management language, such as&nbsp;SQL&nbsp;</li><li>Experience using statistical/machine learning modeling techniques such as linear regression, logistic regression, clustering, random forest, gradient boosting, and ensemble modeling&nbsp;</li><li>Strong background in statistical concepts including regression analysis, factoring, clustering, decision trees, and experimental design&nbsp;</li><li>Experience in building, training, scoring, tuning, and maintaining predictive models&nbsp;</li></ul><p><br></p>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-19T16:29:20.000Z"
+    },
+    "company": {
+        "name": "University of Arizona",
+        "link": "https://www.linkedin.com/company/uarizona"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": 0,
+        "max_value": 0,
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Tucson Area",
+        "region": null,
+        "postal_code": "85701",
+        "street_address": null,
+        "latitude": 32.213425,
+        "longitude": -110.92448
+    }
+}
