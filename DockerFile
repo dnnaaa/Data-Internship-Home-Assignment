@@ -1,0 +1,7 @@
+FROM apache/airflow:2.8.0-python3.8
+
+USER root
+
+USER airflow
+
+RUN pip install --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.8.0/constraints-3.8.txt" apache-airflow==2.8.0
