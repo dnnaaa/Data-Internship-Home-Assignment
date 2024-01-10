@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer (Computer Vision))",
+        "industry": "",
+        "description": "Machine Learning Engineer @ TrueFootage TrueFootage is looking for a machine learning engineer that is motivated to transform an industry.\u00a0 TrueFootage is a real estate data and analytics company looking to bring the next level of efficiency to the real estate transaction process by superior quality of information, accuracy, and automation.\u00a0 We take pride in every detail in the process and heavily believe in continuous learning, consistent improvement, and getting results. The Team You would be a core member of the machine learning team at the company, we are looking for someone who can work through tough ambiguous problems, is comfortable with discriminative and generative techniques, is relentless about predictive accuracy, leads by example, can crank on a codebase, and is relentless about pleasing their customers and users. What you will work on You will own the development, deployment, and management of all of our algorithms that power the company from basic tagging and classification to complex geometry and computer vision. Lead the development and enhancement of custom machine learning algorithms focusing on graph theory, complex geometry, and computer vision Lead the development of complex data pipelines to support production models and algorithms Lead the development of our labeling and annotation strategies Develop algorithms and techniques that can deploy into production with a focus on driving simplicity and ease of use to our end users Develop a working understanding of the business and what the end users are trying to accomplish and how that translates into math and algorithms Who we are looking for We are looking for a machine learning engineer who wants to own the development of algorithms that power an entire company Strong knowledge of custom model and algorithm development beyond running and modifying examples online Strong understanding of generative vs discriminative methods and when to use each Strong knowledge of computer vision, neural network variations, complex geometry and graph theory, data labeling and annotation strategies Strong knowledge of predictive accuracy and what drives variations in model errors Strong knowledge of distributed systems and accelerated compute infrastructures (GPU, TPU) Strong understanding of software development principles and best practices Strong knowledge of model training runtime and performance optimizations Strong knowledge of Python and R programming Strong knowledge of Tensorflow, Keras Strong knowledge of C++/C/Golang Strong understanding of data visualization techniques in 2D and 3D spaces You are great in ambiguous situations and prefer it to be that way You are willing to take responsibility for you work and have a heightened sense of ownership You iterate quickly, believe in constant and consistent improvement, and continuous learning. Excellent communication skills and take pride in your ability to communicate and distill complex topics into succinct explanations.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-07T21:35:17.000Z"
+    },
+    "company": {
+        "name": "True Footage",
+        "link": "https://www.linkedin.com/company/true-footage"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

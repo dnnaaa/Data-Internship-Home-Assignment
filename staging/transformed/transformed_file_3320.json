@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "",
+        "description": "Who We Are The first AI-led fashion house - leveraging machine learning & statistics to identify trends, predict demand and optimize distribution, creating hit sell-outs every time in record time while avoiding the overproduction inherent to the fashion industry. Named \"Zara meets Netflix\" by Forbes, we are on a mission to completely upend the fashion industry, creating an entirely new paradigm of what a fashion house of the future looks like. The Work You will creatively\u00a0architect new data sources & models to improve our trend prediction and leverage the latest techniques in AI and machine learning across computer vision, sentiment analysis, and recommendation systems to optimize our trend analysis pipeline. You will work with large datasets consisting of highly variant\u00a0&\u00a0fascinating data that powers the very core of trends around us, making sense out of highly complex data sources. About You You are a brilliant machine learning engineer who is excited about applying your ML & systems expertise to create a radically new approach to trend prediction within a massive industry. You love all things data - especially social data - and are burning to make sense out of the myriad of signals around us. You embrace big data and obsess over performance and scalability - always striving to improve both product and performance. You think for the long-term, setting up systems that benchmark progress, prevent regressions, and are easily maintainable by other collaborators. And most importantly, you burn to to radically change an entire industry. Recommended Background Strong fundamentals in computer science and math Expertise working with large data sets (ideally social data) and deriving unique insights Strong fundamental understanding of at least two of the following: Natural Language Processing, Computer Vision, Graph Analysis, Stochastic Modeling, Time Series Analysis Experience mining data and building robust, large scale machine learning systems Relevant Technologies: AWS, Docker, SciKit, PyTorch, Tensorflow, Keras What You\u2019ll Love at FINESSE Being at the forefront of and working towards creating a culture-defining new product A close-knit, extremely passionate\u00a0&\u00a0talented team excited about changing the face of fashion A diverse team and culture that values inclusivity and individuality as highest priority Company sponsored happy hours and outings Excellent benefits: Medical, dental and vision insurance; 401k Paid maternity and paternity leave Free Friday lunches Unlimited PTO and flexible working hours",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-14T02:50:15.000Z"
+    },
+    "company": {
+        "name": "FINESSE",
+        "link": "https://www.linkedin.com/company/finesseus"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Los Angeles",
+        "region": "CA",
+        "postal_code": "90101",
+        "street_address": null,
+        "latitude": 34.05224,
+        "longitude": -118.24335
+    }
+}

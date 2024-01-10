@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer In Test",
+        "industry": "Logistics and Supply Chain",
+        "description": "Job Title: Software Engineer in Test Location: Alpharetta, Georgia (Flexible/Hybrid) Industry: Supply Chain Terms: Permanent Requirements: Javascript Preferred: Jest or Jasmin Chai (for assertions) Typescript or JavaScript Visual Studio Code editor SDET Job Summary : Our client is looking for a strong, Software Development Engineer in Test to join its Quality Assurance team. This will be a vital role to the team and the candidate must be self-driven, motivated, and passionate about tackling their next challenge! This role will report to the VP of Solutions and Quality and will have autonomy and decision making responsibilities. SDET Job Responsibilities: Participate in requirement meetings and project-related meetings to gain a thorough understanding of project goals and objectives Analyze project requirements, identifying gaps and ensuring acceptability for test case creation Own and develop automated testing tools for our omnichannel suite of solutions Utilize automated testing tools for the RESTFUL service tied to marketplace integrations Identify specific use cases tied to the individual marketplaces and assist in testing those manually as needed, while working on the longer-term automated solution Develop automated acceptance and unit test for the agile team Work with Jenkins and CI tools to automate development, building, deployment, and testing Be a part of the Scrum team and work closely with product owners to understand the requirements Analyze test results from a technical standpoint and provide detailed analysis to technology team Test related support for production issue troubleshooting in collaboration with Dev Develop all test artifacts required as part of the QA deliverables such as test plans, test scripts, strategy, RTM documents, etc. SDET Job Requirements: Four-year degree in Computer Science/Engineering preferred 2+ years experience in software quality testing 2+ years of Agile Experience 3 years Java Experience preferred Experience in integration platforms preferred Detailed knowledge of all aspects of the Software Development Life Cycle including requirements gathering, design, and testing with experience using current testing methodologies and tool Working knowledge on JSON and XML messaging Experience with Atlassian tools like JIRA, Confluence, and etc. Experience developing in agile & with CI tools like GitHub Relational database understanding with the ability to query MySQL database to verify the test results Exposure/working knowledge with Restful automation tools - JMeter/SoapUI/Other Knowledge and understanding of at least one OOP language, scripting language a plus Ability to work independently and with a team in a fast-paced and dynamic company environment under tight deadlines Excellent analytical and organizational skills with the ability to multitask on multiple projects at one time Strong individual initiative and ownership of projects and quality testing tasks Plus: Jest or Jasmin Chai (for assertions) Typescript or JavaScript Visual Studio Code editor Job Key Words : SDET, Software Engineer in Test, QA, Javascript Frequently Asked Questions: Benefits? Yes, provided the client Remote Workers? Allows for 2-3 days per week remote Visa Sponsorship? Not offered Corp-to-Corp? Not eligible How to Apply: For immediate attention please apply online.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-14T20:21:42.000Z"
+    },
+    "company": {
+        "name": "ettain group",
+        "link": "https://www.linkedin.com/company/ettain-group"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Experienced Level"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Alpharetta",
+        "region": "GA",
+        "postal_code": "30022",
+        "street_address": null,
+        "latitude": 34.075615,
+        "longitude": -84.29455
+    }
+}

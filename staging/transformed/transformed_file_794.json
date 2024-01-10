@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "EarlyBird Overview EarlyBird is the simplest way for parents, family, and friends to collectively invest in a child\u2019s financial future starting at the earliest age. Our focus is transforming financial gifting, making it personal, purposeful, and timeless, empowering future generations with financial freedom and the ability to change the world. Industry Financial Technology Robo-Advising Job Description 2 - 5 years industry experience Requirements & Technologies As a Software Developer at EarlyBird, you will have worked on projects that involve authentication, database design, and API integrations. Ideal candidates are comfortable touching various parts of a distributed system, as well as having intuition and opinions on how to improve and simplify a growing application. Build and promote high-quality, scalable, full-stack solutions in React Native Experience with iOS and Android React Native applications Delight a diverse, global audience with elegant, intuitive experiences 1-5 years of industry NodeJS experience in full time or internship roles GraphQL and REST API's development experience Experience with SQL databases Some quantitative skills, knowledge or experience in finance is a plus You are a self-starter, self-motivated, and able to work independently Salary, Compensation, and Benefits Competitive compensation that includes equity Flexible time off policy to balance your work and life Competitive medical, dental, and vision coverage for you and your dependents Collaborative, transparent, and fun loving office culture An impactful organization with a purpose Ability to work from home and have flexible working hours. Please apply if you're excited about building a better financial future for the next generation and pushing our platform further. We look forward to seeing the unique perspective you will bring to our team! EarlyBird is an equal opportunity employer and values diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-18T14:03:58.000Z"
+    },
+    "company": {
+        "name": "EarlyBird",
+        "link": "https://www.linkedin.com/company/getearlybird"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Intermediate Level"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York City Metropolitan Area",
+        "region": null,
+        "postal_code": "10021",
+        "street_address": null,
+        "latitude": 40.748295,
+        "longitude": -73.98556
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer II",
+        "industry": "Electrical/Electronic Manufacturing,Logistics and Supply Chain,Machinery",
+        "description": "In this role, you should have excellent problem-solving skills and thorough knowledge of Android Device Architecture. Communication and documentation are key to this role as you will be working directly with the architecture and management teams. Understanding of Android Device Architecture. Focused on Kernel, HAL, Debug Read requirements predominantly related to Hardware peripherals, Integrate, provide HAL interface to Application We expect at least 50-60% of tasks will be related to coding Previous knowledge on any device development is a plus Preferred Education Bachelor's Degree required or equivalent experience Minimum of 5+ years of experience Key Skills And Competencies Device Driver and Hardware Abstraction Layer development Knowledge of Linux Kernel, Bootloaders Hands on Experience in development using any one of the languages C,C++, JAVA Excellent communication skills Experience with Android Development Demonstrated technical experience Demonstrated experience working independently and collaboratively on projects Demonstrated experience trouble shooting Broad knowledge of applicable IT systems/applications Experience developing new systems and tools Experience in documenting and maintaining up to date systems procedures Advanced analytical skills",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-17T23:18:35.000Z"
+    },
+    "company": {
+        "name": "Zebra Technologies",
+        "link": "https://www.linkedin.com/company/zebra-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior Level"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Miramar",
+        "region": "FL",
+        "postal_code": "33004",
+        "street_address": null,
+        "latitude": 25.97377,
+        "longitude": -80.323616
+    }
+}

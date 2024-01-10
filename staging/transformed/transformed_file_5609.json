@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Medical Devices",
+        "description": "Job Summary: We are looking for a Data Scientist responsible for maintaining fast growing datasets, developing custom data models, and extracting actionable insights to make Cercacor products more delightful and intuitive for customers.\u00a0This position works in close collaboration with cross functional teams to influence product innovation. Duties & Responsibilities: \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Build and expand machine learning models using NLP, classification, Neural Networks, etc. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Work with Engineers to integrate data from multiple sources and develop predictive algorithms. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Extract actionable insights from complex data sets and report insights via internal dashboards and visualization to Product teams for roadmap and feature decisions. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Review latest research papers and trends in the field of Artificial Intelligence and update team with new technologies. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Communicate findings and new trends with company leadership. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Conduct exploratory analysis and develop statistical models to answer key product usage and engagement questions. Help Product and Marketing teams use experimentation and cohorting to test assumptions and launch new marketing campaigns, features and product releases. Partner with Product teams to define and benchmark metrics for new features launches and initiatives and help create a culture of measurement. Minimum Qualifications and Experience: \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Master\u2019s degree or higher in computer science, statistics, electrical engineering or other related fields. Proficiency in using Matlab, and Python. Proficiency in using data science toolkits such as Keras, Tensorflow, PyTorch, etc. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Practical experience in time series analysis and sequential modeling. Prior experience developing machine learning approaches for modeling and predicting user behaviors. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Prior experience building NLP pipelines for chatbots in a limited training data environment. Prior experience building REST APIs and interfacing applications with other 3rd party APIs. Ability to work independently and with moderate supervision. Exceptional organizational skills and problem-solving ability. Good communication skills, both verbal and written. Desired Qualifications: \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Experience developing advanced prediction models with large dataset.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T15:39:49.000Z"
+    },
+    "company": {
+        "name": "Cercacor Laboratories, Inc.",
+        "link": "https://www.linkedin.com/company/cercacor-laboratories-inc-"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Irvine",
+        "region": "CA",
+        "postal_code": "92717",
+        "street_address": null,
+        "latitude": 33.68591,
+        "longitude": -117.82472
+    }
+}

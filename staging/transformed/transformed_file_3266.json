@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Defense &amp; Space,Aviation &amp; Aerospace,Military",
+        "description": "Overview Why is MTSI known as a Great Place to Work? Interesting Work: Our co-workers support some of the most important and critical programs to our national defense and security. Values: Our first core value is that employees come first. We challenge our co-workers to provide the highest level of support and service, and reward them with some of the best benefits in the industry. 100% Employee Ownership: we have a stake in each other's success, and the success of our customers. It's also nice to know what's going on across the company; we have company wide town-hall meetings three times a year. Great Benefits: 20 days PTO/year + 10 holidays/year Flexible schedules 6% 401k match with immediate vesting Semi-annual bonus eligibility (July and December) Company funded Employee Stock Ownership Plan (ESOP) - a separate qualified retirement account Up to $10,000 in annual tuition reimbursement Optional zero deductible Blue Cross/Blue Shield health insurance plan Track Record of Success: We have grown every year since our founding in 1993 For additional company information, please visit: www.mtsi-va.com Modern Technology Solutions, Inc. from MTSI on Vimeo. Responsibilities Maintain Development LAN services including Confluence, Jira, GitLab, and Artifactory Manage user accounts across Linux-based DevLAN Maintain, update, and secure services running on DevLAN Create scripts to assist with system/network administration Ensure periodic backups are being performed correctly Enforce network security practices Perform periodic updates to Linux distro Maintain network and switch security Manage lab resources across multiple different projects and changing priorities Work with developers to ensure clear tasking to achieve project goals Ensure approved RMF procedures are being complied with This position will require overnight travel up to 10 percent of the time. Trip durations may range from overnight to several weeks. Qualifications Associates degree 5+ years' experience in Linux system and network administration Strong planning and organizational skills Scripting using Bash, Python, etc. Ability to manage GitLab, Confluence, Jira, and Artifactory Experience with Git repositories and GitLab Experience with Docker, Docker compose, and Docker registries Strong background in networking to include configuration of switch/router port security and VLANs Demonstrated ability to understand enterprise level systems Demonstrated ability to shift from one project to another in an dynamic work environment Top Secret / SCI. Clearance must be at least 1 year away from next 5 year update. Desired Experience Bachelor\u2019s degree 10+ years\u2019 experience in Linux system and network administration Strong problem-solving skills Competence in software system design Familiarity with SQL and database design Familiarity with Nginx and proxies Familiarity with infrastructure-as-code (IaC) tools (e.g. Ansible) Management of Virtual Machines, VM Ware, and Virtual Box Familiarity with RMF compliance processes and implementation Strong motivation to expand knowledge and skills Ability to approach classical problems with new ideas and innovation",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T06:03:19.000Z"
+    },
+    "company": {
+        "name": "Modern Technology Solutions, Inc. (MTSI)",
+        "link": "https://www.linkedin.com/company/mtsi"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 120,
+        "seniority_level": "Senior Level"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Colorado Springs",
+        "region": "CO",
+        "postal_code": "80908",
+        "street_address": null,
+        "latitude": 38.835224,
+        "longitude": -104.8198
+    }
+}

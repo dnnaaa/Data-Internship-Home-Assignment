@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code. If working to bring technology to different industries sounds exciting, then we\u2019d like to connect with you! We are looking for\u00a0experienced engineers with a startup mindset. Our Current Tech Technical stack:\u00a0Python\u00a0/\u00a0Django\u00a0(Backend),\u00a0React/JS\u00a0(Frontend),\u00a0AWS\u00a0services (Lambda, RDS, S3),\u00a0PostgreSQL\u00a0(Database),\u00a0CircleCI\u00a0and other continuous integration tools Technical team: 4 (objective: x2 in one year) gency's Mission We think that not enough engineers get to explore early stage startups that are building amazing companies. As engineers we will work with you to understand your technical skillset and will help in finding a role that fits your skills and aspirations. Responsibilities Develop quality software and web applications Analyze and maintain existing software applications Design highly scalable, testable code Discover and fix programming bugs Qualifications Bachelor's degree or equivalent experience in Computer Science or related field Development experience with programming languages",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-11T21:19:29.000Z"
+    },
+    "company": {
+        "name": "gency",
+        "link": "https://www.linkedin.com/company/gencyfyi"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Los Angeles Metropolitan Area",
+        "region": null,
+        "postal_code": "90021",
+        "street_address": null,
+        "latitude": 34.073666,
+        "longitude": -118.23985
+    }
+}

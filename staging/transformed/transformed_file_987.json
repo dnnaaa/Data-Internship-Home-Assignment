@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Principal Software Engineer (Ecommerce)",
+        "industry": "Internet",
+        "description": "This direct hire role will be focused on ecommerce retail applications utilizing technologies including React JS, Elixir and Kafka, among others. Successful candidate will need to have experience architecting and building out a related ecommerce application environment. This person can be based anywhere in the United States but work schedule is Pacific time zone. The client's HQ location is in the Bay area in California. As a Principal Software Engineer , you\u2019ll spend about 40% of your time on application architecture, mentoring, thought leadership, and guiding teams around the company as they establish or update best practices for software development. You\u2019ll participate in guild (community of practice) meetings, architecture review sessions, organize training for engineers, and otherwise help ensure that we maintain a cohesive and modern technology vision while still empowering teams to move fast. You\u2019ll partner with senior technical leadership to establish north stars of our technology vision. You\u2019ll represent the company at conferences and other speaking engagements from time to time. The other 60% of your time, you\u2019ll dive in and actively develop that future! You\u2019ll typically start the work on some of our most challenging projects, laying out the foundational architecture and actively contributing code. In most cases, you\u2019ll bring in other engineers from around the company as these initiatives grow, eventually handing it off to Staff Engineers as you go on to tackle the next challenge. Some upcoming projects you\u2019ll be involved in: Upgrades to our inventory & catalog system as we transition from a single-SKU model to allow for depth and variants Assisting with the strategy as we continue to break apart our existing ruby on rails monolith into services Preparation and design for future international expansion Improvements to our payout processes What You Get To Do Every Day Propose and build technical architecture and solutions to move our business forward Advise and collaborate with senior engineering leadership on technical vision and strategy across a multi-year timeframe Build a deep understanding of The RealReal\u2019s business model, opportunities, and challenges Provide technical direction and mentorship for engineers across the organization Drive build vs buy evaluations, including research and initial assessment with vendors Assist in coordinating cross-team engineering efforts and determining technical requirements Review technical architecture proposals and pull requests and provide constructive feedback Produce high-quality, performant, testable code, and systems Document architecture and processes, and uplevel them across the company Represent the company at conferences and other events, helping us to build brand awareness and attract talent What You Bring To The Role 10+ years of professional web application/full-stack development experience 2+ years leading a high-performance engineering team or organization, in a fast-paced environment Fluency with any of React JS, Elixir, Erlang, or another object-oriented or functional programming language Strong understanding of distributed systems and architecture Strong understanding of web technologies: HTML5, Javascript, CSS/SASS, REST, JSON Strong understanding of web-app performance fundamentals and related dev tools Strong database fundamentals and experience with MySql or PostgreSQL; AWS Dynamo DB a plus Experience using async message queues such as Kafka or Kinesis Mastery of Git and Github workflows Experience with Microservices architecture Bachelor of Computer Science degree or equivalent experience Experience building E-commerce, Operations, and Logistics applications Nice to Haves Experience with Headless E-commerce APIs Experience working with machine learning or related technologies Experience with iOS/Android and mobile development Experience with GraphQL Experience with Docker and Kubernetes Job Type: Full-time Pay: $175,000.00 - $200,000.00 base per year, plus bonus, plus equity",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T01:54:36.000Z"
+    },
+    "company": {
+        "name": "TriSearch",
+        "link": "https://www.linkedin.com/company/tri-search"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 120,
+        "seniority_level": "Senior Level"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

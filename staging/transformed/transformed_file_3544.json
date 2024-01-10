@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Computer Software",
+        "description": "Position:\u00a0Site Reliability Engineer Location: Remote till Covid, Weehawken, NJ Type of job: Contract JOB Description location: the initially remote post that Weehawken US once situation normalize. Primary skills for a new\u00a0SRE: Linux administration Bash shell scripting Experience with Azure or another cloud provider Docker and Kubernetes Experience with Application performance monitoring tools. Experience with any languages for querying log data \u2013 search processing language (Splunk), Kusto (Azure), Kibana query language (Elasticsearch) SQL Understanding of\u00a0SRE\u00a0concepts. Git Additional skills: Python Infrastructure as code (Terraform, Puppet, Chef or Ansible) DevOps build automation and CI/CD (Gerrit, Maven, Jenkins, Nexus, Artifactory, Selenium) Thanks Ashwini 4085569096 ashwini@tsourceinc.net",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-16T17:16:49.000Z"
+    },
+    "company": {
+        "name": "TechSource Inc.",
+        "link": "https://www.linkedin.com/company/tsourceinc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Weehawken",
+        "region": "NJ",
+        "postal_code": "07086",
+        "street_address": null,
+        "latitude": 40.770782,
+        "longitude": -74.01762
+    }
+}

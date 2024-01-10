@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "Title: Site Reliability Engineer Location: 100% remote Duration: 12 months+ Responsibilities Reduce Lead Time: The time from code written to entering production Increase Deployment Frequency: How often deploys happen Shorten Mean-Time-To-Recover (MTTR): How quickly can teams restore service after outages Lessen Change Fail Rate: What percentage of deploys result in service impairment or an outage Measure and optimize system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs, and innovating to continually improve Provide primary operational support and engineering for multiple large, distributed software applications Engage in and improve the whole lifecycle of services\u2014from inception and design, deployment, operation, and refinement. Support services before they go live through activities such as system design consulting, developing software platforms and frameworks, capacity planning, and launch reviews. Maintain services once they are live by measuring and monitoring availability, latency, and overall system health. Scale systems sustainably through mechanisms like automation; evolve systems by pushing for changes that improve reliability and velocity. Practice sustainable incident response and blameless postmortems. General Strong communication skills with ability to communicate complex technical concepts and align organization on decisions Systematic problem-solving approach coupled with effective communication skills and a sense of drive. Open to learning new ideas outside scope or knowledge Required skills: A proactive approach to spotting problems, areas for improvement, and performance bottlenecks Passion for problem-solving, continuous improvement and optimization Experience implementing, configuring and tuning Dynatrace Experience programming in at least one of the following languages: C#, Java, Python, or Go. Ability to debug, optimize code, and automate routine tasks. Experience with Azure related resources such as VNets, Resource Groups, Functions, App Service, Azure VM, NSGs (Network Security Groups), Express Route & RBAC (Role Based Access Control). Experience with software deployment and orchestration technologies such as Helm, Docker, Kubernetes, Kubernetes Operators, Service Mesh (Istio) Understanding of testing principles in the context of IaC",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T18:24:04.000Z"
+    },
+    "company": {
+        "name": "Intellyk Inc.",
+        "link": "https://www.linkedin.com/company/intellyk"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Piscataway",
+        "region": "NJ",
+        "postal_code": "07001",
+        "street_address": null,
+        "latitude": 40.543877,
+        "longitude": -74.47411
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Marketing and Advertising",
+        "description": "Responsibilities: Understands that testing and coding go hand in hand Solves problems with SOLID reusable components built on well known patterns Has the ability to produce clean, DRY code on aggressive timelines Can mentor other team members and show them the path to clean, DRY code Believes that good code metrics are not just interesting goals but requirements Possesses strong Git-fu Requirements : Computer Science degree or related Has experience with Java, Spring Framework and Javascript Has experience with MySQL, Postgres, or equivalent RDBMS Experience with Map/Reduce programming and Hadoop is preferred Experience working in Amazon Web Services is preferred Experience with containerization is preferred",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-14T17:16:18.000Z"
+    },
+    "company": {
+        "name": "Cypress HCM",
+        "link": "https://www.linkedin.com/company/cypress-hcm"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "Lisle",
+        "region": "IL",
+        "postal_code": "60532",
+        "street_address": null,
+        "latitude": 41.80125,
+        "longitude": -88.07478
+    }
+}

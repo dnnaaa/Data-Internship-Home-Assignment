@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Required Technical Skills: Strong SRE experience along with automated build tools, continuous integration and continuous deployment concepts. Experienced in Agile development lifecycle Hands-on experience with the following: Programming languages: Python, Shell Database platforms: DB2/MSSQL SCM tools: GIT Continuous integration Tools: Jenkins Web servers: Tomcat/Apache Operating systems: Unix Good knowledge of: Programming languages: Perl, batch Database platforms: PostgreSQL Cloud-based environments such as: AWS and Azure Container platform: Docker Operating systems: Windows Desired Technical Skills: Monitoring tools like AppDynamics, Splunk and Prometheus Build automation tools: Ant, Gradle, Maven Required Aptitudes Ability to add value by bringing new ideas to the team and taking the initiative in improving the existing processes. Ability to take new requirements from the application teams to bring back to the core team build additional tools and automation. Passion for innovating and using technology to find creative solutions to optimize systems. Eager to learn and be in sync with what is happening in technology, DevOps/SRE, both in and outside the firm. Educational qualification and experience: Bachelor's degree in engineering/computer science or MCA from recognized institution Minimum 5 years of relevant experience. Language requirements: Must be able to work in an English-speaking environment Powered by JazzHR CTC0hhUZUw",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-09-01T19:03:02.000Z"
+    },
+    "company": {
+        "name": "Zealogics Inc",
+        "link": "https://www.linkedin.com/company/zealogics-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior Level"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

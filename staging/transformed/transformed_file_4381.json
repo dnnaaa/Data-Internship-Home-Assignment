@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Internet",
+        "description": "Summary As a Data Scientist at Fast, you will partner closely with product managers, engineering, design, marketing, sales, or other operational leaders to define core metrics/KPIs, generate actionable data insights from large datasets, build automated dashboards using data pipelines, and run experiments to measure impact of new initiatives. Role Run complex data queries, analyze large datasets and run statistical analyses to continuously drive deeper understanding of our customers and product performance Create dashboards and reports with effective data visualizations Be a thought partner to business leaders in determining quantitative success and process improvement Build data pipelines and create scripts to automate processes and reports Build models to improve our understanding of user behavior and predict future performance Requirements 3+ years of experience in quantitative analysis roles Fluent in SQL and a scripting language (R, Python) Knowledge of experimentation and statistical methods BS in quantitative field or equivalent experience Skilled with Looker, Jupyter Notebook and other data visualization tools Nice to Have 5+ years of experience in quantitative analysis roles Advanced degree in quantitative field or equivalent experience Knowledge of building data pipelines (e.g. dbt, airflow) Experience in e-commerce industry Previous mature startup experience",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-19T23:57:50.000Z"
+    },
+    "company": {
+        "name": "Fast",
+        "link": "https://www.linkedin.com/company/fast"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior Level"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": null
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}
