@@ -3,7 +3,11 @@ from datetime import timedelta, datetime
 from airflow.decorators import dag, task
 from airflow.providers.sqlite.hooks.sqlite import SqliteHook
 from airflow.providers.sqlite.operators.sqlite import SqliteOperator
+from extracted import extractDATA
+from transform import transformDATA
+from load import loadDATA
 
+# Requête de création de tables
 TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     title VARCHAR(225),
@@ -59,20 +63,24 @@ CREATE TABLE IF NOT EXISTS location (
     FOREIGN KEY (job_id) REFERENCES job(id)
 )
 """
-
+# Tâches d'extraction, transformation et chargement
 @task()
 def extract():
     """Extract data from jobs.csv."""
+    extractDATA()
 
 @task()
 def transform():
     """Clean and convert extracted elements to json."""
+    transformDATA()
 
 @task()
 def load():
     """Load data to sqlite database."""
     sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
+    loadDATA(TABLES_CREATION_QUERY)
 
+# Définition du DAG
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
     "retries": 3,
