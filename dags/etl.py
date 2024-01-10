@@ -1,77 +1,42 @@
 from datetime import timedelta, datetime
 
+from airflow.exceptions import AirflowNotFoundException
 from airflow.decorators import dag, task
-from airflow.providers.sqlite.hooks.sqlite import SqliteHook
-from airflow.providers.sqlite.operators.sqlite import SqliteOperator
 
-TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    title VARCHAR(225),
-    industry VARCHAR(225),
-    description TEXT,
-    employment_type VARCHAR(125),
-    date_posted DATE
-);
+from utils.DATAProcessing import extract_csv, load_to_db, transform_extracted_data
+from utils.DBManager import DatabaseManager
+from utils.DBQueries import TABLES_CREATION_QUERY
 
-CREATE TABLE IF NOT EXISTS company (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    name VARCHAR(225),
-    link TEXT,
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS education (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    required_credential VARCHAR(225),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS experience (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    months_of_experience INTEGER,
-    seniority_level VARCHAR(25),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS salary (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    currency VARCHAR(3),
-    min_value NUMERIC,
-    max_value NUMERIC,
-    unit VARCHAR(12),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS location (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    country VARCHAR(60),
-    locality VARCHAR(60),
-    region VARCHAR(60),
-    postal_code VARCHAR(25),
-    street_address VARCHAR(225),
-    latitude NUMERIC,
-    longitude NUMERIC,
-    FOREIGN KEY (job_id) REFERENCES job(id)
-)
-"""
 
 @task()
 def extract():
-    """Extract data from jobs.csv."""
+    """ This function is responsible for extracting data from the source.
+    It reads data from 'jobs.csv' and saves the 'context' column data
+    to 'staging/extracted' as a text file."""
+
+    try:
+        extract_csv("./source/jobs.csv")
+    except Exception as e:
+        raise AirflowNotFoundException(f"Error while extracting data: {e}")
+
 
 @task()
 def transform():
-    """Clean and convert extracted elements to json."""
+    """This function is responsible for transforming the extracted data.
+    It reads the extracted text files from 'staging/extracted' as JSON,
+    cleans the job description, transforms the schema, and saves each item
+    to 'staging/transformed' as a JSON file."""
+
+    transform_extracted_data()
+
 
 @task()
 def load():
-    """Load data to sqlite database."""
-    sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
+    """This function is responsible for loading the transformed data into the database.
+    It reads the transformed data from 'staging/transformed' and saves it to the SQLite database."""
+    load_to_db()
+
+
 
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
@@ -89,13 +54,18 @@ DAG_DEFAULT_ARGS = {
     default_args=DAG_DEFAULT_ARGS
 )
 def etl_dag():
-    """ETL pipeline"""
+    """    This function defines the ETL pipeline DAG.
 
-    create_tables = SqliteOperator(
-        task_id="create_tables",
-        sqlite_conn_id="sqlite_default",
-        sql=TABLES_CREATION_QUERY
-    )
+    The DAG consists of three tasks: extract, transform, and load.
+    The extract task reads data from 'jobs.csv' and saves the 'context' column data
+    to 'staging/extracted' as a text file.
+    The transform task reads the extracted text files from 'staging/extracted' as JSON,
+    cleans the job description, transforms the schema, and saves each item
+    to 'staging/transformed' as a JSON file.
+    The load task reads the transformed data from 'staging/transformed' and saves it to the SQLite database."""
+
+    database_manager = DatabaseManager(TABLES_CREATION_QUERY)
+    create_tables = database_manager.create_tables()
 
     create_tables >> extract() >> transform() >> load()
 
