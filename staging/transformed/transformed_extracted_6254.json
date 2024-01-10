@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-27T05:38:00.000Z\", \"description\": \"<strong><u>Job Summary<br><br></u></strong>Responsible for supporting the VMware initiatives, automation, operational support of infrastructure components and supporting technologies.<br><br>Reviews market trends and collaborate with vendors and other technology teams to develop infrastructure solutions.<br><br>Provide VMware infrastructure design and support, with a specific focus on VMware Infrastructure as a Service.<br><br>Position provides high level competency in the form of standards, design and solution architecture for VMware\\u2010based services.<br><br><strong><u>Qualifications<br><br></u></strong>5+ years relevant experience providing infrastructure solutions and support, with a focus on VMware based cloud technologies such as VMware ESXi, VMware Site Recovery Manager, vRealize Automation, VMware NSX, vSphere vCenter and vROPs.<br><br>Experience with adjacent technologies such as virtualization, networking, automation.<br><br>Experience with major enterprise hardware platforms, i.e. Nutanix<br><br><strong><u>Experience With AWS Or Other Cloud Technology a Plus<br><br></u></strong>Comfortable adapting to dynamic, rapid and shifting environments<br><br>Experience creating innovative and unique solutions for automation using scripting languages and simplifying administration for others<br><br>Demonstrated ability to teach new skills and concepts to junior members of the team<br><br>Strong communication skills and self\\u2010starter attitude with a strong ability to exercise independent judgment and critical thinking with minimal supervision<br><br>Strong understanding of Enterprise Best Practices<br><br>Analytical and research skills and problem solving<br><br>Education<br><br>Bachelor\\u2019s degree preferred<br><br>If interested please forward your resume to kevin@libertyjobs.com<br><br>#associate<br><br>#mid<br><br>#IT<br><br>#vmware<br><br>Code: libertynull<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Liberty Personnel Services, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/liberty-personnel-services-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHWiMsOZMSj5A/company-logo_200_200/0/1519856915447?e=1638403200&v=beta&t=-rRTVTfrODiClHddeT_ipQkP45v7W3Qw4w2935J4blA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Liberty Personnel Services, Inc.\", \"value\": \"62133\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHWiMsOZMSj5A/company-logo_100_100/0/1519856915447?e=1638403200&v=beta&t=GMHsRfUy-DIrB1kCT_wkNGC0DRT7rXtOESoIB5bj13c\", \"industry\": \"Computer Software,Information Technology and Services,Computer Networking\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Wilmington\", \"addressRegion\": \"DE\", \"postalCode\": \"19806\", \"streetAddress\": null}, \"latitude\": 39.74443, \"longitude\": -75.5451}, \"skills\": \"\", \"title\": \"VMWare Systems Engineer\", \"validThrough\": \"2021-09-26T05:37:59.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

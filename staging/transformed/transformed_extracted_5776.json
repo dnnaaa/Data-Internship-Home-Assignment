@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:27:44.000Z\", \"description\": \"<p><strong>Supervising Registered Nurse II</strong></p><p><strong>$124,332 - $155,640</strong> annual salary</p><p><br></p><p>Do you want a stable job that comes with all of the benefits of State employment? California Correctional Health Care Services (CCHCS) is seeking experienced and skilled CA-licensed Nurse Managers who are ready to be part of a multidisciplinary team dedicated to providing quality primary medical care.&nbsp;</p><p><br></p><p>In this key role you will:</p><ul><li>Plan and evaluate the objectives and effectiveness of statewide programs/initiatives, including the Whole Person Care Program, Substance Use Disorder Treatment, and Hepatitis C and HIV Treatment</li><li>Plan, assign, supervise, and evaluate the work of program nursing staff, social services, and administrative support staff</li><li>Complete audits, ensuring proper documentation of patient care activities and participate in ongoing quality management/improvement efforts</li></ul><p><br></p><p>To thrive in this role, you must possess three years of registered nursing experience within the last five years, one year of which must have been in a supervisory capacity, and two years of which must have been in a general acute care hospital. (Possession of a Bachelor of Science Degree in Nursing or a Master's Degree in Nursing may be substituted for one year of general acute care hospital experience.)</p><p><br></p><p>In return for your efforts, CCHCS offers a comprehensive benefits package, including:</p><ul><li>Bonus for those new to State Service</li><li>Generous paid time off and holiday schedule</li><li>State of California retirement that vests in 5 years (visit www.CalPERS.ca.gov for retirement formulas)</li><li>Robust 401(k) and 457 savings plans (tax defer up to $39,000 - $52,000 per year)</li><li>A variety of medical, dental, and vision insurance options</li><li>And much more</li></ul><p><br></p><p>We currently have opportunities at Chuckawalla Valley State Prison (CVSP), located in Blythe.</p><p><br></p><p>Take the first step toward joining this team and apply online!</p><p><br></p><p>EOE.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"California Correctional Health Care Services\", \"sameAs\": \"https://www.linkedin.com/company/california-correctional-health-care-services\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQEK9X6zDJxgiw/company-logo_200_200/0/1549383052067?e=1637798400&v=beta&t=GZNUBwgYG3YbjGvwwmz52dLN7hb4dVToEXX6wzLhusM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"California Correctional Health Care Services\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQEK9X6zDJxgiw/company-logo_100_100/0/1549383052067?e=1637798400&v=beta&t=k1n0pfc2ZBRRU78TXMuiw9Ek9AvNnrL9DpGpTA9MmPQ\", \"industry\": \"Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Blythe\", \"addressRegion\": \"CA\", \"postalCode\": \"92226\", \"streetAddress\": null}, \"latitude\": 33.612213, \"longitude\": -114.596924}, \"skills\": \"\", \"title\": \"Supervising Registered Nurse II (CVSP)\", \"validThrough\": \"2021-09-24T17:27:43.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"associate degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 79500, \"maxValue\": 101000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

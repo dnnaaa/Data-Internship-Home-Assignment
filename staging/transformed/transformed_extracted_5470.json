@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-27T20:00:07.000Z\", \"description\": \"<strong>Role <br><br></strong>Tesla is currently looking for a seasoned Site Reliability Engineer (SRE) to join the Platform Storage team to build the Tesla's next gen object storage platform that will be the foundation of all the critical data and services we build.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Own the object storage platform</li><li>A strong ability to identify performance and scaling bottlenecks at design time is a must have.</li><li>Influence architectural decisions with focus on security, scalability and high-performance.</li><li>Setup and maintain monitoring, metrics &amp; reporting systems for fine-grained observability and actionable alerting.</li><li>Work with various internal teams to develop technology and capacity roadmaps.<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Strong understanding and demonstrated expertise of running object storage solutions at scale.</li><li>BS or MS degree in Computer Science or Engineering, or equivalent experience.</li><li>5+ years of managing services in a distributed, internet-scale *nix environment.</li><li>Experience designing solutions for high throughput / low latency storage environments.</li><li>Understanding of loadbalancing and traffic routing.</li><li>Ability to prioritize tasks and work independently.</li><li>Advanced or expert-level Linux administration.</li><li>Advanced experience with configuration management systems such as Ansible, Puppet or Terraform.</li><li>Demonstrable knowledge of TCP/IP, Linux operating system internals, filesystems, disk/storage technologies and storage protocols.</li><li>Experience with AWS, or other cloud infrastructure providers.</li><li>Fundamental understanding of how kubnernetes works.</li><li>Proficiency in a high-level language like Python, Go, Ruby and/or Java</li><li>Excellent communication skills to collaborate with teams globally </li><li>Ability to manage competing priorities, and work well under pressure</li><li>Knowledge of big data platforms such as Hadoop a plus.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Tesla\", \"sameAs\": \"https://www.linkedin.com/company/tesla-motors\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUcu98SZ2TVw/company-logo_200_200/0/1607665771371?e=1637798400&v=beta&t=m97g-hKHATagqzm71K1CkNjvfMRp7UcT_rIzSSRz-l4\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Tesla\", \"value\": \"76585\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUcu98SZ2TVw/company-logo_100_100/0/1607665771371?e=1637798400&v=beta&t=qVpNmOiI1wUovtynsWfAZJWAvypdU5NslQA8mnI1vKs\", \"industry\": \"Automotive,Renewables & Environment,Utilities\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Fremont\", \"addressRegion\": \"CA\", \"postalCode\": \"94537\", \"streetAddress\": null}, \"latitude\": 37.5502, \"longitude\": -121.98083}, \"skills\": \"\", \"title\": \"Staff Site Reliability Engineer, Storage\", \"validThrough\": \"2021-09-20T20:00:07.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 74200, \"maxValue\": 106000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

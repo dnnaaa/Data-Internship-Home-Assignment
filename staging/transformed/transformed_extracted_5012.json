@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T22:42:26.000Z\", \"description\": \"<strong><u>Requirements<br></u></strong><ul><li>Under general supervision, designs, develops and tests electrical and/or electronics hardware and/or firmware for downhole tools and surface systems. This may include analog and digital circuitry, power transmission and distribution, signal and communication systems, mechatronic systems. </li><li>Diagnoses instruments and electrical and/or electronic systems problems. Services, troubleshoots, repairs and/or replaces and maintains instrument and electrical and/or electronics component levels in surface and downhole equipment. </li><li>May perform analytical troubleshooting, repair and maintenance of electrical and/or electronic systems. </li><li>May be required to develop, test and debug firmware for Microprocessor/ Microcontroller/ DSP system and software for test system automation. </li><li>Evaluates, selects and applies standard engineering techniques, procedures and criteria, using judgement in making minor adaptations and modifications. </li><li>May develop specifications, conduct process study, research investigations, and report preparation. </li><li>Provide technical guidance to designers/drafters and less experience engineers as required. May provide technical leadership in developing solutions and/or devising new approaches to problems encountered </li><li>Incorporates reliability analysis during the design and test process. </li><li>Complies with HSE and Service Quality requirements. </li><li>Job tasks, correctly performed, impact indirectly on cost containment, efficiency, profitability, or operations. </li><li>Skills typically acquired through the completion of an undergraduate degree in Electrical Engineering, Electronics Engineering or similar discipline, and 4 years of related experience </li><li>Design knowledge / Product development is very important </li><li>New Product Development environment with knowledge of testing procedure </li><li>Hardware Testing experience is most important </li><li>Validate smaller circuitry </li><li>Knowledge of following tools is good to have </li><li>PCB- Altium ( should understand `` </li><li>Software Test Automation- Labview </li><li>Firmware knowledge <br></li></ul><strong>You can apply via: http://jobd.info/?id=DSrCKf<br><br></strong><strong><u>Recruiter Details<br><br></u></strong><strong>Praveen Rao<br><br></strong>(302) 214-0551<br><br>praveen_us@falconsmartit.com<br><br>Find all current job openings at our Career Page<br><br>https://www.falconsmartit.com/FalconCareer.html<br><br>Follow us on LinkedIn for Job Opportunities<br><br>https://www.linkedin.com/company/falconsmartit/\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Falcon Smart IT (FalconSmartIT)\", \"sameAs\": \"https://uk.linkedin.com/company/falconsmartit\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFs181Tff7n_A/company-logo_200_200/0/1612359040205?e=1637798400&v=beta&t=kocIEPykI528zZaM1zwv9y0MjlhNhfCDcwRkJ7x-45s\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Falcon Smart IT (FalconSmartIT)\", \"value\": \" 111383\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFs181Tff7n_A/company-logo_100_100/0/1612359040205?e=1637798400&v=beta&t=A3VdlWEaIkpoq4Yl9fuSpciXPULZYDHl9hCmtP8xRFg\", \"industry\": \"Information Technology and Services,Computer Software,Computer Networking\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dover\", \"addressRegion\": \"DE\", \"postalCode\": \"19901\", \"streetAddress\": null}, \"latitude\": 39.15883, \"longitude\": -75.52114}, \"skills\": \"\", \"title\": \"Electrical Test Engineer\", \"validThrough\": \"2021-09-19T22:42:26.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-06-23T18:01:52.000Z\", \"description\": \"<strong><u>Why APCON<br><br></u></strong>At APCON, we bring enthusiasm, passion, and dedication every day to building products that provide visibility into network data. Organizations ranging from midsize companies to Fortune 100 enterprises rely on APCON to achieve total visibility of their physical, private, and cloud environments. With APCON\\u2019s stable, scalable technology, IT professionals know they can monitor, secure, and protect their networks.<br><br><strong><u>Purpose Of Job<br><br></u></strong>The Software Test Engineer will be responsible for the testing and validation of APCON\\u2019s industry leading suite of network monitoring solutions.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Responsible for software testing and validation of APCON\\u2019s industry leading suite of network monitoring solutions</li><li>Writes novel and creative test cases using best industry practices</li><li>Manually executes non-automated test cases</li><li>Assists development on bug fixes, bug isolation, and resolution</li><li>Delivers timely verification of fixes in response to generation of bugs</li><li>Advocates, develops, and deploys new testing/automation tools and concepts<br><br></li></ul><strong><u>Qualifications And Requirements<br></u></strong><ul><li>2+ years in a software/hardware test engineering role</li><li>Testing experience with IP networking, routing or switching technologies</li><li>Hands-on engineering lab experience testing hardware or software</li><li>Experience in formal software testing methodologies, including software development cycles, testing processes and standards</li><li>Familiar with defect and test case tracking tools</li><li>Testing experience with embedded Linux systems</li><li>Experience developing Python automated scripts (preferred)</li><li>Familiarity with Selenium automation framework (preferred)</li><li>Possess a willingness and ability to adapt to new processes, ideas, and concepts<br><br></li></ul><strong><u>Core Competencies<br></u></strong><ul><li>Strong interpersonal skills; ability to communicate professionally across the organization</li><li>Excellent organizational, planning, presentation, troubleshooting, and multi-tasking skills</li><li>Ability to maintain a high level of confidentiality and professionalism</li><li>Strong attention to detail and exceptional customer support</li><li>Proficient in Microsoft Office Suite</li><li>Must be able to work independently and as a team member</li><li>Ability to prioritize and be flexible in a fast-paced environment<br><br></li></ul><strong><u>Education<br></u></strong><ul><li>Bachelor\\u2019s Degree preferred and/or equivalent in training and experience<br><br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Sign-On Bonus (Terms and Conditions Apply)</li><li>Medical, dental and vision insurance</li><li>Company-paid short and long term disability </li><li>Flexible spending accounts</li><li>Healthy work-life balance and generous paid time off program</li><li>Retirement savings match</li><li>Professional development program</li><li>Volunteer time off and employee assistance plan</li><li>Collaborative and innovative work environment</li><li>On-site exercise facility<br><br></li></ul><strong><u>Physical Requirements<br></u></strong><ul><li>To perform the duties of this position, you must have the ability to occasionally sit, stand, bend, twist, reach, carry, lift, pull, and push between 1-15 lbs.<br></li></ul><em>APCON is a drug-free workplace and EEO Employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, natural origin, disability, veteran status, age, marital status, pregnancy, genetic information, or </em><em>other</em><em> legally protected status. Offers are contingent on the successful completion of </em><em>pre-employment</em><em> drug and background screenings. Please note that we follow Federal Guidelines regarding prohibited substances, even for those legal at the state level.</em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"APCON\", \"sameAs\": \"https://www.linkedin.com/company/apcon\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C510BAQG10HdqxoHxbw/company-logo_200_200/0/1519856840249?e=1634774400&v=beta&t=pK6URHu_N0ma7qm8LuXyWw-MX7yQhas4qtgsj3QPQRw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"APCON\", \"value\": \"V5HjaSYY7G\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C510BAQG10HdqxoHxbw/company-logo_100_100/0/1519856840249?e=1634774400&v=beta&t=wdRYH-GtVtRA61WdrSla2RXcdwD8nQZ8bHRCe4P6hCY\", \"industry\": \"Computer Networking,Computer Software,Computer & Network Security\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dallas\", \"addressRegion\": \"TX\", \"postalCode\": \"75342\", \"streetAddress\": null}, \"latitude\": 32.777977, \"longitude\": -96.79621}, \"skills\": \"\", \"title\": \"Software Test Engineer with Sign-On Bonus\", \"validThrough\": \"2021-08-17T18:01:52.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 61200, \"maxValue\": 90100, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

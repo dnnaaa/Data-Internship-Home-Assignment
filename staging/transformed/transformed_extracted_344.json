@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-11T22:51:31.000Z\", \"description\": \"<strong><u>Who We Are<br><br></u></strong>Vbrick enables organizations to leverage the power of video to engage, empower and transform. Our industry leading Rev enterprise video platform is a complete solution for businesses to capture, manage and securely distribute live and on-demand video globally at scale to any device. The world's most widely recognized brands adopt Vbrick solutions to overcome network complexity and risk to meet critical live video needs from CEO all hands meetings to team broadcasts and to support innovative uses of on-demand recorded videos for sales, marketing, training, compliance, security, and user generated content. Vbrick solutions integrate with and complement unified communications systems and provide the analytics and intelligence to maximize return on video investments.<br>Sr Software Engineer- C/ C++<br>Location:<br>Vbrick has excellent video conferencing and networking infrastructure to support work-from-home and we'll consider candidates in any location ( EST or CST timezones), but being near our Herndon, VA or North Haven, CT offices is a plus.<br><br><strong><u>What You'll Do<br><br></u></strong>Design and implement Vbrick's world class video streaming and distribution infrastructure.<br><br><strong><u>What You'll Bring<br><br></u></strong>The successful candidate will have a BS in Computer Science or equivalent, plus at least 5 years of design, implementation, integration, debugging, and testing of real-time software systems using C and/or C++ on Linux. We are looking for a proven track record of creating new products and for an ability to excel both independently and teamed up with other members of our experienced group of developers.<br><br><strong><u>An Eagerness And Ability To Learn New Technologies And Use Varied Development Environments Is The Most Important Skill To Bring And *any* Of The Following Will Be a Plus<br></u></strong><ul><li> Multi-process and multi-threaded development at driver, kernel, and application levels of Linux</li><li> Complex Perl and shell scripting</li><li> Video conferencing system development utilizing SIP, SDP, RTP, or WebRTC</li><li> Squid proxy/caching engine or other web data and video caching technologies</li><li> WebRTC or other peer-to-peer data sharing technologies</li><li> Live and on-demand video streaming protocols including HLS, DASH, RTMP, RTP, RTSP</li><li> Video and audio processing including capture, digitization, scaling, encoding, and decoding</li><li> Networking technologies and protocols including UDP unicast/multicast and TCP/IP socket programming and optimization of network stacks</li><li> Encryption, Digital Rights Management (DRM), and Forward Error Correction (FEC) mechanisms for transmitting and securing digital video</li><li> Experience building scalable, cloud-based products using providers like AWS, Azure or others</li><li> Agile development processes using Git and JIRA tool sets<br></li></ul><strong><u>A Little About Us<br></u></strong><ul><li> Casual and flexible environment to encourage creativity and collaboration</li><li> 4 weeks of PTO to enjoy life!</li><li> Competitive compensation, stock options and generous benefits<br></li></ul>Vbrick is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Vbrick\", \"sameAs\": \"https://www.linkedin.com/company/vbrick\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQEUZQnJvPExuQ/company-logo_200_200/0/1519855960166?e=1634169600&v=beta&t=B5ZK6n4zVu119sd5yij7fmtZB23btMt6-0RhyCgoR98\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Vbrick\", \"value\": \"437f4f60d6a498f58637354d7ca0a186\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQEUZQnJvPExuQ/company-logo_100_100/0/1519855960166?e=1634169600&v=beta&t=HVQgitoKt3sYxDiwJWOnaqfj7OYUnTYaB4BxnZqf2i0\", \"industry\": \"Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"North Haven\", \"addressRegion\": \"CT\", \"postalCode\": \"06473\", \"streetAddress\": null}, \"latitude\": 41.388683, \"longitude\": -72.86089}, \"skills\": \"\", \"title\": \"Sr. Software Engineer C/ C++\", \"validThrough\": \"2021-08-10T22:51:31.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 101000, \"maxValue\": 175000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

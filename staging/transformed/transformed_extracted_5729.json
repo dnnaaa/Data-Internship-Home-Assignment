@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:21:41.000Z\", \"description\": \"<p>Jefferies is seeking a Data Scientist to join the Data Strategy team within Equity Research.</p><p><strong><u>Responsibilities Will Include</u></strong></p><ul><li>Work closely with Head of Data Strategy in creation of fundamental models, design of data tools, coordination with global sector team, evaluation of external alternative data vendors and ad-hoc research projects.</li><li>Interact with key data partners to communicate business cases, company drivers and other KPI's relevant to fundamental stock evaluation.</li><li>Query, transform, combine and expand datasets to assist teams in knowledge extraction.</li><li>Interface with data vendors, internal research teams, internal sales and trading personnel, and external institutional investors.</li><li>Conceive and executing on differentiated research projects across sectors and data types. </li></ul><p><strong><u>Key Qualifications</u></strong></p><ul><li>4+ years of experience within consulting, data research, data science or similar roles.</li><li>Advanced STEM degree such as data science, computer science, engineering or statistics preferred</li><li>Prior experience in a strategic, quantitative or risk role is desirable.</li><li>Deep knowledge of data science programming languages is required (such as R, Python, SQL, Scala)</li><li>Knowledge of cloud computing environments is helpful.</li><li>Knowledge of fundamental financial modeling is not a must but helpful.</li><li>Keen interest in the \\u201cdata economy\\u201d within financial services.</li><li>Motivated, intelligent, curious, hard-working, team player</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Jefferies\", \"sameAs\": \"https://www.linkedin.com/company/jefferies\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHSKsSMs975dw/company-logo_200_200/0/1625146273074?e=1637798400&v=beta&t=eTXWULDhw13Qo2QBQ2kiN2N5OJa8FPO-C-rzYKjn2ZA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Jefferies\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHSKsSMs975dw/company-logo_100_100/0/1625146273074?e=1637798400&v=beta&t=quF1jmrJOpBrC-FfdE8vEFjhfMT4IIl-JfYoviXjf6A\", \"industry\": \"Banking,Financial Services,Investment Banking\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco\", \"addressRegion\": \"CA\", \"postalCode\": \"94121\", \"streetAddress\": null}, \"latitude\": 37.78008, \"longitude\": -122.42016}, \"skills\": \"\", \"title\": \"Data Strategy Data Scientist\", \"validThrough\": \"2021-09-24T17:21:40.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

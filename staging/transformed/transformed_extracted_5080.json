@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T19:04:38.000Z\", \"description\": \"<br><p><strong>THIS IS AN INTERNSHIP ROLE!</strong></p><p><br></p><p><strong>Who we are</strong></p><p>At Paravijjyan we are working to build a platform that would help people do mindfulness practices whenever and wherever they want just by using their mobile phones. We have already AI recognition systems that would predict your accuracy while doing yoga better than a physical trainer that too at the comfort of your own home. We have several other features including Astrology , Meditation and diet recommendation(just by clicking a snap!).</p><p><br></p><p><strong>Qualifications:</strong></p><ul><li>Strong hands-on development experience with Python.</li><li>Experience working with Firebase.</li><li>Experience with Tensorflow.</li><li>Working knowledge of Git, Continuous Integration, and other supporting systems</li><li>Ability to work in an agile work environment where team members are remote.</li></ul><p>&nbsp;</p><p><strong>Nice to have</strong></p><ul><li>Experience using Posenet/BlazePose/similar models.</li><li>Experience applying machine learning for Gesture and Real-time detection.</li><li>Experience using Flutter.</li></ul><p><br></p><p><strong>Perks</strong></p><ul><li>Learn and work with like-minded people</li><li>Letter of Recommendation</li><li>Opportunity to turn Full time!</li></ul>\", \"employmentType\": \"INTERN\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Paravijjyan\", \"sameAs\": \"https://www.linkedin.com/company/paravijjyan\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFgfKPL93HFlQ/company-logo_200_200/0/1627932856666?e=1637798400&v=beta&t=Qm5i_2RcUQ82hNNe7WAPsef0CCfovmYAxC7S3vUi6jw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Paravijjyan\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFgfKPL93HFlQ/company-logo_100_100/0/1627932856666?e=1637798400&v=beta&t=DguEi99ZQrFMm_d6vkQ1DHJAHlqbtqnQFhthlSdvlEE\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-19T19:04:38.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

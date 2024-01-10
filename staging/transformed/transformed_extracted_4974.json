@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T22:54:54.000Z\", \"description\": \"<p>The ideal candidate will use their passion for big data and analytics to provide insights to the business covering a range of topics. They will be responsible for conducting both recurring and ad hoc analysis for business users.&nbsp;</p><p>&nbsp;</p><strong>Responsibilities</strong><ul><li>Understand the day-to-day issues that our business faces, which can be better understood with data </li><li>Compile and analyze data related to business' issues </li><li>Develop clear visualizations to convey complicated data in a straightforward fashion</li></ul><p><br></p><p><strong>Qualifications</strong></p><p><ul><li>Bachelor's or Master's degree in Statistics or Applied Mathematics or equivalent experience </li><li>1 - 2 years' Data Analysis experience </li><li>Proficient in SQL</li></ul></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"LabGov.City\", \"sameAs\": \"https://www.linkedin.com/company/labgov\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGwaIfOgmQ7TA/company-logo_200_200/0/1537691464330?e=1637798400&v=beta&t=jqFJNvhdIDWe3By6pK2iApD6gosU92q-A-SaXlgjP2g\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"LabGov.City\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGwaIfOgmQ7TA/company-logo_100_100/0/1537691464330?e=1637798400&v=beta&t=HgVTeAVl-_vFNjtzmTO3VnF4FUOD8mq2WwF4i2zhOyY\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Data Analyst\", \"validThrough\": \"2021-09-19T22:54:54.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

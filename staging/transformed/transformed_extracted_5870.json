@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:40:12.000Z\", \"description\": \"<p>As a company whose mission is to be the most progressive and inclusive money transfer business in the world, we deliver the highly reliable payment services to our customers. With locations in over 402k locations in 165 countries, we have adopted the true identity of what it means to be multicultural and embody the idea of being family, no matter where we are.</p><p><br></p><p>At Ria, you\\u2019re be surrounded by colleagues, both in Buena Park, CA and across the Globe, who are dedicated to each other and empowered to be creative and nurture \\u201cout of the box\\u201d solutions.</p><p><br></p><p>Ria Digital's line is involved in development and maintenance of Ria Digital web and mobile applications. They handle the maintenance of extensible microservices for all applications at Ria. This branch designs and delivers complex and highly scalable solutions with the best of resources available.</p><p><br></p><p><strong>WHAT YOU HAVE:&nbsp;</strong></p><ul><li>4-5 years of overall full stack software development experience 3+ years\\u2019 experience in high transaction volume environment</li><li>Proven .NET experience (C#) and expert understanding of Object-Oriented Design and Programming</li><li>Hands-on experience developing SOAP and RESTful services implementing authorization and authentication procedures</li><li>Demonstrated strong communication skills across cross-functional teams, peers and executives</li><li>Experience or exposure to architect/design enterprise wide applications</li><li><br></li></ul><p><strong>OUR TECHNOLOGIES:</strong></p><p>HTML5, CSS, JavaScript libraries like Angular/ JQuery/ Ionic/Vue, .Net, C#, SQL Server, Web Services, SOAP and RESTful services.</p><p><br></p><p><strong>WHAT YOU WILL DO:</strong></p><ul><li>Application analysis, design, development, unit testing and implementation activities</li><li>Code across all layers including Front end, Web APIs, Integration with 3rd Parties, SQL scripts</li></ul><p><br></p><p><strong>BONUS POINTS FOR THESE:</strong></p><p>A bachelor's degree in Computer Science or closely related field from an accredited university; Masters preferred. Troubleshooting experience with Elastic Search tools like Splunk\\\\Graylog\\\\Kibana, NoSQL Database experience with Redis\\\\Dynamo\\\\Mongo and full Stack development with experience on Web and Mobile front-end technologies</p><p><br></p><p><strong>Why Choose Ria?</strong></p><p>In this business, humility can be hard to come by.&nbsp;We put others ahead of ourselves, the way our customers do every day.&nbsp;Because this isn\\u2019t just business, it\\u2019s personal.&nbsp;People deserve much more than just a fair price.&nbsp;They deserve empathy, hope and ultimately respect.&nbsp;</p><p>This how we do right by people and their needs \\u2013 not more, not less.</p><p>We never rest, we raise the bar and put people first.</p><p>We work hard and take nothing for granted.</p><p>We facilitate possibilities in every possible way.</p><p>We champion people\\u2019s needs, today and tomorrow.</p><p><strong>We open ways for a better everyday life.</strong></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Ria Money Transfer\", \"sameAs\": \"https://www.linkedin.com/company/ria-financial\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFOLMjEUQ3TDg/company-logo_200_200/0/1593684603927?e=1637798400&v=beta&t=ZohRvXgJvSHZS_ZmDHQ9Ns8gtmfAsudRcy8J9GzNrZ4\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Ria Money Transfer\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFOLMjEUQ3TDg/company-logo_100_100/0/1593684603927?e=1637798400&v=beta&t=SwfMj9tjMVjxQ6DaKqPNEwUuyMCvyYI40haKUXO5rl8\", \"industry\": \"Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"California\", \"addressRegion\": \"United States\", \"postalCode\": \"93266\", \"streetAddress\": null}, \"latitude\": 37.254673, \"longitude\": -119.61728}, \"skills\": \"\", \"title\": \"Software Developer, Digital\", \"validThrough\": \"2021-09-24T17:40:11.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

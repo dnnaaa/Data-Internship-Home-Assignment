@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-01T00:51:21.000Z\", \"description\": \"At Genesys, we\\u2019ve built the best cloud-based Customer Experience (CX) service offerings, which handles millions of interactions a day. Our infrastructure involves hundreds of services deployed across 9 environments globally, and we push out dozens of product builds per day using a top-notch CI/CD pipeline.<br><br>We are looking for a talented Software Engineer, Test to work with our Data Analytics team focusing on automated testing of big data processing and batch data actions.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Help develop new features for our platform service with quality built in. </li><li>Triage failed automated test executions and report defects when appropriate. </li><li>Participating in code reviews, direct collaboration, and open discussion of ongoing work. </li><li>Develop automation for new features and processes. </li><li>Assist development teams on testing best practices. </li><li>Determine whether to deploy new code to production regions. <br></li></ul><strong><u>Requirements<br></u></strong><ul><li>A Bachelor of Science degree in Computer Science or related degree or equivalent in work experience. </li><li>Proficiency using Java. </li><li>Previous experience using test frameworks like Selenium and TestNG. </li><li>Understanding of cloud computing, ideally AWS. <br></li></ul><strong><u>Nice To Have<br></u></strong><ul><li>Agile/Scrum experience. </li><li>Best practices for CI/CD. </li><li>Proficiency using Python. </li><li>Experience testing RESTful API\\u2019s </li><li>Experience with big data tools like Apache Spark. </li><li>Experience with Amazon Elastic MapReduce (EMR) </li><li>Experience using version control systems like GitHub and BitBucket. <br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Medical, Dental, and Vision Insurance </li><li>Telehealth coverage </li><li>Flexible work schedules and work from home opportunities </li><li>Development and career growth opportunities </li><li>Open Time Off </li><li>401(k) matching program </li><li>Adoption Assistance </li><li>Infertility treatments <br></li></ul>See more Genesys benefits information at https://mygenesysbenefits.com/\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Genesys\", \"sameAs\": \"https://www.linkedin.com/company/genesys\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQEU5ah1kZZ_rA/company-logo_200_200/0/1625148299668?e=1634169600&v=beta&t=OitubIjA3n2emZWy4GBUTXjv3-9R7XEJK3FUCr7nnh0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Genesys\", \"value\": \"210001M4\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQEU5ah1kZZ_rA/company-logo_100_100/0/1625148299668?e=1634169600&v=beta&t=QuyxpWtaUVCct2RrArI3IrQU0ITranQGlvY_TzbvyLU\", \"industry\": \"Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Greater Indianapolis\", \"addressRegion\": null, \"postalCode\": \"46201\", \"streetAddress\": null}, \"latitude\": 39.76474, \"longitude\": -86.16893}, \"skills\": \"\", \"title\": \"Software Engineer, Test\", \"validThrough\": \"2021-07-31T00:51:21.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

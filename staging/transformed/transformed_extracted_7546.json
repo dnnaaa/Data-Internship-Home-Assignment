@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:19:33.000Z\", \"description\": \"<p><strong>Principal Duties and Responsibilities&nbsp;&nbsp;</strong></p><p>As an embedded software engineer, you will write software enabling our next-generation of cloud-connected, IoT wireless audio ecosystem of products.&nbsp;You will work closely with other functional teams to support our currently deployed products, help bring new products to market, and work on our next generation platforms. The ideal candidate has strong C++ experience in an embedded Linux environment and thrives working in a fast-paced, extremely collaborative agile team.</p><p><br></p><p><strong>Responsibilities include:</strong></p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contribute to an enthusiastic and talented team of Software Engineers to bring new products and compelling experiences to the market</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a leadership role in supporting, improving, and enhancing a very large and complex software ecosystem</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work closely with other engineering disciplines to resolve difficult technical issues with deployed software and with software in development</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build platforms by architecting reusable building blocks enabling faster and more efficient product creation</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take part in full stack software development which includes embedded, mobile apps, cloud, and everything in between</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work with QA on developing testing processes, frameworks, and automation strategies</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focus on innovating new and better ways to create solutions that add value and amaze the end user, with a penchant for simple elegant design in every aspect from data structures to code to systems architecture</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stay up to date on relevant technologies, plug into user groups, understand trends and opportunities to ensure we are using the best techniques and tools</p><p><br></p><p><strong>Qualifications:</strong></p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Computer Science or equivalent; advanced degree a plus</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent object oriented design (OOD) and object oriented programming (OOP) using C++</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7+ years experience using C++ with at least one embedded operating system (Linux-preferred)</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with Bluetooth, WiFi or other similar wireless protocols</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent interpersonal, communication, collaboration, and presentation skills</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong sense of ownership, passionate, fast learner, detail-oriented, analytical mindset, perfection seeker</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong experience with one scripting language like Python, Perl or Shell</p><p><br></p><p><strong>Highly Desirable:</strong></p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Embedded firmware programming in C</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing/modifying device drivers and boot loaders on embedded systems</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience working with common peripherals such as USB, I2C, I2S or SPI</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Bose Corporation\", \"sameAs\": \"https://www.linkedin.com/company/bose-corporation\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGN0crrPsgFXg/company-logo_200_200/0/1570214302121?e=1641427200&v=beta&t=ZzYhdf5n38qe41EoaCfWKGjxHK-Q2ozZvFmrZ95q_lM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Bose Corporation\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGN0crrPsgFXg/company-logo_100_100/0/1570214302121?e=1641427200&v=beta&t=hkJcaqn_pP1AakoB-E180y9NPj5Qxq0hgXKnAa1Idr4\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Framingham\", \"addressRegion\": \"MA\", \"postalCode\": \"01703\", \"streetAddress\": null}, \"latitude\": 42.28156, \"longitude\": -71.41882}, \"skills\": \"\", \"title\": \"Embedded Software Engineer\", \"validThrough\": \"2021-11-04T17:19:33.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 84}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 81000, \"maxValue\": 151000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

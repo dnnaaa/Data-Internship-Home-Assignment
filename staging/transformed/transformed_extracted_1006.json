@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-20T02:45:38.000Z\", \"description\": \"<br><p>Required Experience</p><p><br></p><p>Infrastructure on the data side experience</p><p><br></p><p>Software design, Data Exposure</p><p><br></p><p>Data lake build experience</p><p><br></p><p>Load capacity testing</p><p><br></p><p>Data Lake environments</p><p><br></p><p>Make best practice decisions on use of best Data practices such as (NoSQL/MySQL), streaming media/Not streaming media. Need resource to help give them the structure we need</p><p><br></p><p>Apache Spark</p><p><br></p><p>SQL</p><p><br></p><p>Mongo DB</p><p><br></p><p>Speak to configuration of environments (Best use for Builds- from and architectural perspective)</p><p><br></p><p>Nice to Haves</p><p><br></p><p>Delta Lake</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Techmatic Inc\", \"sameAs\": \"https://www.linkedin.com/company/techmatic-inc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Techmatic Inc\"}, \"image\": null, \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Data / Data Lake Engineer\", \"validThrough\": \"2021-08-19T02:45:38.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

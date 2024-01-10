@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-09T20:01:50.000Z\", \"description\": \"<p>Software Engineer - GPU Compute: Full-time/ Part-time/ Contract-to-Hire</p><p><br></p><p><strong>Qualifications</strong></p><ul><li>Strong knowledge of C++ and experience in large code bases</li><li>Strong knowledge of CUDA as applied to recent GPU microarchitectures (e.g., Volta, Turing)</li><li>BS in computer science or related field</li><li>Strong knowledge of 3D geometry and linear algebra</li><li>Experiencing debugging and optimizing GPU kernels using tools like nvprof and the Visual Profiler</li><li>Comfortable in Linux development environments</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Stealth\", \"sameAs\": \"https://www.linkedin.com/company/stealthstartup\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHk8xUWzgUI-g/company-logo_200_200/0/1519952073073?e=1634169600&v=beta&t=SYoaPElvGn_ie_7xZweQBs06hKVig1YIx4c_4MJZeGQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Stealth\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHk8xUWzgUI-g/company-logo_100_100/0/1519952073073?e=1634169600&v=beta&t=_orzDOLc00Kto6woAwvj7nVlfCNWQj0iApLJUHqx1-s\", \"industry\": \"Computer Software,Automotive\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Mountain View\", \"addressRegion\": \"CA\", \"postalCode\": \"94040\", \"streetAddress\": null}, \"latitude\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-08-08T20:01:50.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

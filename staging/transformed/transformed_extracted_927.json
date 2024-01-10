@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-20T05:16:08.000Z\", \"description\": \"Check is a payroll-as-a-service API that lets you embed payroll directly in your vertical SaaS, HR, or time-tracking platform. Our API abstracts away the complexities of running payroll: tax calculation, remittance, and filing, plus the movement of money between companies and employees. This enables companies to easily build fully integrated payroll products to offer to their customers.<br><br>Engineering is the core of Check. We believe payroll can and should be easy-to-use financial software, but getting there requires serious and sustained engineering effort. For our efforts, there is the deep satisfaction that comes from delivering people's paychecks. We are excited to bring on a new software engineer who will have an outsized impact on our systems and business along multiple fronts.<br><br>For this role, we are seeking an individual with strong, full-stack software engineering skills, but also with a curiosity for systems, an entrepreneurial mindset, and high integrity. We believe that someone with this combination will unlock new ideas and solutions for our product and thrive in our team.<br><br><strong>In this role, you will:<br><br></strong><ul> <li>Ship code that calculates, transfers, and files taxes accurately and on time on a daily basis</li> <li>Distill the complexities of payroll into simple APIs for developers to use to build payroll</li> <li>Build frontend and backend components that improve customer integrations</li> <li>Influence the culture, values, and processes of a growing engineering team</li> <li>Communicate ideas and specifications through detailed, precise writing</li> <li>Work with our payroll ops, design, sales, and legal functions</li> <li>Commit on your first day, and deploy code continuously</li> <li>Support developers at customer companies</li> <li>Teach and learn from other engineers</li> <li>Interview prospective candidates</li> <br><br></ul><strong>Many backgrounds could fit this role, but ideal candidates will have:<br><br></strong><ul> <li>3+ years of experience </li> <li>Built and scaled production web applications on the frontend and/or backend</li> <li>Production relational database experience</li> <li>Demonstrated product and design sensibilities</li> <li>Strong software development fundamentals</li> <li>Excellent verbal and written communication</li> <br><br></ul><strong>We use:<br><br></strong><ul> <li>Python (type-annotated) and Django for our API</li> <li>React and TypeScript for our frontends</li> <li>Postgres for our database</li> <li>AWS for our cloud infrastructure</li> <li>GitLab for issue tracking and CI/CD</li> <br><br></ul>Our team is distributed across the US, with hubs in New York City and San Francisco.<br><br>Don't see a role that fits your interests? If you're passionate about working at Check email us at hello@checkhq.com and tell us how you'd like to help.<br><br><em>Check is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Check is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at </em><em>hello@checkhq.com</em><em> with \\\"accommodations\\\" in the subject line.</em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Check\", \"sameAs\": \"https://www.linkedin.com/company/check-technologies\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHb4RPzgREg-w/company-logo_200_200/0/1624550408594?e=1634774400&v=beta&t=TiAexaEyH6UVajF3JEzDxvsT135JwaTExrlwJ2D3Gbg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Check\", \"value\": \"4029901004\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHb4RPzgREg-w/company-logo_100_100/0/1624550408594?e=1634774400&v=beta&t=cyHLSFCzcv9FG1rUmwnfl1a4WySnGMWrn6A_jb0bQv8\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco\", \"addressRegion\": \"CA\", \"postalCode\": \"94121\", \"streetAddress\": null}, \"latitude\": 37.78008, \"longitude\": -122.42016}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-08-19T05:16:08.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T21:07:13.000Z\", \"description\": \"<p><strong>Data Scientist/Analyst </strong></p><p><strong>Location: SFO, CA (Remote can work from anywhere but wiling to work Pacific hours).</strong></p><p><strong>3 Rounds of Interview</strong></p><p><strong>&nbsp;</strong></p><p><strong>Mandatory:</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3+ years of data science, data analytics, or business intelligence experience</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong understanding of SQL</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with conducting data analysis in Python and / or R</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience building clear and easy to understand dashboards and presentations </p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to communicate clearly and effectively to cross functional partners of varying technical levels</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to define relevant metrics that can guide and influence stakeholders to appropriate and accurate insights</p><p><strong>&nbsp;</strong></p><p><strong>Pluses</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Familiarity with Superset</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Familiarity with running weblab experiments, efficacy studies, or product validation tests</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Familiarity with machine learning basics</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Familiarity with Client infrastructure, including Airflow, Presto SQL, and Hive SQL</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience creating and maintaining data pipelines</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience supporting engineering product work</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Derex Technologies Inc\", \"sameAs\": \"https://www.linkedin.com/company/derex-technologies-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGiCasVfrvMxA/company-logo_200_200/0/1519897950537?e=1637798400&v=beta&t=UHWcDjtHqk_ou2fiC3Lc7aZ4CZyFNwA5yhqlqGfT-bE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Derex Technologies Inc\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGiCasVfrvMxA/company-logo_100_100/0/1519897950537?e=1637798400&v=beta&t=chlSnEk-GccbVHNr9uNtQp6KMcUsc54WaGAnYS1xZv0\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco\", \"addressRegion\": \"CA\", \"postalCode\": \"94121\", \"streetAddress\": null}, \"latitude\": 37.78008, \"longitude\": -122.42016}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-19T21:07:13.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

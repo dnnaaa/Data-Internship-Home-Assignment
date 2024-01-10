@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T20:28:42.000Z\", \"description\": \"<p><strong>Microsoft Azure PaaS - US Citizen / Green Card Holders Only</strong><strong> - </strong></p><ul><li><span>As this is a Federal Project Roles/Responsibilities Design and deliver software to improve the reliability, scalability, latency, and efficiency of your services. </span></li><li><span>Design and implement scalable monitoring and deployment solutions for large-scale distributed systems. Ability to work independently. </span></li><li><span>Drive serviceability requirements upstream. </span></li><li><span>Engage in service capacity planning and demand forecasting, software performance analysis and system tuning. </span></li><li><span>Conduct periodic on call duties. </span></li></ul><p><br></p><p><strong>Site Reliability Engineering: </strong></p><ul><li><span>Stability through track and investigate problem incidents in your area of expertise by using standard and custom problem management tools and processes. </span></li></ul><p><br></p><p><strong>BASIC QUALIFICATIONS: </strong></p><ul><li><span>Four-year college degree in Information Technology, Information Security, related field or equivalent work experience </span></li><li><span>Experience with SQL Server: Stored procedures, Server Replication, Transactional Replication Five years of experience in a large enter Is any remote work allowed? Yes, remote. </span></li></ul><p><strong>**US Citizen / Green Card Holders Only**</strong></p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Sophus Info Solutions\", \"sameAs\": \"https://www.linkedin.com/company/sophus-info-solutions\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Sophus Info Solutions\"}, \"image\": null, \"industry\": \"Outsourcing/Offshoring\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Washington\", \"addressRegion\": \"United States\", \"postalCode\": \"98925\", \"streetAddress\": null}, \"latitude\": 47.411373, \"longitude\": -120.556366}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-09T20:28:42.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-24T00:05:02.000Z\", \"description\": \"<p><strong>Top Skills - Must Haves</strong></p><ul><li>C++</li><li>Java</li><li>Python</li></ul><p><br></p><p><strong>Top Skills' Details</strong></p><p><strong>1. C# (3-5 years)</strong></p><p>2. Experience with Azure Functions, Service Fabric, Logic Apps (3-5 years)</p><p>3.\\u2022 REST/JSON (Newtonsoft APIs)/Web dev</p><p><br></p><p><strong>Secondary Skills - Nice to Haves</strong></p><ul><li>c# development</li><li>json</li><li>aws</li><li>azure</li><li>rest</li><li>angular2</li></ul><p><br></p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"TEKsystems\", \"sameAs\": \"https://www.linkedin.com/company/teksystems\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHvWB-HshcNtA/company-logo_200_200/0/1625161122996?e=1637798400&v=beta&t=Z58HjOGWhRKHRIrDemLcck4CNpcKxK9i7GTnuzwFAKA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"TEKsystems\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHvWB-HshcNtA/company-logo_100_100/0/1625161122996?e=1637798400&v=beta&t=qpCE4TaICEpnRHnifpPg8GP_vr0mZ_bPLr9q2PfXfIw\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Greater Seattle Area\", \"addressRegion\": null, \"postalCode\": \"98109\", \"streetAddress\": null}, \"latitude\": 47.591396, \"longitude\": -122.33279}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-23T00:05:02.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 65100, \"maxValue\": 80800, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

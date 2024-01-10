@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T23:10:26.000Z\", \"description\": \"<p>Remote in Chicago / Other locations: Colorado, Austin, New York and California</p><p><br></p><p><strong>About this Opportunity:</strong></p><p><br></p><p>Our client is one of the best live streaming TV services focusing on Sports. They are rapidly growing and looking for a Sr Software Engineer to join their team.</p><p><br></p><p><strong>About you</strong></p><p><br></p><ul><li>Our client is looking for a hands-on Sr Software Engineer to take the lead in the team of talented software engineers</li><li>Enjoys learning new things and sharing knowledge with coworkers</li><li>Takes the initiative in identifying and removing roadblocks</li><li>Enjoys working in a fast-moving environment in which individual contributors are trusted to make technical decisions and execute independently</li></ul><p><br></p><p><strong>What you will do</strong></p><p><br></p><ul><li>This role will be responsible for day-to-day team operations including managing the team\\u2019s backlog and workload</li><li>Coach and mentor the team, expanding their expertise</li><li>Ensure that delivery teams are resourced and supported in order to meet the prioritized needs of the department</li><li>Clearly communicate schedule and quality expectations and ensure that teams are operating efficiently</li><li>Ensuring timely delivery on commitments and operational excellence</li><li>Acting as a coach and mentor to junior members of the team</li><li>Continuous collaboration with business stakeholders, product and other engineering teams on the team\\u2019s roadmap and deliverables</li><li>Build and promote a work environment for high performance that is highly Agile, Collaborative and team centric</li><li>Maintaining technical relationships with vendors that the team works closely with</li></ul><p><br></p><p><strong>What you will need</strong></p><p><br></p><ul><li>8 years of experience in delivering working software with at least 3 years building solutions for subscription-based services</li><li>3 years of experience leading a small engineering team</li><li>Bachelor\\u2019s Degree in Computer Science, Engineering, Information Technology or a related field or equivalent as determined by a professional credentials evaluation.</li><li>In-depth understanding of how subscriptions work - billing terms, renewals, cancellations, failed payments, etc. Ability to identify and cover edge cases.</li><li>Good knowledge of web technologies and experience building transactional RESTful API services with 24x7 availability</li><li>Master of at least one modern backend stack, with a willingness to learn new technologies and methodologies</li><li>Have an interest or experience in Go, message queues, and service-oriented architectures</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Anew Recruit\", \"sameAs\": \"https://www.linkedin.com/company/anew-recruit\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHgOORR5g-Ahw/company-logo_200_200/0/1519862906937?e=1637798400&v=beta&t=BT8eZc1lHZoVjXIRdVm4msuOuXQfZ-nmpWTWOBWGWXk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Anew Recruit\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHgOORR5g-Ahw/company-logo_100_100/0/1519862906937?e=1637798400&v=beta&t=s5iazqrbFy8FQT8AACM-Y6n6n7tNly3NxTcWh_lEVZg\", \"industry\": \"Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Senior Software Engineer\", \"validThrough\": \"2021-09-19T23:10:25.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 96}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

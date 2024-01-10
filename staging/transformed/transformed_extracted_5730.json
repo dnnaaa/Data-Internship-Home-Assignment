@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:21:18.000Z\", \"description\": \"<p>Leading Healthcare firm is looking for an Analytics Lead to assist in achieving business growth. This is a great opportunity to have a tremendous impact on client success by utilizing your analytic skills and applying business insights.</p><p><br></p><p><br></p><p>&nbsp;Responsibilities:&nbsp;&nbsp;</p><p><br></p><ul><li>Developing predictive models and test plans to support continuous improvement of campaign efforts using SAS/SQL/Python</li><li>Work closely with internal and external stakeholders to develop KPI frameworks, interactive dashboards to optimize direct marketing&nbsp;programs</li><li>Performing quantitative analysis to predict customer behavior as well as market mix modeling</li><li>Develop and deliver client presentations \\u2013 including data analysis and written content</li></ul><p><br></p><p>Qualifications:</p><p><br></p><ul><li>6+ years of experience in a data-driven role </li><li>Advanced Excel experience; running statistical analysis and predictive models, developing financial models, running sensitivity analyses, automating tasks, etc.</li><li>SQL, SAS, Python or other programming language experience</li><li>Expertise with Tableau, Power BI, or other reporting/campaign management software</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Intelletec\", \"sameAs\": \"https://www.linkedin.com/company/intelletec-ltd\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGoLsEQn0u4fw/company-logo_200_200/0/1582030754046?e=1637798400&v=beta&t=HMiOzMDg4hsjeoyLy9A11lM3upVBbnoDLYlc7enoggI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Intelletec\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGoLsEQn0u4fw/company-logo_100_100/0/1582030754046?e=1637798400&v=beta&t=1WAv3vO4FN36YwfGmcuV6qQCMtnZdoU7jSRtR18JtlU\", \"industry\": \"Marketing and Advertising,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Greater Boston\", \"addressRegion\": null, \"postalCode\": \"02119\", \"streetAddress\": null}, \"latitude\": 42.36041, \"longitude\": -71.05798}, \"skills\": \"\", \"title\": \"Senior Data Scientist\", \"validThrough\": \"2021-11-09T01:16:50.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

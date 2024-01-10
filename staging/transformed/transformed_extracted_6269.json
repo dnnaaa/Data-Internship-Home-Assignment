@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-26T14:41:54.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>The ACVML R&amp;D team at ARKit is looking for an Excellent CVML Engineer to work on Real Time Visual Place recognition systems. Our team provides an environment with a good balance between pragmatism and technical expertise applied to real problems. The main goal of this position is to support relocalization for inside-outside SLAM systems on multiple platforms with different HW specs. This is an exciting role where the candidate will have the opportunity to interact with interdisciplinary teams and top researchers to achieve the best quality and performance.<br><br> <br><strong>Key Qualifications<br></strong> <br>-  Excellent CV foundations. Able to resolve problems involving Multiple View Geometry<br><br><br>-  Excellent ML foundations for vision based patter Recognition and visual perception problems<br><br><br>-  Proven expertise on Visual Place Recognition for localization systems is a plus<br><br><br>-  Proven expertise in developing Real Time systems<br><br><br>-  Knowledge of DL Frameworks such Caffe, PyTorch or TensorFlow<br><br><br>-  Experience with C / C++ / Python /<br><br><br>-  Solid knowledge of Public Apple frameworks such CoreML, Metal is a plus<br><br> <br><strong>Description<br></strong> <br>Computer Vision, Vision for Robotics / AR. Or at least 3 years of validated expertise on similar roles / projects<br><br> <br><strong>Education &amp; Experience<br></strong> <br>PhD or MsC in Computer Science or similar<br><br> <br>Role Number: 200242961<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1638403200&v=beta&t=fztHDdah6alKEJBjnjpaCS7GsvSz07aaYwwaD1dTur0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200242961_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1638403200&v=beta&t=J8feyXF2f4Ojj8PNfcpBiA1oxoR75sGD-ApvOnPI0KQ\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Cupertino\", \"addressRegion\": \"CA\", \"postalCode\": \"95014\", \"streetAddress\": null}, \"latitude\": 37.319313, \"longitude\": -122.02927}, \"skills\": \"\", \"title\": \"Computer Vision / Machine Learning Senior Engineer\", \"validThrough\": \"2021-09-25T14:41:53.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

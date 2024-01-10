@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-13T12:45:46.000Z\", \"description\": \"<p><strong>Machine Learning Engineer - MLOps</strong></p><p><strong>San Francisco (Remote across the US)</strong></p><p><strong>Salary - $150,000 - $160,000</strong></p><p><br></p><p>We require hands-on&nbsp;<strong>Machine Learning Engineers</strong>&nbsp;who are capable of developing an innovative platform that integrates Computer Vision and Machine Learning. The company is currently building the core engineering team and as a&nbsp;Machine Learning Engineer, you will join a highly experienced founding team who have over 20 years of industry experience along with a proven track record of scaling innovative technology companies.</p><p>&nbsp;</p><p>As a&nbsp;<strong>Machine Learning Engineer</strong>, you will be tasked with the design, research, and development of their machine learning and Computer Vision architecture/technology.</p><p>&nbsp;</p><p>As a <strong>Machine Learning Engineer</strong>, you will be tasked with building and integrating end-to-end lifecycles of large-scale, distributed machine learning systems using the latest open-source technologies. You will be building software that improves your rate of experimentations which helps you make better decisions about what to try next. You will need to train, evaluate and debug deep learning models for complex tasks and improve distributed cloud GPU training approaches for those deep learning models.</p><p>&nbsp;</p><p>Skills and Experience</p><p><br></p><ul><li>Degree in Computer Science, Engineering, Machine Learning, or related field.</li><li>You will have a clear passion for everything artificial intelligence, machine learning, deep learning, and computer vision-related.</li><li>Experience with cloud processing technologies such as Spark, Dask, Presto, etc...</li><li>Experience with several machine learning software stacks e.g. Caffe, TensorFlow, Theano, and PyTorch TensorRT.</li><li>Solid Software Engineering skills in highly complex multi-language systems with Python being your primary language.</li><li>Experience with computer vision, in various areas such as image processing, image retrieval &amp; object detection would be a bonus.</li><li>CUDA experience again would be a bonus.</li></ul><p>&nbsp;</p><p>Do this sound like a challenge you would like to get involved with? If so, contact John at Logikk on&nbsp;+4420 3005 4968&nbsp;or john@logikk.com</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Logikk\", \"sameAs\": \"https://uk.linkedin.com/company/logikk\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQG7YYV8X7kZ2Q/company-logo_200_200/0/1623071212655?e=1634169600&v=beta&t=wkew2vboTsdqu9C5YVfo26nTDHBL3Mq9ATQalZTYg_M\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Logikk\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQG7YYV8X7kZ2Q/company-logo_100_100/0/1623071212655?e=1634169600&v=beta&t=3DvG7Bn96vzsAsikYXJOymtUtPTRLck-r1tpal12WLs\", \"industry\": \"Computer Software,Information Technology and Services,Research\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco Bay Area\", \"addressRegion\": null, \"postalCode\": \"94112\", \"streetAddress\": null}, \"latitude\": 37.39271, \"longitude\": -122.042}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-12T12:45:45.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

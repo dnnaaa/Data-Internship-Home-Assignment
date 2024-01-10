@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-11T22:49:40.000Z\", \"description\": \"An in-vitro diagnostic medical device organization, who are scaling at a rapid rate, are looking for a motivated Senior Software Quality Engineer to join their talented team on a remote basis.<br><br><strong><u>Senior Software Quality Engineer Responsibilities<br></u></strong><ul><li> Establish end-to-end automated tests using JavaScript, Selenium WebDriver, Appium, and other technologies.</li><li> Independently work through developing, executing, and reporting of V&amp;V plans and complex test protocols.</li><li> Work with team to create and execute an SDLC with automated traceability.</li><li> Create detailed, comprehensive test cases and plans.</li><li> Execute manual system integration tests.</li><li> Identify and thoroughly document bugs.</li><li> Assure that our product matches or exceeds our patients\\u2019 and clinicians\\u2019 expectations.<br></li></ul><strong><u>Senior Software Quality Engineer Skills And Qualifications<br></u></strong><ul><li> BS in computer science or related discipline, or equivalent work experience.</li><li> 6+ years experience in the software quality industry.</li><li> 3+ years experience in medical devices.</li><li> Expertise in test methodologies, writing test plans and cases, and debugging.</li><li> 2+ years exposure to automation testing frameworks and paradigms.</li><li> Prior experience developing or testing in compliance with recognized regulatory standards (21 CFR Part 820).</li><li> Demonstrable aptitude towards learning new technologies.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"X4 Life Sciences\", \"sameAs\": \"https://uk.linkedin.com/company/x4-life-sciences\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQG86Qj9PpJwrg/company-logo_200_200/0/1588672232755?e=1634169600&v=beta&t=8IHveppqcel0bbxlDoGWgJ8MaerBydgRAdR2yA9nQFI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"X4 Life Sciences\", \"value\": \"2310972958\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQG86Qj9PpJwrg/company-logo_100_100/0/1588672232755?e=1634169600&v=beta&t=fUrCGluf2HBRWPUDGOxsGOU6vpYJky_7uCCnXbP0lQ4\", \"industry\": \"Medical Devices,Biotechnology,Pharmaceuticals\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Boston\", \"addressRegion\": \"MA\", \"postalCode\": \"02118\", \"streetAddress\": null}, \"latitude\": 42.358994, \"longitude\": -71.05863}, \"skills\": \"\", \"title\": \"Senior Software Quality Engineer\", \"validThrough\": \"2021-08-10T22:49:40.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 76900, \"maxValue\": 129000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

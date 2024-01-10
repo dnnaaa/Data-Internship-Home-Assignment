@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T15:00:10.000Z\", \"description\": \"<p>We are looking for experienced Data Scientists with a specialization in Natural Language Processing (NLP). Our client is a data science consultancy committed to building a centre of excellence for machine learning and analytics. We design, build, and implement platforms which help some of the world\\u2019s most recognized brands to increase the value of their services through smarter decision making.</p><p><br></p><p>We offer a start-up culture, backed by extensive resources and mentorship from our two prestigious parent companies. Working alongside a team of gifted industry experts and supported by dedicated training and personal development, our data scientists thrive in a continuous learning culture.&nbsp;</p><p><br></p><p>We are recruiting talented data scientists with expertise in NLP who will apply analytics and machine learning to a diverse range of exciting and impactful client projects. As a member of the team, you will develop innovative and sophisticated solutions to some of the most complex strategic business challenges.</p><p><br></p><p>Responsibilities include:</p><ul><li>Design and prototype solutions to our clients\\u2019 data science use cases and contribute to their deployment in a variety of client environments</li><li>Regularly collaborate and knowledge-share with colleagues</li><li>Help establish rigorous machine learning and statistical analysis best-</li><li>practices to ensure consistency and maximum impact for all projects</li></ul><p><br></p><p>Data Scientist Expectations:</p><ul><li>Graduate university degree in Science, Technology, Engineering or Mathematics (STEM) preferred, but professional work experience is highly valued</li><li>2-3 years professional experience outside of the classroom with:</li></ul><p>-Natural language Processing (NLP) models and projects</p><p>-Supervised and unsupervised learning techniques</p><p>-Evaluating, visualizing and explaining data science concepts and outcomes</p><p>-Exploring data, wrangling data and engineering features</p><ul><li>Proficient in SQL and Python and/or R:</li></ul><p>-SQL: able to write performant and sophisticated queries and joins</p><p>-Python/R:authors code that is efficient and follows basic best practices</p><p>-Python/R: familiar with specialized data science packages&nbsp;</p><ul><li>Proficient in NLP Concepts including but not limited to:</li></ul><p>-Feature based Grammars</p><p>-Constituency Parsing</p><p>-Dependency Parsing</p><p>-BERT</p><p>-Bayesian Optimization</p><p>-Naive Bayes</p><p>-N-gram model</p><p>-Interpolation</p><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"io173\", \"sameAs\": \"https://uk.linkedin.com/company/io173\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQG9MFsrgNxzSA/company-logo_200_200/0/1575383396348?e=1635984000&v=beta&t=YionDStjQJGlq2DTua98XgxsUHiZxx7BWK3gxHWlQOM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"io173\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQG9MFsrgNxzSA/company-logo_100_100/0/1575383396348?e=1635984000&v=beta&t=sK_k7BAp04CiIwNwWrDdeXDm0t4YeIYiy7bcwZlEn5Y\", \"industry\": \"Management Consulting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"NY\", \"postalCode\": \"10132\", \"streetAddress\": null}, \"latitude\": 40.713047, \"longitude\": -74.00723}, \"skills\": \"\", \"title\": \"Data Scientist-NLP\", \"validThrough\": \"2021-09-04T15:00:09.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 120000, \"maxValue\": 170000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

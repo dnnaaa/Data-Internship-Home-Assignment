@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-01T12:23:25.000Z\", \"description\": \"<p>We're working with a market leader in electronic health records (EHR) bases studies. Partnered with world class biotechnology and pharmaceutical firms, their platform runs real world evidence studies for regulatory and reimbursement purposes.</p><p><br></p><p>Utilizing data science and AI, this company is looking for a Machine Learning Engineer to take ownership of the full machine learning life-cycle, from data cleaning and pre-processing, to deploying state-of-the-art models into production. </p><p><br></p><p>You will:</p><ul><li>Verify data quality, supervise the data and find available datasets</li><li>Train models and tuning their hyperparameters</li><li>Define pre-processing and validation strategies</li><li>Builds, refine and productionize machine learning models </li><li>Present model outcomes </li></ul><p><br></p><p><br></p><p>You have:</p><ul><li>Bachelors or above in Mathematics, Computer Science, Engineering or other related field</li><li>Expertise with Python and basic libraries for machine learning (pandas and scikit-learn)</li><li>Expertise with deep learning frameworks</li><li>Proficiency with scripting or other techniques for rapid data transformation and cleanup</li><li>Expertise in visualizing and manipulating big unstructured datasets</li><li>Experience with cloud-based machine learning resources (AWS)</li></ul><p><br></p><p><br></p><p><em>Big Cloud is acting as a vendor to this position which is a direct hire.</em></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Big Cloud\", \"sameAs\": \"https://uk.linkedin.com/company/big-cloud\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQHmFXa0sxUDJw/company-logo_200_200/0/1579704931442?e=1634169600&v=beta&t=47OV4XK9QAgUORJSIuePAVKYu5afOuapf0IQof0FykI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Big Cloud\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQHmFXa0sxUDJw/company-logo_100_100/0/1579704931442?e=1634169600&v=beta&t=m40g75wVjLhmQosDG5gcLvndLNYDIW0gfQdKYhLM26Q\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"California\", \"addressRegion\": \"United States\", \"postalCode\": \"93266\", \"streetAddress\": null}, \"latitude\": 37.254673, \"longitude\": -119.61728}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-07-31T12:23:25.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

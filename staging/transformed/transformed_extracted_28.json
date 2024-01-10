@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-09T17:39:58.000Z\", \"description\": \"<p>This is an opportunity to work at a world-famous, federally funded research &amp; development organization with a great culture.&nbsp;</p><p>They have a need of a <strong>Software Engineer </strong>to provide support to the software team in implementing and integrating python-based analysis capabilities for resiliency testbed along with angular web front ends.</p><p><br></p><p><strong>Key Points:</strong></p><ul><li><strong>Title:&nbsp;&nbsp;Software Engineer</strong></li><li><strong>Location:&nbsp;</strong>Lexington, MA (Greater Boston)</li><li><strong>Job Type: W2 Contract</strong></li></ul><p><br></p><p><strong>Position Scope/Job Functions</strong>&nbsp;</p><ul><li>Develop <strong>Python-based analysis capabilities</strong> for resiliency testbed: This includes ingesting and processing experimental data from the Testbed and producing value and insights using statistical and <strong>ML-based techniques</strong>.</li><li>Develop <strong>Angular web front ends</strong>: Develop web app front ends in Angular that communicates with various backend technologies and APIs.</li><li>Infrastructure <strong>Automation with Docker, Ansible and Terraform</strong>: This includes developing automation for configuration and deployment of the software services to <strong>AWS and ESX</strong> environments using <strong>containers and Ansible</strong>, and including infrastructure configuration with Terraform. This task also includes using automation to secure and harden deployed services.</li><li><strong>Java-based applications for data processing and adaptation</strong>: Develop Java applications primarily focused on ingesting, adapting, and normalizing data for downstream analytics. Secondary tasks include developing <strong>Springboot-based Java microservices</strong>.</li><li>Also perform related <strong>testing, and compose, compile, and maintain documentation</strong> for users and administrators. </li><li>A secondary role will be to assist the development team in the planning and execution of effective agile software development practices. </li><li>Must be able to communicate, collaborate and work effectively within our RST team.</li><li>The software developer must have a willingness to take on new technologies and work in areas and take on responsibilities that they are not necessarily an expert in.</li></ul><p><br></p><p><br></p><p><strong>Skills: Required</strong></p><ul><li>Experience developing non-trivial applications using <strong>Python, Java, Angular, JSON, Protobufs, Maven,</strong> Agile software development, source code version control systems (i.e., git &amp; Github).</li><li>Experience developing deployment pipelines using <strong>Docker, Ansible, and Terraform</strong>.</li><li>Experience securing and hardening deployed services using Ansible.</li><li>Experience with <strong>Elastic Stack, Apache NIFI</strong>.</li><li><strong>Unit testing and integration testing</strong>.</li><li>Developing, debugging, and executing software in a <strong>Windows and Linux environment</strong>.</li><li>Producing, editing, and maintaining documentation aimed at users and other developers.</li><li>Experience with <strong>ActiveMQ, Kafka,</strong> and other middleware and messaging platforms.</li></ul><p><br></p><p><strong>Education:&nbsp;</strong>Bachelor\\u2019s degree&nbsp;with 5+&nbsp;years of relevant work experience.</p><p>&nbsp;</p><p>Work Authorization:&nbsp;<strong>US Citizenship&nbsp;</strong>is required.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Minuteman Group LLC\", \"sameAs\": \"https://www.linkedin.com/company/minuteman-group-llc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG3z-jm8nqZCA/company-logo_200_200/0/1519952344467?e=1634169600&v=beta&t=wjUAhmcY1ej67ey0Dtyzja7zkZ5zNURETPtsC1-U0QY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Minuteman Group LLC\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG3z-jm8nqZCA/company-logo_100_100/0/1519952344467?e=1634169600&v=beta&t=-2yTwB57XUuZqx7yTnniqr1ypdg_gq-0vBEBFOgHOY0\", \"industry\": \"Information Technology and Services,Defense & Space\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Lexington\", \"addressRegion\": \"MA\", \"postalCode\": \"02420\", \"streetAddress\": null}, \"latitude\": 42.44817, \"longitude\": -71.224724}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-08-08T17:39:56.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

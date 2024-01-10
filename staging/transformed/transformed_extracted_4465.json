@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T22:18:21.000Z\", \"description\": \"<p>Our CONFIDENTIAL, growth client&nbsp;is looking for experienced DevOps and Site Reliability Engineers who are interested in working with a fast-growing team in building industry-leading real estate data services. You will be working on a small team using cutting edge technology and tools to build and support infrastructure for our diverse environment including customer facing applications, large scale data processing, and APIs.</p><p><br></p><p>Technologies:</p><ul><li>Google Cloud (Compute, Storage, Networking)</li><li>Kubernetes</li><li>Helm</li><li>Terraform</li><li>CircleCI</li><li>Monitoring (DataDog or Stackdriver, StatusCake)</li><li>Linux</li><li>Bash</li><li>Python</li></ul><p><br></p><p>Application/Data Stack</p><ul><li>Airflow</li><li>Hasura</li><li>ETL processes</li><li>Database Development and support (Postgres, BigQuery, MongoDB)</li><li>GraphQL</li><li>Looker</li><li>Node.js,</li><li>React/Redux</li><li>Python</li></ul><p><br></p><p>If you can articulate the value of CI/CD and Infrastructure-as-code (IAC) and have hands-on coding experience with infrastructure management automation in the cloud (GCP OR AWS), would look forward to reviewing your background. </p><p><br></p><p><strong>Once you apply, we\\u2019ll send you the full job spec, all company information and a highlight of their leadership team.</strong></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Talentpair\", \"sameAs\": \"https://www.linkedin.com/company/talentpair\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQH7uQSC5g-DJA/company-logo_200_200/0/1519870349102?e=1637193600&v=beta&t=wUutDJN63XANG3bDdBE9Cb4oAJZLBsef9xDuVFr_tZw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Talentpair\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQH7uQSC5g-DJA/company-logo_100_100/0/1519870349102?e=1637193600&v=beta&t=5GxRT6ruCSjIAKqqmbrxwsUgIksIypejFKCYGj4doy0\", \"industry\": \"Commercial Real Estate\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"NY\", \"postalCode\": \"10132\", \"streetAddress\": null}, \"latitude\": 40.713047, \"longitude\": -74.00723}, \"skills\": \"\", \"title\": \"Senior DevOps Engineer\", \"validThrough\": \"2021-09-17T22:18:20.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

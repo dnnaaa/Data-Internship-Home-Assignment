@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-27T16:36:03.000Z\", \"description\": \"<p>Ordermark\\u2019s mission is to become a trusted partner to restaurants everywhere, offering products and services that help restaurants adapt to changing consumer trends and technology. We pride ourselves in building a team of world-class thinkers and innovators to revolutionize the restaurant industry, empowering our customers to tap into new markets.</p><p><br></p><p>Ordermark helps restaurants and virtual kitchens aggregate mobile orders across all the major online ordering service providers into a single dashboard and printer. Powered by Ordermark's leading restaurant technology platform, Nextbite serves the fast-growing food on-demand revolution by empowering existing restaurants everywhere to serve more customers and earn more revenue. Nextbite, creates delivery-only restaurant concepts with high-quality, chef-inspired menus available through delivery apps. This combined offering helps restaurants increase efficiency and grow profits, creating successful food service across the country.</p><p><br></p><p>By joining Ordermark you will have a front row seat to the rapidly changing restaurant landscape and the explosive online ordering industry.&nbsp;</p><p><br></p><p><strong>About the Role</strong></p><p><br></p><p>Seeking talented&nbsp;<strong>remote</strong> Software Engineers&nbsp;who will bring their passion for both building efficient systems and delighting customers.&nbsp;You\\u2019ll leverage your technical expertise with architectures, frameworks, performance, security, automated testing, and more to help build our product. Meanwhile you will collaborate with other members of the Engineering and Product teams.&nbsp;If you are a collaborative, adaptive, effective communicator that loves to learn you will thrive in our innovative culture.</p><p><br></p><p><strong>Our current tech stack:</strong></p><p>Languages/Frameworks: Python, Django/Fast API, Celery</p><p>Storage: PostgreSQL, Redis, S3, DynamoDB</p><p>DevOps: Terraform, CircleCI</p><p><br></p><p><strong>The impact you will have:</strong></p><ul><li>Be a hands-on contributor to the engineering organization by helping to grow and deliver sophisticated solutions to problems of all sizes</li><li>Continual learning to help build a better product through experimentation&nbsp;</li><li>Play an integral role in the ongoing engineering of Ordermark\\u2019s SaaS technology solutions</li></ul><p><br></p><p><strong>What you bring to the role:</strong></p><ul><li>BA/BS degree in computer science, engineering, or equivalent experience</li><li><strong>4-6+ years' of software development experience (including production usage of Python)</strong>; </li><li><strong>4-6+ years' experience using modern API frameworks</strong></li><li>Experience architecting and deploying services on AWS or other cloud computing platforms</li><li>Familiar with using Docker and containerization technologies</li><li>A desire to learn or existing knowledge of IaaC technologies (Terraform)</li><li>Implementation of CI/CD pipelines (CircleCI, Github Actions)</li><li>A proven track record of delivering quality software, ideally in either the consumer web or enterprise SaaS space</li><li>You have designed and implemented large, scalable web applications and have an appreciation for clean, elegant and simple code</li></ul><p><br></p><p><strong>What we offer:</strong></p><ul><li>A team that has transitioned to remote work impressively, and remains highly collaborative and connected</li><li>Excellent growth opportunity, and stock options for all full-time employees</li><li>Medical, dental and vision (90% covered by Ordermark; 50% for dependents) - eligible immediately</li><li>Unlimited PTO and paid company holidays</li><li>401k - eligible immediately</li><li>$60/month reimbursement for online-ordered meals</li><li>Bonusly - a team recognition platform with fun rewards</li><li>We pride ourselves in having a team that promotes diversity, inclusion, leadership, mindfulness, high initiative, energy and passion.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Ordermark\", \"sameAs\": \"https://www.linkedin.com/company/ordermark\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGw3P4baCWQGg/company-logo_200_200/0/1623269179085?e=1635984000&v=beta&t=A_4dTWzbsFkhTvsZIe7sfkQQoRna8dXgr6Vn732HSa0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Ordermark\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGw3P4baCWQGg/company-logo_100_100/0/1623269179085?e=1635984000&v=beta&t=RTBI8_sxi0HxXr8fbeZC8uizvOcfvd3WN2Cr6VNo4m8\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Software Engineer (Python) - Remote\", \"validThrough\": \"2021-08-26T16:36:03.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

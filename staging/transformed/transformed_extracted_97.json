@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-09T20:16:42.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Dynamic, smart people and inspiring, innovative technologies are the norm here. The people who work here have reinvented entire industries with all Apple Hardware products. The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it. Join us to help deliver the next groundbreaking Apple product.<br><br><br>Are you passionate about changing the world? We have a critical impact on getting high quality functional products to millions of customers quickly and we are hiring all levels from junior to senior roles. You will become part of our core infrastructure team responsible for porting and improving our embedded test software environments, including CFE and our RTOS and perhaps Linux.<br><br> <br><strong>Key Qualifications<br></strong> <br>You are an excellent C programmer<br><br>You are an expert in boot code, low-level OS code, drivers, computer initialization, IO devices, SoC bring-up, debuggers<br><br>You have a detailed understanding of SOC architecture<br><br>You have experience and are interested in writing code to test IO devices and/or functional units<br><br>Linux driver experience an asset<br><br> <br><strong>Description<br></strong> <br>-  You will be porting CFE/boot-code/RTOS to new SoC? and CPU architectures<br><br><br>-  improving the low-level support provided in our debug environments to provide better support for writing higher-level tests (e.g. scaler, jpeg),<br><br><br>-  You will be implementing device libraries to aid in the portability of device drivers, bringing up low-level code on new SoCs <br><br><br>-  You will work with other teams to support our common SoCs and memory init code<br><br><br>Desired: ability to write Linux drivers and to write directed tests for IP's on the SoC.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS / MS / Ph.D in EE or CS is required<br><br> <br>Role Number: 200028677<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1634169600&v=beta&t=Z75eh_Hzk0N021POgBkmPxcRjDNX_6dndjW9sIVsQO0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200028677_en-US\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1634169600&v=beta&t=bt-hDFnMm8oXxesFhp4-SQ3R3BGwRx5SXFQfkZvlmFM\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Cupertino\", \"addressRegion\": \"CA\", \"postalCode\": \"95014\", \"streetAddress\": null}, \"latitude\": 37.319313, \"longitude\": -122.02927}, \"skills\": \"\", \"title\": \"Silicon Validation Software Engineer: Embedded and Low-level Programming\", \"validThrough\": \"2021-08-08T20:16:41.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

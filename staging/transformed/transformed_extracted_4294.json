@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-13T07:46:03.000Z\", \"description\": \"<p><strong>Position:&nbsp;</strong></p><p>Data Scientist</p><p><br></p><p><strong>Location:&nbsp;</strong></p><p>Atlanta, GA (remote)</p><p><br></p><p><strong>Job Description:</strong></p><p>A42 Labs is a rapidly growing AI and ML startup in Atlanta, GA. We work with closely with clients all over the United States to change the way they work with data and artificial intelligence.</p><p><br></p><p>A42 Data Scientists work side-by-side our clients to build and deploy end-to-end artificial intelligence and machine learning solutions at scale.</p><p><br></p><p>If you enjoy working on high impact and challenging data problems that deliver value to clients, then we would like to hear from you.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Design and develop algorithms and models to use against large datasets</li><li>Apply data science techniques to diverse real-world problems on large and dynamic datasets</li><li>End-to-end data processing and modeling of large data sets</li><li>Working collaboratively with clients to develop and optimize models tailored to their data</li><li>Communicate analysis and model results to clients stakeholders&nbsp;</li><li>Educate technical and non-technical clients on analytics and data-driven decision making</li><li>30% - 70% travel annually</li></ul><p><br></p><p><strong>Required Skills:</strong></p><ul><li>2+ years Data Science experience</li><li>Experience building, training and testing machine learning models</li><li>Experience with end-to-end data pipelining and modeling</li><li>Experience with Python, R and/or SAS</li><li>Experience with Spark, Tensorflow, PyTorch type big data and ML/DL frameworks</li><li>Experience with common visualization tools (e.g. Tableau, Qlikview)</li><li>Capacity to quickly understand complex systems</li><li>Willingness to learn new technologies and an ability to effectively apply them</li><li>Strong communication skills</li><li>Bachelor's degree in related field e.g. Computer Science, Physics, Mathematics, Engineering</li></ul><p><br></p><p><strong>Desired Skills:</strong></p><ul><li>Master and/or PHD</li><li>Previous consulting experience</li><li>Exposure to the handling of large, diverse, real-world datasets</li><li>Knowledge of Spark, Greenplum and/or Hadoop&nbsp;</li><li>Exposure to Lean, Agile and Extreme Development practices</li><li>Experience with deep learning tools and packages (e.g. Tensorflow, PyTorch)</li></ul><p><br></p><p><strong>A42 Labs Offers:</strong></p><ul><li>Competitive salary</li><li>Pre IPO equity</li><li>Great health benefits</li><li>3 weeks paid vacation</li><li>Apple laptops</li><li>Startup culture</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"A42 Labs, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/a42labs\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHEzMcHcLaQ0w/company-logo_200_200/0/1546712694742?e=1637193600&v=beta&t=U2JOsp7xLzUEaNl1d9oCRgvaWUtATC1_ZtFUMr3WQLs\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"A42 Labs, Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHEzMcHcLaQ0w/company-logo_100_100/0/1546712694742?e=1637193600&v=beta&t=EEOQ-6KCU5oogWhcTnh5-5fGbTDiOzF601olTePAjSE\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Atlanta\", \"addressRegion\": \"GA\", \"postalCode\": \"30355\", \"streetAddress\": null}, \"latitude\": 33.748547, \"longitude\": -84.3915}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-12T07:46:03.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

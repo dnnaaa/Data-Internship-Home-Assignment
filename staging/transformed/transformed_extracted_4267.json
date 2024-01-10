@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T13:57:28.000Z\", \"description\": \"<p><strong>Summary:</strong></p><p>The main function of the Data Scientist is to produce innovative solutions driven by exploratory data analysis from complex and high-dimensional datasets.</p><p><br></p><p><strong>Job Responsibilities:</strong></p><ul><li>Apply knowledge of statistics, machine learning, programming, data modeling, simulation, and advanced mathematics to recognize patterns, identify opportunities, pose business questions, and make valuable discoveries leading to prototype development and product improvement.</li><li>Use a flexible, analytical approach to design, develop, and evaluate predictive models and advanced algorithms that lead to optimal value extraction from the data.</li><li>Generate and test hypotheses and analyze and interpret the results of product experiments.</li><li>Work with product engineers to translate prototypes into new products, services, and features and provide guidelines for large-scale implementation.</li><li>Provide Business Intelligence (BI) and data visualization support, which includes, but limited to support for the online customer service dashboards and other ad-hoc requests requiring data analysis and visual support.</li></ul><p><br></p><p><strong>Skills:</strong></p><ul><li>Experienced in either programming language such as SQL, Python and/or R, Big Data tools such as Hadoop, or data visualization tools such as Tableau.</li><li>The ability to communicate effectively in writing, including conveying complex information and promoting in-depth engagement on course topics.</li><li>Experience working with large datasets.</li><li>Experience with AB Testing</li></ul><p><br></p><p><strong>Education/Experience:</strong></p><ul><li><strong><span class=\\\"ql-cursor\\\"></span></strong>Master of Science degree in computer science or in a relevant field.</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Creospan Inc.\", \"sameAs\": \"https://www.linkedin.com/company/creospan\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGUy8lntFffpA/company-logo_200_200/0/1584036435802?e=1637193600&v=beta&t=7RETBs32EClbBmHQy_T9rQYsKuQE_DmI85MQSup9W5Q\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Creospan Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGUy8lntFffpA/company-logo_100_100/0/1584036435802?e=1637193600&v=beta&t=4UtW4HT1mzAwQa9veZ2IGRLKlFdR_KyOnta2FUuVj1A\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Los Angeles County\", \"addressRegion\": \"CA\", \"postalCode\": \"91413\", \"streetAddress\": null}, \"latitude\": 34.05224, \"longitude\": -118.24335}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-16T13:57:26.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 40, \"maxValue\": 45, \"unitText\": \"HOUR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

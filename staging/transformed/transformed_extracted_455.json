@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-12T16:14:47.000Z\", \"description\": \"<p><strong>JOB DESCRIPTION</strong></p><p><br></p><ul><li>Apply advanced machine learning, deep learning and NLP/NLU techniques to build cutting edge AI applications</li><li>Use effective text representation techniques to develop useful features</li><li>Write production-ready code in Python, applying coding and OOP best practices</li><li>Develop and deliver software using Python and various AI related libraries, applying the corporate SDLC and support continuous integration and continuous deployment of the micro-services. Use containerization, orchestration, DevOps for faster delivery and easier maintenance</li><li>Define and implement evaluation strategies for each required functionality, demonstrate applicability and performance of the delivered application, and communicate clearly on its limits</li><li>Collaborate with the various teams,&nbsp;present plans, ideas and deliverables.</li></ul><p><br></p><p><strong>Job Qualification:</strong></p><p>&nbsp;</p><ul><li>Bachelor\\u2019s degree in computer science, mathematics, or related field</li><li>At least one year of experience as a natural language processing engineer</li><li>Knowledge of data structures, semantic extraction, and modelling</li><li>Knowledge of text representation (e.g., n-grams, sentiment analysis, bag of words, etc.)</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Wipro Limited\", \"sameAs\": \"https://in.linkedin.com/company/wipro\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEykAO7E8hS6A/company-logo_200_200/0/1625251092178?e=1634169600&v=beta&t=wdMs5eSeB0EsX2yF5OSCnPyqXwtW5adWiKaV1_lqg_s\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Wipro Limited\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEykAO7E8hS6A/company-logo_100_100/0/1625251092178?e=1634169600&v=beta&t=rHtmSGwXSGfKVpLzA5k8n8BSkndHnnxCs-5k2Snl5C8\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Houston\", \"addressRegion\": \"TX\", \"postalCode\": \"77208\", \"streetAddress\": null}, \"latitude\": 29.760803, \"longitude\": -95.36951}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-27T16:58:57.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

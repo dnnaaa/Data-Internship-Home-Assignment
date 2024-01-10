@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-27T05:29:51.000Z\", \"description\": \"If you are an Embedded Software Engineer with experience, please read on!<br><br>What You Will Be Doing<br><br>Perform as a Software Design engineer working independently to achieve high-quality software design per customer requirements.<br><br>What You Need for this Position<br><br>Minimum Bachelors Degree in Electrical Engineering or Computer Engineering<br><br>\\\" Proficient in C programming<br><br>\\\" Proficient in System and Software Design<br><br>\\\" At least 3 years of embedded software experience including the ability to work independently and participate in peer reviews.<br><br>\\\" Familiarity with CMMI or ASPICE software development process<br><br>\\\" Excellent communication skills including the ability to communicate technical details and document software design.<br><br>\\\" At least 5 years of embedded software experience<br><br>\\\" Automotive Experience with Tier-1 Supplier or OEM (CAN, LIN, Diagnostics)<br><br>\\\" Experience in AUTOSAR software development<br><ul><li> Matlab, Stateflow and Simulink experience</li><li> Strong embedded programming experience in C</li><li> Experience in multiple processor environment is a plus, not necessary</li><li> Experience in Automotive environment is a plus , not necessary</li><li> Experience in Autosar is a plus, not necessary<br></li></ul>What's In It for You<br><br>This position is on a contract basis for 12-24 months<br><br>So, if you are a Automotive Engineer with experience, please apply today!<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Wendy.Alvarado@Optello.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : WA1-1604587 -- in the email subject line for your application to be considered.***<br></li></ul>Wendy Alvarado - Sr. Executive Recruiter - Optello<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>Optello is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Optello will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Optello\", \"sameAs\": \"https://www.linkedin.com/company/optello-us\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHGcllR34o9Wg/company-logo_200_200/0/1588635531825?e=1638403200&v=beta&t=Uc180vN0303Hxmy6QFKuNvkaP0WLG54BUXiZziZ2nLs\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Optello\", \"value\": \"WA1-160458769\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHGcllR34o9Wg/company-logo_100_100/0/1588635531825?e=1638403200&v=beta&t=YSiUUrTgWwC3Hsp5302mIWmjJQeBxNQVvhh8KqpufGI\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Southfield\", \"addressRegion\": \"MI\", \"postalCode\": \"48037\", \"streetAddress\": null}, \"latitude\": 42.480198, \"longitude\": -83.241}, \"skills\": \"\", \"title\": \"Embedded Software Engineer\", \"validThrough\": \"2021-09-26T05:29:49.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

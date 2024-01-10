@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-12T03:10:08.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>We are looking for outstanding researchers to work on ambitious artificial intelligence projects that will advance the field and shape intelligence in future Apple products. As a team, we are working to define and solve the hardest problems in machine learning, computer vision, NLP, and speech recognition. Our roots are in research, which means at our core, we value learning, intellectual curiosity, and exploration.<br><br> <br><strong>Key Qualifications<br></strong> <br>In-depth expertise in machine learning research <br><br><br>Domain expertise in one or more of computer vision, audio processing, NLP, optimization, or computer graphics fields.<br><br><br>Strong mathematical background in linear algebra and statistics.<br><br><br>Publication record in relevant venues (e.g. NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACL, SIGGRAPH).<br><br><br>Proficient in Python and C/C++. CUDA or other GPGPU is a plus.<br><br><br>Expertise in working with at least one deep learning framework, for example, PyTorch, TensorFlow<br><br><br>Strong interpersonal skills and ability to collaborate in a diverse environment<br><br> <br><strong>Description<br></strong> <br>As a Machine Learning Researcher on this team, you will:<br><br><br>-  Work on some of the most ambitious technical problems on data and compute efficient machine learning<br><br><br>-  Research novel AI solutions that will impact future Apple products<br><br><br>-  Collaborate with world-class machine learning researchers and engineers to bring research ideas to production <br><br><br>-  Publish and present your work in world-class scientific venues in machine learning field <br><br><br>-  Provide technical mentorship and guidance<br><br> <br><strong>Education &amp; Experience<br></strong> <br>PhD in Computer Science or a related field<br><br> <br>Role Number: 200246707<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1639612800&v=beta&t=IgR-2hf3dOto-FFK2qLDAf22-QAa5l_16I1BtLm51ic\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200246707_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1639612800&v=beta&t=oG7PFUD_KtA0BxTIAzxB8kSrYLPe8dn8WY92MB2TAWo\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Seattle\", \"addressRegion\": \"WA\", \"postalCode\": \"98133\", \"streetAddress\": null}, \"latitude\": 47.60323, \"longitude\": -122.33028}, \"skills\": \"\", \"title\": \"AI/ML - Machine Learning Researcher, MIND\", \"validThrough\": \"2021-10-12T03:10:07.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

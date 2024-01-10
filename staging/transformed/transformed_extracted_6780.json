@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-02T05:58:53.000Z\", \"description\": \"<br><strong>Your challenges<br><br></strong><ul><li>Develop and execute experiments to validate, support and promote current products and new product development in bioprocess. </li><li>Present and analyze data in a clear, concise format and write drafts of application notes.</li><li>Provide training to Eppendorf employees and customers.</li><li>Work closely with others in the Bioprocess Business Unit to provide technical input.</li><li>Produce research reports, protocols, and application notes for internal and external publications.</li><li>Evaluate new technologies or products for potential integration into bioprocess product portfolio.</li><li>Evaluate novel and competitive cell culture and fermentation techniques and equipment findings.</li></ul> <br><strong>Your expertise<br><br></strong><ul><li>Ph.D. degree in Biology, Biochemistry, Bioprocess, Bioengineering or other related life science advanced degrees required.</li><li>2-6 years of experiences in mammalian cell culture and bacteria fermentation.</li><li>2-6 years of hands-on experiences working with bioreactors/fermentors in R&amp;D, PD, Applications lab or Bio pharmaceutical settings required. </li><li>Software programming experiences in Visual Basic required. Bioprocess engineering, bioreactor design and scale-up experiences desired</li></ul> <br><strong>Your benefits at Eppendorf<br><br></strong><ul><li>Competitive total rewards package including health, financial, and education benefits</li><li>Innovative and Collaborative company culture</li><li>Work in state of the art laboratory</li><li>Contribute to the improvement of the human living condition<br><br></li></ul><strong>Please note that we can only consider applications that are submitted online via our application management tool.<br></strong>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Eppendorf Group\", \"sameAs\": \"https://de.linkedin.com/company/eppendorf\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHMe9NOGnsBWA/company-logo_200_200/0/1620203987422?e=1638403200&v=beta&t=TYQPDQDfUrhNLcXg_eHZixBmTD5rvum4mhzPsDYkZw8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Eppendorf Group\", \"value\": \"f92d26147581aa85e34996e3bb093867\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHMe9NOGnsBWA/company-logo_100_100/0/1620203987422?e=1638403200&v=beta&t=rUv68f1omlgYYT7BodoW82OcmRT1-6Nw7oZ50WpO5MI\", \"industry\": \"Biotechnology\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Enfield\", \"addressRegion\": \"CT\", \"postalCode\": \"06083\", \"streetAddress\": null}, \"latitude\": 41.9765, \"longitude\": -72.59199}, \"skills\": \"\", \"title\": \"Research or Sr. Research Scientist, Bioprocess\", \"validThrough\": \"2021-10-02T05:58:53.000Z\", \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

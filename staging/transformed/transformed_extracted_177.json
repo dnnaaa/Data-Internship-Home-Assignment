@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-06-09T06:31:06.000Z\", \"description\": \"<strong>Job ID: TYA956947 <br><br></strong><strong>Job Title: Machine Learning Engineer <br><br></strong><strong>Duration: 12 Month<br><br></strong><strong>Location: Plano, TX<br><br></strong><strong>Company Background: </strong>Our client, a major employer in the area, is looking for a <strong>Machine Learning Engineer </strong>to be part of its team in its North American operations.<br><br><strong><u>Notes<br><br></u></strong><strong>Description:<br></strong><ul><li>Migrating to cloud AWS (EC2 and S3). Will work with Data Science team. Need to fill gap b/w Data Scientist and Engineers, transitioning from SAAS to Python.</li><li>Most of the data that team uses is in Snowflake repository.</li><li>Will work on Client Ops/DevOps Practices.</li><li>3-5 years exp, extensively hands-on individual</li><li>Needs to be an expert to pass on the knowledge to rest of the team on DevOps/MLOps Responsibilities:</li><li>Use statistical and machine learning techniques to create scalable analytics solutions within the auto finance space</li><li>Establish scalable, efficient, automated processes for large scale data analysis, model development, model validation and model implementation</li><li>Drive adoption of best practices across the Data Science organizations</li><li>Design and architect modular and reusable code both for use in experiments as well as production environments</li><li>Deliver production-ready code</li><li>Work with the broader Data Science to define the KPIs for machine learning projects</li><li>Provide technical/team guidance and training/mentorship</li><li>Stay abreast of developments in research methodology and changing technologies in the marketplace and proactively identify applications of these latest developments to improve existing methods</li><li>Prepare and present findings to both technical and non-technical audiences<br></li></ul><strong><u>Requirements<br><br></u></strong><strong>Qualifications:</strong><ul><li>BA/BS degree or equivalent experience in Computer Science, Information Technology or related disciplines</li><li>Experience with cloud-native architecture and container orchestration (particularly Docker and Kubernetes) preferred.</li><li>5+ years of production experience working in Data Science, Machine Learning or Software Engineering</li><li>Experience utilizing Github in the Machine Learning pipeline for best practice code management and collaboration</li><li>Solid production experience using Python (including NumPy), PySpark and SQL</li><li>Production experience with Apache Spark</li><li>Strong fundamentals in problem solving, algorithm design and complexity analysis</li><li>Hands-on experience with web APIs, CI/CD for Machine Learning </li><li>Experience implementing Machine Learning pipelines in production environments is a plus</li><li>Experience working with data science within the financial service space is a plus</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"AVA Consulting\", \"sameAs\": \"https://www.linkedin.com/company/ava-consulting\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQFzqibxl-lWFA/company-logo_200_200/0/1579332197971?e=1634169600&v=beta&t=19hyBM187EetT-j1-J7xR5zzOBVEDWhKgVr3lM5jQUo\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"AVA Consulting\", \"value\": \"417-21-00536\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQFzqibxl-lWFA/company-logo_100_100/0/1579332197971?e=1634169600&v=beta&t=dxXvvX4-_2DjEN9e6XMVZS4ey1gk3mIG4bQFtTjM1UQ\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Plano\", \"addressRegion\": \"TX\", \"postalCode\": \"75093\", \"streetAddress\": null}, \"latitude\": 33.019695, \"longitude\": -96.697586}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-03T06:31:06.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-16T00:00:42.000Z\", \"description\": \"<p>A leading tech company in Boston is looking for experienced Data Scientists to join their team. As a lead Data Scientist here, you will enhance customer experience and drive business. You will work on customer facing data problems and develop Machine Learning models put into production.<br><br></p><p> <br><br></p><p>You will:<br><br></p><p>Work across teams to drive algorithmic decision making<br><br></p><p>Build and extend Machine Learning frameworks for scalable model training and deployment<br><br></p><p>Serve as a technical leader for members of your team<br><br></p><p> <br><br></p><p>About you:<br><br></p><p>5+ years in industry as a Data Scientist, Machine Learning Engineer, or Software Developer<br><br></p><p>Advanced degree in a quantitative field<br><br></p><p>Strong Python programming<br><br></p><p>Ability to build and deploy advanced Machine Learning software<br><br></p><p>Strong communication skills - ability to communicate with business leaders<br><br></p><p>Interest in deploying machine learning models as a scalable service<br><br></p><p> <br><br></p><p>If this sounds like you, please apply to learn more! References will be collected upon contact<br><br></p><p>Sthree US is acting as an Employment Agency in relation to this vacancy.<br><br><br></p><p> <br><br></p><br><br><p><strong>EOE Statement: </strong>Specialist Staffing Group is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.<br><br></p><br><p> <br><br></p><br><p><span><em><strong>To find out more about Huxley please visit www.huxley.com<br><br></strong></em></span></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Huxley\", \"sameAs\": \"https://uk.linkedin.com/company/huxley\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGexwtPxXmR3g/company-logo_200_200/0/1623258305199?e=1634774400&v=beta&t=Q2tB66VSxpowy6HT2cGmIBNuP1q_ysXXmZy4DIo05Uw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Huxley\", \"value\": \"HA-33708301\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGexwtPxXmR3g/company-logo_100_100/0/1623258305199?e=1634774400&v=beta&t=is6_VGQ5mUzL-lN6V0iU6fWc7B09BYIn-aXZl34jOos\", \"industry\": \"Marketing and Advertising\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Boston\", \"addressRegion\": \"MA\", \"postalCode\": \"02118\", \"streetAddress\": null}, \"latitude\": 42.358994, \"longitude\": -71.05863}, \"skills\": \"\", \"title\": \"Machine Learning Engineer - Marketing\", \"validThrough\": \"2021-08-15T00:00:41.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

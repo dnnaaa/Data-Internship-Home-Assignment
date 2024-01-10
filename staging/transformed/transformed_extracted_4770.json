@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-19T17:24:00.000Z\", \"description\": \"<p>Modis is currently looking for a Data Scientist for a exciting opportunity in Michigan (remote to start)! This will be working in a fast paced enterprise environment, working with large data sets, and doing heavy modeling. The ideal candidate would have of 3+ years of data science <span>experience, have worked with customer insight analytics, and has worked on new model development utilizing Python and R.  </span> </p><p><br></p><p><strong>POSITION DESCRIPTION</strong>&nbsp;</p><ul><li>Build large-scale machine-learning models/pipelines</li><li>Maintain and enhance operational models through their lifecycle. </li><li>Developing metrics and reports to monitor model accuracy and evaluate performance</li><li><span>Translate complex quantitative analysis into business insights.</span></li><li>Collect data, perform statistical analysis, and present solutions to Product Owners/business customers. </li><li>Works hands on with tools such as Python, R, and SQL.</li><li>Define and create the next generation of data solutions.</li></ul><p><br></p><p><strong>TECHNICAL SKILLS DESIRED</strong></p><ul><li>3 - 5 years of Data Science experience&nbsp;</li><li>Predictive Modelling</li><li>Statistical analysis</li><li>Python</li><li>R</li><li>SQL</li><li>Bachelor\\u2019s degree in mathematics, data science, statistics, or computer science</li><li>Experience with GCP is a plus!</li></ul><p><br></p><p><strong>ADDITIONAL INFORMATION</strong></p><ul><li>Excellent compensation packages including Subsidized Medical Benefits, Paid Time Off and 401k</li><li>No Third-Party inquiries</li><li>This role can be remote to start - but will eventually need to be onsite in Michigan!</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Modis\", \"sameAs\": \"https://ch.linkedin.com/company/modis\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_200_200/0/1603190267070?e=1637798400&v=beta&t=4U0nP92bmqBHZBcVMYAh-mKaH2zBwXGiXgv-ozVlcss\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Modis\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_100_100/0/1603190267070?e=1637798400&v=beta&t=WOQIp9mbhJI6WJFXcuORZ4QqKWf8_deAW0S29CrjiGw\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Detroit Metropolitan Area\", \"addressRegion\": null, \"postalCode\": \"48215\", \"streetAddress\": null}, \"latitude\": 42.339054, \"longitude\": -83.04875}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-18T17:23:59.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

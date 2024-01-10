@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-01T07:53:52.000Z\", \"description\": \"Description:<br><p>We are hiring within our MSP (Managed Services Provider) Infrastructure team. As a MSP Network Engineer, you will be responsible for following established network designs, configuring and deploying networking technologies, addressing network support issues, and performing network maintenance tasks for both Intermax Networks and our MSP clientele. <br><br></p><p><br><br><br></p><p><strong>Roles and responsibilities</strong> <br><br></p><ul><li>Install, configure and maintain IT infrastructure for MSP clients including firewalls, switches, and wireless access points  </li><li>Network and Firewall administration supporting implementation of security policies and remediating conflicts </li><li>Coordination with system and application owners, schedule and apply rule changes, test and validate </li><li>Ensure system availability and reliability </li><li>Provide Level-2/3 support and troubleshooting to resolve issues </li><li>Working with third-party providers to keep the networks running efficiently </li></ul>.<br><br>Requirements:<br><ul><li>2+ years of experience in Routing and Network Engineering </li><li>Knowledge of infrastructure equipment and design to include firewalls, switches, Wireless Access Points and other networking technologies. </li><li>Ability to work well both individually and in a team </li><li>Proven hands-on experience </li><li>Excellent communication skills </li><li>WatchGuard and/or Ubiquiti product line experience a plus </li><li>Networking certifications such as WatchGuard, Cisco, Ubiquiti or CompTIA Network+ a plus.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Intermax Networks\", \"sameAs\": \"https://www.linkedin.com/company/intermaxnetworks\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQF1pCPTh6ea9w/company-logo_200_200/0/1581375486155?e=1635984000&v=beta&t=aUklWYUXdUhVWr3TRln5_BNmrTEJ_XMkwLMZZDusvws\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Intermax Networks\", \"value\": \"142750595\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQF1pCPTh6ea9w/company-logo_100_100/0/1581375486155?e=1635984000&v=beta&t=Hehzv4VJRECsNuYgQHgKZ1wlZJNNnI-fbfj-MIK93m8\", \"industry\": \"Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Coeur d'Alene\", \"addressRegion\": \"ID\", \"postalCode\": \"83814\", \"streetAddress\": null}, \"latitude\": 47.673344, \"longitude\": -116.77382}, \"skills\": \"\", \"title\": \"MSP Network Engineer\", \"validThrough\": \"2021-08-31T07:53:51.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

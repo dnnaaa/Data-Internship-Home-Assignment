@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:38:25.000Z\", \"description\": \"Seeking a Lead Data Scientist to lead a team of Data Scientists building new machine learning models which will help users achieve their health goals.<br><br>What You Will Be Doing<br><br>Collaborate with product teams to deliver solutions that enhance the customer experience and improve the efficiency of user acquisition.<br><br>Follow Agile methodology process to get tasks done.<br><br>Provide guidance to Data Scientists and ensure proper use of standard methodologies<br><br>Work with research and clinical teams to define the data requirements and the data collection protocols and ensure quality of the data being collected<br><br>Build and expand array of machine learning models using NLP, regression, classification, neural networks.<br><br>Responsible for the performance of data science products with a keen understanding of the levers to provide increased value.<br><br>Develop advanced algorithms that solve problems of large dimensionality in a computationally efficient and statistically effective manner<br><br>Drive R&amp;D on new models and evaluate business opportunities.<br><br>Establish roadmap to improve the scalability of data pipelines and modeling infrastructure.<br><br>What You Need for this Position<br><br>Masters Degree in Data Science, Statistics or a related field. PhD desired.<br><br>8+ years of experience in the field of data science or machine learning.<br><br>Proficient with code versioning tools such as Git.<br><br>Strong technical background and experience working with scalable data systems (Spark).<br><br>Proficient with SQL and data mining experience with Matlab, Python, R, Scala or other Big Data tools.<br><br>Strong understanding of machine learning algorithms and statistical methods.<br><br>Agile methodology and working with Scrum Teams.<br><br>Leveraging relational databases, manipulating data structures and analyzing complex data sets.<br><br>Hands-On building and optimizing data pipelines, developing data models and designing schemas.<br><br>Strong analytic skills related to working with unstructured datasets.<br><br>Proficient with code versioning tools such as Git.<br><br>Experience organizing and analyzing data collection from various sources.<br><br>Good communication skills, both verbal and written, and the ability to interface effectively with engineering and manufacturing personnel.<br><br>Knowledge of diabetes is a BIG PLUS.<br><br>For your hard work and dedication, earn a generous salary plus bonus and stock options along with a comprehensive benefits package including 401k and more...plus, join a organization who promotes within to build your career path.<br><br>Possible relocation assistance for an ideal candidate.<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Nyna.Goldberg@CyberCoders.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : NG-1641808 -- in the email subject line for your application to be considered.***<br></li></ul>Nyna Goldberg - Principal Recruiter - CyberCoders<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"CyberCoders\", \"sameAs\": \"https://www.linkedin.com/company/cybercoders\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQF7t9X4k2P2hA/company-logo_200_200/0/1625157716995?e=1637798400&v=beta&t=vV6uu6bR5MhySQMUsbtGc3zfCT-ZxJe_rUBbiFt9r9k\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"CyberCoders\", \"value\": \"NG-16418089\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQF7t9X4k2P2hA/company-logo_100_100/0/1625157716995?e=1637798400&v=beta&t=xxuUTVgbNmDCwlUqrSN5IcAh6ENLIFJOCfhrhs0_qQk\", \"industry\": \"Biotechnology\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Lake Forest\", \"addressRegion\": \"CA\", \"postalCode\": \"92609\", \"streetAddress\": null}, \"latitude\": 33.66746, \"longitude\": -117.6885}, \"skills\": \"\", \"title\": \"Lead Data Scientist\", \"validThrough\": \"2021-09-24T17:38:24.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 96}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

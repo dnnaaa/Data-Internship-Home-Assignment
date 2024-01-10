@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-28T19:36:31.000Z\", \"description\": \"<p>Analytica is seeking a <strong>Data Scientist</strong>&nbsp;to support long term federal client engagements  in financial regulatory or health projects in the DC Metro area.  The role will apply statistical programming, modeling, visualization techniques, data mining, and forecasting skills to analyze challenging public sector problems.&nbsp;<br><br>  Analytica has been recognized by <em>Inc.</em>&nbsp;for 3 consecutive years as one of the 250 fastest growing business.  We offer competitive compensation with opportunities for bonuses, employer paid health care, training and development funds, and 401k match. &nbsp;<br><br><strong><em>Responsibilities include:</em></strong>   </p><p><br> </p><ul><li>Be a key member of a highly collaborative, cross-functional team environment to design, develop, and deliver innovative, technical solutions using AI/ML and other data-driven methods.&nbsp; </li><li>Feature Engineering and Attribute Evaluation - identify the key determinants for modeling that exist in the business process and within existing data sets, as well as selecting evaluation protocols (model techniques) </li><li>Conduct pre-processing of data to collect, clean, and prepare data sets for input into a computational model using technologies such as Python or R </li><li>Select and applying modeling techniques to fit the business problem, including experience applying machine learning (ML) supervised and unsupervised learning, regression, neural networks and deep learning, natural language processing, etc. </li><li>Investigate, test, report, and validate model results with clients and colleagues&nbsp; </li><li>Present results of modeling activities to clients, depicting the insights realized, and explaining the relevance of their results to the organization\\u2019s business challenges </li><li>Participate as part of an agile team in daily stand-ups, release planning, retrospectives, and customer demos </li><li>Participate on solution design teams for&nbsp;responding to government requests for white papers, proposals and other content needs </li></ul><br><strong><em>Basic Qualifications:</em></strong><p><br> </p><ul><li>Bachelor's degree in Statistics, Mathematics, Physics, Computer Science, or another quantitative field; Master's degree or PhD a plus </li><li>Three (3)+ years in data science, data engineering, as a statistician, or a related quantitative field </li><li>Strong problem-solving skills, leveraging domain knowledge, information technology, and data science techniques </li><li>High degree of experience utilizing R, or Python to support the development of complex statistical use cases </li><li>Experience implementing unsupervised (e.g., clustering), semi-supervised (e.g., label propagation) and supervised learning (e.g., ensemble classifiers) algorithms, and when it is appropriate to use each is a strong plus </li><li>Experience querying data from relational databases using SQL </li><li>Experience with development of predictive analytics models </li><li>Experience working in an Agile project management environment </li><li>Must be a U.S. Citizen and be able to obtain and maintain a security clearance</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Analytica\", \"sameAs\": \"https://www.linkedin.com/company/analytica-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGPUdLEkFjuZw/company-logo_200_200/0/1519895589187?e=1638403200&v=beta&t=aNFcue0eJqcFskGNpQ7UlXlcILNojf_MqhyTgmSiJTI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Analytica\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGPUdLEkFjuZw/company-logo_100_100/0/1519895589187?e=1638403200&v=beta&t=dG5b9Xp0he-JBsab7llh5tK8Sa_j-HuNOuOutvtEACM\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Washington DC-Baltimore Area\", \"addressRegion\": null, \"postalCode\": \"21201\", \"streetAddress\": null}, \"latitude\": 38.873062, \"longitude\": -77.007385}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2022-02-24T19:35:24.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

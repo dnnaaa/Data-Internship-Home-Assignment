@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T16:52:48.000Z\", \"description\": \"<p><strong>Technology Startup. Opportunity to build a rocketship from scratch. Hiring Engineer #1</strong><strong><br></strong> </p><p><strong><br></strong> </p><p><strong>What you\\u2019ll do</strong> </p> <ul> <li>Full stack web/mobile application development with a variety of coding languages. </li> <li>Work closely with Product Manager to define feature specifications and build products leveraging frameworks such as React &amp; React Native. </li> <li>Create engaging UIs using performant and modern React. </li> <li>Build REST APIs </li> </ul> <p><br> </p> <p><strong>Required skills</strong> </p> <ul> <li>Bachelors in computer science or equivalent. </li> <li>You produce readable, high quality code. </li> <li>Highly technical with strong hands-on coding skills. </li> <li>Fluent in at least one backend web framework. </li> <li>Experience with React or a similar framework. </li> <li>Comfortable with SQL. </li> <li>You prize reliability, simplicity, and robustness in building out systems. </li> <li>You communicate clearly and listen well. </li> <li>You are a self-starter and comfortable taking on a variety of roles. </li> <li>Have a startup mentality: team player, self-motivated, high-integrity, pragmatic, resourceful, can execute under pressure. </li> </ul> <p><br> </p> <p><strong>Preferred Qualifications</strong> </p> <ul> <li>Masters in computer science or equivalent. </li> <li>Prior experience with distributed systems and high-throughput services. </li> <li>Knowledge of AWS or similar cloud services. </li> </ul> <p><br> </p> <p><strong>Location</strong> </p> <ul> <li>San Francisco </li> </ul><p><br> </p><p><strong>Compensation</strong> </p><ul><li>Salary + Bonus + Equity</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Startup\", \"sameAs\": \"https://www.linkedin.com/company/startup_5\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Startup\"}, \"image\": null, \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco Bay Area\", \"addressRegion\": null, \"postalCode\": \"94112\", \"streetAddress\": null}, \"latitude\": 37.39271, \"longitude\": -122.042}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2022-02-14T16:52:21.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 120000, \"maxValue\": 140000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

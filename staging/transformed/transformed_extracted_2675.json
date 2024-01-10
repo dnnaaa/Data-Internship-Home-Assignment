@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T18:35:21.000Z\", \"description\": \"Title : Site Reliability Engineer<br>Location : Seattle WA ( Remote )<br>Position type : Full time<br><br>Title : Site Reliability Engineer.<br>Position type  : Full time<br>Location : Seattle WA<br><br>Job description<br><br>Summary of Experience:<br> <br>- Coding and Operations experience (5+ years combined)<br>- Designing, supporting and deploying all types of applications and tools (2+ years)<br>- Support of CI\\\\CD Dev Tooling (2+ years)<br>- Operating complex, large-scale Enterprise applications or web sites (4+ years)<br>- Experience working in an environment that implemented Agile (2+ years)<br>- Ecommerce experience (2+ years)<br> <br>Required Knowledge, Skills, and Abilities:<br> <br>- Continuous delivery tooling <br>- Cloud Experience, preferably with AWS & Terraform<br>- Security experience: Akamai CDN & Bot Manager<br>- Keen understanding of branching, versioning and release strategies<br>- Scripting languages, such as Python, Bash, Perl<br>- Infrastructure as code: Terraform<br>- Hands on experience with Jenkins and artifact repository (Nexus) administration<br>- Experience with automating software tests in a pipeline<br>- Proven experience with ELK stack, New Relic, Netdata, Graphite, Grafana <br>- Commercial retail website architecture.<br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Cloudix Inc.\", \"sameAs\": \"https://www.linkedin.com/company/cloudix-cloudix\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFXFMY7yoBX8A/company-logo_200_200/0/1521640046549?e=1635984000&v=beta&t=_EvhIkHNPMcGPRnCWmQJsfwZzVPnn5AbQXU2BJDAy3M\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Cloudix Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFXFMY7yoBX8A/company-logo_100_100/0/1521640046549?e=1635984000&v=beta&t=DiAHiG4EKCifOJs-lONIqFVsr61mVYGp2Cs_veWgww4\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Seattle\", \"addressRegion\": \"WA\", \"postalCode\": \"98133\", \"streetAddress\": null}, \"latitude\": 47.60323, \"longitude\": -122.33028}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-04T18:35:21.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

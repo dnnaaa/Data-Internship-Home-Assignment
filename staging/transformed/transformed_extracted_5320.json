@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-23T06:38:14.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.  Apple delivers great features and great privacy to our users. The Privacy Engineering team works with teams all across the company to make sure that products and services protect user privacy by designing architectures that reduce the exposure of user data at all levels of the technology stack. We are looking for an outstanding candidate to become a member of the Apple User Privacy Team.<br><br> <br><strong>Key Qualifications<br></strong> <br>Passion for customer privacy<br><br>Ability to learn and research new technologies rapidly, assess privacy exposures, and suggest mitigations<br><br>Ability to analyze systems\\u2019 architectures for privacy impact<br><br>Programming experience<br><br>Ability to solve complex problems independently<br><br>Strong collaboration, communication, interpersonal, and organizational skills<br><br>Ability to track and manage numerous parallel activities<br><br>Ability to work in a fast-paced dynamic environment<br><br> <br><strong>Description<br></strong> <br>Privacy Engineers review features to identify privacy exposures and mitigate them, audit new products to identify and remediate bugs in development, review customer data collected by engineering teams to drive decisions, and work with teams to build new features to protect user privacy - from Wi-Fi MAC address randomization to Differential Privacy. <br><br><br>Successful candidates will need to have programming experience, superb communication skills, and a passion for protecting privacy. Creative problem solving, analytical, and deductive reasoning skills are critical for this position. You will be working on multiple unrelated systems each week, so the ability to learn quickly and an excitement for new things is a must.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BSCS or equivalent experience<br><br> <br>Role Number: 200244454<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1637798400&v=beta&t=Hwx38NQBVY5WqlaaQkpuyPvWwfFIBJZmreF3rfRFtqc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200244454_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1637798400&v=beta&t=nY8vaczit-Xem487Pv9WfACahg_xMvaKSm0Y_rGjX10\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Cupertino\", \"addressRegion\": \"CA\", \"postalCode\": \"95014\", \"streetAddress\": null}, \"latitude\": 37.319313, \"longitude\": -122.02927}, \"skills\": \"\", \"title\": \"Privacy Software Engineer\", \"validThrough\": \"2021-09-22T06:38:13.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 118000, \"maxValue\": 200000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

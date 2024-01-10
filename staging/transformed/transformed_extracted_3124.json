@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T12:56:27.000Z\", \"description\": \"<p><strong>Responsibilities:</strong></p><p><br></p><ul><li>Create actionable recommendations and put code into production effecting a large population with cutting edge technology. </li><li>Create Training models, evaluating them, making sure they are fit for purpose. </li><li>Deliver actionable recommendations </li><li> Find and interpret rich data sources; manage large amounts of data despite hardware, software, and bandwidth constraints; merge data sources; ensure consistency of data sets; create visualizations to aid in understanding data; build mathematical models using the data; and present and communicate the data insights/findings.&nbsp;</li></ul><p><br></p><p><br></p><p><strong>Requirements :</strong></p><p><br></p><ul><li> Knowledge and experience in building and analyzing linear regression, logistic regression, generalized linear models, and time series models </li><li> Experience in converting business problems into statistical problems, building models to solve the statistical problem, then use the models to develop business recommendations to solve the business problem </li><li> Knowledge of optimization techniques and application to business problems </li><li> Experience in pulling data from multiple sources, cleaning the data, and preparing the data for analysis </li><li> Experience in using a structure workflow in their problem solving </li><li> Experience in using Git to manage model versions </li><li> Experience with R and Python</li><li> Three plus years of applying the above in a business environment </li></ul><p><br></p><p><br></p><p>PriceSenz is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, or disability</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"PriceSenz\", \"sameAs\": \"https://www.linkedin.com/company/pricesenz\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGMi3VIbsLPHg/company-logo_200_200/0/1541909689815?e=1636588800&v=beta&t=Xu-yfx4lG9_FiqRs058WPCOp8tcnTWXFP5TK4u3ewaw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"PriceSenz\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGMi3VIbsLPHg/company-logo_100_100/0/1541909689815?e=1636588800&v=beta&t=YV3SysNr4wOjtlwMtUP-Pye1r5acEQe0n3jTSl85hB8\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-09T12:56:26.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

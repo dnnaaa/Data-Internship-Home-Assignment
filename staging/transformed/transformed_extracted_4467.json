@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T22:19:00.000Z\", \"description\": \"<strong><u>Job Description<br><br></u></strong><strong>Job Title: Software Engineer (C# / .NET)<br><br>Job Type: Direct-hire<br><br>Location: Remote<br><br><strong><u>Job Summary<br><br></u></strong>The Software Engineer analyzes user needs and uses various programming languages to develop, improve, test and/or maintain software that meets user needs. These responsibilities require this team member to take an active role in design and code reviews, assist with delivery estimates and provide feedback about all aspects of the process.<br><br><strong><u>Preferred Qualifications<br></u></strong><ul><li>A strong foundation in programming fundamentals, design patterns, data structures, object-oriented design principles, unit testing, and modern version control flows</li><li>2 years of development experience in a multilayered \\u201c n-tier\\u201d style architecture</li><li>Comfort with one or more of the following languages: C# (or other .NET language), JavaScript (either back-end, e.g., NodeJS, and/or front-end, such as Angular, React, or Vue), Java (or other JVM-based language), PHP, Python, Ruby, Progress, Erlang/Elixir, or others like these.</li><li>Experience working with some form of distributed technology like gRPC, GraphQL, or REST over HTTP.</li><li>Understanding of and experience working in a continuous integration and continuous delivery environment</li><li>Experience working with software automation frameworks to do functional testing</li><li>Experience developing applications in a cloud environment, such as AWS or Azure</li><li>Experience using DevOps-focused technologies, such as Docker, Terraform or CircleCI</li><li>Comfort working on the command line</li><li>Portfolio and code samples you can share</li><li>Experience working with functional programming</li><li>Willingness to learn new languages and technologies</li><li>Awareness to identify and pay off technical debt, as well as realizing and removing code smells early during development and code review<br></li></ul><strong><u>Responsibilities<br></u></strong><ul><li>Solve problems by crafting software solutions using maintainable, testable and modular code</li><li>Collaborate within a team by participating in code reviews, pairing sessions, architecture discussions and planning ceremonies</li><li>Write robust, testable code, along with unit, functional, acceptance and/or user tests to validate every change</li><li>Challenge your fellow team members to grow and enhance our team with new, diverse talent</li><li>Mentor interns and other software engineers to grow their technical skills<br></li></ul></strong>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Talution Group\", \"sameAs\": \"https://www.linkedin.com/company/talution-group\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFZoDl08GgbPw/company-logo_200_200/0/1609610297572?e=1637193600&v=beta&t=hcaNMbozO8Tw7t2MJ06jCPE-dP1nGnW3ujnrglSR9WA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Talution Group\", \"value\": \"14151\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFZoDl08GgbPw/company-logo_100_100/0/1609610297572?e=1637193600&v=beta&t=Am7alSbsG4yB4vDAwQL24mlq0XUMMo2KpT3EGiCqSzg\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Detroit\", \"addressRegion\": \"MI\", \"postalCode\": \"48242\", \"streetAddress\": null}, \"latitude\": 42.33294, \"longitude\": -83.04784}, \"skills\": \"\", \"title\": \"Software Engineer ( C#/.NET & Angular) - Direct-hire - REMOTE\", \"validThrough\": \"2021-09-17T22:18:59.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

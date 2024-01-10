@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T21:31:16.000Z\", \"description\": \"<strong>HealthTech start-up based out of Palo Alto, CA<br><br></strong>This Jobot Job is hosted by Christina Finster<br><br>Are you a fit? Easy Apply now by clicking the \\\"Apply\\\" button and sending us your resume.<br><br><strong>A Bit About Us<br><br></strong>Our client's mission is to provide Earth\\u2019s 7.3 billion citizens with control of their complete health information and give them the choice of sharing it with whomever they want.<br><br><strong><br><br><strong>Why join us?<br><br><br></strong></strong>Perks<br><br>On a mission to revolutionize healthcare<br><br>Culture of doers<br><br>Venture-backed, Series A equity<br><br>Generous Benefits, Discretionary Time Off<br><br><strong>Job Details<br><br></strong>In this role, you will be working with other data scientists and engineers to help build our unstructured data extraction pipeline. You will be responsible for leveraging the latest machine learning and natural language processing technology to structure and normalize data from medical records. The ideal candidate will have no issue digging into messy data, working with clinical subject matter experts to develop annotation guidelines to produce high-quality machine learning models.<br><br><strong>Requirements<br><br></strong>2+ years experience prototyping and deploying production NLP / Machine Learning models<br><br>3+ years experience with Python and solid software development skills<br><br>Familiarity with common NLP/ML frameworks (Spacy, Pytorch, TensorFlow, Keras)<br><br>Fluency in state-of-the-art machine learning techniques including Transformers, CNNs, RNNs to solve NLP tasks like Named Entity Recognition, Information Extraction, Named Entity Linking.<br><br>Excellent ability to communicate technical information to non-technical audiences<br><br>Only accepting US Based applicants at this time<br><br>Interested in hearing more? Easy Apply now by clicking the \\\"Apply\\\" button.<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Jobot\", \"sameAs\": \"https://www.linkedin.com/company/jobot\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_200_200/0/1620205047267?e=1637193600&v=beta&t=V1GBPNv9d1NRNqtG88yb3Xc24_LARjxsyCol_VNsbEc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Jobot\", \"value\": \"1466346110\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_100_100/0/1620205047267?e=1637193600&v=beta&t=GDNHFJhzPk5ex8M5xtkip-oDK2mNRDo7TsLAMpmMZGM\", \"industry\": \"Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Palo Alto\", \"addressRegion\": \"CA\", \"postalCode\": \"94310\", \"streetAddress\": null}, \"latitude\": 37.445103, \"longitude\": -122.16036}, \"skills\": \"\", \"title\": \"Data Scientist/Machine Learning Engineer, NLP\", \"validThrough\": \"2021-09-16T21:31:15.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

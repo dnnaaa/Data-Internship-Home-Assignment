@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-09T17:42:38.000Z\", \"description\": \"<p>We are a leader in penetration testing and attack surface management. NetSPI is constantly growing and looking for innovative minds to join us in helping some of the largest organizations in the world protect their technology and data from cyber criminals. if you thrive in a collaborative setting and enjoy working with best-in-class technology - we want to meet you!</p><p>The Software Engineer will be responsible for working on and supporting our Red Team Toolkit (Attack Simulation). Red Team Toolkit is an offensive security platform and tooling suite for red teamers and penetration testers.&nbsp;The toolkit enables teams to perform advanced network operations, collaborate on target exploitation, and better simulate sophisticated adversaries.</p><p><br></p><p>Responsibilities:</p><ul><li>Design, code, test and deploy application in an iterative development environment</li><li>Develop code that is scalable, robust, and bug-free</li><li>Deliver high quality technical solutions to stakeholders in a fast-paced environment</li><li>Development in accordance with industry standard and best practices</li><li>Identify and analyze user requirements and convert them into a feasible technical document</li><li>Work with a geographically distributed team of various experience levels</li></ul><p><br></p><p>Required Skills:</p><ul><li>4+ years of hands-on experience with C#/.NET</li><li>2+ years of experience using ASP.NET Core</li><li>2+ years of experience in consuming REST/SOAP services</li><li>2+ years of experience using React</li><li>1+ years of experience with relational/NoSQL databases</li><li>Bachelor\\u2019s degree in Computer Science</li></ul><p><br></p><p>Preferred Skills:</p><ul><li>Experience using Typescript</li><li>Experience using C++ and/or Win32 APIs</li><li>Experience using WPF/UWP/WinUI</li><li>Open-source contribution</li><li>Experience working in Agile team environment</li><li>Effective communication skills, both verbal and written</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"NetSPI\", \"sameAs\": \"https://www.linkedin.com/company/netspi\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQGuiTpCBWr0-A/company-logo_200_200/0/1519861200528?e=1634169600&v=beta&t=ih8k-g68BfzYMoUtjNN6IpQr08BGzB7qB0MUAl3qF9E\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"NetSPI\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQGuiTpCBWr0-A/company-logo_100_100/0/1519861200528?e=1634169600&v=beta&t=jOUZGJdiHV3cy-eAkNPCqUekDTSpm1IDaHjK7sru6mg\", \"industry\": \"Computer & Network Security\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Lehi\", \"addressRegion\": \"UT\", \"postalCode\": \"84043\", \"streetAddress\": null}, \"latitude\": 40.387875, \"longitude\": -111.84917}, \"skills\": \"\", \"title\": \"Software Engineer \", \"validThrough\": \"2021-08-08T17:42:37.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

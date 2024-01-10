@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-16T16:50:27.000Z\", \"description\": \"<p><strong>Role: Site Reliability Engineers (SRE)<br>Location: Johns Creek, GA</strong> </p><p><strong>Duration: Long Term contract <br>Client: Macys<br><br>Note: Need for Site Reliability Engineer with Good experience on DevOps on Cloud<br><br><br>Job Description:</strong> </p><ul><li>Design and deliver robust, scalable, and secure distributed software systems. </li><li>Create/review technical design documentation and Provide leadership including constructive code reviews and design guidance to team members. </li><li>Work collaboratively in a group of passionate developers in a high-energy, fast-paced, and outcome-oriented environment. </li><li>Lead a technical team by example and foster growth in junior team members. </li><li>Regular, dependable attendance and punctuality. </li></ul><p><br><strong><u>Qualifications and Competencies:</u></strong> </p><ul><li>Overall 8+ years of experience in software development and high-volume enterprise systems. </li><li>Must have Java in-depth knowledge - as well as an ability in mastering other tools of the trade, including a variety of modern programming languages as well as experienced in open-source web and data technologies (Spring Boot, NoSQL, Microservices, Cloud services (Google preferred)). </li><li>3+ years of experience in Building cloud-native applications in private &amp; public cloud (GCP preferred). </li><li>4+ years of experience with open source technology technologies in a high volume distributed environment. </li><li>Experience working in a DevOps-oriented culture that prioritizes continuous integration and continuous deployment. </li><li>Experience in multi-channel retail technologies preferred. </li><li>Ability to effectively share technical information, communicate technical issues and solutions to all levels of business </li><li>Able to juggle multiple projects - can identify primary and secondary objectives, prioritize time and communicate timeline to team members </li><li>Ability and desire to take product/project ownership </li><li>Ability to work a flexible schedule based on department and Company needs. </li></ul><p><strong><br></strong> </p><p><strong><br>Regards,</strong><br><strong><br>Kanakesh Kadali</strong><br><strong>Business Development Manager</strong><br><strong>371 Hoes Lane, Suite 200 Piscataway, NJ </strong><br><strong>Direct: 732 456 8493</strong> </p><p><strong>Email: Kanakesh@dotstechnologies.com</strong></p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Dots Technologies Inc\", \"sameAs\": \"https://www.linkedin.com/company/dots-technologies-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHHl9pS_2Oz0g/company-logo_200_200/0/1564518706245?e=1637193600&v=beta&t=Ypr8yb0_nE1f1X0iZkGxOuu_ZPNImJZ4r0_ek0uDlws\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Dots Technologies Inc\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHHl9pS_2Oz0g/company-logo_100_100/0/1564518706245?e=1637193600&v=beta&t=Q1NErnyeBzwbL2jD6qjuUOhpSTHLt73rzr5BPOYWnQk\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Johns Creek\", \"addressRegion\": \"GA\", \"postalCode\": \"30022\", \"streetAddress\": null}, \"latitude\": 34.041058, \"longitude\": -84.18782}, \"skills\": \"\", \"title\": \"Site Reliability Engineer / DevOps\", \"validThrough\": \"2022-02-12T16:49:56.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 96}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

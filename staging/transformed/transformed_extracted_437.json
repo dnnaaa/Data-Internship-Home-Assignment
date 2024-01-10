@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-12T00:00:00.000Z\", \"description\": \"<strong>Fully remote venture-backed company in the healthcare industry!<br><br></strong>This Jobot Job is hosted by Chelsea Anderson<br><br>Are you a fit? Easy Apply now by clicking the \\\"Apply\\\" button and sending us your resume.<br><br>Salary $175,000 - $200,000 per year<br><br><strong>A Bit About Us<br><br></strong>We are a venture-backed company based in California inventing predictive analytics for healthcare leveraging the power of Artificial Intelligence. Action-ready insights are returned to enterprise healthcare data analysts to enable more effective early-intervention strategies that lead to improved revenues, better patient outcomes and lower overall costs of healthcare delivery.<br><ul><li>From a programming language perspective, we use Python, Scala, and NodeJS.</li><li> For services and web applications, we use Flask (REST) and React with MySQL backends.</li><li>On the Data/Machine Learning side, we use a variety of big data technologies such as Airflow, </li><li>Big Query, Spark (DataProc), Google Cloud Storage, Google Pub/Sub, Cloud SQL, Tensorflow, KubeFlow, scikit-learn, XGBoost, Shap.</li><li>Google Cloud is our cloud partner. Our long-term strategy is to be multi-cloud.</li><li>Most of our infra is running on GKE and it\\u2019s managed via Terraform.<br></li></ul><strong><br><br><strong>Why join us?<br><br></strong></strong><ul><li>Discretionary PTO</li><li>401(k) Retirement Plan</li><li>Health + Vision + Dental Benefits</li><li>Employee Referral Program</li><li>Paid Parental Leave</li><li>Professional Development<br></li></ul><strong>Job Details<br></strong><ul><li>You have contributed to the delivery of complex applications spanning the full ML operational lifecycle.</li><li>You are organized and able to explain your work, your challenges, your solutions, and the nature of your questions</li><li>You like and appreciate the entrepreneurial environment of an early-stage start-up<br></li></ul>Your Background<br><ul><li>At least a BS in Computer Science or equivalent</li><li>5+ years of software engineering experience with Python, SQL and other modern programming languages.</li><li>3+ years as a software engineering</li><li>Hands-on engineering experience with modern software stacks, cloud-based DaaS and SaaS platforms, and architectures</li><li>Experience with modern development methodologies (Agile, Kanban, XP, etc.)</li><li>Experience supporting teams doing ML model prototyping, training and productionalization.</li><li>Experience with streaming and batch technologies such as Dask, Beam, Spark, etc.</li><li>Experience in healthcare informatics and data</li><li>Demonstrated technical project management skills</li><li>Experience managing teams</li><li>You are excited by the idea of using data to make the healthcare industry more efficient and effective.<br></li></ul>Interested in hearing more? Easy Apply now by clicking the \\\"Apply\\\" button.<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Jobot\", \"sameAs\": \"https://www.linkedin.com/company/jobot\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_200_200/0/1620205047267?e=1634169600&v=beta&t=vqsgxn-NaUXW27GWJmkl-5Wz_Zv-fUYG1VV2FgMQOmg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Jobot\", \"value\": \"132957155\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_100_100/0/1620205047267?e=1634169600&v=beta&t=nAmzm4PFRa9yDbVcAloNmqkLnfWLCzG2rQcdDcZfpBc\", \"industry\": \"Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Mateo\", \"addressRegion\": \"CA\", \"postalCode\": \"94406\", \"streetAddress\": null}, \"latitude\": 37.54715, \"longitude\": -122.3144}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2021-08-12T11:09:26.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

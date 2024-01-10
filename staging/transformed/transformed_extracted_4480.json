@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T19:58:35.000Z\", \"description\": \"<strong><u>Job Description<br><br></u></strong><strong>Position Title:</strong> Machine Learning Engineer<br><br><strong>Position Description:</strong> Protingent Staffing has an exciting Direct Hire opportunity with our client in Redmond, WA.<br><br><strong><u>Job Requirements<br></u></strong><ul><li>Design, develop, implement, and evaluate novel computer vision and machine learning algorithms as applied to Advanced Driver Assistant Systems (ADAS) and Autonomous Vehicles (AV).</li><li>Work on large-scale datasets, focusing on building scalable and accurate computer perception systems.</li><li>Design and implement algorithms for semantic segmentation, object classification, and object velocity estimation based on 3D point cloud data.</li><li>Perform training, tuning, and hyperparameter optimization on deep learning models suitable for implementation on edge devices.</li><li>Collaborate closely with team members on developing systems from prototyping to production level.</li><li>Work closely with software, firmware and RTL teams to implement efficient real-time algorithms realizable in edge devices in embedded software or directly on Silicon.<br></li></ul><strong><u>Job Qualifications<br></u></strong><ul><li>Experience in designing and applying efficient CV and ML algorithms for computer vision and/or computer perception applications.</li><li>Practical Computer Vision experience in areas of object detection, recognition, segmentation, 3D computer vision, and/or multi-object tracking.</li><li>Experience with Computer Vision frameworks, such as OpenCV, and Machine Learning frameworks, such as TensorFlow or PyTorch.</li><li>Fluent in C++ and Python.</li><li>Knowledge of digital filtering and 3D point cloud data conditioning for Computer Vision pipelines.<br></li></ul><strong>About Protingent:</strong> Protingent is a niche provider of top Engineering and IT talent to Software, Electronics, Medical Device, Telecom, and Aerospace companies nationwide. Protingent exists to make a positive impact and contribution to the lives of others as well as our community by providing relevant, rewarding, and exciting work opportunities for our candidates.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Protingent\", \"sameAs\": \"https://www.linkedin.com/company/protingent\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQE8b2DZldkjpA/company-logo_200_200/0/1622651343776?e=1637193600&v=beta&t=etyq8XEaGlo3toPRl3RB1NDhwIJ04CneOIPfgrsa-Fk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Protingent\", \"value\": \"23481\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQE8b2DZldkjpA/company-logo_100_100/0/1622651343776?e=1637193600&v=beta&t=g51M-h5096KwXCQa_PkGIkULO8gojdIJ5p0yscTcWAU\", \"industry\": \"Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Redmond\", \"addressRegion\": \"WA\", \"postalCode\": \"98073\", \"streetAddress\": null}, \"latitude\": 47.67491, \"longitude\": -122.12399}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-17T19:58:34.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

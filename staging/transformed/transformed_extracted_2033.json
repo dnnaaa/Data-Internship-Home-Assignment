@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-01T07:42:07.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish!<br><br><br>The people here at Apple don\\u2019t just create products \\u2014 they create the kind of wonder that\\u2019s revolutionized entire industries. It\\u2019s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.<br><br><br>The News Engineering team is looking for a highly qualified Sr. Software Engineer experienced with big data and large-scale analytics systems for our team\\u2019s substantial data analytics needs. This is an outstanding opportunity to join a focused team and work collaboratively with other groups to make a significant impact on our product.<br><br> <br><strong>Key Qualifications<br></strong> <br>5+ years of professional experience with Big Data systems, pipelines and data processing.<br><br>Proven experience using distributed computer frameworks on Hadoop, Spark, distributed SQL, and NoSQL query engines.<br><br>Able to setup large scale data pipeline and data monitoring system to make sure overall pipeline is healthy.<br><br>Willing to take ownership of pipeline and can communicate concisely and persuasively to a varied audience including data provider, engineering and analysts.<br><br>Ability to identify, prioritize, and answer the most critical areas where analytics and modeling will have a material impact.<br><br>Experience in stream data processing and real time analytics of data generated from user interaction with applications is a plus.<br><br>Experience building data pipelines and tools using Java<br><br>Understanding of design and development of large scale, high throughput and low latency applications is a plus<br><br>Aptitude to independently learn new technologies<br><br>Excellent verbal and written communication skills is required<br><br> <br><strong>Description<br></strong> <br>Our environment cultivates product innovation, rapid iteration, and a liberating amount of autonomy. As a specialist in developing software to manage large, complex data sets, you'll be building the platform for data ingestion, cleaning, transformation and evaluation to support a rapidly scaling organization. <br><br><br>As a Software Engineer passionate about Data Engineering, you will have significant responsibility building the direction of our data-informed News app. The team will rely on your expertise to guide our data warehousing and querying strategies. This role is inherently cross-functional and the ideal candidate will work across subject areas to execute on our purpose and identify opportunities and risks. <br><br><br>You must proactively engage in critical questions and evangelize the data team\\u2019s goals. In addition to data organization, you should also be inherently curious and perform deeper analysis into user engagement using your understanding of human behavior to provide actionable insights, identify trends, and measure performance for our team\\u2019s various audiences. Your efforts will transform big data into a product that our customers will enjoy using every day.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor's Degree in Computer Science, Engineering or equivalent technical field; Master's degree preferred.<br><br> <br>Role Number: 200213624<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1635984000&v=beta&t=_qTKbOd-TkufknBCb_DIlq8OrBpRXZnTOBNBF9UO0lI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200213624_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1635984000&v=beta&t=RvkvAk5PCHiS6xS7bkGmqsyaBrRBKiu4AsRPmwE6FBk\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Cupertino\", \"addressRegion\": \"CA\", \"postalCode\": \"95014\", \"streetAddress\": null}, \"latitude\": 37.319313, \"longitude\": -122.02927}, \"skills\": \"\", \"title\": \"Sr. Software Engineer - Data Engineering\", \"validThrough\": \"2021-08-31T07:42:06.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 159000, \"maxValue\": 202000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

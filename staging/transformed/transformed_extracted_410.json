@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-14T17:16:02.000Z\", \"description\": \"Squarespace is seeking talented JavaScript engineers with strong design sensibilities and a desire to create interfaces that are a pleasure to use.<br><br>The Frontend team at Squarespace is responsible for building one of the most advanced interfaces on the web. With it, our customers are able to easily create beautiful interactive websites and stores. If you are a Frontend Engineer who strives to push the envelope with what is possible in a web browser, we want to hear from you! This role will report to the Product Engineering Team Lead in our New York City headquarters.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Design and build new features into the Squarespace interface</li> <li>Collaborate with other engineers and designers to deliver strong customer-focused experiences</li> <li>Keep our product up to date with the latest frontend technologies such as React and ES2015+</li> <li>Practice disciplined software engineering (e.g. automated testing, code reviews, and writing beautiful, pragmatic code)</li> <li>Actively contribute to team and company standards</li> <br><br></ul><strong><u>Qualifications<br></u></strong><ul> <li>Proficient in JavaScript</li> <li>Have solid knowledge of the DOM, HTML and CSS3</li> <li>Have experience with Single Page Application development</li> <li>Keep up to date with the newest technologies</li> <li>Develop features and create fulfilling user experiences</li> <li>A strong understanding of, and practical experience with, web application development</li> <li>A sincere commitment to crafting readable and reliable code</li> <li>BS or MS in Computer Science or related or equivalent industry experience</li> <li>2+ years of industry experience </li> <br><br></ul><strong><u>About Squarespace<br><br></u></strong>Squarespace empowers people with creative ideas to succeed. By blending elegant design and sophisticated engineering, we empower millions of people \\u2014 from individuals and local artists to entrepreneurs shaping the world\\u2019s most iconic businesses \\u2014 to share their stories with the world. Squarespace\\u2019s team of more than 800 is headquartered in downtown New York City, with offices in Dublin, Los Angeles and Portland. For more information, visit www.squarespace.com/about.<br><br><strong>PERKS <br></strong><ul> <li>Health insurance with 100% premium covered for you and your dependent children</li> <li>Flexible vacation &amp; paid time off</li> <li>Up to 20 weeks of paid family leave</li> <li>Equity plan for all employees</li> <li>Retirement benefits with employer match</li> <li>Fertility and adoption benefits</li> <li>Free lunch and snacks at all offices</li> <li>Education reimbursement</li> <li>Dog-friendly workplace in New York office</li> <li>Commuter benefit in the form of reduced tax (Ireland) and pretax (US)</li> <br></ul><em>Today, more than a million people around the globe use Squarespace to share different perspectives and experiences with the world. Not only do we embrace and celebrate the diversity of our customer base, but we also strive for the same in our employees. At Squarespace, we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.</em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Squarespace\", \"sameAs\": \"https://www.linkedin.com/company/squarespace\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG8NTo0eQU3Qw/company-logo_200_200/0/1543808669254?e=1634169600&v=beta&t=t40TeQJjUDDJTJw-xKUqURv90vE2bbqSkSysZK4IF9g\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Squarespace\", \"value\": \"647332\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG8NTo0eQU3Qw/company-logo_100_100/0/1543808669254?e=1634169600&v=beta&t=xldw5W1gMFsY_-3H4qiDfaijJjMBAhpPJtff2Gklo-g\", \"industry\": \"Marketing and Advertising,Computer Software,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"NY\", \"postalCode\": \"10132\", \"streetAddress\": null}, \"latitude\": 40.713047, \"longitude\": -74.00723}, \"skills\": \"\", \"title\": \"Software Engineer - Frontend\", \"validThrough\": \"2021-08-13T17:16:02.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 107000, \"maxValue\": 158000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

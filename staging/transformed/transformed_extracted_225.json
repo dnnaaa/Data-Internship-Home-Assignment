@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-06-08T11:31:14.000Z\", \"description\": \"OM1 is on a mission to improve health outcomes by unlocking the power of data. We are a healthcare data and technology company focused on improving real world clinical data and outcomes, accelerating medical research and personalizing healthcare. Our interdisciplinary team uses expertise in medicine, software, Big Data, machine learning, public health and mathematics to transform records from a diverse set of sources into enriched, research grade data. This data allows us to generate unique insights in a variety of disease areas.<br><br>As a Data Engineer, you\\u2019ll build out and enhance big-data pipelines, code data-oriented product features, and analyze our complex data assets. The ideal candidate is a smart, creative, and curious analytical thinker who demonstrates strong software engineering skills and an excellent aptitude for data analysis. This is a key role within our Engineering team with responsibility for driving our high standards!<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Build, automate, and improve big-data pipelines</li> <li>Code, test and deliver data-oriented product features</li> <li>Integrate new data sources into our data asset</li> <li>Model, enhance and enrich database schemas and underlying data</li> <li>Craft scalable backend software and tools using modern software engineering practices</li> <li>Analyze and interpret data flows, attributes, and quality</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>Strong programming skills, preferably Python, Scala, Java, or similar</li> <li>Excellent SQL skills</li> <li>Solid understanding of software engineering principles</li> <li>Comfort working in an Agile/Scrum environment with continuous delivery</li> <li>A strong desire to advance healthcare and improve patient outcomes</li> <li>Excellent attention to detail</li> </ul>NICE TO HAVE<br><ul> <li>Familiarity with cloud-based platforms such as AWS, Databricks, and/or Snowflake DB</li> <li>Data processing experience with Python, Scala, Spark, and/or Airflow</li> <li>Automated unit and integration testing experience</li> <li>Experience with CI/CD tools such as Jenkins</li> <li>Background in medical records and health insurance claims</li> <li>Experience working on systems with strong security and privacy requirements</li> <br><br></ul>OM1 is an equal employment opportunity employer and considers qualified applicants without regard to gender, sexual orientation, gender identity, religion, race, veteran or disability status. At OM1 ensuring that people feel respected, valued, and included is essential to our success. We are committed to working together to provide a work environment that embraces the principles of diversity, equity, and inclusion.<br><br><strong>Direct applicants only - No agencies</strong>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"OM1, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/om1-inc.\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG_kmNkvaTLEA/company-logo_200_200/0/1625112108783?e=1634169600&v=beta&t=dMe2S0RuPWngdK0GmCvtbwxW2_4livO73OlzUAeF1vY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"OM1, Inc.\", \"value\": \"75A37EDD41\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG_kmNkvaTLEA/company-logo_100_100/0/1625112108783?e=1634169600&v=beta&t=yMSzsvlbeEOnox1oNULIT92HvDrfQDDwo1-Dp3PqRng\", \"industry\": \"Information Technology and Services,Computer Software,Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Boston\", \"addressRegion\": \"MA\", \"postalCode\": \"02118\", \"streetAddress\": null}, \"latitude\": 42.358994, \"longitude\": -71.05863}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2021-08-02T11:31:14.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 82700, \"maxValue\": 180300, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

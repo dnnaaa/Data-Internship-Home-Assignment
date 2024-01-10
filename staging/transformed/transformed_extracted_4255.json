@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T13:44:14.000Z\", \"description\": \"<p><strong>Force-X is seeking a Software Engineer for our client in Suwanee, GA. This is a full-time, Direct Hire position.</strong></p><p><br></p><p>QUALIFICATIONS:</p><ul><li>Requires at least 1 year relevant experience.</li><li>Must be a US person (US citizen or Green Card)</li><li>Adaptable, Flexible, Ability to Learn \\u2013 must be able to work with different architecture and software </li><li>Experience with creative problem-solving \\u2013 must be able to overcome obstacles with a unique perspective to benefit the team</li><li>Team Player \\u2013 must be able to accept a role in a team and work well together, sharing goals, effort, and not afraid to ask for assistance</li><li>Experience with C++ and C# programming.</li><li>Experience with 3D software development (Gaming, Simulation, or Commercial) \\u2013 experience in using modern 3D development software and understanding of engine-related optimization, limitation, and strengths.</li><li>Experience with object-oriented and component-oriented programming.</li><li>Experience with database management \\u2013 interfacing with a database to external software for handling large amounts of save/load, and data management</li><li>Experience of programing with 3rd party SDK and API \\u2013 utilizing 3rd party hardware and software</li><li>Experience with Unity \\u2013 as well as packages, C#, and prefab management</li></ul><p><br></p><p>EDUCATION:&nbsp;</p><ul><li>Engineering degree in computer science or relevant field</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Force-X\", \"sameAs\": \"https://www.linkedin.com/company/force-x\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGV5qAeZ2DlqQ/company-logo_200_200/0/1601822670477?e=1637193600&v=beta&t=2riwx4R5bPr-wmUWhrB68onNiILv_ds0FzpSpuBhMuc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Force-X\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGV5qAeZ2DlqQ/company-logo_100_100/0/1601822670477?e=1637193600&v=beta&t=ubezVagKJcX22-SxKQVz0f-2VzfxohKC8Qdej8W-3DE\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Suwanee\", \"addressRegion\": \"GA\", \"postalCode\": \"30024\", \"streetAddress\": null}, \"latitude\": 34.057514, \"longitude\": -84.0666}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-16T13:44:14.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

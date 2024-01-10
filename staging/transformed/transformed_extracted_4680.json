@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T00:21:39.000Z\", \"description\": \"<p><strong><u>** Multiple Roles - Immediate Interview &amp; Start **</u></strong></p><p><br></p><p><strong>W2 (Preferred). </strong></p><p><br></p><p><strong><u>TRAVEL INDUSTRY CLIENT (FORTUNE COMPANY)</u></strong></p><p><br></p><p><strong>Role:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android Software Engineer</strong></p><p><strong>Location:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irvine, CA (Remote till Covid)</strong></p><p><strong>Duration:&nbsp;&nbsp;&nbsp;&nbsp;Long Term Contract</strong></p><p><br></p><p><strong>Job Description:</strong></p><ul><li>Should have 4 - 6 years of experience</li><li>Should have good experience with Android</li><li>Good experience on Java, RxJava</li><li>Expertise required in Kotlin, RabbitMQ, MQTT</li><li>Must have worked in Junit, Git, Gradle</li><li>Ideal candidate would be responsible for leading development of Android-based passenger application for DFP\\u2019s In-Flight Entertainment system.</li><li>Must be a Team player</li><li>should have excellent written and verbal communication skill.</li></ul><p><br></p><p>If you are interested to pursue this opportunity, please send your updated resume to Sam@agiledatapro.com</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Agile Datapro\", \"sameAs\": \"https://www.linkedin.com/company/agile-datapro\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHD-jexUIaXWw/company-logo_200_200/0/1608918744467?e=1637798400&v=beta&t=bdrEsWbtta7-yL1HG7L3HI0ZwQ3LvJAak-7Fz0qlrJ8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Agile Datapro\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHD-jexUIaXWw/company-logo_100_100/0/1608918744467?e=1637798400&v=beta&t=HJiVEFSV9GVenVfnysWAgT0Iu10RCwSu2-nEVJkkthA\", \"industry\": \"Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Irvine\", \"addressRegion\": \"CA\", \"postalCode\": \"92717\", \"streetAddress\": null}, \"latitude\": 33.68591, \"longitude\": -117.82472}, \"skills\": \"\", \"title\": \"Android Software Engineer\", \"validThrough\": \"2021-09-19T00:21:37.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-06T14:09:32.000Z\", \"description\": \"<p>Are you interested in helping to transform the way people communicate?</p><p><br></p><p>Multimedia Solutions is a cutting-edge digital consulting firm focused on revolutionizing the way our Fortune 2000 clients reach their clients. As a Website Developer and Software Engineer, your responsibilities will include designing, developing, and maintaining software application components using C# (programming language), ASP.NET, AJAX, Model-View Controller (MVC), JQuery, Web Services, XML, XSD, XSLT, etc.</p><p><br></p><p>If you embrace a close-knit small business environment and want to have a big impact on the firm, our clients, and your career, please read on.</p><p><br></p><p><strong>&nbsp;Software Developer Benefits</strong></p><ul><li>Opportunity to work on web development projects for Fortune 2000 companies</li><li>Opportunity to work on the Multimedia Solutions Digital Experience platform vision</li><li>Work with the latest programming technologies on websites, mobile computing, content management, and social media</li><li>Competitive salary with benefits, bonus opportunities, and training.&nbsp;Plus, you get to work with really smart people</li><li>A culture founded on the principles of excellence, respect, accountability, integrity, enjoyment, and diversity</li><li>The exciting and ideal work environment of feeling part of a start-up but yet in a company with a solid 28-year reputation</li><li>Health and Dental Benefits</li><li>H1 Sponsorship</li><li>401K Plan</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>C#</li><li>.NET</li><li>ASP.NET</li><li>ASP.NET MVC</li><li>Razor</li><li>Umbraco CMS or&nbsp;other .NET based CMS exposure&nbsp;</li><li>JavaScript / AJAX</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Multimedia Solutions\", \"sameAs\": \"https://www.linkedin.com/company/multimedia-solutions\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHdOi_wH03h_Q/company-logo_200_200/0/1519856501316?e=1634169600&v=beta&t=lBN8ZSNIEdhK0ta0gBNaYf5N5BRuOUpztPs4I7-JLzU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Multimedia Solutions\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHdOi_wH03h_Q/company-logo_100_100/0/1519856501316?e=1634169600&v=beta&t=grCbYly2fsvL3Wg5dvo9lClTdgbxWhOc3_qqotvNAkI\", \"industry\": \"Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Edgewater\", \"addressRegion\": \"NJ\", \"postalCode\": \"07020\", \"streetAddress\": null}, \"latitude\": 40.828438, \"longitude\": -73.97255}, \"skills\": \"\", \"title\": \"Web Developer and Software Engineer - ASP.NET C#\", \"validThrough\": \"2021-08-05T14:09:31.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

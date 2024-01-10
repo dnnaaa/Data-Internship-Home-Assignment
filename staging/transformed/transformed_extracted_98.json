@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-09T20:15:59.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>The computer vision algorithm engineer will work in a small and dynamic team to design and implement cutting edge computer vision algorithms for Apple products.<br><br> <br><strong>Key Qualifications<br></strong> <br>Solid fundamental Computer Vision methods and concepts<br><br>Experience on computer vision shipping product development<br><br>Solid C/C++ development skills<br><br>Experience/knowledge in 3D graphics modeling (preferred)<br><br>Experience/knowledge in large scale Machine Learning and Pattern Recognition (preferred)<br><br>Experience/knowledge in software development on embedded platform (preferred)<br><br>Team player<br><br>Passion on cutting edge computer vision/machine learning technologies and product delivery<br><br>Self motivated<br><br>Excellent problem solving skills<br><br>Excellent communication skills<br><br>Can work under stress and uncertainty<br><br>Fast learner<br><br> <br><strong>Description<br></strong> <br>Video engineering group is looking for a computer vision algorithm engineer. In this position, you will work together with similar minds in a unique development team where your skills and expertise will be put into the Apple products.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>PhD in Computer Vision or similar, alternatively a comparable industry career, with significant experience in state-of-the-art Computer Vision, Machine Learning and Pattern Recognition fields.<br><br> <br>Role Number: 200171077<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1634169600&v=beta&t=Z75eh_Hzk0N021POgBkmPxcRjDNX_6dndjW9sIVsQO0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200171077_en-US\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1634169600&v=beta&t=bt-hDFnMm8oXxesFhp4-SQ3R3BGwRx5SXFQfkZvlmFM\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Cupertino\", \"addressRegion\": \"CA\", \"postalCode\": \"95014\", \"streetAddress\": null}, \"latitude\": 37.319313, \"longitude\": -122.02927}, \"skills\": \"\", \"title\": \"Computer Vision Algorithm Engineer\", \"validThrough\": \"2021-08-08T20:15:58.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 134000, \"maxValue\": 218000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

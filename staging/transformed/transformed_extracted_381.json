@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-14T17:00:49.000Z\", \"description\": \"<p>Are you a Lead-level Software Engineer looking for a <strong>hands-on</strong> role with a growing company? Are you currently working with <strong>Java on the back-end</strong> and <strong>modern JavaScript for UI </strong>Development? Would you like to work with the most cutting-edge technologies for up to <strong>$170K Salary, a 10% bonus and UNLIMITED PTO per year</strong>? </p><p>Then keep reading! </p><p>Our client is a unique and innovative organization who have a fantastic opportunity for a Lead Software Engineer to join their expanding team. You will be empowered to use your creativity and flair to make a real difference from your first day. </p><p>&nbsp;</p><p><strong>What you\\u2019ll need? </strong></p><ul><li>FULL STACK capability \\u2013 both front and back-end experience</li><li>Must be hands on with Java8</li><li>Worked with JavaScript in the last year</li><li>Experience with React and or Angular</li></ul><p>&nbsp;</p><p><strong>What you\\u2019ll get in return: </strong></p><ul><li>Up to $170K Salary</li><li>10% annual bonus \\u2013 for all your hard work</li><li>401K plan</li><li>Private healthcare plan</li><li>Company stock options available</li><li>Unlimited remote working</li><li>UNLIMITED PTO per year</li></ul><p>&nbsp;</p><p>&nbsp;</p><p><strong>What to do next? </strong></p><p>Apply directly via the link below or send me a message on LinkedIn! &nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Realtime Recruitment\", \"sameAs\": \"https://ie.linkedin.com/company/realtime-recruitment\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEWhUCdIsgPmQ/company-logo_200_200/0/1625476303595?e=1634169600&v=beta&t=epW5din0YxpMJlMvV08z_qgY3OZSqMgjSjaj_OGkB4U\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Realtime Recruitment\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEWhUCdIsgPmQ/company-logo_100_100/0/1625476303595?e=1634169600&v=beta&t=DMiRV40J9ScHz7JJFcPZW_skdoBkh6zK--76xm5ARBA\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Lead Software Engineer\", \"validThrough\": \"2021-08-13T17:00:48.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 150000, \"maxValue\": 170000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

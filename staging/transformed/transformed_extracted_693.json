@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-13T13:38:34.000Z\", \"description\": \"<strong><u>Description<br><br></u></strong>Associate Technology and Innovation (ATI) is a Customer Service organization enabling Amazon to become Earth\\u2019s most customer-centric company by efficiently building services, products and programs that deliver exceptional customer and employee experiences anywhere at scale. As a Data Scientist on the ATI Science team, you will have the opportunity to build and deploy game changing data science and machine learning solutions that deliver exceptional Associate experiences.<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> Bachelor\\u2019s degree in Statistics, Applied Math, Operations Research, Economics, Engineering or a related quantitative field with three years of working experience as a Data Scientist</li><li> Experience in SQL, R, Python, or another scripting language</li><li> Track record of diving into data to discover hidden patterns and of conducting error/deviation analysis.</li><li> Knowledge of various machine learning techniques and key parameters that affect their performance.</li><li> Excellent written and verbal communication skills for both technical and non-technical audiences.</li><li> Strong troubleshooting and problem-solving skills</li><li> Extensive knowledge and practical experience in one or more of the following areas: machine learning, statistics, NLP, deep learning<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Master\\u2019s degree in Statistics, Applied Math, Operations Research, Economics, Engineering or a related quantitative field</li><li> 5+ years of experience in data science<br><br></li></ul><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1603329\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Amazon\", \"sameAs\": \"https://www.linkedin.com/company/amazon\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_200_200/0/1612205615891?e=1634169600&v=beta&t=TKBjYTP53EfbTvsEjpzSSeJfSV9Coj7j3tu4Ds35GdM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Amazon\", \"value\": \"1603329\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_100_100/0/1612205615891?e=1634169600&v=beta&t=IaPf8XjA6gagnx7cprb8QkPl3YVJoBulF1Q6CYAofYM\", \"industry\": \"Computer Software,Information Technology and Services,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Seattle\", \"addressRegion\": \"WA\", \"postalCode\": \"98133\", \"streetAddress\": null}, \"latitude\": 47.60323, \"longitude\": -122.33028}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-08-21T13:34:05.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 110000, \"maxValue\": 150000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:31:26.000Z\", \"description\": \"<p><strong>AWS Data Developer</strong></p><p><strong>Location: McLean; VA (Fortune 500 client)</strong></p><p><strong><u>2 Days ONSITE after Pandemic</u></strong></p><p><strong>12 Months Contract</strong></p><p><br></p><p><strong><u>AWS Data Developer</u></strong></p><ul><li>We are migrating the legacy based platform into cloud Solution (Hadoop to AWS migration). Refactoring the Compute into AWS where we have Kubernetes container based solutions.</li><li>5+ years of experience in software development including design, coding, testing, and support</li><li>3+ years of Cloud infrastructure experience working with one or more of the following Amazon Web Services (AWS) Cloud services: EC2, EMR, ECS, S3, SNS, SQS, Cloud Formation, Cloud watch, Lambda</li><li>Hands-on experiences with Python and PySpark</li></ul><ol><li>Hadoop and AWS - must have hands-on experience with development, not administration.&nbsp;</li><li>Python is a must have with Spark/PySpark.&nbsp;</li><li>Kubernetes knowledge is nice to have</li></ol>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Technology Ventures\", \"sameAs\": \"https://www.linkedin.com/company/technology-ventures\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQFzMaw0qgMjMA/company-logo_200_200/0/1581037908348?e=1641427200&v=beta&t=F6qfPjUxBAkQ7dh_x6ylbTWXuGjSO9v6tORbasF22CI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Technology Ventures\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQFzMaw0qgMjMA/company-logo_100_100/0/1581037908348?e=1641427200&v=beta&t=i9vRRNm1wgTBg8sBYwbNbYAZLRnSnzkqs2jRSgGYnkE\", \"industry\": \"Information Technology and Services,Computer & Network Security,Information Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"McLean\", \"addressRegion\": \"VA\", \"postalCode\": \"22101\", \"streetAddress\": null}, \"latitude\": 38.93759, \"longitude\": -77.18378}, \"skills\": \"\", \"title\": \"AWS Data Engineer\", \"validThrough\": \"2021-11-04T17:31:25.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

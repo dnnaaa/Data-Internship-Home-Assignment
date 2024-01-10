@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T15:42:35.000Z\", \"description\": \"We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights. In this role, you should be highly analytical with a knack for analysis, math and statistics. Critical thinking and problem-solving skills are essential for interpreting data. We also want to see a passion for machine-learning and research. Your goal will be to help our company analyze trends to make better decisions.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Identify valuable data sources and automate collection processes</li><li>Undertake preprocessing of structured and unstructured data</li><li>Analyze large amounts of information to discover trends and patterns</li><li>Build predictive models and machine-learning algorithms</li><li>Combine models through ensemble modeling</li><li>Present information using data visualization techniques</li><li>Propose solutions and strategies to business challenges</li><li>Collaborate with engineering and product development teams<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Proven experience as a Data Scientist or Data Analyst</li><li>Experience in data mining</li><li>Understanding of machine-learning and operations research</li><li>Knowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset</li><li>Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)</li><li>Analytical mind and business acumen</li><li>Strong math skills (e.g. statistics, algebra)</li><li>Problem-solving aptitude</li><li>Excellent communication and presentation skills</li><li>BSc/BA in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred<br></li></ul><u><strong>Benefits<br></strong></u><ul><li>Health Care Plan (Medical, Dental &amp; Vision)</li><li>Paid Time Off (Vacation, Sick &amp; Public Holidays)</li><li>Training &amp; Development</li><li>Free Food &amp; Snacks</li><li>An amazing company that is GROWING QUICKLY!</li><li>You get to work with a fun/interesting group of people.</li><li>Real transparency into the rest of the company.</li><li>Complete ownership and accountability over the role and function area.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"WALTLabs.io\", \"sameAs\": \"https://www.linkedin.com/company/waltlabs\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQE6zSA9WHeD_A/company-logo_200_200/0/1600967881963?e=1637798400&v=beta&t=uT_lQh_UTH13IMnMQ00Rpubu1AmchT8YbW41F0IwtMQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"WALTLabs.io\", \"value\": \"E2FDBEDEA3\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQE6zSA9WHeD_A/company-logo_100_100/0/1600967881963?e=1637798400&v=beta&t=H4caCPLfrpcI2vf5J2a4EEisfq1vl3HTkdfF6l41148\", \"industry\": \"Marketing and Advertising,Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Spring\", \"addressRegion\": \"TX\", \"postalCode\": \"77387\", \"streetAddress\": null}, \"latitude\": 30.079731, \"longitude\": -95.41769}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-24T15:42:35.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 86500, \"maxValue\": 144000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

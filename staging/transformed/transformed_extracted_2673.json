@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-04T17:16:54.000Z\", \"description\": \"<p><strong>Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Site Reliability Engineer</strong></p><p><strong>Location:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hillsboro/Beaverton OR (100% Remote as well)</strong></p><p><strong>Duration:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12+ Months </strong></p><p><br></p><p><strong>Top Skills: AWS and Monitoring tools and Development experience in Nodejs</strong></p><p><strong>Job Description:</strong></p><p>As a site reliability engineer, you will be focused on maximum availability, observability, reliability, security, and performance for client Digital Experiences.</p><p><br></p><p>SREs perform deep problem analysis, detect infrastructure, or code defects, define, report, and create observability processes for Key Performance Indicators (KPIs), and work with product delivery teams to provide long term solutions to production issues.</p><p><br></p><p>We are looking for talented and passionate full stack developers with knowledge of datacentre infrastructure and cloud platforms who can bring the following:</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to observe, diagnose, and develop fixes for production issues quickly and efficiently </p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to develop and drive real time monitoring solutions that provide visibility into site health and key performance indicators</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong communication skills (written and verbal). They must be able to clearly articulate issues and their impact(s)</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Working understanding of IT service management (Incident, Problem, Change and Knowledge management)</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to work across teams (business and technical) to continuously analyse system performance in production, troubleshoot consumer reported issues, and proactively identify areas in need of optimization</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Practical experience in application reliability practices/production support for consumer facing web and/or mobile experiences or a strong technical skill set combined with a desire to learn</p><p><br></p><p>Qualifications/Skills</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor\\u2019s degree in Computer Science, Information Systems, Business, or other relevant subject area</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic understanding of DNS, Networking, Virtualization, Linux</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expertise in designing/building/supporting scalable cloud-based Micro Services preferred</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design and development experience with a modern language like Java preferred</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficiency with JavaScript on frontend (React, Angular, etc.) and backend (Node.js) components preferred</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in other modern enterprise languages (functional or other \\u2013 Scala, Python, Golang, etc.) is a plus</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with No-SQL databases like DynamoDB, Cassandra, etc. a plus</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good understanding of RESTful APIs </p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic understanding of common tools for service management, agile, and observability: ServiceNow, Jira, Jenkins, Splunk, New Relic, SignalFX</p><p>\\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Background with ITIL or Lean a plus</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Confidential\", \"sameAs\": \"https://in.linkedin.com/company/vidyaa-technologies\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQH-FKq0ackyew/company-logo_200_200/0/1594360958205?e=1635984000&v=beta&t=w4oG7kEKaCcthyYu0_PtLvfY2oqK6NSElNky6o7dpCk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Confidential\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQH-FKq0ackyew/company-logo_100_100/0/1594360958205?e=1635984000&v=beta&t=hs2Tog5WvfFTi35cENBmZFlMMyKGORLf7hCna4xv50E\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Beaverton\", \"addressRegion\": \"OR\", \"postalCode\": \"97007\", \"streetAddress\": null}, \"latitude\": 45.486595, \"longitude\": -122.795616}, \"skills\": \"\", \"title\": \"Site Reliability Engineer (Only W2)\", \"validThrough\": \"2021-09-03T17:16:54.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

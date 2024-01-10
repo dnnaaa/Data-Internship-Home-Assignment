@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-03T01:56:09.000Z\", \"description\": \"<strong><u>Preferred Qualifications<br></u></strong><ul><li>DevOps Experience</li><li> Public Cloud Experience (Microsoft Azure)</li><li>Container Concepts (Docker)</li><li>Orchestration (Kubernetes)</li><li>Source Control (GitHub, Bitbucket, Azure Repos etc)</li><li>Continuous Integration ( Azure Pipelines, Jenkins, Bamboo etc)</li><li>Continuous Deployment (Azure DevOps, Jenkins etc)</li><li>Experience with infrastructure automation tools (Terraform, Packer, Puppet, Ansible etc)</li><li>Scripting Experience (Python, Ruby, Bash, Shell, Node.js)</li><li>Security and Network awareness</li><li>Product Mindset</li><li>Learnability</li><li>Self Motivated</li><li>Experience in Agile methodologies</li><li>Experience working with global teams</li><li> Good communication &amp; interpersonal skills<br></li></ul><strong><u>Minimum Qualifications<br></u></strong><ul><li>5 years of IT industry experience with a Bachelor's/Master's Degree in Computer Science or equivalent</li><li>Strong Software Engineering Principles</li><li>Product Company Experience</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Resiliency LLC\", \"sameAs\": \"https://www.linkedin.com/company/resiliencyllc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQEB2lgNqSc_iA/company-logo_200_200/0/1589721683144?e=1635984000&v=beta&t=thn1fB3Z86LmzNwLfPcSyGXZm9CsbS0LGnmH14Qc0ZY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Resiliency LLC\", \"value\": \"db_37921fc127131ecba03a363b90e93bab__4327__1081__2021-08-02\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQEB2lgNqSc_iA/company-logo_100_100/0/1589721683144?e=1635984000&v=beta&t=9y2pHVGJKdyVKXdduRKG4HAes5voBGBobyTgYy8eZjc\", \"industry\": \"Internet,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Bruno\", \"addressRegion\": \"CA\", \"postalCode\": \"94067\", \"streetAddress\": null}, \"latitude\": 37.627277, \"longitude\": -122.416145}, \"skills\": \"\", \"title\": \"Site reliability Engineer\", \"validThrough\": \"2021-09-02T01:56:09.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

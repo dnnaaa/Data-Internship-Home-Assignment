@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-24T01:15:03.000Z\", \"description\": \"<p>We are seeking a Senior Software Engineer to help us build our data automation platform targeted at business users from the ground up using public cloud infrastructure and services. Your position requires hands-on development while collaborating with the team in driving the critical technical decisions and infrastructure needed to launch, support, and ramp the product in a fast-paced environment. You enjoy working closely with product and design to align on requirements and priorities to produce a best-in-class product experience. You have a thinker-doer mentality and can think broadly but deep dive into details and help shape the team culture.</p><p><br></p><p><u>Recommended Skills:</u></p><p><br></p><ul><li>Bachelor of Science degree, or equivalent experience with strong coding skills</li><li>Developed and shipped products using Javascript with frontend (React) and backend (Node.js) frameworks</li><li>Hands-on experience with using REST APIs, SQL / NoSQL databases, authentication services, web frameworks, and integrating with 3rd party applications.</li><li>Working Knowledge of cloud platforms, e.g., Azure, GCP or AWS</li><li>Able to confidently make technology decisions and back them up.</li><li>Understanding of scripting languages, e.g., JavaScript, Python, Go, PHP, etc.</li><li>Passion for delivering high-quality software by writing clean code and using test-driven development methodologies; you seek out the root cause when debugging software defects and champion improvements that prevent future issues.</li><li>Works across teams, have great attention to detail and exhibit excellent written and verbal communication skills.</li></ul><p><br></p><p><u>Benefits</u></p><p><u><span class=\\\"ql-cursor\\\"></span></u></p><ul><li>MacBook Air/Pro</li><li>Vision, dental, and medical plan choices</li><li>Flexible working hours</li><li>Competitive salary &amp; 401(K)</li><li>Flexible/Personal Time Off</li><li>Employee Stock Purchase Plans, and other financial benefits</li><li>Paid Holidays</li></ul><p><br></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Immersa\", \"sameAs\": \"https://www.linkedin.com/company/immersaco\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFRZ0VgjNo4WA/company-logo_200_200/0/1616950472799?e=1637798400&v=beta&t=ybxjlydLhrIj1JAwC2ApVShON1jqtX2JVUTFqfgtyto\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Immersa\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFRZ0VgjNo4WA/company-logo_100_100/0/1616950472799?e=1637798400&v=beta&t=o--ui0IaC8WizFD_f5imyV2jKm4P8-iYsbnwBmcW0IE\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Palo Alto\", \"addressRegion\": \"CA\", \"postalCode\": \"94310\", \"streetAddress\": null}, \"latitude\": 37.445103, \"longitude\": -122.16036}, \"skills\": \"\", \"title\": \"Senior Software Engineer\", \"validThrough\": \"2021-09-23T01:15:03.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

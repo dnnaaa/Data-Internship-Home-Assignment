@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T07:57:01.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>The AI/ML - Information Intelligence teams are creating groundbreaking technology for algorithmic search, machine learning, natural language processing, and artificial intelligence. The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Our universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will work with one of the most exciting high performance computing environments, with petabytes of data, millions of queries per second, and have an opportunity to imagine and build products that delight our customers every day.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience with one or more general purpose programming languages including but not limited to: Go, C/C++, Java or Python.<br><br>Experience with search engine, information retrieval, machine learning, NLP is a plus.<br><br>Experience working with large data sets and pipelines (e.g. MapReduce, Spark) is a plus<br><br>Excellent analytical and problem solving skills<br><br>Can write clean and effective code following modern software engineering best practices<br><br>Appetite to dig into data/logs and features to figure out why something does not work as expected<br><br>2+ years experience writing code which runs in containerized (Kubernetes/Mesos/Borg) environment a plus<br><br> <br><strong>Description<br></strong> <br>- Design and build infrastructures to support features that empowers billions of Apple users<br><br>- Perform language processing, statistical analysis, and query analysis to support your hypothesis for how to improve product-outcomes.<br><br>- Leverage proprietary MapReduce platform to process web scale data to deliver product features and improvements.<br><br>- Design &amp; run/deploy various metrics and evaluations of features/improvements using a variety of tools like grading, logs processing, pre-launch and holdback A/Bs.<br><br>- Present results of analysis to team and leadership across Apple.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS in Computer Science, Mathematics, Statistics, or a related field, or equivalent proven experience. Masters/PhD preferred.<br><br> <br>Role Number: 200224378<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1636588800&v=beta&t=TBgLFdE65ONXxYa-jBaUFYtuImVHxEZlt-klhRBHri8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200224378_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1636588800&v=beta&t=MiEZ3awFiAz9q1YcTehSapjjXRo3o8IX5MDjHbDPHtk\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Seattle\", \"addressRegion\": \"WA\", \"postalCode\": \"98133\", \"streetAddress\": null}, \"latitude\": 47.60323, \"longitude\": -122.33028}, \"skills\": \"\", \"title\": \"AI/ML- Machine Learning Engineer, Information Intelligence\", \"validThrough\": \"2021-09-09T07:57:00.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

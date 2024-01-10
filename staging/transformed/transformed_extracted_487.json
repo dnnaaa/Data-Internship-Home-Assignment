@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-13T16:22:04.000Z\", \"description\": \"<p>Our client is looking for a <strong>Machine Learning Engineer</strong> to help them build and automate Chatbots for their SaaS product customer support.</p><p><br></p><p>Title: Machine Learning Engineer</p><p><br></p><p><strong>Key Skills:</strong></p><p>-2+ years of NLP experience (i.e. text classification, keyphrase extraction)</p><p>-5+ years of overall engineering experience</p><p>-&nbsp;Solid Java Spring Boot knowledge for REST API integration</p><p>-CI/CD configuration</p><p></p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"K2 Partnering Solutions\", \"sameAs\": \"https://uk.linkedin.com/company/k2-partnering-solutions\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQHptLFEOi1gXA/company-logo_200_200/0/1546510865409?e=1634169600&v=beta&t=SBVf4AcT604qISb0bEuHdIPTpHFvB7MToMcHU5RDmOc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"K2 Partnering Solutions\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQHptLFEOi1gXA/company-logo_100_100/0/1546510865409?e=1634169600&v=beta&t=ukTzWYW27lnhBcBfDbMW34YLcIGs5ooHdqkH9db8qT0\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-12T16:22:04.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

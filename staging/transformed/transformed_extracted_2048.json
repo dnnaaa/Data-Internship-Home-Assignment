@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-01T07:47:37.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>As an engineer in the System Firmware and Diagnostics Team, you will be part of a team building hardware-on-demand infrastructure and tools for use by developers across Apple. We build a product that enables remote development, control and testing of new hardware. We also develop tools for enhancing developer workflows, and automation pipelines for product development.<br><br> <br><strong>Key Qualifications<br></strong> <br>At least 5+ years hands-on experience in Continuous Integration and/or infrastructure engineering/DevOps<br><br>Excellent Python/ bash, and scripting fundamentals<br><br>Experience with cloud platforms such as AWS, GCE, Azure, or similar<br><br>Experience with infrastructure-as-code tools such as Ansible, Chef, Terraform, or CloudFormation<br><br>Experience with containerization and cluster management technologies like Docker and Kubernetes<br><br>Knowledge of build/release processes and CI/CD systems such as Jenkins<br><br><br>Great To Haves:<br><br>Experience working in an agile software development lifecycle<br><br>Experience with physical hardware lifecycle projects.\\u00a0(Proto, EVT, DVT, and PVT)<br><br>Experience working within lab environments<br><br>Experience managing external vendors is a huge plus.<br><br>Experience with Git<br><br>Experience with languages, tools, and frameworks for embedded systems and embedded systems testing is great to have (Make, gcc or clang tool chain, cunit, google test, clang static analysis, cppcheck, gcov, etc.)<br><br> <br><strong>Description<br></strong> <br>Working on core technologies you'll have the opportunity to make a major impact in the way that Apple develops, tests and manufactures all of its products. Our environment fosters product innovation, rapid product iteration and a liberating amount of autonomy.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>B.S. or higher in Computer Science, Computer Engineering or equivalent experience<br><br> <br>Role Number: 200265895<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1635984000&v=beta&t=_qTKbOd-TkufknBCb_DIlq8OrBpRXZnTOBNBF9UO0lI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200265895_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1635984000&v=beta&t=RvkvAk5PCHiS6xS7bkGmqsyaBrRBKiu4AsRPmwE6FBk\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Cupertino\", \"addressRegion\": \"CA\", \"postalCode\": \"95014\", \"streetAddress\": null}, \"latitude\": 37.319313, \"longitude\": -122.02927}, \"skills\": \"\", \"title\": \"Dev Ops Engineer\", \"validThrough\": \"2021-08-31T07:47:36.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 94100, \"maxValue\": 190000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

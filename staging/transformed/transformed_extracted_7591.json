@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:39:19.000Z\", \"description\": \"<p><strong>Role: ServiceNow Developer</strong></p><p><strong>Location: 100% Remote</strong></p><p><strong>Contract Duration: 6 Months</strong></p><p><br></p><p><strong>Requirements:</strong></p><ul><li>Experienced ServiceNow developers</li><li>Ability to create complex workflows using flow designer</li><li>Ability to create forms with automation fulfillment</li><li>Strong knowledge and understanding of ServiceNow data model and tables, especially for incident, change and CMDB</li><li>Knowledge of SN APIs</li><li>Network, server, or INF knowledge and experience is a \\u2018plus\\u2019 but not required</li></ul><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Replace work order templates using flow designer</li><li>Develop forms (including documentation)</li><li>Consult and help in development of the appropriate rest API to replace the ~100 automations across FI that use BMC ticket API</li><li>Consult other citizen developers with guardrails and solutions</li></ul><p></p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Metasys Technologies, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/metasys-technologies-inc-\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGWA8x2JJ9CPw/company-logo_200_200/0/1563295048359?e=1641427200&v=beta&t=GFJJ1PkyHbUAQRBRYNms2gEf01DVvO562VCsl17_jPg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Metasys Technologies, Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGWA8x2JJ9CPw/company-logo_100_100/0/1563295048359?e=1641427200&v=beta&t=HWkkU5_rm1WM92vFdBZpTHifccBThYMZbOvR-qdcqek\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Atlanta\", \"addressRegion\": \"GA\", \"postalCode\": \"30355\", \"streetAddress\": null}, \"latitude\": 33.748547, \"longitude\": -84.3915}, \"skills\": \"\", \"title\": \"Servicenow Developer\", \"validThrough\": \"2021-11-04T17:39:18.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

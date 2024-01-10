@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-06-18T15:02:50.000Z\", \"description\": \"Mackin is looking for an Operations Research Scientist to work within a larger Analytics &amp; Technology-focused group to deliver innovative insights and solutions for our partners. The ideal candidate has a scientific mindset; has expertise in operations research methods and models; applies a pragmatic approach to building solutions; and enjoys collaborating within a dynamic, global team.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Apply your expertise in Operations Research, Data Science, and Data Mining to lead analytics projects to inform business operations in programs such as Transportation, Real Estate and Culinary</li><li>Build models related to shuttle planning, inventory control systems, capacity planning, and location analytics</li><li>Define, optimize and set the constraints for one or more business metrics<br></li></ul><strong><u>Minimum Qualifications<br></u></strong><ul><li>Degree in a quantitative field (e.g., Operations Research, Computer Science, Quantitative Finance) or equivalent experience</li><li>Experience in communicating model results to leadership and cross-functional team members</li><li>Familiarity with classical operations research problems, such as network optimization, facility location, routing, scheduling</li><li>Familiarity with algorithms and optimization using solvers such as CPLEX/Gurobi/Xpress or related tools</li><li>Strong foundation in statistics, probability, &amp; algorithms (e.g., hypothesis testing, regression, stochastic modeling, Markov Chains)</li><li>Proficient in SQL, including some experience with distributed data platforms such as Spark, Presto, Hive</li><li>At least 4 years of relevant experience (academic experience also considered)<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Advanced degree in a quantitative field with experience in Operations Research</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Mackin Talent\", \"sameAs\": \"https://www.linkedin.com/company/mackintalent\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQH0JoTSikzpxw/company-logo_200_200/0/1564762400416?e=1634169600&v=beta&t=y6gYr8sjZNQwIkV07xJJfLK7sjzQFSaj4xxYYiU_P4Q\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Mackin Talent\", \"value\": \"qfMaVfwQ-os5Qffwm\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQH0JoTSikzpxw/company-logo_100_100/0/1564762400416?e=1634169600&v=beta&t=BIhacVVgN3E3R8aGk12H57iQmqCpJLXV-aAFdehiwrM\", \"industry\": \"Environmental Services,Information Technology and Services,Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Seattle\", \"addressRegion\": \"WA\", \"postalCode\": \"98133\", \"streetAddress\": null}, \"latitude\": 47.60323, \"longitude\": -122.33028}, \"skills\": \"\", \"title\": \"Data Scientist - Operations Research\", \"validThrough\": \"2021-08-12T15:02:50.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

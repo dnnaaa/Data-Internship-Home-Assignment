@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-12T03:52:54.000Z\", \"description\": \"<strong>Designation/Position Name<br><br></strong>Software Engineer<br><br><strong>Number of Vacancies<br><br></strong>1<br><br><strong>Client Name <br><br></strong>Johnson &amp; Johnson Services, Inc<br><br><strong>Mode of Hire (TP/FTE/Either)<br><br></strong>TP<br><br><strong><u>Customer Interview Required (Yes/No)<br><br></u></strong>Yes<br><br><strong>Job Title <br><br></strong>Associate/Contractor<br><br><strong><u>Job Description<br><br></u></strong>(Define At least 6 points which candidate is supposed to do)<br><br>Experience: 3 to 5yrs<br><br>Familiar with J&amp;J Vision products<br><br>Need to work with systems group, perform calibration, run work flows, measure if any signals<br><br>Go through systems error logs and should be able to understand issues<br><br>Embedded systems understanding including SW, HW and FW<br><br>Should be quick learner and flexible in working<br><br><strong><u>Key Skills And Competencies Required<br><br></u></strong>Actively participate among cross-functional teams to ensure projects are delivered on time and to required quality standards.<br><br>Strong analytical and problem-solving skills<br><br>Ability to organize, plan and execute multiple tasks to tight schedules<br><br>Highly motivated self-starter<br><br>Ability to document own work clearly and precisely<br><br>Excellent communication skills<br><br><strong><u>Education And Experience<br><br></u></strong>Bachelor Degree in Engineering, Computer Science or equivalent degree<br><br><strong>Positions based at (Client location with Zip code)<br><br></strong><strong>Johnson and Johnson Vision <br><br></strong>510 Cottonwood Dr, Milpitas, CA 95035<br><br><strong>Work Authorization (Citizen/GC/H1B/Either)<br><br></strong>Either<br><br><strong><u>Mandatory Skills<br><br></u></strong>Technical / Soft Skills<br><br>Expertise Level (Expert / Good / Knowledge)<br><br>Remarks<br><br>C++<br><br>Good<br><br>Embedded Knowledge<br><br>Good<br><br>Communication skills<br><br>Good<br><br>SDLC<br><br>Good<br><br><em>Thanks &amp; Have a great Day.<br><br></em><strong>Akash Kumar<br><br></strong>Technical Recruiter<br><br><strong>SoftHQ Inc<br><br></strong>Consulting Development Staffing<br><br>Cell Phone: (858) 381-9275<br><br>Office Desk: 858-295-4434 x 653<br><br>9:30 AM 5:30 PM (EST) | Mon - Fri<br><br>E-mail: k.akash@softhq.com<br><br>Website: http://www.softhq.com\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"SoftHQ Inc\", \"sameAs\": \"https://www.linkedin.com/company/softhq-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQH2Wntx8NeBSg/company-logo_200_200/0/1543584847985?e=1639612800&v=beta&t=u2jfRsCqDfKL0-Mguk75Hq7YOkxk3BSAYRiVmR9F1qw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"SoftHQ Inc\", \"value\": \"2450020242\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQH2Wntx8NeBSg/company-logo_100_100/0/1543584847985?e=1639612800&v=beta&t=BwAKXmRNPKQUEt0APBbArxRR4nMF7HvD7HlWFotVzQs\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"California\", \"addressRegion\": \"United States\", \"postalCode\": \"93266\", \"streetAddress\": null}, \"latitude\": 37.254673, \"longitude\": -119.61728}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-12T03:52:54.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

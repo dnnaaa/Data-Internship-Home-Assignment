@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-27T18:08:24.000Z\", \"description\": \"<p><strong>ML Research Engineer</strong></p><p>LOCATION: San Francisco, CA, US&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p><br></p><p>Full Time</p><p><strong>ABOUT the role</strong></p><p>In this role you\\u2019ll work with our researchers to do cutting-edge deep learning research\\u2014conducting experiments, creating infrastructure, and developing tooling &amp; visualizations\\u2014with the goal of developing more human-like machine intelligence.</p><p><strong>Example projects</strong></p><ul><li>Implement a self-supervised network using contrastive and reconstruction losses.</li><li>Create a library on top of PyTorch to enable efficient network architecture search.</li><li>Implement networks from newly published papers.</li><li>Run massively parallel experiments to understand all variants of an architecture.</li><li>Develop more realistic simulations for training our agents.</li><li>Create visualizations to help us deeply understand what our networks learn and why.</li></ul><p><strong>Benefits:</strong></p><ul><li>Work directly on creating software with human-like intelligence.</li><li>Generous compensation, equity, and benefits.</li><li>$20K+ yearly budget for self-improvement: coaching, courses, conferences, etc.</li><li>Actively co-create and participate in a positive, intentional team culture.</li><li>Spend time learning, reading papers, and deeply understanding prior work.</li><li>Frequent team events, dinners, off-sites, and hanging out.</li></ul><p><strong>ABOUT you</strong></p><ul><li>Passionate about understanding the fundamentals of intelligence.</li><li>Very comfortable writing Python.</li><li>Excited to be a world-class ML engineer.</li><li>A fan of pair programming.</li><li>Passionate about engineering best practices.</li></ul><p>&nbsp;</p><p>&nbsp;</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Jabient Inc\", \"sameAs\": \"https://www.linkedin.com/company/jabientinc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Jabient Inc\"}, \"image\": null, \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco Bay Area\", \"addressRegion\": null, \"postalCode\": \"94112\", \"streetAddress\": null}, \"latitude\": 37.39271, \"longitude\": -122.042}, \"skills\": \"\", \"title\": \"Machine Learning research Engineer\", \"validThrough\": \"2021-09-26T18:08:22.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

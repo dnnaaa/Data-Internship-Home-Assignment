@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-13T15:03:58.000Z\", \"description\": \"<p>The Data Scientist will be joining a team of extremely passionate data scientists, product managers, and engineers who share a common interest in tackling some of the most difficult data science and machine learning problems today. The Data Scientist will be responsible for designing and building data products that provide intelligence on real-estate metrics and systems for improving the quality and information density from third party data sources.</p><p><br></p><p>With the data products and machine learning systems you design, Markerr will arm influential decision-makers at leading real estate investment organizations with critical information they need to make smart, data-driven decisions. Along the way, you will help advance the current work in artificial intelligence and predictive modeling, having the opportunity to design major parts of the process for creating and improving data science pipelines. Our technologies and data power the insights for financial services and corporations.</p><p><br></p><p>The compensation package includes a competitive salary and incentive structure, generous benefits, and valuable business experiences, challenges, and excitement of contributing to the success of a fast-growing technology startup company.</p><p><br></p><p>Ideal candidates are those who are excited by big data challenges and enjoy using new technologies to make large data sets feel small.</p><p><br></p><p>This position reports to the Director of Engineering.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Identify the best ML framework and Algorithms for data products&nbsp;</li><li>Test and incubate new models</li><li>Measure model drift and accuracy</li><li>Create model design specifications for engineers to deploy into production&nbsp;</li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li>Masters in Data Science or Comparable Experience&nbsp;</li><li>2+ years experience building and deploying ML models</li><li>Fluency in technical skills</li><li>Fluent in SQL and at least one programming language used with ML</li><li>Results driven attitude with a strong desire to build data platforms that enable Markerr\\u2019s insights across a massive and diverse set of data</li><li>Flexibility and willingness to adapt to the changing demands of a fast-paced, startup environment</li><li>Highly self-motivated and results oriented</li><li>Strong written and verbal English communication skills&nbsp;</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Markerr\", \"sameAs\": \"https://www.linkedin.com/company/markerr\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHjHxu1PMt4Kw/company-logo_200_200/0/1616694405288?e=1642636800&v=beta&t=dwIib5eoiZrDCtJjyF5vklwlMgaqb7OCzA0-wrh4too\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Markerr\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHjHxu1PMt4Kw/company-logo_100_100/0/1616694405288?e=1642636800&v=beta&t=IBt8xPkLRiHUjdNyLRrzUcKjDsLRRBcjBdiPDVBue08\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York City Metropolitan Area\", \"addressRegion\": null, \"postalCode\": \"10021\", \"streetAddress\": null}, \"latitude\": 40.748295, \"longitude\": -73.98556}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2022-04-11T15:03:46.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

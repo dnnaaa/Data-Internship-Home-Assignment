@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T21:45:02.000Z\", \"description\": \"<p><strong>AI \\u2013 Machine Learning Engineer </strong></p><p><strong>New York, New York</strong></p><p><strong>$150,000 - $160,000 </strong></p><p>You will be working with a rapidly growing, financially stable health-tech start-up. They are leaders in their industry and are at an exciting point in their growth, with data science at the heart of everything they do. They have high funding and over 5 million patients. They are looking for an experienced Data Scientist who has a strong background in Bayesian statistics and machine learning.</p><p>&nbsp;</p><p><strong>THE ROLE</strong></p><p><strong>As the Senior Data Scientist, you will be required to:</strong></p><ul><li>Work with a variety of healthcare data, including healthcare provider profile data, longitudinal claims data, to quantify the relationship between healthcare quality and patient outcomes, costs, and care patterns.</li><li>Apply techniques to assess clinical questions, including the implementation of interpretable machine learning methods</li><li>Innovate, extend, and confirm models and methods for causal analysis and outcome prediction. </li><li>Collaborate with data science team members and other colleagues on data analysis and research projects.</li><li>Share the results of analysis and research projects to stakeholders.</li><li>Prepare and contribute material for academic publication and present in scientific conferences.</li></ul><p>&nbsp;</p><p><strong>YOUR SKILLS AND EXPERIENCE</strong></p><p><strong>The successful Senior Data Scientist will have the following skills and experience:</strong></p><ul><li>Ph.D. or M.S. in statistics, biostatistics, healthcare economics, applied math, epidemiology, computer science, or a related field.</li><li>Experience with random forests, ensemble techniques, supervised and unsupervised learning</li><li>Exposure to causal inference methods such as propensity score matching, and weighting is a plus.</li><li>Experience with Python and/or R.</li><li>Experience developing code that is leveraged by a wider team and/or contributing to a collaborative code base.</li><li>Strong communicator with excellent ability to work in a team environment.</li><li>Experience working with real-world medical data or claims data.</li><li>Excited to learn new techniques and work at the intersection of machine learning and causal inference.</li></ul><p>&nbsp;</p><p><strong>KEYWORDS</strong></p><p>NLP |&nbsp;Engineering&nbsp;| Natural Language Processing | Machine Learning | Deep Learning | Data Science |&nbsp;Healthcare&nbsp;|&nbsp;Software Engineering&nbsp;| Natural Language Understanding&nbsp;| Natural Language Generation&nbsp;</p><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Harnham\", \"sameAs\": \"https://uk.linkedin.com/company/harnham\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHt86OmH1iEJg/company-logo_200_200/0/1625151775226?e=1637193600&v=beta&t=Z9TdcQYDg9WUOr9SFcuOjLmK6N-lQhv1xVCANfU-Urw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Harnham\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHt86OmH1iEJg/company-logo_100_100/0/1625151775226?e=1637193600&v=beta&t=dJd2Waeb7B9ahzovMf4x80Eu-F3c-4WntKrMwuJYtlo\", \"industry\": \"Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York City Metropolitan Area\", \"addressRegion\": null, \"postalCode\": \"10021\", \"streetAddress\": null}, \"latitude\": 40.748295, \"longitude\": -73.98556}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-17T21:45:01.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 150000, \"maxValue\": 160000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

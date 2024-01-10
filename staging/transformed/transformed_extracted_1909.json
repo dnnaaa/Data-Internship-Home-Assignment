@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-31T07:32:50.000Z\", \"description\": \"If you are a Remote Sr. Software Engineer - Go or Java, React with experience, please read on!<br><br>Top Reasons to Work with Us<br><br>4.7/5 Stars on Glassdoor<br>Fantastic culture of growth collaboration<br>Great technologies<br>Mission driven<br>Competitive salary &amp; benefits<br>Remote!<br><br>What You Will Be Doing<br><br>Design software apps and features in Golang, React and React-native<br><br>Implement solutions quickly and efficiently<br><br>Lead by demonstrating good coding practices<br><br>Build testing and reporting features throughout the process to deliver great quality and easily maintainable software<br><br>Collaborate &amp; Coordinate with product, data, revenue and company stakeholders to design market winning products<br><br>Develop and collect metrics to drive continuous improvement of existing products<br><br>As needed, mentor/lead small developer teams, providing mentorship and fostering a culture of growth for junior developers<br><br>What You Need for this Position<br><ul><li> Go</li><li> Java</li><li> applications</li><li> SQL</li><li> Golang</li><li> REACT<br></li></ul>So, if you are a Remote Sr. Software Engineer - Go or Java, React with experience, please apply today!<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Maria.Reyes@CyberCoders.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : MR7-1639176 -- in the email subject line for your application to be considered.***<br></li></ul>Maria Reyes - Executive Recruiter - CyberCoders<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"CyberCoders\", \"sameAs\": \"https://www.linkedin.com/company/cybercoders\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQF7t9X4k2P2hA/company-logo_200_200/0/1625157716995?e=1635984000&v=beta&t=yZTfBQ14ngTtEVxsbGml0D4AY-JsPl4Ec5fBiyIqewA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"CyberCoders\", \"value\": \"MR7-16391767\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQF7t9X4k2P2hA/company-logo_100_100/0/1625157716995?e=1635984000&v=beta&t=U9bUdh8sDRXodqR9jrxKHpojhJ7rvTUfzXBThV4rKzs\", \"industry\": \"Accounting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Washington\", \"addressRegion\": \"DC\", \"postalCode\": \"20398\", \"streetAddress\": null}, \"latitude\": 38.892063, \"longitude\": -77.01991}, \"skills\": \"\", \"title\": \"Remote Sr. Software Engineer - Go or Java, React\", \"validThrough\": \"2021-08-30T07:32:48.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

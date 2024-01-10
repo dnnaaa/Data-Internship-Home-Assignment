@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-23T06:12:03.000Z\", \"description\": \"<p>As a Software Engineer, you will work with a premier team developing and deploying new technologies on a next-generation satellite network. </p><p><br></p><p>The groundbreaking satellite network is redefining what is possible with satellite-based internet service requiring you to innovate, design, and develop in the world of secure software-defined satellite communication.</p><p><br></p><p>Viasat\\u2019s unique position as a service provider and equipment manufacturer allows you to experience the whole life cycle of networking software development \\u2013 all the way from design to deployment.</p><p><br></p><p><strong>Requirements</strong></p><ul><li>5+ years of software engineering experience with coding and debugging skills in C, and C++ on Linux</li><li>Experience with encryption and authentication software</li><li>Experience with OpenSSL crypto libraries</li><li>Experience with bash and Python scripting in Linux</li><li>Possess a DevOps approach</li><li>Up to 20% travel to Carlsbad, CA if not currently in the area</li></ul><p><br></p><p><strong>Preferences</strong></p><ul><li>Deep knowledge of OS features like Multi-threading, synchronization, memory management, and networking on Linux or Linux-like Operating systems</li><li>Experience with Linux device driver design, development, and test, in addition to kernel crypto module</li><li>Experience with implementing REST APIs and working with JSON (preferably in C or C++)</li><li>Experience configuring/debugging embedded HTTP(S) servers</li><li>Background in data structures and algorithm design</li><li>Proficient in software development tools, source code control environment</li><li>Experience designing and implementing networking protocols at the phy, mac, transport, and application layers</li><li>Experience working in an Agile / Scrum development environment</li><li>Experience with modern updates to the C++ language (C++14)</li><li>Experience with ARM53 CPUs</li><li>Experience with ARM TrustZone</li><li>Experience with TLS protocols</li></ul><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Viasat Inc.\", \"sameAs\": \"https://www.linkedin.com/company/viasat\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFPl6ySOS2Z8Q/company-logo_200_200/0/1534885395845?e=1637798400&v=beta&t=OdBIIvyJLIf8mCaemSFnWKMh9-8dpZJNlVdqKyAzkHI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Viasat Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFPl6ySOS2Z8Q/company-logo_100_100/0/1534885395845?e=1637798400&v=beta&t=GGSf0T2Om6IFPF9jZnxDX1BKUhoK68DpeB1uu2ua5jE\", \"industry\": \"Telecommunications\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Jose\", \"addressRegion\": \"CA\", \"postalCode\": \"95148\", \"streetAddress\": null}, \"latitude\": 37.334793, \"longitude\": -121.888145}, \"skills\": \"\", \"title\": \"Embedded Software Engineer\", \"validThrough\": \"2021-09-22T06:12:03.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

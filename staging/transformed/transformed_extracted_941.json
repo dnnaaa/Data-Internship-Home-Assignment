@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-20T02:05:34.000Z\", \"description\": \"<strong>Software Engineer - Java / Python - Fully Remote<br><br></strong>Our client is looking for an individual to augment our Engineering team working on our cybersecurity reporting and analytics platform. Day to day work will involve feature development and will require coordination with other remote team members.<br><br><strong><u>Required Skills<br></u></strong><ul><li> Experience working as part of an Agile team with experience in SCRUM or Kanban.</li><li> Experience with github</li><li> Extensive development experience with Python and Java.</li><li> Knowledge of bash scripting required.</li><li> Knowledge of Linux operating systems (CENTOS preferred)</li><li> Experience working with AWS in SaaS environment a plus</li><li> Database development experience a plus.</li><li> Docker/kubernetes experience a plus.</li><li> Splunk experience a plus.<br></li></ul>5+ years development experience <ul><li></li><ul><li>Strong communication ability and collaborative skills </li><li>Flexible and can-do attitude <br></li></ul></ul>ehire.com/jobs<br><br>A Human Approach to Staffing<br><br><em>Our Company is committed to the principles of equal employment. We are committed to complying with all federal, state, and local laws providing equal employment opportunities, and all other employment laws and regulations. It is our intent to maintain a work environment which is free of harassment, discrimination, or retaliation because of sex, gender, race, religion, color, national origin, physical or mental disability, genetic information, marital status, age, sexual orientation, gender identity, military service, veteran status, or any other status protected by federal, state, or local laws. The Company is dedicated to the fulfillment of this policy in regard to all aspects of employment, including but not limited to recruiting, hiring, placement, transfer, training, promotion, rates of pay, and other compensation, termination, and all other terms, conditions, and privileges of employment.<br><br></em>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"eHire\", \"sameAs\": \"https://www.linkedin.com/company/ehire\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQH72LaAkax4sA/company-logo_200_200/0/1519952386744?e=1634774400&v=beta&t=w4JKVqzPZRBOz2kYoOPhysd0dFbUeNdaMA0vQmM9B0s\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"eHire\", \"value\": \"6889\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQH72LaAkax4sA/company-logo_100_100/0/1519952386744?e=1634774400&v=beta&t=r_PPUotwvki6NzfYAB3mCDQxGTMsmXyk2rPso_e0sUs\", \"industry\": \"Information Technology and Services,Computer Software,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Alpharetta\", \"addressRegion\": \"GA\", \"postalCode\": \"30022\", \"streetAddress\": null}, \"latitude\": 34.075615, \"longitude\": -84.29455}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-08-19T02:05:33.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

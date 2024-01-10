@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-24T01:39:35.000Z\", \"description\": \"<p><strong>SRE/</strong>DevOps consultant</p><p><strong>NYC</strong></p><p><strong>&nbsp;</strong></p><p><strong>Required Qualifications:</strong></p><ul><li>4-5 years of work experience year work experience in a DevOps or Site Reliability Engineer role.</li><li>Good working knowledge in production/application support</li><li>Good with OOP concepts and Python programming/scripting</li><li>Strong Computer Science fundamentals in Data Structures, Algorithms, Complexity Analysis, Object-Oriented Design and Designing Large Scale Data-Intensive Applications.</li><li>4+ years industry experience in Expert Knowledge in Linux, Python, Shell, JavaScript, MongoDB, Elasticsearch, Redis</li><li>Comfortable multi-tasking, managing multiple stakeholders and working as part of a team</li></ul><p>&nbsp;</p><p><strong>Preferred Qualifications:</strong></p><ul><li>Experience in ELK Stack (Elasticsearch, Logstash, Kibana) or Prometheus + Grafana</li><li>Experience with continuous deployment/delivery practices</li><li>AWS Certifications such as Solution Architect, DevOps Engineer</li><li>Experience with Container technologies like Docker, Kubernetes</li><li>Experience with cloud computing systems</li><li>Networking including TCP, HTTP, DNS, SSL certificates</li><li>Knowledge of Slang/SecDB is a plus</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Zentek  Infosoft \", \"sameAs\": \"https://www.linkedin.com/company/zentekinfosoft\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQEYrRsyh92JNQ/company-logo_200_200/0/1569585076259?e=1637798400&v=beta&t=Egwxmp_TjsqJrcpIQ8GwJdF-7y8XbQpybvbBmg--C-I\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Zentek  Infosoft \"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQEYrRsyh92JNQ/company-logo_100_100/0/1569585076259?e=1637798400&v=beta&t=NYJwqNCNvuPLebzqxgtivBnr46Wm2w9DOlgBIlrdsTQ\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"United States\", \"postalCode\": \"13856\", \"streetAddress\": null}, \"latitude\": 42.93923, \"longitude\": -75.62005}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-23T01:39:35.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

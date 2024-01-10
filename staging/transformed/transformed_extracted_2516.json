@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-04T08:18:44.000Z\", \"description\": \"<strong><u>Duties<br><br></u></strong><strong>Job Description:<br></strong><ul><li>You will join the department of AI/Client within Research Biology.</li><li>You will collaborate with scientists working on different areas of machine learning and the life sciences.</li><li>You will closely collaborate with machine learning scientists, computational chemists and bioinformaticians across departments in the organization.</li><li>You will develop and deploy deep learning methods for representation learning of small molecules and prediction of chemical properties.</li><li>The work will also involve software development, infrastructure and hardware optimizations, data pipelining, and innovations to implement robust AI solutions for real world use cases.<br></li></ul><strong><u>Skills<br></u></strong><ul><li>Demonstrated experience with deep learning frameworks and models (PyTorch is preferred).</li><li>Proficient in Python.</li><li>Demonstrated experience in software development, GPU acceleration, model optimization and scaling for multiple server nodes.</li><li>Excellent communication and collaboration skills.<br></li></ul><strong><u>Education<br></u></strong><ul><li>MSc or PhD degree in a quantitative field (e.g. Computer Science, Computational Chemistry, Machine Learning, Statistics, Mathematics, Physics).</li><li>Industry experience as data scientist or Client engineer in a healthcare company.</li><li>Experience in deep learning for graph-based and/or sequence-based data.</li><li>Experience in deep learning for small molecules.</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"PamTen Inc\", \"sameAs\": \"https://www.linkedin.com/company/pamteninc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQFXGdU_NYFMng/company-logo_200_200/0/1582031116197?e=1635984000&v=beta&t=9RgcKoesfYS8qy2wiOE2H3WB4rHBPVVylP8GVG2bBOw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"PamTen Inc\", \"value\": \"1514-21-01832\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQFXGdU_NYFMng/company-logo_100_100/0/1582031116197?e=1635984000&v=beta&t=qPFEEOftZ9yajQMrENFhA3xHFmggKVKbEB4AQCgFhUU\", \"industry\": \"Semiconductors,Telecommunications,Medical Devices\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"South San Francisco\", \"addressRegion\": \"CA\", \"postalCode\": \"94083\", \"streetAddress\": null}, \"latitude\": 37.65568, \"longitude\": -122.41248}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-03T08:18:44.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

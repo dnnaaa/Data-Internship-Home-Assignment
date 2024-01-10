@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-13T12:07:26.000Z\", \"description\": \"<strong>Best company to work for in the Triangle, hands down!<br><br></strong>This Jobot Job is hosted by Craig Rosecrans<br><br>Are you a fit? Easy Apply now by clicking the \\\"Apply\\\" button and sending us your resume.<br><br>Salary $100,000 - $185,000 per year<br><br><strong>A Bit About Us<br><br></strong>Jobot is seeking a Machine Learning Engineer who will be part of a team that leads the way in bringing artificial intelligence and machine learning into the very processes and systems that impact how customers are served. This is an exciting opportunity to make an impact with by leveraging AI and ML techniques to create production level systems through application of machine learning models.<br><br><strong><br><br><strong>Why join us?<br><br><br></strong></strong>We are the fastest growing startup in NC &amp; are known for our incredibly tight knit culture. We love what we do &amp; believe in empowering our people to be as creative and entrepreneurial as humanly possible! We are looking for a Senior Machine Learning Engineer to join our talented team of Engineers and Scientists.<br><br><strong>Job Details<br><br></strong><strong>Responsibilities<br></strong><ul><li> Designing and developing ML models</li><li> Working individually and part of a team to improve currently models and implement new techniques.</li><li> Offer technical recommendations on improvements across processes<br></li></ul><strong>Qualifications<br></strong><ul><li> Masters' or PhD in Computer Science or similar discipline</li><li> 4+ years' commercial experience</li><li> Strong experience within Machine Learning</li><li> Experience in at least 1-2 of the following Deep Learning, Computer Vision, NLP</li><li> Programming Python, Java<br></li></ul>Interested in hearing more? Easy Apply now by clicking the \\\"Apply\\\" button.<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Jobot\", \"sameAs\": \"https://www.linkedin.com/company/jobot\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_200_200/0/1620205047267?e=1634774400&v=beta&t=SWLbt-DskTrc-NGMwg-eZBDVsGywoO2KI3s4VTgQGLk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Jobot\", \"value\": \"184225877\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_100_100/0/1620205047267?e=1634774400&v=beta&t=uGleIY8dfzpOnJ8q4D8w7jQqZttzIruYDtlkSHzDaag\", \"industry\": \"Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Durham\", \"addressRegion\": \"NC\", \"postalCode\": \"27717\", \"streetAddress\": null}, \"latitude\": 35.99695, \"longitude\": -78.899025}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-12T12:07:25.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

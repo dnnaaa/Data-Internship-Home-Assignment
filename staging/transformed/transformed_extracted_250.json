@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-06-13T12:02:25.000Z\", \"description\": \"A global Conversational AI technology company is offering a solutions platform that is fueled by AI and automation technologies. The companies vision is to bridge the gap between people and machines through voice.<br><br>They\\u2019re looking for a world class Data Scientist who is interested in working on the next generation of \\u201cgoal driven conversational models\\u201d. The ideal candidate understands the fast pace of the start-up environment and is not intimidated to work on topics that are at the frontier of the research. The candidate will work as an individual contributor but it is expected to collaborate and sync up with the other members of the Data Science team.<br><br><strong><u>Required Skills &amp; Experience<br></u></strong><ul> <li>3+ years of experience in the field of machine learning with a focus in NLP/NLU</li> <li>Knowledge of Pytorch, Tensorflow, or any related deep learning technology</li> <li>PhD in Computer Science or related field</li> <br></ul>What You Will Be Doing<br><br>Tech Breakdown<br><ul> <li>50% Tensorflow</li> <li>50% Pytorch</li> <br></ul>Daily Responsibilities<br><ul> <li>70% Hands on Coding</li> <li>30% Team Collaboration</li> <br></ul>The Offer<br><ul> <li>Competitive Salary: Up to $200-225K/year, DOE</li> <br><br></ul><strong><u>You Will Receive The Following Benefits<br></u></strong><ul> <li>Catered lunch everyday as well as snacks/drinks</li> <li>Full Medical, Dental, and Vision insurance</li> <li>Flexible Spending Account (FSA)</li> <li>41k Matching</li> <li>Pre-tax commuter benefits </li> <li>Generous PTO</li> <li>Weekly team outings, happy hours, events</li> <br><br></ul>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future. *NO Visa Sponsorship or C2C at this time*<br><br>A global Conversational AI technology company is offering a solutions platform that is fueled by AI and automation technologies. The companies vision is to bridge the gap between people and machines through voice.<br><br>They\\u2019re looking for a world class Data Scientist who is interested in working on the next generation of \\u201cgoal driven conversational models\\u201d. The ideal candidate understands the fast pace of the start-up environment and is not intimidated to work on topics that are at the frontier of the research. The candidate will work as an individual contributor but it is expected to collaborate and sync up with the other members of the Data Science team.<br><br><strong><u>You Will Receive The Following Benefits<br></u></strong><ul> <li>Catered lunch everyday as well as snacks/drinks</li> <li>Full Medical, Dental, and Vision insurance</li> <li>Flexible Spending Account (FSA)</li> <li>41k Matching</li> <li>Pre-tax commuter benefits </li> <li>Generous PTO</li> <li>Weekly team outings, happy hours, events</li> <br><br></ul>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future. *NO Visa Sponsorship or C2C at this time*<br><br><strong>Posted By:</strong> Breann Gonzalez<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Motion Recruitment\", \"sameAs\": \"https://www.linkedin.com/company/motion-recruitment-partners\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQGqjQc1SZPCaA/company-logo_200_200/0/1622562866599?e=1634169600&v=beta&t=TqP4ohM5TRk1BV2qUfT1dLeL0BlCotoIa1NCt0uCuCE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Motion Recruitment\", \"value\": \"461589\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQGqjQc1SZPCaA/company-logo_100_100/0/1622562866599?e=1634169600&v=beta&t=dGRtWz2IaJ-bxLKPlaUIVQSnwkPItr4-DqRiuSNVR-I\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Jose\", \"addressRegion\": \"CA\", \"postalCode\": \"95148\", \"streetAddress\": null}, \"latitude\": 37.334793, \"longitude\": -121.888145}, \"skills\": \"\", \"title\": \"Data Scientist / Machine Learning SW Engineer\", \"validThrough\": \"2021-08-07T12:02:25.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 96400, \"maxValue\": 176000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

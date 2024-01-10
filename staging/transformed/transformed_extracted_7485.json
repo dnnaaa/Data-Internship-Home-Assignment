@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-12T05:24:07.000Z\", \"description\": \"<strong><u>Role Proficiency<br><br></u></strong><strong>Job Description<br><br></strong>Acts under continuous guidance and support develop test and document applications<br><br><strong><u>Outcomes<br></u></strong><ul><li> Interpret the applications features and component design developing the same in accordance with user stories/ specifications per directions provided</li><li> Code debug test. document and communicate product/component/feature development stages. </li><li> Identify and report opportunities to improve efficiency and quality (e.g. repeatable processes that can be automated)</li><li> Adhere to project timelines and communicate effectively over e-mails and conversations</li><li> Conduct unit testing to validate unit level functionalities</li><li> Practice FAST goals; seek and accept feedback</li><li> Learn technology business domain system domain individually and as recommended by the project/account<br></li></ul><strong><u>Measures Of Outcomes<br></u></strong><ul><li> Adherence to engineering process and standards (coding standards)</li><li> Adherence to schedule / timelines</li><li> Adherence to SLAs where applicable</li><li> Number of defects post delivery</li><li> Number of non-compliance issues</li><li> Reduction of reoccurrence of known defects</li><li> Quickly turnaround production bugs</li><li> Meet the Defined productivity standards for project</li><li> Completion of all mandatory training requirements<br></li></ul><strong><u>Code<br><br></u></strong>Outputs Expected:<br><ul><li>Learn coding standards and practice them in development. Develop code with guidance for the above<br></li></ul><strong><u>Configure<br></u></strong><ul><li>Follow configuration process<br></li></ul><strong><u>Test<br></u></strong><ul><li>Create and conduct unit testing</li><li>Document test results<br></li></ul><strong><u>Domain Relevance<br></u></strong><ul><li>Develop features and components with good understanding of the business problem being addressed for the client<br></li></ul><strong><u>Manage Defects<br></u></strong><ul><li>Raise fix retest defects<br></li></ul><strong><u>Document<br></u></strong><ul><li>Create documentation for one's own work<br></li></ul><strong><u>Status Reporting<br></u></strong><ul><li>Report status of tasks assigned</li><li>Comply with project related reporting standards/process<br></li></ul><strong><u>Manage Knowledge<br></u></strong><ul><li>Consume project related documents share point libraries and client universities <br></li></ul><strong><u>Release<br></u></strong><ul><li>Adhere to release management process<br></li></ul><strong><u>Requirement<br></u></strong><ul><li>Understand the requirements/user stories<br></li></ul><strong><u>Design<br></u></strong><ul><li>Understand the design/LLD and link it to requirements/user stories<br></li></ul><strong><u>Skill Examples<br></u></strong><ul><li> Explain and communicate the design / development to the mentors/leads </li><li> Perform and evaluate test results against product specifications</li><li> Develop user interfaces business software components and embedded software components</li><li> Manage and guarantee high levels of cohesion and quality</li><li> Use data models</li><li> Perform and evaluate tests in the customer or target environment</li><li> Team player</li><li> Good written and verbal communication abilities</li><li> Proactively ask for and offer help <br></li></ul><strong><u>Knowledge Examples<br><br></u></strong>Additional Comments:<br><br>None\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"UST\", \"sameAs\": \"https://www.linkedin.com/company/ustglobal\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGL3xVMx0edSA/company-logo_200_200/0/1608123394726?e=1639612800&v=beta&t=r0-gH3Muete8uEAqNta0l8uTs-W0nVeKo0iaDFnnA2g\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"UST\", \"value\": \"99585307\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGL3xVMx0edSA/company-logo_100_100/0/1608123394726?e=1639612800&v=beta&t=pMQubIJvpZOaIOg6mI60KoTaVNfddDyWaATpqq3P2PE\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Diego\", \"addressRegion\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Developer I - Software Engineering\", \"validThrough\": \"2021-10-12T05:24:06.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

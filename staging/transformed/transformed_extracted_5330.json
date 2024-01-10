@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-21T07:15:30.000Z\", \"description\": \"Founded in 2015 by neuroscientists and technologists Drs. David Eagleman and Yael Katz, BrainCheck helps reduce the human and economic toll of cognitive impairment and dementia through its interactive cognitive assessment and care management technology. We have traction with over 400 primary care and neurology practices as well as several brand-name health systems and payers. Our dynamic team is based in Houston and Austin, Texas.<br><br>Data Scientist<br><br>This is a unique opportunity to join a dynamic team in a fast-growing company and gain extensive experience and knowledge working in the R&amp;D team as we grow our team and expand our capacity. The ideal candidate will have a Masters or PhD with excellent statistical and data analytical skills, who is willing to embrace new challenges, is highly organized and motivated. We are committed to providing experience-based learning, multidimensional assignments, targeted training, and continual coaching and development.<br><br>Your charge<br><ul><li>Design, build and interpret statistical methods to address selected research hypotheses for clinical studies. </li><li>Design, build and maintain advanced machine learning/deep learning algorithms and analytics methods to support products and business needs.</li><li>Create insightful visualizations that can help a non-technical audience make informed decisions based on complex datasets.</li><li>Participate in ad hoc projects and tasks as needed. </li><li>Prepare research reports for presentation, and assist with preparation of manuscripts for publication. <br><br></li></ul><strong><u>About You<br></u></strong><ul><li>Master\\u2019s degree or higher in a quantitative field (Data Science, Biostatistics, Computer Science, Software Engineering, Operations Research, Applied Math, Statistics or related)</li><li>Knowledge of a wide range of statistics and machine learning techniques</li><li>1+ years of experience manipulating data sets and building statistical/machine learning models.</li><li>Fluency in statistical programming languages. Python is required (3+ experience) and R is also preferred. </li><li>An analytical and independent thinker with strong quantitative skills, who uses data to (ask and) answer questions.</li><li>An adept communicator, able to collaborate across the company and lead through influence. </li><li>Creative problem solver, quick learner and comfortable experimenting with new approaches. </li><li>Detail-oriented, multi-tasker. Able to effectively self-manage across multiple priorities. </li><li>You\\u2019re gritty, scrappy and hungry to change healthcare and the world</li><li>You thirst for knowledge and the application of it in practical settings</li><li>You\\u2019re humble enough to accept feedback and ask for help</li><li>You\\u2019re a self-starter and comfortable with ambiguity and a fast-paced environment </li><li>Competitive compensation consisting of cash and equity<br><br></li></ul><strong><u>Bonus Qualifications<br></u></strong><ul><li>Prior research or clinical study experience especially in Neuropsychology</li><li>Prior experience in healthcare industry</li><li>Knowledge and familiarity with clinical trials and experimental designs</li><li>Knowledge of deep learning techniques<br></li></ul>Powered by JazzHR<br><br>njPiCTMfDP\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"BrainCheck\", \"sameAs\": \"https://www.linkedin.com/company/braincheck\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEhHroHhjNbkA/company-logo_200_200/0/1519905911737?e=1637798400&v=beta&t=WBOvo53ImzBOlZl9j2xu-tGj8_q9hSsHo0398eBgYhc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"BrainCheck\", \"value\": \"3084724\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEhHroHhjNbkA/company-logo_100_100/0/1519905911737?e=1637798400&v=beta&t=PTt1QKEogywe2v_Q6vPcMIjIbhfLb3L8kkiEjNmx42I\", \"industry\": \"Information Technology and Services,Computer Software,Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Houston\", \"addressRegion\": \"TX\", \"postalCode\": \"77208\", \"streetAddress\": null}, \"latitude\": 29.760803, \"longitude\": -95.36951}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-20T07:15:30.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

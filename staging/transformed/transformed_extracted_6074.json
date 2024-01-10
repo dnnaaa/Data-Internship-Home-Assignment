@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-24T15:39:49.000Z\", \"description\": \"<p><strong><u>Job Summary:</u></strong></p><p><br></p><p>&nbsp;We are looking for a Data Scientist responsible for maintaining fast growing datasets, developing custom data models, and extracting actionable insights to make Cercacor products more delightful and intuitive for customers.&nbsp;This position works in close collaboration with cross functional teams to influence product innovation.</p><p><br></p><p><strong><u>Duties &amp; Responsibilities:</u></strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build and expand machine learning models using NLP, classification, Neural Networks, etc. </p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work with Engineers to integrate data from multiple sources and develop predictive algorithms.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extract actionable insights from complex data sets and report insights via internal dashboards and visualization to Product teams for roadmap and feature decisions.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Review latest research papers and trends in the field of Artificial Intelligence and update team with new technologies.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Communicate findings and new trends with company leadership.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conduct exploratory analysis and develop statistical models to answer key product usage and engagement questions. </p><ul><li>Help Product and Marketing teams use experimentation and cohorting to test assumptions and launch new marketing campaigns, features and product releases. </li><li>Partner with Product teams to define and benchmark metrics for new features launches and initiatives and help create a culture of measurement.</li></ul><p>&nbsp;</p><p><strong><u>Minimum Qualifications and Experience:&nbsp;</u></strong></p><p><br></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master\\u2019s degree or higher in computer science, statistics, electrical engineering or other related fields.</p><ul><li>Proficiency in using Matlab, and Python.</li><li>Proficiency in using data science toolkits such as Keras, Tensorflow, PyTorch, etc.</li></ul><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Practical experience in time series analysis and sequential modeling. </p><ul><li>Prior experience developing machine learning approaches for modeling and predicting user behaviors.</li></ul><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prior experience building NLP pipelines for chatbots in a limited training data environment.</p><ul><li>Prior experience building REST APIs and interfacing applications with other 3rd party APIs.</li><li>Ability to work independently and with moderate supervision.</li><li>Exceptional organizational skills and problem-solving ability.</li><li>Good communication skills, both verbal and written.&nbsp;</li></ul><p><br></p><p><strong>Desired Qualifications:</strong></p><p><strong>&nbsp;</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience developing advanced prediction models with large dataset.</p><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Cercacor Laboratories, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/cercacor-laboratories-inc-\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFI3xK86tquZg/company-logo_200_200/0/1519876503294?e=1637798400&v=beta&t=Itq55OT5_dN3xtXZY3VtznTS7k4unSfBEc4hcKatJ9k\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Cercacor Laboratories, Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFI3xK86tquZg/company-logo_100_100/0/1519876503294?e=1637798400&v=beta&t=I9KCKaSC4jM1OHEBTfLI7eOGhhzDcieYdwRpdnybxR4\", \"industry\": \"Medical Devices\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Irvine\", \"addressRegion\": \"CA\", \"postalCode\": \"92717\", \"streetAddress\": null}, \"latitude\": 33.68591, \"longitude\": -117.82472}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-23T15:39:48.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-30T05:12:47.000Z\", \"description\": \"<strong><u>Job Description<br><br></u></strong><strong><u>Position Details:<br><br></u></strong><strong>Role: </strong>Product Researcher<br><br><strong>Location: </strong>Mason, OH<br><br><strong>Duration:</strong> 6 Months<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Past Products Researcher experience at the Researcher/Associate Scientist level</li><li>Executes technical tasks and methods to meet day-to-day project needs</li><li>Performs a wide variety of lab methods and hands-on experimentation</li><li>Helps enable product test placements (either through systems entry or gathering the info for others to enter)</li><li>Helps develop claims and demos with the products research lead<br></li></ul><em>Should you have any questions, feel free to call me at (973)-494-8185 or email your resume at nagraj.ganaparpu@collabera.com.<br><br></em>Job Requirements<br><br>Word, research, SAN, Apple<br><br>Job Code: 50170917\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Collabera Inc.\", \"sameAs\": \"https://www.linkedin.com/company/collabera\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQG-lDaaTlZa1A/company-logo_200_200/0/1625228656341?e=1635984000&v=beta&t=5m5PHhiUlh6nQf5HCevXuLeaiG03UOxc9nOSAVsWwYQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Collabera Inc.\", \"value\": \"50170917\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQG-lDaaTlZa1A/company-logo_100_100/0/1625228656341?e=1635984000&v=beta&t=QjyPXH9H1HLyWJAaRhzJ9H4UQaWtSek0jwCJUWKEx44\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Mason\", \"addressRegion\": \"OH\", \"postalCode\": \"45040\", \"streetAddress\": null}, \"latitude\": 39.360252, \"longitude\": -84.309105}, \"skills\": \"\", \"title\": \"Product Researcher\", \"validThrough\": \"2021-08-29T05:12:49.000Z\"}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

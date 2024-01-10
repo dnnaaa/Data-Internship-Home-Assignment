@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T20:38:23.000Z\", \"description\": \"<p>Let AIM Consulting guide you to success today! Our IT Placement Specialists are dedicated to placing qualified professionals, like you, in exciting opportunities with leading companies across the nation.&nbsp;</p><p><br></p><p>We are currently seeking multiple&nbsp;<strong><u>Machine Learning Engineers</u></strong>&nbsp;for a <strong><u>100% remote</u></strong>&nbsp;positions with a great company,&nbsp;please <strong><u>no third party candidates at this time</u></strong>!</p><p><br></p><p>You can email Madison Brown (Nichols) to apply directly at&nbsp;<strong><u>mnichols@aimconsulting.com</u></strong>.&nbsp;</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Enhance and extend machine learning algorithms and models in AWS SageMaker</li><li>Build end to end data pipeline for machine learning models</li><li>Work with big data for machine learning applications and write optimized queries</li><li>Work with a machine learning team to define and enforce data collection standards</li><li>Perpetually work to identify and improve usability in all applications</li><li>Help understand new KPIs to monitor and leverage to improve the performance of models</li></ul><p><br></p><p><strong>Qualifications:</strong></p><ul><li>Experience in AWS SageMaker</li><li>Strong experience with Python, including NumPy</li><li>Experience with AWS tools such as CodePipeline and CodeCommit</li><li>Support estimation and rollout planning efforts</li></ul><p><br></p><p><strong>Preferred:</strong></p><ul><li>Bachelor's Degree in Quantitative Field (Data Science, Mathematics, Computer Science, Engineering, etc.)</li><li>Certifications in AWS</li><li>Experience with AWS Redshift and/or AWS Aurora</li></ul><p><br></p><p><strong>Benefits:</strong></p><ul><li>Comprehensive Medical Plan</li><li>Prescription Program</li><li>Dental Plan</li><li>Vision Program</li><li>Term Life Insurance Plan</li><li>401(k) Retirement Savings Plan</li></ul><p><br></p><p><strong>Inclusivity:</strong></p><p>AIM Consulting is committed to building an inclusive and diverse workplace. AIM Consulting is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"AIM Consulting Group\", \"sameAs\": \"https://www.linkedin.com/company/aim-consulting-group\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGwk_3_mqlXJA/company-logo_200_200/0/1625143830500?e=1636588800&v=beta&t=4GIMUFx85ZRGlzXEdzyDe8lLsAkq0KDuZIfffAnISM4\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"AIM Consulting Group\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGwk_3_mqlXJA/company-logo_100_100/0/1625143830500?e=1636588800&v=beta&t=7AkGWYIddfWj7agaoKWKWd62Y8c1mEoVgRVSZmPvdss\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-09T20:38:22.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

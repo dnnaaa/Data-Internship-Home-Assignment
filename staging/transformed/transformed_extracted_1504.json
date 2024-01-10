@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-29T18:47:03.000Z\", \"description\": \"<p><strong>The purpose&nbsp;&amp;&nbsp;responsibilities of the role&nbsp;include:</strong>&nbsp;</p><ul><li>Design, develop,&nbsp;debug,&nbsp;and maintain&nbsp;web-based&nbsp;applications written in Python.&nbsp;</li><li>Be involved and participate in the overall application lifecycle for software applications&nbsp;supporting our Process Development department (including High-throughput screening, Analytics, Fermentation,&nbsp;Biocatalysis, and Downstream processing).&nbsp;</li><li>Collaborate with&nbsp;scientists and front-end developers&nbsp;</li><li>Discuss technical and design requirements with manager and end-users&nbsp;</li><li>Provide training, help,&nbsp;and support to other team members&nbsp;</li><li>Build high-quality reusable code that can be used in the future&nbsp;</li><li>Troubleshoot and debug applications&nbsp;</li><li>Learn about new&nbsp;technologies&nbsp;</li></ul><p>&nbsp;</p><p><strong>Requirements:</strong>&nbsp;</p><ul><li>Candidate should have&nbsp;at least&nbsp;a master's, preferably in Software Engineering, or a degree in a quantitative discipline such as computer science, mathematics, computational biology, electrical engineering, bioengineering or equivalent.&nbsp;</li><li>Industry experience is a plus, but not required.&nbsp;</li><li>Biology exposes a plus, but not required.&nbsp;</li><li>Experience with programming best practices (unit testing, CI/CD, etc.) and version control while contributing to or maintaining large codebases&nbsp;</li><li>Expertise with scripting programming languages (Python is&nbsp;strongly&nbsp;preferred)&nbsp;</li><li>English (spoken, written) is required&nbsp;</li><li>Chinese&nbsp;(spoken&nbsp;or&nbsp;written)&nbsp;is a plus&nbsp;</li><li>Candidates must be willing to locate near our facilities in either Lafayette,&nbsp;California, or Hangzhou, China.&nbsp;We are open to a hybrid work model.&nbsp;</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Bota Biosciences\", \"sameAs\": \"https://www.linkedin.com/company/botabio\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGEfsz1K70MHw/company-logo_200_200/0/1621893819744?e=1635984000&v=beta&t=NYpewDyzu2gZpOcQtdC9-OD4YrqmNB8e1dGg0gIyHI8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Bota Biosciences\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGEfsz1K70MHw/company-logo_100_100/0/1621893819744?e=1635984000&v=beta&t=EoEYLsSwnp7pBiMHfsOVxJntqYDE2J67_ROQhAxEM2Q\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Lafayette\", \"addressRegion\": \"CA\", \"postalCode\": \"94549\", \"streetAddress\": null}, \"latitude\": 37.890797, \"longitude\": -122.12747}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-08-28T18:47:03.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

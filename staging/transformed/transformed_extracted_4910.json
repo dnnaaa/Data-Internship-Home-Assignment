@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T22:36:40.000Z\", \"description\": \"<ul><li>Big Data, Hadoop on Data Warehousing or Data Integration projects.</li><li>Analysis, Design, development, support and Enhancements of ETL/ELT in data warehouse environment with Cloudera Bigdata Technologies</li><li>Writing Hadoop/Hive/Impala scripts for gathering stats on table post data loads.</li><li>Development experience creating Sqoop scripts, PySpark programs, HDFS commands, HDFS file formats, StreamSets pipeline creation, jobs scheduling, etc.</li><li>Strong SQL experience (Oracle and Hadoop (Hive/Impala etc.)).</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"American Business Solutions Inc.\", \"sameAs\": \"https://www.linkedin.com/company/american-business-solutions-inc.\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQHLSs4ci5umKA/company-logo_200_200/0/1532024015426?e=1637798400&v=beta&t=cczgF-CKGV_Rig2ThnDWvlxZBhDBkocBe9e4-KeoA8M\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"American Business Solutions Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQHLSs4ci5umKA/company-logo_100_100/0/1532024015426?e=1637798400&v=beta&t=PsTY_sD3FcGwJzLAuQjgTtZ9JJ_2nhL3Vpac885vT18\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Columbus\", \"addressRegion\": \"Ohio Metropolitan Area\", \"postalCode\": \"43206\", \"streetAddress\": null}, \"latitude\": 39.978302, \"longitude\": -82.99313}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2021-09-19T22:36:40.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

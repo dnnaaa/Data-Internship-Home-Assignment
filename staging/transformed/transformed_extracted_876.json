@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-17T15:18:05.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>Our team is responsible for implementing software services for realtime video conferencing and media distribution systems. Our custom AV pipeline is used for marquee features such as FaceTime, Group FaceTime, SideCar, AirPlay4K and HomeKit IP Camera. Apple's Interactive Media Group (IMG) is looking for a proactive and hardworking data scientist to help deliver the best real-time video user experience.<br><br> <br><strong>Key Qualifications<br></strong> <br>\\u2022 Expertise in statistical data analysis, data visualization and AB testing<br><br>\\u2022 Excellent understanding of machine learning algorithms including regression, clustering, classification and dimensionality reduction.<br><br>\\u2022 Experience in retrieving and processing large amounts of data from structured and unstructured databases<br><br>\\u2022 Proficiency in Python using data science libraries and machine learning frameworks<br><br><br>\\u2022 You demonstrate strong communication skills and the ability to explain and understand complex technical concepts<br><br>\\u2022 You are a highly motivated, self-directed and fast learner<br><br>\\u2022 You have excellent judgment and integrity with the ability to make timely and sound decisions<br><br> <br><strong>Description<br></strong> <br>As a data scientist you will contribute to evaluating and improving the performance of Apple\\u2019s realtime media solutions. The ability to build advanced data visualizations, perform comprehensive analysis and deliver solid conclusions is essential for this position. <br><br><br>Our team builds automated pipelines and cloud services to support data and machine learning processing. You will collaborate with a team of software engineers and cross-functional leaders to bring analytics rigor and drive key decisions.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>B.S/M.S/PhD in EE/CE/CS or relevant quantitative field with a strong focus in data science and machine learning<br><br> <br><strong>Additional Requirements<br></strong> <br>Software development experience in C or Objective-C is preferred but not required<br><br> <br>Role Number: 200146783<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1634774400&v=beta&t=5vCX2DN88SYO8C1kXjiYdIOVHpgw-zaaSvLVYK2lqbo\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200146783_en-US\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1634774400&v=beta&t=wadwvdvX5Xhny9B40uRtoWlEs3jkfEN3qSdkhlNy5N4\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Cupertino\", \"addressRegion\": \"CA\", \"postalCode\": \"95014\", \"streetAddress\": null}, \"latitude\": 37.319313, \"longitude\": -122.02927}, \"skills\": \"\", \"title\": \"Data Scientist / Machine Learning Engineer for AVConference\", \"validThrough\": \"2021-08-16T15:18:03.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 122000, \"maxValue\": 218000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

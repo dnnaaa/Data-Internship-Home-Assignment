@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-01T08:32:39.000Z\", \"description\": \"<strong><u>Overview<br><br></u></strong><strong>Job Description<br><br></strong>Alion is looking to put in place a team of engineers to support testing and integration of Minotaur Software program. This team would work out of the office located at Hanover, MD a in the integration labs supporting Navy Airborne SIGINT platform systems.<br><br><strong><u>Summary<br><br></u></strong>The software test engineer would be responsible for testing and integration the Minotaur Software product. Under general supervision runs tests to evaluate the function of products and systems. Develops and implements procedures for Minotaur Software product testing and writes up defects for correction or further investigation.<br><br><strong>Duties<br></strong> Reviewing software requirements and preparing test scenarios.<li>Executing tests on software usability.</li><li>Analyzing test results on database impacts, errors or bugs, and usability.</li><li>Preparing reports on all aspects related to the software testing carried out and reporting to the design team.</li><li>Interacting with clients to understand product requirements.</li><li>Participating in design reviews and providing input on requirements, product design, and potential problems<br><br></li><strong><u>Professional Experience And Education<br></u></strong> Bachelor's Degree in Software, Computer Engineering, Electrical Engineering, or related discipline. Years of experience could be substituted for degree.<li>2-4years of experience in software testing.</li><li>US Citizen with a current DOD SECRET clearance with the ability to get TS/SCI clearanceis required.</li><li>Devises and applies testing procedures for both Alion\\u2019s Minotaur product and from outside vendors.</li><li>Performs moderately complex analysis and trouble-shooting.</li><li>Evaluates progress and results of project.</li><li>Carries out assignments requiring the improvement of current techniques and procedures.</li><li>Develops and maintains contacts with customers including those at levels above the project monitor.</li><li>Prepares and assists others in the development of status reports, technical memoranda, contact reports, technical analyses or other outputs needed.</li><li>Prepares and provides briefings to staff and customers and participates in technical discussions at project review sessions.</li><li>Excellent communication and interpersonal skills.</li><li>Knowledge of Microsoft Office suite programs, MS Word, Excel and PowerPoint.</li><li>Knowledge of the principles, practices, and procedures used in test engineering.<br><br></li><strong><u>Requires Knowledge In Following Disciplines<br></u></strong> Software Engineering (Embedded, Application, Database, User Interface, Operating System(s), Board Support Packages, Network Communications, Mobile Communications, Linux, Microsoft Windows)<li>Modeling and Simulation</li><li>C4ISR System Design, Development, Sustainment</li><li>SIGINT/COMINT/ELINT/Direction Finding</li><li>Electronic Warfare</li><li>Communications Systems</li><li>GEOINT, EO/IR/FMV</li><li>RADAR, SAR, GMTI</li><li>User Interface Design and Ergonomics</li><li>Aircraft System Design, Integration, Operation</li><li>Position, Navigation and Timing</li><li>Antenna Design</li><li>Space/Time Adaptive Processing<br><br></li><strong><u>Education And Experience<br><br></u></strong>Bachelor's Degree in Software, Computer Engineering, Electrical Engineering, or related discipline. Years of experience could be substituted for degree.<br><br>2-4years of experience in software testing.<br><br>US Citizen with a current DOD SECRET clearance with the ability to get TS/SCI clearanceis required.<br><br>Previous experience working with the Minotaur Product is extremely desirable.<br><br>#CB<br><br><li>CJ<br><br></li>Security Clearance: None<br><strong>Job Requirements</strong>* Bachelor's Degree in Software, Computer Engineering, Electrical Engineering, or related discipline. Years of experience could be substituted for degree., Bachelor's Degree in Software, Computer Engineering, Electrical Engineering, or related discipline. Years of experience could be substituted for degree. 2-4 years of experience in software testing. US Citizen with a current DOD SECRET clearance with the ability to get TS/SCI clearance is required. Previous experience working with the Minotaur Product is extremely desirable.<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"ClearedJobs.Net\", \"sameAs\": \"https://www.linkedin.com/company/clearedjobs-net\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQECS5AsWkBQRg/company-logo_200_200/0/1612383688229?e=1634774400&v=beta&t=PeCglba6GtX-byQssTDmBnd11qlzRihQfJ75-bDRq7k\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"ClearedJobs.Net\", \"value\": \"999226\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQECS5AsWkBQRg/company-logo_100_100/0/1612383688229?e=1634774400&v=beta&t=4STBnIZECXso2xdytE0VDCCwxF4RnwOvLQ9-aXhh1F0\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Hanover\", \"addressRegion\": \"MD\", \"postalCode\": \"21098\", \"streetAddress\": null}, \"latitude\": 39.19298, \"longitude\": -76.72437}, \"skills\": \"\", \"title\": \"Software Test Engineer - 36847\", \"validThrough\": \"2021-08-18T11:56:42.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

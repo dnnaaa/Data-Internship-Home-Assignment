@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T14:21:10.000Z\", \"description\": \"At Lyft, our mission is to improve people\\u2019s lives with the world\\u2019s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.<br><br>Data Science is at the heart of Lyft\\u2019s products and decision-making. As a member of the Science team, you will work in a dynamic environment, where we embrace moving quickly to build the world\\u2019s best transportation. Data Scientists take on a variety of problems ranging from shaping critical business decisions to building algorithms that power our internal and external products. We\\u2019re looking for passionate, driven Data Scientists to take on some of the most interesting and impactful problems in ridesharing.<br><br>As a Data Scientist, Algorithms, you will be developing mathematical models underpinning the platform\\u2019s core services. Compared to other technology companies of a similar size, the set of problems that we tackle is incredibly diverse. They cut across optimization, prediction, modeling, inference, transportation, and mapping. We are hiring motivated experts in each of these fields. We're looking for someone who is passionate about solving mathematical problems with data, and are excited about working in a fast-paced, innovative and collegial environment.<br><br>You will report to a Data Science Manager.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Partner with Engineers, Product Managers, and Business Partners to frame problems, both mathematically and within the business context</li><li>Perform exploratory data analysis to gain a deeper understanding of the problem</li><li>Develop and fit statistical, machine learning, or optimization models</li><li>Write production model code; collaborate with Software Engineers to implement algorithms in production</li><li>Design and implement both simulated and live experiments</li><li>Analyze experimental and observational data; communicate findings; facilitate launch decisions<br></li></ul><strong><u>Experience<br></u></strong><ul><li>M.S. or Ph.D. in Statistics, Operations Research, Mathematics, Computer Science, or other quantitative fields or related work experience</li><li>5+ years professional experience in a technology company setting involving a product </li><li>Passion for solving unstructured and non-standard mathematical problems</li><li>End-to-end experience with data, including querying, aggregation, analysis, and visualization</li><li>Proficiency with Python, or another interpreted programming language like R or Matlab</li><li>Ability to collaborate and communicate with others to solve a problem<br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Great medical, dental, and vision insurance options</li><li>Mental health benefits</li><li>In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off</li><li>401(k) plan to help save for your future</li><li>18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible</li><li>Pre-tax commuter benefits</li><li>Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program<br></li></ul><em><em>Lyft is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.</em></em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Lyft\", \"sameAs\": \"https://www.linkedin.com/company/lyft\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFoMDej0VdZVA/company-logo_200_200/0/1545416046198?e=1638403200&v=beta&t=Cspovsy11arFeM5ZEI5OmjI4DtyH-XXrubjR32T4YHc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Lyft\", \"value\": \"4875229002\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFoMDej0VdZVA/company-logo_100_100/0/1545416046198?e=1638403200&v=beta&t=c1QTUamNgrYfxAfEvxHXLEG6YD9aaCwbMkEfmNuYC_E\", \"industry\": \"Information Technology and Services,Computer Software,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco\", \"addressRegion\": \"CA\", \"postalCode\": \"94121\", \"streetAddress\": null}, \"latitude\": 37.78008, \"longitude\": -122.42016}, \"skills\": \"\", \"title\": \"Data Scientist - Algorithms\", \"validThrough\": \"2021-09-29T14:21:10.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 133000, \"maxValue\": 191000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

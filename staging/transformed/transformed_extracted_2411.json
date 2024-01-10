@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-02T18:34:44.000Z\", \"description\": \"<p>We are looking to on board a DevOps engineer to help us with deployment pipeline construction. This role will also include provisioning, configuration and management of cloud native resources. The candidate will need to work with core app engineering teams, gather their requirements and help implement them through the deployment pipeline. The candidate is required to have sound knowledge of DevOps, reliability, and security best practices and be able to guide the team on the optimal approach to accomplish their requirements.</p><p>&nbsp;</p><p><strong>Location:</strong>&nbsp;NY Area preferred. Remote candidates may be expected to visit NY office periodically (1/2 a quarter) post-COVID relaxations.&nbsp;</p><p><strong>Term</strong>: Contract with option to hire.&nbsp;Starting contract period will be 6 months.</p><p><br></p><p><strong>Required Skills:</strong></p><ul><li>Experience working with CI/CD tools like Jenkins,&nbsp;Ansible, puppet, Drone, Terraform.</li><li>Application secret management and configuration management</li><li>Knowledge of application containerization using Beanstalk, GKE, Docker etc.</li><li>Knowledge of AWS Cloud \\u2013 IAM, EC2, RDS, Lambda, Kinesis, Elastic search, CloudWatch, etc.</li><li>Experience in provisioning of cloud resources through CI/CD pipeline</li><li>Setting of application health checks on tools like New Relic, Sumo Logic, Data dog etc.</li><li>Understanding of Virtual VPC setup and networking.</li><li>Excellent communication and stakeholder management skills.</li></ul><p><br></p><p><strong>--</strong></p><p><strong>RiVi Group</strong></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"RiVi Consulting Group L.L.C\", \"sameAs\": \"https://www.linkedin.com/company/rivi-consulting-group-l-l-c\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGBLPw3-eN93g/company-logo_200_200/0/1519920295522?e=1635984000&v=beta&t=EJuxhyOWtDr7ji4uNqvgO4zJYJKO0GDguXGFPiB59JE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"RiVi Consulting Group L.L.C\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGBLPw3-eN93g/company-logo_100_100/0/1519920295522?e=1635984000&v=beta&t=NOYIdFNZgh3TIC28ZYg3FAPGPCPCCHbFtDA9B9OX9xQ\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"United States\", \"postalCode\": \"13856\", \"streetAddress\": null}, \"latitude\": 42.93923, \"longitude\": -75.62005}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-01T18:34:43.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

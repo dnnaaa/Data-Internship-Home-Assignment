@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-04T06:22:09.000Z\", \"description\": \"Role<br><br>The Software Engineer Intern will aid in gathering new neural network frozen graphs, assembling data sets for each graph, and helping to isolate various blocks within the graphs. As part of these roles, you will be expected to work with machine learning frameworks and associated tools. You will be joining a small team in a dynamic startup environment, where each member is expected to take on a wide range of responsibilities and to learn and grow with the company.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Gather frozen graphs for open-source DNNs and associated data sets</li><li>Modify existing graphical tools to isolate various component sub-graphs</li><li>Aid in \\u201clowering\\u201d the sub-graphs through our toolchain <br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Pursuing a degree in Computer Engineering or Computer Science</li><li>Illustrates a strong programming background with Python and Javascript</li><li>Proficiency with version control software, such as Git</li><li>Self-driven debugger who loves digging deeper to determine a root cause<br></li></ul>Nice to haves<br><ul><li>Experience with Deep Neural Networks</li><li>Experience with Electron<br></li></ul>Expected Outcomes in 4 months<br><ul><li>Collected 3-5 DNN frozen graphs and associated data sets</li><li>Developed a graphical tool to isolate repeated sub-graphs</li></ul>\", \"employmentType\": \"INTERN\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"quadric.io\", \"sameAs\": \"https://www.linkedin.com/company/quadric.io\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGmydYlmvYkiA/company-logo_200_200/0/1607108739344?e=1639008000&v=beta&t=Lw1Wi2UNVOze_vpc5hQm7LFC1cJtpm42TnGZmgTTOJ8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"quadric.io\", \"value\": \"B6FC6F6DCF\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGmydYlmvYkiA/company-logo_100_100/0/1607108739344?e=1639008000&v=beta&t=eQorvW51bUKsHxFtZrvg-7N71GW4jAZd3i02D3BHgx0\", \"industry\": \"Computer Hardware,Computer Software,Semiconductors\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Burlingame\", \"addressRegion\": \"CA\", \"postalCode\": \"94012\", \"streetAddress\": null}, \"latitude\": 37.584194, \"longitude\": -122.366264}, \"skills\": \"\", \"title\": \"Software Engineer Intern\", \"validThrough\": \"2021-10-04T06:22:09.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

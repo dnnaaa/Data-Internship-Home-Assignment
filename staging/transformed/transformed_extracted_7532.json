@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:30:07.000Z\", \"description\": \"<p><strong><u>Senior Software Engineer -  Core Payments \\u2013 Leading FinTech \\u2013 San Francisco</u></strong></p><p><br></p><p>Are you an Experienced Software Engineer that wants to make a meaningful impact in an organization?</p><p><br></p><p>Are you interested in working in a banking organization that works more like a tech innovation org compared to a traditional bank?</p><p><br></p><p>Are you looking to work in an Agile environment with a clear career progression?</p><p>&nbsp;</p><p>My Client, a leading Fintech Organization based in San Francisco, are looking to grow their Core Payments tech teams with both Principal and Senior full-stack software engineers with both Java and JavaScript (ReactJS).</p><p><br></p><p>The ideal person should have the necessary skills and experience to provide technical guidance, estimation of efforts, understanding; and decide upon the optimal technology solution to achieve the desired business needs.</p><p><br></p><p><strong><u>You will ideally have:</u></strong></p><p><br></p><ul><li>5+ years&nbsp;of development experience as a&nbsp;Software Engineer</li><li>Hands-on development experience in&nbsp;<strong>Java, J2EE, Spring Boot</strong>, etc.</li><li>Experience building and maintaining large software platforms</li><li>A deep fascination of building elegant, maintainable, well-documented, secure code \\u2013 Abstracting and refactoring should be a passion, not a chore</li><li>Experience with&nbsp;TDD&nbsp;and&nbsp;CI/CD</li><li>Experience with <strong>JavaScript, React.JS</strong>, HTML, CSS, etc</li><li>Experience with distributed systems and with&nbsp;Micro-services&nbsp;architecture.</li></ul><p><br></p><p>This is an excellent opportunity to work with a leading and highly respected Financial Organization, which are going through a vast and fascinating digital transformation.</p><p><br></p><p>They have multiple office locations across the USA and can work on a Hybrid Model, although all interviews are currently fully remote.</p><p><br></p><p>Excellent salary, bonus and benefits on offer!</p><p><br></p><p><strong><em>Send in your details ASAP to find out more and receive a full job specification</em></strong></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"TDA Creative\", \"sameAs\": \"https://www.linkedin.com/company/tda-creative\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHFR_7Esljs7A/company-logo_200_200/0/1629214528005?e=1641427200&v=beta&t=8Qm5THYj6fhX2c9wfIBM7iXX7CsxtR4U6BPN906wyTg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"TDA Creative\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHFR_7Esljs7A/company-logo_100_100/0/1629214528005?e=1641427200&v=beta&t=O9em9WoYuX3_YUrHqaXDb7rdyBGnXDb0OOJ5Q_qcXFw\", \"industry\": \"Banking,Investment Banking,Investment Management\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco Bay Area\", \"addressRegion\": null, \"postalCode\": \"94112\", \"streetAddress\": null}, \"latitude\": 37.39271, \"longitude\": -122.042}, \"skills\": \"\", \"title\": \"Senior Software Engineer | Payments | Banking\", \"validThrough\": \"2021-11-04T17:30:06.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 130000, \"maxValue\": 190000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

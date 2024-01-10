@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-06T15:11:01.000Z\", \"description\": \"<strong><u>About Datadog<br><br></u></strong>We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale\\u2014trillions of data points per day\\u2014providing always-on alerting, metrics visualization, logs, and application tracing for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.<br><br><strong><u>The Opportunity<br><br></u></strong>You will have a fantastic team of data engineers to support you, a collaborative environment to encourage your work, and the best technologies for performing data science at high scale in your toolkit.<br><br><strong><u>You Will<br></u></strong><ul> <li>Present the latest academic research papers to your team.</li> <li>Research and benchmark the latest algorithms that can be used for our particular use-cases.</li> <li>Apply machine learning algorithms and statistical techniques to build new product features.</li> <li>Deploy a new feature to production, instantly affecting customers with your work.</li> <li>Mentor other data scientists on your team.</li> <li>Explore and find meaning in extremely high volumes of data.</li> <li>Investigate and fix a production issue from a service your team owns.</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>You have 2 + years professional experience</li> <li>You are fluent with SQL / relational algebra.</li> <li>You have mastered working with data in a language such as Python, R, or Julia.</li> <li>You\\u2019ve done data science at high scale with tools like Hadoop and Spark.</li> <li>You have backend programming experience in one or more languages.</li> <li>You have significant experience applying machine learning to real business problems.</li> <li>You want to work in a fast, high-growth startup environment and thrive on autonomy.</li> <li>You care about code simplicity and performance.</li> <li>You have a BS/MS/PhD in a scientific field or equivalent experience.</li> <li>You can explain complex ideas and algorithms in understandable ways.</li> <br><br></ul><strong><u>Bonus Points<br></u></strong><ul> <li>You\\u2019ve written production data pipelines.</li> <li>You\\u2019re familiar with time series analysis.</li> <br><br></ul><strong><u>Equal Opportunity At Datadog<br><br></u></strong>Datadog is an Affirmative Action and Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.<br><br><strong><u>Your Privacy<br><br></u></strong>Any information you submit to Datadog as part of your application will be processed in accordance with Datadog\\u2019s Applicant and Candidate Privacy Notice.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Datadog\", \"sameAs\": \"https://www.linkedin.com/company/datadog\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFEhgRYWOqq3Q/company-logo_200_200/0/1625162475183?e=1636588800&v=beta&t=BE6i2s48PLPBPIJ6iYgbMHfTAujsuZCYMgb3NLiecIY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Datadog\", \"value\": \"1826092\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFEhgRYWOqq3Q/company-logo_100_100/0/1625162475183?e=1636588800&v=beta&t=-c83WI92gw8wtTcFZOueMSl4IX04Gcd_NhcJXhGSaU0\", \"industry\": \"Marketing and Advertising,Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"NY\", \"postalCode\": \"10001\", \"streetAddress\": null}, \"latitude\": 40.713047, \"longitude\": -74.00723}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-14T07:13:23.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 91300, \"maxValue\": 192000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

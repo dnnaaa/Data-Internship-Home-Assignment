@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T01:11:13.000Z\", \"description\": \"<p><strong>Job Description:</strong></p><p> <strong>A) Responsibilities to include but not limited to the following.</strong></p><p><strong><span class=\\\"ql-cursor\\\"></span></strong></p><p>1) Understand business objectives and develop models that help to achieve them, along with metrics to track their progress. </p><p>2) Analyze ML Algorithms that could be used to solve a given problem and ranking them by their success probability. </p><p>3) Explore and visualize data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world.</p><p>4) Verify data quality, and/or ensuring it via data cleaning. </p><p>5) Supervise the data acquisition process if more data is needed. </p><p>6) Define validation strategies and define the preprocessing or feature engineering to be done on a given dataset. </p><p>7) Define and built data augmentation pipelines. </p><p>8) Train models and tune their hyperparameters. </p><p>9) Analyze the errors of the model and designing strategies to overcome them. </p><p><br></p><p><strong>B) Required Qualifications:</strong></p><p><br></p><p>1) Proficiency with Machine Learning frameworks e.g., Tensorflow or Keras.</p><p>2) Proficiency with Python libraries for machine learning such as scikit-learn and Pandas. </p><p>3) Expertise in visualizing and manipulating big data sets. </p><p>4) 3+ Years of industry experience in software engineering  development. </p><p>5) Ability to independently and creatively solve problems.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Infogain\", \"sameAs\": \"https://www.linkedin.com/company/infogain\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQHzCj5jr24FAg/company-logo_200_200/0/1580731750871?e=1637798400&v=beta&t=ZLZjajcPQqEjjvJeNpwzfIxMHl9jFNSEyZW3FMSRlxE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Infogain\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQHzCj5jr24FAg/company-logo_100_100/0/1580731750871?e=1637798400&v=beta&t=9FZfnJR8q1EsWTXfj9SSltzk_fR9sQ0G7bPjmNVIVBM\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Burlingame\", \"addressRegion\": \"CA\", \"postalCode\": \"94012\", \"streetAddress\": null}, \"latitude\": 37.584194, \"longitude\": -122.366264}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-24T01:11:13.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

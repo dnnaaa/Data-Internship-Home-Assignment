@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T07:23:41.000Z\", \"description\": \"<p><strong><u>Computer Software Engineer \\u2013 Virtual Internship</u></strong></p><p><strong><u>&nbsp;</u></strong></p><p><strong><em>Great opportunity to apply your skills &amp; talent in professional world at GAOTek Inc.</em></strong></p><p>&nbsp;</p><p><em>This opportunity is for you to learn in a supportive environment and put your skills to use because our interns take up real tasks and responsibilities as they are thoroughly trained in our experienced teams. We welcome applicants who bring in the spirit of dedication and hard work. If this sounds like you then I would love to hear from you!</em></p><p><br></p><p><strong>Job Role:</strong>&nbsp;<strong>&nbsp;Computer Software Development [ Virtual Intern ]</strong></p><p><strong>Location:</strong>&nbsp;<strong>Remote [ USA ]</strong></p><p><strong>Experience:</strong>&nbsp;0 to 5 Years Only</p><p><br></p><p><strong>Day to Day Responsibilities</strong></p><ul><li>Identifying areas for modification in existing programs and subsequently developing these modifications</li><li>Writing and implementing efficient code</li><li>Determining operational practicality</li><li>Developing quality assurance procedures</li></ul><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maintaining and upgrading existing systems</p><p><br></p><p><br></p><p>&nbsp;</p><p><strong>Benefits of this Internship&nbsp;Include:</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You gain real-world work experience at GAO Tek Inc.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opportunity to learn real world people's skills, work ethics, negotiation, accountability, team spirit, multi- tasking and time management.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opportunity to grow your network with our 500+ colleagues worldwide.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 recommendations on the LinkedIn profile.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Three certificates: One Certificate of Internship and two certificates related to their training at GAO Tek.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Being virtual, this role allows you to work from anywhere at any time, that being said, you can commit yourself to everything you love to do!</p><p>&nbsp;</p><p><br></p><p>&nbsp;<strong><em>Please Note this an unpaid internship for the duration of 3 months</em></strong></p><p><strong><em>Interested candidates can</em></strong></p><p><em>send your resumes at&nbsp;</em><strong><em>\\\"</em>hr-india-teami@gaotek.com<em>\\\".</em></strong></p><p><br></p>\", \"employmentType\": \"INTERN\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"GAOTek Inc.\", \"sameAs\": \"https://www.linkedin.com/company/gao-tek-inc-\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQGg0dos_fVHhA/company-logo_200_200/0/1567998421321?e=1637193600&v=beta&t=XRXXAFkr-wMjlrR7ePxTJJLE0qkuOw7ze4NBm3Ysu5k\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"GAOTek Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQGg0dos_fVHhA/company-logo_100_100/0/1567998421321?e=1637193600&v=beta&t=a04MJyamWjbltGWdby3A4nta3XvHj96TOw9EFXy8GUo\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Computer Software Engineer\", \"validThrough\": \"2021-09-16T07:23:41.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": \"no requirements\", \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:21:56.000Z\", \"description\": \"<p>As an&nbsp;<strong>Senior Software Engineer - OnLink</strong>&nbsp;for&nbsp;<strong>John Deere</strong>'s&nbsp;<strong>Intelligent Solutions Group (ISG)</strong>&nbsp;you will be the technical Leader for the development of the&nbsp;<strong>OnLink&nbsp;</strong>product that enables golf course professionals to plan, monitor, and complete the work to maintain the golf course and their business operations.&nbsp;Our Staff Engineers are technical leaders \\u2013 designing and developing production software, championing software development practices and mentoring/coaching the team members on industry trends.&nbsp;&nbsp;&nbsp;An ideal candidate will be someone with a passion for being in the code and a demonstrated history of technical leadership in delivering global software products.</p><p><br></p><p>Here is a link to learn more about the OnLink application - https://www.youtube.com/watch?v=c2RDLV-5y1s</p><p><br></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"John Deere\", \"sameAs\": \"https://www.linkedin.com/company/john-deere\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEEa9V0QBAr8Q/company-logo_200_200/0/1566327195160?e=1641427200&v=beta&t=dKJ2-b39RRQojSBWhr2DUjB9AyL6uS1f38d14v43c2g\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"John Deere\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEEa9V0QBAr8Q/company-logo_100_100/0/1566327195160?e=1641427200&v=beta&t=yskD2aKfcLQPiAQmuC5vsdlB6RNyAy8OsEO35M0qTOk\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Des Moines\", \"addressRegion\": \"IA\", \"postalCode\": \"50395\", \"streetAddress\": null}, \"latitude\": 41.58882, \"longitude\": -93.62031}, \"skills\": \"\", \"title\": \"Senior Software Engineer\", \"validThrough\": \"2021-11-04T17:21:56.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

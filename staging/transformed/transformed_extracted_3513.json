@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-13T09:31:36.000Z\", \"description\": \"Some of the characteristics the manager is looking for in a contractor for this role are:<br><ul><li> Knowledge and experience in building and analyzing linear regression, logistic regression, generalized linear models, and time series models</li><li> Experience in converting business problems into statistical problems, building models to solve the statistical problem, then use the models to develop business recommendations to solve the business problem</li><li> Knowledge of optimization techniques and application to business problems</li><li> Experience in pulling data from multiple sources, cleaning the data, and preparing the data for analysis</li><li> Experience in using a structure workflow in their problem solving</li><li> Experience in using Git to manage model versions</li><li> Experience with R and Python</li><li> 3+ years of applying the above in a business environment<br></li></ul>,<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Horizontal Talent\", \"sameAs\": \"https://www.linkedin.com/company/horizontal-talent\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQEZX3ynUQuAAA/company-logo_200_200/0/1625160516427?e=1637193600&v=beta&t=6KE87LDOzEJVIX0kvDyZgyowCMQhpool_topDCjV8mc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Horizontal Talent\", \"value\": \"bullhorn_json-49602\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQEZX3ynUQuAAA/company-logo_100_100/0/1625160516427?e=1637193600&v=beta&t=pvMfMGlLtiAcTihB8i3Dq5ctWRUsH-_7nX0Ik4ZOUJc\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Stamford\", \"addressRegion\": \"CT\", \"postalCode\": \"06928\", \"streetAddress\": null}, \"latitude\": 41.051926, \"longitude\": -73.539474}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-12T09:31:35.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

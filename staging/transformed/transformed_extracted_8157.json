@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-14T00:00:00.000Z\", \"description\": \"Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals, and branded generic medicines. Our 109,000 colleagues serve people in more than 160 countries.<br><br><strong><u>Software Engineer I \\u2013 St Paul (Little Canada) Tech Center<br><br></u></strong>Join a dynamic and motivated team at Abbott Electrophysiology (EP), developing medical products that set the bar for clinical excellence and efficient workflow. Our products provide cutting edge, advanced software to enable 3D cardiac models which help in diagnosing and treating cardiac disease. As a member of the software development team you will help take these products to the next level and reduce cost, improve quality, increase access. The Software Engineer I contributes to all phases of the software lifecycle, including concept development, requirements, design, implementation, and testing.<br><br><strong><u>Primary Duties And Responsibilities<br></u></strong><ul><li>Write well-designed, testable code</li><li>Develop Machine learning capabilities for recognizing and analyzing cardiac images</li><li>Work closely with cross-functional teams in Systems and hardware/firmware to develop optimal solutions combining software and embedded software on FPGA\\u2019s</li><li>Integrate software components into functional software system</li><li>Develop graphical user interface components</li><li>Develop manual and automated tests for software verification as needed</li><li>Develop and maintain documentation to identify design, requirements, and solutions</li><li>Utilize your familiarity with all aspects of Software Development Life Cycle and methodologies</li><li>Communicate effectively both within immediate team and across the program and business leadership team<br></li></ul><strong><u>Required Qualifications<br></u></strong><ul><li>B.S. in Computer Engineering, Computer Science, Electrical Engineering, Computer Systems Engineering, Software Engineering, or related discipline.</li><li>Excellent C++/C#/Java knowledge<br></li></ul><strong><u>Preferred<br></u></strong><ul><li>Master\\u2019s Degree in Engineering (Computer, Electrical, Computer Systems, or Software), Computer Science, or related discipline / Advanced degree may substitute for up years of experience</li><li>2+ months of software engineering design.</li><li>Excellent documentation skills</li><li>Strong understanding of the hardware/software interface</li><li>Experience working in a Linux environment</li><li>Experience working in a regulated environment (preferably medical)</li><li>Strong oral and written communication skills</li><li>Strong interpersonal skills</li><li>Software development tool experience such as Perforce, Jira, Jenkins<br></li></ul><strong><u>What We Offer<br><br></u></strong>At Abbott, you can have a good job that can grow into a great career. We offer:<br><ul><li>Training and career development, with onboarding programs for new employees and tuition assistance and student loan repayment program</li><li>Student Loan Repayment Assistance</li><li>Financial security through competitive compensation, incentives, and retirement plans </li><li>Health care and well-being programs including medical, dental, vision, wellness and occupational health programs </li><li>Paid time off </li><li>401(k) retirement savings with a generous company match </li><li>The stability of a company with a record of strong financial performance and history of being actively involved in local communities <br></li></ul><strong><em>Learn more about our benefits that add real value to your life to help you live fully:\\u202f </em></strong><em>www.abbottbenefits.com<br><br></em><em>Follow your career aspirations to Abbott for diverse opportunities with a company that provides the growth and strength to build your future. Abbott is an Equal Opportunity Employer, committed to employee diversity.<br><br></em><em>Connect with us at </em><em>www.abbott.com</em><em>, on Facebook at </em><em>www.facebook.com/Abbott</em><em> and on Twitter @AbbottNews and @AbbottGlobal.</em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Abbott\", \"sameAs\": \"https://www.linkedin.com/company/abbott-\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHOkTAbXwQjcg/company-logo_200_200/0/1625141088050?e=1642636800&v=beta&t=jZJI6jcB5Nn0IoVLUE2WqFejbCFlnVx6XX8LtTOTTnk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Abbott\", \"value\": \"8127260d4752f78396ce18470a7091fe\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHOkTAbXwQjcg/company-logo_100_100/0/1625141088050?e=1642636800&v=beta&t=_Oj9abufVAKpqJZkq0I-nyTwSBBU_bf9eUw-59xHce4\", \"industry\": \"Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Minneapolis\\u2013Saint Paul\", \"addressRegion\": \"MN\", \"postalCode\": \"56304\", \"streetAddress\": null}, \"latitude\": 44.95, \"longitude\": -93.2}, \"skills\": \"\", \"title\": \"Software Engineer I\", \"validThrough\": \"2021-11-13T16:04:28.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

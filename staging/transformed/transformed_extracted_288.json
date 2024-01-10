@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-11T23:38:43.000Z\", \"description\": \"<p><strong>Lead Software Engineer, (Python), </strong>($175-225k), 100% remote.</p><p><br></p><p>ABOUT US:</p><ul><li>Fast-Growing, Disruptive SaaS in Fintech,</li><li>Silicon Valley Startup, $120M Series-B, Profitable,</li><li>Proven Industry Veteran Execs with very successful exits</li><li>Excellent Pay, Benefits, Equity, 100% remote, telecommute.</li></ul><p><br></p><p>ABOUT YOU:</p><ul><li>10+ years of Professional Backend Software Engineering</li><li>Strong Python, API Development, REST, AWS</li><li>Distributed Systems, Highly Scalable Systems,</li><li>Excellent Collaboration skills, Team Lead skills</li><li>Excited to build our core Payments Platform eventually used by millions</li></ul><p><br></p><p>Nice to have:</p><ul><li>High traffic Backend Development for Consumer Web (nice to have)</li><li>Startup experience (nice to have)</li><li>Payments Processing experience</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Walter Bacon, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/walter-bacon-llc\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQHOVWApieZFpg/company-logo_200_200/0/1519892786746?e=1634169600&v=beta&t=H3a_u2ZALe0jCCAneLPPud-FGg133JNohTchDby5ZUg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Walter Bacon, Inc.\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQHOVWApieZFpg/company-logo_100_100/0/1519892786746?e=1634169600&v=beta&t=T_36iBt9P-nMy1iWkGXOgbEfjN6CnY_pFo6BpedHA0k\", \"industry\": \"Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Austin\", \"addressRegion\": \"Texas Metropolitan Area\", \"postalCode\": \"78723\", \"streetAddress\": null}, \"latitude\": 30.276316, \"longitude\": -97.70931}, \"skills\": \"\", \"title\": \"Lead Software Engineer (Python) ($175-225k), 100% remote\", \"validThrough\": \"2021-08-10T23:38:41.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 120}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 170000, \"maxValue\": 225000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

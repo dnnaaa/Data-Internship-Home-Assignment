@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-11T00:00:00.000Z\", \"description\": \"At Iron Mountain we protect what our customers value most, from the everyday to the extraordinary, while helping them bridge the physical and digital world. Our people have the opportunity to bring their creativity to a workplace that thrives on change. Here, you will be part of a team that doesn\\u2019t just embrace what\\u2019s exceptional. It creates exceptional.<br><br><strong><u>Job Summary<br><br></u></strong>InSight is a cutting-edge AI enablement platform that applies industry leading ML tools, including custom models, to classify and extract entities from unstructured content (Document Images, Audio and Video files, other data files and sources).<br><br>The ML Engineer is responsible for the development/deployment of Machine Learning models and other data processing algorithms for new and existing customer implementations into Insight.<br><br>The ML engineer works closely with multiple internal Iron Mountain teams to develop tech driven implementation solutions, create/enhance tools for performance improvement.<br><br><strong><u>Essential Job Responsibilities<br></u></strong><ul><li>Develop and deploy machine learning solution to perform classification and entity extraction of various forms of digital content (Images, Audio/video, and other digital file formats).</li><li>Work with project managers, solution architects and other ML engineers to deliver ML solutions into Iron Mountain Insight Platform.</li><li>Perform feasibility analysis and deliver PoCs for various customer requirements associated to the processing of digital content.</li><li>Applying effective visualization tools to make descriptive analysis and results intuitive and informative to the team and customers.<br></li></ul><strong><u>Functional Knowledge Skills &amp; Competencies<br><br></u></strong><strong>Education:</strong> Bachelor or Master's degree in Computer Engineering, Computer Science (Master degree preferred)<br><br><strong><u>Skills<br></u></strong><ul><li>Professional experience in Python programming.</li><li>Understanding on Machine Learning and AI techniques.</li><li>Experience of cloud technologies and solutions - GCP Preferred.</li><li>Familiar with docker container and microservice deployment</li><li>Ability to multi-task and prioritize issues in a complex environment.<br></li></ul>Category: Information Technology Group<br><br>Iron Mountain is committed to a policy of equal employment opportunity. We recruit and hire applicants without regard to race, color, religion, sex (including pregnancy), national origin, disability, age, sexual orientation, veteran status, genetic information, gender identity, gender expression, or any other factor prohibited by law.<br><br>To view the Equal Employment Opportunity is the Law posters and the supplement, as well as the Pay Transparency Policy Statement, CLICK HERE<br><br><strong>Requisition:</strong> J0031366\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Iron Mountain\", \"sameAs\": \"https://www.linkedin.com/company/iron-mountain\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFOlEC0IIFqkw/company-logo_200_200/0/1625144652432?e=1637193600&v=beta&t=TgWiVtc07IKUQfNjK3yGRL4bsCP7GW-B674D4HQq6MA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Iron Mountain\", \"value\": \"edbd16441cddfc7e6acc8b6815849f7f\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFOlEC0IIFqkw/company-logo_100_100/0/1625144652432?e=1637193600&v=beta&t=my625fQtH4Tsmv0Olt4HJxS-6dHg__XFWAdlSmlYrsU\", \"industry\": \"Information Technology and Services,Transportation/Trucking/Railroad,Warehousing\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Tallahassee\", \"addressRegion\": \"FL\", \"postalCode\": \"32395\", \"streetAddress\": null}, \"latitude\": 30.44074, \"longitude\": -84.27833}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-11T06:39:47.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

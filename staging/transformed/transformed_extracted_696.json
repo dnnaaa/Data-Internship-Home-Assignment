@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-15T20:22:34.000Z\", \"description\": \"AI/ML Data Scientist<br>Salary: $150K<br>Interview Mode: Video Interviews<br>susan@softwaregroupinc.com <br><br>Required Skills Set:<br><br>Years of Experience:3+ years of experience in developing and implementing AI/Client related projects<br><br>Education Required: Ph.D<br><br>Strong technical skills on machine learning/AI with proven track record. These technical skills include, but not limited to, regression techniques, neural networks, decision trees, clustering, pattern recognition, probability theory, stochastic systems, Bayesian inference, statistical techniques, deep learning, supervised learning, unsupervised learning, Reinforcement Learning<br><br>Strong technical knowledge on big data technologies, AWS AI/Client platforms such as SageMaker<br>Outstanding track record of successful solutions design in the digital space<br>Experienced in using AI/Client platforms, technologies, techniques (e.g. TensorFlow, Apache MXnet, Theano, Keras, CNTK, scikit-learn, H2O, Spark MLlib, etc).<br>Proficiency with SQL and NoSQL databases<br>Proficiency with scalable data extraction tools (e.g. Cassandra, MongoDB)<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Software Group Inc\", \"sameAs\": \"https://www.linkedin.com/company/software-group-inc\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQHb1Z03wdp_MQ/company-logo_200_200/0/1564042710736?e=1634169600&v=beta&t=GlhgSk4g7FoBnNsmV7_-P1e89VdMvp7yEJOWXQegUpQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Software Group Inc\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQHb1Z03wdp_MQ/company-logo_100_100/0/1564042710736?e=1634169600&v=beta&t=1i2CNLaOBZzxpJh1GaAEyojcDwFOiPYID7sEcxI8C-E\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Chicago\", \"addressRegion\": \"IL\", \"postalCode\": \"60654\", \"streetAddress\": null}, \"latitude\": 41.88323, \"longitude\": -87.6324}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-08-14T20:22:34.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-24T01:28:06.000Z\", \"description\": \"<p><strong><u>Project Description:</u></strong></p><p><br></p><p>Tax and Accounting group within the client. The mission of this engagement is to improve reliability, availability and performance of the flagship produce - CCH Axcess.</p><p>Axcess is a product suite made out of number of products that serve the accounting clients. </p><p>The clients of company that use this product are the accountants and accounting firms.</p><p><br></p><p><strong><u>Responsibilities:</u></strong></p><p><br></p><ul><li>- Perform analysis and Design, transform high-level design into low-level design, and implementation.</li><li>- To collaborate with an agile team that is passionate about utilizing emerging technologies and delivering high quality and timely code.</li><li>- Good understanding and experience following design patterns, test-driven development and continuous integration practices</li><li>- Build automated, scalable services and systems to power our growing Azure cloud infrastructure</li><li>- Software prototyping and construction - Design, Build, and Modify existing business tier components, Web applications, and database objects using Microsoft platform technologies (.NET Web API) and Azure.</li><li>- Work with Quality Assurance Team on issue reporting, resolution, and change control</li><li>- Support and Troubleshooting - Assist Operations Team with any environment issues during application deployment across Development, QA, Staging, and Production environments.</li><li>- Assist other cross teams with troubleshooting problems that may arise from applications or integration of various components.</li></ul><p><br></p><p><strong><u>Skills Description:</u></strong></p><ul><li>C# .Net, ASP .Net, TFS, Git, Cloud Experience (Azure, GCP, AWS), Solid experience building REST APIs</li></ul><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Luxoft\", \"sameAs\": \"https://ch.linkedin.com/company/luxoft\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQEaPpbzTwh0Vw/company-logo_200_200/0/1560519830379?e=1637798400&v=beta&t=l0KwEGOkCFBJccJCC_nGhjd6imIeMOFtSUs42VufXBI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Luxoft\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQEaPpbzTwh0Vw/company-logo_100_100/0/1560519830379?e=1637798400&v=beta&t=WuZabsn_rIEj-PU5H_5hV39yxAvX5uyhPWG4blHw7f8\", \"industry\": \"Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Software Engineer c# .Net (with Azure)\", \"validThrough\": \"2021-09-23T01:28:06.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

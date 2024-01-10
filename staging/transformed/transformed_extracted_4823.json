@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T00:00:00.000Z\", \"description\": \"Want to help everyday Americans invest and build wealth? Financial inequality is increasing, and too many people are getting left behind. At Stash, we are passionate about democratizing wealth creation through education, advice, and products that help customers achieve greater financial freedom.<br><br>Stash is looking for a Data Scientist with a passion for building reliable, scalable, and performant data systems and software. We look for strategic thinkers and creative problem solvers with a bias for execution and we\\u2019ll expect you to contribute code as well as product/feature ideas from the get-go. If you are looking for a culture that encourages ownership, taking calculated risks, being data-driven and that values evidence over ego, this may be the role for you.<br><br><strong>What You\\u2019ll Do<br><br></strong><ul><li>Build and maintain scalable data systems and infrastructure that empower our marketing, product and business teams to make better decisions</li><li>Develop ETL pipelines that enhance source data to create more actionable insights</li><li>Work with large datasets to help us better understand our customers and anticipate their needs through distributed computation techniques</li><li>Make rigorous statistical inferences from A/B testing on our product and customer segments</li><li>Normalize our data across institutions and sources using semi-supervised learning<br><br></li></ul><strong>Who We\\u2019re Looking For<br><br></strong><ul><li>MS in Computer Science, Statistics, Applied Mathematics, Physics, Engineering or a related field with 3+ years of experience</li><li>3+ years of professional programming work in Python, Scala, Java, or similar</li><li>Experience with Pandas, R, or other statistical modeling frameworks</li><li>An understanding of storing and querying data from Redshift, PostgreSQL, or similar database infrastructures</li><li>Passion to use all aspects of data science, programming, and technology to build the financial advisor of the future</li><li>Experience using machine learning to improve algorithmic systems</li><li>Comfort with distributed computing, specifically Pyspark, AWS EMR, and Airflow</li><li>Knowledge of Looker or similar front end analytics platforms</li><li>Data Engineering and ETL experience is a big plus!<br><br></li></ul>At Stash it is our mission to help everyday Americans invest and build wealth. That includes people of all races, genders, and abilities, so it is important to us to acknowledge and address the issues of inequality in financial services head on.<br><br>Diversity and inclusion are essential to living our values, promoting innovation, and building the best products. Our success is directly related to our employees and we believe that our team should reflect the diversity of the customers that we serve. As an Equal Opportunity Employer, Stash is committed to building an inclusive environment for people of all backgrounds.<br><br>If you require any reasonable accommodations to make your application process more accessible please reach out to recruiting@Stash.com.<br><br><strong>Invest In Yourself<br><br></strong><ul><li>Equity &amp; Stash Accounts [Invest, Retire, Custodial, Bank] </li><li>Flexible PTO </li><li>Learning &amp; Development Fund </li><li>Work from Home Stipends</li><li>Parental Leave [Primary &amp; Secondary]<br><br></li></ul><strong>Recognition<br><br></strong><ul><li>BuiltIn\\u2019s Best Places to Work (2019, 2020, 2021) </li><li>Forbes Fintech 50 (2019, 2020, 2021)</li><li>Best Digital Bank, Finovate Awards (2020)</li><li>Tearsheet Challenge Awards, Best Banking Card Product - Stock-Back\\u00ae Card, 2020</li><li>LendIt Fintech Innovator of the Year (2019 &amp; 2020)</li><li>No recruiters, please**<br><br></li></ul><em>This position may be performed remotely anywhere within the United States except the State of Colorado.</em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Stash\", \"sameAs\": \"https://www.linkedin.com/company/stashfinancial\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGEXKwyP75jBQ/company-logo_200_200/0/1607631430521?e=1637798400&v=beta&t=jYk2XQOAyZ9see-RjoLtYwm8_-FVlVu18A1Tk60n_9E\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Stash\", \"value\": \"3373515\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGEXKwyP75jBQ/company-logo_100_100/0/1607631430521?e=1637798400&v=beta&t=Ss2-o0awYPcyfbyO_dhaMYnFmAbr-Mkss6NecgXRZRM\", \"industry\": \"Computer Software,Internet,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-18T03:03:01.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

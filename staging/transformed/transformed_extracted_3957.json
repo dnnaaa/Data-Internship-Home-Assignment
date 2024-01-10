@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T07:12:33.000Z\", \"description\": \"Cognizant is seeking Software Engineer Manager for the Healthcare Industry<br><br>Location: Teaneck, NJ<br><br><strong><u>Job Description<br><br></u></strong>Temp Remote Allowed. \\\"Skills- .NET, Angular, GRPC/WCF(SOA),ENTITY FRAMEWORK,SQL,HTML,CSSHands on leading by examples and contributing to software.<br><ul><li> Assist in maintenances and upgrades of existing software applications.</li><li> Participate in Design reviews and recommend improvements.</li><li> Provide support in all phases of SDLC and ensure to deliver high-quality products. - Provide trainings and mentor other Engineers when required.</li><li> Analyze and troubleshoot application issues in a timely fashion.</li><li> Develop most effective technical solutions to meet business requirements.</li><li> Work with other as part of Scrum Team, planning, prioritizing and executing assigned tasks within deadlines.</li><li> Attend Team meetings to communicate technical project status and discuss about new ideas and any issues.</li><li> ensure quality and productivity while working.</li><li> Work with QA Team in preparing test cases, plans and procedures.\\\"<br></li></ul>Employee Status : Full Time Employee<br><br>Shift : Day Job<br><br>Travel : No<br><br>Job Posting : Aug 16 2021<br><br><strong><u>About Cognizant<br><br></u></strong>Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 185 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @USJobsCognizant.<br><br>Applicants may be required to attend interviews in person or by video conference. In addition, candidates may be required to present their current state or government issued ID during each interview.<br><br>Cognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.<br><br>If you have a disability that requires a reasonable accommodation to search for a job opening or submit an application, please email CareersNA2@cognizant.com with your request and contact information.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Cognizant\", \"sameAs\": \"https://www.linkedin.com/company/cognizant\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEoboJe0-DUPg/company-logo_200_200/0/1625144835174?e=1637193600&v=beta&t=3SIj-ajVnN7XDHJzr40lkcTzQGr6ZKpRWIIhGGfx-aE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Cognizant\", \"value\": \"c2410233b35825273b9839ed8c270e59\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEoboJe0-DUPg/company-logo_100_100/0/1625144835174?e=1637193600&v=beta&t=qcE5uXx1qTq4AIn14_itzK97D1NayboJ-1SxFY3Eid4\", \"industry\": \"Information Technology and Services,Management Consulting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Teaneck\", \"addressRegion\": \"NJ\", \"postalCode\": \"08810\", \"streetAddress\": null}, \"latitude\": 40.88482, \"longitude\": -74.00655}, \"skills\": \"\", \"title\": \"Software Engineer Manager\", \"validThrough\": \"2021-09-16T07:12:32.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

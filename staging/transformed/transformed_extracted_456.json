@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-14T12:54:02.000Z\", \"description\": \"<p><strong>Job Description:</strong></p><p><br></p><p>&nbsp;</p><ul><li>Bachelor\\u2019s degree in Data Analytics, Data Science, or similar.</li><li>Minimum of five years\\u2019 experience working with structured and non-structured data to deliver business intelligence.</li><li>Proven track record of developing dashboards and reports to meet business needs.</li><li>Hands on experience working with Business Intelligence software to meet operational needs and visualize strategic growth opportunities to management.</li><li>Extensive experience with databases.</li><li>Prior application of data and reporting integrity and sustainability.</li><li>&nbsp;</li></ul><p><strong>Preferred Competencies:</strong></p><p>&nbsp;</p><ul><li>eCommerce platforms (ideally Magento)</li><li>Google Analytics</li><li>Netsuite</li><li>PowerBI</li><li>QuickBase</li><li>SQL Server</li><li>Python or R</li></ul><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning/ Artificial Intelligence is a plus</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"JRD Systems\", \"sameAs\": \"https://www.linkedin.com/company/jrd-systems\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQHAJJhISLpMNg/company-logo_200_200/0/1519907594780?e=1634169600&v=beta&t=gw_XSyP3HpnlvbjlwTSj9Qvxa_04aeAdj7mPI336y7E\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"JRD Systems\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQHAJJhISLpMNg/company-logo_100_100/0/1519907594780?e=1634169600&v=beta&t=ROCFg-TKL7HhHTRKvdhOdICyaTAa1FA8oMq02jhdz9E\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Plymouth\", \"addressRegion\": \"MI\", \"postalCode\": \"48170\", \"streetAddress\": null}, \"latitude\": 42.370724, \"longitude\": -83.46905}, \"skills\": \"\", \"title\": \"Data Scientist(Machine Learning,Python) \", \"validThrough\": \"2021-08-13T12:54:01.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

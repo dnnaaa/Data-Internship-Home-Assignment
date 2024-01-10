@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T15:26:04.000Z\", \"description\": \"<p><strong>Responsibilities</strong></p><p><br></p><ul><li>Work with a small team of data scientists, software engineers and domain experts to build the next generation of Novi\\u2019s platform</li><li>Develop novel solutions to open-ended, challenging and long-standing industry problems</li><li>Engage in thought leadership within the company and community</li><li>Mentor other team members on domain knowledge and technical solutions</li><li>Develop software to deliver solutions to ill-posed problems using sparse, noisy spatiotemporal data</li></ul><p><br></p><p><strong>Required Skills &amp;</strong> E<strong>xperience</strong></p><ul><li>Minimum 5 years of hands-on data science and machine learning experience</li><li>Foundation in integrating data-driven methods with physics-based models</li><li>Strong foundation in statistics and machine Learning</li><li>Strong software engineering principles and software development lifecycle experience (e.g., git, unit tests, CI)</li><li>Strong familiarity with Python and PyData stack (e.g., pandas, numpy, scipy)</li><li>Strong familiarity with ML Frameworks (e.g., scikit-learn, PyTorch, TensorFlow)</li><li>Experience going from algorithm development to production code</li><li>Experience modeling time series and spatial datasets</li><li>Experience deploying callable ML models in a production environment (e.g., REST API, TensorFlow Serving)</li></ul><p><br></p><p><strong>Preferred Skills &amp;</strong> E<strong>xperience</strong></p><ul><li>Open-source plotting libraries (e.g., altair, matplotlib, holoviz)</li><li>Database query &amp; ETL (SQL &amp; NoSQL)</li><li>AWS tools (e.g., lambda, EC2, etc.)</li><li>Probabilistic programming (e.g., Stan, PyMC, Pyro)</li><li>Model interpretation and explainability tools (e.g., Shapley)</li><li>Linux systems and command-line interfaces (e.g., bash)</li><li>Container and orchestration tools (e.g., Docker, Kubernetes, Nomad)</li><li>Previous work on an agile team</li><li>Experience in oil and gas</li></ul><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Quest Groups LLC\", \"sameAs\": \"https://www.linkedin.com/company/quest-groups\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQE0t8IV8nwEqA/company-logo_200_200/0/1553624366035?e=1637798400&v=beta&t=VGmDmeZfbUOHVtsMaNtqG5Ob2rQHzUVVR9w8F1MyTyk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Quest Groups LLC\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQE0t8IV8nwEqA/company-logo_100_100/0/1553624366035?e=1637798400&v=beta&t=EcDgWR9rXaq8nVyi5izun_oqi7GNLUlYNRnUfqZKHR4\", \"industry\": \"Oil & Energy\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Austin\", \"addressRegion\": \"TX\", \"postalCode\": \"78746\", \"streetAddress\": null}, \"latitude\": 30.264978, \"longitude\": -97.7466}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-19T15:26:04.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-12T05:14:24.000Z\", \"description\": \"<strong><u>Company<br><br></u></strong>US6469 Sysco Payroll, Division of Sysco Resources Services, LLC<br><br><strong><u>Zip Code<br><br></u></strong>77077<br><br><strong><u>Employment Type<br><br></u></strong>Full Time<br><br><strong><u>Travel Percentage<br><br></u></strong>0<br><br><strong><u>Summary<br><br></u></strong>Provides entry level system analysis, design, development, and implementation of software and technical solutions with the direction and close supervision of a more senior developer<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Supports team of developers in building code to meet product/platform requirements</li><li>Supports product/platform owner and experienced developers in developing functional application designs and other work products to meet basic design objectives</li><li>Ensures work products meet detailed customer and user requirements</li><li>Participates in design reviews to provide input on functional requirements, product designs, schedules, or potential problems</li><li>Creates and document system design specifications and other technical documents as required</li><li>Elevates code into the development, test, and production environments on schedule</li><li>Assists in automating test procedures to ensure repeatability and compliance with standards</li><li>Learns and follows software development methodology and architecture standards<br></li></ul><strong><u>Mandatory Experience<br></u></strong><ul><li>Bachelor\\u2019s degree in CS or 1 year of relevant developer experience</li><li>0-2 year experiences as a developer or systems analyst, depending on education</li><li>Basic understanding of one or more development tools and modern programming languages (Java, JavaScript, C#, Python, Ruby, Groovy)</li><li>Basic understanding of Scrum, Lean, XP, Kanban and other agile development techniques</li><li>Basic knowledge of DevOps, including continuous integration, continuous deployment / delivery, configuration and containerization, infrastructure as a code, and monitoring<br></li></ul><strong>Competencies<br></strong><ul><li>Strong problem solving skills</li><li>Self-driven, ability to work independently</li><li>Dynamic learner that isn't afraid to get their hands dirty</li><li>Good communication skills<br></li></ul><strong><u>Benefits Information<br><br></u></strong>Candidates who start work in the months of May, June, July, August and September 2021 may be eligible for medical and prescription drug plan coverage effective on their date of hire*. Standard eligibility rules and timelines apply to all other Sysco benefits, including additional healthcare benefits options, retirement benefits, vacation, and paid sick leave. Please visit https://syscobenefits.com/careers to view additional benefits information. *Exceptions/exclusions may apply<br><br><strong><u>COVID-19 Precaution(s)<br><br></u></strong><strong> HOW WE PROTECT OUR </strong> <strong> ASSOCIATES <br></strong><ul><li>Personal protective equipment and masks provided </li><li>Temperature screenings </li><li>Social distancing guidelines in place </li><li>Sanitizing, disinfecting, and cleaning procedures in place <br></li></ul><strong><u>Overview<br><br></u></strong>Sysco is the global leader in foodservice distribution. With over 57,000 associates and a fleet of over 13,000 vehicles, Sysco operates approximately 326 distribution facilities worldwide and serves more than 625,000 customer locations.<br><br>We offer our associates the opportunity to grow personally and professionally, to contribute to the success of a dynamic organization, and to serve others in a manner that exceeds their expectations. We\\u2019re looking for talented, hard-working individuals to join our team. Come grow with us and let us show you why Sysco is at the heart of food and service.<br><br><strong><u>Affirmative Action Statement<br><br></u></strong>Applicants must be currently authorized to work in the United States.<br><br>We are proud to be an Equal Opportunity and Affirmative Action employer, and consider qualified applicants without regard to race, color, creed, religion, ancestry, national origin, sex, sexual orientation, gender identity, age, disability, veteran status or any other protected factor under federal, state or local law.<br><br>This opportunity is available through Sysco Corporation, its subsidiaries and affiliates.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Sysco\", \"sameAs\": \"https://www.linkedin.com/company/sysco\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQH4CKuntmF_cQ/company-logo_200_200/0/1625595457250?e=1639612800&v=beta&t=iYf8Z-vB1Z2MfBCQK_OpUUv8AvNpgs_JhYnSXdTapas\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Sysco\", \"value\": \"16faf18adb0bd742983ca401260ccb3b\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQH4CKuntmF_cQ/company-logo_100_100/0/1625595457250?e=1639612800&v=beta&t=3bh7wDg8-ywC2X_R4dnlDLGK41GAdx_7CwVJvTqr7zI\", \"industry\": \"Construction,Food & Beverages,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Houston\", \"addressRegion\": \"TX\", \"postalCode\": \"77208\", \"streetAddress\": null}, \"latitude\": 29.760803, \"longitude\": -95.36951}, \"skills\": \"\", \"title\": \"Junior Software Engineer - Corporate - US-1\", \"validThrough\": \"2021-10-12T05:14:24.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

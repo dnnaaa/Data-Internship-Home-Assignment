@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T18:03:54.000Z\", \"description\": \"<p><strong>Location: </strong>Boston, MA (100% Remote)</p><p><strong>Job Type: </strong>Full-time Emplyment (FTE)</p><p><br></p><p><strong>ONCE IN A LIFETIME FULL-TIME JOB OPPORTUNITY FOR SOFTWARE ENGINEERS</strong>!</p><p><br></p><p>Our <u>direct</u> client is currently searching for all levels of Software Engineers from 3-20+ years of experience. (Mid-Level, Senior, Principal, Technical Lead, Architect)</p><p><br></p><p><strong>Base Salary: $150,000-$250,000+ per year</strong></p><ul><li>100% REMOTE (Headquartered in Boston)</li><li>UNLIMITED PTO</li><li>RSU's available! (Restricted Stock Units)!!</li></ul><p><strong>&nbsp;</strong></p><p><strong><u>Job Details:</u></strong></p><ul><li>Wildly successful and rapidly growing client is building and maintaining cutting-edge E-Commerce platforms from the ground up comparable to the likes of Facebook, Twitter, UBER, Amazon, WAYFAIR, and more.&nbsp;There are many concurrent projects going on with teams of proven experts, and now they're looking for additional top talent to bolster their growing teams to keep up with increasing demand!&nbsp;</li><li>Client is an extremely well-funded E-Commerce company currently valued at $15B.</li></ul><p><br></p><p><strong><u>Critical Backgroung We\\u2019re Looking For:</u></strong></p><ul><li>Experience from a fast-moving e-commerce software firm (start-ups okay)</li><li>Experience with areas like shopping cart, logistics, consumer experience, data warehousing, supply chain management, fulfillment, storefront design, code internationalization and more.</li><li>Experienced in multiple technology stacks (not looking for strictly .NET of Java folks)</li><li>Primary languages include Javascript\\u2019Tyoscript &amp; Java Microservices (not J2EE)</li><li>Desired IU Libraries: React Native and Graphql, but all are welcome</li><li>Desired back-end technologies include:&nbsp;Micronaut, Dropwizard and Spring Boot (in that order), a mix of the above would be ideal.</li><li>A passion for software design/development - any and all languages are welcome, they use predominantly Java, go, kubernetes, react, etc. </li><li>Any experience with Golang is a bonus!</li><li>Our client is definitely not a start-up, but they love people who have lived and learned from them and bring that collaborative mentality and passion along with them to get stuff done!</li></ul><p><br></p><p><strong><u>Please Contact:</u></strong></p><p>Chris Thelen \\u2013 VP of Sales</p><p>Growe Technologies, Inc.</p><p>Phone: 612-619-3092</p><p>Email: cthelen@growetech.com</p><p><br></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Growe Technologies, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/growe-technologies\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHSJR0ZMSD_Ew/company-logo_200_200/0/1553809292496?e=1637193600&v=beta&t=B7YIFAMgFM-8gTzagCA5Ldticr58JrxEj9MDn4kpz94\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Growe Technologies, Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHSJR0ZMSD_Ew/company-logo_100_100/0/1553809292496?e=1637193600&v=beta&t=CcKY2zK2U8BADqEVCmpjHdE_ZzyXEHS8cwQ7_0zEayo\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Boston\", \"addressRegion\": \"MA\", \"postalCode\": \"02118\", \"streetAddress\": null}, \"latitude\": 42.358994, \"longitude\": -71.05863}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2022-02-14T18:03:54.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 150000, \"maxValue\": 250000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

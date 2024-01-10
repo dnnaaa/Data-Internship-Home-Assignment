@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:36:43.000Z\", \"description\": \"<strong><strong>At Shipt, we are transforming the grocery shopping experience and giving time back to consumers. Shipt shoppers handpick fresh groceries and household essentials, then deliver them to your door in as little as one hour.<br><br></strong></strong><strong> At Shipt, we\\u2019re using machine learning (ML) and analytics to drive our business forward. We\\u2019re looking for help understanding our data, optimizing our processes, and making predictions to improve our product and customer experience. <br><br></strong><strong> The data science team builds data driven solutions using machine learning and modeling techniques. Our solutions include predictive models, clustering, segmentation, complex reporting, and quantitative research. Our ideal candidate will be data-driven, intellectually curious, and a clear communicator with experience building machine learning models. <br><br></strong><strong><u>Responsibilities<br></u></strong><ul><li> Develop best practices for our internal data processes that include model building, insight development, model/insight delivery, and education of consumers to encourage data-driven action </li><li> Design and build new predictive models and optimization routines that have an enterprise level impact. Applications include modeling and capitalizing on demand in a given market, delivering search recommendations, and optimizing internal processes that affect Shipt\\u2019s bottom line </li><li> Coach, lead, and advise other members of the Data Science and engineering teams on ways to approach problems, augment code, and share new techniques. </li><li> Act as a technical advisor to leadership within data science and external teams </li><li> Work with functional team leaders (in Product, Operations, Marketing, etc.) to deploy modeling deliverables and ensure their continued success <br></li></ul><strong><u>Requirements<br></u></strong><ul><li> Multiple years of experience with machine learning and data science in an operational setting </li><li> High degree of proficiency with one of R or Python </li><li> Proficiency with SQL </li><li> Experience with a data visualization tool (Tableau, Chartio, Looker, Spotfire, Power BI, etc.) </li><li> Experience with cloud computing services or platforms </li><li> Comfortable giving verbal presentations and communicating with technologies like Zoom and Slack </li><li> Bachelor\\u2019s degree in a quantitative field or related experience <br></li></ul><strong><strong>Nice To Haves <br></strong></strong><ul><li> Experience deploying predictive models in a cloud environment </li><li> Experience with batch processing frameworks </li><li> Familiarity with AWS or GCP, version control, and peer code review systems </li><li> Familiarity with on-demand and/or multi-sided marketplaces </li><li> Proficiency in both R and Python </li><li> Graduate degree in a quantitative field <br></li></ul><strong> This position can be 100% remote. <br><br></strong><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br></em><em>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br><br></em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Shipt\", \"sameAs\": \"https://www.linkedin.com/company/shipt\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHmPSImvfQRrQ/company-logo_200_200/0/1633121148402?e=1641427200&v=beta&t=Qihq9ldr3JkXTX1NmeDycP-RqqFlEY0cKH0q9ArtJcc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Shipt\", \"value\": \"R1152\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHmPSImvfQRrQ/company-logo_100_100/0/1633121148402?e=1641427200&v=beta&t=MY90WjGo_OxVq5nJb0PX3iKm2KLnSyo6NrC-bm-NuVo\", \"industry\": \"Marketing and Advertising,Computer Software,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco\", \"addressRegion\": \"CA\", \"postalCode\": \"94121\", \"streetAddress\": null}, \"latitude\": 37.78008, \"longitude\": -122.42016}, \"skills\": \"\", \"title\": \"Senior Data Scientist (Remote)\", \"validThrough\": \"2021-11-13T15:51:16.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

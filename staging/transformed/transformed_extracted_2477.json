@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T10:20:59.000Z\", \"description\": \"<p>A Houston based Consultancy are looking to add a Data Scientist to their experience team. The Consultancy are focused towards AI/Data Science and work closely with a range of clients across industries.</p><p>&nbsp;</p><p><strong>Responsibilities</strong></p><ul><li>Analyze raw data: assessing quality, cleansing, structuring for downstream processing</li><li>Design accurate and scalable prediction algorithms</li><li>Collaborate with engineering team to bring analytical prototypes to production</li><li>Generate actionable insights for business improvements</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree or equivalent experience in quantative field (Statistics, Mathematics, Computer Science, Engineering, etc.)</li><li>At least 2+ years' of experience in quantitative analytics or data modeling</li><li>Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms</li><li>Fluency in a programming language (Python, C,C++, Java, SQL)</li><li>Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"X4 Technology \", \"sameAs\": \"https://uk.linkedin.com/company/x4-technology\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHcKLdJpFe6Pg/company-logo_200_200/0/1581592511352?e=1635984000&v=beta&t=i0Dy2bt2Hq4m44xLG1KgWK0SNdWkA_kj9YUcvw5GWF8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"X4 Technology \"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHcKLdJpFe6Pg/company-logo_100_100/0/1581592511352?e=1635984000&v=beta&t=Oj3G-lPtFnIq1-cvwig64PwjHK7ssGhGiSQ297UGMf0\", \"industry\": \"Management Consulting,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Houston\", \"addressRegion\": \"TX\", \"postalCode\": \"77208\", \"streetAddress\": null}, \"latitude\": 29.760803, \"longitude\": -95.36951}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-04T10:20:59.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 120000, \"maxValue\": 160000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

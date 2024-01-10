@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-22T19:11:59.000Z\", \"description\": \"<strong><u>Who We Are<br><br></u></strong>Braid Health is a digital health innovation company focused on the development and delivery of an AI-powered diagnostic collaboration platform for radiology and the healthcare industry.<br><br>Imagine a world in which everyone can access the best medical expertise regardless of where they live, how much money they have, or what they know. We believe access to medical expertise should be universal.<br><br>We\\u2019re generalists and truth seekers with a ton of experience (Apple Design, Twitter AI). We\\u2019re already helping people now and have an opportunity (and responsibility) to help millions or even billions more!<br><br><strong>As a team, we're committed to<br></strong><ul><li>Making sure our impact on patients is positive and measurable</li><li>Investing in each other's growth, both professionally and personally</li><li>Pushing for transparency in our relationships with each other, our customers, and our investors</li><li>Ensuring privacy and security are always top of mind<br><br></li></ul><strong><u>Who You Are<br></u></strong><ul><li>You like building systems that use the latest advancements in Machine Learning (computer vision, NLP, speech recognition, or other). You like taking visionary ideas and turning them into reality</li><li>You want to do something truly meaningful with your time and skills and helping people resonates</li><li>You deliver. You make things happen and avoid over-engineering</li><li>You are resourceful, flexible and adaptable; no task is too big or too small<br><br></li></ul><strong><u>Key Requirements<br></u></strong><ul><li>4+ years of development experience in a company/production setting</li><li>Experience with Machine Learning frameworks such as TensorFlow or PyTorch</li><li>Strong software development skills, with proficiency in multiple languages (ex. Python, Javascript).</li><li>Designed and developed data science solutions relating to streaming data as well as machine learning solutions</li><li>Worked with large datasets and have a deep appreciation for data<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience in building ML models in Computer Vision for image classification or image segmentation</li><li>Built data pipelines to extract, transform, and load datasets in a cloud infrastructure or local.<br><br></li></ul><strong><u>What We Have To Offer<br></u></strong><ul><li>An opportunity to significantly improve healthcare around the world. </li><li>Work with bleeding-edge technologies (like Machine Learning) in novel ways, not yet fully mapped to industries</li><li>Work with a veteran founding team, with a successful track record</li><li>Excellent medical, dental and vision insurance through a PPO plan</li><li>Stock options<br></li></ul>Powered by JazzHR<br><br>VHXuRhhH07\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Braid Health\", \"sameAs\": \"https://www.linkedin.com/company/braid-health\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGzKZ9KTyaM6g/company-logo_200_200/0/1606764155193?e=1637193600&v=beta&t=bJSUal8R4k2rS9M70d3p94WMuQWSoQgcYNN297SmnwM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Braid Health\", \"value\": \"2872876\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGzKZ9KTyaM6g/company-logo_100_100/0/1606764155193?e=1637193600&v=beta&t=ypbIiumgG1oes0ATUTmeTM3eKkpJdD6NaUZ4kpydnB0\", \"industry\": \"Computer Software,Internet,Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco\", \"addressRegion\": \"CA\", \"postalCode\": \"94121\", \"streetAddress\": null}, \"latitude\": 37.78008, \"longitude\": -122.42016}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-15T19:11:59.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

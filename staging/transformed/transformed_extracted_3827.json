@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-16T19:13:05.000Z\", \"description\": \"<strong>Job Description:<br><br></strong>Design and deliver robust, scalable, and secure distributed software systems.<br><br>Create/review technical design documentation and Provide leadership including constructive code reviews and design guidance to team members.<br><br>Work collaboratively in a group of passionate developers in a high energy, fast paced and outcome-oriented environment.<br><br>Lead a technical team by example and foster growth in junior team members.<br><br>Regular, dependable attendance and punctuality.<br><br><strong>Qualifications and Competencies:<br><br></strong>Overall 8+ years of experience in the software development and high-volume enterprise systems.<br><br>Must have Java in depth knowledge - as well as an ability in mastering other tools of the trade, including a variety of modern programming languages as well as experienced in open-source web and data technologies (Spring Boot, NoSQL, Microservices, Cloud services (Google preferred)).<br><br>3+ years of experience in Building cloud-native applications in private &amp; public cloud (GCP preferred).<br><br>4+ years of experience with open source technology technologies in a high volume distributed environment.<br><br>Experience working in a DevOps-oriented culture that prioritizes continuous integration and continuous deployment.<br><br><strong><u>Experience In Multi-channel Retail Technologies Preferred.<br><br></u></strong>Ability to effectively share technical information, communicate technical issues and solutions to all levels of business<br><br>Able to juggle multiple projects - can identify primary and secondary objectives, prioritize time and communicate timeline to team members<br><br>Ability and desire to take product/project ownership<br><br>Ability to work a flexible schedule based on department and Company needs.<br><br>Powered by JazzHR<br><br>yW59gbPbt7\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"OmegaHires\", \"sameAs\": \"https://www.linkedin.com/company/omegahires\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGxkjs7NmWS_A/company-logo_200_200/0/1586469052756?e=1637193600&v=beta&t=F1RnQrMdKhmi3tNoCaqeKxzKlvMuNq11MFleSIF--4U\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"OmegaHires\", \"value\": \"3065273\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGxkjs7NmWS_A/company-logo_100_100/0/1586469052756?e=1637193600&v=beta&t=ObLoLJUEhqWztMUwLswgwCk4H84uyxsf6I9LIXeXYw8\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Johns Creek\", \"addressRegion\": \"GA\", \"postalCode\": \"30022\", \"streetAddress\": null}, \"latitude\": 34.041058, \"longitude\": -84.18782}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-15T19:13:05.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 96}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

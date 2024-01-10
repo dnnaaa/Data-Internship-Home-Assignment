@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T15:08:27.000Z\", \"description\": \"<p>Software Developer - Award Winning Fintech - up to $120,000</p><p><br></p><p><strong>Job title:</strong> Software Developer</p><p><strong>Client:</strong> Multi Award Winning Fintech</p><p><strong>Salary:</strong> Up to $120,000 + bonus + package</p><p><strong>Location:</strong> Boston</p><p><br></p><p>My client is doing exceptionally well at the moment so are looking to add a software developer to their expanding team! You will join a company with a flat structure and gain a large amount of exposure to greenfield projects focusing on the finance arena. They want someone that is eager to continue learning and someone with great energy who is keen to work in a fast paced environment!</p><p><br></p><p><strong>CANDIDATE REQUIREMENTS</strong></p><ul><li>2+ years industry experience working in a software engineering role</li><li>Degree from reputable university with a high GPA in Computer science</li><li>Proficient with Java, Python or C++</li><li>Passionate about technology</li><li>Bubbly personality with a desire to learn and progress!</li></ul><p><br></p><p><strong>DESIREABLE</strong></p><ul><li>Experience working in a tech role within financial services would be nice to have</li></ul><p><br></p><p>If this suits you, click apply and we can discuss the role in more depth</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Hunter Bond\", \"sameAs\": \"https://uk.linkedin.com/company/hunter-bond\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGmcHOMn4s7xA/company-logo_200_200/0/1625485764612?e=1637193600&v=beta&t=WbDTWgSSH3jCG0vzpUqCl5E7ThaQqNeCsF6E4JAaghI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Hunter Bond\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGmcHOMn4s7xA/company-logo_100_100/0/1625485764612?e=1637193600&v=beta&t=n7Szpar3qL5w_s5sAJxzsDGF_B4GfpguBcmVzGnSwxA\", \"industry\": \"Financial Services,Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Boston\", \"addressRegion\": \"MA\", \"postalCode\": \"02118\", \"streetAddress\": null}, \"latitude\": 42.358994, \"longitude\": -71.05863}, \"skills\": \"\", \"title\": \"Software Engineer - $120,000 + bonus + package\", \"validThrough\": \"2021-09-16T15:08:26.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

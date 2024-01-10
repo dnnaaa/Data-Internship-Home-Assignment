@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T22:42:26.000Z\", \"description\": \"Job Title: <strong>Software Engineer - C++/QT/QML<br><br></strong>Location: <strong>Asheville, NC<br><br></strong>Duration: <strong>Full time/ Long Term contract<br><br></strong><strong><u>Requirements<br></u></strong><ul><li>BS Degree in Computer Science, Computer Engineering, or equivalent</li><li>Demonstrated understanding of programming concepts, architecture, and full stack integration</li><li>Coding experience in C++, QML, and Python</li><li>Prior experience with QT GUI programming</li><li>Comfort working in a fast-paced, highly collaborative environment relying on tools such as GIT</li><li>Ability to document both the requirements and design document as part of standard work.</li><li>Familiarity with hardware control concepts, such as motion control integration</li><li>Background in programming interfaces for equipment</li><li>Embedded Linux OS experience<br></li></ul><strong>You can also apply via: </strong>http://jobd.info/?id=SSrkKp<br><br><strong><u>Recruiter Details<br><br></u></strong><strong>Praveen Rao<br><br></strong>(302) 214-0551<br><br>praveen_us@falconsmartit.com<br><br>Find all current job openings at our Career Page<br><br>https://www.falconsmartit.com/FalconCareer.html<br><br>Follow us on LinkedIn for Job Opportunities<br><br>https://www.linkedin.com/company/falconsmartit/\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Falcon Smart IT (FalconSmartIT)\", \"sameAs\": \"https://uk.linkedin.com/company/falconsmartit\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFs181Tff7n_A/company-logo_200_200/0/1612359040205?e=1637798400&v=beta&t=kocIEPykI528zZaM1zwv9y0MjlhNhfCDcwRkJ7x-45s\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Falcon Smart IT (FalconSmartIT)\", \"value\": \" 111390\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFs181Tff7n_A/company-logo_100_100/0/1612359040205?e=1637798400&v=beta&t=A3VdlWEaIkpoq4Yl9fuSpciXPULZYDHl9hCmtP8xRFg\", \"industry\": \"Information Technology and Services,Computer Software,Computer Networking\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dover\", \"addressRegion\": \"DE\", \"postalCode\": \"19901\", \"streetAddress\": null}, \"latitude\": 39.15883, \"longitude\": -75.52114}, \"skills\": \"\", \"title\": \"Software Engineer - C++/QT/QML\", \"validThrough\": \"2021-09-19T22:42:26.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-02T03:40:34.000Z\", \"description\": \"<p><strong>We are:</strong>&nbsp;&nbsp;</p><p>Accenture&nbsp;Federal Services, helping our federal clients tackle their toughest challenges while unleashing their fullest potential\\u2026and then some. What makes our approach so unique? Operating from the nation\\u2019s capital, we bring together commercial innovation and leading-edge technologies to deliver an integrated and interactive experience that far exceeds expectations. How? Our passion meets purpose! Through our diverse culture and inclusive thinking, we embrace our employees' ideas taking them from concept to practical solutions. Not to mention, we sleep well at night knowing our work directly impacts and improves the way the world works. We keep our tech smarts sharp by providing abundant training and certification opportunities. Through our diverse culture, workforce, and inclusive thinking, we embrace our employees' ideas, taking them from concept to practical solutions. Are you ready to learn and grow in a career, while making a difference?&nbsp;</p><p><br></p><p><strong>You are:</strong>&nbsp;</p><p>The MVP of Machine Learning and AI. Infatuated with the possibilities behind this technology, you know we\\u2019ve only scratched the surface.&nbsp;Your enthusiasm&nbsp;radiates, keeping&nbsp;<em>audiences</em>&nbsp;wowed by how you&nbsp;<em>run</em>&nbsp;machine learning experiments using a programming language with machine learning libraries. What sets your&nbsp;<em>stats&nbsp;</em>apart? You're the&nbsp;<em>game changer</em>&nbsp;in the outputs&nbsp;<em>arena&nbsp;</em>that creates significant improvement in functionality for your clients. You execute and optimize machine learning solutions into production for performance and scalability, so it's&nbsp;<em>nothing but net</em>!&nbsp;</p><p><br></p><p><strong>The work:</strong></p><p>Develop machine learning solutions to meet business use cases and to support experimentation and innovation to advance mission outcomes</p><p>Collaborate with business SMEs, architects, data engineers, developers, and data scientists to identify innovative machine learning solutions that leverage data to meet business goals</p><p>Ensure infrastructure and data pipelines are structured to deploy machine learning solutions</p><p><br></p><p><strong>Here\\u2019s what you need:</strong></p><ul><li>Handling large-scale data processing and machine learning workloads and distributed systems using cloud native services on one or more Cloud Platforms (GCP, Azure and/or AWS).</li><li>Coding skills in Python</li><li>Understanding of algorithms, data structures and coding standards</li><li>Productionizing developed Machine Learning solutions using DevOps</li><li>One more thing, this role requires US Citizenship; no dual citizenship</li></ul><p><br></p><p><strong>Bonus Points:</strong></p><ul><li>Bachelor's degree in data science, applied mathematics, computer science or otherwise research-based field</li></ul><p><br></p><p><strong><em><span class=\\\"ql-cursor\\\"></span>Important information:</em></strong></p><p><em>Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture Federal Services</em></p><p><em>Accenture Federal Services is an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.</em></p><p><strong><em>Equal Employment Opportunity:</em></strong></p><p><em>All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.</em></p><p><em>Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Accenture Federal Services is committed to providing veteran employment opportunities to our service men and women.</em></p><p><em>Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.&nbsp; An active security&nbsp;clearance or the ability to obtain one may be required for this role.</em></p><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Accenture Federal Services\", \"sameAs\": \"https://www.linkedin.com/company/accenturefederalservices\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQESB7tVT0r63g/company-logo_200_200/0/1628182923654?e=1638403200&v=beta&t=bncAz2X5HVN9K5PtWBrWZcBgN2w8_g0enEF_R4NWyy4\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Accenture Federal Services\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQESB7tVT0r63g/company-logo_100_100/0/1628182923654?e=1638403200&v=beta&t=bleC_CAOPoWwdCPOEJgF-qqU0zaiG7RO3dWCxrnzg0Y\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Washington DC-Baltimore Area\", \"addressRegion\": null, \"postalCode\": \"21201\", \"streetAddress\": null}, \"latitude\": 38.873062, \"longitude\": -77.007385}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-10-02T03:40:33.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

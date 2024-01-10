@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-02T06:09:54.000Z\", \"description\": \"The volunteer opportunity below is a request from an educator for you to interact with his or her classroom. The interaction is virtual so as long as you have a good internet connection and computer or device with a camera, you can participate from anywhere. The goal of the interaction is to bring real world application, professional experience and relevance to what the educator is teaching. Once you accept the request for one of the dates proposed by the educator, Nepris will provide support and next steps to help you prepare and make sure you are successful. You can also highlight this experience to strengthen the volunteer section of your LinkedIn profile.<br><br><strong>Volunteer Virtual Classroom Speaker (Meet a Software Engineer)<br><br></strong><strong><u>Description<br><br></u></strong>We are investigating potential career pathways. The goal of this conversation is to provide a realistic view of the profession to the students to help them in their decision-making process.<br><br>Key Questions<br><br>What does a typical day look like in your occupation? What do you spend most of your time doing every day?<br><br>What are the day to day responsibilities that someone outside of your field might not know about?<br><br>What can you tell us about related occupations in your field?<br><br>What levels of education and training are required?<br><br>Once you complete the basic educational/training requirements for this occupation, are there other related occupations that a person would be qualified for?<br><br>Tell us how what they are learning in school now applies to your occupation.<br><br>What should their focus be as freshmen if this profession is their ultimate goal?<br><br>Expected Outcomes<br><br>I would like for my students to get a good overview of what to expect from a career in this field and what it takes to get there.<br><br>Requester<br><br>Susan Hollingsworth,K12 VIRTUAL SCHOOLS<br><br>Proposed Dates<br><br>11/11/2021 11:00 AM America/New_York<br><br>Duration<br><br>01 hrs00 mins<br><br>Classes<br><br>Subjects Other<br><br>Grade level<br><br>Middle School, High School<br><br>No. of Students<br><br>23<br><br>Topic<br><br>Meet a Software Engineer<br><br>Sub Topic<br><br>Not Specified<br><br>Preferences<br><br>Not Specified<br><br>Specialties<br><br>Not Specified<br><br>Companies<br><br>Not Specified\", \"employmentType\": \"OTHER\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Nepris Inc.\", \"sameAs\": \"https://www.linkedin.com/company/nepris\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHY8qMO3WXLOg/company-logo_200_200/0/1550161111055?e=1638403200&v=beta&t=7O4zarOPE_upPM8h2AJlyswVnFvUv8wvhLLTuRC7qxM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Nepris Inc.\", \"value\": \"27683019d3f6a7b65614f9f1e95f2851\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHY8qMO3WXLOg/company-logo_100_100/0/1550161111055?e=1638403200&v=beta&t=IEN7zG2RE3HUcoWW14TAzAGmXQs1wlYFgjOV8y8BbWU\", \"industry\": \"Computer Software,Higher Education,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Bangor\", \"addressRegion\": \"ME\", \"postalCode\": \"04401\", \"streetAddress\": null}, \"latitude\": 44.8016, \"longitude\": -68.77133}, \"skills\": \"\", \"title\": \"Volunteer Virtual Classroom Speaker (Meet a Software Engineer)\", \"validThrough\": \"2021-10-02T06:09:52.000Z\"}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

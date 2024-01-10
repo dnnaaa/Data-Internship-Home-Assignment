@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-24T01:37:28.000Z\", \"description\": \"<strong>Software QA/Automation Engineer<br><br></strong><strong><u>Description<br><br></u></strong>We are looking for a versatile, curious, and motivated QA engineer to help define the way we build and test our products in a start-up like environment. If you are passionate about pioneering new technologies into software testing, have your voice and ownership in quality, improving product performance, security and more, we would like to connect with you.<br><br><strong>The Role<br><br></strong>As a Quality Assurance Engineer (QA), you will join a team of hands-on, passionate engineers to ensure the highest quality for our products. You will help build and own various test frameworks for both the front-end and backend. This role is an integral part of creating products with first class user experience as well as sustaining a fast-growing customer base.<br><ul><li>Review product requirements and design, creative in coming up with test plans and test cases with maximum test coverage.</li><li>Work with developers to understand the overall technical architecture and how each feature is implemented.</li><li>Develop and own test frameworks for UI, API, performance and security, improve test efficiency and statistics collection. </li><li>Able to put together automation with various technologies and tools to meet testing requirements. </li><li>Execute and benchmark performance metrics. Monitor application to determine system behavior.</li><li>Perform manual and automated tests.</li><li>Identify, document, and validate system or software defects.<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Background in computer science, engineering or similar.</li><li>2+ year of experience working as a Quality Assurance Engineer</li><li>Excellent programming fundamentals with Java, Scala, and/or Python.</li><li>Experience in automation testing.</li><li>Excellent communication skills.</li><li>Passionate about learning new technologies.<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience with API, UI testing with Selenium.</li><li>Experience with back-end performance tooling and framework development</li><li>Experience with measuring and troubleshooting front-end performance metrics using Chrome Dev tools or similar.</li><li>Experience with database testing.</li><li>Experience with AWS or other cloud technologies</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Prendio\", \"sameAs\": \"https://www.linkedin.com/company/prendio-llc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEt-M1Iv16cMA/company-logo_200_200/0/1522191676325?e=1637798400&v=beta&t=6usF6uuYvzbp76Ket1HriU21gCvQcR0u7l-C0pOXpn8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Prendio\", \"value\": \"2358705940\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEt-M1Iv16cMA/company-logo_100_100/0/1522191676325?e=1637798400&v=beta&t=kEaaIPSU3Hd2TNrcAdFPzUJENHtUFllL1mZYzEXrhdY\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Woburn\", \"addressRegion\": \"MA\", \"postalCode\": \"01815\", \"streetAddress\": null}, \"latitude\": 42.479126, \"longitude\": -71.1518}, \"skills\": \"\", \"title\": \"QA Engineer\", \"validThrough\": \"2021-09-23T01:37:28.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

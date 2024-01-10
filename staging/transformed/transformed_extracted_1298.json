@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-21T19:18:50.000Z\", \"description\": \"<p>Required Skills:</p><p>1. Developer role, ML Model implementation, experimentation &amp; related software engineering focused</p><p>2. Experience as a data scientist with a preference in forecasting algorithms</p><p>3. Python, PySpark&nbsp;development experience a must</p><ul><li>1-2 years of software development experience </li><li>1-2 years of experience as a data scientist with a preference in forecasting algorithms</li><li>BS or MS degree is Software Engineering or Computer Science</li><li>Ability to learn fast and handle multiple priorities</li><li>Developer role, ML Model implementation, experimentation &amp; related software engineering focused</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"InfoVision Inc.\", \"sameAs\": \"https://www.linkedin.com/company/infovision\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHgsJFhs4KHew/company-logo_200_200/0/1589446126613?e=1634774400&v=beta&t=W6Y_PEuViBZaBKKLMOHgJTA9v_aq7O5oAtcsGdRUeiQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"InfoVision Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHgsJFhs4KHew/company-logo_100_100/0/1589446126613?e=1634774400&v=beta&t=3os8Wqv9_K611DYapfg7bqHfFY2gkQAckkOmtyi0X90\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dallas\", \"addressRegion\": \"TX\", \"postalCode\": \"75342\", \"streetAddress\": null}, \"latitude\": 32.777977, \"longitude\": -96.79621}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-20T19:18:49.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T20:12:21.000Z\", \"description\": \"What if your job description were: make tomorrow better? That is the essence of roles within our Microsoft Web Experiences Team (WebXT).\\u202f<br><br>\\u202f<br><br>Every day, we bring an insatiable curiosity to the table, challenging ourselves to reimagine what is and what can be. We drive machine intelligence, help shape the future, and empower billions of people around the globe.\\u202f<br><br>\\u202f<br><br>We attract new users and change how people think about Microsoft, News, Search, and Advertising. We have a long road ahead, and we need your help! Our products Bing, Content, and Advertising are the beating heart of Microsoft AI.<br><br>\\u202f<br><br>Join us to keep optimizing and growing our Online Advertising business, one of the fastest-growing businesses on the Internet today, while delighting users with useful ads. Or derive intelligence from MSN, Bing, Web data to delight sports fans and bring the best news to our users. Or make it easy for employees to discover their enterprise content from various data sources exposed through searches on the browser for improved productivity.<br><br>\\u202f<br><br>Our Data and Applied Scientist roles provide an opportunity to research and apply state of the art machine learning technology to various businesses involving Search, Content, and Advertising.<br><br><strong>Interviews for the Data &amp; Applied Scientist will be conducted in partnership with Microsoft\\u2019s HBCU Connect event. By applying to this role, you\\u2019ll be assessed for multiple, identical positions on several teams.<br><br></strong><strong><u>Responsibilities<br></u></strong><ul><li>Design, prototype, and build Machine Learning Models to derive actionable intelligence for our products: MSN, Bing, Advertising.</li><li>Analyze and take decisions based on complex and ambiguous (big) data points.</li><li>Work closely with our PM, design, and privacy teams to define feature specifications and build the next generation of products.</li><li>Contribute to creating knowledge around user/query intent understanding, document/ad understanding, user targeting, relevance modeling, user response prediction, using large scale machine learning algorithms</li><li>Experimentation infrastructure, including tools for configuring and launching experiments, dashboard, live marketplace monitoring, and diagnosis.\\u202f</li><li>Work with science and engineering team to architect and develop operational models that run at scale</li><li>Partner with other teams to identify and explore opportunities for product improvement<br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>Required Qualifications:<br></strong><ul><li>1+ years of industry experience designing, developing, and shipping software or developing models for machine learning.</li><li>A minimum of a Bachelors degree in Computer Science, or a related field, or equivalent alternative education, skills, and/or practical IT work experience is required.<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience in at least one deep learning framework such as PyTorch, TensorFlow, etc.</li><li>Strong coding abilities in C#, C++, Java, R, or Python.</li><li>Familiarity with distributed data processing/analysis and modeling paradigms, such as Map-Reduce.</li><li>Being able to tackle vaguely formulated problems while understanding the underlying business notion.</li><li>Great problem solving and analytical skills.</li><li>Passionate, self-motivated.</li><li>Effective communication skills, both verbal and written.<br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Microsoft\", \"sameAs\": \"https://www.linkedin.com/company/microsoft\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_200_200/0/1618231291419?e=1638403200&v=beta&t=q42Yed6nkr3LwMcQgvwGa4dsP6m3xcAyW0zje6XcW6w\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Microsoft\", \"value\": \"1140590\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1618231291419?e=1638403200&v=beta&t=Bc0cLnsvKnHIhrUZNeJPnp757rImm8eTY8xadXsrRIw\", \"industry\": \"Computer Hardware,Computer Software,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Mountain View\", \"addressRegion\": \"CA\", \"postalCode\": \"94040\", \"streetAddress\": null}, \"latitude\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Data & Applied Scientist\", \"validThrough\": \"2021-09-24T20:12:20.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

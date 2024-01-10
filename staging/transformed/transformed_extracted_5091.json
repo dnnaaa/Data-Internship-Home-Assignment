@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T14:42:05.000Z\", \"description\": \"<p>We are hiring a Machine Learning Engineer to join one of the largest global financial service firms in the world. If you are a Machine Learning Engineer looking to leverage your past experience than please look below. We are located in Jersey City (although we are remote at this time).</p><p><br></p><p><strong>What Is The Job?</strong></p><p>As a Machine Learning Engineer ( keep in mind this is a Data Engineer position first Machine Learning is secondary), you will be working on the companies new Asset Wealth Management AI team to develop high impact AI applications and platforms in the financial services industry. You will design and implement highly scalable data processing pipelines and perform analysis and insights to drive and optimize business results, as well as&nbsp;experiment, develop and productionize high quality machine learning models.</p><p><br></p><p><strong>What Skills Do We Need?</strong></p><ul><li>You are a Data Engineer with Machine Learning Experience&nbsp;</li><li>Python and AWS</li><li>Experience in ETL data pipelines both batch and real-time data processing, Data warehousing</li><li>MS or PhD in Computer Science, Statistics, or Mathematics</li><li>Excellent communication skills</li></ul><p><br></p><p><strong>Nice To Haves:</strong></p><ul><li>Machine Learning Engineering Experience</li><li>R</li></ul><p><br></p><p><strong>Who Are We?</strong></p><p>We are a top-tier global financial services firm with assets of $2 trillion and operations in more than 60 countries. We are a leader in investment banking, financial services for consumers, small business and commercial banking, financial transaction processing, asset management, and private equity.</p><p>The team works in our state-of-the-art, open workspace office in Jersey City. We value teamwork and pride ourselves as an ego-free culture.</p><p><br></p><p><strong>Compensation:</strong></p><ul><li>$170,000 - $200,000 base salary</li><li>Bonus</li><li>Full medical</li><li>Full Dental</li><li>401k</li></ul><p><br></p><p><strong>Whats in it for you?</strong></p><p>This is an opportunity to work for one of the world best financial firms. This opportunity offers a path to quick growth within the company, while working on some of the most cutting edge projects within the company.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Averity\", \"sameAs\": \"https://www.linkedin.com/company/averity\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGamq-8hsCt-A/company-logo_200_200/0/1519880413718?e=1637798400&v=beta&t=4tRmeQDEf7xYPw0ywM9RC3IXFN36_dhkIY4trs3vlxM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Averity\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGamq-8hsCt-A/company-logo_100_100/0/1519880413718?e=1637798400&v=beta&t=6TPoF2nl1CjylyEKkJmkwp0Ld-dD8vBunbe2my0pQmQ\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Jersey City\", \"addressRegion\": \"NJ\", \"postalCode\": \"07306\", \"streetAddress\": null}, \"latitude\": 40.717495, \"longitude\": -74.04411}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-19T14:42:04.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 170000, \"maxValue\": 200000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

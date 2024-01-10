@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-19T17:07:07.000Z\", \"description\": \"<p><strong>Mathematician/Data Scientist</strong></p><p><strong>Large Banking Client</strong></p><p><strong>Corporate Investment Banking Operations </strong></p><p><strong>12 month+ contract to hire potential </strong></p><p><strong>&nbsp;</strong></p><p>Are you inquisitive? Do you love math? Apex Systems is seeking Data Scientists to assist our client's model developers with model development, enhancement, breach remediation, performance testing, and documentation. The ideal candidate will have a background in a quantitative or technical field and have experience in data-driven prediction and decision making, machine learning, data analysis, and working with large data sets.   </p><p><br></p><p><strong>Job Duties: </strong></p><p>- Lead or assist the model developer with Machine Learning and AI modeling engagement from understanding the business objective, through data sourcing and analysis, to model development and implementation</p><p> - Identify model breach and develop action plans to remediate the breach</p><p> - Develop model ongoing monitoring plan to proactively monitor model performance</p><p> - Management relationship with key stakeholders including technology team, line of business, and model risk management team</p><p> - Become a subject matter expert and trusted advisor to your business partners and help them understand the strengths and shortcomings of our models   </p><p><br></p><p><strong>Required Skillsets and Education:   </strong></p><ul><li>M.S. degree in Statistics, Mathematics, Operations Research, Engineering, Computer Science, or Economics   </li><li>3+ years of quantitative or mathematical modeling related experience   </li><li>Hands-on experience with Machine Learning and Artificial Intelligence applied to large datasets   (A major plus - but not required)</li><li>Expertise in at least one of the following: Python, SAS, Java   &nbsp;  </li></ul><p><br></p><p><strong> Preferred Skillsets and Education:</strong>   </p><ul><li>PhD in a quantitative discipline   </li><li>5+ years of quantitative model development experience in banks   </li><li>Hands-on experience with Machine Learning, Deep Learning, Natural Language Processing, and Optical Character Recognition (OCR) models  </li><li> Demonstrated ability to set clear goals, plan ahead, and deliver against tight timelines   &nbsp; </li></ul><p>&nbsp;</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apex Systems\", \"sameAs\": \"https://www.linkedin.com/company/apex-systems\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGqykCMjtTYfg/company-logo_200_200/0/1625080023443?e=1637798400&v=beta&t=vgbMk8BatfYraNqXvLs8Jd21rMBNWxe-AOr5rGYP0wg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apex Systems\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGqykCMjtTYfg/company-logo_100_100/0/1625080023443?e=1637798400&v=beta&t=Srk3d9UMXmkPhJpDXg_0g8vwvgsxlUsAi0dM27JT0TQ\", \"industry\": \"Information Technology and Services,Banking,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Charlotte\", \"addressRegion\": \"NC\", \"postalCode\": \"28241\", \"streetAddress\": null}, \"latitude\": 35.223785, \"longitude\": -80.84114}, \"skills\": \"\", \"title\": \"Mathematician/Data Scientist\", \"validThrough\": \"2021-09-18T17:07:06.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

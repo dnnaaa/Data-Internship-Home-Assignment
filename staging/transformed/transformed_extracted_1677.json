@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-26T14:53:50.000Z\", \"description\": \"<strong><u>Qualifications<br><br></u></strong>REQUIRED QUALIFICATIONS<br><ul><li> MS/BS in CS/EE/Applied Mathematics/Statistics/DS/ML or related fields.</li><li>3+ years of professional experience working with machine learning libraries and real world data science problems.</li><li>3+ years of professional experience in at least one scripting language (Python, NodeJS, Ruby, Perl).</li><li>Proficiency in one statically typed language (C#, Java, C, C++).</li><li> Excited to work on a diverse team.<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Familiarity with a version control system</li><li>Experience in gaming industry</li><li> Experience working with deploying of machine learning models </li><li> Demonstratable experience with software engineering principles, parallel and distributed computing, statistics, machine learning, cloud technologies like Azure, AWS, Google Cloud, IaaS, PaaS and SaaS </li><li>Excellent analytical and problem-solving skills</li><li> Outstanding communication and collaboration skills </li><li> Strong research, theory, and algorithm background with the ability to apply advanced knowledge on real world challenges<br><br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Microsoft\", \"sameAs\": \"https://www.linkedin.com/company/microsoft\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_200_200/0/1618231291419?e=1635984000&v=beta&t=aQ9E6I1-pVlpp9UyeifYTSX4MzxXaufZiXWH9VMy8Mk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Microsoft\", \"value\": \"1057635\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1618231291419?e=1635984000&v=beta&t=Vd_CfsuOktZYoF07AyvLJxcmpIKR5GLT0rGbM4rswwQ\", \"industry\": \"Computer Hardware,Computer Software,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Charlotte\", \"addressRegion\": \"NC\", \"postalCode\": \"28241\", \"streetAddress\": null}, \"latitude\": 35.223785, \"longitude\": -80.84114}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-03T01:07:23.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

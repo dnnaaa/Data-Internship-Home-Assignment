@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-21T01:55:03.000Z\", \"description\": \"We are currently accepting resumes for a ServiceNow/ATF Developer in Columbus, OH.<br><br>Required Skills and Experience:<br><br>- Bachelor\\u2019s degree in computer science, management information science, or related field<br>6-8 years\\u2019 experience<br> <br>ServiceNow Developer skillset: Flow designer, Service Portal,CSM<br>ATF Developer - all the above plus ATF<br><br>Must have a strong CSM and Service Portal skillset<br>ServiceNow Contractor with Specialty experience with Customer Service Mgmt (CSM Module).<br>Experience and knowledge of CSM and how it interacts with platform modules<br>Angular, Javascript<br>CSM<br>CSM Portal (external and internal)<br>Agent Workspace<br>Major Case<br>Natural Language<br>Customer Mobile<br>Service Catalog/Service Request<br><br>UNICON International, Inc. is an Equal Opportunity Employer.<br><br>If you are interested in working for an organization where honesty, integrity and quality are among the core principles then click apply today!<br><br>Keywords: ServiceNow, ATF, CSM, Angular, Javascript, Agent Workspace, Major Case, Natural Language, Customer Mobile, Service Catalog/Service Request\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"UNICON International\", \"sameAs\": \"https://www.linkedin.com/company/unicon-international\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQF_NobgF0dz8A/company-logo_200_200/0/1553876207934?e=1634774400&v=beta&t=58MjSNRnTY1ZkLPkOJxP-SrDVygCsz84k8LgDCJfu4s\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"UNICON International\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQF_NobgF0dz8A/company-logo_100_100/0/1553876207934?e=1634774400&v=beta&t=E5rRkcMqusx5-YG9e7VRxvFNJSUMhFxgCVQnM29PIQs\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Columbus\", \"addressRegion\": \"Ohio Metropolitan Area\", \"postalCode\": \"43206\", \"streetAddress\": null}, \"latitude\": 39.978302, \"longitude\": -82.99313}, \"skills\": \"\", \"title\": \"ServiceNow Developer\", \"validThrough\": \"2021-08-20T01:55:03.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

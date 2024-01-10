@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-23T06:30:43.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>At Apple, great ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. If you are an ambitious, high-energy individual who is not afraid of challenges, we\\u2019re looking for you. <br><br>Apple is seeking an expert Data Scientist to join a team passionate about Data Science &amp; Analytics for the media space. This role will primarily focus on the Video business, which includes subscription (Apple TV+, Apple TV Channels, third party services and Apple Fitness+) and transactional business (iTunes movies/tv shows).<br><br>This role will involve working with Internet-scale data across numerous product and customer touch points, undertaking in-depth quantitative analysis, building models and partnering with business stakeholders to drive product and strategy.<br><br>The team\\u2019s culture is centered around rapid iteration with open feedback and debate along the way. We encourage independent decision-making and taking calculated risks. AMP Data Science collaborates extensively with partners across product, design, engineering, content and business teams: our mission is to drive innovation at Apple through deep quantitive research of the App Store, Apple Music, Apple TV, and Apple Arcade amongst other services.<br><br> <br><strong>Key Qualifications<br></strong> <br>2+ years of experience in a Data Scientist or Data Analyst role, preferably for a digital media or digital subscription business<br><br>Strong proficiency with SQL-based languages. Experience with large scale analytics technologies such as Hadoop and Spark preferred<br><br>Curious product/business approach with an ability to condense sophisticated concepts and analysis into clear and concise takeaways that drive action.<br><br>Familiarity with Python/R, Git, and data visualization tools such as Tableau for full-stack data analysis, model building, insight synthesis and presentation. Knowledge of A/B test experimentation design preferred.<br><br>Excellent communication, social and presentation skills with meticulous attention to detail.<br><br>Strong time management skills with the ability to work with tight deadlines and pressure from executive requests.<br><br> <br><strong>Description<br></strong> <br>Dive deep into large-scale data to uncover trends and identify key insights that will advise business strategy.<br><br><br>Craft how best to monitor, measure and understand business performance and build out associated Keynote narratives, datasets, and dashboards.<br><br><br>Partner closely with the Product organization to help them make evidence-based decisions.<br><br><br>Collaborate with business, marketing, finance and executive teams to generate regular presentations for C-level.<br><br><br>Your creative problem solving skills will be utilized daily.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor\\u2019s degree in Statistics, Mathematics, Computer Science, Engineering, Economics or related field. Ideally, Master\\u2019s or PhD in related field.<br><br> <br>Role Number: 200239723<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1637798400&v=beta&t=Hwx38NQBVY5WqlaaQkpuyPvWwfFIBJZmreF3rfRFtqc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200239723_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1637798400&v=beta&t=nY8vaczit-Xem487Pv9WfACahg_xMvaKSm0Y_rGjX10\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Austin\", \"addressRegion\": \"TX\", \"postalCode\": \"78746\", \"streetAddress\": null}, \"latitude\": 30.264978, \"longitude\": -97.7466}, \"skills\": \"\", \"title\": \"Video Product Data Scientist, Apple Media Products - Austin\", \"validThrough\": \"2021-09-22T06:30:42.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-07T19:07:16.000Z\", \"description\": \"<p><strong>Full Job Description</strong></p><p>Savi is a leading financial technology startup based in DC that is working to solve the student debt crisis. Our mission is to help the 46+ million student loan borrowers better understand their debt, find federal forgiveness programs, and enroll. We're looking for people who have the desire to build meaningful products and the drive to do great work as part of a team. Savi has been featured in the New York Times, TIME, and Inc., and recently the company completed our Series A funding round. Our clients include Fortune 500 companies, financial institutions, and the nation\\u2019s largest membership groups, who use our platform to help their employees and members better manage their student loans and save money.</p><p><br></p><p>Ideal candidates are proactive, accountable people focused on continuous learning and growth to push themselves and our business forward. We offer a competitive salary, benefits, and a generous telework policy.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Own features through all phases of the software development cycle.</li><li>Build monitoring, reporting, and dashboard tools for internal stakeholders.</li><li>Contribute and improve APIs that will be consumed internally and by strategic business partners.</li><li>Build custom web applications and/or microsites from design through deployment.</li><li>Use a number of technologies/languages not limited to: React, PHP, Laravel, Python, MySQL, AWS.</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Experience with backend web frameworks like Django, Express, or Laravel.</li><li>Working knowledge of a front-end JS framework like React, Angular, or Vue.</li><li>Skilled with markup languages like HTML and CSS.</li><li>Experience with version control systems like Git.</li><li>Love tools, technologies, and frameworks, but are first and foremost pragmatic.</li><li>Willing to wear many hats and collaborate with technical and non-technical team members.</li></ul><p><br></p><p><em>Savi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Savi complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</em></p><p><br></p><p><br></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Savi\", \"sameAs\": \"https://www.linkedin.com/company/bysavi\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEnR7ecUyuO2A/company-logo_200_200/0/1625161261845?e=1639008000&v=beta&t=w_nZ5qjzQPLlNrunkkzfZG_s3KzWwDHFwp0JwKAjhYI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Savi\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEnR7ecUyuO2A/company-logo_100_100/0/1625161261845?e=1639008000&v=beta&t=Wh2qeHXxclqF3GL529M_n2UKVfjjiVBenQ1hTkqIMXM\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Washington\", \"addressRegion\": \"DC\", \"postalCode\": \"20398\", \"streetAddress\": null}, \"latitude\": 38.892063, \"longitude\": -77.01991}, \"skills\": \"\", \"title\": \"Jr. Software Engineer\", \"validThrough\": \"2022-03-06T19:07:16.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 60000, \"maxValue\": 85000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

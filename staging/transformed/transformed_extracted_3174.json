@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T05:14:29.000Z\", \"description\": \"<p>Job Description</p><p><br></p><p>As a Software Engineer, you will:</p><p><br></p><p>Be involved in full-stack web application development with a variety of languages and frameworks including Python, TypeScript, HTML, React, Flask, Postgres, etc.</p><p>Work closely with our PM and design teams to define feature specifications and build impactful products.</p><p>Work closely with operations to build user-friendly data visualization and processing software.</p><p><br></p><p>Minimum Qualifications</p><p><br></p><p>1-2+ years of experience in full stack web development</p><p>B.S. Computer Science or related technical field preferred, fresh grad is also ok.</p><p>Experience with Python and Javascript required</p><p>1-2+ years of experience with Python</p><p>1-2+ years of experience with Javascript</p><p>1-2+ years of experience with relational databases and SQL</p><p>Experience in ReactJS and Flask preferred</p><p>Experience with AWS and GCP a plus</p><p>Experience with AI a plus</p><p>*********************************************************************</p><p><br></p><p>We're urgently in need for a Senior Software Engineers.</p><p>Know anyone who might be interested?</p><p>Please fill-up on the below link, attach your updated CV and don't forget to take the coding challenge!!!</p><p>Kindly mention my name on \\\"referred by\\\"&nbsp;</p><p><br></p><p>https://lnkd.in/gmZYssbT</p><p><br></p><p>#SWE</p><p>#softwareengineerjobs</p><p>#remotework</p><p>#hiring</p><p>#careers</p><p>#nowhiring</p><p><br></p><p><br></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Expedock\", \"sameAs\": \"https://www.linkedin.com/company/expedock\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFYyFfokzmrHQ/company-logo_200_200/0/1614221438843?e=1636588800&v=beta&t=eJZf2pE5CEJA6ELcI20Lv-FTjnMRCT8kUODE4ykJqk0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Expedock\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFYyFfokzmrHQ/company-logo_100_100/0/1614221438843?e=1636588800&v=beta&t=KPcmv__lsn2FvfvY9U1ZAs95R0BcKNgqM0r-vjB56_Y\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2022-02-06T05:14:29.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

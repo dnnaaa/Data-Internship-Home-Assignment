@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:18:42.000Z\", \"description\": \"<p>Our client is a household name dedicated to making an impact on their customer base. This global firm is looking a Senior Data Scientist to work in their fast-paced environment and completely transform the customer experience. </p><p><br></p><p>You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.&nbsp;You will focus on using state-of-the art Machine Learning and AI tools</p><p><br></p><p><strong>Responsibilities:</strong></p><p><br></p><ul><li>Play a crucial role in delivering advanced technology solutions that addresses real-world, data-driven needs</li><li>Design and develop&nbsp;pipelines, reports,&nbsp;dashboards and framework that monitor&nbsp;and analyze&nbsp;performance of the AI Voice Agents</li><li>Employ advanced statistical modeling to analyze large data sets,&nbsp;create&nbsp;dashboards&nbsp;and&nbsp;derive insights&nbsp;to guide key business,&nbsp;product&nbsp;and engineering&nbsp;decisions</li></ul><p><br></p><p>.</p><p><strong>Skills:</strong></p><p><br></p><ul><li>BS in Computer Science,&nbsp;Mathematics, Statistics&nbsp;or a related quantitative discipline</li><li>5+&nbsp;years of experience in data science or analytics using Python and SQL and working with big data</li><li>Excellent analytical skills along with ability to solve business problems and apply innovative though leadership</li></ul><p><br></p><p><strong>Compensation:</strong>&nbsp;Strong Package, Bonus, equity and Benefits.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Intelletec\", \"sameAs\": \"https://www.linkedin.com/company/intelletec-ltd\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGoLsEQn0u4fw/company-logo_200_200/0/1582030754046?e=1637798400&v=beta&t=HMiOzMDg4hsjeoyLy9A11lM3upVBbnoDLYlc7enoggI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Intelletec\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGoLsEQn0u4fw/company-logo_100_100/0/1582030754046?e=1637798400&v=beta&t=1WAv3vO4FN36YwfGmcuV6qQCMtnZdoU7jSRtR18JtlU\", \"industry\": \"Food & Beverages,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco Bay Area\", \"addressRegion\": null, \"postalCode\": \"94112\", \"streetAddress\": null}, \"latitude\": 37.39271, \"longitude\": -122.042}, \"skills\": \"\", \"title\": \"Senior Data Scientist-NLP\", \"validThrough\": \"2021-12-09T01:17:40.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

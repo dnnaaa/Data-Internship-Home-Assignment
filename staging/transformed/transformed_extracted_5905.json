@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:42:22.000Z\", \"description\": \"If you are an Embedded Software Engineer for Medical Device with experience, please read on!<br><br>Based in Irvine, CA, we are an exciting new startup in the respiratory illness medical device space. We have a team of industry leaders and SME's on our board and it is time to bring on an Embedded Software Engineer with 5+ years of experience and strong programming in C and medical device. This is a very exciting time for us and we look forward to meeting you.<br><br>Top Reasons to Work with Us<br><br>--actively interviewing!--apply today!!--<br><br>What You Will Be Doing<br><ul><li> Responsible for embedded software development in medical device.</li><li> Generate software requirement and verification protocol based on product requirement.</li><li> Software architecture development, software implementation and verification.</li><li> Working with cross-functional team in medical device development and verification. Transfer design to manufacture facility.</li><li> Generate development record complying with medical device software regulatory requirement.<br></li></ul>What You Need for this Position<br><br>5+ years of the experience in the following:<br><ul><li> C Programming</li><li> Medical Devices</li><li> STM32 development and RTOS</li><li> Prototype fabrication - conceptual design/release</li><li> Design - testing - documentation</li><li> Embedded software application development</li><li> Respiratory Medical Device a plus</li><li> Bachelor's Degree in CS or Engineering<br></li></ul>What's In It for You<br><ul><li> Competitive base salary - $130,000 - $160,000 DOE</li><li> Medical/ dental/vision insurance</li><li> Flexible Time Off</li><li> ....and more perks! (equity, bonus, etc.)<br></li></ul>So, if you are an Embedded Software Engineer for Medical Device with experience, please apply today!<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Katy.Bruce@CyberCoders.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : KB2-1643081 -- in the email subject line for your application to be considered.***<br></li></ul>Katy Bruce - Sr. Executive Recruiter - CyberCoders<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"CyberCoders\", \"sameAs\": \"https://www.linkedin.com/company/cybercoders\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQF7t9X4k2P2hA/company-logo_200_200/0/1625157716995?e=1637798400&v=beta&t=vV6uu6bR5MhySQMUsbtGc3zfCT-ZxJe_rUBbiFt9r9k\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"CyberCoders\", \"value\": \"KB2-16430817\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQF7t9X4k2P2hA/company-logo_100_100/0/1625157716995?e=1637798400&v=beta&t=xxuUTVgbNmDCwlUqrSN5IcAh6ENLIFJOCfhrhs0_qQk\", \"industry\": \"Biotechnology\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Irvine\", \"addressRegion\": \"CA\", \"postalCode\": \"92717\", \"streetAddress\": null}, \"latitude\": 33.68591, \"longitude\": -117.82472}, \"skills\": \"\", \"title\": \"Embedded Software Engineer for Medical Device - C, Startup\", \"validThrough\": \"2021-09-24T17:42:21.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

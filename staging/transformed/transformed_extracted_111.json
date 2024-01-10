@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-09T20:11:31.000Z\", \"description\": \"Our client is looking for a competent analyst who is experienced in developing and maintaining software applications to improve maintain and help achieve business demands. The company provides very competitive compensation and benefits for employees. Moreover, the working environment is healthy and very encouraging for growth. Grab this spot and secure a bright future!<br><br>The key function of a Senior Programmer/Analyst<br><br>- to define, develop, test, analyze, and maintain new software applications in support of the achievement of business requirements.<br><br>Responsibilities to expect:<br><br>Collaborate with developers, programmers, and designers to conceptualize and develop new and existing software programs and applications<br><br>Scoping/estimating stories, and epics<br><br>Conduct research on emerging application development software products, languages, and standards in support of procurement and development efforts<br><br>Liaise with network administrators, systems analysts, and software engineers to assist in resolving problems with software products or company software systems - Drive test-first and behavior-driven development practices<br><br>Manage and/or provide guidance to junior team members<br><br>Other Duties as assigned<br><br>Requirements:<br><br>5 years of software development using OO such as Java or C#<br><br>Experience with agile methodologies, Scrum specifically<br><br>Desired: Tomcat, Spring, React, JQuery, Javascript, MySQL/Maria<br><br>Benefits:<br><br>Healthy environment<br>Full Healthcare Benefits \\u2013 Medical, <br>Dental, Vision, Disability insurance<br>401K with company matching<br>PTO credits<br>Salary:  (DOE)<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"STAFF CX\", \"sameAs\": \"https://www.linkedin.com/company/staffcx\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQHD0uHa7LxHvQ/company-logo_200_200/0/1615474416790?e=1634169600&v=beta&t=Gyj-2vqHsdUt8eipmevka7BF3tCVqOMrCOw_ewHwOvE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"STAFF CX\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQHD0uHa7LxHvQ/company-logo_100_100/0/1615474416790?e=1634169600&v=beta&t=s-_l8lnV9O__nBTKqHCQSehoJ60kgW1E8rC9HJmDH1g\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Solon\", \"addressRegion\": \"OH\", \"postalCode\": \"44139\", \"streetAddress\": null}, \"latitude\": 41.36921, \"longitude\": -81.4156}, \"skills\": \"\", \"title\": \"Senior Software Engineer\", \"validThrough\": \"2021-08-08T20:11:31.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

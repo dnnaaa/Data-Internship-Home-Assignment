@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T22:05:30.000Z\", \"description\": \"<p>AirHop Communications is a world recognized leader in wireless network automation and optimization technology, platforms, and solutions.&nbsp;We are seeking a Machine Learning (ML) Systems Engineer who will develop algorithms using advanced ML techniques to optimize the Radio Access Network (RAN).</p><p><br></p><p><strong>Job Responsibilities:</strong></p><ul><li>Develop ML algorithms to optimize the performance of the 4G/5G Radio Access Network.</li><li>Develop simulations, test scenarios, and experiments to validate ML solutions in collaboration with the system engineering team.</li><li>Collaborate with other engineering teams to implement and deploy ML algorithms in live networks.</li><li>Validate and monitor ML solution performance in field tests and live network</li><li>Stay current with relevant developments in the ML field</li></ul><p>&nbsp;</p><p><strong>Qualifications:</strong></p><p>The position requires:</p><ul><li>Master's in engineering, computer science, or equivalent. PhD preferred.</li><li>At least 2 years of experience developing ML solutions</li><li>Deep understanding of machine learning tools and algorithms</li><li>Excellent knowledge of Python and Pandas is a must</li><li>Experience with Pytorch is a plus</li><li>Experience with reinforcement learning, time series analysis and Graph Neural Networks is a plus</li><li>Experience in 4G and 5G cellular Radio Access Networks (RAN) is a plus</li></ul><p><br></p><p><strong>About the company:</strong></p><p>Please see www.airhopcomm.com</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"AirHop Communications\", \"sameAs\": \"https://www.linkedin.com/company/airhop-communications\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGjHgmiiApp9w/company-logo_200_200/0/1600709287441?e=1636588800&v=beta&t=N2KF9g19nScK0B-Le4N_a7WRi3jATO1NoVslsV0ivoc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"AirHop Communications\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGjHgmiiApp9w/company-logo_100_100/0/1600709287441?e=1636588800&v=beta&t=FShRviAGqvO6J6WNGImLzV5jnjbocU1eqYrH0upoZ3w\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Diego\", \"addressRegion\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Machine Learning Systems Engineer\", \"validThrough\": \"2021-09-09T22:05:30.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

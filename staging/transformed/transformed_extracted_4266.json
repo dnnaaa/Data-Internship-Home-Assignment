@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T16:06:58.000Z\", \"description\": \"Job Title: Software Engineer<br>Location: Orlando, FL<br>Duration: 12 Months<br><br>The Role:<br>We are seeking software engineers in Orlando as part of a core team developing DirectX/Direct3D drivers for desktop/laptop systems. This team is essential to the success of as a growing company. You will be working with the very best in our technology, on some of the most exciting projects the industry has to offer, including Cloud Gaming, Machine Learning, Virtual Reality, Ray Tracing, Direct3D 12, and new game titles.<br><br>The Person:<br>Good communication skills and an ability to communicate well with teams around the globe<br>Ability to work independently and as part of a team<br>Passionate about learning, good software engineering, problem solving, and new technologies.<br><br>Key Responsibilities:<br>The development, debugging, and performance tuning of graphics software running on Microsoft Windows.<br>Collaborating with ASIC design engineers and hardware/software architects, OS engineers and peers in related development teams.<br>The ability to debug low level hardware and operating system functionality is desired.<br><br>Preferred Experience:<br>Excellent C/C++ programming skills.<br>Experience programming and optimizing games<br>Knowledge of computer hardware architecture and organization<br>Experience with Virtualization technologies<br>Experience with Linux and Windows OS<br>3D Graphics API knowledge and experience (D3D or Vulkan)<br>3D graphics driver knowledge and experience<br>Windows development experience<br>OS and performance knowledge and experience<br>Experience with multi-threading and concurrent programming<br>Familiarity with performance analysis tools<br><br>Academic Credentials:<br>BS Degree; MS or PhD desired.<br>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Mindlance\", \"sameAs\": \"https://www.linkedin.com/company/mindlance\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHBOCtYMFYVtQ/company-logo_200_200/0/1625141652411?e=1637193600&v=beta&t=4YCciiu6DxMzAkY4xxF2Ds2TLtRkWhVbUq2p4BRjuas\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Mindlance\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHBOCtYMFYVtQ/company-logo_100_100/0/1625141652411?e=1637193600&v=beta&t=WoAqa2ImwY2qvEKjo6olN3RBBloKehJj9CSVQwyQDew\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Orlando\", \"addressRegion\": \"FL\", \"postalCode\": \"32889\", \"streetAddress\": null}, \"latitude\": 28.53833, \"longitude\": -81.378876}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-16T16:06:58.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

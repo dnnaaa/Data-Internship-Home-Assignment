@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-11T16:45:12.000Z\", \"description\": \"<strong><u>Job Summary<br><br></u></strong>Builds &amp; maintains machine learning and big data pipelines to support advanced analytics, data science, and AI/ML solutions.<br><br><strong><u>Job Responsibilities<br></u></strong><ul><li> Assists in development of software that processes, stores and serves data and machine learning models for use by others.</li><li> Assists in development of data structures and pipelines to organize, collect and standardize data that helps generate insights and intelligence to support business needs.</li><li> Writes ETL (Extract / Transform / Load) or ELT processes, designs data stores and develops tools for real-time and offline analytic processing on premise or on cloud infrastructure.</li><li> Assists in development of data and ML pipelines that are scalable, repeatable and secure</li><li> Assists in troubleshooting software and processes for data consistency and integrity. Integrates data from a variety of sources, assuring that they adhere to data quality and accessibility standards.</li><li> Escalates problems and roadblocks as they occur</li><li> Interacts with team members and peers and may interact with external peers to provide semi-routine information related to assigned tasks.<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Bachelor's degree</li><li>Experience establishing and maintaining key relationships with internal (peers, business partners and leadership) and external (business community, clients and vendors) within a matrix organization to ensure quality standards for service.</li><li>Willing to travel up to 10% of the time for business purposes (within state and out of state).<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Knowledge of SQL or programming skills in one or more of the following: Python, C, C++, Spark, Scala, and/or Java</li><li>Exposure to Azure</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Walgreens\", \"sameAs\": \"https://www.linkedin.com/company/walgreens\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEAAqRHE5JbYQ/company-logo_200_200/0/1625138284157?e=1638403200&v=beta&t=yk-xGORbxXaJQU4ALL6gSgMzBwIyqKTcVTN1jfdnlUw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Walgreens\", \"value\": \"686981BR\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEAAqRHE5JbYQ/company-logo_100_100/0/1625138284157?e=1638403200&v=beta&t=y9px1Cd_C-o-lQE3N_voxfn5Ww5hyQZ66iEQqr-hCyY\", \"industry\": \"Health, Wellness and Fitness,Pharmaceuticals,Retail\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Chicago\", \"addressRegion\": \"IL\", \"postalCode\": \"60654\", \"streetAddress\": null}, \"latitude\": 41.88323, \"longitude\": -87.6324}, \"skills\": \"\", \"title\": \"Associate Machine Learning Engineer\", \"validThrough\": \"2021-09-10T16:45:12.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

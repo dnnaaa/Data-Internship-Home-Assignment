@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-17T03:23:57.000Z\", \"description\": \"SOLUTE is a dynamic group of professionals that focus on solving the nation\\u2019s hardest technical challenges in software engineering, data analytics, and cyber security. The PAX River team supports the Naval Aviation Systems Command by providing world-class technologists building cutting-edge solutions in an open, innovative environment. Our team is close-knit, values the product we provide to our warfighters, and we like to have fun while delivering high quality results.<br><br>We are seeking talented and inspired Software Engineers who are interested in a career working with US Navy combat aircraft and supporting aircraft weapon systems. These state-of-the-art systems require on-going software development and revisions to keep pace with emerging technologies, and we are seeking candidates with practical software development experience to assist with these tasks. We have multiple positions that support of a variety of aircraft and associated mission, weapons, and combat systems.<br><br>Our Software Engineers are intimately involved in the development of software code used for operation and support of naval aircraft in real-world battlefield environments. Responsibilities will include writing, modifying and adapting aviation-related computer code, and performing research on applications for hardware, software and operating systems. Be part of the team that keeps the Navy flying.<br><br><strong><u>Requirements<br><br></u></strong><strong>Required Skills and Experience<br></strong><ul> <li>Bachelor\\u2019s degree in Computer Science, Computer Systems Information Systems Management, Statistics or Mathematics.</li> <li>One (1) to Three (3) years of practical development experience with DoD systems.</li> <li>Current Department of Defense SECRET clearance (interim acceptable).</li> <li> The ability to work at NAS Patuxent River, Lexington Park, MD.</li> <br><br></ul><strong><u>Preferred Skills And Experience<br></u></strong><ul> <li>Familiarity with C/C#/C++/VxWorks real-time data processing and/or familiarity with Java/C#/.NET/Visual Basic software is desired.</li> <li>Experience with software development on aircraft mission systems, weapon systems, or DoD related programs.</li> <li>Ada programming expertise.</li> <br><br></ul><u><strong>Benefits<br><br></strong></u>Benefits include<br><br><li>Medical, Dental and Vision</li><li>Life and A&amp;D coverage</li><li>Employee Assistance Program (EAP)</li><li>401(k) Plan with company matching contributions</li><li>Paid Time Off (PTO) and 10 paid Holidays</li><li>Educational assistance<br><br></li>SOLUTE is an equal opportunity employer. All applicants will be considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, marital status, veteran status or any other applicable legally protected status or characteristic.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"SOLUTE\", \"sameAs\": \"https://www.linkedin.com/company/solute-consulting\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFO-vfOghVpfw/company-logo_200_200/0/1538606024453?e=1634774400&v=beta&t=D3COXP_Wsg6HyOddsSCfIsYOuSovHP9KQvUSOqdZLlw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"SOLUTE\", \"value\": \"AD38451802\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFO-vfOghVpfw/company-logo_100_100/0/1538606024453?e=1634774400&v=beta&t=zh3_zvE9lvwJCN5AiCmA8ULEF7PvQG0yQeY6d2pKgjo\", \"industry\": \"Information Technology and Services,Defense & Space,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Lexington Park\", \"addressRegion\": \"MD\", \"postalCode\": \"20653\", \"streetAddress\": null}, \"latitude\": 38.26479, \"longitude\": -76.45503}, \"skills\": \"\", \"title\": \"Naval Aviation Software Engineer\", \"validThrough\": \"2021-08-16T03:23:57.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

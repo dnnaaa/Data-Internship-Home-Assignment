@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-07T00:00:00.000Z\", \"description\": \"<strong><u>The Company<br><br></u></strong>Dyno Therapeutics is reshaping the gene therapy landscape through AI-powered vectors. Through the application of our transformative technologies and strategic partnerships with leaders in gene therapy, we believe a future with life changing gene therapies for millions of people is within reach.<br><br>Our team includes world-class molecular and synthetic biologists, protein engineers and gene therapy scientists working alongside software engineers, data scientists, and machine learning experts. Dyno was named Xconomy\\u2019s 2020 start up of the year!<br><br><strong>The Role<br><br></strong><em>Machine Learning Engineer Intern - Spring 2022</em>. This internship is an opportunity for a Software engineer interested in solving problems related to building and running ML infrastructure.<br><br><strong><u>How You Will Contribute<br><br></u></strong>As an ML engineering intern, you will be responsible for contributing to Dyno\\u2019s machine learning platform by helping to build, productionize, and scale ML models. You will work alongside other engineers and ML scientists and contribute to a shared codebase in a collaborative environment.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Understand Dyno\\u2019s existing pipeline for building and deploying ML models.</li><li>Contribute to planning and implementing ML infrastructure improvements with the rest of the team.<br></li></ul><strong><u>Who You Are<br></u></strong><ul><li>Team oriented</li><li>Thoughtful &amp; detail oriented</li><li>Eager to learn</li><li>Appreciative of opportunities at the intersections of data science and biology<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>A Junior or Senior Currently enrolled in a Bachelor\\u2019s program in computer science, data science, statistics, applied mathematics, or related.<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Currently enrolled in a Master\\u2019s degree, PhD, or industry experience in a field related to machine learning and/or data science.</li><li>Experience with Python and packages such as PyTorch and sklearn.<br></li></ul><em>Please note that applications are due to close 11/1.<br><br></em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br>Job Type: Internship\", \"employmentType\": \"INTERN\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Dyno Therapeutics\", \"sameAs\": \"https://www.linkedin.com/company/dynotx\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG_oJoPODWiQA/company-logo_200_200/0/1589241827002?e=1642636800&v=beta&t=xwviTJ9MIbPuVa4fFgF43CODr8caRRsS4Abjg-j_aew\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Dyno Therapeutics\", \"value\": \"4750022003\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG_oJoPODWiQA/company-logo_100_100/0/1589241827002?e=1642636800&v=beta&t=_1PUh1vksHNcv8DDulVMNAqY1bh__ST82IveCAIfHuM\", \"industry\": \"Biotechnology,Pharmaceuticals\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Cambridge\", \"addressRegion\": \"MA\", \"postalCode\": \"02239\", \"streetAddress\": null}, \"latitude\": 42.36525, \"longitude\": -71.10502}, \"skills\": \"\", \"title\": \"Machine Learning Engineer Intern\", \"validThrough\": \"2021-11-06T17:55:54.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

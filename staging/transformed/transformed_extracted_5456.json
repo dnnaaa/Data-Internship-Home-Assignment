@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-22T08:50:45.000Z\", \"description\": \"<strong><u>Job Description<br><br></u></strong>A Software Development company is looking for a Site Reliability Engineer to join their team on a full-time Direct Hire basis. You\\u2019d be joining a team of unique problem solvers with a multitude of skills and perspectives. You\\u2019ll be responsible for taking the lead on relevant projects while surrounded by people who will provide support and mentorship.<br><br>As a Site Reliability Engineer, you\\u2019ll mainly be focused on running better production application and systems, creating a strict engineering discipline and utilizing software and systems to help find creative engineering solutions to operational problems.<br><br><strong><u>Required Skills &amp; Experience<br></u></strong><ul><li>Azure and AWS</li><li>Azure DevOps</li><li>Scripting in either Java or Powershell</li><li>Terraform and ansible</li><li>Kubernetes<br></li></ul><strong><u>Desired Skills &amp; Experience<br></u></strong><ul><li>5+ years of experience in an DevOps Environment.</li><li>Oracle</li><li>Springboot</li><li>Docker<br></li></ul><u>The Offer<br></u><ul><li>Competitive Salary: Up to $155K/year, DOE<br></li></ul><strong><u>You Will Receive The Following Benefits<br></u></strong><ul><li>health, dental, vision</li><li>401(k)</li><li>Casual and Flexible Work Culture and Environment</li><li>Ability to work in a Tech-driven company<br></li></ul>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.<br><br><strong>Posted By:</strong> Connor Bowles<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Motion Recruitment\", \"sameAs\": \"https://www.linkedin.com/company/motion-recruitment-partners\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUmO7QFJkx6A/company-logo_200_200/0/1626277947748?e=1637798400&v=beta&t=WJ0GflE7fsRTUkRDJzFdqqZO33WOC8ibQs0K2rbLAV0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Motion Recruitment\", \"value\": \"466317\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUmO7QFJkx6A/company-logo_100_100/0/1626277947748?e=1637798400&v=beta&t=R3DJihnaRB7ERuM6qcX1PpARqCMgMpdnryUd9uxGWuw\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dallas\", \"addressRegion\": \"TX\", \"postalCode\": \"75342\", \"streetAddress\": null}, \"latitude\": 32.777977, \"longitude\": -96.79621}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-21T08:50:44.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

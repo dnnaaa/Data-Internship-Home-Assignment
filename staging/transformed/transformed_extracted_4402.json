@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T22:03:07.000Z\", \"description\": \"It's fun to work in a company where people truly BELIEVE in what they're doing!<br><br><em>We're committed to bringing passion and customer focus to the business.<br><br></em><strong>The Role <br><br></strong>We are looking for a seasoned professional to lead, design &amp; develop our flagship spam detection products. You get to work with some of the largest threat intelligence data in the cyber security and craft peta byte scale solutions to help protect some of the most targeted people, especially in fortune 1000 companies. You\\u2019ll build hybrid systems that take the best of rules based and machine learning based approaches in real \\u201creal time\\u201d and process billions of messages every day. A few seconds could make all the difference between a security breach and a blocked message. In succeeding with Proofpoint, you help make the internet a safer place for everyone.<br><br><strong>Your day-to-day <br></strong><ul><li>You have solid understanding of algorithms &amp; data structures along with their runtime complexities.</li><li>You are confident in building and troubleshooting highly performant and multithreaded applications at scale</li><li>You understand the complexities and tradeoffs for building systems with 99.99 and 99.999% availability.</li><li>Comfortable working with cloud platforms like AWS or GCP, especially in a hybrid Private/Public cloud model</li><li>Good working knowledge of design and stability patterns =</li><li>Provide technical leadership and up level to other members on the team</li><li>Partner with senior management on technical strategy and roadmap</li><li>Work closely with data scientists to integrate machine learning models in production<br></li></ul><strong><u>What You Bring To The Team<br></u></strong><ul><li>Bachelor\\u2019s Degree or higher in a quantitative discipline or other relevant field</li><li>8+ experience in working with large scale distributed systems</li><li>Experience with one or more of popular programming languages C++/Go/Python is required</li><li>Has intellectual curiosity and stays abreast with current technologies</li><li>High accountability and a track record of delivering game changing products with quality.</li><li>Deep customer focus Always start the with customer and work backwards</li><li>Understand lean software development practices and embrace data informed decisions.</li><li>Challenges status quo and looks for continuous improvement in systems and processes.<br></li></ul><em>If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!<br><br></em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Proofpoint\", \"sameAs\": \"https://www.linkedin.com/company/proofpoint\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQH26zFqmfgFTA/company-logo_200_200/0/1585245509760?e=1637193600&v=beta&t=vLBWFEM-shSujwWT2QR6SBBSrDC81VKgdUo-uHWXKJA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Proofpoint\", \"value\": \"R5907\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQH26zFqmfgFTA/company-logo_100_100/0/1585245509760?e=1637193600&v=beta&t=d-COqU-OcTk3VanlOGwiUeImBWJB-8ZDmxLpbOZCbA8\", \"industry\": \"Computer & Network Security,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Raleigh\", \"addressRegion\": \"NC\", \"postalCode\": \"27699\", \"streetAddress\": null}, \"latitude\": 35.781303, \"longitude\": -78.64168}, \"skills\": \"\", \"title\": \"Senior Software Engineer\", \"validThrough\": \"2021-09-17T22:03:06.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 66200, \"maxValue\": 117000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

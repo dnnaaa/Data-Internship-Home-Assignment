@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-23T21:28:20.000Z\", \"description\": \"<p>Machine Learning Engineer</p><p>6 months contract </p><p>100% Remote</p><p><br></p><p><strong>Qualifications:</strong></p><ul><li>Over 6 years of experience in Data and Analytics domain in a matrix environment, utilizing various SDLC methodologies</li><li>Experience with Artificial Intelligence and Machine Learning (AI/ML)</li><li>Exposure working within a Cloud environment and experience with any Cloud (AWS preferred).</li><li>Experience in DevOps workflow and tools such as Git, Kubernetes, Docker, CloudFormation and others; Especially Docker and Kubernetes </li><li>Ability to collaborate with leaders, users, Data scientist, Data Engineers, vendors, and other IT teams</li><li>Ability to work with multiple projects and workstreams at one time. Must be able to deliver results based upon project deadlines.</li><li>Willing to flex daily work schedule to allow for time-zone differences for global team communications</li><li>Strong interpersonal and communication skills</li></ul><p></p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Endure Technology Solutions\", \"sameAs\": \"https://www.linkedin.com/company/endure-technology-solutions\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQEywXSbLUH8VA/company-logo_200_200/0/1519945374166?e=1635984000&v=beta&t=lFnFWibFcKWvajI7cTlhgTck87DcOl4NkgfXzZGNZoY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Endure Technology Solutions\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQEywXSbLUH8VA/company-logo_100_100/0/1519945374166?e=1635984000&v=beta&t=vMHnLuM1S5cK0NjW-i6S8m0I0rjfnb4ksYwWdoFM5mY\", \"industry\": \"Information Technology and Services,Medical Devices\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-22T21:28:20.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

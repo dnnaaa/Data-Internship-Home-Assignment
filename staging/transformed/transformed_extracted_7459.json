@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-12T04:40:46.000Z\", \"description\": \"<strong><u>Job Description<br><br></u></strong><strong>Responsibilities</strong> \\uff1a<br><ul><li> Work with the Product Management teams on the product roadmaps, new features design, and product certifications. </li><li> Work with R&amp;D and QA throughout the product development lifecycle. </li><li> Develop pre- and post-sales tools and environments. </li><li> Research new technologies and trends to be familiar with and be able to devise new solution. <br></li></ul><strong>Requirements</strong> \\uff1a<br><ul><li> B.S. in Computer Science or Electrical Engineering; M.S. preferred. </li><li> Proficient in C language, proficient in development tools and environments under LINUX, such as gcc gdb libc, etc., able to understand GNU Makefile. </li><li> Deep knowledge of the HTTP/HTTPS protocol. </li><li> Familiarity with network firewalls, IDS/IPS, VPN, security consulting, SSL, IPsec. </li><li> Familiarity with common Web Authentication protocols, like NTLM, HTTP Basic, Radius, LDAP. </li><li> Experience with common web servers and proxies (like Nginx/Apache/Haproxy). </li><li> Understanding of Web application vulnerabilities, OWASP top 10. </li><li> Extensive experience in a pre- and post-systems engineering. </li><li> Experience with containers and Kubernetes. </li><li> High self-learning abilities. <br></li></ul>#GD<br><br><strong><u>About Us<br><br></u></strong><strong>Fortinet (NASDAQ: FTNT) secures the largest enterprise, service provider, and government organizations around the world. Fortinet empowers its customers with intelligent, seamless protection across the expanding attack surface and the power to take on ever-increasing performance requirements of the borderless network - today and into the future. Only the Fortinet Security Fabric architecture can deliver security features without compromise to address the most critical security challenges, whether in networked, application, cloud or mobile environments. Fortinet ranks number one in the most security appliances shipped worldwide and more than 450,000 customers trust Fortinet to protect their businesses.<br><br></strong><strong>We are committed to providing reasonable accommodations for all qualified individuals with disabilities. If you require assistance or accommodation due to a disability, please contact us at accommadations@fortinet.com.<br><br></strong><strong>Fortinet is an equal opportunity employer. We value diversity in our company, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.<br><br></strong>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Fortinet\", \"sameAs\": \"https://www.linkedin.com/company/fortinet\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG7i8Qz7ih_8Q/company-logo_200_200/0/1519856035554?e=1639612800&v=beta&t=5Byh5X7fcsUJCEAvcavnA3tkLLbdcxiobL1SRvEr5_o\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Fortinet\", \"value\": \"5984\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG7i8Qz7ih_8Q/company-logo_100_100/0/1519856035554?e=1639612800&v=beta&t=kimMp9HuYZD501Wyo3mrqYs4evEMNw7Umn1smWC06q4\", \"industry\": \"Information Technology and Services,Computer & Network Security,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Sunnyvale\", \"addressRegion\": \"CA\", \"postalCode\": \"94089\", \"streetAddress\": null}, \"latitude\": 37.373676, \"longitude\": -122.036575}, \"skills\": \"\", \"title\": \"Software Development Engineer\", \"validThrough\": \"2021-10-12T04:40:45.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

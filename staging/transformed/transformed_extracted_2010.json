@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-01T06:43:14.000Z\", \"description\": \"Apex System has an immediate need for an AP Researcher. Our client is seeking interim support to support its Procure to Pay process, with primary focus in managing Accounts Payable Function.<br>The AP Researcher is responsible for solving complex problems preventing the payment of invoices through the application of broad knowledge of theories and principles utilized to solve Accounts Payable backlog, SOX requirements and business process optimization. Late evenings and/or weekend work is required at times. If interested or would like more information please send your updated resume to kgubler@apexsystems.com<br><br><strong><u>Responsibilities Of AP Researcher<br><br></u></strong>Manage and track unpaid supplier invoices<br>Understand and ensure all accounting interdependences such cost accounting, customer billing and CIP<br>Manage supplier communication and statement validations<br>Coordinate with the vendor and Purchasing to ensure required PO changes are implemented in a timely basis<br>Identify, design and coordinate implementation of business process optimization by leveraging best practices and automation<br>Requires flexible workhours, weekend and nights may be required to meet deadlines<br>Reconcile required balance sheet reconciliations<br><br><strong><u>Downstream<br><br></u></strong>Coordinate within AP Team to ensure supplier invoice payment process is consistently followed<br>Ensure SOX requirements for 3-way and 2-way matching requirements are consistently being followed<br>Provide audit support as needed<br>Coordinate with Cost Accounting, CIP and Customer Billing to ensure all interdependences are communicated<br>Coordinate with AP Manager on specific supplier payments as needed<br><br><strong><u>Upstream<br><br></u></strong>Coordinate with Supply Chain, Purchase Requesters, Procurement on PO to invoice research findings<br>Have excellent understanding and knowledge Procure to Pay process<br>Experienced with suspension and adherent cell cultures<br><br><strong><u>Requirements Of AP Researcher<br><br></u></strong>Bachelor's Degree in accounting required<br>CPA preferred<br>7 plus years of Senior Accountant level experience<br><br><strong><u>Experience In a Manufacturing Environment / Company Required<br><br></u></strong>ERP implementation experience a plus<br>Advanced excel &amp; strong analytical skills requried<br><br><strong><u>Experience In Resolving Complicated Accounting Issues Preferred<br><br></u></strong>Ability to juggle multiple competing priorities<br>Experience in Accounts Payable management/oversight desired<br>Proven ability to work both independently and collaboratively with different levels of employees and management<br>Effective communication<br>EEO Employer<br>Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystemsinc.com or 844-463-6178.<br>VEVRAA Federal ContractorWe request Priority Protected Veteran &amp; Disabled Referrals for all of our locations within the state.We are an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other protected characteristic. The EEO is the Law poster is available here.PDN-93e75733-6bdb-4712-8b63-8085421e3a26\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \" Professional Diversity Network\", \"sameAs\": \"https://www.linkedin.com/company/prodivnet\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHJdwB_b90Z8Q/company-logo_200_200/0/1598549342810?e=1635984000&v=beta&t=wBWL26hfZWlY3KkykBAp54LTzY96wo4ROEVL3CHfSRI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \" Professional Diversity Network\", \"value\": \"6078839\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHJdwB_b90Z8Q/company-logo_100_100/0/1598549342810?e=1635984000&v=beta&t=K4fqZu20KcirP4wOmud3K77gs9a5h4rNn7ioQzrrzt4\", \"industry\": \"Marketing and Advertising,Computer Software,Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Harmans\", \"addressRegion\": \"MD\", \"postalCode\": \"21077\", \"streetAddress\": null}, \"latitude\": 39.159916, \"longitude\": -76.698814}, \"skills\": \"\", \"title\": \"AP Researcher\", \"validThrough\": \"2021-08-31T06:43:14.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"high school\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 84}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

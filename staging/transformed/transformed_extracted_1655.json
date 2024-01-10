@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-29T21:03:36.000Z\", \"description\": \"<p>R&amp;D division of a prominent Security Conglomerate, is hiring a Data Scientist for its Arlington based operations(remote flex). A few responsibilities include: creating data analytic models to improve data metrics, analyzing customer behavior and trends, delivering insights to stakeholders and executives, as well embarking on data ingestion and data streaming. The ideal candidate will be well versed with: machine learning tools, python, R, Elastic Search, and Apache Spark and have experience with predictive analytics in a forward thinking environment.</p><p><em>Must Haves:</em></p><p>- 3+ years experience as Data Scientist</p><p>- Bachelors degree in related field</p><p>- Proficient with Python and R languages</p><p>- Experience with Postgres and MongoDB</p><p>- Worked with modern BI and analytic software platforms</p><p>- Experience with Data ingestion tools</p><p><br></p><p><em>Great to have:</em></p><p>- Masters degree/PHD in related field</p><p>- Experience with Machine Learning Tools</p><p>- Experience web scraping with Python</p><p>- Development background utilizing JVM languages</p><p>- Background with Elastic Search</p><p><em>Package:</em></p><p>- Full-time Direct hire with amazing benefits</p><p>- Education/tuition reimbursement plans</p><p>- Plethora of healthcare options</p><p>- Employee retirement matching plans</p><p>- Yearly bonus plans</p><p>- Many more</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Stem IT\", \"sameAs\": \"https://www.linkedin.com/company/stemitstaffing\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFUMut9jT1Vmw/company-logo_200_200/0/1552404485498?e=1635984000&v=beta&t=YpWQyR6OG1F5UCkQDH2kkyP9PmcdzNHaHLevD3f_Fnw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Stem IT\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFUMut9jT1Vmw/company-logo_100_100/0/1552404485498?e=1635984000&v=beta&t=5DhEFLhAzZNltyW-I28Su7w9JsWUqTrihEffpmf08GU\", \"industry\": \"Computer & Network Security,Information Technology and Services,Nanotechnology\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Washington\", \"addressRegion\": \"DC\", \"postalCode\": \"20398\", \"streetAddress\": null}, \"latitude\": 38.892063, \"longitude\": -77.01991}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-08-28T21:03:36.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

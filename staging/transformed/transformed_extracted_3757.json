@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-16T10:26:07.000Z\", \"description\": \"<p>As a Software Engineer, you will engineer, code, and test resilient, highly-scalable software systems for both their web applications as well as backend APIs for their mobile apps, that services their hundreds of thousands of customers. They are significantly building out the engineering teams and are seeking talented coders who love growth to be a part of this expansion.</p><p><br></p><p><strong><u>Responsibilities</u></strong></p><p><br></p><ul><li>Solve technical problems by working closely with Agile scrum masters, UX, product managers, and remote teams.</li><li>Review and correct code for quality and design</li><li>Strong written and verbal communication skills.</li><li>Manage the delicate balance between implementation complexity, time to market and scalability and resiliency.</li><li>Working knowledge of database and code architecture best practices.&nbsp;</li><li>Design high-performance database schema and code architecture.</li><li>Empower remote teams to deliver stable, high performing, and reliable code.&nbsp;This requires regular interactions with remote teams in the mornings.</li><li>Contribute significantly to sprints, meet sprint deadlines, help other team members with their sprint commitments and take the lead on urgent tasks.</li></ul><p><br></p><p><strong><u>Required Qualifications</u>:</strong></p><p><br></p><ul><li>2+ years of PHP development experience with Laravel (or other similar languages like C, C++, C#, Java, C#, and .net work as well).</li><li>Experience writing SQL queries and engineering solid database schema designs.</li><li>2+ years of experience in performance optimization, debugging, and unit testing.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Airswift\", \"sameAs\": \"https://www.linkedin.com/company/airswift\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQF2MVatj4CJhw/company-logo_200_200/0/1537448332955?e=1637193600&v=beta&t=Paoqp_rc4q7HUntqSs81dAXuEp_iyn9cX63HoyP-sh8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Airswift\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQF2MVatj4CJhw/company-logo_100_100/0/1537448332955?e=1637193600&v=beta&t=J02USzoKVkOCM9GohnXZE8kXL6_uoAsa6B-2xrb3t8M\", \"industry\": \"Environmental Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Provo\", \"addressRegion\": \"UT\", \"postalCode\": \"84601\", \"streetAddress\": null}, \"latitude\": 40.235123, \"longitude\": -111.66219}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-15T10:25:51.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

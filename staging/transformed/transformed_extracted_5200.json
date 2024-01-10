@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T22:16:33.000Z\", \"description\": \"<p><strong>Title: Site Reliability Engineer</strong></p><p><strong>Remote role (Anywhere in the US)</strong></p><p><strong>Full-time</strong></p><p><br></p><p><strong></strong>Key Skills - Cloud Deployment, Agile, Kubernetes, Opensource, Python, and Elastic Search</p><p><br></p><p><strong>Your Past Experience &amp; Future Success</strong></p><p>5 to 10 years supporting large scale, distributed installations</p><p>Experience operating service in the cloud</p><p><strong>Exposure to and experience with the following tools Ansible, Docker, Kubernetes, Python, Terraform / Terragrunt</strong></p><p>Participating in and contributing to agile methodologies and best practices</p><p>Articulate and personable with strong spoken and written language abilities.</p><p>You engender a sense of mentoring and knowledge sharing amongst your team, hence creating a synergistic learning environment.</p><p>Experience working and collaborate with a distributed SRE and Engineering team</p><p>Self-motivated and sensitive about on-time delivery</p><p><strong>Jenkins and CI/CD pipeline</strong></p><p><strong>Apache Cassandra, Apache Kafka</strong></p><p><strong>Open Source Software Development</strong></p><p><strong>ElasticSearch / OpenDistro / OpenSearch</strong></p><p><strong>HashiCorp Vault</strong></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Triune Infomatics Inc\", \"sameAs\": \"https://www.linkedin.com/company/triune-infomatics-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQEC0RuMDu_GTQ/company-logo_200_200/0/1613979873873?e=1637798400&v=beta&t=M_XZEaHIvCmRJck483ybWMIfN5rrJ7qe6EH60XXysdU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Triune Infomatics Inc\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQEC0RuMDu_GTQ/company-logo_100_100/0/1613979873873?e=1637798400&v=beta&t=m0Dgrx2dPDDSDdC38oy4zOa8MbkUvlNlTG_VH2v1UDA\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Mateo County\", \"addressRegion\": \"CA\", \"postalCode\": \"94029\", \"streetAddress\": null}, \"latitude\": 37.48478, \"longitude\": -122.22815}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-10-18T16:10:33.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

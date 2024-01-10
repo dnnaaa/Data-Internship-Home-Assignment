@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T18:18:46.000Z\", \"description\": \"<p>The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.&nbsp;</p><p>\\t</p><p><strong><u>Responsibilities:</u></strong></p><ul><li>Develop, create, and modify general computer application software or specialized programs</li><li>Analyze user needs and develop software solutions</li><li>Design or customize software for client use to optimize operational efficiency</li><li>Improve existing systems by analyzing areas of modification</li><li>Analyze and design databases with application areas</li><li>Coordinate database development with a team or individually</li><li>Maintain systems by monitoring, identifying, and correcting software defects</li><li>Create technical specifications and test plans</li><li>Update knowledge and skills regularly through in-house and external courses, manuals, and new applications</li></ul><p><strong><u>Qualifications</u></strong></p><ul><li>B.S. in Computer Science (CS), Information Technology (IT), Information Systems (IS), Electrical Engineering (EE), Computer Engineering (CE), Informatics, or Software Engineering (SE)</li><li>Knowledge of basic computer science concepts, programming, and Information Systems</li><li>Interest and willingness to travel and relocate</li><li>Previous experience in Java/J2EE Development, C++/C#, .NET, VB/ASP Development and Database experience is preferred.</li></ul><li></li>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Tata Consultancy Services\", \"sameAs\": \"https://in.linkedin.com/company/tata-consultancy-services\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEMvQ8E6gXSPA/company-logo_200_200/0/1625820626997?e=1635984000&v=beta&t=hYZudvBJT89CB53hnHyqsmB7G1UlDbIjH2JLO9T7deE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Tata Consultancy Services\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEMvQ8E6gXSPA/company-logo_100_100/0/1625820626997?e=1635984000&v=beta&t=3CJzkjkA13mrYwogfMBuPlGV37MgeS1BZKSYRivW4uY\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New Jersey\", \"addressRegion\": \"United States\", \"postalCode\": \"08810\", \"streetAddress\": null}, \"latitude\": 40.139095, \"longitude\": -74.67851}, \"skills\": \"\", \"title\": \"Entry Level Software Engineer\", \"validThrough\": \"2021-09-04T18:18:45.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

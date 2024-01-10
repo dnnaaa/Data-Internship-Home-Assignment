@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-04T21:55:22.000Z\", \"description\": \"<p>We are currently looking for Software Engineers to join our Product Capabilities team. If&nbsp;you are passionate about software development, sharing knowledge, growing your skills, and working with great people, then join us! Our engineering team is growing, and we are looking for extraordinary engineers who enjoy building as much as we do.&nbsp;You will have the opportunity to contribute to the evolution of a world class engineering team. The solutions you build will enable you the opportunity to positively change lives.&nbsp;</p><p><strong>&nbsp;</strong></p><p><strong>What You\\u2019ll Gain</strong></p><p>You will get experience working with a cross-disciplinary team shipping real-world products to our customers around the nation. In the Product Capabilities team, you will work with the latest technologies such as Golang, Kafka, and GCP. Our team culture is autonomous yet collaborative and supportive.</p><p><strong>&nbsp;&nbsp;</strong></p><p><strong>Your Responsibilities</strong></p><ul><li>Design, develop, test (unit/integration/etc), deploy and maintain application code</li><li>Develop multi-region, high performance services.&nbsp;</li><li>Work with a variety of technologies: Go, Ruby, Postgres, Redis, Kafka and more</li><li>Participate in the design process to build efficient, scalable and maintainable architecture</li><li>Work cross-stack with other engineering teams to drive solutions</li><li>Review and collaborate with other engineers on their code</li><li>Engineers have a high degree of ownership for all aspects of their services</li><li>Mentor and share knowledge with the team</li><li>Interface with internal stakeholders to provide technical solutions and manage expectations</li></ul><p><strong>&nbsp;</strong></p><p><strong>&nbsp;Requirements</strong></p><ul><li>Demonstrated working experience with common backend service languages such as Golang, Python, Ruby, Java, Rust, etc.</li><li>Demonstrated understanding of the importance of testing discipline.</li><li>Able to apply the SOLID principles</li><li>Demonstrated experience in performance optimizations and trends.</li><li>Working knowledge of best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.</li><li>Comprehension of the principles of API design and web service integration.</li><li>Experience with SOA, micro-services, and/or distributed architecture.</li><li>Comfortable working with a distributed team.</li><li>You are willing to monitor and own the production services team</li><li>A passion for learning and development to invest in the betterment of self.</li></ul><p><strong>&nbsp;</strong></p><p><strong>&nbsp;Nice to Haves</strong></p><ul><li>Experience with Golang.</li><li>Caching and in-memory database technologies</li><li>Asynchronous/Multi-threaded Programming Patterns</li><li>Message queuing technologies/strategies</li><li>Open source software and dependency management</li><li>Working knowledge of agile and DevOps practices and principles</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"High5\", \"sameAs\": \"https://www.linkedin.com/company/high5hire\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQESBR5Sr341Lw/company-logo_200_200/0/1599354757422?e=1641427200&v=beta&t=Hqv5a5ZfOWiMy5CoDA2DzvGJ4sk1HTYspIadTHMhVpc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"High5\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQESBR5Sr341Lw/company-logo_100_100/0/1599354757422?e=1641427200&v=beta&t=Dz0XmynBsJI9s8XMhn6pv60AgLLi_0JV1IwgLaDtlfM\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-11-03T21:55:21.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

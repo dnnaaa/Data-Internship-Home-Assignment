@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-27T05:24:17.000Z\", \"description\": \"Hunter Engineering Company, a global leader in the development and manufacturing of computer-based automotive service equipment.<br><br>We are currently seeking a R&amp;D Engineer- Software Design for our R&amp;D operations.<br><br>Founded in 1946, Hunter has a history of product ingenuity and growth and has been a worldwide market leader for decades. Our computer-based products set the quality and technological standard in the industry. Hunter Engineering Company offers state-of-the-art automotive service equipment such as wheel alignment systems, wheel balancers, tire changers, lift racks, and brake testers.<br><br><strong><u>Job Summary<br><br></u></strong>We are looking for a Software Design Engineer to design and develop machine vision based products with emphasis on software development.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Perform new product research and conceptual design as member of our design team </li><li> Develop, implement, and test vision based software algorithms </li><li> Support development of application level software </li><li> Support further development of existing products as needed </li><li> Support development of factory test fixtures as required <br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> Bachelor\\u2019s of Science degree in Electrical Engineering, Computer Engineering, or Computer Science </li><li> Experience with Microsoft Visual Studio is preferred </li><li> Knowledgeable in matrix algebra, 3D perspective geometry, and optimization algorithms </li><li> Experience developing application level software including screen design and user interface design </li><li> Experience with working in a multiple developer team environment with configuration management and defect tracking tools is preferred </li><li> Experience in developing code for embedded systems is also desired </li><li> Experience developing software in C, C++, using a Windows-based development environment is required <br></li></ul><strong><u>Preferred Experience<br></u></strong><ul><li> C# </li><li> Azure </li><li> Electron &amp; Angular </li><li> .NET Core, React, &amp; TypeScript </li><li> JSON </li><li> RESTful APIs </li><li> Version Control: Team Foundation Server and/or Git</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Hunter Engineering Company\", \"sameAs\": \"https://www.linkedin.com/company/hunter-engineering\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGO_U2HbN_AKA/company-logo_200_200/0/1522243744809?e=1638403200&v=beta&t=gViuViEqrRRVqkTuXnduir726q3MP7z8h86d0yZAbYU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Hunter Engineering Company\", \"value\": \"3136\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGO_U2HbN_AKA/company-logo_100_100/0/1522243744809?e=1638403200&v=beta&t=HX6-_kRGIpUWuq9rXvrm0hSWAJp570otRCmdwEzZZUA\", \"industry\": \"Information Technology and Services,Computer Software,Automotive\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Bridgeton\", \"addressRegion\": \"MO\", \"postalCode\": \"63044\", \"streetAddress\": null}, \"latitude\": 38.755707, \"longitude\": -90.4183}, \"skills\": \"\", \"title\": \"Software Design Engineer\", \"validThrough\": \"2021-09-26T05:24:16.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

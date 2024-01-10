@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-02T22:08:27.000Z\", \"description\": \"<p>We are looking for multiple excellent software engineers to join our team. You are a good fit if </p> <p>you love to get hands-on and solve any problem on the way to building our first product, which </p> <p>can include obtaining and cleaning data, training ML models, putting models into production, </p> <p>front-end and back-end development, and more. You have an enthusiastic attitude and you </p> <p>know how to combine scrappiness with discipline and quality. </p><p><br> </p><p>Responsibilities:&nbsp; </p><p><br> </p> <ul><li>Create point-in-time data repositories updated in real time or daily </li><li>Understand the fixed income domain in detail and prepare data using this understanding </li><li>Train state of the art deep learning models using TensorFlow </li><li>Productionize models in APIs that are easy to use by our customers </li><li>Build web interfaces for human consumptios </li></ul><p><br> </p><p>Qualifications: </p><p><br> </p> <ul><li>Degree in computer science or a related area </li><li>&nbsp;Excellent communication and interpersonal skills </li><li>&nbsp;Significant experience as a professional software engineer </li><li>&nbsp;Strong interest in capital markets and in joining a startup </li><li>&nbsp;Preferred: Experience with Python, cloud computing, TensorFlow, and serverless </li><li>&nbsp;Preferred: Experience building for high availability, low latency, and high throughput </li><li>&nbsp;Preferred: Degree in finance or similar qualification such as CFA </li><li>&nbsp;Preferred: Ability to grow rapidly into a manager, and/or into a principal engineer </li></ul>        <p><br> </p><p>What We Offer: </p><p><br> </p> <ul><li>Diverse and inclusive environment committed to equal opportunity </li><li>Excellent salary, equity, health insurance, 401K, and other benefits </li><li>Opportunity to work directly with founders who include a top professor of machine learning, a successful serial entrepreneur, and a managing director from a top-ranked investment bank </li><li>Rapid U.S. visa sponsorship available</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"ficc.ai\", \"sameAs\": \"https://www.linkedin.com/company/ficc-ai\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHAPyyYQUfM6Q/company-logo_200_200/0/1625866604861?e=1635984000&v=beta&t=iIJ_bndJWNOxYjqzu5KoP_6kBuPKlssN5_wOeHyURgk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"ficc.ai\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHAPyyYQUfM6Q/company-logo_100_100/0/1625866604861?e=1635984000&v=beta&t=t7RABU6ElkB8NcYkqVfAPF9GVBORW3VwbrNYTHIoPWc\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Greater Seattle Area\", \"addressRegion\": null, \"postalCode\": \"98109\", \"streetAddress\": null}, \"latitude\": 47.591396, \"longitude\": -122.33279}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2022-01-29T22:08:15.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

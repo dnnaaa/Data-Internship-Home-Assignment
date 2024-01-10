@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:31:53.000Z\", \"description\": \"<p><strong>Job Description:</strong></p><p><strong>Minimum Qualifications</strong></p><p>- Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.</p><p>- 1+ years\\u2019 experience with Programming Language such as C, C++, Java, Python, etc.</p><p><br></p><p><strong>Preferred Qualifications</strong></p><p>Industry experience in the following:</p><p>- Software development and System Architecture on Arm based RTOS platforms.</p><p>- Android or other High level OS for Mobile, Compute, IoT or Automotive products ( e.g. Android, Linux, Windows etc.).</p><p>- Software version control systems (such as GIT, Perforce etc.) for large scale software development.</p><p>- C /C++ programming and debug experience</p><p>- Software development for embedded platform.</p><p>- One or more of the following Modem protocols: EVDO/WCDMA/LTE/5G system architecture</p><p>- RTOS software development</p><p>- Scripting language such as Perl or Python.</p><p>- Multimedia (Audio, Video, Camera) software development/debug/integration.</p><p>- Understanding of ARM processor family and software development on ARM processors.</p><p>- Understanding of Bluetooth , Wifi ( 802.11 family) drivers and protocol.</p><p>- Embedded system debugging skills (Jtag based).</p><p>- Familiarity with modem log analysis (e.g. WCDMA, LTE, 4g, 5g etc.)</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"ManpowerGroup\", \"sameAs\": \"https://www.linkedin.com/company/manpowergroup\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGxCiUiSgZmLQ/company-logo_200_200/0/1625149012495?e=1637798400&v=beta&t=4rjLf4e3eszIoeAxlnHgtqIfkUWEQ1OiJN348yBttUY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"ManpowerGroup\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGxCiUiSgZmLQ/company-logo_100_100/0/1625149012495?e=1637798400&v=beta&t=SPhlKFBf_Tfd8zLwtTO-rMD48f4Sqgn9H76m857lmFw\", \"industry\": \"Semiconductors\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Diego\", \"addressRegion\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Embedded Software Engineer\", \"validThrough\": \"2021-10-22T23:48:18.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

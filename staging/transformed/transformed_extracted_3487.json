@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-13T13:31:59.000Z\", \"description\": \"<p>JOB RESPONSIBILITIES</p><p>The engineer\\u2019s responsibilities include: understanding requirements and technical specifications of complex enterprise solutions, creation of customer-like lab environments, the design and execution of tests, use and/or development of specialized tools to facilitate testing, working with architects, software/hardware engineers to investigate problem areas, and effective communication of problem areas, solution capabilities and potential customer impacting issues.</p><p>#Li-NA1</p><p>JOB REQUIREMENT</p><p>Required skills sets: (software, hardware, languages, OS, tools, etc.)</p><p>BS or MS in Computer Science or a related engineering field. 2+ years experience in system/solution test or system engineering in a communications related field. A strong desire to learn and develop expertise in business communications and test business communications systems end to end, at scale, and in disaster recovery scenarios is essential.</p><p>DESIRED skill sets:</p><p>Solution testing in one or more of the following areas: Avaya Contact Centers, cloud-based solutions, WebRTC, Servers, networks LAN/WAN, Client/Server architectures, operating systems, web services, unified communications. Effective communication skills, oral and written, and the ability to function in a team environment. Experience with Windows (OS and domain infrastructures), Linux, databases (MSSQL, Oracle, DB2, Informix), virtualization, Web Services and PBXs with ACD capabilities.</p><p>EXPERIENCE</p><p>7 - 10 Years of Experience</p><p>EDUCATION</p><p>Bachelor degree or equivalent experience</p><p>Advance Degree preferred</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Avaya\", \"sameAs\": \"https://www.linkedin.com/company/avaya\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQG3eFJCNlzrBg/company-logo_200_200/0/1625414182216?e=1637193600&v=beta&t=AJr28Lx3qPyHB7PW1HxGr5DesbkXEz_UwzXK5_ZL6FI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Avaya\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQG3eFJCNlzrBg/company-logo_100_100/0/1625414182216?e=1637193600&v=beta&t=PvpsH-YRbqXNTVIB5OkXTb4dRSjwbNTKsCxGMHO5VFY\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Denver\", \"addressRegion\": \"CO\", \"postalCode\": \"80247\", \"streetAddress\": null}, \"latitude\": 39.738453, \"longitude\": -104.984856}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-12T00:44:39.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 84}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 58700, \"maxValue\": 90600, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

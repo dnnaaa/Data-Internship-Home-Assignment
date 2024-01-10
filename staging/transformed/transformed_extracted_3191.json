@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T16:48:46.000Z\", \"description\": \"<p>Job Title: Software Engineer 5</p><p>Location: Mountain View, CA (100% Remote is an option for this role as long as the candidate can work PST time zone)</p><p>Role: Full Time</p><p><br></p><p>Job Responsibilities</p><p>Requirements:</p><p>\\u2022 6+ years of professional experience as a Sr. Software Engineer</p><p>\\u2022 4+ years of solid experience in Ruby on Rails with experience in libraries like Resque and RSpec</p><p>\\u2022 Experience with GrapQL is a big plus</p><p>\\u2022 Experience in ReactJS/Redux JavaScript frameworks, Ad experience a plus</p><p>\\u2022 Experience in JavaScript, HTML5, CSS3, and other core web technologies</p><p>\\u2022 Experience in consuming REST APIs in JavaScript/NodeJS</p><p>\\u2022 Experience in SCM Source Code Management systems and tools, such as GIT</p><p>\\u2022 Strong knowledge in Computer Science foundations</p><p>\\u2022 BS/MS in Computer Science/Engineering or equivalent experience</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Larsen & Toubro\", \"sameAs\": \"https://in.linkedin.com/company/larsen-&-toubro-limited\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFnEYpR8MlYsA/company-logo_200_200/0/1519856125136?e=1636588800&v=beta&t=IIuVqmh_h6Ud_bGdNMD5wMHrJAnUaLP0RgavRYkr4Zo\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Larsen & Toubro\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFnEYpR8MlYsA/company-logo_100_100/0/1519856125136?e=1636588800&v=beta&t=E4ttYcFhrJwYjzCNT33yQ0GRme_wZ4snLd8CSmB8GWU\", \"industry\": \"Telecommunications,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Mountain View\", \"addressRegion\": \"CA\", \"postalCode\": \"94040\", \"streetAddress\": null}, \"latitude\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-09T16:48:45.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

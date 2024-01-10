@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T21:18:35.000Z\", \"description\": \"<p><strong>High-level\\u2026</strong></p><p><br></p><p>The Site Reliability Engineer (SRE) is responsible for the availability, performance, monitoring, release engineering, and incident response, among other things, of the platforms and services the company runs and owns. SRE ensures that enterprise services have reliability and uptime appropriate to defined service levels.&nbsp;SRE\\u2019s are focused on optimizing existing systems, building cloud infrastructure, and eliminating manual work through automation.&nbsp;</p><p><br></p><p><strong>Down in the weeds\\u2026</strong></p><ul><li>Analyzing and troubleshooting large-scale distributed systems in the public cloud</li><li>Scale systems sustainably through mechanisms like automation and evolve systems by pushing for changes that improve reliability and velocity</li><li>Improve and maintain monitoring and logging solutions that measure availability, latency and overall system health of production systems</li><li>Provision and manage cloud Infrastructure through automation and infrastructure as code</li><li>Restore healthy operation of applications and services through sustainable incident response and blameless postmortems</li><li>Follow and monitor security and compliance best practices</li><li>Configuration of continuous integration pipeline and release automation</li></ul><p><br></p><p><strong>About you\\u2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></p><ul><li>Adept in one or more of the following: TypeScript, .NET (C# or Core), Python</li><li>Experience in Domain-Driven Design and application design patterns</li><li>Configuration Management and Infrastructure as Code (e.g CloudFormation)</li><li>Building and deploying infrastructure in public cloud platforms (AWS)</li><li>Experience with configuration and management of CI/CD pipeline (Jenkins)</li><li>Understanding of network and security principles and best practices (CIS, OWASP)</li></ul><p><br></p><p><strong>Education and Experience...</strong></p><ul><li>Bachelor's degree from a four-year college or university, or three to four years related experience and/or training; or equivalent combination of education and experience.</li><li>3+ years of software engineering and/or IT operations and infrastructure experience preferred</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Tillster, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/tillster\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFVwK27kI9Yeg/company-logo_200_200/0/1544471007149?e=1636588800&v=beta&t=RWKgKhmTV1N05YjaKLGORh_shtHgIPBhJHmEVO1qAg8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Tillster, Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFVwK27kI9Yeg/company-logo_100_100/0/1544471007149?e=1636588800&v=beta&t=CI_rDQmMS5WLT7yRsAgjAhoqk274BWwIZeYiS-Ny0Ws\", \"industry\": \"Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-09T21:18:34.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

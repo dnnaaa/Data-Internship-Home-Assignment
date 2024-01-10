@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-04T15:39:59.000Z\", \"description\": \"<p><strong>Opportunity&nbsp;</strong></p><p>The Machine Learning Engineer is responsible for designing and developing pipeline applications that run complex data science workflows delivering value to Alto\\u2019s customers. You\\u2019ll be on a team with Data Scientists producing innovative solutions that drive Alto.</p><p><br></p><p>Your job includes producing technical design artifacts, developing and testing application, service, and component code, supporting the testing, change and release, and production operation of the code in partnership with the other development teams. Responsible for ensuring alignment to the enterprise architecture standards, industry standards, and best practices when designing or changing applications.</p><p><br></p><p><strong>Responsibilities&nbsp;</strong></p><ul><li>Develop native mobile applications, web portals, and integration services using modern technology platforms and frameworks, specifically Kubernetes, Istio, Google Cloud Platform, Serverless Functions, and Machine Learning&nbsp;</li><li>Participate in design, development and deployment transition of APIs and/or&nbsp; microservices to integrate across multiple new and existing mobile and web&nbsp; applications</li><li>Provide input and guidance on architecture, design patterns, platform, and tools&nbsp; evaluation, selection, and implementation&nbsp;</li><li>Provide technical leadership and collaborate with other team members across engineering, DevOps, product, customer support, operations, and others&nbsp;</li></ul><p><br></p><p><strong>Background &amp; Experience</strong></p><ul><li>5+ years experience building enterprise-class applications</li><li>5+ years experience writing applications in Java, Python or NodeJS</li><li>Previous experience launching and maintaining Machine Learning workflows</li><li>Previous experience with Kubeflow and similar technologies</li><li>Strong algorithm fundamentals</li><li>Experience building well-tested applications</li><li>Experience with APIs and microservice patterns using Kubernetes</li><li>Experience with modern relational and non-relational database platforms</li><li>Experience with Git (and Git-Flow patterns)</li><li>Excellent communication skills, a positive attitude, and self-motivated</li><li>Ability to operate in an agile, entrepreneurial start-up environment</li></ul><p><br></p><p><strong>Company Background&nbsp;</strong></p><p>Alto is an early-stage, high-growth, consumer company on a mission to redefine personal mobility. With a differentiated approach to the rideshare market, Alto is offering a safer, more premium experience to passengers and a sustainable living wage to drivers. Featured in CNN, LATimes, Dallas Business Journal, and more, Alto has established itself as a disruptive leader within the transportation category.&nbsp;</p><p><br></p><p>Alto currently operates in Dallas, Houston, and Los Angeles.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Alto\", \"sameAs\": \"https://www.linkedin.com/company/ridealto\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQE3zdSJo3qJmg/company-logo_200_200/0/1533851256679?e=1641427200&v=beta&t=5r6SUfcmZP6wXIoS_r9cvtcV7607h70d5w29YTX1V34\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Alto\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQE3zdSJo3qJmg/company-logo_100_100/0/1533851256679?e=1641427200&v=beta&t=DrNiIzuDu8_g9RXGWbU-CT3v0VA0l0lARgXu4vEdk7U\", \"industry\": \"Leisure, Travel & Tourism,Hospitality\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dallas-Fort Worth Metroplex\", \"addressRegion\": null, \"postalCode\": \"75049\", \"streetAddress\": null}, \"latitude\": 32.7513, \"longitude\": -97.08263}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-11-03T15:39:58.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

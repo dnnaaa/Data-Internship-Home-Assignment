@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-02T21:02:21.000Z\", \"description\": \"<p>OctoML is an energetic new company changing how developers optimize and deploy machine learning models for their AI needs. We\\u2019re a team of machine learning systems leaders focused on making ML more efficient and easier to deploy by\\u2026 applying machine learning to it!</p><p><br></p><p>OctoML was founded by the creators of Apache TVM, a popular open-source compiler that transforms ML models into highly-efficient binary code optimized for the specific hardware and model architecture. We are building the Octomizer, a cloud-based \\\"TVM as a Service\\\" product that enables developers to optimize and package their ML models through a modern web app as well as a rich API surface.</p><p><br></p><p>We dream big but execute with focus and believe in creativity, productivity and a balanced life. We value diversity in all dimensions. OctoML is growing fast and looking for MLSys engineers to join the team!</p><p><br></p><p><strong>As an&nbsp;MLSys Engineer, you will:&nbsp;</strong></p><ul><li>Explore machine-learning-based optimizations for performance and energy efficiency</li><li>Develop hardware-aware optimization for emerging ML algorithms</li><li>Improve model ingestion and robustness at the front end of our pipeline&nbsp;</li><li>Develop automation strategies for generating efficient ML models</li><li>Develop groundbreaking demos to wow your friends and win customers</li></ul><p><br></p><p><strong>Our ideal&nbsp;MLSys Engineer will have:&nbsp;</strong></p><ul><li>Experience with ML frameworks such as PyTorch, MxNET, Tensorflow, etc.</li><li>Experience implementing or optimizing linear algebra functions (convolutions, fully connected, etc.)</li><li>Proficiency in Python, C or C++&nbsp;</li><li>Excellent verbal and written communication skills</li><li>Ability to empathize with co-workers and customers</li><li>Collaborative working style; able to self manage your time effectively</li><li>BA or BS in Computer Science, Computer Science Engineering, Electrical &amp; Computer Engineering, Electrical Engineering, or a&nbsp;closely-related&nbsp;field is required for this position</li></ul><p><br></p><p><strong>Location:</strong> Onsite (post-pandemic) in Seattle, WA or Remote</p><p>&nbsp;</p><p><strong>Our Benefits:</strong></p><p>OctoML aims to provide the resources that employees need to be healthy and comfortable.</p><ul><li>4 weeks paid personal time off + company paid holidays and company downtime 2x per year</li><li>100% employer paid premium (for employee and dependents) with a low-deductible plan</li><li>Family &amp; Medical Paid Time Off (includes Maternity, Paternity, Adoption, among others)</li><li>Remote and telework setups for employees (post-COVID)</li><li>Flexible work hours</li></ul><p><br></p><p><em>OctoML is committed to creating a diverse environment and is proud to be an equal opportunity employer. We hire based on an evaluation of abilities and effectiveness. We don't discriminate against employees on the basis of any other personal characteristic or any classification protected by federal, state or local law. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"OctoML\", \"sameAs\": \"https://www.linkedin.com/company/octoml\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQG2CIobpEOCcg/company-logo_200_200/0/1626283875823?e=1639008000&v=beta&t=PSQTsSvVOsLUvomzZiMqINL4DUMjNJ0S95WcUIw0Xdk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"OctoML\", \"value\": \"A8Zq1K39j0\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQG2CIobpEOCcg/company-logo_100_100/0/1626283875823?e=1639008000&v=beta&t=cyWRY-HlvCoQ66xtlzzkT_INpyQdYnF6lMeBjYNS-40\", \"industry\": \"Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Seattle\", \"addressRegion\": \"WA\", \"postalCode\": \"98133\", \"streetAddress\": null}, \"latitude\": 47.60323, \"longitude\": -122.33028}, \"skills\": \"\", \"title\": \"Machine Learning and Systems (MLSys) Engineer \", \"validThrough\": \"2021-10-02T21:02:20.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

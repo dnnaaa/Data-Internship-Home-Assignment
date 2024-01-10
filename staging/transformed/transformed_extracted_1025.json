@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-03T07:58:24.000Z\", \"description\": \"Analytics Engineer who will be responsible for building and maintaining complex systems for the purpose of aggregating, visualizing and interpreting critical business data sets.<br><br><strong><u>What Your Day Will Look Like<br></u></strong><ul><li>Drive the design, development, and maintenance of innovative and scalable intelligence solutions across the organization, with the highest standards of analytical rigor and data integrity.</li><li>Solicit input from business partners in marketing to define problems and propose solutions including supporting overall data strategies and partnership pipelines</li><li>Develop domain expertise and drive major contributions to our data and research roadmap. Leverage our analytics tools to uncover deep business insights and trends.</li><li>Build upon and document our common data framework so that all data can be connected, clean, and ready for analysis.</li><li>Help to define and improve our internal standards for style, maintainability, and best practices for a high-scale data infrastructure. Write clean, maintainable and well-documented code to support our data processes.</li><li>Translate ambiguous business problem statements into actionable analytical solutions.</li><li>Manage large scale data requests and projects to define requirements, manage timelines, and coordinate activities with other involved team members.</li><li>Proactively identify and implement solutions to reduce manual data entry wherever possible.</li><li>Strong verbal/written communication &amp; data presentation skills, including an ability to effectively communicate with business leaders and technical teams<br></li></ul>IDEAL CANDIDATES WILL HAVE<br><ul><li>Bachelor\\u2019s Degree in quantitative field and/or equivalent work experience or education</li><li>Expert SQL knowledge (5+years), ability to write efficient and optimized code</li><li>Experience (3+years) with Modern scripting languages (e.g. Python)</li><li>Experience with Data visualization and dashboarding tools (Tableau, Salesforce, Looker, etc)</li><li>Proven ability to solve complex quantitative business challenges.</li><li>Cloud data pipelines (e.g Fivetran, Stitch)</li><li>Google Cloud ecosystem</li><li>Positive attitude</li><li>Entrepreneurial mindset (able to work independently as well as with a team)</li><li>Intellectual curiosity</li><li>Strong interpersonal and communication skills</li><li>High level of accuracy and attention to detail<br></li></ul>Powered by JazzHR<br><br>YjkGjViumZ\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"310 Nutrition\", \"sameAs\": \"https://www.linkedin.com/company/310-nutrition\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C510BAQFdHMiQxdK07w/company-logo_200_200/0/1519866588103?e=1634774400&v=beta&t=mRabCkCf65YIZF_CrraHZ8n1KmEVqaWnIJjXFaHSdyY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"310 Nutrition\", \"value\": \"2801186\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C510BAQFdHMiQxdK07w/company-logo_100_100/0/1519866588103?e=1634774400&v=beta&t=_Z2_EgCOQ3Yk3qKEXLzmoXP59O1FllUgjr8iVWQojw4\", \"industry\": \"Marketing and Advertising,Internet,Retail\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Los Angeles\", \"addressRegion\": \"CA\", \"postalCode\": \"90101\", \"streetAddress\": null}, \"latitude\": 34.05224, \"longitude\": -118.24335}, \"skills\": \"\", \"title\": \"Data Analytics Engineer\", \"validThrough\": \"2021-08-02T07:58:25.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 81400, \"maxValue\": 150000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

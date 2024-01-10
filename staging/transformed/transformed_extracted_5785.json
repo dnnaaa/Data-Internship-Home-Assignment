@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:27:41.000Z\", \"description\": \"<p>Our Client, a national healthcare company is looking for people with outstanding&nbsp;phone/communication skills to work as part of their new digital support team&nbsp;that will assist phlebotomists with any IT issues. You will&nbsp;troubleshoot Level 1 over the phone and&nbsp;occasionally&nbsp;in person as part of a 24x7 call center.&nbsp;There could be some local travel. You must be a US citizen and be able to pass a background check and drug test.&nbsp;</p><p>&nbsp;</p><p>Must haves:</p><ul><li>Great Customer Service</li><li>Level 1 tech skills</li><li>Wants to grow in tech</li><li>Able to remotely troubleshoot issues</li><li>Possible travel&nbsp;up&nbsp;to&nbsp;25% so&nbsp;&nbsp;must have a vehicle</li><li>Remote and Nationwide</li><li>Windows 7 and Windows 10 install and troubleshooting</li><li>Familiarity with help desk ticketing systems</li><li>Familiarity with Active Directory and VPN big +</li><li>Network printer installation and configuration</li><li>Network printer installation and configuration</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"R&R Recruiting Resources\", \"sameAs\": \"https://www.linkedin.com/company/randrrecruitingresources\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGj1Ffyo8Rwdw/company-logo_200_200/0/1519906633730?e=1637798400&v=beta&t=W6poWsTtyU3dkf-8-7M1NIA9x4Zp68v-_0D49mB5ovg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"R&R Recruiting Resources\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGj1Ffyo8Rwdw/company-logo_100_100/0/1519906633730?e=1637798400&v=beta&t=uDbI8F3w3P4_k_ALkYl4QzeqqIxZFH6bFe5UAN2se8c\", \"industry\": \"Pharmaceuticals,Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Bergen County\", \"addressRegion\": \"NJ\", \"postalCode\": \"08810\", \"streetAddress\": null}, \"latitude\": 40.88134, \"longitude\": -74.0438}, \"skills\": \"\", \"title\": \"Help Desk Technician\", \"validThrough\": \"2021-09-24T17:27:40.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"associate degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 18, \"maxValue\": 25, \"unitText\": \"HOUR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-15T15:23:52.000Z\", \"description\": \"<p><strong>Machine Learning Engineer:</strong></p><p><br></p><p><strong>About the Position</strong>&nbsp;</p><p>As a&nbsp;member of our Engineering team,&nbsp;you&nbsp;will work with a tight, highly skilled machine learning&nbsp;/ data science&nbsp;team dedicated to the development of&nbsp;proprietary consumer insights.&nbsp;You will be&nbsp;working closely with our Data Scientists,&nbsp;implementing&nbsp;highly available and scalable machine learning&nbsp;pipelines.&nbsp;</p><p><br></p><p>If you are a&nbsp;Software Engineer passionate for technology who wants to&nbsp;work with a mature,&nbsp;intensely skilled team, values total ownership of your work, and can\\u2019t imagine a day without coding, we want to speak to you! We're looking for a creative, focused,&nbsp;collaborative,&nbsp;technically curious individual who enjoys both design as well as working hands-on with the code.&nbsp;</p><p><br></p><p>If you are interested in working on cutting edge ML and AI projects at&nbsp;Internet scale and speed this is the job for you!&nbsp;</p><p><br></p><p><strong>Key Responsibilities</strong>&nbsp;</p><ul><li>Design and implement ML feature&nbsp;pipelines&nbsp;</li><li>Optimize pipelines and processes for model development, experimentation and scaled production&nbsp;scoring&nbsp;&nbsp;</li><li>Implement machine learning algorithms and libraries in service to modeling and production scoring&nbsp;pipelines&nbsp;</li><li>Monitor and ensure the quality of machine learning&nbsp;solutions&nbsp;by implementing&nbsp;process&nbsp;and control disciplines&nbsp;as well as&nbsp;tooling&nbsp;to&nbsp;govern&nbsp;</li><li>Analyze large and complex data sets to derive valuable insights, inform feature and product&nbsp;development&nbsp;</li><li>Apply machine learning and data science techniques and design distributed&nbsp;systems&nbsp;</li></ul><p><br></p><p><strong>Qualifications &amp; Experience Requirements</strong>&nbsp;</p><ul><li>Strong&nbsp;Software Engineering background with emphasis in data&nbsp;science and&nbsp;machine&nbsp;learning&nbsp;</li><li>Fluent in Java, Python, and/or Scala programming languages&nbsp;</li><li>Strong communication skills including the ability to describe complex models and findings to different audiences and stakeholders, from&nbsp;data&nbsp;science peers to business decision-makers&nbsp;</li><li>Demonstrated exploratory analysis and visualization abilities in a non-academic&nbsp;settings&nbsp;</li><li>Strong bias for action and ability to pivot quickly and act with agility according to the needs of the&nbsp;business&nbsp;</li><li>Working knowledge of machine learning frameworks and the data and computation management mechanisms that surround them in a cloud&nbsp;environment&nbsp;(AWS)&nbsp;</li><li>Experience designing, implementing, and transitioning to AI/ML&nbsp;cloud based&nbsp;frameworks such as Amazon&nbsp;SageMaker&nbsp;</li><li>Experience implementing quality and control&nbsp;disciplines&nbsp;for Machine Learning&nbsp;pipelines&nbsp;through process and&nbsp;tooling&nbsp;</li><li>Ability to handle multiple projects simultaneously, meet deadlines, and effectively manage priorities and communicate&nbsp;progress&nbsp;</li><li>Fluent in Linux based systems, Docker,&nbsp;and code versioning tooling (Git/CI/CD)&nbsp;</li><li>Computer Science or equivalent degree and work experience&nbsp;</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"1872 Consulting\", \"sameAs\": \"https://www.linkedin.com/company/1872-consulting\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQF2ABO_EjfzMg/company-logo_200_200/0/1519890311160?e=1634774400&v=beta&t=jDrov5TDyfi2b0hBkRNqNgSnJ1IvllvHsRKi7kblmfY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"1872 Consulting\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQF2ABO_EjfzMg/company-logo_100_100/0/1519890311160?e=1634774400&v=beta&t=uyzpMHFF-jtbr9nITYMIPkNQjNDHTeBOAGprBEzFNOs\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Virginia\", \"addressRegion\": \"United States\", \"postalCode\": \"23038\", \"streetAddress\": null}, \"latitude\": 37.512905, \"longitude\": -78.697624}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-14T15:23:51.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 120000, \"maxValue\": 120000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

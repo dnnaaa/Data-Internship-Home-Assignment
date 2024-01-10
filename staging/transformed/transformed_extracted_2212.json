@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-30T21:10:09.000Z\", \"description\": \"<p>Our client located downtown Boston is currently hiring for a Machine Learning Engineer with Python experience. This is a full time, permanent position and will be based onsite once lock-down restrictions are eased. Salary is approx. 130-185k+ equity and bonus.<br><br></p> <br><p>The client is looking for a communicative and eager ML engineers at the Jr and Sr level who are excited to apply their programming expertise along with their data science skills to create innovative SaaS products. You will be working with the best data science team to create a fluid machine learning-driven software that will take client's data that will allow for faster and more efficient processing of large data sets (billions of individual actions per month).<br><br></p> <br><p>Requirements:<br><br></p><ul><li>2+ years experience in Python engineering</li><li>Bachelor's or advanced degree in computer science, statistics, applied math, or other relevant disciplines</li><li>Proficiency in Python and familiarity with some other coding languages and tools like HTML, JavaScript, React, Numpy, Spicy, Pandas, SageMaker, Aurora, Cassandra, Kafka</li><li>Successful application and implementation of machine learning models for research and product use.</li><li>Preferably marketing experience &amp; putting models into production</li></ul><p>Please apply online or get in touch if interested in this or similar positions.<br><br><br><br></p><p> <br><br></p><br><br><p><strong>EOE Statement: </strong>Specialist Staffing Group is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.<br><br></p><br><p> <br><br></p><br><p><span><em><strong>To find out more about Huxley please visit www.huxley.com<br><br></strong></em></span></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Huxley\", \"sameAs\": \"https://uk.linkedin.com/company/huxley\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEDQpuV64KjYg/company-logo_200_200/0/1627472052583?e=1635984000&v=beta&t=SJv-1YtNxqKLl2d54I_vVEbeC5ika4vwa8Zbee8pOmE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Huxley\", \"value\": \"HA-33708301\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEDQpuV64KjYg/company-logo_100_100/0/1627472052583?e=1635984000&v=beta&t=XBmnrZ_gdWHn7Wu8OBSYJhC7xMkABHsRR0-t_Unt9Vs\", \"industry\": \"Computer Networking,Computer Software,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Boston\", \"addressRegion\": \"MA\", \"postalCode\": \"02118\", \"streetAddress\": null}, \"latitude\": 42.358994, \"longitude\": -71.05863}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-29T21:10:09.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

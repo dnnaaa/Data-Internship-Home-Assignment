@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T15:52:22.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>Apple is looking for ML/Deep Learning engineers to develop and integrate machine learning technologies for autonomous systems. You will work on a hardware/software product enabled by the ML technologies you build.<br><br> <br><strong>Key Qualifications<br></strong> <br>Develop features and models to improve the capabilities of large-scale Deep Learning-based systems.<br><br>Scale up models, build training datasets and tune parameters to maximize system performance.<br><br>Build software that improves your rate of experimentation and helps you make better decisions about what to try next.<br><br>Work with the team to deploy models in a mission critical environment.<br><br>Able to train and debug deep learning systems: Defining metrics and datasets, performing error analysis, training models in a modern DL framework (such as TensorFlow, PyTorch, Keras, etc.)<br><br>Familiar with current DL literature and the math of machine learning: optimization methods, common types of models and layers, etc.<br><br>Strong background in Python development with Linux. You write clean, correct code while iterating on experiments in Python. Ability to understand and contribute to C++-based software is a plus.<br><br>Excellent communication skills. You collaborate effectively with other teams and communicate clearly about your work.<br><br> <br><strong>Description<br></strong> <br>Working with the team you\\u2019ll join a fantastic team of hardworking engineers and researchers with deep experience in robotics, machine learning, and software engineering. We hope you\\u2019re excited about the values that drive us:<br><br><br>-  Passion for the mission: We\\u2019re here to make something great. We take on whatever work is right for the product and strive for the best possible results.<br><br>-  Modesty: The right answer is more important than being right. We search for solutions as a team and value clear-eyed feedback.<br><br>-  Lean habits: You can\\u2019t grow without limits. Time constraints and big goals inspire us to sharpen our focus and learn to make great decisions.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelors, Masters, or PhD Degree in Computer Science/Machine Learning or equivalent professional experience.<br><br> <br>Role Number: 200169370<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1636588800&v=beta&t=TBgLFdE65ONXxYa-jBaUFYtuImVHxEZlt-klhRBHri8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200169370_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1636588800&v=beta&t=MiEZ3awFiAz9q1YcTehSapjjXRo3o8IX5MDjHbDPHtk\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Cupertino\", \"addressRegion\": \"CA\", \"postalCode\": \"95014\", \"streetAddress\": null}, \"latitude\": 37.319313, \"longitude\": -122.02927}, \"skills\": \"\", \"title\": \"Machine learning engineer - Perception\", \"validThrough\": \"2021-09-04T15:52:21.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 136000, \"maxValue\": 219000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

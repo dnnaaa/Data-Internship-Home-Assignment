@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-28T22:15:49.000Z\", \"description\": \"<p>AssemblyAI (www.assemblyai.com) is the #1 rated API for Speech Recognition. Thousands of developers use our APIs to transcribe millions of videos, podcasts, phone calls, and zoom meetings every day - powering innovative products like visual voicemail, meeting summarizers, and closed captioning.</p><p><br></p><p>We're backed by leading investors including Y Combinator, John and Patrick Collison of Stripe, Daniel Gross, and Nat Friedman. We were founded in 2017.</p><p><br></p><p><strong>Responsibilities:</strong></p><p>Are you a Full Stack Engineer passionate about machine learning / deep learning that\\u2019s active on Reddit, Hacker News, Twitter, and/or YouTube? Maybe you are a former technical founder that\\u2019s not sure what you want to work on next?</p><p><br></p><p>We\\u2019re building an API company that will be just as well known as Twilio and Stripe. To do that, we\\u2019re investing in building a developer community around our API, and publishing high quality developer content that showcases our API\\u2019s capabilities and features. You\\u2019ll contribute to those efforts in this role, by focusing on:</p><p><br></p><ul><li>Creating high quality developer content (blogs, tutorials, YouTube videos, Tweet threads, etc) that showcases our API\\u2019s capabilities, demonstrates various programming or ML technologies, and engages the developer community</li><li>Involving yourself in discussions around Speech-to-Text, Speech Recognition, or similar technologies on Reddit, Hacker News, Twitter, etc in order to expose AssemblyAI to more developers</li><li>Building a community of developers around our API through newsletters, Discord channels, social media, etc.</li></ul><p><br></p><p>We\\u2019re a small team, and are looking for passionate, hungry, smart, and collaborative individuals that want to have a big impact.</p><p><br></p><p><strong>Requirements:</strong></p><ul><li>2+ years of experience with machine learning or deep learning</li><li>A track record of creating content for developers (Tweets, YouTube videos, Blogs, etc)</li><li>Passionate about APIs and developer tools</li><li>Experience engaging with developers on Reddit, Hacker News, Twitter, Stack Overflow, etc.</li></ul><p><br></p><p><strong>Benefits:</strong></p><ul><li>Competitive Salary</li><li>Equity</li><li>100% Remote team</li><li>Unlimited PTO</li><li>Premium Healthcare (100% Covered)</li><li>Dental Care</li><li>$1K budget for your home office setup</li><li>New Macbook Pro (or PC if you prefer)</li><li>3-4x/year company paid team retreats</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"AssemblyAI\", \"sameAs\": \"https://www.linkedin.com/company/assemblyai\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHjv9K6w8Y1ww/company-logo_200_200/0/1609310936464?e=1641427200&v=beta&t=rocyLLNoFKXcu-h8wHIT67WMrkAG48TS8LfXkK5viFA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"AssemblyAI\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHjv9K6w8Y1ww/company-logo_100_100/0/1609310936464?e=1641427200&v=beta&t=H4AJw067jZVN5HvLe5r6OATWW5O0DOGfQjlichtSaaw\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Machine Learning Engineer, Viral Projects (Remote)\", \"validThrough\": \"2021-10-28T22:15:48.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 90000, \"maxValue\": 160000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

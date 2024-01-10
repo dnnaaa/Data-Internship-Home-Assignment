@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-30T03:36:13.000Z\", \"description\": \"<p>Option Pool Exchange is a Crypto Futures Exchange with a cumulative trading volume of $7.5 billion USD. We offer x7000 times leveraged products and have recently issued our own Rich Otter token, a tokenized insurance fund for our Crypto Derivative Exchange.</p><p><br></p><p>We are currently in the process of relocating our headquarter to New York City, and thus we are looking for software engineers to work at our New York City office. This job offer is on a rolling basis and may close at any time whenever we find the right candidates. </p><p><br></p><p>&nbsp;</p><p><strong>Job description</strong></p><ul><li>Full-time, office in midtown manhattan</li><li>$110-220K depending on your market rate (includes stock options &amp; bonus)</li><li>Designing highly scalable codes that can handle millions of transactions per second</li><li>Meticulous research and development on ultra-low latency applications </li></ul><p>       (we care about microsecond level latency, which is one-millionth of a second)</p><p><br></p><p>We don't micromanage our employees, thus you must be highly self-motivated to be successful at our organization.</p><p><br></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree or higher in Computer Science or related field </li></ul><p>        (graduate degree highly preferred)</p><ul><li>At least +3 years of commercial application development experience</li><li>Fluency in the following tools: GO, PostgreSQL, Node.js, AWS, EC2, S3, RDS</li><li>US work authorization (visa sponsorships will not be generally considered)</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"OPTION POOL\", \"sameAs\": \"https://www.linkedin.com/company/option-pool\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGrq5xujbzFXA/company-logo_200_200/0/1541156485343?e=1635984000&v=beta&t=LLnSp6O37qoeRr5h8__g-ut6rhVubtOwU95Q4lgkIuk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"OPTION POOL\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGrq5xujbzFXA/company-logo_100_100/0/1541156485343?e=1635984000&v=beta&t=RdIX1gM970VxJzS3VMebEmESAnEucaTG_sGFJsHYFbM\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"NY\", \"postalCode\": \"10132\", \"streetAddress\": null}, \"latitude\": 40.713047, \"longitude\": -74.00723}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-08-29T03:36:13.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

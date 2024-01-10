@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:37:31.000Z\", \"description\": \"Personalis is a genome-scale diagnostics company pioneering genome-guided medicine. Our research and clinical products are focused on helping diagnose and treat cancer and inherited genetic disease. Located in Menlo Park, CA, we are seeking a talented and highly motivated Senior User Interface Engineer to join our team.<br><br>Our priority is to obtain the most accurate genetic data from each sample, and then to draw the reliable medically focused conclusions from these. Our tests are based on next generation sequencing, conducted in our state-of-the art laboratory. We analyze results utilizing proprietary databases, advanced human reference sequences, and sophisticated algorithms.<br><br>If you are passionate about applying your talent and experience in Software Engineering towards helping patients with cancer and genetic disease, join us!<br><br><strong><u>Position Summary<br><br></u></strong>Be part of an ambitious team which you can trust every day to deliver the best outcome. Owning products, leading design, development and operations of end user facing software and technologies will be your day-to-day responsibility. You\\u2019ll be involved in building and operating web portals, workflow management, automated genetic data interpretation, reporting and analytics products in collaboration with various internal and external stakeholders.<br><br>Being passionate about software, technologies and processes is a must in this role. Applying that passion to solve customer needs will be your achievements. Working with people is an assumed skill to have. You\\u2019ll be impactful towards creating high quality reusable components and interfaces that delights customers.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Create high quality user interfaces with strong attention to user experience and visual design.</li><li>Design and develop clean, reusable, and scalable front-end code.</li><li>Implement modern user interfaces and visuals for dashboards, workflow management, reporting and analytics, and customer management.</li><li>Propose API requirements keeping simplicity, responsiveness, usability and scale as a principal design objective.</li><li>Provide support for business continuity as necessary.</li><li>Work in a collaborative, fast paced, startup environment.</li><li>Identify challenges or inefficiencies and communicate proactively.</li><li>Work collaboratively with the team to find solutions.<br></li></ul><strong><u>Position Requirements<br></u></strong><ul><li>Strong knowledge of JavaScript, React, and Node.js.</li><li>Strong knowledge of HTML5, CSS3, and CSS preprocessors such as SCSS or LESS.</li><li>Strong knowledge of building applications on the top RESTful APIs.</li><li>Knowledge of front-end UI libraries like Bootstrap.</li><li>Knowledge of react hooks &amp; functional components.</li><li>Familiarity with Node.js libraries such as Express.js and Next.js.</li><li>Familiarity with the latest web development standards including: ES6, Webpack, HTML5, and CSS3.</li><li>Familiarity of web designs and user experience fundamentals.</li><li>Familiarity with JavaScript optimization and browser performance.</li><li>Familiarity with the whole web stack and protocols.</li><li>Ability to rapidly deliver on commitments.</li><li>Good communication and interpersonal skills.<br></li></ul>EDUCATION<br><ul><li>MS. or higher in Computer Science, Computer Engineering or related field<br></li></ul><em>Personalis is an Equal Opportunity Employer/Minorities/Females/Veterans/Disabilities. Personalis offers a competitive compensation package.</em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Personalis, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/personalis-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEBH4BASW4oqQ/company-logo_200_200/0/1519897377403?e=1641427200&v=beta&t=hGhSz0jWG3tiq4-P3S6JEmSewhd27exOPPkETgO-n64\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Personalis, Inc.\", \"value\": \"4711465003\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEBH4BASW4oqQ/company-logo_100_100/0/1519897377403?e=1641427200&v=beta&t=sxs_wzuSyo9BJvDUJlgh_qIclK9cx_xh2zw2Mj2MJ1I\", \"industry\": \"Medical Devices,Biotechnology,Pharmaceuticals\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Menlo Park\", \"addressRegion\": \"CA\", \"postalCode\": \"94029\", \"streetAddress\": null}, \"latitude\": 37.45322, \"longitude\": -122.18322}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-11-12T17:15:55.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

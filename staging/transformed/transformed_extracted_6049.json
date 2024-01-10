@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T13:15:30.000Z\", \"description\": \"<p>Experienced software developer to create a UI on top of existing SDK and API\\u2019s for new product development of spectro-radiometric instrumentation.</p><p><br></p><p>Proven experience creating a modern, effective UI for instrument control. Ease of use, visual appearance, presentation of data, and complex plotting features are critical.</p><p><br></p><ul><li>Good communication skills and ability to document work</li><li>Results orientated individual able to work quickly and effectively to complete project on-time</li><li><strong><u>7 years related work experience</u></strong> developing software to control scientific instrumentation and report empirical information.</li><li>Extensive experience in <strong>C#</strong>, <strong>C++</strong>, and <strong>Visual Studio</strong></li><li>Additional experience working with Telerik UI for WinForms, Lua and Protobuf</li><li>Familiar with <strong>LabView</strong>, <strong>Python</strong> and <strong>MatLab</strong> working environments a plus</li><li>Familiar with <strong>Linux</strong> based operating system a plus</li><li>Strong testing and debugging skills</li><li>Experienced working in a <strong>Scrum Team/Sprints</strong> development process</li><li>Working knowledge of <strong>GitHub</strong> for source control and release</li><li><strong>BS in Computer Science and/or Electrical Engineering</strong></li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Actalent\", \"sameAs\": \"https://www.linkedin.com/company/actalentservices\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGnfdbrWYG3VQ/company-logo_200_200/0/1624564625212?e=1637798400&v=beta&t=NVVegBCbwy4VR732JNpvza_55AEURkAOBgrI7AWi3rk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Actalent\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGnfdbrWYG3VQ/company-logo_100_100/0/1624564625212?e=1637798400&v=beta&t=uJbAPJOp6jy-e-he69jjWep4S5PeWWviv9mKlIHcUVY\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Orlando\", \"addressRegion\": \"FL\", \"postalCode\": \"32826\", \"streetAddress\": null}, \"latitude\": 28.586246, \"longitude\": -81.188705}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-24T13:15:30.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 84}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

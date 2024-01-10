@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-22T01:41:10.000Z\", \"description\": \"<p>Responsibilities:</p><p>The Embedded System Engineer is responsible for developing on or deploying different test environments and capabilities on the platforms. They will develop and integrate tests. They will also need to be able to design and execute experiments to triage issues.</p><p>Minimum Qualifications</p><ul><li>Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.</li><li>1+ years Experience with Embedded System</li><li>1+ years Software Engineering or related work experience.</li><li>1+ years experience with Programming Language such as C, C++, Java, Python, etc.</li><li>Familiarity with debugging via JTAG interface</li><li>Hands-on Knowledge of Linux (installation, configuration and usage, distros)</li><li>Knowledge of Data center Servers. Storage solutions, and Peripherals</li><li>Ability to use oscilloscopes and logic analyzers</li><li>Experience with SOC architecture, design , verification, or validation</li><li>Strong Familiarity with Android.</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"ALTEN\", \"sameAs\": \"https://fr.linkedin.com/company/alten\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEqoRcq4y4NmA/company-logo_200_200/0/1559831655709?e=1634774400&v=beta&t=vI5-JJll1Vh1IVX8F2sFLWcq0co-3C_5ywgxRVuSRBw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"ALTEN\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEqoRcq4y4NmA/company-logo_100_100/0/1559831655709?e=1634774400&v=beta&t=oQyzEDxZ7EE2XBKh0PCc5ECny6FLHCWeWR-e5DhEnDE\", \"industry\": \"Information Technology and Services,Semiconductors,Wireless\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Diego\", \"addressRegion\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Embedded Software Engineer\", \"validThrough\": \"2021-11-07T00:43:08.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

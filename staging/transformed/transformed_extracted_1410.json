@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-21T00:00:00.000Z\", \"description\": \"<strong><u>Job Description<br><br></u></strong>Enlighten, an Alion Company is looking for a Data Scientist/Engineer to join our team. The Data Scientist/Engineer will establish and implement end-to-end proof of concepts for leading edge analytic and data mining systems. This work may include modifying data during the ETL process, exploring new datasets to understand the data and derive value, and generating analytics with complementary dashboards and visualizations. They will be responsible for the creation of innovative methodologies for extracting key parameters from big data coming from various sensors.<br><br><strong><u>Security Clearance<br></u></strong><ul><li>A current TS/SCI (Top Secret) level U.S. Government clearance is required and therefore all candidates must be a U.S. Citizen. <br></li></ul><strong><u>Required Skills<br><br></u></strong><em>Candidates must have most of the following required skills:<br></em><ul><li>B.S. degree in Computer Science, Electrical Engineering, Statistics, Operations Research, Applied Math, or equivalent fields</li><li>Must have 5+ years of Data Scientist or equivalent experience working with data (Software Engineering, Database Design, etc.)</li><li>Must have a software development background in order to prototype custom analytics/tooling</li><li>Practical experience with data analysis and exploration, especially with diverse data sets</li><li>Experience in streaming and/or batch analytics (e.g. Kafka, Spark, Flink, Storm, MapReduce, Hadoop)</li><li>Architect and work closely with other team members to develop scalable cloud-based data analytic solutions</li><li>Familiar with scalable distributed data processing, management, and visualization tools (e.g. Hadoop, ELK, Kafka, Accumulo, graph databases, etc.).</li><li>Capable of applying the latest technologies and methodologies in machine learning, data mining, and predictive analytics to correlate disparate datasets and events, and derive value.</li><li>Has a proven ability to learn quickly and works well both independently as well as in a team setting</li><li>Other duties as assigned.<br></li></ul><strong><u>Desired Skills<br></u></strong><ul><li>Experience with containers (e.g. Docker, Kubernetes)</li><li>Experience with DoD data types and current DoD Data Strategies</li><li>CJ *NF<br></li></ul>Security Clearance: Top Secret/Sensitive Comp Info<br><br>Telework - Limited\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Alion Science and Technology\", \"sameAs\": \"https://www.linkedin.com/company/alionscience\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQGKdJCp4rm5GQ/company-logo_200_200/0/1625580378476?e=1634774400&v=beta&t=ggy9eq0ZADdBoSJiD1pW8MWdH4BT55swJR6GuDRP01M\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Alion Science and Technology\", \"value\": \"df1cb7d751c3b9427c0e473b08d94fc8\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQGKdJCp4rm5GQ/company-logo_100_100/0/1625580378476?e=1634774400&v=beta&t=AMSDx4O1QkipwTjiqCcD9tIW9zAAPBxpYHqcpZMF9JU\", \"industry\": \"Defense & Space\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Linthicum Heights\", \"addressRegion\": \"MD\", \"postalCode\": \"21090\", \"streetAddress\": null}, \"latitude\": 39.195045, \"longitude\": -76.68526}, \"skills\": \"\", \"title\": \"Data Scientist/Engineer - 37041\", \"validThrough\": \"2021-08-20T21:07:22.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 95100, \"maxValue\": 152000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

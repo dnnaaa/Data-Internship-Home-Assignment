@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-12T05:23:24.000Z\", \"description\": \"<strong><u>Requirements<br><br></u></strong><strong>Job Description<br></strong><ul><li> Candidates must have at least 2-4 years of hands on experience with Python and Tcl programming.</li><li> Needs to have advanced Unix/Linux programming skills.</li><li> Excellent interpersonal and analytical skills with the ability to work independently</li><li> Highly motivated, excellent team spirit, product and customer oriented</li><li> Ideal candidate would have at least 1 year of hands on experience supporting Python SW development for CAD Tools or other HW applications for latest design, methodology, technology, algorithms and automation.<br></li></ul><strong><u>Education<br><br></u></strong>Required - Bachelors of Science degree in Computer Science, Electrical Engineering, or similar field.<br><br>Preferred \\u2013 Masters of Science degree in Computer Science, Electrical Engineering, or similar field.<br><br>Position will work from home until policy is lifted. Employee is expected to be onsite after July. This is a top priority position.<br><ul><li> Ideal candidate would have at least 2 years of hands on experience supporting Python SW development for CAD Tools or other HW applications for latest design, methodology, technology, algorithms and automation.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"UST\", \"sameAs\": \"https://www.linkedin.com/company/ustglobal\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGL3xVMx0edSA/company-logo_200_200/0/1608123394726?e=1639612800&v=beta&t=r0-gH3Muete8uEAqNta0l8uTs-W0nVeKo0iaDFnnA2g\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"UST\", \"value\": \"45038415\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGL3xVMx0edSA/company-logo_100_100/0/1608123394726?e=1639612800&v=beta&t=pMQubIJvpZOaIOg6mI60KoTaVNfddDyWaATpqq3P2PE\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Diego\", \"addressRegion\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Developer I - Software Engineering\", \"validThrough\": \"2021-10-12T05:23:23.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

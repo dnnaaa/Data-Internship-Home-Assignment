@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-16T15:37:48.000Z\", \"description\": \"<p><strong>Data Scientist</strong></p><p><br></p><p><strong>This position will be joining a team that's primary focus will be Government Contracts.</strong></p><p><br></p><p>As a  Data Scientist will support enabling and growth for the existing automation efforts and drive forward their natural language processing efforts.&nbsp;This is a cross-functional team that is adding talent at all levels. As an early member of the team, your experience is going to be valuable in making data-driven decisions.</p><p><br></p><p><strong>Location: </strong>North&nbsp;Austin office if you'd like to use it</p><p><strong>Salary:</strong> $120k - $135k</p><p><strong>Visa Status:</strong> US Citizen</p><p>&nbsp;</p><p><strong>Responsibilities</strong></p><ul><li>Analyze raw data: assessing quality, cleansing, structuring for downstream processing</li><li>Design accurate and scalable prediction algorithms</li><li>Collaborate with the engineering team to bring analytical prototypes to production</li><li>Generate actionable insights for business improvements</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>M.S. in a quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)</li><li>At least 1 - 2 years of experience as a Data Scientist</li><li>Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms</li><li>Fluency in Python</li><li>Worked with terabytes of data</li></ul><p><br></p><p>For further details please submit a resume.</p><p><br></p><p>Austin Fraser Inc is acting as an employment business in relation to this advert. As a professional company, we gladly welcome applications from persons of any age and background and do not intend to discriminate with advert text and terminology.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Austin Fraser\", \"sameAs\": \"https://uk.linkedin.com/company/austin-fraser\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQF6NeU4Qqeptg/company-logo_200_200/0/1625653107510?e=1637193600&v=beta&t=G3989piCglM02J8gLv1ZXy0Y2nO-CXfIZMAERyELdjQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Austin Fraser\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQF6NeU4Qqeptg/company-logo_100_100/0/1625653107510?e=1637193600&v=beta&t=bMKbHwUXkrZgY98tZYAbCIfFHnZAhQ5H9QAoIZrXZcE\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Austin\", \"addressRegion\": \"Texas Metropolitan Area\", \"postalCode\": \"78723\", \"streetAddress\": null}, \"latitude\": 30.276316, \"longitude\": -97.70931}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-15T15:37:47.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 120000, \"maxValue\": 135000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

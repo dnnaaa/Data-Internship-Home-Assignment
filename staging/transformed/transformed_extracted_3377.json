@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-12T17:27:10.000Z\", \"description\": \"<p>Modis is looking for a Machine Learning Engineer in Southfield, MI. This will be working in a fast-paced global enterprise environment and will require the Machine Learning Engineer to be onsite. The ideal Machine Learning Engineer must have strong leadership and communication skills in addition to technical expertise.&nbsp;&nbsp;</p><p><br></p><p>POSITION SUMMARY&nbsp;</p><ul><li>The role is to support the engineering development of ADAS/AD feature for series production. The focus is development US specific feature and validation of the same. The responsibility starts with creating machine learning models for sensor fusion, situation interpretation and path planner.</li><li>Once SW is integrated this position will be responsible to perform integration testing in HIL/SIL lab and after successful testing the same need to be verified and validated in target vehicle environment.</li></ul><p>Role Responsibilities:</p><ul><li>Developing machine learning models for Situation and Interpretation modules (Ex: Intention prediction, Corridor build-up etc. (60%)</li><li>Data collection and training neural networks with large amounts of data (20%)</li><li>Software Integration and Verification in HIL/SIL (20%)</li></ul><p>Required:</p><ul><li>3+ years of experience with AI / deep learning concepts and experience with at least few of the topics like trajectory prediction, behavior prediction, multimodal architectures, recurrent architectures like LSTMs, transformers, attention, uncertainty, probabilistic models, graphical neural nets, model compression/optimization etc.</li><li>Bachelors Degree in Engineering (computer science or comparable)</li><li>A good fundamental understanding of AI / deep learning concepts</li><li>Experience with at least few of the topics like trajectory prediction, behavior prediction, multimodal architectures, recurrent architectures like LSTMs, transformers, attention, uncertainty, probabilistic models, graphical neural nets, model compression/optimization etc.</li><li>Experience with some of the open source datasets like Argoverse, kitti, nuscenes, etc. and/or similar data coming from simulation ( e.g. CARLA etc.).</li><li>Strong coding background</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Modis\", \"sameAs\": \"https://ch.linkedin.com/company/modis\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_200_200/0/1603190267070?e=1637193600&v=beta&t=__OxjtQnX68i9SZP6Blk1QDpPGOCobJ79GQbOaHdNMU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Modis\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_100_100/0/1603190267070?e=1637193600&v=beta&t=bEwkDTtW4-Bh0gdKEjF8Xjo0GyIggyU6jLB1Rk02b5g\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Southfield\", \"addressRegion\": \"MI\", \"postalCode\": \"48037\", \"streetAddress\": null}, \"latitude\": 42.480198, \"longitude\": -83.241}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-11T17:27:10.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

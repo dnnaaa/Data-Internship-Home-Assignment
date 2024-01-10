@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-23T06:33:57.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, extraordinary ideas have a way of becoming industry leading products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish!<br><br><br>Apple IS Data Services is seeking a hardworking, passionate and self-motivated Database Compliance engineer with focus on database security who has passion for security, compliance and automation! You should be able to support and implement groundbreaking technologies to provide compliance controls for cloud and hybrid database environments. Multifaceted candidate should be willing to accept new challenges in fast paced environment with responsibility to secure various critical relational / noSQL databases.<br><br><br>*Please note this role can also be based out of Sacramento, California*<br><br> <br><strong>Key Qualifications<br></strong> <br>Technical background with understanding database methodologies and various relational and noSQL database technologies <br><br>Comfortable translating compliance control language into terms that engineers can apply to their processes and work<br><br>Experience leading PCI or SOX audit or worked with an engineering organization to detail technical solutions to meet controls in a large scale environment<br><br>Design, govern and automate set of controls and associate implementation strategy in the cloud environment<br><br>Liaison with external auditor and other internal teams to support certification audits<br><br>Work in exciting environments and run tight deadlines or unexpected changes in highly multifaceted environment<br><br>Ability to quickly adapt and learn new technology and participate in design discussions as needed<br><br>Partner with various teams on developing security &amp; compliance documentation for new technologies<br><br> <br><strong>Description<br></strong> <br>2-4 years of experience in database security / compliance<br><br>Hands-on experience and detailed understanding of AWS, cloud security best practices, tools and automation<br><br>Clear and in-depth understanding of IT compliance controls<br><br>Capable of translating compliance requirements into technical specifications and leading security compliance engagements with database engineering and IT compliance organizations.<br><br>In-depth knowledge of Relational, NoSQL and BigData technologies. Security and compliance experience for these technologies is a must<br><br>Expertise with Jenkins, Python, Java, shell scripting preferably in cloud environment <br><br>Ability to work multiple teams across different geographical locations in different time zones<br><br>Experience with Linux and AIX operating systems<br><br>Thorough understanding of procedures and processes in large organization<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS in Computer Science/Engineering or Equivalent.<br><br> <br><strong>Additional Requirements<br></strong> <br>Working knowledge of automation in AWS environment is highly desirable<br><br> <br>Role Number: 200231908<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1637798400&v=beta&t=Hwx38NQBVY5WqlaaQkpuyPvWwfFIBJZmreF3rfRFtqc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200231908_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1637798400&v=beta&t=nY8vaczit-Xem487Pv9WfACahg_xMvaKSm0Y_rGjX10\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Austin\", \"addressRegion\": \"TX\", \"postalCode\": \"78746\", \"streetAddress\": null}, \"latitude\": 30.264978, \"longitude\": -97.7466}, \"skills\": \"\", \"title\": \"Data Compliance Engineer (Cloud)\", \"validThrough\": \"2021-09-22T06:33:56.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 81200, \"maxValue\": 106000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

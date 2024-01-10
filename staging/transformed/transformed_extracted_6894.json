@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-01T16:39:50.000Z\", \"description\": \"<p><strong>Job Title: Machine Learning Engineer</strong></p><p><strong>Duration: 12+ Months Contract with possible extension </strong></p><p><strong>Location: 100% remote &lt;Work from home role&gt;</strong></p><p><br></p><p><strong>NOT OPEN FOR JUNIOR OR ENTRY LEVEL - MORE THAN 8 YEAR'S OF EXPERICNE REQUIRED </strong></p><p>&nbsp;</p><p><br></p><p><strong>Key Skills:</strong></p><ul><li>Development of predictive models and analytics</li><li>Data cleansing and shaping</li><li>Break/fix support and retraining of models</li><li>Advisory during ongoing design efforts of future rollouts</li><li>Skillset \\u2013 Python, Jupyter Notebook, XGBoost, SKLearn</li><li>Would consider contract-to-hire; supporting one particular project, but able to expand role into other client initiatives</li><li>US-based; Houston local a plus</li><li>Remote work is acceptable</li></ul><p><br></p><p><br></p><p><strong><em>Note: If interested please email me your resume at anil.chamoli@mastechdigital.com or call me at 973-922-1844.</em></strong></p><p><br></p><p><strong>Best Regards,</strong></p><p><strong>Anil Chamoli</strong></p><p>Lead Recruiter</p><p>973-922-1844</p><p>Anil.Chamoli@mastechdigital.com</p><p>www.mastechdigital.com</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Mastech Digital\", \"sameAs\": \"https://www.linkedin.com/company/mastech\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHPPaaVIgudBw/company-logo_200_200/0/1519856473354?e=1638403200&v=beta&t=nG0HnXx3g5vZYi8jM_YJ5zQmTMp_Epo_1yzKejetGDg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Mastech Digital\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHPPaaVIgudBw/company-logo_100_100/0/1519856473354?e=1638403200&v=beta&t=rO_g0o9ee6B-p8sLx5dX6rRUZpqphauRnp3a1iZP8rI\", \"industry\": \"Information Technology and Services,Government Relations,Architecture & Planning\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Houston\", \"addressRegion\": \"TX\", \"postalCode\": \"77208\", \"streetAddress\": null}, \"latitude\": 29.760803, \"longitude\": -95.36951}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-10-01T16:39:49.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-14T02:50:15.000Z\", \"description\": \"<p><strong>Who We Are</strong></p><p>The first AI-led fashion house - leveraging machine learning &amp; statistics to identify trends, predict demand and optimize distribution, creating hit sell-outs every time in record time while avoiding the overproduction inherent to the fashion industry. Named \\\"Zara meets Netflix\\\" by Forbes, we are on a mission to completely upend the fashion industry, creating an entirely new paradigm of what a fashion house of the future looks like.</p><p><br></p><p><strong>The Work</strong></p><p>You will creatively&nbsp;architect new data sources &amp; models to improve our trend prediction and leverage the latest techniques in AI and machine learning across computer vision, sentiment analysis, and recommendation systems to optimize our trend analysis pipeline. You will work with large datasets consisting of highly variant&nbsp;&amp;&nbsp;fascinating data that powers the very core of trends around us, making sense out of highly complex data sources.</p><p><br></p><p><strong>About You</strong></p><p>You are a brilliant machine learning engineer who is excited about applying your ML &amp; systems expertise to create a radically new approach to trend prediction within a massive industry. You love all things data - especially social data - and are burning to make sense out of the myriad of signals around us. You embrace big data and obsess over performance and scalability - always striving to improve both product and performance. You think for the long-term, setting up systems that benchmark progress, prevent regressions, and are easily maintainable by other collaborators. And most importantly, you burn to to radically change an entire industry.</p><p><br></p><p><strong>Recommended Background</strong></p><ul><li>Strong fundamentals in computer science and math</li><li>Expertise working with large data sets (ideally social data) and deriving unique insights</li><li>Strong fundamental understanding of at least two of the following: Natural Language Processing, Computer Vision, Graph Analysis, Stochastic Modeling, Time Series Analysis</li><li>Experience mining data and building robust, large scale machine learning systems</li></ul><p><br></p><p>Relevant Technologies: AWS, Docker, SciKit, PyTorch, Tensorflow, Keras</p><p><br></p><p><strong>What You\\u2019ll Love at FINESSE</strong></p><ul><li>Being at the forefront of and working towards creating a culture-defining new product</li><li>A close-knit, extremely passionate&nbsp;&amp;&nbsp;talented team excited about changing the face of fashion</li><li>A diverse team and culture that values inclusivity and individuality as highest priority</li><li>Company sponsored happy hours and outings</li><li>Excellent benefits: Medical, dental and vision insurance; 401k</li><li>Paid maternity and paternity leave</li><li>Free Friday lunches</li><li>Unlimited PTO and flexible working hours</li></ul><p><br></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"FINESSE\", \"sameAs\": \"https://www.linkedin.com/company/finesseus\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQE-5fUaEaEOnw/company-logo_200_200/0/1568578246294?e=1637193600&v=beta&t=nE9b-zZ0TTXXbl6Ai9aTKq4s-Lu8X2kNWSqAOTJHmuw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"FINESSE\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQE-5fUaEaEOnw/company-logo_100_100/0/1568578246294?e=1637193600&v=beta&t=_YBzPT68cggMwxnokWuYIKflzfU2VBAr0h_zeu_Mr3I\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Los Angeles\", \"addressRegion\": \"CA\", \"postalCode\": \"90101\", \"streetAddress\": null}, \"latitude\": 34.05224, \"longitude\": -118.24335}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2022-02-10T02:50:15.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 90000, \"maxValue\": 140000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

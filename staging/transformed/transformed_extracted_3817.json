@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-14T01:51:47.000Z\", \"description\": \"A risk management software company is looking for a 100% remote Site Reliability Engineer and is offering up to $65/hour (contract-to-hire). This engineer is someone experienced with either Terraform, Cloudformation, or Ansible, and skilled with at least one scripting language (Powershell, Bash, Python, etc.). Someone who be comfortable joining a major Azure cloud migration project, and looking to expand their DevOps skill set (including hands-on Kubernetes/AKS builds) will fit in perfectly here!<br><br><strong><u>Required Skills &amp; Experience<br></u></strong><ul><li>3+ years of experience</li><li>Proficient with at least one major public cloud (Azure, AWS, or GCP)</li><li>Infrastructure-as-Code (Terraform or Cloudformation)</li><li>Configuration Management (Ansible preferred)</li><li>Scripting (Bash, Powershell, Python, etc.)</li><li>Linux or Windows server support/troubleshooting<br></li></ul><strong><u>Desired Skills &amp; Experience<br></u></strong><ul><li>Understanding of containerization/orchestration (Docker, Kubernetes, etc.)</li><li>Azure or AWS certifications</li><li>Blue-Green deployment methodologies</li><li>Monitoring (Grafana, Nagios, Prometheus)</li><li>On-prem to Cloud Migrations<br></li></ul>What You Will Be Doing<br><br>Tech Breakdown<br><ul><li>70% on-premise</li><li>30% Azure</li><li>Terraform</li><li>AKS<br></li></ul>Daily Responsibilities<br><ul><li>90% Hands On</li><li>10% Management Duties<br></li></ul>The Offer<br><ul><li>Competitive compensation: Up to $65/hour, (contract-to-hire)<br></li></ul><strong><u>You Will Receive The Following Benefits<br></u></strong><ul><li>Medical Insurance &amp; Health Savings Account (HSA)</li><li>401(k)</li><li>Paid Sick Time Leave</li><li>Pre-tax Commuter Benefit<br></li></ul>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.<br><br><strong>Posted By:</strong> Gavin Malloy\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Motion Recruitment\", \"sameAs\": \"https://www.linkedin.com/company/motion-recruitment-partners\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUmO7QFJkx6A/company-logo_200_200/0/1626277947748?e=1637193600&v=beta&t=S06nI_1yHNvZDAXddNn_dlIzXJ1jjIzgawNrcq1PemU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Motion Recruitment\", \"value\": \"473567\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUmO7QFJkx6A/company-logo_100_100/0/1626277947748?e=1637193600&v=beta&t=MyRAl6oYun9_J9W4MPRLrIJ9JyC6KT_sRbrP4Dbuzlo\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Chicago\", \"addressRegion\": \"IL\", \"postalCode\": \"60654\", \"streetAddress\": null}, \"latitude\": 41.88323, \"longitude\": -87.6324}, \"skills\": \"\", \"title\": \"100% REMOTE Site Reliability Engineer\", \"validThrough\": \"2021-09-13T01:51:45.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

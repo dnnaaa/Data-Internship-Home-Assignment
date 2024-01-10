@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-03T14:18:10.000Z\", \"description\": \"<p>Modis is currently looking for a Data Scientist for a exciting opportunity with a top Automotive company. You will be working with large data sets, and doing heavy modeling. The ideal candidate would have of 3+ years of data science experience, have worked with customer insight analytics, and has worked on new model development utilizing Python and R.</p><p>&nbsp;</p><p><strong>POSITION DESCRIPTION</strong>&nbsp;</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build large-scale machine-learning models/pipelines</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maintain and enhance operational models through their lifecycle.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developing metrics and reports to monitor model accuracy and evaluate performance</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Translate complex quantitative analysis into business insights.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collect data, perform statistical analysis, and present solutions to Product Owners/business customers.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Works hands on with tools such as Python, R, and SQL.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Define and create the next generation of data solutions.</p><p>&nbsp;</p><p><strong>TECHNICAL SKILLS DESIRED</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 - 5 years of Data Science experience&nbsp;</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Predictive Modelling</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statistical analysis</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor\\u2019s degree in mathematics, data science, statistics, or computer science</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with GCP is a plus!</p><p>&nbsp;</p><p><strong>ADDITIONAL INFORMATION</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent compensation packages including Subsidized Medical Benefits, Paid Time Off and 401k</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No Third-Party inquiries</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Modis\", \"sameAs\": \"https://ch.linkedin.com/company/modis\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_200_200/0/1603190267070?e=1635984000&v=beta&t=h-iF172Tm4602BVXrbTwBxMaL6MNfPspWLE0DoT2GSA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Modis\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_100_100/0/1603190267070?e=1635984000&v=beta&t=FGF5gCuyZj9sF7SHJCH2phaBSeoEa-0fPrMZwiRR9Zs\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dearborn\", \"addressRegion\": \"MI\", \"postalCode\": \"48120\", \"streetAddress\": null}, \"latitude\": 42.32214, \"longitude\": -83.17594}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-02T14:18:09.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

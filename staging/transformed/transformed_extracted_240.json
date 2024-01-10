@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-06-09T06:37:02.000Z\", \"description\": \"<strong>Roles and Responsibilities ( mention 4-5 sentences on daily tasks expected to be performed by associate):<br></strong><ul><li>Machine Learning Engineer who will design and develop Machine Learning systems for solving business problems</li><li>Develop, improve and support implementation of the statistical modeling</li><li>Develop Python programs to engineer the Data required for the Client Models</li><li>Train and re-train Client systems and models as and when necessary</li><li>Analyze the problem-solving capabilities and use-cases of Client algorithms and rank them by their success probability</li><li>Preform data Preprocess, including resolving data quality issues, data transformation, natural language processing<br></li></ul>Deliver work in Agile methodology following Scrum principles<br><br><em>Diverse Lynx LLC is an Equal Employment Opportunity employer. All qualified applicants will receive due consideration for employment without any discrimination. All applicants will be evaluated solely on the basis of their ability, competence and their proven capability to perform the functions outlined in the corresponding role. We promote and support a diverse workforce across all levels in the company.</em>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Diverse Lynx\", \"sameAs\": \"https://www.linkedin.com/company/diverselynx\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4E0BAQGk4XHA-0aydA/company-logo_200_200/0/1553721179130?e=1634169600&v=beta&t=eHqV-trFMXlVkZOKZPGBb87TBZuRVwCwuY3iPo3xx5Q\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Diverse Lynx\", \"value\": \"571-21-33913\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4E0BAQGk4XHA-0aydA/company-logo_100_100/0/1553721179130?e=1634169600&v=beta&t=91VVnF7Y_SK-Dz7mO4MpuTzjX1QNAlYqiGB1vGYKYW8\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Phoenix\", \"addressRegion\": \"AZ\", \"postalCode\": \"85009\", \"streetAddress\": null}, \"latitude\": 33.448204, \"longitude\": -112.072586}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-03T06:37:02.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

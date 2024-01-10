@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T06:08:06.000Z\", \"description\": \"Amify is a two-time Inc 500 award winner Amazon-as-a-Service (AaaS) provider that offers brands an end-to-end Amazon solution that maximizes sales and profitability. Amify\\u2019s data-driven, full-service solution includes strategy, advertising, creative, management and operations for brand protection, content enhancement, sales acceleration and inventory management. We are uniquely positioned to help our brands achieve greater sales margins through the Amazon ecommerce platform. Amify has partnered with over 1,000 brands of all sizes to manage over $100 million in sales on Amazon.<br><br>We are seeking a Software Engineer who will contribute to the delivery of a wide variety of software projects across Amify\\u2019s entire technology stack, from operational systems such as Salesforce, to database and reporting platforms, and custom-built web apps and services.<br><br><strong>Responsibilities<br></strong><ul><li>Deliver high-quality, architecturally sound code extending and building upon Amify\\u2019s current technology</li><li>Work to extend and leverage Amify\\u2019s technology stack, including Snowflake, AWS, Fivetran, dbt and Looker</li><li>Deliver solutions large and small across a wide range of projects and initiatives</li><li>Participate in architecture, coding, and delivery of developed systems</li><li>Participate in iterative interaction with customers, from pre-coding requirements to post-delivery feedback<br></li></ul><strong>Technical Requirements<br></strong><ul><li>Demonstrated skill delivering software on deadlines</li><li>Demonstrated skill in at least one enterprise programming language such as C, C++, JavaScript/node.js, Java, Python, C#, Rust, Go, Scala, Clojure, etc.</li><li>Demonstrated skill in at least one scripting language such as JavaScript, Unix shell/bash/zsh/etc, Python, PL/SQL, or similar.</li><li>Fluent in software engineering lifecycle and knows how to implement and apply principles to a wide range of problem spaces</li><li>Demonstrated skill in SQL and enterprise-capable databases, e.g. Snowflake,</li><li>Postgres, Oracle, MySQL<br></li></ul><strong>Qualifications<br></strong><ul><li>3+ years of relevant professional experience</li><li>2+ years cloud software engineering experience</li><li>Proven delivery experience on a multi-functional team delivering web, mobile, distributed, enterprise business applications</li><li>Willingness to work cross-functionally in a vibrant, dynamic startup environment</li><li>Trustworthy, Team-Oriented, Transparent</li><li>Excellent written and verbal skills<br></li></ul><strong>What You\\u2019ll Get Out Of It<br></strong><ul><li>Enjoy a fun, fast-growing entrepreneurial company</li><li>Be part of a highly collaborative learning culture- share knowledge, be inclusive, learn and grow together. Embrace teamwork!</li><li>Knowing your ideas are heard and matter. Think big!</li><li>You get to own your job and be recognized for your contributions</li><li>Work with smart and creative people</li><li>We want all the experience and expertise you have to offer, but we won\\u2019t burn you out. We offer unlimited PTO plus over 10 holidays</li><li>It\\u2019s okay to make mistakes because we\\u2019re human. Let\\u2019s learn from them. Be transparent!</li><li>We recognize you as an individual- no presumptions or judgment. Be the extraordinary you!</li><li>Have \\u201cskin in the game\\u201d through our employee stock options plan</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Amify\", \"sameAs\": \"https://www.linkedin.com/company/amify\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHj2nZwDzlG4w/company-logo_200_200/0/1568900865302?e=1635984000&v=beta&t=unApMIIrqxfGQOBiPilc4qYkP5s3r8bCa_FK4MFcXxc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Amify\", \"value\": \"10319_1077\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHj2nZwDzlG4w/company-logo_100_100/0/1568900865302?e=1635984000&v=beta&t=53zg-8-L65id2nXD2nB7YyzkF_Mdn7qgHnQD4niKeSA\", \"industry\": \"Marketing and Advertising,Computer Software,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Arlington\", \"addressRegion\": \"VA\", \"postalCode\": \"22210\", \"streetAddress\": null}, \"latitude\": 38.890762, \"longitude\": -77.084755}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-04T06:08:06.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

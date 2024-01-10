@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:40:22.000Z\", \"description\": \"<p><strong>Job Title: Full Stack Software Developer</strong></p><p><strong>Duration: 6+ months</strong></p><p><strong>Location: San Diego, CA</strong></p><p><strong>&nbsp;</strong></p><p><strong>Duties: </strong></p><ul><li>Work closely with product and development teams to create an amazing user experience.</li><li>Build integration and unit tests along with code.</li><li>Work in agile development environment with short sprints and standups.</li><li>Implement proof of concept, prototypes and production-grade software.</li><li>Maintain and support existing software and hardware systems, infrastructure and production.</li><li>Assist support staff and team members in trouble-shooting software issues and implementing bug fixes.</li><li>Takes ownership of the code base. Work to continually improve code quality, and get bugs fixed and deployed rapidly</li><li>Experience in or knowledge of Python, Celery, Go, Elasticsearch, PostgreSQL, SaltStack, Flask, Git, React, Elixir.</li><li>Deep understanding and knowledge of virtualization (libvirt, KVM, Xenserver).</li><li>Excellent communication and interpersonal skills. Strong programming skills including software engineering methodologies and best practices.</li><li>REST/API development.</li><li>Strong experience with Python or other scripting languages.</li><li>Experience working in a Linux development environment.</li><li>Strong experience with relational databases, and specifically MySQL, Elasticsearch, Redis.</li><li>Excellent HTML, CSS and JavaScript skills. Experience in consuming RESTful APIs.</li></ul><p><strong>&nbsp;</strong></p><p><strong>Skills: Required Skills : </strong>Java, spring boot, Web services, AWS</p><p><strong>&nbsp;</strong></p><p><strong>Education: </strong>EOE AA M/F/Vet/Disability.</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Russell Tobin\", \"sameAs\": \"https://www.linkedin.com/company/russell-tobin-&-associates-llc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEnbZs5tn-bOw/company-logo_200_200/0/1625148058907?e=1637798400&v=beta&t=cF8TjpP3UXC29fwzeYhUKinTv4ma5_Sf37mQLZE94tg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Russell Tobin\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEnbZs5tn-bOw/company-logo_100_100/0/1625148058907?e=1637798400&v=beta&t=BnhLs8UMonXa7NDYye6ZaNoWnFlZ4IJ77RU0sqCve5Y\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Diego\", \"addressRegion\": \"CA\", \"postalCode\": \"92161\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Full Stack Software Developer\", \"validThrough\": \"2021-09-24T17:40:22.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

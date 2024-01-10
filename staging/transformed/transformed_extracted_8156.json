@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-17T11:37:11.000Z\", \"description\": \"<p><strong>Roles &amp; Responsibilities: </strong></p><p>Understanding customer requirements.</p><p>Assisting with project planning, scoping, prioritization.</p><p>Providing estimates; Identifying task ownership.</p><p>Design: Creating simple, flexible, and comprehensive strategies.</p><p>Providing and soliciting design feedback.</p><p>Implementation: Writing quality code at the source.</p><p>Authoring validation tests; Providing timely issue resolutions.</p><p><br></p><p><strong>Qualifications Eligibility Criteria:</strong></p><p>BS or MS degree focused in Computer Science or related quantitative field with minimum CGPA &gt; 3.0.</p><p><strong>Ability to write clean, well-crafted code emphasizing quality, simplicity, durability, and maintainability.</strong></p><p>Languages: C/C++, Python, Java, HTML, CSS, JS</p><p>Locations of Operation: Work from Home</p><p><br></p><p><strong>Perks</strong></p><p><br></p><p>Five days a week</p><p>Number of openings: 9</p>\", \"employmentType\": \"INTERN\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Rabear\", \"sameAs\": \"https://in.linkedin.com/company/rabear\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHnqENNfEPE9A/company-logo_200_200/0/1633184019422?e=1642636800&v=beta&t=hgf_OF55UOxPfTvDfPJacT8OkJKz0kei17ggKIfGb7U\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Rabear\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHnqENNfEPE9A/company-logo_100_100/0/1633184019422?e=1642636800&v=beta&t=D7BGF-Jvg3_pK-a3YISe25SniWzSJPuVElffRI8FmTM\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"California\", \"addressRegion\": \"United States\", \"postalCode\": \"93266\", \"streetAddress\": null}, \"latitude\": 37.254673, \"longitude\": -119.61728}, \"skills\": \"\", \"title\": \"Software Engineer Intern\", \"validThrough\": \"2021-11-16T11:37:11.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

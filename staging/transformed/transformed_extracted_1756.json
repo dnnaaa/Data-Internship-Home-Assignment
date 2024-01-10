@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-30T05:14:17.000Z\", \"description\": \"<strong><u>Position / Title:</u></strong> Senior Cloud Data Engineer<br><br><strong><u>Pretium <br><br></u></strong>Pretium is a specialized alternative investment manager focused on real estate and credit. The Firm was founded in 2012 to capitalize on secular investment and lending opportunities that arose after the Global Financial Crisis as a result of structural changes within the economy, the residential housing sector, and mortgage finance markets. The Firm currently manages :$20 billion of AUM across its single-family rental (:$12.7 billion) and mortgage credit (:$4.2 billion) strategies as well as :$3.2 billion of AUM in Structured and Corporate Credit.<br><br><strong><u>Position: </u></strong>We are seeking a Senior Cloud Data Engineer in Minneapolis, MN<br><br><strong><u>Key Responsibilities<br></u></strong><ul> <li>Design, develop and support data pipelines to tackle business operations, users, and product problems.</li> <li>Create extract, transform, and load (ETLs) for new data using a variety of traditional as well as distributed data systems.</li> <li>Maintain AWS databases including Aurora and Redshift as well as data on S3</li> <li>Collaborate and influence stakeholders to ensure our data infrastructure meets constantly evolving requirements.</li> <li>Work closely with data analysts to productionize applications and financial reports</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>3+ years building cloud solutions in AWS</li> <li>5+ years experience with SQL databases</li> <li>7+ years experience as software engineer with breadth of experience that covers software development, database administration and devops</li> <br></ul><strong><u>Preferred Qualifications:<br></u></strong><ul> <li>AWS Associate Level Certifications</li> <li>Experience with Athena, Glue, Redshift spectrum and other AWS analytics</li> <li>Expert at SQL databases.</li> <li>ETL pipeline development experience using SSIS, airflow etc</li> <li>Development experience in python, pyspark or similar</li> <br><br></ul><strong><u>What We Offer<br><br></u></strong>This position offers the opportunity to join a collegial, entrepreneurial firm committed to the personal and professional growth of its team members and to maintaining a positive, encouraging work environment where people enjoy working together. The company offers a comprehensive benefits and perks package, including:<br><ul> <li>Competitive base salary and bonus</li> <li>401(k) plan with an employer match</li> <li>Paid Time Off (PTO) program</li> <li>Employee incentive compensation program</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Pretium\", \"sameAs\": \"https://www.linkedin.com/company/pretium-partners-llc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEnYA2YB7Cgbw/company-logo_200_200/0/1625148493913?e=1635984000&v=beta&t=C60roihhlue3cLWc3Mm3KvikLxJ2QV1Jzxm0HUlRIVM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Pretium\", \"value\": \"5429311002\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEnYA2YB7Cgbw/company-logo_100_100/0/1625148493913?e=1635984000&v=beta&t=9oyog_LfoRc8dRy21l-00Bhxq1nuUsOczr-bRAICMV4\", \"industry\": \"Banking,Financial Services,Investment Management\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Minneapolis\", \"addressRegion\": \"MN\", \"postalCode\": \"55440\", \"streetAddress\": null}, \"latitude\": 44.977486, \"longitude\": -93.264366}, \"skills\": \"\", \"title\": \"Senior Cloud Data Engineer\", \"validThrough\": \"2021-08-29T05:14:18.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 84}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T00:00:00.000Z\", \"description\": \"<strong><u>About Arrcus<br><br></u></strong>Arrcus was founded to enrich human experiences by interconnecting people, machines, and data. The Arrcus team consists of world-class technologists who have an unparalleled record in shipping industry-leading networking products, complemented by industry thought leaders, operating executives, and Tier One VCs.<br><br>We offer a variety of roles in software, hardware, and cloud environments. We are looking for people who are self-motivated, creative, and agile. You will work closely with the top-notch talent in Arrcus in redefining networking.<br><br>Prior work experience in a venture backed company is a big plus.<br><br><strong><u>Education And Skills Required<br></u></strong><ul><li>MS in Computer Engineering/Computer Science or equivalent degree (Graduation in 2021)</li><li>Ability to write high quality C code along with automated test cases using Python<br></li></ul><strong><u>Experience Required<br></u></strong><ul><li>Strong communication skills with the ability to articulate ideas in a precise manner</li><li>Ability to demonstrate deep understanding of algorithms, data structures and other system factors that affect code quality and performance</li><li>Some experience building software beyond the school curriculum like an internship, hackathon, research project or related experience is preferred</li><li>Strong time management skills and delivering software projects with teams<br></li></ul><strong>Investors and Funding<br><br></strong>Arrcus has raised $49M in funding from Lightspeed Venture Partners, General Catalyst, and Clear Ventures. Its Board of Directors includes, Guru Chahal, Partner at Lightspeed, Steve Herrod, Managing Director at General Catalyst and Chris Rust, Founder and General Partner at Clear Ventures.<br><br>For more information, go to www.arrcus.com or follow @arrcusinc\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Arrcus, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/arrcus-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFJfMRQaNXr1g/company-logo_200_200/0/1530824853108?e=1637193600&v=beta&t=XLCw8RYWtkvEW7O1Hg6Aq4XBQ9VuZacnATUQRCThg6o\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Arrcus, Inc.\", \"value\": \"8a7885ac6fb6ed7b016fe4c7db9c389c\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFJfMRQaNXr1g/company-logo_100_100/0/1530824853108?e=1637193600&v=beta&t=Ofoy7itQe5PYztmhd1bInFCZBbedsKnQdUb42ZY3WN8\", \"industry\": \"Computer Software,Computer Networking,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Jose\", \"addressRegion\": \"CA\", \"postalCode\": \"95148\", \"streetAddress\": null}, \"latitude\": 37.334793, \"longitude\": -121.888145}, \"skills\": \"\", \"title\": \"Entry Level Software Engineer\", \"validThrough\": \"2021-09-10T03:22:39.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

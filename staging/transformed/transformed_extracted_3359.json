@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T09:06:03.000Z\", \"description\": \"<strong>Work with the #1 leader in cloud security! Aggressive base, weekly lunch, taco Tuesdays, Unlimited PTO, and much more!<br><br></strong>This Jobot Job is hosted by Bashar Sbeini<br><br>Are you a fit? Easy Apply now by clicking the \\\"Apply\\\" button and sending us your resume.<br><br>Salary $120,000 - $150,000 per year<br><br><strong>A Bit About Us<br><br></strong>We are the #1 cloud security company worldwide! Our AI analytics allows us to lead in this industry with modern day cloud solutions.<br><br><strong><br><br><strong>Why join us?<br><br></strong></strong><ul><li> Aggressive base</li><li> Competitive dental/medical plan</li><li> Flexible PTO</li><li> Enjoy breakfast burritos every Tuesday! </li><li> Weekly lunches provided</li><li> Snacks</li><li> Fun culture<br></li></ul><strong>Job Details<br></strong><ul><li> At least 5 years of experience developing, debugging, and maintaining cloud based services and solutions</li><li> Experience in Python or C/C++ required</li><li> Mastery in backend languages is highly desired(Golang, Rust, Java, Etc.)<br></li></ul>Interested in hearing more? Easy Apply now by clicking the \\\"Apply\\\" button.<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Jobot\", \"sameAs\": \"https://www.linkedin.com/company/jobot\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_200_200/0/1620205047267?e=1636588800&v=beta&t=UMbheZqpF2jU2dYiwMeaaBamW6P4Amp4sESuz2yN1iI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Jobot\", \"value\": \"99925904\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_100_100/0/1620205047267?e=1636588800&v=beta&t=4kQCOIPoD_N0tS7hHqDdWzI9JE5lnw5Dea5pK0T5fKg\", \"industry\": \"Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Austin\", \"addressRegion\": \"TX\", \"postalCode\": \"78746\", \"streetAddress\": null}, \"latitude\": 30.264978, \"longitude\": -97.7466}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-09T09:06:02.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

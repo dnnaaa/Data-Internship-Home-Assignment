@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-12T07:13:42.000Z\", \"description\": \"Platform9 Systems, Inc. is the leading Managed Kubernetes provider for hybrid and edge clouds. With a mission to enable freedom in cloud computing, the company delivers cloud-native technologies with SaaS simplicity that are easy to operate and scale, while supporting broad cloud capabilities that run on any infrastructure. The company\\u2019s SaaS management model has been proven to eliminate management complexity and costs through automated cluster upgrades, security patches, and fully-managed monitoring and troubleshooting across multiple points of presence, edge sites, and data centers with guaranteed SLAs. Headquartered in Mountain View, CA, Platform9 clients include enterprises such as Starbucks, Redfin, Kingfisher Retail, Cloudera, Juniper Networks and Mavenir.<br><br>We are looking for a Software Engineer.<br><br><strong><u>Requirements<br></u></strong><ul><li>You can work as part of a team, and treat others with respect and kindness.</li><li>You take pride in your craft, and hold yourself and others to high standards.</li><li>You are a self-starter and can work fairly independently on your projects.</li><li>You are good at spoken and written communication \\u2013 this includes design documentation, APIs, comments and everything else that goes with building maintainable software</li><li>You\\u2019re passionate about the exciting parts of the job, but recognize that not all of the necessary work will be fun.</li><li>You\\u2019re willing to learn various new technologies. The \\u201ccloud native\\u201d field of software is rapidly evolving: you\\u2019ll need to stay aware of it and quickly learn new technologies whenever necessary or relevant. You are good at algorithms and data structures<br></li></ul>Our Technology Stack:<br><br>We use the following technologies; we have no minimum experience required for any of them, but you will need to learn them relatively quickly on the job, if you\\u2019re not already familiar with them.<br><ul><li>Golang</li><li>Python</li><li>Linux, Bash scripting</li><li>Kubernetes, with Docker containers</li><li>Cloud technologies like AWS, GCP, Azure<br></li></ul>To succeed in this role you\\u2019ll need to be a team player with a strong sense of ownership for your work and a passion for working in a data driven organization.<br><br>Platform9 Core Values<br><br>i Innovation<br><br>C Customer Obsession<br><br>O Ownership with OKRs<br><br>R Radical Candor<br><br>Powered by JazzHR<br><br>26vUglG8DK\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Platform9 Systems\", \"sameAs\": \"https://www.linkedin.com/company/platform9-systems\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFyhtyR7f646A/company-logo_200_200/0/1625717834859?e=1637193600&v=beta&t=KiFrCZgcEh3dQsULDJ6_FQz6Na87Vf7yb_LjbXxI5o8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Platform9 Systems\", \"value\": \"3026761\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFyhtyR7f646A/company-logo_100_100/0/1625717834859?e=1637193600&v=beta&t=nS5LjN74TDE-1Z2azNK8VBPKRcyCDVg3U4qTFTw8f5o\", \"industry\": \"Information Technology and Services,Computer Software,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Mountain View\", \"addressRegion\": \"CA\", \"postalCode\": \"94040\", \"streetAddress\": null}, \"latitude\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-11T07:13:42.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

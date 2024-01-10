@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-14T21:53:26.000Z\", \"description\": \"<p><strong>Primary Skills:</strong></p><p><br>1. Good hands on experience on AWS Container Orchestration ( Kubernetes, ECS</p><p>)<br>2. Good to have knowledge of REST API, Spring Boot and Microservice architectur</p><p>e.<br>3. Experience on tools like bitbucket/GitHub, Postman, Swagg</p><p>er <br>4. Good to have knowledge of CI/CD pipeline like Bamboo, Jenki</p><p>ns. <br>5. Good knowledge and experience on AWS ECS Farget, Lambda, S3, CloudWatch, SQS/SNS, Dyna</p><p>moDB.<br>6. Experience on Distributed Traceability tools like HoneyComb, X-Ray, Splu</p><p>nk etc<br>7. Good knowledge and experience on Synthetic Monitoring, Performance tools like</p><p> JMeter<br>8. Good knowledge of SRE concepts like Resiliency, Availability, Circuit- Breaker , Chaos Testi</p><p><br></p><p><strong>ng, SPOG<br><br>Seconda</strong></p><p>ry Skills:<br>1. Nice to have experience on Agile m</p><p>ethodology.<br>2. Nice to have Configuration Management tools (C</p><p>hef, Puppet)<br>3. Nice to have Infrastructure as Code (Terraform, Cl</p>oudFormation)\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Sky Solutions\", \"sameAs\": \"https://www.linkedin.com/company/sky-solutions-us\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG8OAxklhmxyQ/company-logo_200_200/0/1625758941355?e=1642636800&v=beta&t=DF6OAOR5hvsxiAr8rhVdx5U9SKlkn6kWQm4QSbslBrU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Sky Solutions\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG8OAxklhmxyQ/company-logo_100_100/0/1625758941355?e=1642636800&v=beta&t=5-JaDVd3pGXBLUM4_S3Q55Q_FdGv60uEa0neA0WTjZQ\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Malvern\", \"addressRegion\": \"PA\", \"postalCode\": \"19355\", \"streetAddress\": null}, \"latitude\": 40.033436, \"longitude\": -75.51271}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-11-13T21:53:26.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

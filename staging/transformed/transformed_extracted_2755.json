@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-04T08:25:24.000Z\", \"description\": \"Remote eventually will have to relocate to Denver, CO or Memphis, TN<br><br>Position will be temporarily remote from home until AHS returns to office.<br><br>CandidatesMUSTbe located in the Memphis, TN area OR Denver, CO area.<br><br><strong><u>Quick Notes From Interview<br><br></u></strong>George Stragand - Manager of the team<br><ul><li>Newer to AHS - just started 2 1/2 weeks ago</li><li>Lives in colorado</li></ul> 6 currently on the team and looking to double size<br><br>Gitlab used a lot<br><br>On call every once in a while and rotates through each team member<br><br>A lot of work within the cloud<br><br><strong><u>He Asked About Security Experience<br><br></u></strong>What is the owasp top 10 and which would you go after first?<br><br><strong><u>What He Would Like To See<br><br></u></strong>Heavy focus on the networking stuff<br><br>VPC<br><br>Networking<br><br>Routing is a bigger deal<br><br>Unicorn- someone with servicemesh experience Hashicorp is one<br><br><strong>Istio - they're currently using <br><br></strong><strong>Anthos - they're currently using</strong>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Saxon Global, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/saxonglobal\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFTDrP1D7jI_w/company-logo_200_200/0/1620143174430?e=1635984000&v=beta&t=ngKefOALUEkjuRo0gN_ua8GThkPiBwgeZhmvTxf0Ye4\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Saxon Global, Inc.\", \"value\": \"2134-21-84971\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFTDrP1D7jI_w/company-logo_100_100/0/1620143174430?e=1635984000&v=beta&t=Yn9EGUA73CKcdzrKLQAJYaEP-CacJOl_RW-Btilgbjg\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Memphis\", \"addressRegion\": \"TN\", \"postalCode\": \"38111\", \"streetAddress\": null}, \"latitude\": 35.14338, \"longitude\": -90.05214}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-03T08:25:24.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

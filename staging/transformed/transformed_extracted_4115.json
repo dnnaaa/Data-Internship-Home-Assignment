@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T23:28:58.000Z\", \"description\": \"<p><strong>Additional Job Details:&nbsp;</strong></p><ul><li>10-12 years\\u2019 work experience.&nbsp;</li><li>6 - 8 years Open Pages required. Certified Preferred. ---Using Version 8.02, but if someone has 7.9 experience and above would be great.&nbsp;</li><li>Workflows, AFCON, AURA experience.&nbsp;</li><li>Must be comfortable and this person will play a lead role to assist with other employees.&nbsp;</li><li>SDLC process and working with QA automation.&nbsp;</li><li>Someone with financial experience would be beneficial.&nbsp;</li><li>Provide OpenPages development (Trigger/Helper, Workflow, BPM, module configuration and customization).&nbsp;</li><li>Provide development support to the management of GRC related projects and scheduled releases.&nbsp;</li><li>Troubleshooting of reported issues related to developed/configured solutions.&nbsp;</li><li>Work with IT and business leads to understand and build development requirements and similar business analysis tasks.&nbsp;</li><li>Advise on possible impacts and outcomes of changes made to the IBM OpenPages solution&nbsp;</li><li>Ensure coordination between the Product owner and tech organizations.&nbsp;</li><li>Knowledge of various QA techniques/automation Tools, Defect management and prioritization&nbsp;.</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Mindlance\", \"sameAs\": \"https://www.linkedin.com/company/mindlance\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHBOCtYMFYVtQ/company-logo_200_200/0/1625141652411?e=1637193600&v=beta&t=4YCciiu6DxMzAkY4xxF2Ds2TLtRkWhVbUq2p4BRjuas\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Mindlance\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHBOCtYMFYVtQ/company-logo_100_100/0/1625141652411?e=1637193600&v=beta&t=WoAqa2ImwY2qvEKjo6olN3RBBloKehJj9CSVQwyQDew\", \"industry\": \"Information Services,Information Technology and Services,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Austin\", \"addressRegion\": \"Texas Metropolitan Area\", \"postalCode\": \"78723\", \"streetAddress\": null}, \"latitude\": 30.276316, \"longitude\": -97.70931}, \"skills\": \"\", \"title\": \"REMOTE Software Developer (Open Pages)\", \"validThrough\": \"2021-09-16T23:28:57.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 120}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-07T16:27:20.000Z\", \"description\": \"<p>The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.\\u00a0</p><p>\\u00a0</p><strong>Responsibilities</strong><ul><li>Develop quality software and web applications </li><li>Analyze and maintain existing software applications </li><li>Design highly scalable, testable code </li><li>Discover and fix programming bugs</li></ul><p><strong><br></strong></p><p><strong>Qualifications</strong></p><p><ul><li>Bachelor's degree or equivalent experience in Computer Science or related field </li><li>Development experience with programming languages </li><li>SQL database or relational database skills</li></ul></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Tata Consultancy Services\", \"sameAs\": \"https://in.linkedin.com/company/tata-consultancy-services\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEMvQ8E6gXSPA/company-logo_200_200/0/1625820626997?e=1639008000&v=beta&t=aUNtnQqYpS1YyreBoyPP5cSXHCmb1TDf8gScCLfsRPM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Tata Consultancy Services\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEMvQ8E6gXSPA/company-logo_100_100/0/1625820626997?e=1639008000&v=beta&t=fCGWp9wz_2nvVZqayBfhPzJIWNhSzTBd5glWCVRi270\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Illinois\", \"addressRegion\": \"United States\", \"postalCode\": \"61709\", \"streetAddress\": null}, \"latitude\": 40.12414, \"longitude\": -89.14863}, \"skills\": \"\", \"title\": \"Software Engineer (Entry level)\", \"validThrough\": \"2021-10-07T16:27:19.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 58600, \"maxValue\": 74300, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-25T17:03:44.000Z\", \"description\": \"s at Zest AI develop radically new methods for manipulation and prediction that will enable us to provide fair, transparent credit. Using a combination of machine learning technology and vast amounts of data sources, we seek to transform the credit market while expanding our team into interesting and revolutionary frontiers within the credit world.<br><br><strong> In This Role You Will <br></strong><ul><li>Translate unstructured business problems into well-defined machine learning projects</li><li>Collaborate with a cross-functional team of Engineers, Product Managers, and Business Analysts to identify and manage high leverage opportunities for modeling work</li><li>Design and implement highly generalizable models for predicting various outcomes</li><li>Take responsibility for modeling implementation in real world settings to solve real world problems</li><li>Mentor junior team members in modeling artistry<br><br></li></ul><strong> We Are Looking For <br></strong><ul><li>Bachelor\\u2019s Degree in a quantitative discipline; advanced degrees preferred</li><li>Expert experience designing, developing, and implementing machine learning models/algorithms</li><li>Successful Kaggle competition experience is encouraged</li><li>Extensive programming experience in R or Python and an interest in learning new languages and technologies</li><li>Knowledge of data structures and parallelization<br><br></li></ul><strong> Perks And Benefits <br></strong><ul><li>Robust healthcare plans, matching 401K and unlimited vacation time</li><li>Weekly company wide \\u201call hands\\u201d meetings </li><li>Virtual weekly happy hours, sometimes casual and other times with a focus around topics like racial discrimination and LGBTQ+ history</li><li>Employee care packages to make WFH more enjoyable<br><br></li></ul><strong> About Zest AI <br><br></strong>Zest AI has been perfecting AI for consumer lending decisions since 2009. Our Model Management System helps lenders make better decisions and better loans\\u2014increasing revenue, reducing risk, and automating compliance. Our mission is to make fair and transparent credit available to everyone and our software creates some of the most inclusive risk models in the industry. Using Zest-built machine learning software, financial institutions can dramatically expand credit access to deserving people with no added risk. Learn more at Zest.ai and connect with us on Twitter @Zest_AI or our Insights blog.<br><br>Zest is committed to diversity, equity, and inclusion and encourages professionals from underrepresented groups in technology and financial services to apply.<br><br>Please review our CCPA Policy with regard to applicant and employee personal information here.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Zest AI\", \"sameAs\": \"https://www.linkedin.com/company/zest-ai\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQH4n1l56RJ19A/company-logo_200_200/0/1608747222275?e=1637193600&v=beta&t=bDY-bGvwchutW7dgjE4-cazac5f43DX0s2hUq1jUsGg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Zest AI\", \"value\": \"be402bc3-0c65-4050-baf2-e2add1cd310c\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQH4n1l56RJ19A/company-logo_100_100/0/1608747222275?e=1637193600&v=beta&t=dPa4hI5RnJThxQMJSuFAuYBBeRMOvecI6oLAGLJ88-A\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Burbank\", \"addressRegion\": \"CA\", \"postalCode\": \"91504\", \"streetAddress\": null}, \"latitude\": 34.182053, \"longitude\": -118.30747}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-08-24T17:03:44.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

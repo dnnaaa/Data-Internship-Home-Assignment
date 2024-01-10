@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T00:21:13.000Z\", \"description\": \"<strong><u>Description<br><br></u></strong>Designs, develops and troubleshoots basic software programs for computer based systems.<br><ul><li>Participates in the development and review of specifications to gain an understanding of application changes.</li><li>Completes basic program changes to translate specifications and / or requirements into code.</li><li>Applies basic technical skills to produce deliverables (i.e. specifications, program changes, unit test scripts, documentation, etc.).</li><li>Provides documentation to support program changes.</li><li>Plans, documents, and executes unit test plans to ensure all code changes meet requirements / specifications.</li><li>Supports programming changes during quality assurance, user acceptance testing, and post implementation to ensure integrity of application.</li><li>Monitors progress against task estimates to provide status.</li><li>Complies with standards and procedures to ensure development consistency (e.g. programming standards, change management, version control).</li></ul><strong>Requirements<br></strong><ul><li>Bachelor's Degree in Computer-related discipline or equivalent work experience</li><li>Using one or more programming language(s).<br></li></ul><strong>Our Commitment<br><br></strong>Paychex is dedicated to fostering a culture of intentional Inclusion and Diversity (I&amp;D). Our valued employees and commitment to I&amp;D is the essence of our internal and external success. Inclusivity is a key value of our corporate culture and is exemplified through our reputation as a top employer for employee development, diversity, and ethics, as well as a focus on fairness in recruitment, selection, and decision making.<br><br>Click here for more information on our corporate social responsibility.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Paychex\", \"sameAs\": \"https://www.linkedin.com/company/paychex\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGgCO8be7TBCw/company-logo_200_200/0/1616101057856?e=1638403200&v=beta&t=6dqmm8Ulws3VcXEu7PExf0oF9RpCOJu8vHtbCzjFJJc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Paychex\", \"value\": \"75453d9bd58944f7edf515485c258d45\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGgCO8be7TBCw/company-logo_100_100/0/1616101057856?e=1638403200&v=beta&t=9AR57VfL1kho_ei-_7bGVlTo8RQWEwF-RdHd6VWBguI\", \"industry\": \"Information Technology and Services,Insurance,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Nashville\", \"addressRegion\": \"TN\", \"postalCode\": \"37221\", \"streetAddress\": null}, \"latitude\": 36.166344, \"longitude\": -86.77907}, \"skills\": \"\", \"title\": \"Software Engineer I\", \"validThrough\": \"2021-09-24T00:21:12.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:21:22.000Z\", \"description\": \"<p>As a software engineer, you will be responsible for designing, programming, testing, and maintaining production, pre-production and prototype software applications. You will coordinate with team leads, senior engineers and management in order to create efficient, correct and maintainable solutions that enhance current applications and create new products. </p><p><br></p><p>This is a replacement position, and performance goals will be linked to the ability to manage work efficiently, finish work on-time and produce high-quality code with minimal outstanding issues. Specific responsibilities will include maintenance and extension of a module responsible for capturing, recording, and reporting results for healthcare quality measures; supporting applications which report, enforce, and monitor quality in a healthcare setting; performing analysis and benchmarking of existing systems to identify bottlenecks and improvements; work with senior staff members to grow knowledge of existing system functionalities.</p><p><br></p><p><strong>Required Qualifications:</strong></p><ul><li>3+ years of experience in .NET and C# programming</li><li>Experience with ASP.NET Web Forms, MVC/Razor, Entity Framework and LINQ</li><li>Experience with Microsoft SQL Server</li><li>Experience with HTML, CSS, JavaScript, jQuery, Internet Explorer, Chrome, Firefox, and Safari.</li><li>Experience with cloud-based design and deployments will be given precedence, especially regarding the Microsoft Azure platform</li><li>Experience with API development and microtransactional systems will be given preference</li><li>Excellent communication skills, both written and verbal</li><li>Bachelor\\u2019s degree (or higher) in relevant discipline, or equivalent work experience</li><li>Successful completion of a pre-employment background check</li><li>Must be authorized to work for any employer in the U.S. We are not currently able to provide sponsorship for this position.</li></ul><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Medisolv, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/medisolv\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQE63zTnH4BQbQ/company-logo_200_200/0/1592229510544?e=1641427200&v=beta&t=mHTH7-1-g3qJ3qtI2n9U9oTeoQ-WDBdFe850oa5TVHA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Medisolv, Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQE63zTnH4BQbQ/company-logo_100_100/0/1592229510544?e=1641427200&v=beta&t=6ZZgYnA_JhOJkregNq1c30EgGUW7hWsTBvv1TBn2HM8\", \"industry\": \"Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Maryland\", \"addressRegion\": \"United States\", \"postalCode\": \"20708\", \"streetAddress\": null}, \"latitude\": 38.952736, \"longitude\": -76.701294}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-11-04T17:21:21.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-30T18:08:45.000Z\", \"description\": \"Data Scientist<br><br>Do you want to build your brand by working for a leading consulting firm that drives eminence in the marketplace? Are you interested in leveraging your analytical skills and strategic ideas to improve mission execution? If so, Deloitte could be the place for you! Our Government Public Services (GPS) Strategy and Analytics team brings deep industry expertise, rigorous analytical capabilities and a pragmatic mindset to help solve our client's most complex business problems. Join our team and play a key role in helping to design our clients' roadmap to the future and help transform the GPS marketplace.<br><br>Work you'll do<br><br>The Data Scientist will join a team responsible for developing advanced analytics products; applying Machine Learning, Artificial Intelligence and statistical programming tools to enterprise data to advance and enable key mission outcomes. In this role, they will support all phases of analytic work product development, from the identification of key business questions to ETL, from performing analyses to delivery of insights to decision-makers, with particular attention to the interplay between data and the business processes that produce and consume it.<br><br>The team<br><br>Analytics &amp; Cognitive<br><br>In this age of disruption, organizations need to navigate the future with confidence, embracing decision making with clear, data-driven choices that deliver enterprise value in a dynamic business environment.<br><br>The Analytics &amp; Cognitive team leverages the power of data, analytics, robotics, science and cognitive technologies to uncover hidden relationships from vast troves of data, generate insights, and inform decision-making. Together with the Strategy practice, our Strategy &amp; Analytics portfolio helps clients transform their business by architecting organizational intelligence programs and differentiated strategies to win in their chosen markets.<br><br>Analytics &amp; Cognitive will work with our clients to:<br><br><li> Implement large-scale data ecosystems including data management, governance and the integration of structured and unstructured data to generate insights leveraging cloud-based platforms</li><li> Leverage automation, cognitive and science-based techniques to manage data, predict scenarios and prescribe actions</li><li> Drive operational efficiency by maintaining their data ecosystems, sourcing analytics expertise and providing As-a-Service offerings for continuous insights and improvements<br><br></li><strong><u>Qualifications<br><br></u></strong>Required:<br><ul><li> Bachelor's degree required </li><li> Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future </li><li> Must be able to obtain and maintain the required clearance for this role </li><li> Travel up to 10% </li><li> 2+ years of experience with programming languages such as SQL, R, Python </li><li> 2+ years of experience with data visualization tools, such as Tableau, Qlik, PowerBI, d3.js, or equivalent</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Deloitte\", \"sameAs\": \"https://www.linkedin.com/company/deloitte\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHda-o9KT2w5Q/company-logo_200_200/0/1625689676984?e=1635984000&v=beta&t=GC5G0AJIJetM7_cr-gZIJU6TnrSSsSOdsbFFmKIvE5I\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Deloitte\", \"value\": \"41376\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHda-o9KT2w5Q/company-logo_100_100/0/1625689676984?e=1635984000&v=beta&t=PHCQu6JfNSgEhOPfOs07C77QVDs3ga8i2C5zEc1WeEc\", \"industry\": \"Accounting,Information Technology and Services,Management Consulting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Arlington\", \"addressRegion\": \"VA\", \"postalCode\": \"22210\", \"streetAddress\": null}, \"latitude\": 38.897705, \"longitude\": -77.07872}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-08-29T18:08:48.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-31T07:25:27.000Z\", \"description\": \"<strong>Software Engineer needed for one of the world's leading providers of gaming solutions!!<br><br></strong><strong>Title:</strong> Senior Software Engineer<br><strong>Location:</strong> Las Vegas, NV<br><strong>Requirements:</strong> C#, SQL, .NET<br><br>We offer a diverse range of products and services including electronic gaming machines, social gaming, and casino management systems. Whether we're designing sleek new cabinets, premium game content, or award-winning systems, we apply fresh thinking and creativity to deliver the world's greatest gaming experience, every day.<br><br>As a Software Engineer, you will responsible for code development, debugging, testing, and integration of software products.<br><br>What You Will Be Doing<br><ul><li> Design of various software components, applications, and services</li><li> Participate in peer reviews of code design and written code as assigned.</li><li> Document new/modified code and develop/automate unit and integration tests to verify the changes</li><li> Analyze existing software to debug and troubleshoot field issues<br></li></ul>What You Need for this Position<br><ul><li> Bachelor's degree in Computer Science, Computer Engineering, engineering discipline, or equivalent experience</li><li> 3+ years of professional experience in software development<br></li></ul><strong><u>You Should Know Some Of The Following<br></u></strong><ul><li> C++</li><li> C#</li><li> .NET</li><li> Python</li><li> SQL<br></li></ul>What's In It for You<br><ul><li> Competitive base salary and overall compensation package</li><li> Full benefits: Medical, Dental, Vision</li><li> 401 (K) with generous company match</li><li> Generous Paid time off (PTO)</li><li> Vacation, sick, and paid holidays</li><li> Life Insurance coverage</li><li> Apply directly to this job opening here!<br></li></ul>or<br><ul><li> E-mail directly for more information to josh.sanchez@Optello.com<br></li></ul><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Josh.Sanchez@Optello.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : JS22-1639324 -- in the email subject line for your application to be considered.***<br></li></ul>Josh Sanchez - Sr. Executive Recruiter - Optello<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>Optello is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Optello\", \"sameAs\": \"https://www.linkedin.com/company/optello-us\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHGcllR34o9Wg/company-logo_200_200/0/1588635531825?e=1635984000&v=beta&t=MHtgaUMNS-40k4vd2GWDAC5HNkNmAmeFJeCFvhIxpJs\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Optello\", \"value\": \"JS22-16393247\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHGcllR34o9Wg/company-logo_100_100/0/1588635531825?e=1635984000&v=beta&t=exCbyc-y_cM2AL2IBhKVzVGXcIE237iUf77gCFKcAvA\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Las Vegas\", \"addressRegion\": \"NV\", \"postalCode\": \"89159\", \"streetAddress\": null}, \"latitude\": 36.16909, \"longitude\": -115.14058}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-08-30T07:25:24.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

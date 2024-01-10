@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-12T03:52:39.000Z\", \"description\": \"<strong>Location: Sunnyvale, CA or Austin, TX Seattle WA <br><br></strong><strong>Fulltime <br><br></strong><strong>Candidate must be open to relocate post COVID<br></strong><ul><li>Experience in developing Big Data applications using java, Scala, python, Spark, Hive, Kafka, apache airflow</li><li>Strong analytical and interpersonal skills. Should be highly motivated and ability to learn quick</li><li>7-10 years with min 5 years experience &amp; In-depth understanding of data structures and algorithms</li><li>Designing and building dimensional data models to improve accessibility, efficiency, and quality of data</li><li>Database development experience with Relational or MPP/distributed systems such as Oracle/Teradata/Vertica/HANA/Hadoop/ </li><li>Programming experience in building high quality applications, data pipelines and analytics solutions. </li><li>Experience in working with frameworks, transpilers, code generators</li><li>Should be proficient in writing Advanced SQLs, Expertise in performance tuning of SQLs. </li></ul> Exposure to cloud methodologies and experience with AWS preferred\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Centraprise\", \"sameAs\": \"https://www.linkedin.com/company/centraprise\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEi3dZELTWQYg/company-logo_200_200/0/1618595274609?e=1639612800&v=beta&t=YrrH_2KvY2HM1t9VjApV9TZpuOhXOYB1g8qz5KHhX64\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Centraprise\", \"value\": \"2450020336\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEi3dZELTWQYg/company-logo_100_100/0/1618595274609?e=1639612800&v=beta&t=9_bcH9oC2CPRHP-bCQUOz3paibMrUAoc6CVk76J-kbc\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Juneau\", \"addressRegion\": \"AK\", \"postalCode\": \"99802\", \"streetAddress\": null}, \"latitude\": 58.301037, \"longitude\": -134.42464}, \"skills\": \"\", \"title\": \"Spark / Scala Data Engineer\", \"validThrough\": \"2021-10-12T03:52:39.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 84}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

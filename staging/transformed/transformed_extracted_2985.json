@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-06T16:54:46.000Z\", \"description\": \"<p>A global platform provider based in Berlin, Germany is seeking a <strong>Site Reliability Engineer</strong> to help bolster&nbsp;and support their cloud-based service offering. They're looking for someone with experience in <strong>Linux, CI/CD pipelines and some coding.</strong></p><p>&nbsp;</p><p><strong>Requirements:</strong></p><ul><li>A solid background and working experience in Software Development and/or Linux Systems Administration role</li><li>Strong interpersonal, written and verbal communication skills</li><li>Available to participate in a scheduled on-call rotation</li><li>Proficient as a Linux Systems Engineer, Linux Administrator, Software Developer, Software Engineer with experience managing large scale Web Services infrastructure</li><li>Development experience in one or more of the following programming languages: Linux, Python, Bash, Go, Java, C++, or Rust</li></ul><p><br></p><p><strong>In addition, experience with one or more of the following would be beneficial:</strong></p><ul><li>Distributed data storage at scale (Hadoop, Ceph)</li><li>NoSQL at scale (MongoDB clusters, sharded Redis, Cassandra)</li><li>Data Aggregation technologies. (ElasticSearch, Kafka)</li><li>Scaling and managing traditional RDBMS (PostgreSQL, MySQL) with High Availability</li><li>Monitoring &amp; Alerting (Prometheus, Grafana), and Incident Management toolsets</li><li>Virtual infrastructure and/or container hosting (deployment and management) at scale</li></ul><p><br></p><p>This position is remote, but once Covid restrictions lift, they will look at a hybrid working model, and they would like candidates who are based near Berlin to pop in for meetings from time to time and catch-ups.</p><p><br></p><p><strong>Paying between $130 to $140k + Bonus + Benefits </strong></p><p><br></p><p><strong>Apply now to be considered and for more information!</strong></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apollo Solutions\", \"sameAs\": \"https://uk.linkedin.com/company/apollo-solutions\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEwvHRFbVDibw/company-logo_200_200/0/1626271573853?e=1636588800&v=beta&t=wrAhphZUaDnsgGS6mFWpc3E0gjPaqDMJ98Cof8y4eRg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apollo Solutions\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEwvHRFbVDibw/company-logo_100_100/0/1626271573853?e=1636588800&v=beta&t=QT04acZ25O91FdM58j1T_tv0Bc0Jge07WfSxqPYH7eo\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"California\", \"addressRegion\": \"United States\", \"postalCode\": \"93266\", \"streetAddress\": null}, \"latitude\": 37.254673, \"longitude\": -119.61728}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-05T16:54:45.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 130000, \"maxValue\": 150000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T23:22:34.000Z\", \"description\": \"<p><strong>Senior Data Engineer</strong></p><p><strong>McLean VA</strong></p><p><strong>12 Months CTH</strong></p><p><br></p><p><strong>Must Have Skills:</strong></p><p>AWS Services - Lambda</p><p>Python</p><p>Apache Spark/ PySpark</p><p>at least some Java exp. &amp; Rest API is must</p><p>DevOps/ CI/CD/ Jenkins</p><p><br></p><p><strong>JOB DESCRIPTION&nbsp;</strong></p><p>Senior Data Engineer - Jigsaw current and future roadmap primarily building automation capabilities would involve </p><p>Develop data pipelines using Apache Spark , PySpark , python , spark SQL , REST API , Postgres DB , Lambda Serverless solutions in AWS ,</p><p>hands on AWS experience , DevOps experience (YBYO).<strong>&nbsp;</strong></p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Pyramid Consulting, Inc\", \"sameAs\": \"https://www.linkedin.com/company/pyramid-consulting\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGPQ0ICvSdR7A/company-logo_200_200/0/1625141295658?e=1637193600&v=beta&t=1OQsHyJqS8eX3E2lqq8K_x5Fi1-ls2C4VdEAaS1ZLuQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Pyramid Consulting, Inc\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGPQ0ICvSdR7A/company-logo_100_100/0/1625141295658?e=1637193600&v=beta&t=9rH-Jl71syZjL0GrekQ1iQ1MEZT9yt-6KAcUdxbSIlU\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"McLean\", \"addressRegion\": \"VA\", \"postalCode\": \"22101\", \"streetAddress\": null}, \"latitude\": 38.93759, \"longitude\": -77.18378}, \"skills\": \"\", \"title\": \"Senior Data Engineer\", \"validThrough\": \"2021-11-14T22:47:39.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T01:15:58.000Z\", \"description\": \"<p>I am partnered with a company that is pioneering the use of note-taking app recorders! Their AI-powered collaborative works across Zoom, Google Meet, and Microsoft Teams to help teams record, transcribe, search and share meeting notes.&nbsp;In addition, they are making virtual meetings accessible to all employees - allowing team members with disabilities to participate in a world that is now dominated by virtual meetings</p><p>They are currently in their Series A Funding Round, looking to rapidly grow their team over the course of the next year.&nbsp; The team is located in Mountain View, with plans to move back to in-person as soon as they can!</p><p>&nbsp;</p><p>A few key details Listed below -</p><p>&nbsp;</p><p><strong>Skill Requirements</strong>:</p><ul><li>5+ years of experience in Machine Learning</li><li>Strong programming skills in a scientific computing language such as Python. </li><li>Experience using frameworks for machine learning and data science like scikit-learn, pandas, NumPy</li><li>Experience working with ML tools such as Tensorflow, Keras, and Pytorch</li><li>Excellent written and oral communication skills and the capability to drive cross-functional requirements with product and engineering teams</li><li>Comfortable in a Collaborative Start-up environment</li></ul><p>&nbsp;</p><p><strong>Nice to have</strong>:</p><ul><li>Ph.D. in Machine Learning, Artificial Intelligence, NLP, or similar</li><li>Experience with MLOps systems</li><li>A drive to keep up and build on cutting edge research</li><li>Experience with Natural Language Processing</li><li>Leadership experience</li></ul><p>&nbsp;</p><p><strong>Offer Expectations</strong>:</p><p>&nbsp;</p><ul><li>Competitive Salary</li><li>Awesome Benefits</li><li>Potential to grow alongside a fast-paced team!</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Intelletec\", \"sameAs\": \"https://www.linkedin.com/company/intelletec-ltd\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGoLsEQn0u4fw/company-logo_200_200/0/1582030754046?e=1637798400&v=beta&t=HMiOzMDg4hsjeoyLy9A11lM3upVBbnoDLYlc7enoggI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Intelletec\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGoLsEQn0u4fw/company-logo_100_100/0/1582030754046?e=1637798400&v=beta&t=1WAv3vO4FN36YwfGmcuV6qQCMtnZdoU7jSRtR18JtlU\", \"industry\": \"Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco Bay Area\", \"addressRegion\": null, \"postalCode\": \"94112\", \"streetAddress\": null}, \"latitude\": 37.39271, \"longitude\": -122.042}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-19T01:15:57.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

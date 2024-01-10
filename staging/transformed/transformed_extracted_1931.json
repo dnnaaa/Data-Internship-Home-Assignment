@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-01T06:56:47.000Z\", \"description\": \"<br><strong>Do what you love. Love what you do. <br><br></strong> At Workday, we help the world\\u2019s largest organizations adapt to what\\u2019s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we\\u2019re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. <br><br><strong>About the Team<br></strong>The Reporting application is central to empowering users of Workday Planning to visualize finance, sales and other planning data through powerful, self-service and ad-hoc reports. We leverage our powerful compute engine to provide best-in-class reporting that scales against very large data sets and complex planning models.<br><strong>About the Role<br><br></strong>We are open for a Software Engineer II or and Software Engineer III.<br><br> You are a team-player, but also a leader and go-getter and motivated to excel. You care deeply for inclusivity, belonging and equity in relationships with workmates.  <br><br> Along side these attributes, if you are excited to join to a growing and talented bunch of fun folks in building a best-in-class reporting SaaS platform, you are looking in the right place! <br><br><strong>About You<br><br></strong><strong>Software Engineer II<br></strong><ul><li>2+ years of software development experience.<br><br></li></ul><strong>Software Engineer III<br></strong><ul><li>5+ years of software development experience.</li><li>Strong grasp for design patterns, coding best practices and be able to write unit-testable code.<br><br></li></ul><strong>Basic qualifications:<br></strong><ul><li>Fundamentals in algorithms and data structures.</li><li>Experience working with SQL and databases (Postgres, Oracle, etc.)</li><li>Strong communication, organizational skills, and ability to balance multiple priorities.</li><li>BS and/or Masters in Computer Science, Engineering or related field preferred.<br><br></li></ul> Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Workday\", \"sameAs\": \"https://www.linkedin.com/company/workday\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFNtMZWF3I8gQ/company-logo_200_200/0/1625148965836?e=1635984000&v=beta&t=E-zU_EWQ5g9uzNm0kMGfYEGw9UG-p-UjLdIT6cMWaIg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Workday\", \"value\": \"JR-53539\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFNtMZWF3I8gQ/company-logo_100_100/0/1625148965836?e=1635984000&v=beta&t=jEXJLs5O-Bmh3ROw4lr-1GCkpmvO31NRShkgUlNdTmo\", \"industry\": \"Computer Software,Human Resources,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Pleasanton\", \"addressRegion\": \"CA\", \"postalCode\": \"94588\", \"streetAddress\": null}, \"latitude\": 37.658436, \"longitude\": -121.877}, \"skills\": \"\", \"title\": \"Software Engineer III (Backend)\", \"validThrough\": \"2021-08-31T06:56:46.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

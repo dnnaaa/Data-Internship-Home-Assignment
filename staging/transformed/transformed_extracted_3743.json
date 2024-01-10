@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-16T20:35:20.000Z\", \"description\": \"<p>ActiveLogic Labs designs and develops custom web-based and mobile software applications for a myriad of different industries and in several different technologies. We\\u2019re looking for experienced and versatile software engineers who aren\\u2019t afraid of working as a team, exploring new technologies, and pushing their personal skills to their full potential.&nbsp;</p><p><br></p><p><strong>What\\u2019s in it for you?</strong></p><ul><li>Salary range $80k - $130k (Depending on skill &amp; experience)</li><li>Competitive total compensation package&nbsp;</li><li>Full Benefits, 50% of Medical premiums paid for by company</li><li>Company paid Disability and Life insurance</li><li>Flexible schedule &amp; work location</li><li>Locally owned, friendly, fun atmosphere</li></ul><p><br></p><p><strong>Technical Qualifications &amp; Skills</strong></p><p>We\\u2019re not worried about whether your experience is perfectly aligned with everything we use but more that you want to learn and bring your experience building solid applications. Here are some of the things we do:</p><p><br></p><p><strong>Front-End Web Tech</strong></p><ul><li>CSS/HTML (SCSS, Webpack)</li><li>Bootstrap</li><li>Vue.JS</li><li>React</li><li>Javascript / JQuery</li><li>Angular</li></ul><p><br></p><p><strong>Back-End Web Tech</strong></p><ul><li>PHP / Laravel / Symphony</li><li>.NET / C#</li><li>Javascript / NodeJS / Express</li></ul><p><br></p><p><strong>Lower-Level Tech</strong></p><ul><li>Python</li><li>C / C++</li><li>Java</li></ul><p><br></p><p><strong>Required Qualifications:</strong></p><ul><li>3+ Years of professional development experience (School work does not count)</li><li>GIT Source Control (Pull Requests, Code Reviews)</li><li>Relational Database Experience (MySql, SQL, Postgres)</li><li>Dependency Management (Composer, NPM, Webpack, Bower)</li></ul><p><br></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"ActiveLogic Labs\", \"sameAs\": \"https://www.linkedin.com/company/activelogic-labs\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEEZ3bsK81g5w/company-logo_200_200/0/1571259340544?e=1637193600&v=beta&t=OralL_zlb-vKDfKEkk1bhkqJDHh75NhZfvmoZMSh6Vc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"ActiveLogic Labs\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEEZ3bsK81g5w/company-logo_100_100/0/1571259340544?e=1637193600&v=beta&t=X5KNZNott7mBOz4V3w_85mzYq1Dv3w6EVtfO_cLBrzU\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Leawood\", \"addressRegion\": \"KS\", \"postalCode\": \"66211\", \"streetAddress\": null}, \"latitude\": 38.91238, \"longitude\": -94.62669}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-15T20:35:20.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

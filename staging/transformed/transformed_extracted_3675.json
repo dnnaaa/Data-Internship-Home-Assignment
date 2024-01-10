@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-16T19:52:49.000Z\", \"description\": \"<p><strong>Must Haves:</strong></p><ul><li>6+ years of experience designing, building, deploying, testing, maintaining, monitoring and owning scalable, resilient and distributed machine learning algorithms and systems.</li><li>Expertise with Machine Learning algorithms applied to Recommender Systems and Search.</li><li>Proficiency in operating machine learning solutions at scale, covering the end-to-end ML workflow.</li><li>Experience with offline experimentation and A/B testing.</li><li>Deep knowledge of ML tools and frameworks (TensorFlow, Keras, pyTorch, scikit-learn, Spark, ...).</li><li>Proficiency in programming languages such as Python or Scala.</li><li>Strong understanding of modern approaches to Recommendation or Search (GBDT, CNN, LSTM, GRU, HRNN, transformers, siamese neural networks, variational auto-encoders, ...).</li><li>Experience with at least one of Deep Learning, Contextual Multi-Armed Bandits, Reinforcement Learning, Causal Inference.</li><li>Familiarity with real-world ML systems (configuration, data collection, data verification, feature extraction, resource and process management, analytics, training, serving, validation, experimentation, monitoring).</li></ul><p><br></p><p><strong>Nice to Haves</strong></p><ul><li>Understanding of batch and streaming data processing techniques.</li><li>Obsession for service observability, instrumentation, monitoring and alerting.</li><li>Knowledge of AWS or similar cloud platforms.</li><li>Familiarity with CI/CD tools (CircleCI, Jenkins or similar) to automate building, testing and deployment of the ML algorithms and to manage the infrastructure (Pulumi, Terraform or CloudFormation).</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Majhi Group\", \"sameAs\": \"https://www.linkedin.com/company/majhigroup\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEQxUJvIb-VHQ/company-logo_200_200/0/1622374819064?e=1637193600&v=beta&t=kxrlKYWcthLUHhz00oQ_EFiqnux_LE3ZdDO1iUX5M6w\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Majhi Group\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEQxUJvIb-VHQ/company-logo_100_100/0/1622374819064?e=1637193600&v=beta&t=9e_GcUSXlYxVYUQd460Z0bNklFlVK1EysjiZpEnqOYI\", \"industry\": \"Information Technology and Services,Information Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-15T19:52:48.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

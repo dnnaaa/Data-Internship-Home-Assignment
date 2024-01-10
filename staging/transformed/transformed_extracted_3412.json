@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-11T15:34:08.000Z\", \"description\": \"<p>Our client,&nbsp;<strong>a well-known global information services company</strong>,&nbsp;is actively looking for a&nbsp;<strong>Remote Machine Learning Engineer</strong>&nbsp;to join their team based out of&nbsp;Costa Mesa, CA!&nbsp;*<em>This role will be 100% remote*</em></p><p><br></p><p><strong>*This is an 8 month W2 contract with benefits!*</strong></p><p><br></p><p>You will be working closely with the data science and engineering teams to <strong>provide insights for their US Retail and Online Markets.</strong> They are looking for someone who is naturally curious in <strong>both technical and US business domains.</strong></p><p><br></p><p><strong><u>Responsibilities:</u></strong></p><ul><li><strong>Analyze structured and unstructured data sources to determine the key business questions and hypotheses that can be explored with the data sets</strong></li><li>Evaluate approaches and algorithms based on available data and research objectives</li><li>Develop experimental ML models to solve complex data mining problems</li></ul><p><br></p><p><strong><u>Desired Skills</u></strong></p><ul><li><strong>Bachelor's degree</strong></li><li>3+ years of experience</li><li><strong>Knowledge of SQL, Snowflake, Pyspark, and AWS Sagemaker</strong></li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Motion Recruitment\", \"sameAs\": \"https://www.linkedin.com/company/motion-recruitment-partners\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUmO7QFJkx6A/company-logo_200_200/0/1626277947748?e=1637193600&v=beta&t=S06nI_1yHNvZDAXddNn_dlIzXJ1jjIzgawNrcq1PemU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Motion Recruitment\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUmO7QFJkx6A/company-logo_100_100/0/1626277947748?e=1637193600&v=beta&t=MyRAl6oYun9_J9W4MPRLrIJ9JyC6KT_sRbrP4Dbuzlo\", \"industry\": \"Financial Services,Information Technology and Services,Market Research\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Costa Mesa\", \"addressRegion\": \"CA\", \"postalCode\": \"92626\", \"streetAddress\": null}, \"latitude\": 33.663857, \"longitude\": -117.90476}, \"skills\": \"\", \"title\": \"Remote Machine Learning Engineer\", \"validThrough\": \"2021-09-10T15:34:08.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 44, \"maxValue\": 54, \"unitText\": \"HOUR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

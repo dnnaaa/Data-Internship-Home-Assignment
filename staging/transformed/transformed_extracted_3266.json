@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T04:24:58.000Z\", \"description\": \"<p><strong>Responsibilities</strong></p><p>&nbsp;</p><p>The Data &amp; Analytics team provides consumer research, data reporting, and advanced analytics to understand how consumers interact with our video content &amp; other products. This role will focus primarily on reporting and insight generation.</p><ul><li>Apply quantitative expertise ranging from data visualization to advanced statistical models</li><li>Support the analytics needs of clients across the following areas:</li><li>Data Sourcing &amp; Warehousing</li><li>Data Cleaning &amp; Preparation</li><li>Exploratory Analysis </li><li>Visualizations &amp; Monitoring Key Metrics</li><li>Statistical Analysis</li><li>Insight generation</li><li>Assist with the creation of deliverables (e.g. presentations) and messaging to business stakeholders</li><li>Ensure the quality and timeliness of analytic deliverables meet client's expectations</li><li>Contribute and build upon best practices and detailed documentation</li></ul><p>&nbsp;</p><p><strong>Qualifications/Requirements</strong></p><p>&nbsp;</p><ul><li>Bachelor\\u2019s in Statistics, Mathematics, Economics, Computer Science, or related technical field</li><li>3+ years of work experience in Business Intelligence, Analytics, or Data Science space</li><li>Proficient in Python and databases (e.g., SQL, Mongo, etc.)</li><li>Experience with Tableau or similar visualization tool</li><li>Knowledge of statistics and data mining techniques (e.g., Hypothesis testing, regression modeling)</li><li>Proficient in MS Word, Excel, and PowerPoint</li></ul><p>&nbsp;</p><p><strong>Desired Characteristics</strong></p><p>&nbsp;</p><ul><li>Ability to develop clear and concise thoughts into recommendations and findings</li><li>Demonstrated verbal and written communication skills including effective visual representation of complex data</li><li>Experience communicating results of analyses to leadership teams</li><li>Prior experience in content, digital media, and/or technology</li></ul><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"SG Analytics\", \"sameAs\": \"https://in.linkedin.com/company/sg-analytics\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFS4X266f42vw/company-logo_200_200/0/1627503755809?e=1636588800&v=beta&t=sRKXCJOO3QRB6bJ138dyKM0mHN2ML7s1epQ9iZtpvic\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"SG Analytics\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFS4X266f42vw/company-logo_100_100/0/1627503755809?e=1636588800&v=beta&t=EijSpHifsZhtKk3cdRu6SpDKvAwXnirg1lfMjWPq3rA\", \"industry\": \"Research\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"United States\", \"postalCode\": \"13856\", \"streetAddress\": null}, \"latitude\": 42.93923, \"longitude\": -75.62005}, \"skills\": \"\", \"title\": \"Data Scientist (Reporting & Insights)\", \"validThrough\": \"2021-09-09T04:24:58.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

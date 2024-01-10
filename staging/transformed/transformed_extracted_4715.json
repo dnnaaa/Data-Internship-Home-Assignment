@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T00:26:55.000Z\", \"description\": \"<p><strong>Job Description</strong></p><p>Sales Consultant</p><p>Upscale Luxury Retailer looking for part-time portrait sales consultant located in Greenwich CT</p><p>A well-established Portrait Artist looking for a dynamic person to consummate the sale of art pieces. Sales to take place either in our studio Candidate must be well versed in home design, and decorating.</p><p>Applicant must:</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comfortable dealing with the affluent.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 years of sales experience.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professional appearance.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong communications skills.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have reliable transportation.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Detailed oriented.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be able to work Wedensday thru Saturdays.</p><p>.</p><p><br></p><p>All clients are provided. No Solicitation required.&nbsp;<strong>Salary plus commissions and paid benefits Total yearly compensation between $100,000-125,000.</strong></p><p>DO NOT CALL THE STUDIO.</p><p><strong>MUST SUBMIT COVER LETTER AND RESUME FOR CONSIDERATION</strong></p><p>Studio website: www.kramerportraits.com</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Kramer Portraits\", \"sameAs\": \"https://www.linkedin.com/company/kramer-portraits\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEGH65KGxodpg/company-logo_200_200/0/1553700811042?e=1637798400&v=beta&t=pNTOL4JXchQIRw7eeoJOkS5v6YJh7jWyoRyX0UhVlMs\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Kramer Portraits\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEGH65KGxodpg/company-logo_100_100/0/1553700811042?e=1637798400&v=beta&t=2E-esTWT3kQqExMA7h6g2l33ysg-GXvSsT6XZf7q3qg\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Greenwich\", \"addressRegion\": \"CT\", \"postalCode\": \"06807\", \"streetAddress\": null}, \"latitude\": 41.026527, \"longitude\": -73.62855}, \"skills\": \"\", \"title\": \"Sales Consultant\", \"validThrough\": \"2022-02-16T00:26:55.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"associate degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

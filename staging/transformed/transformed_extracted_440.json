@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-12T00:00:00.000Z\", \"description\": \"<strong>An AI engineering company that creates software solutions that go beyond conventional AI is looking for a Senior Machine Learning Engineer to join their team!<br><br></strong>This Jobot Job is hosted by Matt Mahoney<br><br>Are you a fit? Easy Apply now by clicking the \\\"Apply\\\" button and sending us your resume.<br><br>Salary $170,000 - $225,000 per year<br><br><strong>A Bit About Us<br><br></strong>This is a well-funded computer software company that was founded in 2014 and raised a $133M Series C last year. They are an AI/ML focused startup servicing the Energy, Healthcare and Finance sectors by building industrial AI MVPs and POCs for larger corporations. They are looking for a Senior ML Engineer to build modern ML models for their products and work with their software team to deploy and maintain the models in production.<br><br><strong><br><br><strong>Why join us?<br><br></strong></strong><ul><li> Very competitive Base Salary</li><li> Equity</li><li> Yearly Bonus</li><li> Generous PTO</li><li> Full Healthcare Coverage (Medical, Dental, Vision)</li><li> This is an opportunity to join a well-funded and growing Computer Software startup!!<br></li></ul><strong>Job Details<br><br></strong>The ideal candidate has experience with<br><ul><li> Python</li><li> Tensorflow</li><li> PyTorch</li><li> Keras</li><li> Spark</li><li> AWS or Azure (plus)</li><li> Cubflow or MLflow (plus)<br></li></ul>Interested in hearing more? Easy Apply now by clicking the \\\"Apply\\\" button.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Jobot\", \"sameAs\": \"https://www.linkedin.com/company/jobot\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_200_200/0/1620205047267?e=1634169600&v=beta&t=vqsgxn-NaUXW27GWJmkl-5Wz_Zv-fUYG1VV2FgMQOmg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Jobot\", \"value\": \"1539982244\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_100_100/0/1620205047267?e=1634169600&v=beta&t=nAmzm4PFRa9yDbVcAloNmqkLnfWLCzG2rQcdDcZfpBc\", \"industry\": \"Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Glendale\", \"addressRegion\": \"CA\", \"postalCode\": \"91205\", \"streetAddress\": null}, \"latitude\": 34.148136, \"longitude\": -118.24644}, \"skills\": \"\", \"title\": \"Senior Machine Learning Engineer\", \"validThrough\": \"2021-08-11T08:03:20.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

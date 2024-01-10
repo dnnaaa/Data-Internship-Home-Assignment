@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T16:49:56.000Z\", \"description\": \"<p><strong>Company Description</strong></p><p>B-Yond develops AI-based network automation software, delivered via an open platform, enabling Telcos to embrace web scale operational models as they move to 5G and Edge Cloud.</p><p>Job Description</p><p><br></p><p><strong>Data Science \\u2013 Computer Vision:&nbsp;</strong></p><p>You will be working with an enthusiastic team of sports aficionados and a professional league team in developing the next generation of analytics and computer vision based machine learning models for an immersive player experience to elevate their game to the next level. You will be making an impact for player development and the coaching process at the highest level of sports.&nbsp;</p><p><br></p><p><strong>What success looks like...</strong></p><ul><li>Success will be measured by your ability to participate in additional B.Yond projects, by contributing towards our IP portfolio and working with our innovation team while still ensuring customer satisfaction.</li></ul><p><br></p><p><strong>What makes it rewarding\\u2026</strong></p><ul><li>It is a good opportunity to expand in new emerging technologies.</li><li>Being a part of this rising company will lead you to empower yourself and become a part of this journey by helping you develop new innovative skills and pushing your limits.</li></ul><p><br></p><p><strong>Qualifications</strong></p><p><strong>The values we share\\u2026&nbsp;</strong></p><ul><li>DREAM B-YOND. Forward-Thinking, Creative, Boldly Imaginative.&nbsp;</li><li>Be AUTHENTIC. Transparent, Genuine, Self-Confident.</li><li>DEBATE ANYONE. Fearlessly Vocal, Intellectually Stimulating, Thoughtfully Contrarian.</li><li>B-UNSTOPPABLE. Resilient, Relentlessly Driven, Persistent.</li><li>CARE to CREATE WISDOM. Non-judgmental, Thoughtful, Empowering.<strong>&nbsp;</strong></li></ul><p><strong>The Skills and Background You Will Bring...</strong></p><ul><li>Master\\u2019s degree in Computer science, Statistics, Mathematics, or related fields and academic training in Machine Learning/Deep learning</li><li>Proficiency in Python, Open CV, Computer Vision techniques and Image Processing</li><li>Knowledge of C++.</li><li>Geometric math knowledge as related to Computer Vision.&nbsp;</li><li>2 years experience in hands on coding machine learning models and dealing with image data</li><li>Experience with Tensorflow, Pytorch, Opencv</li><li>Project experience with deep learning algorithms with computer vision</li><li>Experience using version control.</li></ul><p><br></p><p>Additional Information</p><p>When applying for the job, take the opportunity to tell us in five sentences or less what makes you the best candidate for this position and for our company, and why B-Yond is a fit for you.</p><p>Please Note: This job description is not intended to be a complete list of all responsibilities, duties or skills and due to the changing nature of the job is subject to review and change at any time, with or without notice. B-Yond uses E-verify and third party background check services, including drug screening, as part of the hiring process.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"B-Yond\", \"sameAs\": \"https://www.linkedin.com/company/b-yond\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG0z4ns7RPE-w/company-logo_200_200/0/1614181151896?e=1635984000&v=beta&t=-eE35HA_3FiOk6Q_hYFC22M179O0maxtC6g3RKIQp58\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"B-Yond\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQG0z4ns7RPE-w/company-logo_100_100/0/1614181151896?e=1635984000&v=beta&t=JJR4ijo1_JnzC7FPnEjJG0WUbpoBq396ZRCCoE_4fd4\", \"industry\": \"Telecommunications\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Greater Phoenix Area\", \"addressRegion\": null, \"postalCode\": \"85003\", \"streetAddress\": null}, \"latitude\": 33.44547, \"longitude\": -112.06631}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-04T16:49:54.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

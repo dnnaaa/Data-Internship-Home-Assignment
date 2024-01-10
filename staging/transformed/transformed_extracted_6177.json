@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-27T05:24:50.000Z\", \"description\": \"<strong><u>Overview<br><br></u></strong>Hunter Engineering Company is a global leader in the development and manufacturing of computer based automotive service equipment. We are in search of an enthusiastic and self-motivated sophomore, junior, or senior with a major or minor in a field of study cohesive with Computer Science/Computer Engineering.<br><br><strong><u>Job Summary<br><br></u></strong>This position will focus on exposing an aspiring software engineer to the total software evolution process from planning to deployment. Our goal is to provide an experience that will be an important, effective first step in the career of a future software engineer.<br><br><strong><u> TIME FRAME : January 2022 \\u2013 May/August 2022 <br><br></u></strong><strong><u>Responsibilities<br><br></u></strong>The individual will be involved in a variety of projects which may include:<br><ul><li> Developing web frontends with frameworks such as React</li><li> Designing functional tests to be automated in a browser</li><li> Unit testing methodologies</li><li> Practice and experiences deploying resources to production</li><li> Development of Azure serverless functions</li><li> Research and prototype using new 3rd party libraries</li><li> Developing web based APIs in C# ASP.NET<br></li></ul><strong><u>Co-Op Gains Experience In<br></u></strong><ul><li> Cloud based development (Azure)</li><li> Varity of open source and Microsoft technologies</li><li> General software development practices such as unit testing, design patterns and clean code.</li><li> Developing software in an agile environment, including user story development, Agile planning, code reviews and self-evaluation.<br></li></ul><strong><u>What To Expect<br><br></u></strong>It will be our intent and purpose to provide the individual with real world experience, which includes assisting in the progression of a product from concept stage to production. The work done by co-ops in this position is applied to actual Hunter products. The work is normally very individualized even if you are working in a larger group. We host many co-ops annually. Our goal is to provide an experience that will be an important, effective first step in the career of a future engineer.<br><br><strong><u>Also Visit Our Website For Testimonials From Previous Co-ops<br><br></u></strong>https://www.hunter.com/about-us/careers/co-op/\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Hunter Engineering Company\", \"sameAs\": \"https://www.linkedin.com/company/hunter-engineering\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGO_U2HbN_AKA/company-logo_200_200/0/1522243744809?e=1638403200&v=beta&t=gViuViEqrRRVqkTuXnduir726q3MP7z8h86d0yZAbYU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Hunter Engineering Company\", \"value\": \"3178\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGO_U2HbN_AKA/company-logo_100_100/0/1522243744809?e=1638403200&v=beta&t=HX6-_kRGIpUWuq9rXvrm0hSWAJp570otRCmdwEzZZUA\", \"industry\": \"Information Technology and Services,Computer Software,Automotive\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Bridgeton\", \"addressRegion\": \"MO\", \"postalCode\": \"63044\", \"streetAddress\": null}, \"latitude\": 38.755707, \"longitude\": -90.4183}, \"skills\": \"\", \"title\": \"Computer Science Co-op\", \"validThrough\": \"2021-09-26T05:24:49.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-27T19:54:49.000Z\", \"description\": \"<p><strong>100% remote, Contract to Hire, W2 only</strong></p><p><br></p><p>The #1 online wine retail store desires passionate Site Reliability Engineers who are fascinated with improving the customer experience by helping them discover great wines from all over the world.</p><p><br></p><p>Envisioned yourself yourself joining the team? Cheers, innovators!</p><p><br></p><p><strong>Top Skills' Details</strong></p><ul><li>AWS Cloud \\u2013 setting up cloud formations, security groups, cloud watch metrics</li><li>Terraform &amp; Kubernetes</li><li>Automation/CM with Ansible and Chef-Python Coding required</li></ul><p><br></p><p><strong>Responsibilities will include, but not be limited to:</strong></p><ul><li>Development of new applications and tools to automate key portions of our production infrastructure</li><li>Development of solutions for the automation of system provisioning and deployment</li><li>Research and implementation of new monitoring systems</li><li>Develop and deploy new tools for the automation of configuration management processes</li><li>Build internal tools for centralized infrastructure management</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"TEKsystems\", \"sameAs\": \"https://www.linkedin.com/company/teksystems\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHvWB-HshcNtA/company-logo_200_200/0/1625161122996?e=1638403200&v=beta&t=5rQkIl3l96-I_kpubibiLRp8HVc0-q9M2SeYHgveFLQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"TEKsystems\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHvWB-HshcNtA/company-logo_100_100/0/1625161122996?e=1638403200&v=beta&t=N1jdIdOg739PDWDwWGaQX3PJqHjfneIA7NSzWzr6kos\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Francisco\", \"addressRegion\": \"CA\", \"postalCode\": \"94121\", \"streetAddress\": null}, \"latitude\": 37.78008, \"longitude\": -122.42016}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-26T19:54:49.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

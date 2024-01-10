@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-12T14:39:01.000Z\", \"description\": \"Job Summary:<br>TEAM<br>The Customer Engagement Platform (CEP) team provides powerful customer experiences across marketing touchpoints by using data and tools to bring marketing to life. The CEP Analytics - Manager I will report to the CEP Manager III, Platform Analytics, who leads both the Advanced Analytics and Business Intelligence functions within the Customer Engagement organization.<br>ROLE<br><strong><u>Overview<br></u></strong>This Data Scientist role on the CEP Platform Analytics team consists of two functions: building data-driven solutions and consulting with partners including leadership. This cast member will focus on delivering data science products. They will employ modeling techniques to build predictive models on guest behavior. They will also apply statistical analysis to validate the effectiveness of using these models or targeted audiences in marketing campaigns. They will consult with partners on how analytics can aid the business, to implement solutions into marketing operations, and to present insights to partners and leadership.<br>Responsibilities:<br>Solutions<br><ul><li>Build predictive models on guest behavior; examples include: likelihood to purchase, likelihood to engage with a marketing message, or estimating spend</li><li>Design and conduct statistical experiments (ex. A/B testing) to measure the effectiveness of our audiences</li><li>Produce insights by using exploratory data analysis or interpreting model results</li><li>Consulting</li><li>Meet with partners to understand requirements and goals</li><li>Identify opportunities to develop or use analytics to meet a business objective</li><li>Educate partners on the proper use of the developed models</li><li>Showcase insights and solutions to partners which highlight added value</li><li>Work with technical partners to source new data or resolve issues with existing data<br></li></ul><strong>Basic Qualifications:<br></strong>We are looking for demonstrated experience applying data science modeling techniques and proper statistical testing methodology to guest behavior (resorts, cruises, theme park tickets, merchandise) and marketing engagement. We desire someone who is comfortable planning, researching, and creating solutions.<br><ul><li>Bachelor\\u2019s degree in Data Science, Statistics, or similar degree</li><li>3+ years of experience using programming languages (Python or R preferred) to build predictive models and to conduct statistical testing with sound experimental design</li><li>3+ years of experience using SQL (Teradata, Hive, or Snowflake)</li><li>Experience communicating technical work to non-technical partners<br></li></ul>Preferred Qualifications:<br><ul><li>Experience using the following machine learning libraries: Scikit-Learn, MLLib, or H2O.ai</li><li>Experience using PySpark<br></li></ul>Required Education<br><ul><li>Bachelor\\u2019s degree in Data Science, Statistics, or similar degree<br></li></ul>833087BR\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Disney Parks, Experiences and Products\", \"sameAs\": \"https://www.linkedin.com/company/disney-parks-experiences-products\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQG622MFpzsmUg/company-logo_200_200/0/1550083767818?e=1637193600&v=beta&t=QkbLsRFb3R5oIxOs24ieHjrNTgPqS4mnsuRowdPTb2s\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Disney Parks, Experiences and Products\", \"value\": \"833087BR\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQG622MFpzsmUg/company-logo_100_100/0/1550083767818?e=1637193600&v=beta&t=CDfru5eK1KHieUrNXRE-G8jdyG_HhzHa9mF46kna7xM\", \"industry\": \"Marketing and Advertising,Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Celebration\", \"addressRegion\": \"FL\", \"postalCode\": \"33805\", \"streetAddress\": null}, \"latitude\": 28.318537, \"longitude\": -81.54239}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-11T14:39:00.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

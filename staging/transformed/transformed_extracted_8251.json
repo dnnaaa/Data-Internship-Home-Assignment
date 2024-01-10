@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-15T14:46:54.000Z\", \"description\": \"<p>Senior Software Engineer (Site Reliability)</p><p><br></p><p><strong>Who are we?</strong></p><p><strong>We are America's Workforce Specialists. The largest light industrial staffing company in the United States and a preeminent resource for professional staffing. We offer local expertise and service through our nearly 600 branches and provide a full range of employment solutions to companies nationwide!</strong></p><p><strong>What are we looking for?</strong></p><p><strong>Our Corporate office is looking for a Senior Software Engineer to join our remote platform engineering team. You will be developing core frameworks, components, and services that will be the foundational pieces for our suite of applications. We are a dynamic team of various skillsets and need someone who has a background in Database administration or Security. This position is 100% remote; the ideal candidate will be based in the Central or Eastern time zone.</strong></p><p><strong>Primary Responsibilities:</strong></p><ul><li>Design, develop, and maintain infrastructure components that will be used to build out our <strong>AWS </strong>cloud infrastructure environments for software engineering teams</li><li>Developing reusable <strong>Terraform</strong> modules that are secured in <strong>GitHub </strong>source control</li><li>Build into and enhance the <strong>continuous integration / continuous delivery</strong> pipelines</li><li>Conduct infrastructure reviews using the <strong>AWS Well Architected Tool</strong></li><li><strong>Exhibit a leadership </strong>style and be a <strong>force multiplier</strong> that helps to grow others around the organization</li><li>Evaluate and integrate application tools into our application ecosystem: Examples: Logging, Monitoring, Feature Toggling, Static Code Analysis, Testing, Secrets Management, Artifact Repository, etc.</li><li>Be a collaborative team player working on an agile <strong>scrum</strong> team</li><li>A curiosity to understand the inner workings of our systems and a focus on <strong>continuous improvement</strong> of our applications and services to ensure the highest level of customer satisfaction</li><li>Participate in agile <strong>scrum</strong> activities and ceremonies</li><li>Provide <strong>production support</strong> for infrastructure and tooling issues that may arise during business hours</li></ul><p> </p><p><strong>Requirements:</strong></p><ul><li>Specific expertise in one of the following areas: <strong>Database Administration or Security</strong></li><li><strong>Solid experience with Terraform</strong></li><li><strong>A passion </strong>for technology and providing <strong>innovative ideas </strong>to help the company be a standout engineering organization in the staffing industry</li><li>Bachelor's Degree in Computer Science, Computer Engineering or related technical experience</li><li><strong>5+ years</strong> of relevant, <strong>hands-on</strong> software engineering experience</li><li>Experience working on <strong>enterprise-level</strong> applications</li><li>Experience with the application build process and integration and deployments to on-prem and cloud environments like <strong>AWS</strong></li><li><strong>Experience building core components and services for alerting, monitoring, logging, builds, deployments, authentication, authorization, and many more</strong></li><li><strong>Ability to work in a team environment independently, pairing, and possibly doing mob programming</strong></li><li><strong>Experience evaluating and implementing best practices tools and techniques for software development, leading code reviews, and coaching/mentoring engineers</strong></li><li><strong>Experience supporting AWS production environments</strong></li></ul><p> </p><p><strong>Pluses</strong>:</p><ul><li>Cloud certification in AWS</li><li>Administering managed database services in AWS</li><li>Familiar with security tooling from Palo Alto \\u2013 Prima Cloud, Cortex XDR, Panorama</li><li>Experience with Configuration Management tools such as Ansible</li><li>Experience with CI/CD tools such as Github Retrieve, Jenkins or Gitlab</li></ul><p> </p><p> </p><p>EmployBridge offers a competitive benefits package, which includes: comprehensive Health coverage including Medical/Dental/Vision and prescription drug benefits, 401(k), paid time off and holidays, flexible spending accounts, and a wellness program.</p><p>EmployBridge is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.</p><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"EmployBridge\", \"sameAs\": \"https://www.linkedin.com/company/employbridge\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFcXRJ7QzqiLw/company-logo_200_200/0/1544635527864?e=1642636800&v=beta&t=H1Mph19BE612yWH05i26PThA7Dox7qaEGwHQvaQbf-g\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"EmployBridge\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFcXRJ7QzqiLw/company-logo_100_100/0/1544635527864?e=1642636800&v=beta&t=icJ_hDT4sl5hxl3hUW1-EwtzabZTYFB4WR59QDRsicc\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Senior Site Reliability Engineer\", \"validThrough\": \"2021-11-14T14:46:52.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-29T09:40:50.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience with containers and container management platforms such as Kubernetes.<br><br>Familiarity with workflows system and state convergence model.<br><br>Familiarity with Software as a Service.<br><br>Familiarity with Postgres technologies.<br><br> <br><strong>Description<br></strong> <br>We are a software development team that develops and operates large scale database services such as Cassandra, Redis and Postgres. Our work involves the development of the control plane and infrastructure to operate these databases at scale. We are currently building new infrastructure to operate relational databases at scale, starting with Postgres. We are in the process of building a team of software engineers to help us accomplish this goal.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS in Computer Science / related fields or equivalent work experience.<br><br> <br>Role Number: 200230357<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1638403200&v=beta&t=fztHDdah6alKEJBjnjpaCS7GsvSz07aaYwwaD1dTur0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200230357_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1638403200&v=beta&t=J8feyXF2f4Ojj8PNfcpBiA1oxoR75sGD-ApvOnPI0KQ\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Cupertino\", \"addressRegion\": \"CA\", \"postalCode\": \"95014\", \"streetAddress\": null}, \"latitude\": 37.319313, \"longitude\": -122.02927}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-28T09:40:48.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 117000, \"maxValue\": 200000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-13T11:55:16.000Z\", \"description\": \"<strong>Work with the best in the industry on underwater vehicles!<br><br></strong>This Jobot Job is hosted by Tori Bender<br><br>Are you a fit? Easy Apply now by clicking the \\\"Apply\\\" button and sending us your resume.<br><br><strong>A Bit About Us<br><br></strong>Our client is changing the world through the development of ocean-based vehicles. They are transforming the way ocean data is collected and distributed worldwide, allowing scientists, engineers, and governments access to insights that were previously unobtainable.<br><br>You\\u2019ll be a part of a team taking on earth\\u2019s last frontier!<br><br><strong><br><br><strong>Why join us?<br><br></strong></strong><ul><li>100% of benefits are covered for employees. </li><li>Equity<br></li></ul><strong>Job Details<br><br></strong>Your role<br><ul><li> Build Machine Learning models for various data sets</li><li> Design and implement reports and quality visualizations of accuracy</li><li> Produce documentation and presentations </li><li> Work alongside other engineers to build an end-to-end data processing pipeline<br></li></ul><strong>Skills Required<br></strong><ul><li> Proficiency in various machine learning models (SVM, KNN, and CNN)</li><li> Detailed understanding of Python and associated learning libraries</li><li> Knowledge and use of databases</li><li> Experience with producing real-world ML results<br></li></ul>What we\\u2019d like to see<br><ul><li> Show us evidence of your exceptional ability. Go ahead, brag!</li><li> Industry Experience in Machine learning</li><li> Independent project that demonstrates software proficiencies<br></li></ul>Nice to have<br><ul><li> Master's Degree, or equivalent experience, in a STEM field<br></li></ul>ITAR Requirements<br><br>To conform to U.S. Government space technology export regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by ITAR (22 CFR<br><ul><li>120.15) or eligible to obtain the required authorizations from the U.S. Department of State.<br></li></ul>Interested in hearing more? Easy Apply now by clicking the \\\"Apply\\\" button.<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Jobot\", \"sameAs\": \"https://www.linkedin.com/company/jobot\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_200_200/0/1620205047267?e=1634169600&v=beta&t=vqsgxn-NaUXW27GWJmkl-5Wz_Zv-fUYG1VV2FgMQOmg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Jobot\", \"value\": \"354009307\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_100_100/0/1620205047267?e=1634169600&v=beta&t=nAmzm4PFRa9yDbVcAloNmqkLnfWLCzG2rQcdDcZfpBc\", \"industry\": \"Defense & Space\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Huntington Beach\", \"addressRegion\": \"CA\", \"postalCode\": \"92605\", \"streetAddress\": null}, \"latitude\": 33.659775, \"longitude\": -117.99931}, \"skills\": \"\", \"title\": \"Data Scientist - Python/Machine Learning\", \"validThrough\": \"2021-08-12T11:55:15.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

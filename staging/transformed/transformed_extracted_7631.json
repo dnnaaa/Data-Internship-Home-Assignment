@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:49:30.000Z\", \"description\": \"<p>Leading Financial Industry Client, perennially recognized by Forbes, WSJ and others as one of America\\u2019s best employers seeks highly qualified Senior Network Engineer with significant experience in the design, installation, configuration, integration, and automation of firewalls, switches, routers, fabrics, and other data center technologies. <strong>This is a FULL-TIME career opportunity, and NO SPONSORSHIP is available. </strong></p><p><strong>&nbsp;</strong></p><p><strong>Basic Qualifications:</strong></p><ul><li>Requires a technical BS degree and 8 - 12 years of prior relevant experience or Masters with 6 - 10 years of prior relevant experience.</li><li>Senior Level Network and Firewall Administration/Engineer knowledge (Palo Alto, Cisco, etc.)</li><li>Must have network and firewall engineering experience with designing, implementation, and maintaining Layer 2 and 3 networking devices and/or firewall devices such as Juniper, Dell, Cisco, Fortinet, or Palo Alto</li><li>Working knowledge of network features and protocols</li><li>System/Network Monitoring experience</li></ul><p><strong>&nbsp;</strong></p><p><strong>Desired Qualifications:</strong></p><ul><li>Next Generation Firewall (NGFW) experience (CISCO, Palo Alto, etc)</li><li>Network Terminal Access Point (TAP) experience</li><li>IDP/IPS/DPI experience (Host Based/Network Based/NGFW)</li><li>Network Certifications</li><li>Cisco (CCNA or higher)</li><li>Palo Alto (PCNSA or higher)</li><li>Knowledge of networking infrastructure suppliers and service offerings including; Cisco, Fortigate, Force10, Dell PowerConnect, F5 Networks, Juniper, Checkpoint, Palo Alto</li><li>Familiarity with task automation</li><li>Familiarity in remote administration (SCCM, SSLVPN, SSH, Remote Desktop)</li><li>Must be able to work collaboratively with other system administrators, system engineers, and network engineers in a team environment</li></ul><p><br></p><p>This is a full time, direct hire position offering career advancement, top notch medical, competitive compensation with a pension and many more tangible benefits!</p><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Kane Partners LLC\", \"sameAs\": \"https://www.linkedin.com/company/kane-partners-llc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEti33Nr1AxYg/company-logo_200_200/0/1605835069433?e=1641427200&v=beta&t=y5BQIQzLpNaRfVpdC8m16nB2RZsGTrsW07mUANZvYtc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Kane Partners LLC\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEti33Nr1AxYg/company-logo_100_100/0/1605835069433?e=1641427200&v=beta&t=SDolfPvhIajXLkm28kaerm0mPfCfbE16kpgcgZgFLHc\", \"industry\": \"Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"King of Prussia\", \"addressRegion\": \"PA\", \"postalCode\": \"19406\", \"streetAddress\": null}, \"latitude\": 40.08832, \"longitude\": -75.382126}, \"skills\": \"\", \"title\": \"Senior Network Engineer\", \"validThrough\": \"2021-11-04T17:49:30.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 96}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 120000, \"maxValue\": 160000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

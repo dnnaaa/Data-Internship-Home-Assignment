@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:27:45.000Z\", \"description\": \"<strong><u>Description<br><br></u></strong><em>Position at Premier Research<br><br></em>Premier Research helps highly innovative bio-pharmaceutical and medical device companies transform life-changing ideas into reality. We take on the most challenging areas of study, with a special focus on unmet needs in such areas as Oncology, Analgesia, CNS, Rare Diseases, Dermatology and Pediatric Research.<br><br>We\\u2019re looking for a talented and innovative <strong>Invoice Specialist</strong> to join our dynamic team!<br><br>Working at Premier Research means being an individual - you will be recognised for your expertise and you will truly have an impact. You will be working in an aspiring and empowering environment with colleagues who are genuinely supportive regardless of location or seniority. Premier Research is on an exciting journey - there is a true buzz throughout the company, so come and be part of it!<br><br><strong><u>Role Responsibilities<br></u></strong><ul><li>Oversee investigator payment reimbursement</li><li>Review, verify, and approve invoices in accordance with standard operating procedures</li><li>Ensure additional necessary invoice approvals are obtained from management as required</li><li>Responsible for querying anomalies on invoices and escalating to appropriate individual(s)</li><li>Track invoice statuses in Microsoft Excel and provide standard and ad hoc reports to management</li><li>Track individual workload in Microsoft Excel template and provide monthly workload metrics to management.</li><li>Perform additional duties as assigned.<br></li></ul><strong><u>Role Requirements<br></u></strong><ul><li>Bachelor degree, or international equivalent from an accredited institution, preferably in a financial field, or equivalent combination of education, training and experience</li><li>1 to 5 years of practical experience processing invoices for clinical trial sites, clinical trial investigators, clinical research organizations, pharmaceutical companies, or medical device companies. Alternately, must have proven experience in all primary job functions.</li><li>Demonstrates excellent English verbal and written communication skills</li><li>Excellent computer skills in a Microsoft Windows environment including proficiency in the Microsoft Office Suite of tools (eg - Outlook, Work, Excel, etc)</li><li>Proven ability to drive a successful customer experience through positive customer interactions, provision of quality and timely deliverables, and task ownership</li><li>Strong analytical and organization skills, able to work independently and manage multiple projects simultaneously in a fast-paced environment with changing priorities</li><li>Previous project management experience preferred</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Premier Research\", \"sameAs\": \"https://www.linkedin.com/company/premier-research\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHEqcjHA_e5_A/company-logo_200_200/0/1519896017191?e=1637798400&v=beta&t=I4jJ6XqSyS8oTir-RrAANoG_olQKMXgGOzEES0VpB7I\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Premier Research\", \"value\": \"oTWHgfww\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHEqcjHA_e5_A/company-logo_100_100/0/1519896017191?e=1637798400&v=beta&t=6lSRwdvuxacxVEVL2Vcny0C2dU7W39veuSrNdFDpnvM\", \"industry\": \"Biotechnology,Hospital & Health Care,Pharmaceuticals\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Invoice Specialist - Remote\", \"validThrough\": \"2021-09-24T17:27:44.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"associate degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

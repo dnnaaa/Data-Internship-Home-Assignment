@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-18T05:41:58.000Z\", \"description\": \"<strong>Description<br><br></strong><strong>Company Overview<br><br></strong>Shamrock Trading Corporation is the parent company for a family of brands in transportation services, finance and technology. Headquartered in Overland Park, KS, Shamrock has consistently been named \\u201cBest Places to Work\\u201d by the <em>Kansas City Business Journal.</em> We also have offices in Chicago, Dallas, Laredo, Midland, Nashville, and Atlanta.<br><br>With an average annual revenue growth of 25% since 1986, Shamrock\\u2019s success is attributed to three key factors: hiring the best people, cultivating long-term relationships with our customers and continually evolving in the marketplace.<br><br><strong>Responsibilities<br><br></strong>Shamrock Trading Corporation is looking for a Site Reliability Engineer to join the Development team. The Site Reliability Engineer will focus on collaborating with software developers and other IT staff members to design new internal solutions that increase operational efficiency. An ideal candidate will be a detail-oriented problem solver with proven experience. The Site Reliability Engineer should be familiar with multiple CI/CD processes and tools and be able to guide developers in the SDLC.<br><ul><li>Design and implement deployment pipelines </li><li>Monitor, troubleshoot, and upgrade database servers (Mongo, Postgres, SQL Server) </li><li>Partner with internal service owners and teams to evaluate technical data, plan and execute service upgrades and changes </li><li>Develop tools and solutions to increase the operational efficiency of the Development Team with a focus on building strong working relationships </li><li>Monitor mission critical systems, creating alerts on performance metrics to identify resource constraints </li><li>Act as Subject Matter Expert for cloud infrastructure, guiding the Development Team using best practices <br><br></li></ul><strong>Qualifications<br></strong><ul><li>Bachelor\\u2019s degree in computer science, engineering or a related technical field, or equivalent practical experience </li><li>Experience with cloud-based infrastructure (e.g. AWS, GCP, Azure) </li><li>Experience in automation with scripting or programming languages (e.g. Bash, Python, Java, JavaScript) </li><li>Familiar with the system administration of various operating systems (e.g. Linux, macOS, iOS, Android, Windows) </li><li>Knowledge of networking and web standards (e.g. DNS, DHCP, TCP/IP, HTTP, web security mechanisms, proxies, firewalls, load balancers) </li><li>Systematic problem-solving approach coupled with a strong sense of ownership and drive</li><li>Adaptable to changing priorities</li><li>Ability to prioritize work effectively </li><li>Strong communication and leadership skills </li><li>Preferred but not required qualifications include: </li><li>Experience building and deploying products in AWS </li><li>Experience with deployment and orchestration technologies (e.g. Docker, Kubernetes, OpenStack, Puppet, Chef, Gradle) </li><li>Experience with continuous integration systems and build and deployment automation (e.g. Jenkins, CodeBuild, CodeDeploy) </li><li>Strong understanding of complex IT infrastructure and ability to troubleshoot issues </li><li>Understanding of IT change management best practices </li><li>Ability to make progress when high ambiguity and uncertainty exist<br><br></li></ul><strong>Benefits Package<br><br></strong>At Shamrock we hire bright, ambitious people and give them the tools they need to be successful. By investing in training and development, we hope to become a long-term career for employees, where there are always opportunities for advancement. Shamrock also offers a premier set of benefits for employees and their families:<br><ul><li>Medical: Fully-paid healthcare, dental and vision premiums for employees and eligible dependents </li><li>Financial: Generous company 401(k) contributions and employee stock ownership after one year </li><li>Wellness: Onsite gym, jogging trail and discounted membership to nearby fitness center </li><li>Work-Life Balance: Competitive PTO and paid leave options</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Shamrock Trading Corporation\", \"sameAs\": \"https://www.linkedin.com/company/shamrock-trading-corp-\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGvks6ALpFAUA/company-logo_200_200/0/1568055828313?e=1642636800&v=beta&t=PR-vLTK5iOwZlSRfjTjyyTwpJc6_BIHwq4Vbmon4aPE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Shamrock Trading Corporation\", \"value\": \"otyZgfw0\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGvks6ALpFAUA/company-logo_100_100/0/1568055828313?e=1642636800&v=beta&t=zMxUwrkhHrUQzSaMzzGr4MBt98BaHNwqggApHApYdE0\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Overland Park\", \"addressRegion\": \"KS\", \"postalCode\": \"66214\", \"streetAddress\": null}, \"latitude\": 38.97482, \"longitude\": -94.6836}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-11-17T05:41:58.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 84600, \"maxValue\": 122000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

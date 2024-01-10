@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T13:34:42.000Z\", \"description\": \"<p>Optomi in partnership with a major sports association who is looking for a junior level Full Stack Developer. This association is looking for someone eager and willing to have all hands on deck. The ideal candidate will work well in a collaborative environment and obtain great communications skills. Join a team of proud, passionate, and caring people that together share their diverse talents and backgrounds to serve the members of the association.&nbsp;</p><p>&nbsp;</p><p><strong>Must Have Skills/ Requirements:&nbsp;</strong></p><ul><li>Bachelor\\u2019s Degree (B.S.) in Computer Programming, Computer Science or related field.&nbsp;</li><li>2+ years experience.</li><li>Full stack development experience.</li><li>Has worked with Ruby on Rails.&nbsp;</li><li>Test driven development.</li><li>Web frameworks.</li></ul><p><br></p><p><strong>What The Candidate Will Enjoy:</strong></p><ul><li>Working for a major sports association to design, develop, test, deploy, maintain and improve software!</li><li>Managing individual project priorities, deadlines and deliverables!</li><li>Helping build a world-class team and cultivate innovation!</li><li>Leading designs of major software components, systems, and features!</li><li>Mentoring and training other team members on new technologies, design techniques, and coding standards!</li></ul><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Optomi\", \"sameAs\": \"https://www.linkedin.com/company/optomi\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGb014gz3grZQ/company-logo_200_200/0/1521046050702?e=1637193600&v=beta&t=NveT-xk-sQIHDZjhct93jlY4tHvhWTf4Zsi54_yZV4U\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Optomi\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGb014gz3grZQ/company-logo_100_100/0/1521046050702?e=1637193600&v=beta&t=RWmvbe9ZK8WPH0pwRFhQF8059XNz0giDP23RuPgadWE\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dallas-Fort Worth Metroplex\", \"addressRegion\": null, \"postalCode\": \"75049\", \"streetAddress\": null}, \"latitude\": 32.7513, \"longitude\": -97.08263}, \"skills\": \"\", \"title\": \"Full Stack Software Engineer \", \"validThrough\": \"2021-09-16T13:34:41.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

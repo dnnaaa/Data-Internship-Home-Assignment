@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T17:39:21.000Z\", \"description\": \"<p><strong><u>SUMMARY: </u></strong></p><p>The Data Engineer is primarily responsible for organizing, processing, and storing data from different databases. This position will be in charge of reporting and analyzing patterns in datasets and identifying ways to implement and improve internal processes. The Data Engineer will manage databases and data pipelines to support infrastructure needs. </p><p>&nbsp; </p><p><strong><u>ESSENTIAL FUNCTIONS AND RESPONSIBILITIES</u></strong>: </p><p>&nbsp; </p><ul><li>Help design and build the new CollisionRight data platform, from data ingestion through ELT and data visualization and reporting </li><li>Collaborate with business partners to define and develop a common data model that supports the vision and mission of the company </li><li>Develop and support all aspects of the data orchestration processes, from data ingestion through data transformation into the business layer </li><li>Balancing of incoming requests and issues, debugging and troubleshooting data issues, and communication to users and stakeholders of status </li><li>Work directly with users to define and support their data reporting and business intelligence reporting requirements </li><li>Recommend and select new data and analytics technologies to support user requirements </li><li>Work collaboratively with functional teams that are building and developing reports and dashboards </li><li>Work directly with business users on the definition and standardization of key metrics and measures of CollisionRight\\u2019s operational performance </li><li>Drive the adoption of data governance and data hygiene across the company to drive consistent and clean data in the new data platform </li></ul><p><strong><u>&nbsp;</u></strong> </p><p><strong><u>QUALIFICATIONS: </u></strong></p><ul><li>Bachelor\\u2019s degree in Computer Science, Statistics, Information Systems or another quantitative field </li><li>5+ years of experience of relative experience </li><li>Experience building and optimizing data pipelines, architectures and data sets </li><li>Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc. </li><li>Strong expertise in understanding data modeling involving logical and physical data model </li><li>Advanced working SQL knowledge and experience working with databases </li><li>Excellent written and verbal communication skills </li><li>Exceptional customer service skills </li><li>Ability to work in a fast-paced environment </li></ul><p><br> </p><p><br> </p><p>This position description is intended to be dynamic and subject to change.  Position requirements and essential functions may be altered from time to time based upon the needs of the organization and department. This position may be required to execute special projects or other related duties on occasion. </p><p>&nbsp; </p><p>&nbsp; </p><br><p><br> </p><p>Job Type: Full-time</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"CollisionRight\", \"sameAs\": \"https://www.linkedin.com/company/collisionright\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGcLRf8X2baAA/company-logo_200_200/0/1605725896957?e=1637798400&v=beta&t=TXquJ7l-Uxay3akGWblOcxhG0K80HFu2XE0Erbz7hlc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"CollisionRight\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQGcLRf8X2baAA/company-logo_100_100/0/1605725896957?e=1637798400&v=beta&t=vzKFT9im4RU_vyFC1_yJiiToc3A7C3dpV6o3K0zr8qg\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Columbus\", \"addressRegion\": \"Ohio Metropolitan Area\", \"postalCode\": \"43206\", \"streetAddress\": null}, \"latitude\": 39.978302, \"longitude\": -82.99313}, \"skills\": \"\", \"title\": \"Data Engineer\", \"validThrough\": \"2022-02-21T17:34:52.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

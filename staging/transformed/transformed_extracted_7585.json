@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:37:32.000Z\", \"description\": \"<p>The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-player. You will be a lead developer responsible for the development of new software products and enhancements to existing products. You should excel in working with large-scale applications and frameworks and have outstanding communication and leadership skills.\\u00a0</p><p>\\u00a0</p><strong>Responsibilities</strong><ul><li>Writing clean, high-quality, high-performance, maintainable code </li><li>Develop and support software including applications, database integration, interfaces, and new functionality enhancements </li><li>Coordinate cross-functionally to insure project meets business objectives and compliance standards </li><li>Support test and deployment of new products and features </li><li>Participate in code reviews</li></ul><p><strong><br></strong></p><p><strong>Qualifications</strong></p><p><ul><li>Bachelor's degree in Computer Science (or related field) </li><li>3+ years of relevant work experience </li><li>Expertise in Object Oriented Design, Database Design, and XML Schema </li><li>Experience with Agile or Scrum software development methodologies </li><li>Ability to multi-task, organize, and prioritize work</li></ul></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Modis\", \"sameAs\": \"https://ch.linkedin.com/company/modis\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_200_200/0/1603190267070?e=1641427200&v=beta&t=dVEs9_5YiKGOHeP07chUsENI-0RHmmhsd_JoxtXh20Q\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Modis\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_100_100/0/1603190267070?e=1641427200&v=beta&t=MNsoobRnAIzeVv-ngwoLPwfgqO_K2JZyluU-KvlFIak\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Michigan\", \"addressRegion\": \"United States\", \"postalCode\": \"48832\", \"streetAddress\": null}, \"latitude\": 44.874798, \"longitude\": -85.73098}, \"skills\": \"\", \"title\": \"Senior Software Engineer\", \"validThrough\": \"2021-11-04T17:37:31.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 93600, \"maxValue\": 119000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

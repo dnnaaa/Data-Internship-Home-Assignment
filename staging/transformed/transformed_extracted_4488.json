@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T17:51:17.000Z\", \"description\": \"<p><strong>What we do:</strong></p><p>Uptake is the premier Industrial AI company, providing a predictive analytics SaaS platform that empowers major industry leaders to optimize performance, reduce asset failures, and enhance safety. At Uptake, we combine our strengths \\u2014 machine learning, analytics, data visualization, and software development \\u2014 to deliver actionable insights that make industry more reliable, productive, safe and secure.</p><p><strong>What Data Scientists Do Here:&nbsp;</strong></p><p>Data science is at the core of what we do at Uptake. We collaborate with customers, engineering, product, and other teams to contribute insights and data science best practices to all parts of the business.</p><p>Typical day to day tasks for a data scientist might include:</p><ul><li>Collaborating with sales and customers to analyze problems and assess needs.</li><li>Data readiness assessments for customers.</li><li>Learning a new programming language or data science technique - we continually build our skills and explore new things.</li><li>Building, testing, and deploying supervised or unsupervised learning models.</li><li>Writing data analysis reports for internal use.</li><li>Building tools to enable other data scientists to scale their knowledge and increase impact.</li><li>Working with customers to develop analyses that help them solve business problems and drive value.</li><li>Building and deploying models to cloud based solutions for customers</li><li>Presenting exploratory and modeling results to a customer</li></ul><p>What We Are Looking For:</p><ul><li>Bachelor's degree or higher in a relevant field</li><li>3-5 years experience, preferably in an analytical and client facing role</li><li>Passion for data science! We want candidates who love data science and are excited about what they do.</li><li>Some ways previous successful candidates have demonstrated this are by:&nbsp;</li><li>Writing relevant blog posts and/or articles.</li><li>Participating in relevant online communities.</li><li>Expressing detailed knowledge of and genuine interest in Uptake\\u2019s unique methods, products, data, and technology within a cover letter.</li><li>Ability to write sophisticated machine learning and data analysis code in Python or R</li><li>Some ways previous successful candidates have demonstrated this are by:&nbsp;&nbsp;</li><li>Contributing to influential Open Source Projects like sklearn, XGBoost, tidyverse, Tensorflow, pytorch, Kafka, Spark, Elasticsearch etc.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Uptake\", \"sameAs\": \"https://www.linkedin.com/company/uptake\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHZZAgv2Qte8A/company-logo_200_200/0/1626111874834?e=1637193600&v=beta&t=rBgRfYsDbbNXOT88eCVuTNnzziv2G89sIL0yvKqVBYo\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Uptake\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHZZAgv2Qte8A/company-logo_100_100/0/1626111874834?e=1637193600&v=beta&t=-M8zFoj92nfZ6dX3wPIhsr71HYv5ZLvZ0Hy-BGjdxfY\", \"industry\": \"Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Chicago\", \"addressRegion\": \"IL\", \"postalCode\": \"60654\", \"streetAddress\": null}, \"latitude\": 41.88323, \"longitude\": -87.6324}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-17T17:51:17.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

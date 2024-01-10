@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-19T18:52:16.000Z\", \"description\": \"<p><strong>Machine Learning Engineer - Aliso Viejo, CA</strong></p><p><strong>AWM Smart Shelf </strong>is reinventing retail and looking for smart, talented people to work on building exciting applications. The initial focus of this position is working on AWM Frictionless which is a cashierless-shopping solution for shoppers to be able to grab what they want from a store and simply walk out.</p><p><br></p><p>Our solution uses real-time computer vision and deep learning to determine what shoppers take. We're looking for a Machine Learning Engineer to run with the selection, training, and evaluation of our item and action recognition models.</p><p><br></p><p>If your ML background is not in image processing, but something like NLP or finance, you may still be a great fit! We\\u2019re looking for nimble, practical problem solvers and we value a diversity of perspectives.</p><p><br></p><p>We tinker, experiment, and hack on many different approaches and love people who aren't afraid to jump around. A successful Machine Learning Engineer will rapidly iterate \\u2013 failing fast to identify the most promising paths forward.</p><p><br></p><p>If this sounds like fun, we'd love to hear from you!</p><p><br></p><p><strong>THE JOB</strong></p><ul><li>Implement machine learning models for item classification and action recognition</li><li>Ability to evaluate model performance and monitor the training process</li><li>Adapt existing models to better handle problems specific to our domain</li><li>Integrate models into our production pipeline for real-time processing</li><li>Test cutting-edge models on our custom datasets</li></ul><p><br></p><p><strong>WHO YOU ARE</strong></p><ul><li>Someone who executes \\u2013 a focus on action and results - can self-manage to timelines and deliver</li><li>Practical coding knowledge (Python preferred) to quickly iterate on training and testing models</li><li>Understanding of CNNs and the tradeoffs of different architectures</li><li>Knowledge of best practices in machine learning</li></ul><p><br></p><p><strong>NICE TO HAVE</strong> (but not mandatory)</p><ul><li>Experience with video data</li><li>Experience with distributive training in the cloud</li><li>Experience with sequence modeling</li><li>Relevant education in an undergraduate or graduate program</li></ul><p><br></p><p><strong>WHAT WE OFFER</strong></p><ul><li>A dynamic environment where you can make an impact using the latest technologies</li><li>Paid vacation and sick time</li><li>Health benefits</li><li>Opportunity for growth</li><li>401k plan</li><li>Potential for employee stock option plan participation</li></ul><p><br></p><p><strong>**PLEASE APPLY TO BE CONSIDERED**</strong></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"AWM Smart Shelf\", \"sameAs\": \"https://www.linkedin.com/company/awm-smart-shelf\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQEs8F4_OdBTsQ/company-logo_200_200/0/1602693665676?e=1637798400&v=beta&t=3EJIaNFYxHSw7slnzr45QRGwyvkl8WhYmtz-k2mSD-0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"AWM Smart Shelf\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQEs8F4_OdBTsQ/company-logo_100_100/0/1602693665676?e=1637798400&v=beta&t=uXRQNkaG_LuUvqAWFk9E8-QVbDRynzUeuGFMkqEWoms\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Aliso Viejo\", \"addressRegion\": \"CA\", \"postalCode\": \"92656\", \"streetAddress\": null}, \"latitude\": 33.569595, \"longitude\": -117.72637}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2022-02-15T18:52:16.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

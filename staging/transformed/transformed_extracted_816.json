@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-13T07:57:21.000Z\", \"description\": \"Cerebral Staffing, LLC is seeking a <strong>SAP ABAP Software Engineer</strong> to work at our direct client <strong>John Deere in Moline, IL.<br><br></strong>SAP ABAP with focus on FICO and Sales &amp; Distribution (SD)<br><br>Required Skills:<br><ul><li>5+ years of experience in developing using core SAP ABAP. This includes using OOP and all SAP enhancement techniques</li><li>2+ years of experience in HANA data modeling using Hana Studio. This includes creating and maintaining attribute, analytic and calculation views</li><li>2+ years of experience in development using Fiori/UI5</li><li>2+ years of experience working with IDocs, Proxies, and Webservices</li><li>2+ years of experience in developing in Gateway, and OData technologies</li><li>2+ years of functional and technical experience in FICO and SD modules<br><br></li></ul><strong><u>Desired Skills/Experience<br></u></strong><ul><li>1+ years of experience configuring, developing, and/or troubleshooting PI interfaces</li><li>1+ years of functional and technical experience the following core SAP modules SD, FICO and MM.</li><li>1+ years of experience in cloud development with platforms like AWS, Azure, SAP Cloud Platform</li><li>1+ years of experience working with agile software design methodology for development and documentation<br></li></ul><strong>Cerebral Staffing offers health/vision/dental insurance, Paid Holiday/PTO short-time disability, 401k and paid life insurance<br><br></strong>Powered by JazzHR<br><br>jNaIdRZsdV\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Cerebral Staffing, LLC\", \"sameAs\": \"https://www.linkedin.com/company/cerebral-staffing-llc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQE6uyF9r7YVaA/company-logo_200_200/0/1559582564727?e=1634774400&v=beta&t=KISRYwf8YMc-V9C95aNOxMAmpTvDCgrZzSw8A4klVjU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Cerebral Staffing, LLC\", \"value\": \"2849074\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQE6uyF9r7YVaA/company-logo_100_100/0/1559582564727?e=1634774400&v=beta&t=9FeaCzI0Y1UARS49HJXUPokBO9tFVGphlJ09E2-y3E4\", \"industry\": \"Information Technology and Services,Staffing and Recruiting,Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Moline\", \"addressRegion\": \"IL\", \"postalCode\": \"61266\", \"streetAddress\": null}, \"latitude\": 41.492226, \"longitude\": -90.48927}, \"skills\": \"\", \"title\": \"SAP ABAP Software Engineer\", \"validThrough\": \"2021-08-12T07:57:21.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 93600, \"maxValue\": 148000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

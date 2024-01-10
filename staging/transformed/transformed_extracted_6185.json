@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-27T05:12:53.000Z\", \"description\": \"<strong>Engineering Manager, Data and Storage Infrastructure<br><br></strong>\\\"The front page of the internet,\\u201d Reddit brings over 500 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities. Come for the cats, stay for the empathy.<br><br>The Infrastructure org has the mission of building and delivering the compute orchestration environment, storage and data systems, and essential platform services behind all of Reddit.<br><br>The Infrastructure organization is looking to hire an experienced Engineering Manager, to take on and grow a team around Reddit\\u2019s core storage and data systems. This is a high impact role where you will drive related technical strategy, operations, architecture, and execution for one of the largest sites in the world.<br><br><strong><u>What You\\u2019ll Do<br></u></strong><ul><li>Build, hire and lead a high-calibre team of software engineers and systems engineers.</li><li>Design, engineer and deliver the core data infrastructure services used by all of Reddit\\u2019s products. </li><li>Be responsible for setting and maintaining availability, scalability, latency, and efficiency SLOs.</li><li>Lead, coordinate, and execute a coherent vision for storage and data infrastructure that supports and enables Reddit\\u2019s growth into new product capabilities. </li><li>Coach and mentor engineers on the team to further their professional development.</li><li>Set and support a culture of metrics driven quality, with efficient processes and strong transparency. <br><br></li></ul><strong><u>Who You Might Be<br></u></strong><ul><li>3+ years experience of managing a team of software engineers.</li><li>5+ years of experience developing internet-scale software, preferably in data infrastructure roles.</li><li>Professional experience and capability with cloud infrastructure systems (Kuberrnetes, AWS, GCE).</li><li>Strong experience in data infrastructure systems; </li><li>Strong track record of managing a team including hiring, onboarding, and professional development.</li><li>Software development experience in one or more general purpose programming languages; Python, Go, Rust, Java, C++.</li><li>Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.</li><li>BS degree in Computer Science, similar technical field of study or equivalent practical experience.<br><br></li></ul><em>Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at </em><em>ApplicationAssistance@Reddit.com</em><em>.</em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Reddit, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/reddit-com\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEzV9LPApcc8A/company-logo_200_200/0/1606770242614?e=1638403200&v=beta&t=aqdu5YxkDWrQqK-A8W4UMs9Qs2LdZs3fwq9qPgD2wgM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Reddit, Inc.\", \"value\": \"2348687\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEzV9LPApcc8A/company-logo_100_100/0/1606770242614?e=1638403200&v=beta&t=-bYNVEuQgVe4M_M7Nof9eZ1rStwN_hmdxXSLUsLh4nE\", \"industry\": \"Marketing and Advertising,Computer Software,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"United States\", \"postalCode\": \"13856\", \"streetAddress\": null}, \"latitude\": 42.93923, \"longitude\": -75.62005}, \"skills\": \"\", \"title\": \"Senior Engineering Manager, Storage Infrastructure\", \"validThrough\": \"2021-09-26T05:12:53.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

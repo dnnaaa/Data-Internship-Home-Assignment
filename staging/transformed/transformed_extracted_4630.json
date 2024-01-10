@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T14:45:34.000Z\", \"description\": \"<p><strong><u>Details are as follows:</u></strong></p><p><strong>Job position: Site Reliability Engineer Lead</strong></p><p><strong> </strong>Location : Remote</p><p>Duration: 12 months+ [Long term]</p><p>Immediate Interview/ Start</p><p><br></p><p> <strong><u>**Please NOTE: We have positions open in CANADA and US both **</u></strong></p><p><br></p><ul><li>10+ years Total IT experience.</li><li><strong>Healthcare experience is required </strong></li><li><strong>Experience of at least 5 years within an Enterprise SRE configuration (Mandatory)</strong></li><li>L2 L3 Productions support</li><li>Blue Green deployment</li><li><strong>Managed on site and off site resources</strong></li><li><strong>AWS: 4 years (Mandatory)-</strong> AWS Cost Optimization, Developing applications in an AWS environment &amp; Terraform.</li><li>Debugging production issues: 4+ years (Mandatory). Python: 2-3 years (Mandatory) - DJango, Celery.</li><li>Good to have: AWS Certified.</li><li><strong>Experience in with development technology stack-Docker, Python, Django, Celery, Postgres</strong>. </li><li><strong>AWS serverless technologies (Lambda, Cognito, API Gateway, Step Functions, AppSync)</strong></li><li>Experience in operational technology stack (Uwsgi, Nginx, RabbitMQ, Elasticsearch, Redis). </li><li>Experience with automation tools- Salt, Vagrant, Packer. </li><li>Experience with metrics and orchestration tools-Jenkins, NewRelic, Datadog, Loggly.</li><li>He/ She needs to be the best buddy of Key IT Stakeholders and sponsors.&nbsp;</li></ul><p></p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Saicon\", \"sameAs\": \"https://www.linkedin.com/company/saicon\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFBs8bnv4lBAQ/company-logo_200_200/0/1541710716421?e=1637193600&v=beta&t=7z6ifgd_3rSoIQ2WOJTzKJhKS6zUKkl1mitzqRei-n8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Saicon\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFBs8bnv4lBAQ/company-logo_100_100/0/1541710716421?e=1637193600&v=beta&t=u5sjkvJGQd12wf9uJiQIYhQboGuLudrJeS7pyfbCxEo\", \"industry\": \"Information Technology and Services,Computer Software,Information Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Atlanta\", \"addressRegion\": \"GA\", \"postalCode\": \"30355\", \"streetAddress\": null}, \"latitude\": 33.748547, \"longitude\": -84.3915}, \"skills\": \"\", \"title\": \"Site Reliability Engineer Lead - Remote\", \"validThrough\": \"2021-09-17T14:45:33.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 120}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

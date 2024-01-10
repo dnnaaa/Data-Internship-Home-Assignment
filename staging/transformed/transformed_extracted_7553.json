@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:13:27.000Z\", \"description\": \"<p><strong>Staff Frontend Software Engineer ( Remote ) ( Full-Time )</strong></p><p><strong>Location: Remote</strong></p><p><br></p><p><strong>Must Haves:</strong></p><ul><li>You have 5+ years of professional work experience.</li><li>You have experience with CSS in large-scale web app development.&nbsp;</li><li>You have hands-on experience utilizing React.</li><li>You love the good parts of JavaScript and have an intimate relationship with the weird parts.</li><li>Big Data experience would be considered a big plus</li></ul><p><br></p><p><strong>Roles and Responsibilities:</strong></p><ul><li>Use front-end technologies like ES6, React, and Redux to build modern, scalable web applications.&nbsp;</li><li>Dive deep and solve challenging problems in both technical and cultural areas of working at a startup.&nbsp;</li><li>Write functional and integration tests to ensure reliability across releases.&nbsp;</li><li>Collaborate with multi-functional teams, working with other specialists to break down complex ideas and drive features from start to finish.&nbsp;</li><li>Drive technical investments from the early exploration of ideas to delivering integral parts of our stack, balancing short-term goals with long-term architectural vision.&nbsp;</li><li>Mentor others on your team to help them grow as engineers across many dimensions.</li></ul><p><br></p><p><strong><span class=\\\"ql-cursor\\\"></span>Basic Qualifications:</strong></p><ul><li>Bachelor's or Master's degree in computer science or related discipline.&nbsp;</li><li>You have 5+ years of professional work experience.</li><li>You have experience with CSS in large-scale web app development.&nbsp;</li><li>You have hands-on experience utilizing React.</li><li>You love the good parts of JavaScript and have an intimate relationship with the weird parts.</li><li>You are a mindful, empathetic, and communicative teammate.&nbsp;</li><li>You take pride in the things you build, from the visual polish of the user experience to the reliability of services.&nbsp;</li><li>You believe in and thrive in test-driven development.&nbsp;</li><li>You understand that being an effective software engineer is as much about communicating with people and understanding the problem to be solved as it is about writing code.&nbsp;</li><li>You're interested in observing existing development patterns, identifying their strengths and weaknesses, and designing flexible and maintainable solutions to augment those patterns. You are a lifelong learner.</li></ul><p><strong>Preferred Qualifications:</strong></p><ul><li>Hands-on experience working within large data platforms.</li></ul><p><br></p><p><strong>Technologies you will be exposed to:&nbsp;</strong></p><ul><li>React&nbsp;</li><li>Redux&nbsp;</li><li>NodeJS&nbsp;</li><li>CSS&nbsp;</li><li>Python&nbsp;</li><li>Docker&nbsp;</li><li>AWS&nbsp;</li><li>Cypress</li></ul><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Career Developers, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/career-developers-inc-\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQF6iQlChFSSeA/company-logo_200_200/0/1519892121363?e=1641427200&v=beta&t=bb2ihk7KFG2S53n8_HYCurL3VLc5WnO7meFtF2wnYBE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Career Developers, Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQF6iQlChFSSeA/company-logo_100_100/0/1519892121363?e=1641427200&v=beta&t=D5fdev_b2rmZ7-kwztT77OoGs9GPu4W8IiLBgVMRU5M\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"California\", \"addressRegion\": \"United States\", \"postalCode\": \"93266\", \"streetAddress\": null}, \"latitude\": 37.254673, \"longitude\": -119.61728}, \"skills\": \"\", \"title\": \"Frontend Software Engineer ( Remote ) ( Full-Time )\", \"validThrough\": \"2021-11-04T17:13:26.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 150000, \"maxValue\": 190000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-20T17:20:59.000Z\", \"description\": \"<strong>Technical Service Engineer<br><br></strong><strong><u>Company Description<br><br></u></strong>SchoolMint is the leading SaaS platform driven by our mission to help educators create bright, more sustainable futures. We offer powerful products that help schools run smarter enrollment management and student behavior management.<br><br>We are a fast-growing and established EdTech company rooted strongly in our core values: No Jerks, Period; We, Not Me; Be Heroic; Bring Your Whole Self to Work; Embrace and Drive Change. We take these seriously. At SchoolMint we live what we preach and embody values that empower us to delight our customers with award-winning products and top-notch customer service<br><br><strong><u>Job Description<br><br></u></strong>SchoolMint is actively searching for a Technical Service Engineer to provide proactive and reactive technical assistance to our internal and external customer base. The Technical Service Engineer has to be a polished communicator who is inherently interested in solving complex problems and delivering a high level of customer satisfaction with every customer interaction.<br><br>The Technical Service Engineer should be comfortable living in both the Software Engineering and Support environments; translating internal Engineering-speak into clear concise directions for customers and vice-versa. You will be working on custom software developments, based on specific client needs. This role will report to the VP of Professional Service, but will also work collaboratively across our Customer Success, Product, Engineering and Sales teams.<br><br><strong>What You Will Do:<br></strong><ul> <li><strong>Technical Engineering Services:</strong> Participates in engineering projects by developing, adapting, and applying software solutions; conducting tests and inspections; preparing reports and calculations.</li> <li><strong>Innovation:</strong> Understands and shares new ideas which improve an existing system/process/service. System analysis and innovation for continuous system improvement.</li> <li><strong>Technical Writing:</strong> Maintains knowledge of existing technology documents. Maintains clear documentation for new code and systems used. Documenting systems designs and business requirements.</li> <li><strong>Technical Leadership:</strong> Collaborates with technical teams to deliver technical solutions. Continuously learns new technologies. Ability to offer and communicate ideas and opinions. Ability to learn technologies being used. Awareness of technology roadmap.</li> <li><strong>Technology Strategy:</strong> Updates job knowledge by tracking and understanding emerging engineering practices.</li> <br><br></ul><strong>About You:<br></strong><ul> <li>2+ years software engineering experience either in school or for work</li> <li>BA/BS degree in Engineering, Computer Science (or equivalent experience)</li> <li>Basic knowledge of web application development, object oriented programming, relational database systems (MySQL), version control tools (GIT), package managers (NPM, Yarn, Composer)</li> <li>Basic knowledge of server-side technologies: PHP, Laravel framework</li> <li>Basic knowledge of front-end web technologies including: HTML, CSS, Javascript, jQuery, Bootstrap, SASS, Vue, React</li> <li>Basic knowledge of cloud technology: AWS</li> <li>Passion for solving customer issues in a fast paced environment</li> <li>Excellent verbal and written communication skills</li> <li>Ability to learn new technologies quickly and work independently</li> <br><br></ul><strong>Some Awesome Perks:<br></strong><ul> <li>Medical, Dental, and Vision Insurance</li> <li>Employee Paid Life Insurance, Short Term &amp; Long Term Disability</li> <li>PTO (15 days), Sick Days (5 days), Birthday Floating Holiday, Floating Holiday, Volunteer Day, and Company Observed Holidays</li> <li>401k (with a 90-day waiting period)</li> <li>Flexible Spending Account (FSA) and Dependent Care Account (DCA)</li> <li>Commuter Benefits </li> <li>Educational Assistance Program</li> <li>Conferences and Meet-ups</li> <li>Professional Development</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"SchoolMint\", \"sameAs\": \"https://www.linkedin.com/company/schoolmint\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQE_ROBBJRptSA/company-logo_200_200/0/1616521102564?e=1634774400&v=beta&t=N7Dg0NWiOB4aug_Vo5gKLW3ZeoAYpY3jImnF1aO1XJI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"SchoolMint\", \"value\": \"5374533002\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQE_ROBBJRptSA/company-logo_100_100/0/1616521102564?e=1634774400&v=beta&t=AKpdPVhnm387Pi8_s1he7iVFcoELgVdCA1o05xW9234\", \"industry\": \"Information Technology and Services,Computer Software,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Lafayette\", \"addressRegion\": \"LA\", \"postalCode\": \"70506\", \"streetAddress\": null}, \"latitude\": 30.22126, \"longitude\": -92.018776}, \"skills\": \"\", \"title\": \"Junior Software Engineer\", \"validThrough\": \"2021-08-19T17:20:59.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 53300, \"maxValue\": 82800, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

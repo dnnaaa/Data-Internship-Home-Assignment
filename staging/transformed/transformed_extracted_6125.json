@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T08:22:58.000Z\", \"description\": \"<p>The CRS Group is currently looking for a Site Reliability Engineer for one of our clients in the Riverwoods area. The CRS Group is a nationwide Staffing Firm who works primarily with Fortune 500 and Fortune 1000 corporations.</p><p><br></p><p>The Site Reliability Engineer applies software engineering techniques and discipline to production operations to attack reliability and performance issues to fix them for good. SREs focus on availability, latency, performance, efficiency, change management, monitoring, emergency response and capacity planning of their services. SREs have an intense passion for finding and improving efficiencies with infrastructure, development, and deployment automation. As a SRE, you will lead the efforts of application deployment, reliability, scalability, availability and performance alongside the engineering and infrastructure teams. Site Reliability Engineers will work closely with our engineering teams to build mature, production-ready services and applications. As part of the SRE team, you will help define our standards for monitoring, alerting, scalability, and production-readiness. You will monitor and report on the uptime of our systems and services, the performance of our applications, and the capacity of our platform.</p><p><strong>Job Duties:</strong></p><ul><li>Define SRE framework</li><li>Define reliable design patterns</li><li>Define canned reliability user stories for feature delivery</li><li>Define what looks good like for baseline&nbsp;monitoring/alerting</li><li>Define scorecards, gates, technical debt oversight for organization</li><li>Define consistent problem management process, PIRs</li><li>Job descriptions, training, common language, definitions</li><li>Leading teams in developing SRE playbooks</li><li>Ensure reliability is built into new designs</li><li>Ensure canned reliability users\\u2019 stories are executed for every feature</li><li>Perform design reviews of existing apps and production readiness reviews</li><li>Execute chaos testing</li><li>Identify operational functions that need to be automated</li></ul><p><strong>Qualifications:</strong></p><ul><li>Bachelor\\u2019s degree Information Technology or equivalent experience</li><li>5+ years SRE experience in highly customer-focused environment</li><li>Proficiency in designing resilient app patterns</li><li>Expertise in 24x7 site monitoring and ability to own uptime &amp; performance SLAs for large scale distributed systems</li><li>Expertise and operational experience at operating highly available, scalable, and fault-tolerant systems using container platforms</li><li>Familiarity with OS tuning, optimization and system requirements for vertical scaling</li><li>Proficiency in one or more general purpose programming languages</li><li>Expertise in automation tools experience</li><li>Strong leadership skills and ability to motivate team</li><li>Ability to drive change, and motivate engineers to develop simple solutions for complex operational challenges</li><li>Experience collaborating and partnering effectively with several other teams</li><li>Experience leading discussions with senior leadership, and are able to tailor the level of technical detail to suit audience</li></ul><p><br></p><p><strong>About&nbsp;CRS Group:</strong></p><p>Founded in 1994 as Computer Resource Solutions, The CRS Group is a privately held company with offices in Itasca, IL and downtown Chicago. CRSG provides staffing solutions to Fortune 500 companies by successfully managing their IT contingent workforce needs. We expanded our offerings to extend that same high-quality service to other business needs, including creative, marketing, finance, legal and HR.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"CRS Group\", \"sameAs\": \"https://www.linkedin.com/company/crsgroup\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQHq9N5NmieGRg/company-logo_200_200/0/1519856846230?e=1637798400&v=beta&t=mE9ye5xWAHbZc4zgkKC5BinPeymHU6H--zP7IlK3Pvo\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"CRS Group\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQHq9N5NmieGRg/company-logo_100_100/0/1519856846230?e=1637798400&v=beta&t=6fyCtm6RVLxIWQJ4afxDFcWo8DCBcRaXqdcifJG0GAU\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Sr Site Reliability Engineer\", \"validThrough\": \"2021-09-24T08:22:58.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 75, \"maxValue\": 75, \"unitText\": \"HOUR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

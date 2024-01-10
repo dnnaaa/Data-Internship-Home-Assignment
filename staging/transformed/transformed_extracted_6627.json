@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-27T20:00:16.000Z\", \"description\": \"<p>Infotrend, Inc. is seeking for a cryptocurrency expert who has the understanding and on-hands experience with the following:&nbsp;</p><p><br></p><p>&nbsp;<strong>Responsibilities:</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hands on experience with setting up nodes for Bitcoin and Ethereum.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand the major and critical data points in cryptocurrency transactions.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extract mempool data from nodes.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understanding smart contracts and extract transactions from nodes.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand links and correlation between transactions within crypto data</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Identify, track and corelate how transactions work within different exchanges</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do in-depth analysis of connection/co-relations between the blockchain and Exchange data.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Provide ad-hoc assistance on questions related to cryptocurrency data.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Provide guidance on data analysis and visualization of blockchain/exchange data.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use scripting languages to perform extract crypto data and run analytics.</p><p><strong>Requirements:</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor\\u2019s degree in Computer Science, Data Analytics or similar program</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hands on experience with setting up nodes on Bitcoin and Ethereum</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In depth experience with managing block and transaction data for cyptocurrencies.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with creating products and services that interface with public, private, and . permissioned blockchains.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of data structures, especially crypto technology preferred.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with SQL, Java Script, Python or R and ability to drill into the data and gain valuable . insights.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong problem-solving skills, attention to detail and high-quality output</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience developing software applications and features in an Agile environment.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Self-motivated and able to tackle challenging, complex problems in an individual or</p><p>team-based setting.</p><p>&nbsp;</p><p><strong>US Citizenship Required</strong></p><p><strong>Ability to obtain and maintain Public Trust Security Clearance</strong></p><p><br></p><p><br></p><p><em>Infotrend, Inc. is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by federal, state, or local law.</em></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Infotrend Inc\", \"sameAs\": \"https://www.linkedin.com/company/infotrend-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFS5uCTM9aucQ/company-logo_200_200/0/1596947174870?e=1638403200&v=beta&t=MLO8AsHwCDFUtqfNpoM0r4zzf4HEnusv-TR1auCg_FI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Infotrend Inc\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFS5uCTM9aucQ/company-logo_100_100/0/1596947174870?e=1638403200&v=beta&t=3Snw_CpLF3U_p-Qaa7FQkdyE6sHDkoN-h485fvYzUP8\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Washington DC-Baltimore Area\", \"addressRegion\": null, \"postalCode\": \"21201\", \"streetAddress\": null}, \"latitude\": 38.873062, \"longitude\": -77.007385}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-26T20:00:15.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 47700, \"maxValue\": 85300, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

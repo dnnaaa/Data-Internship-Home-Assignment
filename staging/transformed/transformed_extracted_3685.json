@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T21:17:14.000Z\", \"description\": \"<p><strong>Role can be performed remotely , candidate needs to work US EST hours.</strong></p><p><br></p><p>Working with state of the art technologies as part of AI/ ML platform's team enabling scientists in Drug discovery R&amp;D, Safety, Supply chain, Digital Health.</p><p><br></p><p><strong>Key requirements:</strong></p><p>\\u2022BS/MS in Computer Science or Computer Engineering</p><p>\\u20226+ years of experience designing &amp; writing production-quality code</p><p>\\u2022Good Knowledge of NVIDIA SDKs and HPC parallel systems</p><p>\\u2022Excellent C/C++, CUDA and Python programming and software design skills, including debugging, performance analysis, and test</p><p>\\u2022Knowledge of AWS/ Azure/ GCP cloud ecosystems to work closely on integration efforts with DevOps engineers</p><p>\\u2022Exceptional attention to detail, close engagement in product design, and a constant focus on user experience</p><p>\\u2022Strong interpersonal skills are required along with the ability to work in a agile &amp; dynamic product-oriented teams on challenging projects</p><p>\\u2022Good verbal and written communication skills in English</p><p><br></p><p><strong>Ways To Stand Out From The Crowd:</strong></p><p><strong></strong></p><p>\\u2022Experience working with NVIDIA/ Xilinx or custom ASIC SDKs</p><p>2+ yrs of experience optimising AI/ ML applications</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Sky Consulting Inc.\", \"sameAs\": \"https://www.linkedin.com/company/skyconsulting-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHEMs_WCvNFeg/company-logo_200_200/0/1548092188013?e=1637193600&v=beta&t=NKPCtC09SS2Se1gbJXV1qna5akm9Ruet_ucGwPLzn9Q\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Sky Consulting Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHEMs_WCvNFeg/company-logo_100_100/0/1548092188013?e=1637193600&v=beta&t=aqzpwPW88n-BOAt0BtlWnQIQiWinLANDB2nTh4DUcG8\", \"industry\": \"Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-09T21:17:13.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

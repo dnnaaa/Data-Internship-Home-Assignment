@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T09:00:48.000Z\", \"description\": \"<p><strong>Job title:</strong> Graduate / Junior Software Developer </p><p><strong>Client</strong>: Elite trading firm </p><p><strong>Salary:</strong> Up to $110,000 + package + exceptional bonus!</p><p><strong>Location:</strong> Boston </p><p><br></p><p><strong>The role:</strong> Have ownership of multiple greenfield projects with no red tape and working alongside other exceptional technologists in a friendly/collaborative environment + beautiful offices</p><p><strong>This role is looking for someone with 0-3yrs experience </strong></p><p><br></p><ul><li>You'll build features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries + funds around the world</li><li>You will be involved throughout the product lifecycle + collaborate closely with both other technologists, clients, and stakeholders</li><li>Gain a hands-on understanding on how to work with and manipulate large data sets containing financial data</li></ul><p><br></p><p>Skills/experience needed:</p><p><br></p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent understanding of the Computer Science fundamentals</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An outside interest in technology (meetups, personal projects etc)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A related degree (computer science, physics, maths etc) from a reputable University</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Relevant internships / experience</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personality and desire to keep learning!&nbsp;</p><p><br></p><p><br></p><p>If interested, then please apply with your updated CV and if successful you will be contacted</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Hunter Bond\", \"sameAs\": \"https://uk.linkedin.com/company/hunter-bond\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGmcHOMn4s7xA/company-logo_200_200/0/1625485764612?e=1641427200&v=beta&t=hrFt5l8OEKI40rNBbdnlCivSVaAKtFcMOyiGadrjCmQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Hunter Bond\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGmcHOMn4s7xA/company-logo_100_100/0/1625485764612?e=1641427200&v=beta&t=-R4-0V0ZiGPNZ77s8DwR-iOllC1rbpts_A8YpMxuxFw\", \"industry\": \"Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Boston\", \"addressRegion\": \"MA\", \"postalCode\": \"02118\", \"streetAddress\": null}, \"latitude\": 42.358994, \"longitude\": -71.05863}, \"skills\": \"\", \"title\": \"Junior Software Engineer- 110K + BONUS\", \"validThrough\": \"2021-11-04T09:00:47.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

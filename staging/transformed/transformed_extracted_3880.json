@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-15T16:34:12.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>At Apple, great ideas quickly have a way of becoming great products, services, and customer experiences. Bring passion and dedication to your job and there's no telling what you could accomplish here.<br><br><br>Do you want to be part of a team that builds cutting edge software service, a team that is continually innovating and is proud of making a difference? If so, bring your passion and talent and come join us to be part of something big and amazing.<br><br><br>We\\u2019re a diverse collection of thinkers and doers, continually reimagining our products, systems, and practices to help people do what they love in new ways. <br><br><br>This is a deeply reciprocal place, where everything we build is the result of people in different roles and teams working together to make each other\\u2019s ideas stronger. That same real passion for innovation that goes into our products also applies to our practices, strengthening our dedication to leave the world better than we found it. <br><br><br>Apple's IS&amp;T team looking for a machine learning expert to help us extract the value from our data. Responsibilities include data collection, cleaning, preprocessing to training models and deploying them to Production.<br><br> <br><strong>Key Qualifications<br></strong> <br>Proficiency with Python and basic libraries for machine learning such as scikit-learn and pandas<br><br>Expertise in visualizing and manipulating big datasets<br><br>Familiarity with Linux<br><br>Familiarity with a deep learning framework such as TensorFlow or Keras<br><br>Nice to have a knowledge in database technologies<br><br>Effective communication skills<br><br>Ability to learn and apply new technologies through self-learning<br><br> <br><strong>Description<br></strong> <br>As an ML Engineer we look forward to your understanding business objectives and developing models that help to achieve them, along with metrics to track their progress<br><br><br>-  Analyzing the ML algorithms that could be used to solve a given problem and ranking them by their success probability<br><br><br>-  Exploring and visualizing data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world<br><br><br>-  Verifying data quality, and/or ensuring it via data cleaning<br><br><br>-  Defining validation strategies<br><br><br>-  Defining the preprocessing or feature engineering to be done on a given dataset<br><br><br>-  Training models and tuning their hyper-parameters<br><br><br>-  Analyzing the errors of the model and designing strategies to overcome them<br><br><br>-  Deploying models to production<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor\\u2019s degree in Computer Science or equivalent with 5 years plus of relevant experience<br><br> <br>Role Number: 200249152<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1637193600&v=beta&t=OkuLZqjdOcq5r33tbTQUjMCIXBRKZyLoBx2KqcPG1MI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200249152_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1637193600&v=beta&t=iV6A0wLj-TE2dXrjGAFG5pgpmmJggzzuYP34u_Qkwzc\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"IN\", \"addressLocality\": \"Hyderabad\", \"addressRegion\": null, \"postalCode\": \"500065\", \"streetAddress\": null}, \"latitude\": 17.36172, \"longitude\": 78.47517}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-14T16:34:10.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

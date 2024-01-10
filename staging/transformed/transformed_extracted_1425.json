@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-29T19:21:51.000Z\", \"description\": \"<p>Title: <u>Engineering Internship (Machine Learning Engineer)</u></p><p>Job Description </p><p>Noria Water Technologies seeks an intern with experience working in a laboratory environment and basic knowledge of image analysis and machine learning interested in gaining real-world experience. We are a water technology company providing unique solutions for improving operations of water-based processes through real-time monitoring, big data, and analytic capabilities. The candidate must be able to thrive in a dynamic, multi-disciplinary, and hands-on environment that values excellence, creativity, and innovation.</p><p>Terms</p><p> <u>Fall 2021 from August to December</u></p><p> Part-time during the school year: must be able to work 15-20 hours/week</p><p> Flexible schedule can be arranged for part-time work during normal business hours</p><p>Responsibilities</p><p> In-person laboratory work</p><p> Support of development projects</p><p> Characterization of images of fouled/ scaled materials</p><p> Set up and run reverse-osmosis experiments</p><p> Setup image collection system, collect data, and apply image processing and machine learning techniques</p><p> Assists with designs, experiments and assemblies as requested</p><p>Benefits</p><p> Practical experience with a wide variety of water treatment and desalination and data science tasks</p><p> Collaborating hand-in-hand with interdisciplinary team</p><p> Shadowing, mentoring, and training opportunities with seasoned professionals</p><p> Flexible schedule for students</p><p> Noria facilities are spacious with strict adherence to COVID-19 protection requirements</p><p>Qualifications </p><p>Required to be currently enrolled in a full-time Bachelor's degree or Graduate degree STEM program at an accredited college or university</p><p> Must work on-site and be fully vaccinated</p><p> Laboratory experience required</p><p> Knowledge of basic data science and ability to use machine learning tools for image analysis</p><p> Excellent analytical and mathematics skills</p><p> Good verbal and written communications skills with ability to work in a team environment</p><p> Experience programming in Python / C / C++, with AWS, or drawing CAD is a plus </p><p>Job Function </p><p>Engineering, Physical Sciences, Research, Science and Mathematics </p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Location </p><p>Los Angeles, California United States</p><p><u>&nbsp;</u></p><p>Salary Level </p><p>Paid </p><p>&nbsp;</p><p>Approximate Hours Per Week </p><p>20 </p><p>&nbsp;</p><p>Startup </p><p>Yes </p><p><u>&nbsp;</u></p><p>Desired Start Date </p><p>August 9, 2021 </p><p>&nbsp;</p><p>Duration </p><p>August - December 2021</p>\", \"employmentType\": \"INTERN\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Noria Water Technologies\", \"sameAs\": \"https://www.linkedin.com/company/noria-water-technologies\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFkgJTl2fQMmQ/company-logo_200_200/0/1545228566967?e=1635984000&v=beta&t=pvbiN9TvhKCW9MWw9jsFKxz7tqmMbOLv5W6oEaeBoWM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Noria Water Technologies\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFkgJTl2fQMmQ/company-logo_100_100/0/1545228566967?e=1635984000&v=beta&t=Y0KVUKTni42OeUZUHADALIuWB4G9kDcJQUHHvCMYK1s\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Los Angeles\", \"addressRegion\": \"CA\", \"postalCode\": \"90101\", \"streetAddress\": null}, \"latitude\": 34.05224, \"longitude\": -118.24335}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-28T19:21:51.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

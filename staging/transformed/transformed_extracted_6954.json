@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-01T14:09:16.000Z\", \"description\": \"<p>We are looking for a Backend Software Engineer to join our Integrations team. Offering $30/hr. on a 6-month Contract (w/ ability for perm conversion).</p><p><br></p><p>Minimum Qualifications:</p><p><br></p><p>Bachelor\\u2019s degree in Computer Science, Computer Engineering, or related field</p><p>Proficiency with software development</p><p>Familiarity with agile principles like continuous build, test, integration, and deployment</p><p><br></p><p>Preferred Qualifications:</p><p><br></p><p>2+ years\\u2019 experience as a member of a software development team</p><p>Skilled knowledge and experience developing and maintaining data communication systems and architecture</p><p>Ability to develop and troubleshoot data flow processes, translation maps</p><p>Knowledge of Web Services, RESTful API development</p><p>Experience with GoLang or another programming language</p><p>Experience with cloud development with AWS, Azure, or other cloud providers is a plus</p><p>Knowledge of relational databases, PostgreSQL or other relational</p><p>Experience with Docker and development of containerized applications</p><p>Familiarity with FHIR and healthcare interoperability standards is a plus</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Revolution Technologies\", \"sameAs\": \"https://www.linkedin.com/company/revolution-technologies\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHQJy3F83PdwA/company-logo_200_200/0/1625586537191?e=1638403200&v=beta&t=vvwtD0iQlkMZw-hS59-BixMkeRnYnkEJSaC5ZOS_OvA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Revolution Technologies\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQHQJy3F83PdwA/company-logo_100_100/0/1625586537191?e=1638403200&v=beta&t=jJxmDXFdw5zM-SisZ78Kzb1wVIRBfDgLC8_Bro88wto\", \"industry\": \"Hospital & Health Care,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Melbourne\", \"addressRegion\": \"FL\", \"postalCode\": \"32902\", \"streetAddress\": null}, \"latitude\": 28.079931, \"longitude\": -80.603516}, \"skills\": \"\", \"title\": \"Jr. Software Engineer\", \"validThrough\": \"2021-10-01T14:09:15.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 25, \"maxValue\": 30, \"unitText\": \"HOUR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

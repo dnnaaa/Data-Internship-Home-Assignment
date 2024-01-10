@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-06T21:45:23.000Z\", \"description\": \"<p>The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.&nbsp;</p><p>&nbsp;</p><p><strong>Responsibilities</strong></p><ul><li>Develop quality software and web applications using React</li><li>Analyze and maintain existing software applications</li><li>Design highly scalable, testable code</li><li>Discover and fix programming bugs</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree or equivalent experience in Computer Science or related field</li><li>Development experience with programming languages</li><li>SQL database or relational database skills</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Takeo\", \"sameAs\": \"https://www.linkedin.com/company/takeoai\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFkYUAt7babng/company-logo_200_200/0/1608999353047?e=1636588800&v=beta&t=RcnXTUzCK03rDHwPyHhDeBZzAUVZs43bCsrzyQUOf4Y\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Takeo\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFkYUAt7babng/company-logo_100_100/0/1608999353047?e=1636588800&v=beta&t=ZBOUgpSKUfK2S092oSR-2F9OK467zkFz30ClUNPzwbI\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"NY\", \"postalCode\": \"10132\", \"streetAddress\": null}, \"latitude\": 40.713047, \"longitude\": -74.00723}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-05T21:45:23.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

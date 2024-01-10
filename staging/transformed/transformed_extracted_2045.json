@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-01T07:45:00.000Z\", \"description\": \"<br><strong>Summary<br></strong> <br>Are you passionate about changing the world? We have a critical impact on getting high quality functional products to millions of customers quickly, and we are hiring all levels from junior to senior roles. The Silicon Validation team is responsible for validating functional behavior and exercising interactions between different IP blocks in the SoC. Join a team of SME embedded software engineers with a diverse set of backgrounds to do system level validation of Apple's next generation SoCs.<br><br> <br><strong>Key Qualifications<br></strong> <br>Strong software skills in C/C++<br><br>Familiarity with programming in assembly language<br><br>Passionate about writing code close to the hardware, and debugging<br><br>Familiarity with computer architecture, memory hierarchies, CPUs, and caching<br><br>You enjoy the validation mentality: detail-oriented, curious, and persistent<br><br>Experience in writing code, developing tests, and coming up with strategies for SoC silicon validation is a huge plus<br><br>Experience in graphics, video codecs, video capture, display mechanisms, and storage technologies is ideal<br><br>Experience with scripting (Python, Tcl, Perl) is a plus<br><br> <br><strong>Description<br></strong> <br>You will leave no stone left unturned for a comprehensive \\\"system-level\\\" validation of Apple SoCs.<br><br>You will dive deep into the SoC architecture, and also become a specialist in our existing SiVal software stack.<br><br>You will come up with creative ways to test the SoC for all kind of stress and corner-case scenarios.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS / MS / Ph.D in EE or CS is required<br><br> <br>Role Number: 200242226<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Apple\", \"sameAs\": \"https://www.linkedin.com/company/apple\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_200_200/0/1595530301220?e=1635984000&v=beta&t=_qTKbOd-TkufknBCb_DIlq8OrBpRXZnTOBNBF9UO0lI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Apple\", \"value\": \"200242226_en-US\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_100_100/0/1595530301220?e=1635984000&v=beta&t=RvkvAk5PCHiS6xS7bkGmqsyaBrRBKiu4AsRPmwE6FBk\", \"industry\": \"Consumer Electronics\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Beaverton\", \"addressRegion\": \"OR\", \"postalCode\": \"97007\", \"streetAddress\": null}, \"latitude\": 45.486595, \"longitude\": -122.795616}, \"skills\": \"\", \"title\": \"Silicon Validation Software Engineer: IP Integration\", \"validThrough\": \"2021-08-31T07:44:59.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

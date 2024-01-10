@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-05T00:00:00.000Z\", \"description\": \"<strong>We are creating a technology centric, R&amp;D incubator in the Biotech space and are looking for a fully remote Senior Data Scientist!!<br><br></strong>This Jobot Job is hosted by Matt Gennari<br><br>Are you a fit? Easy Apply now by clicking the \\\"Apply\\\" button and sending us your resume.<br><br>Salary $140,000 - $180,000 per year<br><br><strong>A Bit About Us<br><br></strong>We are a 20-person Biotechnology startup that is focused on creating an R&amp;D incubator that creates innovative solutions to sustainably feed, clothe and keep health the growing world population. We integrate and create cutting edge and novel advances in synthetic biology, data sciences, and analytical systems and are looking for a Senior Data Scientist who wants to be part of a sustainable and ethical company where<br><br><strong><br><br><strong>Why join us?<br><br></strong></strong><ul><li> Extremely competitive base (Up to $180K depending on experience)</li><li> 10% Bonus every year</li><li> Profit-Sharing</li><li> Full Healthcare Benefits</li><li> Fully Remote</li><li> The chance to get in on the ground floor with a growing startup!<br></li></ul><strong>Job Details<br><br></strong>We are looking for someone to drive the development and implementation of data analysis systems at the intersection of ML and BIology. You will be a part of a team engaged in cutting-edge genetic engineering with a custom computational platform. You will also develop ML algorithms and integrate knowledge of biological models and databases with ML algorithms to provide recommendations for biological engineering.<br><br>If you have a strong background in Python, Machine Learning, and Statistics, please reach out!<br><br>Interested in hearing more? Easy Apply now by clicking the \\\"Apply\\\" button.<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Jobot\", \"sameAs\": \"https://www.linkedin.com/company/jobot\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_200_200/0/1620205047267?e=1634169600&v=beta&t=vqsgxn-NaUXW27GWJmkl-5Wz_Zv-fUYG1VV2FgMQOmg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Jobot\", \"value\": \"1993555653\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_100_100/0/1620205047267?e=1634169600&v=beta&t=nAmzm4PFRa9yDbVcAloNmqkLnfWLCzG2rQcdDcZfpBc\", \"industry\": \"Biotechnology\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Pleasanton\", \"addressRegion\": \"CA\", \"postalCode\": \"94588\", \"streetAddress\": null}, \"latitude\": 37.658436, \"longitude\": -121.877}, \"skills\": \"\", \"title\": \"Senior Data Scientist\", \"validThrough\": \"2021-08-06T09:10:29.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

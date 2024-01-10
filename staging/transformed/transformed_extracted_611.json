@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-15T18:33:02.000Z\", \"description\": \"<p>Optima is a fast-growing I.T. software and services firm based in New Jersey which specializes in providing Financial Process Automation and IT Consulting Services to enterprise customers across North America.&nbsp;</p><p><br></p><p>Currently, we are seeking a <strong>FIX Engineer</strong> to join our client, a fortune 500 financial services company on a <strong>fulltime permanent basis</strong>. Client is willing to sponsor the right candidate.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Analyze data processing problems for electronic data processing systems. </li><li>Support and maintain FIX connections for electronic trading for Equities and rolling program for new client connections. </li><li>Direct support of FIX systems and Order Routing Infrastructure.</li><li>Analyze and research new functionalities.</li><li>Provide management support for FIX infrastructure to identify problems before clients are affected. Perform testing of QA environment for clients. Liaise with vendors regarding FIX specifications and configurations supported. Configure UAT FIX systems and complete tests. </li><li>Certify, Configure and Support FIX connections to clients for the purpose of Electronic Trading.</li><li>Testing with Clients in UAT environment where needed. Configure the UAT FIX systems and complete emergency tests.</li><li>Analyze, identify issues, and coordinate resolution to production issues.</li><li>Escalate issues when required to ensure timely resolution and track to closure.</li><li>Ability to handle stressful situations and be able to multi-task.</li><li>Consistently demonstrates integrity, fairness, and professional conduct.</li><li>Attentive to controls and addresses risk.</li><li>Liaise with external Order Management System (OMS) vendors, Network Vendors and Electronic Trading Desk to ensure priorities are defined and issues are tracked. </li><li>Support all DMA and Algorithmic trading flow across multiple asset classes</li><li>Work closely with Business, external client/vendor, network and dev teams.&nbsp;</li><li>Weekend work will be required on need basis. </li></ul><p><br></p><p><strong>Skills Required:</strong></p><ul><li>Strong FIX, SQL, Unix, Python/Perl Scripting, Automation experience</li><li>SQL, UNIX and any scripting skills</li><li>Good knowledge on incident reports and problem management.</li><li>User training, troubleshooting, development of support procedures, system testing, and implementation.</li><li>Exposure and experience with automation tools like Ayehu. </li><li>Knowledge and experience with Python, Perl.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \" Optima Global Solutions Inc.\", \"sameAs\": \"https://www.linkedin.com/company/optima-global-solutions\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQE9L32-ptn_zw/company-logo_200_200/0/1553888809625?e=1634169600&v=beta&t=muC7FHd7wpT5UwGP__SO3zHHN6lYlK7FnDm8vvVhx50\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \" Optima Global Solutions Inc.\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQE9L32-ptn_zw/company-logo_100_100/0/1553888809625?e=1634169600&v=beta&t=b2cBeMoKncTtjo1g6XDKXLEnVly_i-_IN60DzY1-xPY\", \"industry\": \"Capital Markets,Banking,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"NY\", \"postalCode\": \"10132\", \"streetAddress\": null}, \"latitude\": 40.713047, \"longitude\": -74.00723}, \"skills\": \"\", \"title\": \"Financial Information eXchange (FIX) Engineer\", \"validThrough\": \"2021-08-14T18:33:01.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

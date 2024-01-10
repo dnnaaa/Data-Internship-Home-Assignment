@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T14:54:19.000Z\", \"description\": \"<p><strong>Role:</strong> Site Reliability Engineer (SRE)</p><p><br></p><p>An award winning&nbsp;Fortune 50 Energy Company, striving towards cleaner energy solutions, is looking for a Site Reliability Engineer to join their team on a contract to hire basis. The Site Reliability Engineer will be responsible for the upkeep and improvement of DSX production systems. The contract will be 6 - 12 months with the likelihood of becoming a full time role.</p><p><br></p><p><strong>Role/Responsibilities:</strong></p><ul><li>Support Service Engineers</li><li>Upkeep and improve existing infrastructure and documentation</li><li>Infrastructure Automation</li><li>Improve upon Prometheus Monitoring</li><li>Deploy new versions of DSX</li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li>3+ Years\\u2019 Experience in a similar role preferred</li><li>Bachelor\\u2019s Degree</li><li>Familiarity with Linux, Unix Shell, Github</li><li>Tools: Nginx, Docker, Kubernetes, or Terraform</li><li>Languages: Nodejs, Python, Go, .NET, or Ruby</li></ul><p><br></p><p><strong>Compensation and Benefits:</strong></p><p>The rate for this role is&nbsp;$70-95 p/h&nbsp;with some flexibility for exceptional circumstances. We also offer&nbsp;medical contributions&nbsp;(up to 75%) &amp;&nbsp;401k plans.</p><p><br></p><p>*No C2C candidates</p><p>*Must be eligible to work in TX</p><p><br></p><p>Could this be of interest to you at this time? If so, please apply with an updated copy of your resume and feel free to follow-up with a call at 929-521-4926.</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"X4 Technology \", \"sameAs\": \"https://uk.linkedin.com/company/x4-technology\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFgn8mIYqiMFw/company-logo_200_200/0/1630495540193?e=1641427200&v=beta&t=xDBQf8MgrEJ-r4e8tPSxoeiTW4imm3yNqbNHGa6OSlM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"X4 Technology \"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQFgn8mIYqiMFw/company-logo_100_100/0/1630495540193?e=1641427200&v=beta&t=t1QMmB2hXWvdq8kQj-RvVsKyOwEmsdBLQD5-msR8ReM\", \"industry\": \"Oil & Energy\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Houston\", \"addressRegion\": \"TX\", \"postalCode\": \"77208\", \"streetAddress\": null}, \"latitude\": 29.760803, \"longitude\": -95.36951}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-11-04T14:54:18.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 70, \"maxValue\": 95, \"unitText\": \"HOUR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

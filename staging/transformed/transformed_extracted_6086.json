@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-25T03:12:38.000Z\", \"description\": \"<strong><u>Job Description<br><br></u></strong>Title: Site Reliability Engineer<br><br>Location: Beaverton, Oregon (97008) / Remote Option<br><br>Employment Type: Direct Hire (no c2c or sponsorship available)<br><br><strong><u>Job Description<br><br></u></strong>EdgeLink is looking for a Site Reliability Engineer (SRE) to join an expanding team focused on connecting business to cloud applications and environments. From a skills perspective we are targeting most of the following:<br><ul><li>Bachelor' s degree or equivalent practical experience</li><li>Experience supporting development environments that include Linux tools, Bamboo, Puppet, Terraform, AWS, and Azure</li><li>Deep understanding of the Unix/Linux operating systems, including kernel networking packet flow</li><li>Strong understanding of network fundamentals, including tunneling</li><li>Working knowledge of SQL databases</li><li>Experience with algorithms and data structures are a nice to have<br></li></ul>Edgelink would like to thank all applicants, however only those who qualify for an interview will be contacted.<br><br>EdgeLink is an equal opportunity employer.<br><br>Job Requirements<br><br>SRE, DevOps, Site Reliability, CI/CD, Cloud, Azure, AWS, Linux, Bamboo, Puppet, Terraform, Unix, Networking, Tunneling, SQL, Database, Algorithm, Data Structure, VPN<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"EdgeLink\", \"sameAs\": \"https://www.linkedin.com/company/edgelink\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHa-ohpY8ec0w/company-logo_200_200/0/1519918260335?e=1637798400&v=beta&t=JsFpTJtSWHG-XyHXDob42tVX66l_Vxub9tF4WoXPMwo\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"EdgeLink\", \"value\": \"11788\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHa-ohpY8ec0w/company-logo_100_100/0/1519918260335?e=1637798400&v=beta&t=br5_N46xKa-qGGV8RKWKX81bJiYVf8eWpb-1V7CY7RE\", \"industry\": \"Information Technology and Services,Computer Software,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Portland\", \"addressRegion\": \"OR\", \"postalCode\": \"97268\", \"streetAddress\": null}, \"latitude\": 45.516018, \"longitude\": -122.68143}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-24T03:12:37.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

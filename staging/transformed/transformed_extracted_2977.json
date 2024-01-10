@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-04T15:13:13.000Z\", \"description\": \"<p><strong>Client- Established Financial organization</strong></p><p><strong>Title: Site Reliability Engineer - Kubernetes.</strong></p><p><strong>Length: Direct hire</strong></p><p><strong>Location: Jersey City, NJ or Dallas, TX. Hybrid 2-3 days office, rest WFH.</strong></p><p><br></p><p><br></p><p><strong>SUMMARY:</strong></p><p>We are looking for a Container migration SRE, who understands the enterprise containers in Docker Swarm to advanced Kubernetes platforms (OpenShift, Tanzu) deployments and has prior experience with container migrations and deployments. The container migration SRE will bring in Kubernetes deployment with software engineering SRE standard methodologies. This role will be instrumental in continuing our Container First strategy delivery, bringing expertise with, development, and implementation of container migration projects.</p><p><br></p><p><strong>YOUR PRIMARY RESPONSIBILITIES:</strong></p><ul><li>Lead the container platform ecosystem</li><li>Cluster capacity management and provisioning through automation of underlying hosts.</li><li>Understanding the infrastructure components (server, network, storage, firewall, load balancer etc) required for Kubernetes platform, Infrastructure As a Code(IaC).</li><li>[Developer Differentiator]</li><li>Experience with a modern application software language; especially a systems programming language (Go, Python)</li><li>Understanding of architectural patterns; Microservices are important, but experience with other patterns helpful</li><li>Practitioner of version control; experience with different branching strategies (and understands why GitFlow is not a good choice for CI/CD and enterprise development teams)</li><li>Understands and uses unit and functional testing; ideally advocates tests up front (advocates tests for moving faster)</li><li>Experience defining delivery pipelines; demonstrable work in automation and observability (Bonus points for experience using GitOps for deployment)</li><li>Understand K8s resiliency patterns (HPA, self-healing)</li><li>Understands container image optimization</li></ul><p><br></p><p><strong>QUALIFICATIONS:</strong></p><ul><li>Minimum of 6 years of related experience</li><li>Bachelor's degree required</li><li>Kubernetes and/or Tanzu or OpenShift Container Platform.</li><li>Kubernetes and Python</li><li>Expertise in Tanzu Solutions As A Service Offerings</li><li>Experience delivering infrastructure as code using CI/CD practices</li><li>Proven track record of applying technology to tackle business problems.</li><li>Experience with migrate/onboard application onto Kubernetes</li><li>AWS associate certifications or higher preferred</li></ul><p>RedHat certifications in Linux and OpenShift administration preferred</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"HireTalent - Diversity Staffing & Recruiting Firm\", \"sameAs\": \"https://www.linkedin.com/company/hiretalent_\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHehObDjpdjFA/company-logo_200_200/0/1519906807149?e=1636588800&v=beta&t=wLUFoAJlvkH2XEwt2UrRaFCfgipTcWJR7ZhXKem1aFI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"HireTalent - Diversity Staffing & Recruiting Firm\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHehObDjpdjFA/company-logo_100_100/0/1519906807149?e=1636588800&v=beta&t=2Alcxnry0oXm0V4BHNowXIrJVity70pqognpXvtsHiA\", \"industry\": \"Banking,Financial Services,Investment Banking\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Jersey City\", \"addressRegion\": \"NJ\", \"postalCode\": \"07306\", \"streetAddress\": null}, \"latitude\": 40.717495, \"longitude\": -74.04411}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-03T15:13:12.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

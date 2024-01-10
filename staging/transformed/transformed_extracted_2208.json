@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-02T16:22:38.000Z\", \"description\": \"Come work as a <strong>Remote Data Scientist </strong>at one of the Top Company that offers exceptional benefits with opportunities to advance and learn alongside accomplished Technology leaders.             <br> <br><strong>Important Note: This is 100% REMOTE position. </strong><br> <br><strong>Must Have Skills:</strong><br><ul><br><li>4+ years of hands-on experience in developing analytics with machine learning, deep learning, NLP, and/or other related modelling techniques</li><li>3 - 5 years of experience using advanced data science tools such as R, Python, SQL, Spark and H2O</li><li>3 - 5 years of experience developing and deploying analytic solutions using AWS or Azure or GCP</li><li>Experience working with extremely large data sets</li></ul><br><br> <br><strong>Responsibilities:</strong><br><ul><br><li>Research, Design, Implement and Deploy full-stack scalable machine learning solutions to support intelligent operations initiatives</li><li>Conduct hands-on data analysis and predictive analytics on large datasets</li><li>Apply computational algorithms and statistical methods to structured and unstructured data</li><li>Effectively communicate complex technical results to business partners</li><li>Support and drive analytic efforts around machine learning and innovation</li><li>Work with a great deal of autonomy to find solutions to complex problems</li><li>Coach and mentor junior data scientists</li></ul><br><strong> </strong><strong>Benefits:</strong><br><ul><br><li>Top industry pay</li><li>Excellent growth and advancement opportunities</li></ul><br><br><br><br> <br><br><br> <br><br><br><br><br><br><br><br>Data Scientist\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Collabera Inc.\", \"sameAs\": \"https://www.linkedin.com/company/collabera\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQG-lDaaTlZa1A/company-logo_200_200/0/1625228656341?e=1635984000&v=beta&t=5m5PHhiUlh6nQf5HCevXuLeaiG03UOxc9nOSAVsWwYQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Collabera Inc.\", \"value\": \"282538\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQG-lDaaTlZa1A/company-logo_100_100/0/1625228656341?e=1635984000&v=beta&t=QjyPXH9H1HLyWJAaRhzJ9H4UQaWtSek0jwCJUWKEx44\", \"industry\": \"Hospital & Health Care,Pharmaceuticals,Biotechnology\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Eden Prairie\", \"addressRegion\": \"MN\", \"postalCode\": \"55344\", \"streetAddress\": null}, \"latitude\": 44.854034, \"longitude\": -93.46017}, \"skills\": \"\", \"title\": \"REMOTE Data Scientist\", \"validThrough\": \"2021-09-01T16:22:38.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

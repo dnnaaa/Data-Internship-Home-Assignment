@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-10T08:20:29.000Z\", \"description\": \"Looking for a <strong>data scientist / machine learning engineer </strong>to join us to work models based on the construction data + public data sets that would help to build The Internet in US rural areas where, today, people have poor service, or no service at all.<br><ul><li>learning business</li><li>converting business to technical ideas</li><li>converting these ideas to computer programs and models</li></ul> <strong>Three Must Have Technical Skill Sets<br></strong><ul><li>fast.ai / PyTorch</li><li>Python / Clojure</li><li>pandas</li></ul> <strong>Three \\u201cNice to have\\u201d Technical Skills<br></strong><ul><li>scikit-learn</li><li>deep learning</li><li>data visualization (not via packaged software, but via libs like \\u201cseaborn\\u201d, \\u201cggplot\\u201d, etc.)</li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"inSync Staffing\", \"sameAs\": \"https://www.linkedin.com/company/insync-staffing\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQG1aTmZCHJK0w/company-logo_200_200/0/1519907249449?e=1636588800&v=beta&t=kLznjQp6D5aAg4gK2UGfPTTosJmZ2XUGDJKkaBl6gQo\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"inSync Staffing\", \"value\": \"80-21-13232\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQG1aTmZCHJK0w/company-logo_100_100/0/1519907249449?e=1636588800&v=beta&t=vNbxvgKtvWBG-lIl_DtVsapm77LznVThxsmtV9v5_C0\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Roswell\", \"addressRegion\": \"GA\", \"postalCode\": \"30076\", \"streetAddress\": null}, \"latitude\": 34.021652, \"longitude\": -84.36167}, \"skills\": \"\", \"title\": \"Data Scientist / Machine Learning Engineer (remote)\", \"validThrough\": \"2021-09-09T08:20:29.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

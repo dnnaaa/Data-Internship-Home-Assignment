@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-14T14:28:22.000Z\", \"description\": \"<strong>Introduction<br></strong>The data science team at iRobot builds models, runs experiments, and conducts analyses to understand our fleet of millions of consumer robots. Our expertise in machine learning, statistical analysis, experimentation, and focus on the customer help us to produce data-driven digital features for robots and users around the world. Join our team as a data scientist with a focus on marketing applications!<br><br><strong><u>What You Will Do<br></u></strong><ul><li>Perform analyses and data mining to better understand our customers and our business, joining data points across multiple sources.</li><li>Develop metrics to track company performance, contribute to data definitions, and write documentation.</li><li>Build models to forecast revenue, understand attribution or LTV, and predict conversion or churn rates.</li><li>Test hypotheses about company performance using appropriate statistical methods.</li><li>Uphold scientific best practices in experimental design and testing.<br><br></li></ul><strong><u>To Be Successful You Will Have<br></u></strong><ul><li>Bachelor\\u2019s degree in a STEM field or social sciences \\u2013 M.S is a plus!</li><li>At least 1-2 years of relevant job, internship, or co-op experience at a direct-to-consumer brand, marketing agency, or consultancy.</li><li>Proficient in Python (pandas, numpy, sklearn, scipy), SQL, and data visualization (matplotlib, seaborn, or plotly).</li></ul><ul><li>Possess fundamental understanding of machine learning algorithms (e.g. regression, decision trees, time-series analysis, clustering, etc.)</li><li>Savvy in statistical methods and able to select the right test for the situation.</li><li>Can balance business considerations with the need for scientific rigor.</li><li>Customer-focused, with demonstrated experience in the marketing domain.</li><li>Self-motivated and comfortable working in a fast-paced, delivery-focused environment.</li><li>Skilled communicator who can collaborate effectively across multiple teams.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"iRobot\", \"sameAs\": \"https://www.linkedin.com/company/irobot\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4E0BAQGZ0qhEh8w63A/company-logo_200_200/0/1625144893147?e=1634169600&v=beta&t=YHl81ls5k-SoWMd_mcvPiCRYzes6iegqkBWJKIDjwTY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"iRobot\", \"value\": \"R2043\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4E0BAQGZ0qhEh8w63A/company-logo_100_100/0/1625144893147?e=1634169600&v=beta&t=Dw8lUnNlBwkTE0npsnJZMbw3vW7Y3ekehfDF070b29A\", \"industry\": \"Marketing and Advertising,Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Bedford\", \"addressRegion\": \"MA\", \"postalCode\": \"01730\", \"streetAddress\": null}, \"latitude\": 42.492237, \"longitude\": -71.279945}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-08-13T14:28:22.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 91000, \"maxValue\": 154000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

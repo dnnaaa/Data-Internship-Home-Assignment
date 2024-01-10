@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T17:58:11.000Z\", \"description\": \"<ul><li>Proven track record working with higher tier customer issues (system, back-end issues)</li><li>2+ years software development experience</li><li>Experience with common software development methodologies and practices</li><li>Basic familiarity with cloud infrastructures such as</li><li>AWS</li><li>Azure</li><li>GCP</li><li>Other general technical skills</li><li>Basic Linux / Unix experience</li><li>Docker</li><li>Kafka</li><li>Heroku</li></ul><p><br></p><p>. Minimum work experience: 5 - 8 YEARS</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Wipro\", \"sameAs\": \"https://in.linkedin.com/company/wipro\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEykAO7E8hS6A/company-logo_200_200/0/1625251092178?e=1637798400&v=beta&t=FzWy1Cgdz8KJEGMX97Kti9UrHew1xPu3hI-_1BKKaxk\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Wipro\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEykAO7E8hS6A/company-logo_100_100/0/1625251092178?e=1637798400&v=beta&t=X5iHls-Ldf6OUF7keF8YCMtpV1RYuzJ_r3HnwS47Ax0\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Montville\", \"addressRegion\": \"CT\", \"postalCode\": \"06353\", \"streetAddress\": null}, \"latitude\": 41.45303, \"longitude\": -72.13634}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-19T17:58:11.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

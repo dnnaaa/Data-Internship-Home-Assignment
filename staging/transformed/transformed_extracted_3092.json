@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-06T05:10:32.000Z\", \"description\": \"A Site Reliability Engineer ensures the availability of RainFocus applications by constantly improving our monitoring processes, addressing scalability problems, and helping triage production issues.<br><br><strong> Essential Responsibilities <br></strong><ul><li>Monitor production systems performance to ensure event and feature launches go smoothly.</li><li>Debug critical production issues, and provide a Root Cause Analysis after.</li><li>Architect and develop tooling as needed to automate or improve monitoring and alerting processes.</li></ul>Required Experience/Skills &amp; Attributes:<br><ul><li>3+ years of professional software development experience.</li><li>BS in Computer Science, a similar field, or equivalent experience</li><li>Experience in Object-Oriented design and programming.</li><li>Experience working with a Relational Database Management System, including database design and advanced SQL Queries.</li><li>Experience scaling systems in a high traffic environment.</li><li>Experience using a variety of technologies to solve problems, and being able to pick the right tool for the job.</li><li>Experience with AWS and/or Kubernetes is a plus.<br><br></li></ul><strong> Personal Characteristics <br></strong><ul><li>The best candidates for this position will need to have strong chemistry and a culture fit within RainFocus. They will need to be comfortable working in a fast-paced, challenging, and dynamic environment. Additional personal qualities include:</li><li>Team-player</li><li>Self-motivated</li><li>Strong Communicator<br><br></li></ul><strong> Success Measures <br></strong><ul><li>A good steward of company resources.</li><li>Takes ownership of assigned tasks, and sees them through to completion.</li><li>Able to communicate across multiple teams and disciplines.</li><li>A passion for solving complex problems with custom code and off-the-shelf products.</li></ul> Remote options available. Some travel may be required.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"RainFocus\", \"sameAs\": \"https://www.linkedin.com/company/rainfocus\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGsWrC9_pDiEg/company-logo_200_200/0/1579724644026?e=1636588800&v=beta&t=Qs_jcUVoNvwnW7MjofHEIlbEnK44w4Rjco2SBAHarxY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"RainFocus\", \"value\": \"713e49dd-4935-43c4-8771-e6937993a649\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGsWrC9_pDiEg/company-logo_100_100/0/1579724644026?e=1636588800&v=beta&t=uUtRGUAnHof2-ZF1UU7279V75IStsx3G4sRy4BX9GFw\", \"industry\": \"Marketing and Advertising,Information Technology and Services,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Lehi\", \"addressRegion\": \"UT\", \"postalCode\": \"84043\", \"streetAddress\": null}, \"latitude\": 40.387875, \"longitude\": -111.84917}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-05T05:10:32.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

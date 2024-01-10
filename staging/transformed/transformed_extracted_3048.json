@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-06T23:12:14.000Z\", \"description\": \"Expected compensation: $52.00 - $59.00 per hour<br><br>HireArt is helping the world\\u2019s largest social network find a Software Engineer to join the test infrastructure team for one of its flagship devices.<br><br>In this role, you\\u2019ll maintain automation and lab environments related to the device, as well as work with its upcoming prototypes.<br><br><strong><u>As a Software Engineer, You Will<br></u></strong><ul><li>Modify existing databases and database management systems.</li><li>Write/code logical and physical database descriptions and specify identifiers of the database to the management system (or direct others in coding descriptions).</li><li>Work as part of a project team to coordinate database development and determine project scope and limitations.</li><li>Review project requests describing database users\\u2019 needs in order to estimate time and cost required to accomplish projects.<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Bachelor's in computer science, software engineering, or relevant field</li><li>1+ years experience as a software engineer or in relevant role</li><li>Proficiency with Python</li><li> Knowledge of computer development software as it relates to systems (e.g. SQL, VisualBasic, etc.)</li><li>Basic knowledge of the full software development lifecycle (i.e. business/systems analysis, requirements gathering, functional specification authoring, development, testing, and delivery)</li><li> Basic knowledge of computer hardware and software</li><li>Verbal/written communication, problem solving, customer service, and interpersonal skills</li><li>Basic ability to work independently and manage your time</li><li> Basic ability to troubleshoot issues and make system changes as needed to resolve them<br></li></ul><strong>Commitment:</strong><em>This is a full-time, 6-month contract position (with the potential for extension or conversion) staffed via HireArt and based in Burlingame, CA. It will be fully remote until offices reopen and is available to candidates local to the area.<br><br></em><em>HireArt values diversity and is an Equal Opportunity Employer. We are interested in every qualified candidate who is eligible to work in the United States. Unfortunately, we are not able to sponsor visas or employ corp-to-corp.<br><br></em>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"HireArt\", \"sameAs\": \"https://www.linkedin.com/company/hireart\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQH3tCjOx7d5eQ/company-logo_200_200/0/1623163198982?e=1636588800&v=beta&t=dS-IU8s0BCmpZDGez6KcvpA9Djh7Useyk8OOdaoWaF8\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"HireArt\", \"value\": \"300c2a8f\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQH3tCjOx7d5eQ/company-logo_100_100/0/1623163198982?e=1636588800&v=beta&t=e8UgdF6p38KeqCunfAVu9ydJy4rUAYAURWe6bYNfbDo\", \"industry\": \"Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Burlingame\", \"addressRegion\": \"CA\", \"postalCode\": \"94012\", \"streetAddress\": null}, \"latitude\": 37.584194, \"longitude\": -122.366264}, \"skills\": \"\", \"title\": \"Software Engineer I\", \"validThrough\": \"2021-09-05T23:12:14.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

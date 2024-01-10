@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T00:11:59.000Z\", \"description\": \"<p>A permanent/direct-hire <strong>Network Engineer</strong> position is available with an IT organization located in Roseville, CA. Only local candidates are currently being considered. </p><p><br></p><p>Essential Duties and Responsibilities:</p><ul><li>Designing and implementing new network solutions and/or improving the efficiency of current networks</li><li>Installing, configuring, and supporting network equipment including routers, proxy servers, switches, WAN accelerators, DNS and DHCP</li><li>Configuring firewalls, routing, and switching to maximize network efficiency and security</li><li>Maximizing network performance through ongoing monitoring and troubleshooting</li><li>Arranging scheduled upgrades</li><li>Investigating faults in the network</li><li>Updating network equipment to the latest firmware releases</li><li>Reporting network status to key stakeholders</li><li>Support services for: Microsoft related technologies: Windows Server, Exchange, SQL, O365, etc.; Virtualization technologies: VMware and Hyper-V; Remote access solutions: Fortinet VPN, Duo; DHCP and DNS; Security Suite: FortiNet, Carbon Black, MimeCast</li></ul><p><br></p><p>Knowledge, Skills, and/or Abilities Required: </p><ul><li>3+ years\\u2019 experience with Networking and Security</li><li>Interpersonal skills: such as telephony skills, communication skills, active listening and customer-care</li><li>Ability to multi-task and adapt to changes quickly</li></ul><p><br></p><p>Apply now!</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Modis\", \"sameAs\": \"https://ch.linkedin.com/company/modis\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_200_200/0/1603190267070?e=1637798400&v=beta&t=4U0nP92bmqBHZBcVMYAh-mKaH2zBwXGiXgv-ozVlcss\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Modis\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_100_100/0/1603190267070?e=1637798400&v=beta&t=WOQIp9mbhJI6WJFXcuORZ4QqKWf8_deAW0S29CrjiGw\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Roseville\", \"addressRegion\": \"CA\", \"postalCode\": \"95747\", \"streetAddress\": null}, \"latitude\": 38.74806, \"longitude\": -121.2852}, \"skills\": \"\", \"title\": \"Network Engineer\", \"validThrough\": \"2021-09-19T00:11:57.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

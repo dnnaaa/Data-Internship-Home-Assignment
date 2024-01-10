@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-07T19:05:17.000Z\", \"description\": \"<p><strong>Description:&nbsp;</strong></p><p>The 5G Software team develops software for the next generation of modems. The test engineer will work closely with software, systems, and firmware engineers to develop test cases, test tools and test environments with a specific focus on automation.&nbsp;</p><ol><li>MS in Electrical Engineering, Computer Science, or related field.</li><li>Scripting experience specifically in Perl and/or Python</li><li>Test methodologies, debug and test development</li><li>Software development in a real-time environment, including data structures and OS concepts</li><li>Wireless communication systems (or DSP)</li></ol><p><strong>Preferred Qualifications:</strong></p><ol><li>Relevant experience with system test</li><li>Experience in wireless communication and embedded devices</li><li>Experience with communications systems including both physical and upper layers, and knowledge in evaluating wireless communications systems through log analysis isolating issues</li></ol>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"ALTEN\", \"sameAs\": \"https://fr.linkedin.com/company/alten\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEqoRcq4y4NmA/company-logo_200_200/0/1559831655709?e=1634169600&v=beta&t=GIj6uXYEFRU7-rayjKKQrKoJV6GPhHbbWTbjAT5qAQc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"ALTEN\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEqoRcq4y4NmA/company-logo_100_100/0/1559831655709?e=1634169600&v=beta&t=B6Lqg1n2tt_O68t6JpDGWPACzkzcYAVlpvd7oT5Yk1o\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"San Diego County\", \"addressRegion\": \"CA\", \"postalCode\": \"92101\", \"streetAddress\": null}, \"latitude\": 32.71576, \"longitude\": -117.16382}, \"skills\": \"\", \"title\": \"Software System Test Engineer\", \"validThrough\": \"2021-08-06T19:05:16.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

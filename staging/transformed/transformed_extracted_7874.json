@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-04T20:19:49.000Z\", \"description\": \"<p>**C2C or Sponsorship is&nbsp;<u>NOT</u>&nbsp;available for this position**&nbsp;</p><p><br></p><p>Job Title:&nbsp;Sr. Site Reliability Engineer (SRE)</p><p>Job Type:&nbsp;Permanent/Direct Hire</p><p>Job Location:&nbsp;Marietta, GA - The client is still working remote, but will eventually move to a hybrid work schedule. Candidates based in Atlanta are preferred.</p><p>&nbsp;</p><p>Target years of Experience:&nbsp;4+ years of engineering experience</p><p><br></p><p>Top 3-5 Skillsets:</p><ul><li>Experience with AWS (The client is migrating to AWS right now).</li><li>Senior level Linux administration experience&nbsp;</li><li>Programming experience with Bash, Python, Ruby, Go, Java, or C/C++</li><li>Experience building CI/CD &amp; deployment pipelines&nbsp;</li></ul><p><br></p><p><u>Preferred:</u></p><ul><li>Kubernetes experience</li></ul><p><br></p><p>What this job is:</p><p>Building automation of:</p><ul><li>Infrastructure</li><li>Configuration</li><li>Deployment of infrastructure</li><li>Build/Test/Deploy/Release of code</li></ul><ol><li>Maintain log shipping best practices, including tagging, tracing, alerting and analysis tools.</li><li>Maintain monitoring and observe of applications and systems.</li><li>Deploy and maintain healthy, performance, compliant platforms (Linux, dependencies, application servers, database).</li><li>Build and maintain pipelines for CI, CD and deployment.</li><li>Writing Infrastructure as code (Terraform)</li></ol><p><br></p><p><u>Tech Stack:</u>&nbsp;&nbsp;Linux, Chef, Puppet, Terraform, Jenkins, AWS.</p><p><br></p><p><u>Team Dynamics:</u>&nbsp;Agile environment. TDD, Collaborative team environment.</p><p><br></p><p>**C2C or Sponsorship is Not available for this position**</p><p><br></p><p><em>Equal Opportunity Employer/Veterans/Disabled</em></p><p><em>To read our Candidate Privacy Information Statement, which explains how we will use your information, please visit https://www.modis.com/en-us/candidate-privacy/</em></p><p><em>The Company will consider qualified applicants with arrest and conviction records.</em>&nbsp;&nbsp;</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Modis\", \"sameAs\": \"https://ch.linkedin.com/company/modis\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_200_200/0/1603190267070?e=1641427200&v=beta&t=dVEs9_5YiKGOHeP07chUsENI-0RHmmhsd_JoxtXh20Q\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Modis\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_100_100/0/1603190267070?e=1641427200&v=beta&t=MNsoobRnAIzeVv-ngwoLPwfgqO_K2JZyluU-KvlFIak\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Marietta\", \"addressRegion\": \"GA\", \"postalCode\": \"30066\", \"streetAddress\": null}, \"latitude\": 33.952305, \"longitude\": -84.54905}, \"skills\": \"\", \"title\": \"Sr. Site Reliability Engineer\", \"validThrough\": \"2021-11-03T20:19:48.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

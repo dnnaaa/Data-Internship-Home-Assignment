@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-10T08:21:03.000Z\", \"description\": \"<u><strong>Job Responsibilities:<br><br></strong></u>Data science is in GAINSystems\\u2019 DNA. Our founder was an industrial engineering professor, and we remain a company of data-driven analysts and engineers. Although your daily tasks will vary, you will have the following responsibilities:<br><ul><li>Lead research and data science projects that convert models into operational value</li><li>Work with our professional services team to identify viable, valuable data-driven projects</li><li>Deliver fully functional, tested product prototypes</li><li>Collaborate with product managers and engineers to define the product and technical roadmaps</li><li>Contribute to extending our machine learning infrastructure</li><li>You will have the opportunity, though not necessarily the responsibility, to independently identify research projects<br></li></ul><u><strong>Candidate Requirements:<br></strong></u><ul><li>Intellectual curiosity to explore questions answerable with data.</li><li>Passion for experimentation.</li><li>Commitment to delivering data-driven results.</li><li>Strong statistical, computational, and mathematical foundations.</li><li>Excellent communication (verbal and written) skills, and ability to collaborate with teammates with heterogeneous technical/quantitative backgrounds.</li><li>Bachelor\\u2019s and graduate degrees in a quantitative field.</li><li>Academic or industrial experience with data science and/or machine learning.</li><li>Demonstrated experience with data-driven research.</li><li>Fluent in SQL, and Python or R.</li><li>NLP, reinforcement learning, and/or GAN experienced desired.</li><li>Java and graph DB familiarity preferred, but not required.<br></li></ul>At GAINSystems, we recognize that diversity and inclusion make our teams stronger. We are committed to equal employment opportunity and welcome everyone regardless of race, color, ancestry, religion, national origin, age, sex, gender identity, sexual orientation, disability, marital status, domestic partner status, veteran status or medical condition. We encourage people from all backgrounds to apply.<br><br>Powered by JazzHR<br><br>hCPyowIzLO\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"GAINSystems, Inc.\", \"sameAs\": \"https://www.linkedin.com/company/gainsystems\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGjhSrKbsUIFQ/company-logo_200_200/0/1623440330075?e=1634169600&v=beta&t=zKQNyvWBIjaZRgZkNDR1-UKNBbMuq8XYBwapeDRFUCY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"GAINSystems, Inc.\", \"value\": \"2835230\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGjhSrKbsUIFQ/company-logo_100_100/0/1623440330075?e=1634169600&v=beta&t=ZmO0DgMa5Qlyl9t0bsO9RtpRVGnik80z0fprzfKMP_E\", \"industry\": \"Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-08-09T08:21:03.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

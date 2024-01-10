@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-15T18:28:33.000Z\", \"description\": \"<p><strong>Role Description: Data Scientist / Sr. Consultant - AI</strong></p><p>As a AI Translator/Sr. Consultant-AI on the Data Science team, you will play a critical role in ideating, developing and then implementing advanced analytics solution in production. You will be helping business leaders identify and prioritize their business problems, based on value creation and Business ROI. These may be opportunities within a single line of business or cross-organizational initiatives. This role helps in bridging the technical expertise of Data Scientists with the operation expertise of frontline managers thereby ensuring that the deep insights generated through sophisticated analytics translate into impact at scale in an organization.</p><p>&nbsp;</p><p>Potential hires are expected to own the end-to-end process from development into implementation which involves data extraction, feature engineering, model building and model testing along with documentation.</p><p><strong>&nbsp;</strong></p><p><strong>Role and responsibilities</strong></p><p><strong>Problem solving and client consulting:</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong problem solving and analytical skills with excellent understanding of critical business problems in domains \\u2013 preferably Telecom.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breaking up big business problems into actionable Analytics/ Data Science problems</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Give thought leadership on problem definition and defining the key metrics to target.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to translate a business problem into digital and analytics problem.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\u201cOwn the problem\\u201d and integrate design, analytics, and engineering capabilities to deliver impactful solution to client problems.</p><p>&nbsp;</p><p><strong>Data Analytics and Insights</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand client and business<strong> </strong>domain and integrate client business issues with data insights.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to analyze business metrics, perform data analysis to generate and deliver impactful insights and recommendation.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Identify the important variables that will be required for the model.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design the validation metric to evaluate machine learning models.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to work in multiple projects/ problems in parallel.</p><p><strong>&nbsp;</strong></p><p><strong>Technical skills requirements</strong></p><p>The candidate must demonstrate proficiency in,</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conceptual understanding on machine learning techniques</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extremely detail-oriented with high standards for written and visual presentation of information as well as idea. </p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to develop and articulate strategic recommendations based on rigorous data analysis.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong expertise in SQL</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prior experience in ML models deployed in production.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong understanding of A/B, Multivariate testing. </p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA/preliminary model building using Python.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Visualization skills in Tableau/Power BI/Looker or similar tools.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with model explainability techniques and building an explainable ML solution.</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience presenting to and influencing functional leaders and stakeholders.</p><p><strong>&nbsp;</strong></p><p><strong>Nice-to-have skills:</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prior experience with Telecom industry and a deep understanding of common problem statements and solutions in Telecom </p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exposure to working in a cloud environment (preferably GCP)</p><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Incedo Inc.\", \"sameAs\": \"https://www.linkedin.com/company/incedo-inc\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQGdJyar1d6azQ/company-logo_200_200/0/1625217331615?e=1634169600&v=beta&t=5uRW-Ig3XL6BjFcsIipVFisazfgwqqBDwYXUGDnPNiI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Incedo Inc.\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQGdJyar1d6azQ/company-logo_100_100/0/1625217331615?e=1634169600&v=beta&t=dWjj4WgqsWsssUBVTs0cf_ak11DcaNlaA1hLjAHxwDo\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-08-14T18:28:32.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

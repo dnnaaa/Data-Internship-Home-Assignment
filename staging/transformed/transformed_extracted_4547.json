@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-18T17:23:24.000Z\", \"description\": \"<p>Software Engineer</p><p>100% Remote</p><p>6 month contract-to-hire</p><p>Fortune 500 Health Client</p><p>&nbsp;</p><p><strong>Position Overview:&nbsp;&nbsp;</strong></p><p>Team member will work on a team of truly talented individuals and be responsible for design, build and testing (using automation scripts but not limited to unit/integration/performance testing) of Product Enrollment Suite. This team is responsible for 5 systems all having to do with product. You will be working with homegrown systems and client systems. The candidate will be responsible for building&nbsp;components of the&nbsp;Product Enrollment Suite with a range of cutting edge technologies that interface with various enterprise systems.</p><p>&nbsp;</p><p><strong>Key Technologies Needed:&nbsp;&nbsp;</strong></p><ul><li>Angular&nbsp;</li><li>Nodejs/Typescript</li><li>Python&nbsp;</li><li>Deployment/containerization tools (Kubernetes/docker/jenkins/etc.)&nbsp;</li></ul><p>&nbsp;</p><p><strong>Required Experience&nbsp;/ Qualifications:&nbsp;&nbsp;</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solid Analytical skills</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Familiar with&nbsp;Micro-services Architecture and Rest patterns using leading industry recommended security frameworks</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in Data Integration (batch, real-time) following Enterprise Integration Patterns</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highly motivated, well-rounded, team player and self-starter that works best in a collaborative, dynamic, agile environment&nbsp;</p><p>&nbsp;</p><p><strong>Desired Experience / Qualifications:&nbsp;&nbsp;</strong></p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in Cloud and related technologies such as AWS, Google, Azure</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SAFe Agile experience, with any SAFe certifications a plus</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of reporting/BI tools such as Cognos would be plus</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quick learner of new technologies and adapt to changes</p><p>\\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent communication skills&nbsp;&nbsp;</p><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Brooksource\", \"sameAs\": \"https://www.linkedin.com/company/brooksource\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEpBYagiK3vWA/company-logo_200_200/0/1519856551676?e=1637193600&v=beta&t=paN-SOPH1KwUfd_tC7m8sdN38sKkPzd1JMw_vIZTgSQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Brooksource\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQEpBYagiK3vWA/company-logo_100_100/0/1519856551676?e=1637193600&v=beta&t=9pH7CUuU3G0SBmv5IHblG8_Gxi1cvzvET9LJJ6Z8MAE\", \"industry\": \"Information Technology and Services,Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Indianapolis\", \"addressRegion\": \"IN\", \"postalCode\": \"46203\", \"streetAddress\": null}, \"latitude\": 39.76845, \"longitude\": -86.15621}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-09-17T17:23:24.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

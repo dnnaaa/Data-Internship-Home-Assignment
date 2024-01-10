@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-19T17:11:09.000Z\", \"description\": \"<p><strong><em><u>Summary:</u></em></strong>&nbsp;</p><p>The New York Mets are seeking a&nbsp;Software Engineer. This&nbsp;engineer&nbsp;will&nbsp;design,&nbsp;build, test, and&nbsp;deploy mobile and web applications&nbsp;that&nbsp;enrich the&nbsp;Mets&nbsp;data ecosystem and&nbsp;inform decision-making&nbsp;within&nbsp;Baseball Operations. This position requires strong background&nbsp;in&nbsp;mobile and web development. The ideal candidate would be a strong engineering generalist with prior experience&nbsp;building&nbsp;rapid prototypes&nbsp;and comfort in&nbsp;working on&nbsp;UX-focused&nbsp;products for users with varying levels of technical familiarity.&nbsp;<strong><em>Prior experience in or knowledge of baseball is a plus but is not required.</em></strong>&nbsp;</p><p><br></p><p><strong><em><u>Essential Duties &amp; Responsibilities:</u></em></strong>&nbsp;</p><ul><li>Develop&nbsp;exciting&nbsp;user-facing applications by designing,&nbsp;building, and deploying reliable, readable code&nbsp;for&nbsp;platforms within Baseball&nbsp;Operations&nbsp;</li><li>Collaborate with a variety of internal stakeholders to validate&nbsp;designs and facilitate clean rollouts and deployments of new&nbsp;products&nbsp;</li><li>Build and maintain backend APIs to facilitate scalable flow of baseball&nbsp;data&nbsp;&nbsp;</li><li>Integrate&nbsp;with&nbsp;a variety of third-party APIs&nbsp;to enrich the New York Mets data&nbsp;ecosystem&nbsp;</li><li>Work&nbsp;with data engineers to facilitate the easy collection and access of valuable baseball&nbsp;data&nbsp;</li><li>Maintain and scale a&nbsp;broad collection of internal applications that&nbsp;enhance player development, scouting, and executive decision&nbsp;making&nbsp;</li></ul><p><br></p><p><strong><em><u>Qualifications:</u></em></strong>&nbsp;</p><ul><li>Bachelor\\u2019s&nbsp;degree in&nbsp;computer science&nbsp;or a related field&nbsp;</li><li>3+ years&nbsp;of relevant work experience&nbsp;</li><li>Strong proficiency in&nbsp;Javascript&nbsp;(including React, React Native,&nbsp;and/or Node.js frameworks)&nbsp;</li><li>Experience building scalable system&nbsp;within&nbsp;cloud&nbsp;platforms,&nbsp;e.g.&nbsp;GCP,&nbsp;AWS&nbsp;</li><li>Experience reviewing code and&nbsp;developing test suites&nbsp;for scalable technological&nbsp;systems&nbsp;</li><li>Experience working with MySQL or other relational&nbsp;databases&nbsp;</li><li>Familiarity with modern agile practices and development tools&nbsp;</li><li>Ability to work&nbsp;collaboratively&nbsp;with&nbsp;designers, analysts, and other&nbsp;engineers&nbsp;</li><li>Strong written and verbal communication skills&nbsp;</li><li>Prior experience&nbsp;in baseball or biomechanics analysis is a&nbsp;plus&nbsp;</li><li>Prior experience in mobile development (Objective-C, Java) is a plus&nbsp;</li></ul><p><br></p><p><em>The above information is intended to describe the general nature, type, and level of work to be performed.&nbsp;The information is not intended to be an exhaustive or complete list of all responsibilities, duties, and skills required for&nbsp;this position.&nbsp;Nothing in this job description restricts management\\u2019s right to assign or reassign duties and responsibilities to this job at any time.&nbsp;The individual selected may perform other related duties as assigned or requested.</em>&nbsp;</p><p><br></p><p><strong>The New York Mets recognize the importance of a diverse workforce and value the unique qualities individuals of various backgrounds and experiences can offer to the Organization. Our continued success depends heavily on the quality of our workforce. The Organization is committed to providing employees with the opportunity to develop to their fullest potential.&nbsp;&nbsp;&nbsp;</strong></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"New York Mets\", \"sameAs\": \"https://www.linkedin.com/company/new-york-mets\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQH91tOKpiZ6Kg/company-logo_200_200/0/1519856359212?e=1635984000&v=beta&t=soB4oYBzGKwbhhnEZOp_0VZ59jnFQiDmqZNkAWU-iVI\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"New York Mets\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQH91tOKpiZ6Kg/company-logo_100_100/0/1519856359212?e=1635984000&v=beta&t=TJFvyj87HsRlZRXpzityW2VfZN9HkMoDqHYui-Q2u4E\", \"industry\": \"Sports\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York City Metropolitan Area\", \"addressRegion\": null, \"postalCode\": \"10021\", \"streetAddress\": null}, \"latitude\": 40.748295, \"longitude\": -73.98556}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-08-18T17:11:08.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

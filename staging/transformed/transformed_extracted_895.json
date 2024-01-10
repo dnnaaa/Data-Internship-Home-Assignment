@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-20T03:27:34.000Z\", \"description\": \"<ul><li>Proficient in three or more of the following programming languages R, Python, SAS or SQL</li> <li>Ability to perform advanced statistical analysis and modeling such as liner and non-liner regression, resampling and Markov chains</li> <li>Extensive knowledge of predictive modeling, machine learning algorithms such as clustering, decision trees, dimensionality reduction and natural language processing</li> <li>Proficient in feature engineering techniques and exploratory data analysis</li> <li>Working knowledge of optimization techniques and artificial intelligence methods</li> <li>Ability to analyze large quantities of information and identify patterns, irregularities, and deficiencies</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>The Data Scientist is responsible for designing and validating predictive models, machine learning models, and artificial intelligence that inform and improve business processes across the organization (operational, clinical, financial, marketing, etc.).<br><br><strong><u>Essential Functions<br></u></strong><ul> <li>Mine and analyze large structured and unstructured datasets</li> <li>Develop visualizations that demonstrate the efficacy of models </li> <li>Provide statistical validation of outcomes analysis associated with clinical programs and interventions</li> <li>Communicate results and ideas to key stakeholders</li> <li>Perform any other job duties as requested</li></ul></li></ul>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Pierce Professional Resources\", \"sameAs\": \"https://www.linkedin.com/company/pierce-professional-resources\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQELBnoVKJtaEg/company-logo_200_200/0/1519856382152?e=1634774400&v=beta&t=0T9NbmcpgjWyJBVu7fAkKpzE4Rtmhg5guC3qj_PH4DY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Pierce Professional Resources\", \"value\": \"4F08199B69\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQELBnoVKJtaEg/company-logo_100_100/0/1519856382152?e=1634774400&v=beta&t=ptyzSoypWy0eJx0bs9vlFzoJj902y2z4-6PRHNwhlUA\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dayton\", \"addressRegion\": \"OH\", \"postalCode\": \"45409\", \"streetAddress\": null}, \"latitude\": 39.760983, \"longitude\": -84.1922}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-08-19T03:27:35.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

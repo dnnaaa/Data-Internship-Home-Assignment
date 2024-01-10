@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T14:00:36.000Z\", \"description\": \"<p><strong>Must Haves</strong></p><ul><li>6+ years of experience designing, building, deploying, testing, maintaining, monitoring and owning scalable, resilient and distributed machine learning systems and platforms.</li><li>Proficiency in operating machine learning solutions at scale, covering the end-to-end ML workflow.</li><li>Expertise with tools and platforms commonly used for end-to-end machine learning (Kubeflow, TFX, Airflow, MLflow, ...).</li><li>Knowledge of Feature Stores (e.g. Feast, Tecton).</li><li>Basic understanding of ML techniques and algorithms (supervised vs. unsupervised learning, deep learning, ...).</li><li>Familiarity with real-world ML systems (configuration, data collection, data verification, feature extraction, resource and process management, analytics, training, serving, validation, experimentation, monitoring).</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Majhi Group\", \"sameAs\": \"https://www.linkedin.com/company/majhigroup\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEQxUJvIb-VHQ/company-logo_200_200/0/1622374819064?e=1637798400&v=beta&t=FpsK3mhlihnZF4ibBHd3LXTzJeX_nkEXoEIy-HLQcy0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Majhi Group\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEQxUJvIb-VHQ/company-logo_100_100/0/1622374819064?e=1637798400&v=beta&t=J4QgraPoyC9KU2_PeRWMsTd0bNsKTJdqOWNjAlP1U8s\", \"industry\": \"Information Services,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Seattle\", \"addressRegion\": \"WA\", \"postalCode\": \"98133\", \"streetAddress\": null}, \"latitude\": 47.60323, \"longitude\": -122.33028}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-19T14:00:35.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

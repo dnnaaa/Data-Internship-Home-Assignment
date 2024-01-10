@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-23T14:22:51.000Z\", \"description\": \"<p><strong>Required Qualifications:</strong></p><ul><li>4-5 years of work experience year work experience in a DevOps or Site Reliability Engineer role.</li><li>Good working knowledge in production/application support</li><li>Good with OOP concepts and Python programming/scripting</li><li>Strong Computer Science fundamentals in Data Structures, Algorithms, Complexity Analysis, Object-Oriented Design and Designing Large Scale Data-Intensive Applications.</li><li>4+ years industry experience in Expert Knowledge in Linux, Python, Shell, JavaScript, MongoDB, Elasticsearch, Redis</li><li>Comfortable multi-tasking, managing multiple stakeholders and working as part of a team</li></ul><p>&nbsp;</p><p><strong>Preferred Qualifications:</strong></p><ul><li>Experience in ELK Stack (Elasticsearch, Logstash, Kibana) or Prometheus + Grafana</li><li>Experience with continuous deployment/delivery practices</li><li>AWS Certifications such as Solution Architect, DevOps Engineer</li><li>Experience with Container technologies like Docker, Kubernetes</li><li>Experience with cloud computing systems</li><li>Networking including TCP, HTTP, DNS, SSL certificates</li><li>Knowledge of Slang/SecDB is a plus</li></ul><p><br></p><p><br></p><p>if your interested, please share updated resume to <u>dilipkumar.tm@itcinfotech.com</u></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"ITC Infotech\", \"sameAs\": \"https://in.linkedin.com/company/itc-infotech\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHChIp3T3c83w/company-logo_200_200/0/1519855878132?e=1637798400&v=beta&t=yFFkHiqiOGj-EBQL5FRN00cR4bByDydnS723d7mA9OE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"ITC Infotech\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHChIp3T3c83w/company-logo_100_100/0/1519855878132?e=1637798400&v=beta&t=FHmMmB2mCRVNTM5xLK0HPG1NwmTgNxN21oDsrrC0Qc0\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York City Metropolitan Area\", \"addressRegion\": null, \"postalCode\": \"10021\", \"streetAddress\": null}, \"latitude\": 40.748295, \"longitude\": -73.98556}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-09-22T14:22:50.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

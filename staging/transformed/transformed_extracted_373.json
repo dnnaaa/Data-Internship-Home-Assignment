@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-14T17:02:49.000Z\", \"description\": \"<p><strong>Job Title</strong>: Data Warehouse Lead</p><p><strong>Location</strong>: Vancouver, WA</p><p><strong>Job Type</strong>: Contract</p><p><strong>Visa:</strong> USC, GC</p><p><br></p><p><strong>Job Description:</strong></p><p>Expert-level knowledge of data warehousing patterns and processes</p><p>Expert-level knowledge of SAP Data Services platform, including configuration, development, testing, and administration</p><p>Solid knowledge of ETL patterns and processes, including data quality and data privacy management</p><p>Solid knowledge of data integration patterns and processes, including batch and streaming architectures</p><p>Solid knowledge of Oracle 12c database (or greater) and ANSI-SQL and PL/SQL languages</p><p>Solid knowledge of Power BI development and processes</p><p>Solid knowledge of testing strategies and automation specific to data pipelines</p><p>Familiarity with agile development practices</p><p>Familiarity with Microsoft Azure platform including common data pipeline and automation tools and integration gateways</p><p>Familiarity with DataOps principles for driving data quality throughout the application lifecycle</p><p>Familiarity with metadata management</p><p>Experience working with cross-functional teams in a dynamic environment</p><p>Good documentation habits and judgment</p><p>Good task management, status reporting, and adaptability to change.</p><p><br></p><p><strong>If you are interested kindly apply through the below link:</strong></p><p>https://bit.ly/3yWeZQn</p><p><br></p><p><strong>Recruiter Details:</strong></p><p>Mohamed sheik</p><p>(302) 310-5458</p><p>sheikmd_us@falconsmartit.com</p><p><br></p><p><strong>Find all current job openings at our Career Page</strong></p><p>https://www.falconsmartit.com/FalconCareer.html</p><p><br></p><p><strong>Follow us on LinkedIn for Job Opportunities</strong></p><p>https://www.linkedin.com/company/falconsmartit/</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Falcon Smart IT (FalconSmartIT)\", \"sameAs\": \"https://uk.linkedin.com/company/falconsmartit\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQFs181Tff7n_A/company-logo_200_200/0/1612359040205?e=1634169600&v=beta&t=D6Ckgu9vWQ4ke3c8fwp-T5qY-B0_X2AuJEgPdT4OKM0\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Falcon Smart IT (FalconSmartIT)\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQFs181Tff7n_A/company-logo_100_100/0/1612359040205?e=1634169600&v=beta&t=ZOle4XxJE76ZED2fhPKUC1fkBcCIfjwzD3Yrk375l2I\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Vancouver\", \"addressRegion\": \"WA\", \"postalCode\": \"98665\", \"streetAddress\": null}, \"latitude\": 45.63106, \"longitude\": -122.67157}, \"skills\": \"\", \"title\": \"Data Warehouse Engineer\", \"validThrough\": \"2021-08-13T17:02:48.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

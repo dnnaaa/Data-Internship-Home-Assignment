@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-25T16:54:58.000Z\", \"description\": \"<p><strong>Automation Engineer / Original Machine Learning Engineer<br><br></strong></p><p><strong>Fort Collins, Colorado, USA, 80528<br><br></strong></p><p><strong>Location: </strong><strong>Fort Collins, CO<br><br></strong></p><p><strong>Duration: 6 Months<br><br></strong></p><p> <br><br></p><p><strong>Required Skills<br><br></strong></p><ul><br><li><strong>7+ years of professional work experience optimizing DL/ML models for commercial deployment</strong></li><li><strong>7+ years of bench-marking, testing, and debugging models for most efficient performance on x86 CPU and Nvidia GPU architectures</strong></li><li>Hands-on experience using scripting languages such as Python, C/C++</li><li>Familiarity with hardware architectures beyond CPU and GPU (e.g., TPU, VPU, FPGA, etc.)</li><li>Experience with most popular Deep Learning frameworks (e.g., PyTorch, TensorFlow, etc.) and Machine Learning Techniques</li><li>Proven track record of successful implementation and deployment of DL/ML models at scale</li><li>Familiarity with general test automation for complex systems in public/private cloud</li></ul><br><br>TPU, VPU, FPGA,PyTorch, TensorFlow,GPU architectures, Python, C/C++,DL/ML models,x86 CPU\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Collabera Inc.\", \"sameAs\": \"https://www.linkedin.com/company/collabera\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQG-lDaaTlZa1A/company-logo_200_200/0/1625228656341?e=1635984000&v=beta&t=5m5PHhiUlh6nQf5HCevXuLeaiG03UOxc9nOSAVsWwYQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Collabera Inc.\", \"value\": \"280444\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQG-lDaaTlZa1A/company-logo_100_100/0/1625228656341?e=1635984000&v=beta&t=QjyPXH9H1HLyWJAaRhzJ9H4UQaWtSek0jwCJUWKEx44\", \"industry\": \"Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Fort Collins\", \"addressRegion\": \"CO\", \"postalCode\": \"80521\", \"streetAddress\": null}, \"latitude\": 40.58897, \"longitude\": -105.08246}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-24T16:54:57.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 84}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

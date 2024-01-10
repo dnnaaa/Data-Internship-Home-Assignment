@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-23T18:44:42.000Z\", \"description\": \"<p>We are looking for a machine learning engineer with a mastery of AWS (training and deploying models, lambdas and endpoints).</p><p><br></p><p>To succeed in this role, you should possess outstanding skills in machine learning methods and statistics.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Create, implement, and train machine learning models</li><li>Clean and structure data</li><li>Create and test hypotheses</li><li>Train the developed models to run evaluative experiments to refine models and increase accuracy</li><li>Remain updated in the rapidly changing field of machine learning</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>Strong command of structured and unstructured data preparation</li><li>Master/commander of Python</li><li>Mastery of AWS</li><li>Experience in relational and non-relational databases (eg. dynamoDB, mySQL)</li><li>Degree in Computer Science, Mathematics, Statistics, Computational Linguistics or similar field</li><li>At least 2 years of experience in a <strong>non-academic</strong> production role.</li><li>The ability to meet agreed upon deadlines and responsibilities.</li></ul><p><br></p><p><strong>Desirable</strong></p><ul><li>An analytical mind with problem-solving abilities</li><li>Strong communication skills</li></ul><p><br></p><p><strong>Interview Process:</strong></p><p>1. Google meet interview (10-15 min.)</p><p>2. check your references</p><p>3. take-home project (1hr)</p><p>3. Google Meet interview (20-30min.)</p><p><br></p><p><strong>Compensation:</strong></p><p>Job Type: Full-time</p><p>Pay: $90,000.00 - $150,000.00 per year</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"TUP Solutions\", \"sameAs\": \"https://www.linkedin.com/company/trackunderstandpredict\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHH2zc6p-1xfg/company-logo_200_200/0/1601062973701?e=1637798400&v=beta&t=GflfKAU3zQGMsxNQ8K6_JlfEk9XEHR9jpa1aNxhfcR4\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"TUP Solutions\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHH2zc6p-1xfg/company-logo_100_100/0/1601062973701?e=1637798400&v=beta&t=80rrFtYGMGLCeZAPg-x2QE2N4TvTWGrMTebKpfHbOpo\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2022-02-19T18:44:24.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 90000, \"maxValue\": 150000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

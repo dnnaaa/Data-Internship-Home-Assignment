@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T20:54:15.000Z\", \"description\": \"<p><strong>REQUIREMENTS</strong></p><p><strong>As a member of the team, you will:</strong></p><ul><li>Be responsible for our end-to-end machine learning pipeline, from model development to production deployment.</li><li>Build the team and drive the direction of the company.</li><li>Shape our product and culture.</li><li>Experience the direct impact of what you build on hundreds of millions of people\\u2019s financial lives.</li></ul><p><br></p><p><strong>Required Skills:</strong></p><ul><li>Python</li><li>Machine&nbsp;Learning</li><li>Rust</li><li>NLP</li><li>PyTorch</li></ul><p><br></p><p><strong>The following is a big plus:</strong></p><ul><li>Fluency in Python and PyTorch</li><li>Experience with training and deploying models in multi-GPU environments</li><li>Recognized open-source contributions</li><li>Participation in competitive programming events (CTFs, IOI, IMO, Topcoder, Kaggle, etc.)</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Preferhired\", \"sameAs\": \"https://www.linkedin.com/company/preferhired\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQGq4M2lrSaBfw/company-logo_200_200/0/1519863312785?e=1636588800&v=beta&t=AyFl3BaktIZ5RXtF40n6Er6_t05ZON8yBVoMkQvy1lg\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Preferhired\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQGq4M2lrSaBfw/company-logo_100_100/0/1519863312785?e=1636588800&v=beta&t=XDue3oBTa-w3jxysUUlE0PkNUbZyJh24d1mjbCLYmCw\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-04T20:54:15.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 110000, \"maxValue\": 130000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

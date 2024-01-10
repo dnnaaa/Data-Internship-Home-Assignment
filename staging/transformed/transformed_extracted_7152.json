@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-08T03:09:17.000Z\", \"description\": \"<strong>y\\u00f6u</strong><strong>top 5 reas\\u00f6ns<br></strong><ul><li>This position is currently a temporary work from home/remote position. You must be willing to relocate to Morristown, NJ or Irvine, CA USA once COVID policies/restrictions are lifted. \\u00fcs umlaut is a 4500+ people strong global full-service cross industry end-to-end partner that applies its deep-running interdisciplinary, collaborative advisory and fulfilment capabilities to change its clients fortunes for the better and - on top of that - add value, quality and focus to their organisations and produce. our \\u00f6ffer</li><li>Perform RF Interference Hunting operations, including identification and mitigation of sources all over the U.S.</li><li>Perform Passive Intermodulation (PIM) tests and repair base stations</li><li>Identify source of radio frequency interference</li><li>Operate and maintain your measurement instruments, tools, and vehicle</li><li>Identify and plan routes in concert with Interference Hunting management</li><li>Work closely with senior engineers at the nation\\u2019s biggest carriers to solve interference issues</li><li>Drive obligations to successful closure, balancing a \\u201cgetting it done\\u201d attitude combined with \\u201cdoing it right the first time\\u201d</li><li>Develop visually compelling presentations of your results</li><li>Report project status, action items and next planned steps on a regular basis</li><li>Bachelor's degree in Electrical Engineering, Telecommunications, Computer Science, or equivalent</li><li>Proficient with a spectrum analyzer, and PIM test tools</li><li>Knowledge of RF technology, radio propagation, and cellular technologies.</li><li>Experience in the physical setup of cellular base stations</li><li>Proficient in computer applications including databases, spreadsheets, and word processing</li><li>Proficient in MS Power Point</li><li>Must be technically sound, detail oriented with strong troubleshooting skills</li><li>Able to work independently</li><li>Comfortable in a multi-cultural environment</li><li>Ability to handle short deadlines and ad-hoc travel schedules</li><li>Willingness to work weekends and holidays if needed</li><li>Travel up to 90% is expected both domestic and international</li><li>An entrepreneurial environment with immediate responsibility and a chance to make a difference from the word go</li><li>Innovative projects with big name clients and exposure to future, cutting edge technologies</li><li>Unlimited individual growth opportunities and the ability to create a personalised career path</li><li>Access to a global network with opportunities to live and work abroad</li><li>All the support, training and coaching you need to further your career</li><li>+X. A team spirit and family-like culture as exciting and colourful as our gradient coloured coffee marshmallows</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"umlaut company\", \"sameAs\": \"https://de.linkedin.com/company/umlaut-company\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHCoGOGlrr5Qw/company-logo_200_200/0/1571957924238?e=1639008000&v=beta&t=4XKN2Emx55UA0EEDUopBBswB-XJ4-de2OEsSZSXG47E\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"umlaut company\", \"value\": \"or26efwx\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHCoGOGlrr5Qw/company-logo_100_100/0/1571957924238?e=1639008000&v=beta&t=I5S6oD59dtPMm_c2W7Ow4TQabdrwTpo6Rm-4oGgtY9s\", \"industry\": \"Computer Software,Automotive,Telecommunications\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Irvine\", \"addressRegion\": \"CA\", \"postalCode\": \"92717\", \"streetAddress\": null}, \"latitude\": 33.68591, \"longitude\": -117.82472}, \"skills\": \"\", \"title\": \"Test Engineer - RF\", \"validThrough\": \"2021-10-08T03:09:16.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 64200, \"maxValue\": 94300, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

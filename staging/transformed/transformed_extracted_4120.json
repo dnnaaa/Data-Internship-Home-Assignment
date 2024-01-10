@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-17T23:25:07.000Z\", \"description\": \"Do you have Deep Learning experience?<br><br>Are you experienced with Neural Networks?<br><br>Do you have Tensorflow experience?<br><br>If you said yes to the above questions, keep reading!<br><br>We are a new, well-funded startup in West Hollywood, CA, using Deep Learning to solve longstanding problems in the biology field.<br><br>We are looking to bring on a Machine Learning Engineer with Deep Learning experience to our team ASAP!<br><br>--WE WILL RELOCATE THE RIGHT CANDIDATE!--<br><br>What You Need for this Position<br><ul><li> MS or PhD in Computer Science, Computer Vision, ML, or related field</li><li> Deep Learning Experience</li><li> Neural Networks (CNN, General Adversarial, or Autoencoders)</li><li> Tensorflow<br></li></ul>Plus Skills! (not required)<br><ul><li>RNN</li><li>Reinforcement Learning</li><li>Biology/Medical Related Skill Set<br></li></ul>So, if you are a Machine Learning Engineer with Deep Learning and Tensorflow experience, please apply today!<br><br>Or, send your resume directly to rajeev.peterson@Optello.com<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Nitu.Gulati-Pauly@Optello.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : SC4-1395735 -- in the email subject line for your application to be considered.***<br></li></ul>Nitu Gulati-Pauly - VP of Recruiting - Optello<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>Optello is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Optello will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Optello\", \"sameAs\": \"https://www.linkedin.com/company/optello-us\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQHGcllR34o9Wg/company-logo_200_200/0/1588635531825?e=1637193600&v=beta&t=RSd8SjEveT5ZzUAaihOGqhnIAFaj5LoFmlqsmAefi4Q\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Optello\", \"value\": \"SC4-1395735292\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQHGcllR34o9Wg/company-logo_100_100/0/1588635531825?e=1637193600&v=beta&t=hm_mEaDEat17Hs_jlSze41pdXu_uwMOpuHNIi7u_RWc\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"West Hollywood\", \"addressRegion\": \"CA\", \"postalCode\": \"90069\", \"streetAddress\": null}, \"latitude\": 34.090683, \"longitude\": -118.37175}, \"skills\": \"\", \"title\": \"Machine Learning Engineer- Deep Learning - RELOCATION OFFERED!\", \"validThrough\": \"2021-09-16T23:25:05.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

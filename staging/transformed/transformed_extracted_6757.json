@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-02T05:31:45.000Z\", \"description\": \"Birmingham AL<br><br>Our client has created a B2C application that is used in more than half of US household and utilized by the top retailers and brands<br><br>What You Will Be Doing<br><ul><li>Provide your team with the very best in leading technology </li><li>Impact the member app team and bring a high standard of quality and performance </li><li>Provide rich and appealing user experiences </li><li>Collaborate with the backend to keep the user a priority </li><li>Work together with Managers, Designers and Engineers to provide high-quality features </li><li>Develop react native modules and engineer react native solutions </li><li>Follow data-driven approaches to conduct experiments and iterate features </li><li>Find and fix areas that need it </li><li>Mentor other developers <br></li></ul>What You Will Need<br><ul><li>5+ years\\u2019 experience with cross-platform mobile app development </li><li>Strong knowledge of unit, integration, e2e, etc. </li><li>Able to convert designs into features </li><li>Able to work with a QA team that validates your code </li><li>Able to convey intricate ideas and conceptions succinctly </li><li>Give mentorship to the other team members <br></li></ul>Nice to Have<br><ul><li>Redux, Recoil, and other React state concepts </li><li>Experience of Accessibility best practices </li><li>Interest in Leadership opportunities </li><li>Open-source software and dependency management </li><li>Advancement of an E-commerce application </li><li>Experience with App distribution <br></li></ul>Why Us<br><br><strong><u>Benefits And Perks<br></u></strong><ul><li>Competitive Salary </li><li>Medical/Dental/Vision </li><li>401k matching </li><li>Unlimited PTO <br></li></ul>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future<br><br>Tagged as: Senior/Staff Mobile Engineer - React Native, React, eCommerce - Remote<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"HIRECLOUT\", \"sameAs\": \"https://www.linkedin.com/company/hireclout\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGdR1MzViqUYg/company-logo_200_200/0/1550018489051?e=1638403200&v=beta&t=a-XK62DRxbbn1LZz7M05NbocRHuus34qOAnycfBSVuE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"HIRECLOUT\", \"value\": \"820207e2fb1287a0c150682d04b815ff\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGdR1MzViqUYg/company-logo_100_100/0/1550018489051?e=1638403200&v=beta&t=ZJENYwwKemBex3jD4cLyt7-h42twBxzq2bxcRdYw2OI\", \"industry\": \"Computer Software,Information Technology and Services,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Birmingham\", \"addressRegion\": \"AL\", \"postalCode\": \"35226\", \"streetAddress\": null}, \"latitude\": 33.522858, \"longitude\": -86.80771}, \"skills\": \"\", \"title\": \"Senior/Staff Mobile Engineer \\u2013 React Native, React, eCommerce \\u2013 Remote\", \"validThrough\": \"2021-10-02T05:31:44.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 60}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

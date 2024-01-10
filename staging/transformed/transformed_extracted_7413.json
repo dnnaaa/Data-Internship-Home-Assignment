@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-03T01:11:59.000Z\", \"description\": \"<p>Multiple positions </p><p>Sunnyvale, CA or Austin, TX</p><p>SRE with/Without KAFKA</p><p><br></p><p><strong><u>Job Description</u></strong></p><p>- SRE Ops - Very good in&nbsp;Unix, Jenkins and Scripting - Groove / shell / python</p><p>- Should be proficient in creating Work Flows in Jenkins and Ansible playbacks</p><p>- Excellent Analytical, Troubleshooting and problem solving skills</p><p>- Very good in DevOps process and troubleshooting Issues</p><p>- Experience in Production Deployment and On-Call Support.&nbsp;</p><p>- Experience in solving problems and working with a team to resolve large scale production issues.</p><p>- Good to have knowledge in Ansible</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Wipro\", \"sameAs\": \"https://in.linkedin.com/company/wipro\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEykAO7E8hS6A/company-logo_200_200/0/1625251092178?e=1639008000&v=beta&t=JSsntEnu1v_osDJs_EI-SGmLskxHlXZyrxxQXiVVGXY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Wipro\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEykAO7E8hS6A/company-logo_100_100/0/1625251092178?e=1639008000&v=beta&t=oosb_NuJ1UPuuFCuEtb8gFrQ_qWM7wBVqaw32elGkc4\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Sunnyvale\", \"addressRegion\": \"CA\", \"postalCode\": \"94089\", \"streetAddress\": null}, \"latitude\": 37.373676, \"longitude\": -122.036575}, \"skills\": \"\", \"title\": \"Site Reliability Engineer\", \"validThrough\": \"2021-10-03T01:11:58.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 85400, \"maxValue\": 115000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-03T09:45:28.000Z\", \"description\": \"Role<br><br>The Core Automation Services (CAS) team at Tesla is building applications to enable manufacturing, with an eye towards reliability, availability, scalability, speed and security. We're a diverse team composed of Controls Automation Engineers, Software Engineers, and various other disciplines that help facilitate automated manufacturing processes.<br><br>As an SRE on the CAS team you'll be working with the infrastructure, systems and applications that act as the middleware layer between Programmable Logic Controllers (PLCs) and the outside world, such as Databases, MES systems and other services.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Support interim HMI/SCADA vendor application (Ignition from Inductive Automation)</li><li>Building tooling around it, evaluating its usage, and helping to ensure its reliability, availability and security</li><li>Design software and systems that enable automated manufacturing at Tesla</li><li>Assist Software, Controls, Manufacturing and other types of Engineers with onboarding and integrating services into the Tesla stack (Kubernetes/VMWare/Bare-metal)</li><li>Ensuring best practices and observability of the service, such as metrics, logging, tracing, and alerting</li><li>Automate configuration and deployment of services</li><li>Consult on and design infrastructure, systems and application architecture</li></ul> Requirements<br><ul><li>Experience with Virtualization or Containerization</li><li>Expert skills in Linux and its administration</li><li>Understanding of networking (Routing/Switching, VLANs, Firewalls, Load Balancers)</li><li>Experience in a high-level language such as Go, Python and/or Java</li><li>Understand the concepts of Observability and Infrastructure as Code (Prometheus, AlertManager, Grafana, Jaeger and/or Splunk)</li><li>CI/CD pipeline experience (preferably with GitLab)</li><li>Comfortable on an on-call rotation</li><li>Comfortable doing live troubleshooting of issues on NOC bridges/outage calls</li><li>Habitual documenter and spreader of knowledge</li><li>Willing to mentor other team members and engineers with less SWE/IT type knowledge</li><li>Strong bias for action vs endless planning, willing to get hands dirty and make mistakes sometimes</li><li>3+ years as DevOps/Site Reliability Engineer</li><li>Ansible for systems automation</li><li>Artifactory for storing/retrieving assets</li><li>Bare-metal imaging experience (Foreman/Linux PXE)</li><li>Kubernetes/vSphere administration experience</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Tesla\", \"sameAs\": \"https://www.linkedin.com/company/tesla-motors\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUcu98SZ2TVw/company-logo_200_200/0/1607665771371?e=1638403200&v=beta&t=1jTjChZgWVi9-4hc3fuXim0YOu4UrpjkTZN0iU-hxrw\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Tesla\", \"value\": \"90184\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUcu98SZ2TVw/company-logo_100_100/0/1607665771371?e=1638403200&v=beta&t=vBm1957T_XKSTfgbRsCjHu8l8VPgIG5RLtVKV-mtB6M\", \"industry\": \"Automotive,Renewables & Environment,Utilities\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Fremont\", \"addressRegion\": \"CA\", \"postalCode\": \"94537\", \"streetAddress\": null}, \"latitude\": 37.5502, \"longitude\": -121.98083}, \"skills\": \"\", \"title\": \"Site Reliability Engineer, Factory Software Systems\", \"validThrough\": \"2021-09-27T09:45:28.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 74200, \"maxValue\": 106000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

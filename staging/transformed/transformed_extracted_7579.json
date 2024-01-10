@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-10-05T17:22:24.000Z\", \"description\": \"Role: Embedded Systems Engineer (C++)<br>Work location: SouthField, MI<br>Duration: Long Term (Possible 3 months CTH)<br><br>&quot; \\\\&quot;System Engineer- Hardware -Key Responsibilities<br>\\u2022 Discuss customers' AFC requirements and cascade them to the internal subject matter experts: System, Program Manager and Hardware/software design team.<br>\\u2022 Confirm the team is committed and has concrete action plan to close any gap. Gather all necessary evidences to close all open items within pre-defined quality scope and time.<br>\\u2022 Analyze applicable AFC industry standards (ASPICE, ISO 26262, ISO/SAE 21434..) to deliver the work package with the highest standard and quality targets.<br>\\u2022 Develop and maintain well-defined engineer process to achieve in-house and customer driven AFC targets.<br>\\u2022 Collaborate with internal stakeholders to achieve internal and external audits process targets.<br>\\u2022 Collaborate with program management to identify customer AFC deliverable dates for assigned projects, confirm other internal stakeholders have closed or have action plan to close any open items within the time agreed.<br>\\u2022 Regularly collaborate with DENSO local and global AFC team to align on DENSO's internal and customers' quality guidelines/requirements.<br>\\u2022 Develop process flow documentation and milestone tracking tools; establish file sharing database.<br>\\u2022 Identify and implement AFC best practice/lesson-learned.<br>\\u2022 Prepare training materials for System and Product design team members, as well as customer.<br>\\u2022 Support any relevant tasks as assigned<br><br>Please send Candidates with this information. If not sent, contractor will be rejected.<br><br>Legal name (First Name, Middle name and Last Name):<br>Location (City and State):<br>Relocate?<br>Rate:<br>Availability:<br>Phone #:<br>Mobile#:<br>LinkedIn ID:<br>Email address:<br>Visa type:<br>Visa Expiration Date:<br>Hiring Status:<br><br><strong><span><span><span>Disclaimer:&nbsp;<br>E-Solutions provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state and local laws. We especially invite women, minorities, veterans, and individuals with disabilities to apply. EEO/AA/M/F/Vet/Disability.<br></span></span></span></strong>&nbsp;\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"E-Solutions\", \"sameAs\": \"https://www.linkedin.com/company/e-solutions-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEwaw5QTCQl_A/company-logo_200_200/0/1625251621307?e=1641427200&v=beta&t=gp5qlF0SMUjoYO_3JQ7B7J0y9LDa_H2DdIgiMbapjU4\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"E-Solutions\", \"value\": \"21-50787\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQEwaw5QTCQl_A/company-logo_100_100/0/1625251621307?e=1641427200&v=beta&t=E7lO8Jx6Rt92ojtQMUsTkv1Rq5o8Y647JDrvvuIEetA\", \"industry\": \"Restaurants,Food & Beverages,Food Production\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Southfield\", \"addressRegion\": \"MI\", \"postalCode\": \"48037\", \"streetAddress\": null}, \"latitude\": 42.480198, \"longitude\": -83.241}, \"skills\": \"\", \"title\": \"Embedded Systems Engineer (C++)\", \"validThrough\": \"2022-04-03T17:22:59.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

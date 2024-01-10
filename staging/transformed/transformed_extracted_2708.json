@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T07:01:17.000Z\", \"description\": \"<strong>Skills: Kubernetes, OpenShift Container Platform, Infrastructure As a Code(IaC), Python, Docker<br><br></strong>Experience level: Associate<br><br>Experience required: 6 Years<br><br>Education level: Bachelor\\u2019s degree<br><br>Job function: Information Technology<br><br>Relocation assistance: Limited assistance<br><br><strong>Location : Dallas TX or Jersey City, NJ <br><br></strong><strong>MUST HAVE<br><br></strong>Container migration<br><br>Docker<br><br>Kubernetes<br><br>Infrastructure As a Code(IaC).<br><br><strong><u>Summary<br><br></u></strong>We are looking for a Container migration SRE, who understands the enterprise containers in Docker Swarm to advanced Kubernetes platforms (OpenShift, Tanzu) deployments and has prior experience with container migrations and deployments. The container migration SRE will bring in Kubernetes deployment with software engineering SRE standard methodologies. This role will be instrumental in continuing our Container First strategy delivery, bringing expertise with, development, and implementation of container migration projects.<br><br><strong><u>Your Primary Responsibilities<br><br></u></strong>Lead the container platform ecosystem<br><br>Cluster capacity management and provisioning through automation of underlying hosts.<br><br>Understanding the infrastructure components (server, network, storage, firewall, load balancer etc) required for Kubernetes platform, Infrastructure As a Code(IaC).<br><br>[Developer Differentiator]<br><br>Experience with a modern application software language; especially a systems programming language (Go, Python)<br><br>Understanding of architectural patterns; Microservices are important, but experience with other patterns helpful<br><br>Practitioner of version control; experience with different branching strategies (and understands why GitFlow is not a good choice for CI/CD and enterprise development teams)<br><br>Understands and uses unit and functional testing; ideally advocates tests up front (advocates tests for moving faster)<br><br>Experience defining delivery pipelines; demonstrable work in automation and observability (Bonus points for experience using GitOps for deployment)<br><br>Understand K8s resiliency patterns (HPA, self-healing)<br><br>Understands container image optimization<br><br><strong>Qualifications:<br><br></strong><strong><u>Minimum Of 6 Years Of Related Experience<br><br></u></strong>Bachelor's degree required<br><br>Kubernetes and/or Tanzu or OpenShift Container Platform.<br><br>Kubernetes and Python<br><br>Expertise in Tanzu Solutions As A Service Offerings<br><br>Experience delivering infrastructure as code using CI/CD practices<br><br>Proven track record of applying technology to tackle business problems.<br><br>Experience with migrate/onboard application onto Kubernetes<br><br>AWS associate certifications or higher preferred<br><br>RedHat certifications in Linux and OpenShift administration preferred<br><br>Powered by JazzHR<br><br>R23zQzu3lM\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"MetaOption LLC\", \"sameAs\": \"https://www.linkedin.com/company/metaoption\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQH0l8FUJWy_QQ/company-logo_200_200/0/1580225525178?e=1635984000&v=beta&t=EtjjXC_uUyeTQNdmE0DnSJ-vnJ-Zc82k75hkJPwiOkc\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"MetaOption LLC\", \"value\": \"2975218\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQH0l8FUJWy_QQ/company-logo_100_100/0/1580225525178?e=1635984000&v=beta&t=QOyYQWPYT-2s1hkEcxZaGD_VEIW_Xu0f4mnrPY6jcXk\", \"industry\": \"Information Technology and Services,Computer Software,Financial Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dallas\", \"addressRegion\": \"TX\", \"postalCode\": \"75342\", \"streetAddress\": null}, \"latitude\": 32.777977, \"longitude\": -96.79621}, \"skills\": \"\", \"title\": \"Site Reliability Engineer - Kubernetes\", \"validThrough\": \"2021-09-04T07:01:17.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 72}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

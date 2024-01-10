@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-20T06:11:42.000Z\", \"description\": \"<strong>Job Number: R0112289<br><br></strong>Software Engineer, Mid<br><br><strong><u>The Challenge<br><br></u></strong>Are you looking for an opportunity to not just develop software, but to help build a system that will have a positive impact? As a full-stack developer, you can solve a problem with a complete end-to-end solution in a fast-paced, agile environment. We\\u2019re looking for a developer with the skills needed to build mission-critical software from vision to production-ready system.<br><br>We have an opportunity for you to develop your Digital skills and establish your new career. You\\u2019ll join a rigorous training program that combines skills assessments, a comprehensive curriculum, functional mentorship, a capstone Digital challenge, and support to place you on your first digital project. Equipped with the foundational Digital skills to accelerate your career, you\\u2019ll join a team and apply those skills to support our clients\\u2019 critical missions.<br><br>Empower change with us.<br><br><strong><u>You Have<br><br></u></strong><li>Experience with development languages, including Java</li><li>Knowledge of database schema design and SQL</li><li>Knowledge of the Software Development Life Cycle</li><li>Knowledge of Agile fundamentals</li><li>Top Secret clearance</li><li>HS diploma or GED<br><br></li><strong><u>Nice If You Have<br><br></u></strong><li>2+ years of experience in a technical environment</li><li>Ability to possess a thirst for knowledge<br><br></li><strong><u>Clearance<br><br></u></strong>Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Top Secret clearance is required.<br><br><strong><u>Build Your Career<br><br></u></strong>A challenging and dynamic work environment isn\\u2019t all we have to offer. When you join Booz Allen, you can expect:<br><ul><li>access to experts in virtually every field</li><li>a culture that focuses on supporting our employees</li><li>opportunities that provide stability while offering variety<br><br></li></ul>You\\u2019ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications? Take advantage of our tuition assistance, on-site bootcamps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We\\u2019ll help you develop the career you want, as you chart your own course for success.<br><br>We\\u2019re an EOE that empowers our people\\u2014no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic\\u2014to fearlessly drive change.<br><br>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Booz Allen Hamilton\", \"sameAs\": \"https://www.linkedin.com/company/booz-allen-hamilton\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQFPpNskJI7fng/company-logo_200_200/0/1604073354912?e=1634774400&v=beta&t=BidGFCb2VjyuZ2VcRKg8n5w8CuMJpY0US6gkNqEPIOU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Booz Allen Hamilton\", \"value\": \"R0112289\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQFPpNskJI7fng/company-logo_100_100/0/1604073354912?e=1634774400&v=beta&t=zc9qQCLGo4LxfDkaQyMEr7Huxx18UZOyoarqEt6rC8A\", \"industry\": \"Information Technology and Services,Defense & Space,Computer Software\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"McLean\", \"addressRegion\": \"VA\", \"postalCode\": \"22101\", \"streetAddress\": null}, \"latitude\": 38.93759, \"longitude\": -77.18378}, \"skills\": \"\", \"title\": \"Software Engineer, Mid\", \"validThrough\": \"2021-08-19T06:11:41.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

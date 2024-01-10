@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-26T23:59:33.000Z\", \"description\": \"<strong><u>The Role<br><br></u></strong>As a member of the Dojo machine learning team, you will be responsible for enabling Tesla\\u2019s neural networks to train efficiently on our upcoming in-house custom-silicon supercomputer systems. Join a small team of experienced developers in optimizing and scaling the deployment of our Pytorch-derived neural networks on Tesla's custom massively-parallel Dojo accelerators. Work with many of the same great engineers who delivered Tesla\\u2019s custom FSD computer. The ideal candidate has experience with writing software for large distributed systems.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Understand and model the end to end training performance of the Autopilot SW team's Pytorch-derived neural networks on the Dojo system.</li><li>Develop software that scales and improves training performance based on your analysis of bottlenecks</li><li>Collaborate with the Dojo HW team to understand current HW architecture and propose future improvements<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>BS in relevant field (Computer Science, Computer Engineering, etc.)</li><li>Comfortable with C++ and Python</li><li>Capable of delivering results with minimal oversight</li><li>Good communication skills<br></li></ul><strong><u>Nice To Have<br></u></strong><ul><li>Experience scaling neural network training systems or other large distributed systems</li><li>Familiarity with the internals of Pytorch</li><li>Performance analysis experience</li><li>Experience coding parallel programs</li><li>Able to work from Deer Creek (Palo Alto) office</li><li>Ready to start soon</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Tesla\", \"sameAs\": \"https://www.linkedin.com/company/tesla-motors\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUcu98SZ2TVw/company-logo_200_200/0/1607665771371?e=1637798400&v=beta&t=m97g-hKHATagqzm71K1CkNjvfMRp7UcT_rIzSSRz-l4\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Tesla\", \"value\": \"96225\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHUcu98SZ2TVw/company-logo_100_100/0/1607665771371?e=1637798400&v=beta&t=qVpNmOiI1wUovtynsWfAZJWAvypdU5NslQA8mnI1vKs\", \"industry\": \"Automotive,Renewables & Environment,Utilities\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Palo Alto\", \"addressRegion\": \"CA\", \"postalCode\": \"94310\", \"streetAddress\": null}, \"latitude\": 37.445103, \"longitude\": -122.16036}, \"skills\": \"\", \"title\": \"Machine Learning Performance Software Engineer, Autopilot AI (Dojo)\", \"validThrough\": \"2021-09-19T23:59:33.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

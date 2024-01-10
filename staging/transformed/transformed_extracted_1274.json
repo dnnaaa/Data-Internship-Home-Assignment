@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-22T01:26:42.000Z\", \"description\": \"<p><u>UX Researcher</u></p><p>Palo Alto, CA, United States</p><p><br></p><p><br></p><p><strong><u>About Yo Labs:</u></strong></p><p>Technology has changed daily life in a way no one could have imagined.&nbsp;It\\u2019s made us more productive, capable and connected.&nbsp;But it has come at a cost.&nbsp;We\\u2019re productive, but overwhelmed.&nbsp;Capable but paralyzed by too many choices.&nbsp;Connected, but only if social media counts.&nbsp;Living this way creates a void in our daily lives.&nbsp;Yo Labs is here to change that.&nbsp;Our team is committed to alleviating the mental load that our modern world has created by putting human connection back into technology and caretaking at the heart of everything we create.</p><p><br></p><p><strong><u>About the Role:</u></strong></p><p>As a UX Researcher, you will work closely with designers, engineers, and product managers to build new mobile apps and services. In this role, you will create understanding and empathy around user needs, stated and unstated. Your research will help us create useful, usable, and delightful new products and features for our users. This role will start out mainly focused on usability testing across multiple products with multiple user types, but there will be opportunities to take on different types of research projects and collaborate with more experienced UXRs.</p><p>&nbsp;</p><p><strong>Responsibilities&nbsp;</strong></p><ul><li>Support the evaluative research (i.e., usability testing, heuristic evaluations, etc.) needs of multiple product teams</li><li>Work with designers, engineers, and product managers to identify and prioritize research opportunities in a fast-paced, rapidly changing environment</li><li>Plan and execute research studies end-to-end, including designing the study, recruiting participants, moderating interviews, analyzing data, and reporting results</li><li>Advocate research findings to diverse audiences through written reports and in-person presentations</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>BA/BS degree in Anthropology, Human-Computer Interaction (HCI), Human Factors, Psychology, Sociology, or a related field, or equivalent practical experience</li><li>Preferred, but not required: Master's degree in a related field</li><li>1-3 years of relevant work experience in an applied research setting and/or product research and development</li><li>Experience conducting evaluative research and ability to demonstrate the impact of their research insights</li><li>Understanding of UI/UX best practices and user-centered design</li><li>Understanding of the strengths and shortcomings of different research methods, including when and how to apply them during the product development process</li></ul><p>&nbsp;</p><p><strong>Nice to have</strong></p><ul><li>Demonstrated experience with other research methods, including but not limited to ethnographic research, contextual inquiry, diary studies, surveys, etc.</li><li>Familiarity with analytics, a/b tests, or statistical concepts</li><li>Proficiency with Figma</li></ul><p><br></p><p><br></p><p><strong><u>What We Offer:</u></strong></p><ul><li>Competitive compensation package</li><li>Comprehensive benefits</li><li>Pet Insurance</li><li>Paid Parental Care Leave</li><li>Employee Referral Program</li><li>Educational Assistance</li><li>Flexible Work Program</li><li>Volunteer time Off</li><li>Total Well Being Program</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Yo Labs\", \"sameAs\": \"https://www.linkedin.com/company/yo-labs\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQEqzyaR8EwYQw/company-logo_200_200/0/1604685041397?e=1634774400&v=beta&t=QoxKZEZdxyH9KZ2v4wefI91BVjgTYTneq3qqy0nEJ3Y\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Yo Labs\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQEqzyaR8EwYQw/company-logo_100_100/0/1604685041397?e=1634774400&v=beta&t=rLRJ2gzjSx_mv1ZOtF904u8mkGI-5ydW89yEyVGzIzE\", \"industry\": \"Health, Wellness and Fitness\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Palo Alto\", \"addressRegion\": \"CA\", \"postalCode\": \"94310\", \"streetAddress\": null}, \"latitude\": 37.445103, \"longitude\": -122.16036}, \"skills\": \"\", \"title\": \"UX Researcher\", \"validThrough\": \"2021-08-28T00:07:09.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-05T14:50:10.000Z\", \"description\": \"<p>Lakarya is Hiring for one our Clients</p><p><strong>Position: Data Scientist /Data Analyst</strong></p><p><strong>Location: Highpoint, NC</strong></p><p><strong>Job type: Long term Contract</strong></p><p><strong>Job Description</strong></p><ul><li>Manage administration and supervise the development of logistics policies and programs to ensure they meet the changing conditions in program requirements.</li><li>Prepare and present membership changes to large audience including senior staff using PowerPoint.</li><li>Develop reports using IBM Cognos as part of the migration of a particular customer.</li><li>Coded/Maintain a SAS program including embed SQL written by consultants for use in manual claim forecasting.</li><li>Analyze the existing BO universe and provide the guidelines to migrate and implementation effect of Cognos.</li><li>Develop dashboards and trend reports that keep track of utilization volume, cost, and quality performance.</li><li>Serve as project officer/team leader; provide direction and guidance to contractors and support to DoD personnel.</li><li>Involve in development for highly complicate reports, scorecards and dashboards for a specific business needs and performance improvement.</li><li>Develop routine SAS macros to create tables, graphs and listings for inclusion in reports and maintain existing ones.</li><li>Devise new improve procedure (by use of VBA) to create campus tables that saves time and ensures accuracy.</li></ul><p>Job Types: Full-time, Contract</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Lakarya\", \"sameAs\": \"https://www.linkedin.com/company/lakarya\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFhvYNPF2CfLA/company-logo_200_200/0/1554428795576?e=1635984000&v=beta&t=N9RmxwIfNdGjk6SfpB3A8hJogiaDRmHDKPYutSOAz6M\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Lakarya\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFhvYNPF2CfLA/company-logo_100_100/0/1554428795576?e=1635984000&v=beta&t=B9xMLyqSsdHh53NMxxWwXU-1KxkPY9GrWevyKBcD6HI\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Greensboro--Winston-Salem--High Point Area\", \"addressRegion\": null, \"postalCode\": \"27401\", \"streetAddress\": null}, \"latitude\": 36.076633, \"longitude\": -79.79478}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-04T14:50:10.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

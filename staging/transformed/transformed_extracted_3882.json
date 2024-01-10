@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-16T06:47:51.000Z\", \"description\": \"<p><strong>Must be located in Japan!!</strong></p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Develop <strong>ML / NLP</strong> applications on top of our core machine learning assets.</li><li>Architect and develop a scalable cloud AI service.</li><li>Application development on machine learning / deep learning assets</li><li>Design and construction of cloud architecture to provide AI services in a scalable manner</li></ul><p><br></p><p><strong><em>Minimum Skill / Experience Required requirements</em></strong></p><ul><li>Strong background in Computer Science or a related field</li><li>Extensive experiences in application development</li><li>Working experiences with <strong>AWS or other cloud platforms</strong></li><li>Strong experiences with ML frameworks such as <strong>Scipy / Numpy, Scikit-Learn, Pandas, Tensorflow / Keras / PyTorch</strong></li><li>Good working knowledge of machine learning models (linear regression, ensemble methods, boosting, <strong>RNN, CNN, GCN, GAN, etc</strong>.)</li><li>Experiences with git, <strong>GitHub, CI / CD</strong></li><li>Good communication skill</li><li>Computer&nbsp;science or peripheral background-</li><li>Experience in application development</li><li>Experience in practical development on cloud platforms such as <strong>AWS</strong></li><li>Understanding machine learning frameworks (<strong>Scipy / Numpy, Scikit-Learn, Pandas, Tensorflow / Keras / PyTorch</strong>) </li><li>Sufficient Japanese or English Communication skills</li></ul><p><br></p><p><br></p><p>** We have many other roles available from our clients, please feel free to share your updated resume and contact us for details.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Talisman Corporation\", \"sameAs\": \"https://jp.linkedin.com/company/talisman-corporation\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C510BAQHszhJ_EI7YMw/company-logo_200_200/0/1520838943472?e=1637193600&v=beta&t=dQqp_gGy7AZACk7dfXYpG9f85I_nJxhTT-oumdNvY7s\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Talisman Corporation\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C510BAQHszhJ_EI7YMw/company-logo_100_100/0/1520838943472?e=1637193600&v=beta&t=bkubfml3Jul17a_mov4PmaG-1_nYrW2JWmQfsDV_mzw\", \"industry\": \"\\u4eba\\u6750\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"JP\", \"addressLocality\": \"\\u6771\\u4eac\", \"addressRegion\": null, \"streetAddress\": null}, \"latitude\": 35.686962, \"longitude\": 139.74947}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-15T06:47:50.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

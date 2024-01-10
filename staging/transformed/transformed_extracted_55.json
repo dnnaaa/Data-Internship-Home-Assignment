@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-09T17:44:18.000Z\", \"description\": \"<p><strong>Must Haves:</strong></p><ul><li>1-3 years data analysis experience </li><li>Manipulating data lists, analyzing and re-analyzing data, pulling data from other sources, etc.</li><li>Microsoft Office applications (MS Word, Excel) \\u2013 must know basic data manipulation </li><li>Pivot Tables and Vlookups are a nice to have</li><li>Ability to work under pressure and move fast</li><li>Strong attention to detail</li><li>Team mentality, lots of juggling, team work </li></ul><p>&nbsp;</p><p><strong>Pluses:</strong></p><ul><li>Proficient with building <strong>GMC</strong> and/or <strong>Fusion Pro</strong> work flows</li><li>Experience with working with a postal software \\u2013 <strong>First Logic</strong></li></ul><p><strong>&nbsp;</strong></p><p><strong>Day to day:</strong></p><ul><li>Work with internal clients (3 assigned account reps) that give requirements and job instructions </li><li>Budget coordination, proofs, sign offs, data analysis in a 24-hr window</li><li>Receive day to day direction from Individual Auto Account Executive </li><li>Ability to comprehend written and/or verbal job instructions</li><li>Works with postal software (i.e. First Logic) to perform USPS data hygiene (i.e. CASS, merge, purge, etc.) </li><li>Ability to work in various data management software environments </li><li>Manipulates data based on client requirements</li><li>Provides proofs to internal client</li><li>Prepares jobs for production floor</li><li>Assists internal client with information pertaining to their jobs</li><li>Provides various data counts</li><li>Proficient with building GMC and/or Fusion Pro work flows </li><li>Strong attention to detail &amp; accuracy</li></ul><p>&nbsp;</p>\", \"employmentType\": \"CONTRACTOR\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Insight Global\", \"sameAs\": \"https://www.linkedin.com/company/insight-global\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQEPIZwBWHN9DA/company-logo_200_200/0/1625151854957?e=1634169600&v=beta&t=_yxP1GjxRZ_zSgKs_axf00_qvXaKWLxXg6h8gm1IepU\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Insight Global\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQEPIZwBWHN9DA/company-logo_100_100/0/1625151854957?e=1634169600&v=beta&t=WS-vKxy0utQ3RNyL2s_Aty8oUzRxpJqRfND2qWXFHhE\", \"industry\": \"Automotive,Marketing and Advertising\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"West Chicago\", \"addressRegion\": \"IL\", \"postalCode\": \"60185\", \"streetAddress\": null}, \"latitude\": 41.884655, \"longitude\": -88.2049}, \"skills\": \"\", \"title\": \"Data Entry/Analyst\", \"validThrough\": \"2021-08-08T17:44:18.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 16, \"maxValue\": 19, \"unitText\": \"HOUR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

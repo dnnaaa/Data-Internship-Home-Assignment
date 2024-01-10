@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-09T18:48:47.000Z\", \"description\": \"<p>Groq is delivering industry leading deep learning acceleration hardware with efficient, software-driven solutions for compute-intensive applications.&nbsp;At Groq, you will have the opportunity to work closely with some of the most talented engineers and leaders in the world to redefine compute and shape the future of machine learning.</p><p><br></p><p>We are looking for exceptional machine learning developers/ engineers/researchers with experience developing machine learning models. As a part of the ML Systems team at Groq, you will be working closely with Groq's sales, applications and engineering teams to develop and optimize ML models and systems for our hardware as well as contribute to original research in the field.&nbsp;</p><p><br></p><p><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES:</strong></p><p><br></p><ul><li>Develop kernels and models (both customer and public domain models) for Groq hardware using low level proprietary frameworks as well as popular higher level machine learning frameworks. The models will span domains from machine learning (computer vision, natural language processing, recommendation engines, reinforcement learning) to high performance computing (linear algebra)&nbsp;</li><li>Optimize models for Groq\\u2019s hardware by exploiting proprietary hardware features</li><li>Performance analysis of models on Groq hardware</li><li>Performance analysis of large scale systems built using Groq hardware</li><li>Performance analysis of models on competitor hardware/systems</li><li>Contribute to driving features into Groq\\u2019s hardware based on model optimizations/insight&nbsp;&nbsp;</li><li>Publish research papers related to ML model optimizations, hardware, in top tier ML conferences.</li></ul><p><br></p><p><strong>EXPERTISE:</strong></p><p><br></p><ul><li>Analytical background with the ability to quickly understand complex hardware technologies, understand tradeoffs and build systems using them.</li><li>ML (Neural Networks) and math fundamentals expertise, with some experience/deep understanding in one or more of the following areas:</li><li>Computer vision</li><li>Natural Language Processing</li><li>Recommendation engines</li><li>Reinforcement Learning</li><li>Linear algebra</li><li>Experience with a subset of the following:</li><li>Python and C/C++</li><li>TensorFlow, Pytorch, Caffe or other ML Frameworks</li><li>HW accelerator programming languages such as CUDA, MKLDNN</li><li>Programming experience on other accelerators such as FPGAs, or DSPs from evaluation to production.</li><li>Understanding of processor architectures and distributed systems and their implications on ML model performance</li><li>Strong writer and public speaker; operate with integrity and drive transparency, openness, and effective communication.&nbsp;</li></ul><p><br></p><p><strong>QUALIFICATIONS:</strong></p><p><br></p><ul><li>BS in CS, CE/EE, Math, or Physics or equivalent work experience.</li><li>2 to 10 years of software and machine learning experience&nbsp;</li><li>Recent PhD computer science, math or engineering graduates with ML experience will also be considered.</li><li>Publication record in ML conferences (ICML, NeurIPS, ICLR, CVPR) is a plus</li><li>Excellent leadership, mentoring and cross-functional collaborative and influencing skills.</li><li>Effective communication &amp; presentation skills</li><li>Able to work in a very dynamic start-up environment</li></ul><p><br></p><p>Groq&nbsp;is an&nbsp;equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Groq\", \"sameAs\": \"https://www.linkedin.com/company/groq\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4E0BAQGTczf8p1Rnaw/company-logo_200_200/0/1609883968320?e=1634169600&v=beta&t=zjtIo75k1TYm_1a7CQ4SAnYrPzpZVxgxmGD0ozr9gpE\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Groq\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4E0BAQGTczf8p1Rnaw/company-logo_100_100/0/1609883968320?e=1634169600&v=beta&t=232Dh_4LygdJz2vYMuiuFIv5n4WxIQZuyrKoqfry0zU\", \"industry\": \"Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Mountain View\", \"addressRegion\": \"CA\", \"postalCode\": \"94040\", \"streetAddress\": null}, \"latitude\": 37.39008, \"longitude\": -122.08139}, \"skills\": \"\", \"title\": \"Machine Learning Software Engineer\", \"validThrough\": \"2021-08-08T18:48:46.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 120000, \"maxValue\": 230000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

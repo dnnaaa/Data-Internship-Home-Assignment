@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-20T00:27:47.000Z\", \"description\": \"<p>Accountant<br><br></p><p><strong>Accountant Opening - Houston, TX<br><br></strong></p><p><span> <br> Our recruitment firm is seeking trustworthy Accountant to work for our client, a global manufacturing company. <span>To ensure success, the Accountant should be prompt, honest, detail-oriented, professional, and analytical. </span>Candidates should have a firm grasp of accounting and financial practices and regulations and possess strong computer skills. <span>If you are looking for a career change with a great team environment, this is the job for you! <br></span> <br> </span><span><br> <br><br><br><br></span></p>Accountant Duties and Responsibilities:<br><br><ul><li><span>Maintain general ledger</span></li><li><span>Prepare budgets</span></li><li><span>Financial reconciliation</span></li><li><span>Profit and loss for multiple entities</span></li><li><span>Perform month end closing </span></li><li><span>Report Sales Tax monthly</span></li><li><span>Maintain Account Receivable</span></li><li><span>Code Account payable for all vendors' bills<br><br></span></li></ul>Accountant Preferred Education, Experience, &amp; Requirements:<br><br><ul><li><span>Bachelor's in accounting</span></li><li><span>2-5 years of relevant experience in Accounting</span></li><li><span>Proficient with MS Office products including excellent Excel skills</span></li><li><span>Microsoft Dynamics preferred</span></li><li><span>Great communication skills</span></li><li><span>Team player</span></li></ul><p> <br><br></p><p>HOUAC49<br><br></p><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Burnett Specialists\", \"sameAs\": \"https://www.linkedin.com/company/burnettspecialists\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFZi7FkpLjg6g/company-logo_200_200/0/1523030349955?e=1637798400&v=beta&t=SB16xFRyjG_Osad7EodfRGgMXfGJfef-3a5NGifJG3s\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Burnett Specialists\", \"value\": \"Burnett_118640\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFZi7FkpLjg6g/company-logo_100_100/0/1523030349955?e=1637798400&v=beta&t=HNk0jyPf85YtwaWNdUUYaW9keIb9aZ_uGTx5vI73ypo\", \"industry\": \"Construction\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Houston\", \"addressRegion\": \"TX\", \"postalCode\": \"77208\", \"streetAddress\": null}, \"latitude\": 29.760803, \"longitude\": -95.36951}, \"skills\": \"\", \"title\": \"Accountant\", \"validThrough\": \"2021-09-19T00:27:43.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"associate degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

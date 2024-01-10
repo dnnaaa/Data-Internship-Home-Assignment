@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-29T22:56:02.000Z\", \"description\": \"<p><strong>Company Overview</strong></p><p><br></p><p>Our founding team has extensive experience in building, researching, and selling machine learning products and came together in search of a product that could leverage these skills for positive impact. Now, we\\u2019ve set out to build software that works to address the generation defining issue of economic inequality in the face of climate change.&nbsp; We are running head first at the $150B+ coverage gap that faces the insurance industry as increasingly frequent and severe weather events challenge the status quo.</p><p><br></p><p>The problems we wrestle with every day are\\u2026 </p><p><br></p><ul><li>Re-thinking the first principles of state of the art predictive and optimization mechanisms</li><li>Doing so in a multi-cloud infrastructure environment with significant security constraints</li><li>Enabling a lightweight, low-latency, and consumable UX despite the complexity&nbsp;</li></ul><p><br></p><p>The team is looking for talented, driven, and, above all, caring individuals to join us in that journey.&nbsp;&nbsp;&nbsp;</p><p><br></p><p><strong>Requirements</strong></p><p><br></p><ul><li>Demonstrated interest in engineering for impact</li><li>2+ years of hands-on industry experience in full stack / data engineering</li><li>Event backbone and job pool platforms (Kafka, etc)</li><li>Willingness to get hands dirty across a broad variety of internal and client software</li><li>2+ years of experience with React, Python (Django + Flask) and Node.js</li><li>Demonstrated ability to pick up new technologies quickly and learn on the fly</li></ul><p><br></p><p><strong>Nice-To-Haves</strong></p><ul><li>Undergraduate or Graduate work in a related field</li><li>Experience with ML or optimization</li></ul><p><br></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Federato\", \"sameAs\": \"https://www.linkedin.com/company/federato\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGhEw6oQrD4sQ/company-logo_200_200/0/1613517766565?e=1635984000&v=beta&t=rDLcGHPD-4W8WxAHdoxnKk4d1VnqeGx0bM2_iurGO-I\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Federato\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQGhEw6oQrD4sQ/company-logo_100_100/0/1613517766565?e=1635984000&v=beta&t=g3tXzbi13kndt8mALBk9Hiqmk3-Tajb7ff7H_Yfid3c\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"United States\", \"addressRegion\": null, \"postalCode\": \"99999\", \"streetAddress\": null}, \"latitude\": 39.50355, \"longitude\": -99.0183}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-08-28T22:56:02.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}, \"baseSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 100000, \"maxValue\": 140000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

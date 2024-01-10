@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-06T17:20:24.000Z\", \"description\": \"<p><strong>Position Responsibilities/Duties:</strong></p><ul><li>Research and implement new image search models and improvements to existing ones using big data to solve real-world problems.</li><li>Collaborate and contribute with other engineers to facilitate creation of novel architectures.</li><li>Building scalable, enterprise grade implementations using Python and other technologies executing in a multi-server cloud context</li><li>Analyzing data form(architecture), storage, transfer, and representation to improve performance for clients and users.&nbsp;</li><li>Work directly with PMs POs, DB engineers, DevOps, engineers, and others, as necessary.</li></ul><p><strong>Required Skills and Abilities:</strong></p><ul><li><strong>3+ years using Python</strong></li><li>Experience with&nbsp;<strong>OpenCV</strong>&nbsp;or other computer vision libraries</li><li><strong>Experience with Computer Vision</strong>&nbsp;such as&nbsp;<strong>Image Recognition, Segmentation, Classification</strong></li><li><strong>Hand-on experience</strong>&nbsp;with classical&nbsp;<strong>Machine Learning</strong>&nbsp;and&nbsp;<strong>Deep Learning</strong></li><li>Understanding of denormalized&nbsp;<strong>database structures</strong>&nbsp;and retrieval methods e.g., SQL)</li><li>Experience with&nbsp;<strong>NumPy/TensorFlow/torch/pandas</strong></li><li>Experience with&nbsp;<strong>Flask</strong></li><li>Experience with&nbsp;<strong>Docker is a plus</strong></li><li>Experience with&nbsp;<strong>Spark is a plus</strong></li><li>Experience with&nbsp;<strong>Azure is a plus</strong></li></ul><p><strong>Qualifications:</strong></p><ul><li><strong>Ph.D. or MS in Computer Science</strong>&nbsp;or a related field</li><li><strong>3+ years\\u2019 experience</strong>&nbsp;in machine learning</li><li><strong>Hands-on</strong>&nbsp;experience in developing&nbsp;<strong>deep learning solutions</strong></li><li>Experience with&nbsp;<strong>search algorithms/models</strong></li></ul><p><strong>Company Benefits for Full Time employees:</strong></p><ul><li>Insurance Benefits (Health, Dental, Vision, STD, LTD, V-Life).</li><li>Paid Time Off including Paid Sick time off.</li><li>Paid Company Holidays.</li><li>Retirement Plan-401(K) &amp; ROTH; contributions from Company to retirement plan is in the form of profit sharing.</li></ul><p><br></p><p><br></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"OrbitJobs.Org\", \"sameAs\": \"https://www.linkedin.com/company/orbitjobs.org\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFLMmAxvsJBfQ/company-logo_200_200/0/1519866366412?e=1636588800&v=beta&t=xNRwpRP_Hs22kuzrQ2C6r5jPbLoMQ1xIgehvEPEmauM\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"OrbitJobs.Org\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4E0BAQFLMmAxvsJBfQ/company-logo_100_100/0/1519866366412?e=1636588800&v=beta&t=6AqsJhZUGBJ7bGlvDHiLm2n5OV_q7hS9WVE_acqV4GY\", \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Evanston\", \"addressRegion\": \"IL\", \"postalCode\": \"60203\", \"streetAddress\": null}, \"latitude\": 42.05216, \"longitude\": -87.68787}, \"skills\": \"\", \"title\": \"Data Scientist/Machine Learning Engineer-100%  Remote\", \"validThrough\": \"2021-09-05T17:20:24.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

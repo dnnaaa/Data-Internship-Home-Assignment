@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-22T05:33:47.000Z\", \"description\": \"At Noom, we use scientifically proven methods to help our users create healthier lifestyles, and manage important conditions like Type-II Diabetes, Obesity, and Hypertension. Our Engineering team is at the forefront of this challenge, solving complex technical and UX problems on our mobile apps that center around habits, behavior, and lifestyle.<br><br>We are looking for a Data Scientist to join our Data team and help us ensure that we apply the best approaches to data analysis and research, artificial intelligence, and machine learning.<br><br><strong><u>What You\\u2019ll Like About Us<br></u></strong><ul><li>We work on problems that affect the lives of real people. Our users depend on us to make positive changes to their health and their lives.</li><li>We base our work on scientifically-proven, peer-reviewed methodologies that are designed by medical professionals.</li><li>We are a data-driven company through and through.</li><li>We\\u2019re a respectful, diverse, and dynamic environment in which Engineering is a first-class citizen, and where you\\u2019ll be able to work on a variety of interesting problems that affect the lives of real people.</li><li>We offer a generous budget for personal development expenses like training courses, conferences, and books.</li><li>You\\u2019ll get three weeks\\u2019 paid vacation and a flexible work policy that is remote- and family-friendly (about 50% of our engineering team is fully remote). We worry about results, not time spent in seats.<br></li></ul><strong><u>What We\\u2019ll Like About You<br></u></strong><ul><li>You have 4+ years of experience as a Data Scientist or Data Analyst in a similarly-sized organization, with a proven record of analysis and research that positively impacts your team.</li><li>You possess excellent communication skills and the ability to clearly communicate technical concepts to a non-technical audience</li><li>You possess excellent SQL/relational algebra skills, ideally with at least a basic knowledge of how different types of databases (e.g.: column vs row storage) work.</li><li>You have a superior knowledge of statistical analysis methods, such as input selection, logistic and standard regression, etc.</li><li>You are comfortable writing Python code, and have good working knowledge of pandas and numpy. We don\\u2019t expect you to write production-quality code, but you should have some programming experience.</li><li>You are comfortable with at least \\u201cmedium data\\u201d technologies and how to transcend the \\u201cmemory bound\\u201d nature of most analytics tools.</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Noom Inc.\", \"sameAs\": \"https://www.linkedin.com/company/noom-inc\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHfwr-eSZCXJw/company-logo_200_200/0/1579882067995?e=1637193600&v=beta&t=NTR8K2D3uAr1_ZwBJi7G2-7qjHY0bcXlNobg-8jnL8E\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Noom Inc.\", \"value\": \"2461250\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQHfwr-eSZCXJw/company-logo_100_100/0/1579882067995?e=1637193600&v=beta&t=92TkoflMhC_HoALFICnzKXaB_nbv9dhFmw4BoBxnrUI\", \"industry\": \"Marketing and Advertising,Computer Software,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"New York\", \"addressRegion\": \"NY\", \"postalCode\": \"10132\", \"streetAddress\": null}, \"latitude\": 40.713047, \"longitude\": -74.00723}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-09-15T05:33:47.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 48}, \"estimatedSalary\": {\"@type\": \"MonetaryAmount\", \"currency\": \"USD\", \"value\": {\"@type\": \"QuantitativeValue\", \"minValue\": 108000, \"maxValue\": 139000, \"unitText\": \"YEAR\"}}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

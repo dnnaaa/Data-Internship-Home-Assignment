@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-01T14:23:24.000Z\", \"description\": \"<p><strong>JOB DESCRIPTION</strong></p><p>Doron Precision Systems, Inc. is a world leader in driving simulation systems and now has an opening for a full-time Software Engineer in Binghamton, New York.</p><p><br></p><p><strong>REQUIREMENTS</strong></p><ul><li>Bachelor's degree in Engineering or Computer Science is required.</li><li>2-4 years related experience.</li><li>Design and programming experience with C, C++ (OOP), Microsoft Visual Studio.</li><li>Software development experience both in a team environment as well as working independently.</li><li>Significant experience with Windows UI and application development.</li><li>Experience with Interface Control Requirements and Documentation.</li><li>Background in real-time simulation and/or game development.</li><li>Some minimal travel may be required.</li></ul><p><br></p><p><strong>PREFERRED</strong></p><ul><li>Working knowledge of vehicle dynamics.</li><li>Experience interfacing to I/O hardware and real-time control loops.</li><li>Experience developing and working with distributed network applications</li></ul><p><br></p><p><strong>JOB DUTIES AND RESPONSIBILITIES</strong></p><ul><li>Responsible for the research, design and writing of software for Company Products.</li><li>Supports/installs software applications/systems.</li><li>Tests new and existing software for faults and corrects any deficiencies.</li><li>Modifies existing programs by analyzing and identifying areas for modification and improvement.</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Doron Precision Systems Inc.\", \"sameAs\": \"https://www.linkedin.com/company/doron-precision-systems-inc-\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Doron Precision Systems Inc.\"}, \"image\": null, \"industry\": \"\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Binghamton\", \"addressRegion\": \"NY\", \"postalCode\": \"13904\", \"streetAddress\": null}, \"latitude\": 42.125893, \"longitude\": -75.845924}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-10-01T14:23:24.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

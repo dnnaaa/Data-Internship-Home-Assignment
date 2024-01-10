@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-08-12T19:47:13.000Z\", \"description\": \"<p>This is an amazing opportunity to join a rapidly growing company that offers great benefits and growth opportunities.</p><p><br></p><p><strong>Minimum Qualifications:</strong></p><ul><li>3+ years of experience developing and applying deep&nbsp;learning&nbsp;models </li><li>1+ year programming experience with Python and Python&nbsp;machine&nbsp;learning&nbsp;frameworks (e.g., TensorFlow, PyTorch, Sklearn, NLTK)&nbsp;</li></ul><p><br></p><p><strong>Nice If You Have:</strong></p><ul><li>Graduate degree or publication record in a relevant field&nbsp;</li><li>Strong knowledge of CS fundamentals (compilation, assembly / low-level programming, operating systems, etc.)</li><li>Familiarity with common approaches in NLP (word embeddings, language models, sequence-to-sequence models, syntax parsing, etc.)</li><li>Applied research experience</li></ul><p><strong>Clearance / US Citizen:</strong></p><ul><li>Active DoD Secret security clearance required&nbsp;</li></ul><p></p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"StevenDouglas\", \"sameAs\": \"https://www.linkedin.com/company/stevendouglashq\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQEoN_z2b3Pszg/company-logo_200_200/0/1594321611689?e=1637193600&v=beta&t=4S87X42Tct3Yv_EalRUQrm-BIw70EnlQiQ9tRXeYb4A\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"StevenDouglas\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQEoN_z2b3Pszg/company-logo_100_100/0/1594321611689?e=1637193600&v=beta&t=SNuJW40QRX3oYyRYE_T_ZQcHjBp4X02trLah4fAYh34\", \"industry\": \"Staffing and Recruiting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Arlington\", \"addressRegion\": \"VA\", \"postalCode\": \"22210\", \"streetAddress\": null}, \"latitude\": 38.890762, \"longitude\": -77.084755}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-09-11T19:47:13.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

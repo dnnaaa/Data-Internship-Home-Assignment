@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-15T03:22:06.000Z\", \"description\": \"Tectonic is a leading technology and business services company serving mid-sized business to enterprise customers with a focus on Insight to Action automation in the cloud. Insight to Action is the intersection of big data, analytics, marketing automation, and CRM that provides an integrated approach to automating customer interaction<br><br>We are seeking a Python Data Engineer with the training and curiosity to make big-data discoveries, build the resources necessary to enable those discoveries, to be responsible for coordinating activities.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li> Build/own client\\u2019s data pipelines</li> <li> Build data processing/analytics tools for research and trading</li> <li> Partner with Traders, Quants, Researchers, and Data Scientists to solve their critical data problems </li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li> 2+ years of experience in Data/Software Engineering, Data Science, or a related field </li> <li> Solid understanding of computer science fundamentals, data structures, algorithms, distributed systems, etc.</li> <li> Strong programming background with Python ideally</li> <li> Experience with Big Data/Data Pipelining technologies (ex Spark, Airflow, Kafka, etc.)</li> <li> Strong problem solving and communication skills</li> <li> Interest in working in a fast-paced/high-impact environment</li> <br><br></ul><u><strong>Benefits<br></strong></u><ul> <li>Health Care Plan (Medical, Dental &amp; Vision)</li> <li>Retirement Plan (401k, IRA)</li> <li>Life Insurance (Basic, Voluntary &amp; AD&amp;D)</li> <li>Paid Time Off (Vacation, Sick &amp; Public Holidays)</li> <li>Family Leave (Maternity, Paternity)</li> <li>Short Term &amp; Long Term Disability</li> <li>Training &amp; Development</li> <li>Work From Home</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Tectonic, an insight2action technology services company\", \"sameAs\": \"https://www.linkedin.com/company/tectonic-insight-to-action\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQFtN9PAkFXdRQ/company-logo_200_200/0/1519864416968?e=1634169600&v=beta&t=pObr0KRydTUkn3hbtS9pJRrnL-wnzbd5Tksnrp6FbCA\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Tectonic, an insight2action technology services company\", \"value\": \"132E6331CF\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C4D0BAQFtN9PAkFXdRQ/company-logo_100_100/0/1519864416968?e=1634169600&v=beta&t=wrQpRvL6hn8xsvq6KjHiAjP6C8CF-9vrNhq1DOmSTQI\", \"industry\": \"Information Technology and Services,Computer Software,Management Consulting\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Englewood\", \"addressRegion\": \"CO\", \"postalCode\": \"80110\", \"streetAddress\": null}, \"latitude\": 39.649437, \"longitude\": -104.98891}, \"skills\": \"\", \"title\": \"Python Data Engineer\", \"validThrough\": \"2021-08-14T03:22:06.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 24}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-15T18:43:18.000Z\", \"description\": \"<p>Selby Jennings is working with a high level banking institution to find the best technology talent to build their FinTech team. They have multiple teams hiring for various roles with full-time opportunities. Read below for the responsibilities and qualifications of the role to see if it\\u2019s a good fit for you.&nbsp;</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Own your system as you write new code/APIs and have a large impact on different products</li><li>Entrepreneurial approach to problem solving and solution development</li><li>Assist in defining the technical architecture of mission critical systems</li><li>Find and implement new technology and research to further develop the systems you\\u2019ve created</li></ul><p><br></p><p><strong>Qualifications:</strong></p><ul><li>Bachelor\\u2019s or Master\\u2019s degree in Computer Science or relevant field</li><li>At least 1-6 years of experience as a professional software engineer</li><li>Mastery of Java technologies</li><li>Strong understanding of modern software architecture</li><li>Experience with full-stack JS, React, Node.js, and others</li></ul><p><br></p><p><strong>Others to be considered:</strong></p><ul><li>AWS experience</li><li>Big data technology experience (kafka or hadoop)</li><li>Previous financial experience</li></ul><p><br></p><p>Made it this far? Take the time to apply and submit your resume!</p>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"Selby Jennings\", \"sameAs\": \"https://uk.linkedin.com/company/selby-jennings\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQF4gjqCfxQD8Q/company-logo_200_200/0/1625089548552?e=1634169600&v=beta&t=x-eCWVq6-poiBMlrPirY86h2VHFF7_l45RXG-JJmxZY\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"Selby Jennings\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C4D0BAQF4gjqCfxQD8Q/company-logo_100_100/0/1625089548552?e=1634169600&v=beta&t=fkoIZaeY4io1_1sg-9TiAAc2vJEkJIu3FbutybrTWak\", \"industry\": \"Staffing and Recruiting,Financial Services,Information Technology and Services\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Dallas\", \"addressRegion\": \"TX\", \"postalCode\": \"75342\", \"streetAddress\": null}, \"latitude\": 32.777977, \"longitude\": -96.79621}, \"skills\": \"\", \"title\": \"Software Engineer\", \"validThrough\": \"2021-08-14T18:43:17.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 12}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

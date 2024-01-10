@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-07-08T21:10:41.000Z\", \"description\": \"<p>CitiusTech is a leader in HealthCare innovation. We work with over 120 medical technology, provider, payer&nbsp;and life sciences companies across the US. We are rated among top 100 <em>Best Companies to Work For</em> 8 years in a row and consistently&nbsp;achieved the highest NPS in the Industry.&nbsp;&nbsp;</p><p>Data Science team at CitiusTech is helping many of our clients transform customer experience, improve health outcomes and achieve business excellence through the power of AI/ML. We are growing rapidly by 2x year on year. As a team, we are focused on Deep Work in AI / ML as well as building a culture of openness and respect for each other.&nbsp;</p><p><br></p><p><strong>Skills : </strong></p><ul><li>AI/ML, cloud, Data Science , Python, R, CAIP, DLVM, Big Query, NLP notebook, Python notebook services, R Notebook services, Data exploration services, Data visualizations, Tableau, Terraform , TensorFlow</li></ul><p><strong>&nbsp;</strong></p><p><strong>Job Description</strong></p><ul><li>Hands-on Cloud experience.</li><li>Experience configuring networking and/or IAM permissions and/or working directly with a networking team</li><li>Experience with deploying models in a production environment, notably a HIPAA or HITRUST environment</li><li>Experience with Cloud AI Platform (CAIP) job development and deploying models with customized pre-processing pipelines and prediction routines</li><li>Experience optimizing ML/AI/Deep Learning models</li><li>Working knowledge on Google Cloud, especially end-to-end machine learning with TensorFlow on GCP, Smart analytics &amp; AI on GCP, Terraform, CAIP, DLVM, Big Query, NLP notebook, Python notebook services, R Notebook services, Data exploration services, Data visualizations, Tableau, RStudio, Speech to text, Text to speech services, IAM permissions configurations etc.</li><li>Experience evaluating and presenting costs($) and tradeoffs of various ML options</li><li>Self-starter with the ability to appropriately prioritize and plan complex work in a rapidly changing environment.</li><li>Strong conceptual and analytical skills, demonstrating outside-the-box problem solving skills, results oriented.</li><li>Team player with experience in leading and collaborating cross-team to ensure successful delivery of solution.</li><li>Work with customers to troubleshoot their technical issues and questions.</li><li>Excellent communication skills - should be able to explain the technical aspects to the business people and relevant stakeholders</li></ul>\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"CitiusTech\", \"sameAs\": \"https://www.linkedin.com/company/citiustech\", \"logo\": \"https://media-exp3.licdn.com/dms/image/C510BAQGSUi_CztrO1A/company-logo_200_200/0/1519945792016?e=1634169600&v=beta&t=ydh3dTqOcNvZwMsYckSJTWWRxVmILIbeIGFpq3_k3Ks\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"CitiusTech\"}, \"image\": \"https://media-exp3.licdn.com/dms/image/C510BAQGSUi_CztrO1A/company-logo_100_100/0/1519945792016?e=1634169600&v=beta&t=8x-6pwFj8Zt4TCdfPOJtwGel_9W-0XzcuqmJaY9qEGs\", \"industry\": \"Information Technology and Services,Hospital & Health Care\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Rochester\", \"addressRegion\": \"MN\", \"postalCode\": \"55901\", \"streetAddress\": null}, \"latitude\": 44.019333, \"longitude\": -92.45887}, \"skills\": \"\", \"title\": \"Machine Learning Engineer\", \"validThrough\": \"2021-08-07T21:10:40.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"jobLocationType\": \"TELECOMMUTE\", \"applicantLocationRequirements\": {\"@type\": \"Country\", \"name\": \"United States\"}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}

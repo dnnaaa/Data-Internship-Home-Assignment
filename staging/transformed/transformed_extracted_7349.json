@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "je",
+    "industry": "job_industry",
+    "description": "{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2021-09-03T08:39:32.000Z\", \"description\": \"Job Summary:<br><br><strong>Overview \\u2013 Group and Department:<br><br></strong>Disney Media &amp; Entertainment Distribution (DMED) Technology creates products, platforms, and innovations for the DMED Segment and the Walt Disney Company by driving the strategic development and use of technology, building scalable systems and products to empower our businesses and engage consumers. Within DMED Technology, this team lives in the Consumer Experiences &amp; Platforms pillar, which includes both product and engineering teams to develop, create, enhance, and grow the DMED Technology digital product portfolio.<br><br>This team runs Personalization and Recommendations for DMED Technology digital products, consisting of a wide variety of content across a world-class portfolio with immense scale. You could have a direct impact on personalization growth and commercialization across brands including ESPN, Marvel, ABC, Freeform, National Geographic, and more, accounting for hundreds of millions of consumers each year. If you want to have a hand in enhancing machine learning capabilities and artificial intelligence behind one of the best and most loved companies, this role may be for you. In an age where our consumers are online and seeking the right content at the right time, come be a part of the team behind the magic delivering on that promise!<br><br><strong>Job Summary:<br><br></strong>The Data Scientist will work in our dynamic, interdisciplinary team of data scientists, data engineers, and software engineers. They will have opportunities to work on tasks in any of these disciplines, insofar as they are qualified, but will be focused primarily on data science related tasks (feature engineering, model building, model validation, etc.).<br><br>The Data Scientist is a critical position within DMED Technology who specializes in applying statistical methods to meet optimization, personalization, recommendations and efficiency related challenges, in close collaboration with engineering and business partners. You will be primarily focused on delivering value by developing algorithms that drive integral underlying functionality of our various entertainment services. In addition, throughout the algorithm development process, you will perform thorough data analyses and present these findings to stakeholders across the organization to deliver insights about our products and our customers. Collaboration is key to success at Disney, and you are expected to build bridges and maintain communication across various teams throughout any given project, so strong communication skills are a must.<br><br>Responsibilities:<br><br><strong>Responsibilities may include, but not limited to:<br><br></strong><ul><li>Performing innovative research on content delivery optimization</li><li>Translating business problems into an actionable data science project</li><li>Presenting analyses and models in a clear, easy to understand manner</li><li>Developing, deploying, and supporting ML/AI models</li><li>Building reports and real-time dashboards for our stakeholders</li><li>Developing statistical experiments and analyzing the results</li><li>Process, cleanse, and verify the integrity of data </li><li>Participating in data validation efforts</li><li>Data discovery and exploration tasks<br><br></li></ul><strong>Basic Qualifications:<br><br></strong><strong><u>Basic Qualifications<br><br></u></strong><ul><li>Master\\u2019s degree in a quantitative discipline (statistics, data science, mathematics, economics, etc.)</li><li>3+ years of work experience in data science, statistics, or predictive analytics </li><li>Deep knowledge of statistical principles and the underlying data assumptions on which they rely</li><li>1+ year hands-on experience with at least 2 of the following: recommendation systems, deep learning, reinforcement learning, churn modeling, subscriber growth modeling, clustering/segmentation, etc.</li><li>Understanding of software development lifecycle </li><li>Experience working with Python and other data science tools</li><li>The ability to effectively communicate technical ideas to both technical and non-technical audiences</li><li>Familiarity with databases and data retrieval, including SQL </li><li>Hands-on experience with AWS or other similar cloud services</li><li>A passion for data and technology<br><br></li></ul>Preferred Qualifications:<br><br><strong><u>Preferred Qualifications<br><br></u></strong><ul><li>Previous experience in entertainment</li><li>Knowledge of the video streaming industry</li><li>Demonstrated delivery of machine learning techniques in real-time applications<br><br></li></ul>846221BR\", \"employmentType\": \"FULL_TIME\", \"hiringOrganization\": {\"@type\": \"Organization\", \"name\": \"The Walt Disney Company\", \"sameAs\": \"https://www.linkedin.com/company/the-walt-disney-company\", \"logo\": \"https://media-exp1.licdn.com/dms/image/C560BAQGXZv4H6QwUeA/company-logo_200_200/0/1625095446434?e=1639008000&v=beta&t=tjnRMCLvfo0LOMI2k-GL5_N85fUwcYCCBMqugOLZ0TQ\"}, \"identifier\": {\"@type\": \"PropertyValue\", \"name\": \"The Walt Disney Company\", \"value\": \"846221BR\"}, \"image\": \"https://media-exp1.licdn.com/dms/image/C560BAQGXZv4H6QwUeA/company-logo_100_100/0/1625095446434?e=1639008000&v=beta&t=xRrglKKZ4Rzu1bvwPmcNSUusyNYy1eIIFLSEoq5OY4Y\", \"industry\": \"Marketing and Advertising,Online Media,Internet\", \"jobLocation\": {\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Glendale\", \"addressRegion\": \"CA\", \"postalCode\": \"91205\", \"streetAddress\": null}, \"latitude\": 34.148136, \"longitude\": -118.24644}, \"skills\": \"\", \"title\": \"Data Scientist\", \"validThrough\": \"2021-10-03T08:39:31.000Z\", \"educationRequirements\": {\"@type\": \"EducationalOccupationalCredential\", \"credentialCategory\": \"bachelor degree\"}, \"experienceRequirements\": {\"@type\": \"OccupationalExperienceRequirements\", \"monthsOfExperience\": 36}}",
+    "employment_type": "job_employment_type",
+    "date_posted": "job_date_posted"
+  },
+  "company": {
+    "name": "company_name",
+    "link": "company_linkedin_link"
+  },
+  "education": {
+    "required_credential": "job_required_credential"
+  },
+  "experience": {
+    "months_of_experience": "job_months_of_experience",
+    "seniority_level": "seniority_level"
+  },
+  "salary": {
+    "currency": "salary_currency",
+    "min_value": "salary_min_value",
+    "max_value": "salary_max_value",
+    "unit": "salary_unit"
+  },
+  "location": {
+    "country": "country",
+    "locality": "locality",
+    "region": "region",
+    "postal_code": "postal_code",
+    "street_address": "street_address",
+    "latitude": "latitude",
+    "longitude": "longitude"
+  }
+}
