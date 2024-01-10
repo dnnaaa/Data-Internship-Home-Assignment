@@ -130,8 +130,10 @@ dmypy.json
 .pyre/
 
 # Airflow
+airflow/
 logs/
 airflow.cfg
 airflow.db
 webserver_config.py
 airflow-webserver.pid
+standalone_admin_password.txt

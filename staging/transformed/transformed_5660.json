@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Job Description:  Production Support / Application Support, Linux / Windows / SQL – Expert ; Desired Skills: SQL experts in Unix/Linux Production Support profiles. SQL is the main deciding factor Unix – 8/10 Windows – How to login, IIS, Services, Security policy, Computer management – 8/10 SQL – Strong knowledge (Writing queries, Stored procedure trouble-shooting, Statistics, DDL, DML knowledge, transact-SQL, Oracle) – 9/10 Monitoring – 8/10 Analytical – Needs to understand production issue scenarios and approach to engage and resolve – 8/10 Communication – 8/10   Good to have: Scheduling tools – 7/10 Security Certificate Management – 7/10 SFTP, SSH protocol – 7/10 Linux –Advanced SQL – Advanced Windows – Advanced Scripting (such as Shell/Perl or PowerShell) Knowledge of production application environments and components including database design and performance (such as Oracle, MS SQL); virtual servers (such as VMWare); monitoring platforms (such as Geneos); application resiliency automation; scheduling tools (such as Autosys); load balancing (such as DR pairs, CNAMES, A-Record); transmission protocols (such as SFTP, NDM); Messaging tools (such as MQ, KAFKA) BS or MS in Computer Science highly desired Service Now – a plus Investment Banking Financial Services (such as institutional markets, post trade technology, prime brokerage and fund services) a plus.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T19:31:41.000Z"
+  },
+  "company": {
+    "name": "Securepeoplebase, Inc",
+    "link": "https://www.linkedin.com/company/securepleoplebase-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Renewables &amp; Environment",
+    "description": "⚡ MLOps Engineer 🔌 Energy Technology Start-up 🌎 USA Remote A Series A, Charlottesville-based, national leader in proven vehicle-to-grid (V2G) systems is growing and searching for a Forecasting Engineer. They are on a mission to combat climate change, increase energy resilience, and reduce energy costs by leveraging electric vehicle batteries. Now is the time to get involved, grow with the team, and take part in the exciting energy transition to help transform the World’s future! Responsibilities: · Help design and implement our machine learning platform · Build tooling for running batch experiments · Build tooling for analyzing experiments (eg: feature importance) · Build tooling for assessing production model performance (eg: model drift) · Help develop and productionize algorithms Requirements: · Experience building machine learning platforms · Object Oriented Programming experience · Python development experience · Experience with distributed services and/or messaging systems Benefits: · Competitive salary at recently funded, high-growth, business. · Opportunity to work with like minded people on exciting projects. · Company culture of trust, freedom, and recognition. 📧 Sounds like you? Please click on the ‘Easy Apply’ button. You can also send your resume directly to tito.ayantunde@storm4.com or message me directly! If you have any extra requirements to support your application, then please just add a note along with your CV to let us know.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T15:57:23.000Z"
+  },
+  "company": {
+    "name": "Storm4",
+    "link": "https://uk.linkedin.com/company/storm4"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}
