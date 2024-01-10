@@ -1,10 +1,13 @@
-from datetime import timedelta, datetime
+# dags/etl.py
+from datetime import datetime, timedelta
+from airflow import DAG
+from tasks.create_tables import create_tables
+from tasks.extract import extract
+from tasks.transform import transform
+from tasks.load import load
 
-from airflow.decorators import dag, task
-from airflow.providers.sqlite.hooks.sqlite import SqliteHook
-from airflow.providers.sqlite.operators.sqlite import SqliteOperator
-
-TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
+TABLES_CREATION_QUERY = """
+CREATE TABLE IF NOT EXISTS job (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     title VARCHAR(225),
     industry VARCHAR(225),
@@ -57,21 +60,8 @@ CREATE TABLE IF NOT EXISTS location (
     latitude NUMERIC,
     longitude NUMERIC,
     FOREIGN KEY (job_id) REFERENCES job(id)
-)
+);
 """
-
-@task()
-def extract():
-    """Extract data from jobs.csv."""
-
-@task()
-def transform():
-    """Clean and convert extracted elements to json."""
-
-@task()
-def load():
-    """Load data to sqlite database."""
-    sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
 
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
@@ -79,24 +69,40 @@ DAG_DEFAULT_ARGS = {
     "retry_delay": timedelta(minutes=15)
 }
 
-@dag(
+with DAG(
     dag_id="etl_dag",
     description="ETL LinkedIn job posts",
     tags=["etl"],
-    schedule="@daily",
+    schedule_interval="@daily",
     start_date=datetime(2024, 1, 2),
     catchup=False,
     default_args=DAG_DEFAULT_ARGS
-)
-def etl_dag():
+):
     """ETL pipeline"""
 
-    create_tables = SqliteOperator(
-        task_id="create_tables",
+    create_tables = create_tables(
         sqlite_conn_id="sqlite_default",
-        sql=TABLES_CREATION_QUERY
+        tables_creation_query=TABLES_CREATION_QUERY,
+        #task_id="create_tables_task"
     )
 
-    create_tables >> extract() >> transform() >> load()
+    extract = extract(
+        source_file="source/jobs.csv",
+        staging_dir="staging/extracted",
+        #task_id="extract_task"
+    )
 
-etl_dag()
+    transform = transform(
+        extracted_dir="staging/extracted",
+        transformed_dir="staging/transformed",
+        #task_id="transform_task"
+    )
+
+    load= load(
+        transformed_dir="staging/transformed",
+        sqlite_conn_id="sqlite_default",
+    
+        #task_id="load_task"
+    )
+
+    create_tables >> extract>> transform >> load
