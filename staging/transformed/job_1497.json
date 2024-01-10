@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine learning Data Engineer",
+        "industry": "Information Technology and Services",
+        "description": "<p><strong>Machine Learning&nbsp;Data Engineer</strong>&nbsp;</p><p>Long-Term Contract</p><p>Cincinnati, Ohio</p><p>&nbsp;</p><p>You will have&nbsp;the opportunity to work on challenging&nbsp;Machine Learning&nbsp;and AI&nbsp;projects with the goal to improve the everyday life of&nbsp;client\u2019s&nbsp;members.&nbsp;&nbsp;You will&nbsp;collaborate with data scientist, analyst, business and IT teams to&nbsp;design,&nbsp;implement, and deploy&nbsp;Machine Learning and AI&nbsp;services using Python,&nbsp;PySpark,&nbsp;Azure services,&nbsp;Databricks, Terraform,&nbsp;and other open-source software.&nbsp;&nbsp;Develop plans, designs, code,&nbsp;and&nbsp;documentation,&nbsp;and&nbsp;to&nbsp;perform&nbsp;code reviews,&nbsp;testing, and&nbsp;debugging.&nbsp;&nbsp;You will embrace and enforce best practices in our data science community with&nbsp;automated,&nbsp;repeatable data pipelines.&nbsp;</p><p>Some examples of how we add capabilities to&nbsp;Machine Learning Platform&nbsp;include:&nbsp;</p><p>\u00b7Creating templates for data scientists, embracing leading-edge modeling techniques&nbsp;</p><p>\u00b7Establishing a Feature Store with tens of thousands of features available to use in predictive models&nbsp;</p><p>\u00b7Defining monitoring, auditing, data lineage, and dependency tracking for data pipelines to improve quality&nbsp;</p><p>\u00b7Integrating ethical AI bias monitoring and drift analysis into modelling processing&nbsp;</p><p>\u00b7Standardizing the definitions of clinical, financial, and actuarial features for use across the business&nbsp;</p><p><strong>Tools used&nbsp;</strong>&nbsp;</p><p>\u00b7Python, PySpark,&nbsp;Azure Databricks&nbsp;</p><p>\u00b7 Azure Data Factory,?Azure DevOps,?Azure Kubernetes Service,&nbsp;CosmosDB, AppInsights, Kafka,?Pulsar&nbsp;</p><p>\u00b7Terraform&nbsp;</p><p>\u00b7Open-source ML software, like&nbsp;SciKit&nbsp;Learn,&nbsp;SparkML,&nbsp;TensorFlow,&nbsp;Horovod,&nbsp;Petastorm&nbsp;</p><p>&nbsp;</p><p><strong>Job Description</strong>&nbsp;</p><p>\u00b7Build and deploy&nbsp;ML models&nbsp;on Azure, using best practices in security, and Azure services&nbsp;</p><p>\u00b7Understand best practices for effective predictive models, including cluster management and algorithms, and evangelize with Humana Data Scientists&nbsp;</p><p>\u00b7Thrive&nbsp;in a fast-paced agile environment, closely interacting with business&nbsp;analysts,&nbsp;software engineers, machine learning scientists, data engineers, and data scientists&nbsp;</p><p>\u00b7Put together production templates, review and test ML code, and deploy it to&nbsp;Production&nbsp;</p><p>&nbsp;</p><p><strong>Role Requirements</strong>&nbsp;</p><p>\u00b7BS in Computer Science or related field&nbsp;</p><p>\u00b73+ years of experience working on cloud platforms&nbsp;\u2013 Azure&nbsp;preferred&nbsp;&nbsp;</p><p>\u00b75+ years of experience with&nbsp;Machine Learning&nbsp;and AI&nbsp;</p><p>\u00b75+ years of software development experience, with&nbsp;significant&nbsp;Python experience&nbsp;</p><p>\u00b7Solid knowledge of data structures and algorithms&nbsp;</p><p>\u00b7Experience in production environments (ideally enterprise level).&nbsp;Directly responsible for creating production&nbsp;jobs&nbsp;</p><p>\u00b7Ability&nbsp;to learn new technologies and comprehend&nbsp;unfamiliar&nbsp;data domains and business processes&nbsp;quickly&nbsp;</p><p>&nbsp;</p><p><strong>Role Desirables</strong>&nbsp;</p><p>\u00b7Open-source contributions and portfolio of shipped code at GitHub&nbsp;</p><p>\u00b7Experience with Azure, particularly Azure Data Factory (ADF), Spark, Git, and other software engineering tools;&nbsp;</p><p>\u00b7Experience working with data scientists to streamline code, implement reliable production processes to score models, and/or building scalable, efficient processes to derive new&nbsp;data&nbsp;</p><p>\u00b7Familiar with&nbsp;healthcare applications, terminologies, and data&nbsp;</p><p>\u00b7Passion projects with ML/AI/NLP, for example&nbsp;Kaggle competitions and Hackathons&nbsp;</p><p>&nbsp;</p><p><strong>Role&nbsp;Bonus</strong>&nbsp;</p><p>\u00b7Working multiple tools together on the Azure platform (Databricks, ADF, AppInsights and other monitoring/logging tools) to deploy to production;&nbsp;&nbsp;</p><p>\u00b7Experience in an enterprise production environment where they have hardened, refactored or otherwise improved upon the training code from Data&nbsp;Scientists&nbsp;</p>",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-26T17:16:51.000Z"
+    },
+    "company": {
+        "name": "MAPSYS Inc.",
+        "link": "https://www.linkedin.com/company/mapsys"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": 0,
+        "max_value": 0,
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cincinnati Metropolitan Area",
+        "region": null,
+        "postal_code": "45220",
+        "street_address": null,
+        "latitude": 39.097866,
+        "longitude": -84.508
+    }
+}

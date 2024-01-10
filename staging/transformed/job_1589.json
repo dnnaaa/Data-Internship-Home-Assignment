@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Sports",
+        "description": "<p><strong><em><u>Summary:</u></em></strong>&nbsp;</p><p>The New York Mets are seeking a&nbsp;Software Engineer. This&nbsp;engineer&nbsp;will&nbsp;design,&nbsp;build, test, and&nbsp;deploy mobile and web applications&nbsp;that&nbsp;enrich the&nbsp;Mets&nbsp;data ecosystem and&nbsp;inform decision-making&nbsp;within&nbsp;Baseball Operations. This position requires strong background&nbsp;in&nbsp;mobile and web development. The ideal candidate would be a strong engineering generalist with prior experience&nbsp;building&nbsp;rapid prototypes&nbsp;and comfort in&nbsp;working on&nbsp;UX-focused&nbsp;products for users with varying levels of technical familiarity.&nbsp;<strong><em>Prior experience in or knowledge of baseball is a plus but is not required.</em></strong>&nbsp;</p><p><br></p><p><strong><em><u>Essential Duties &amp; Responsibilities:</u></em></strong>&nbsp;</p><ul><li>Develop&nbsp;exciting&nbsp;user-facing applications by designing,&nbsp;building, and deploying reliable, readable code&nbsp;for&nbsp;platforms within Baseball&nbsp;Operations&nbsp;</li><li>Collaborate with a variety of internal stakeholders to validate&nbsp;designs and facilitate clean rollouts and deployments of new&nbsp;products&nbsp;</li><li>Build and maintain backend APIs to facilitate scalable flow of baseball&nbsp;data&nbsp;&nbsp;</li><li>Integrate&nbsp;with&nbsp;a variety of third-party APIs&nbsp;to enrich the New York Mets data&nbsp;ecosystem&nbsp;</li><li>Work&nbsp;with data engineers to facilitate the easy collection and access of valuable baseball&nbsp;data&nbsp;</li><li>Maintain and scale a&nbsp;broad collection of internal applications that&nbsp;enhance player development, scouting, and executive decision&nbsp;making&nbsp;</li></ul><p><br></p><p><strong><em><u>Qualifications:</u></em></strong>&nbsp;</p><ul><li>Bachelor\u2019s&nbsp;degree in&nbsp;computer science&nbsp;or a related field&nbsp;</li><li>3+ years&nbsp;of relevant work experience&nbsp;</li><li>Strong proficiency in&nbsp;Javascript&nbsp;(including React, React Native,&nbsp;and/or Node.js frameworks)&nbsp;</li><li>Experience building scalable system&nbsp;within&nbsp;cloud&nbsp;platforms,&nbsp;e.g.&nbsp;GCP,&nbsp;AWS&nbsp;</li><li>Experience reviewing code and&nbsp;developing test suites&nbsp;for scalable technological&nbsp;systems&nbsp;</li><li>Experience working with MySQL or other relational&nbsp;databases&nbsp;</li><li>Familiarity with modern agile practices and development tools&nbsp;</li><li>Ability to work&nbsp;collaboratively&nbsp;with&nbsp;designers, analysts, and other&nbsp;engineers&nbsp;</li><li>Strong written and verbal communication skills&nbsp;</li><li>Prior experience&nbsp;in baseball or biomechanics analysis is a&nbsp;plus&nbsp;</li><li>Prior experience in mobile development (Objective-C, Java) is a plus&nbsp;</li></ul><p><br></p><p><em>The above information is intended to describe the general nature, type, and level of work to be performed.&nbsp;The information is not intended to be an exhaustive or complete list of all responsibilities, duties, and skills required for&nbsp;this position.&nbsp;Nothing in this job description restricts management\u2019s right to assign or reassign duties and responsibilities to this job at any time.&nbsp;The individual selected may perform other related duties as assigned or requested.</em>&nbsp;</p><p><br></p><p><strong>The New York Mets recognize the importance of a diverse workforce and value the unique qualities individuals of various backgrounds and experiences can offer to the Organization. Our continued success depends heavily on the quality of our workforce. The Organization is committed to providing employees with the opportunity to develop to their fullest potential.&nbsp;&nbsp;&nbsp;</strong></p>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-19T17:11:09.000Z"
+    },
+    "company": {
+        "name": "New York Mets",
+        "link": "https://www.linkedin.com/company/new-york-mets"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": 0,
+        "max_value": 0,
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York City Metropolitan Area",
+        "region": null,
+        "postal_code": "10021",
+        "street_address": null,
+        "latitude": 40.748295,
+        "longitude": -73.98556
+    }
+}
