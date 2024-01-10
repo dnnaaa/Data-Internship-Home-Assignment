@@ -1,0 +1,37 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": [
+            "Information Technology and Services"
+        ],
+        "description": "<p><strong>JOB&nbsp;DESCRIPTION</strong></p><p><br></p><p><strong>Site&nbsp;Reliability&nbsp;Engineer:</strong></p><p><br></p><p>As&nbsp;an&nbsp;Engineer&nbsp;in&nbsp;the&nbsp;Retail&nbsp;and&nbsp;Athlete&nbsp;Tools&nbsp;team,&nbsp;you&nbsp;will&nbsp;be&nbsp;passionate&nbsp;about&nbsp;maximum&nbsp;availability,&nbsp;observability,&nbsp;reliability,&nbsp;security,&nbsp;and&nbsp;performance&nbsp;of&nbsp;Client\u2019s</p><p>Digital Experiences in Stores and in our Digital call centers around the globe! You will&nbsp;build applications, tools, and automation using your technical skills to provide deep&nbsp;problem analysis, detect system faults or code defects, define, report, write and build&nbsp;observability processes for critical metrics, and partner up with product delivery teams&nbsp;to provide long term scalable solutions to production issues!</p><p><br></p><p><strong>We&nbsp;are looking&nbsp;for hardworking engineers&nbsp;who can bring&nbsp;the following:</strong></p><p><br></p><ul><li>Ability to observe, diagnose, code, and test fixes for production issues quickly and&nbsp;efficiently</li><li>Ability to develop and drive real-time supervising solutions that provide transparency&nbsp;into site health and key performance indicators</li><li>Strong communication skills are written and verbal with the ability to articulate issues and&nbsp;their&nbsp;impact(s), write concise runbooks, and give technical demo\u2019s</li><li>Capable of reporting and communicating metrics with an understanding of the&nbsp;business landscape and how site reliability influences our consumers</li><li>Working&nbsp;understanding&nbsp;of&nbsp;IT&nbsp;service&nbsp;management&nbsp;(Incident,&nbsp;Problem,&nbsp;Change&nbsp;and&nbsp;Knowledge management)</li><li>Ability to work across teams (business and technical) to continuously analyze system&nbsp;performance, seek for avoidance/root-cause, and proactively identify areas in need of&nbsp;optimization</li><li>Passion for continuous learning, partnership, and teamwork</li></ul><p><br></p><p><strong>Qualifications:</strong></p><p><br></p><ul><li>Bachelor\u2019s degree in Computer Science, Information Systems, Business, or another relevant subject area</li><li>1-2 years of professional experience in software development, testing, and/or DevOps engineering.</li></ul><p><br></p><p><strong>Career:</strong></p><p><br></p><ul><li>Design and development experience with microservice-based architecture in Java,&nbsp;Node.js, or similar language preferred</li><li>Design and development experience with front-end UI languages such as Javascript,&nbsp;React, Swift, or similar preferred</li><li>Experience&nbsp;building,&nbsp;deploying,&nbsp;and&nbsp;supporting&nbsp;cloud-based&nbsp;systems&nbsp;in&nbsp;AWS&nbsp;preferred</li><li>Experience with at least one database layer such as SQL, DynamoDb, Cassandra,&nbsp;etc.</li><li>Understanding of basic network and infrastructure concepts such as DNS,&nbsp;Virtualization,&nbsp;Linux</li><li>Experience with Docker and/or Serverless patterns a plus</li><li>Experience with observability monitoring tools such as Splunk, SignalFx, New Relic,&nbsp;or Catchpoint is a plus</li><li>Background with ITIL or Lean a plus.</li></ul>",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-12"
+    },
+    "company": {
+        "name": "Centizen, Inc.",
+        "link": "https://www.linkedin.com/company/centizen"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": {}
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Beaverton",
+        "region": "OR",
+        "postal_code": "97007",
+        "street_address": null,
+        "latitude": 45.486595,
+        "longitude": -122.795616
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": [
+            "Information Technology and Services"
+        ],
+        "description": "<p>Responsibilities</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Identify valuable data sources and automate collection processes</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undertake preprocessing of structured and unstructured data</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Analyze large amounts of information to discover trends and patterns</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build predictive models and machine-learning algorithms</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combine models through ensemble modeling</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Present information using data visualization techniques</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Propose solutions and strategies to business challenges</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collaborate with engineering and product development teams</p><p>Requirements</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proven experience as a Data Scientist or&nbsp;Data Analyst</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in data mining</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understanding of machine-learning and operations research</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Analytical mind and business acumen</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong math skills (e.g. statistics, algebra)</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Problem-solving aptitude</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent communication and presentation skills</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BSc/BA in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred</p>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-29"
+    },
+    "company": {
+        "name": "Cognizant",
+        "link": "https://www.linkedin.com/company/cognizant"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": {}
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Hartford",
+        "region": "CT",
+        "postal_code": "06156",
+        "street_address": null,
+        "latitude": 41.765774,
+        "longitude": -72.673355
+    }
+}

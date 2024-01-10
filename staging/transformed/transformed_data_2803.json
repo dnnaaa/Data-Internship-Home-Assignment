@@ -1,0 +1,37 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": [
+            "Information Technology and Services"
+        ],
+        "description": "<p>SRE&nbsp;\u2013 (Remote) - Up to&nbsp;$200,000 +&nbsp;10%&nbsp;+ Benefits/Shares&nbsp;</p><p><br></p><p>One of the market leaders&nbsp;in producing&nbsp;Blockchain&nbsp;software&nbsp;solutions&nbsp;is looking&nbsp;for an SRE with strong skills&nbsp;within a&nbsp;managed production environment, especially with&nbsp;Kubernetes.&nbsp;&nbsp;</p><p>The company was&nbsp;set up&nbsp;by&nbsp;the&nbsp;co-founder&nbsp;of Ethereum&nbsp;in 2014 and since then,&nbsp;they have grown to become one of the&nbsp;world's&nbsp;best-recognised&nbsp;Ethereum solutions&nbsp;companies. Located in 30&nbsp;different&nbsp;countries,&nbsp;open to remote working&nbsp;across&nbsp;the U.S&nbsp;with a great level of engineering.&nbsp;</p><p>&nbsp;</p><p><strong>Key Benefits</strong>&nbsp;</p><ul><li>100% Remote &nbsp;</li><li>Unlimited holidays&nbsp;</li><li>Learn&nbsp;about deploying onto Blockchain&nbsp;(Ethereum)&nbsp;infrastructure&nbsp;&nbsp;</li><li>Join an industry that is developing&nbsp;every&nbsp;day&nbsp;</li><li>Be part of greenfield DevOps Blockchain projects&nbsp;</li><li>10% Bonus + Equity&nbsp;</li></ul><p>&nbsp;</p><p>As one of the company\u2019s&nbsp;SRE\u2019s, you will have a great opportunity to make a huge impact on the engineering function of the team,&nbsp;define and manage all aspects of the development and production infrastructure.&nbsp;&nbsp;</p><p><br></p><p>Responsibilities:&nbsp;</p><ul><li>Continuously improve team\u2019s processes, tools and solutions used to build, deploy, monitor, maintain and scale production systems&nbsp;&nbsp;</li><li>Improve the monitoring, alerting and remediation solutions and proactively identify production issues&nbsp;</li><li>Lead efforts to remediate critical operational platform issues&nbsp;&nbsp;</li><li>Design and improve support processes in collaboration with support and dev teams&nbsp;</li></ul><p><br></p><p>Required skills, not limited to:&nbsp;&nbsp;</p><ul><li>Linux&nbsp;Engineering&nbsp;&nbsp;</li><li>Scripting -&nbsp;Python,&nbsp;Bash, Go&nbsp;&nbsp;</li><li>Cloud (AWS/GCP/Azure)&nbsp;</li><li>Monitoring \u2013 ELK,&nbsp;Prometheus&nbsp;&nbsp;</li><li>Infrastructure as Code - Terraform (Preferred)&nbsp;</li><li>CI/CD - Jenkins&nbsp;</li><li>Kubernetes&nbsp;</li></ul><p>&nbsp;</p><p>Please apply below or contact Emmanuel&nbsp;Oloko\u202fat&nbsp;emmanuel@chisquare-analytics.com&nbsp;or call 07546110052 for a confidential chat.&nbsp;</p>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04"
+    },
+    "company": {
+        "name": "Chi Square Analytics",
+        "link": "https://uk.linkedin.com/company/chi-square-analytics"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": {}
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

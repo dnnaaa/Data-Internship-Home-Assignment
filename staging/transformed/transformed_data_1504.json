@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": [],
+        "description": "<p><strong>The purpose&nbsp;&amp;&nbsp;responsibilities of the role&nbsp;include:</strong>&nbsp;</p><ul><li>Design, develop,&nbsp;debug,&nbsp;and maintain&nbsp;web-based&nbsp;applications written in Python.&nbsp;</li><li>Be involved and participate in the overall application lifecycle for software applications&nbsp;supporting our Process Development department (including High-throughput screening, Analytics, Fermentation,&nbsp;Biocatalysis, and Downstream processing).&nbsp;</li><li>Collaborate with&nbsp;scientists and front-end developers&nbsp;</li><li>Discuss technical and design requirements with manager and end-users&nbsp;</li><li>Provide training, help,&nbsp;and support to other team members&nbsp;</li><li>Build high-quality reusable code that can be used in the future&nbsp;</li><li>Troubleshoot and debug applications&nbsp;</li><li>Learn about new&nbsp;technologies&nbsp;</li></ul><p>&nbsp;</p><p><strong>Requirements:</strong>&nbsp;</p><ul><li>Candidate should have&nbsp;at least&nbsp;a master's, preferably in Software Engineering, or a degree in a quantitative discipline such as computer science, mathematics, computational biology, electrical engineering, bioengineering or equivalent.&nbsp;</li><li>Industry experience is a plus, but not required.&nbsp;</li><li>Biology exposes a plus, but not required.&nbsp;</li><li>Experience with programming best practices (unit testing, CI/CD, etc.) and version control while contributing to or maintaining large codebases&nbsp;</li><li>Expertise with scripting programming languages (Python is&nbsp;strongly&nbsp;preferred)&nbsp;</li><li>English (spoken, written) is required&nbsp;</li><li>Chinese&nbsp;(spoken&nbsp;or&nbsp;written)&nbsp;is a plus&nbsp;</li><li>Candidates must be willing to locate near our facilities in either Lafayette,&nbsp;California, or Hangzhou, China.&nbsp;We are open to a hybrid work model.&nbsp;</li></ul>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-29"
+    },
+    "company": {
+        "name": "Bota Biosciences",
+        "link": "https://www.linkedin.com/company/botabio"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": {}
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Lafayette",
+        "region": "CA",
+        "postal_code": "94549",
+        "street_address": null,
+        "latitude": 37.890797,
+        "longitude": -122.12747
+    }
+}

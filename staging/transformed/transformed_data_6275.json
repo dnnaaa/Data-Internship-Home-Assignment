@@ -1,0 +1,37 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": [
+            "Information Technology and Services"
+        ],
+        "description": "<p>Requirement Skills:</p><p>1. Developer role, ML Model implementation, experimentation &amp; related software engineering focused</p><p>2. Experience as a data scientist with a preference in forecasting algorithms</p><p>3. Python, PySpark&nbsp;development experience a must</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Very good Python, PySpark&nbsp;development experience</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software development experience </p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience as a data scientist with a preference in forecasting algorithms</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BS or MS degree is Software Engineering or Computer Science</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to learn fast and handle multiple priorities</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developer role, ML Model implementation, experimentation &amp; related software engineering focused</p><p>&nbsp;</p>",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-26"
+    },
+    "company": {
+        "name": "InfoVision Inc.",
+        "link": "https://www.linkedin.com/company/infovision"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": {}
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas",
+        "region": "TX",
+        "postal_code": "75342",
+        "street_address": null,
+        "latitude": 32.777977,
+        "longitude": -96.79621
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": [
+            "Financial Services"
+        ],
+        "description": "<p><strong>Site Reliability&nbsp;Engineer&nbsp;</strong>&nbsp;</p><p><br></p><p><strong>Position&nbsp;Summary&nbsp;</strong></p><p>Site Reliability Engineering (SRE) is what you get when you treat operations as if it is a software problem. Our mission is to protect and provide for the software and systems behind Clearent\u2019s services with an ever-watchful eye on their availability, latency, performance, and capacity.&nbsp;As an SRE you will use your experience&nbsp;in running production-grade software&nbsp;to&nbsp;build automation&nbsp;that&nbsp;allow&nbsp;our systems to run smoothly with minimal intervention.&nbsp;</p><p><br></p><p><strong>Essential Duties and Responsibilities&nbsp;</strong></p><ul><li>Automate pipelines to production and&nbsp;make it safe, secure, and repeatable&nbsp;so that development teams can self-service&nbsp;</li><li>Configure and maintain&nbsp;Rancher&nbsp;clusters&nbsp;containing hundreds of docker microservices&nbsp;on-prem and in Azure&nbsp;</li><li>Construct and maintain infrastructure-as-code&nbsp;using terraform, puppet, and ansible&nbsp;</li><li>Solve problems relating to mission critical services and build automation to prevent problem recurrence with the goal of automating response to all non-exceptional service conditions&nbsp;</li><li>Influence and create new designs, architectures, standards and methods for large-scale distributed systems&nbsp;</li><li>Build world-class alerting, monitoring, and capacity management&nbsp;systems for the management of&nbsp;our&nbsp;platform\u2019s health&nbsp;</li><li>Participate in on-call rotations as needed&nbsp;</li><li>Other duties as&nbsp;assigned by management&nbsp;</li></ul><p><br></p><p><strong>Qualifications&nbsp;</strong></p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5&nbsp;years&nbsp;experience in a software development and/or operations role&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intermediate experience with Azure DevOps pipelines&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professional experience&nbsp;in docker&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intermediate experience with scripting (powershell, bash, python preferred)&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to troubleshoot running applications in a systematic manner&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comfortable working with applications on-prem and in Azure&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Working proficiency&nbsp;with&nbsp;Git&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comfortable with&nbsp;Scrum-based&nbsp;development lifecycle&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent analytical and problem-solving skills&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong&nbsp;and&nbsp;clear written and verbal communication skills&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to&nbsp;translate&nbsp;complex ideas into diagrams,&nbsp;user stories, and ultimately working software&nbsp;</p><p><br></p><p><strong>Competencies&nbsp;</strong></p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Forward Thinking</strong>\u202f- Anticipates how individuals and groups will react to situations and information and plans accordingly.&nbsp;Anticipates&nbsp;the consequences of situations and plans accordingly. Notices trends in the industry or marketplace and develops plans to prepare for opportunities or problems. Anticipates possible problems and develops contingency&nbsp;plans in advance.&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Drives Performance</strong>\u202f- Develops challenging but achievable goals. Maintains commitment to goals in the face of obstacles and frustrations. Finds or creates ways to measure performance against goals.&nbsp;Has&nbsp;a strong sense of urgency about solving problems and getting work&nbsp;done.&nbsp;Creates momentum and drives behavior change when necessary.&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Adaptability</strong>\u202f- Adapts to new ideas and initiatives across a wide variety of issues or situations. Adapts interpersonal style to highly diverse individuals and groups in a range of situations. Supports major changes that challenge traditional ways of operating. Anticipates change in order to adapt&nbsp;own&nbsp;plans and priorities.&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Fosters Teamwork</strong>\u202f- Assumes additional responsibilities to facilitate the achievement of team goals. Seeks input from other team members on matters that affect them. Shares all relevant information with others.&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Open + Transparent Communication</strong>\u202f- Recalls others' main points, taking them into account in own communication. Checks&nbsp;own&nbsp;understanding of others' communication (e.g., paraphrases, asks questions). Elicits comments or feedback on what has been said. Maintains continuous, open and consistent communication with others.&nbsp;</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Technical Expertise\u202f</strong>- With guidance, completes common tasks, which present limited difficulties. Reads standard documents to extract key information. Assists team in carrying out complex tasks.&nbsp;</p><p>&nbsp;</p>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17"
+    },
+    "company": {
+        "name": "Clearent",
+        "link": "https://www.linkedin.com/company/clearent"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": {}
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater St. Louis",
+        "region": null,
+        "postal_code": "63101",
+        "street_address": null,
+        "latitude": 38.62262,
+        "longitude": -90.192986
+    }
+}

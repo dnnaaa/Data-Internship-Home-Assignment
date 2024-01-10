@@ -1,0 +1,37 @@
+{
+    "job": {
+        "title": "ServiceNow Developer",
+        "industry": [
+            "Information Technology and Services"
+        ],
+        "description": "<p><strong>This is a 100% remote opportunity.  Open to full time or contracting</strong></p><p><br></p><p>As a Technical Consultant you will work to develop, design and own technical solutions on the ServiceNow platform. You will provide administration, application development, maintenance, and technical support by using good practice web programming techniques to configure robust solutions to the client utilizing the ServiceNow platform.&nbsp;</p><p>&nbsp;</p><p>&nbsp;Location: Remote - must be based in the US</p><p>&nbsp;Travel Requirements: 25% or less</p><p>&nbsp;Employment Status: Full-time</p><p><br></p><p><strong>Responsibilities</strong></p><p><strong>&nbsp;</strong>* Comfortable with Javascript and ServiceNow Javascript API's</p><p>&nbsp;* Comfortable with configuration and customization of solutions in one (1) or more of the following specializations:</p><p>&nbsp;* ServiceNow Mainline Application(s) (ITSM, ITBM, CSM, HR, ITOM, etc)</p><p>&nbsp;* Service Portal (HTML, CSS, AngularJS, SASS, Bootstrap)</p><p>&nbsp;* ServiceNow Application Development (Scoped Applications)</p><p>&nbsp;* 3rd Party Integrations Development (REST, SOAP, MID Servers, etc)</p><p>&nbsp;* Write/create custom business rules, client scripts, script includes, UI policies, ACL's, data policies, UI scripts</p><p>&nbsp;* Work independently with customers on implementations and remote services</p><p>&nbsp;* Can troubleshoot basic configuration/script issues</p><p>&nbsp;* Attend requirements review and validation sessions as required</p><p>&nbsp;* Participate in scrum ceremonies</p><p>&nbsp;* Deliver measurable, positive results within the client and team's timeline resulting in positive feedback from clients</p><p>&nbsp;* Build on current platform knowledge by learning new modules and broadening skillset</p><p>&nbsp;* Remain innovative, creative, self-directed\u2026a great leader and team player with a record of accomplishment in managing multiple complex tasks</p><p>&nbsp;* Utilize strong communication, presentation, and writing skills</p><p>&nbsp;* Maintain current certifications, keep up to date on all Delta releases</p><p><strong>Qualifications</strong></p><p>&nbsp;* Strong working knowledge of one (1) or more of the following specializations:</p><p>&nbsp;* ServiceNow Mainline Application(s) (ITSM, ITBM, CSM, HR, ITOM, etc)</p><p>&nbsp;* Service Portal (HTML, CSS, AngularJS, SASS, Bootstrap)</p><p>&nbsp;* ServiceNow Application Development (Scoped Applications)</p><p>&nbsp;* 3rd Party Integrations Development (REST, SOAP, MID Servers, etc)</p><p>&nbsp;* ServiceNow Certified System Administrator is required</p><p>&nbsp;* ServiceNow CIS certification is preferred</p><p>&nbsp;* Consulting experience strongly preferred</p><p>&nbsp;* BA/BS Degree education preferred</p><p><br></p><p>&nbsp;</p>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05"
+    },
+    "company": {
+        "name": "KORE1",
+        "link": "https://www.linkedin.com/company/kore1-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": {}
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cincinnati Metropolitan Area",
+        "region": null,
+        "postal_code": "45220",
+        "street_address": null,
+        "latitude": 39.097866,
+        "longitude": -84.508
+    }
+}

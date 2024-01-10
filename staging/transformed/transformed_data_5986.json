@@ -1,0 +1,37 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": [
+            "Information Technology and Services"
+        ],
+        "description": "<p><strong>Role</strong>: Data Scientist</p><p><br></p><p><strong>Roles and Responsibilities</strong></p><p><strong><span class=\"ql-cursor\"></span></strong></p><p><strong>Suitable candidates will be part of Wipro Digital-Intelligent Enterprise practice. The role entails leveraging Data Science and Machine Learning to solve typical problems within an organization and create IP that could be deployed in a productized&nbsp;mode. This will entail significant hands-on work on multiple Big Data Technologies, Data Analysis, Identifying data patterns, ML models, Insights generation. The role entails deployment in a customer context and managing customer expectations. </strong></p><p><strong>&nbsp;</strong></p><p><strong>&nbsp;</strong></p><p><strong>Technical Skills Required:</strong></p><p><strong>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hands on with Python or R</strong></p><p><strong>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Analytics using industry leading BI tools and technologies</strong></p><p><strong>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implementation knowledge of supervised\\un-supervised machine learning algorithms</strong></p><p><strong>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good statistical analysis skills for data pre-processing and data wrangling</strong></p><p><strong>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experienced in using big data frameworks like Hadoop</strong></p><p><strong>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of business intelligence tools or reporting tools </strong></p><p><strong>&nbsp;</strong></p><p><strong>Data Preparation for Modeling</strong></p><p><strong>\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Missing Data Imputation,Outlier Treatment</strong></p><p><strong>\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scaling, Normalization, Standardization</strong></p><p><strong>\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encoding for Categorical Variables</strong></p><p><strong>\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oversampling\\Undersampling for reducing class imbalance</strong></p><p><strong>&nbsp;</strong></p><p><strong>Experience in building solutions using Model Library</strong></p><p><strong>\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feature Selection</strong></p><p><strong>\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tree-based Ensemble Models</strong></p><p><strong>\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gradient\\Adaptive Boosted Trees</strong></p><p><strong>\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyper-parameter tuning </strong></p><p><strong>&nbsp;</strong></p><p><strong>Building Prediction mechanisms using methods like Logistic regression, voting classifier stacking etc</strong></p><p><strong>&nbsp;</strong></p>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23"
+    },
+    "company": {
+        "name": "Wipro Technologies",
+        "link": "https://in.linkedin.com/company/wiprotechnologiessjp"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": {}
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "IN",
+        "locality": "Bengaluru",
+        "region": null,
+        "postal_code": "577566",
+        "street_address": null,
+        "latitude": 12.976747,
+        "longitude": 77.57528
+    }
+}

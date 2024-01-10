@@ -1,0 +1,38 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": [
+            "Information Technology and Services",
+            "Hospital & Health Care"
+        ],
+        "description": "<p>Software Engineer</p><p>100% Remote</p><p>6 month contract-to-hire</p><p>Fortune 500 Health Client</p><p>&nbsp;</p><p><strong>Position Overview:&nbsp;&nbsp;</strong></p><p>Team member will work on a team of truly talented individuals and be responsible for design, build and testing (using automation scripts but not limited to unit/integration/performance testing) of Product Enrollment Suite. This team is responsible for 5 systems all having to do with product. You will be working with homegrown systems and client systems. The candidate will be responsible for building&nbsp;components of the&nbsp;Product Enrollment Suite with a range of cutting edge technologies that interface with various enterprise systems.</p><p>&nbsp;</p><p><strong>Key Technologies Needed:&nbsp;&nbsp;</strong></p><ul><li>Angular&nbsp;</li><li>Nodejs/Typescript</li><li>Python&nbsp;</li><li>Deployment/containerization tools (Kubernetes/docker/jenkins/etc.)&nbsp;</li></ul><p>&nbsp;</p><p><strong>Required Experience&nbsp;/ Qualifications:&nbsp;&nbsp;</strong></p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solid Analytical skills</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Familiar with&nbsp;Micro-services Architecture and Rest patterns using leading industry recommended security frameworks</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in Data Integration (batch, real-time) following Enterprise Integration Patterns</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highly motivated, well-rounded, team player and self-starter that works best in a collaborative, dynamic, agile environment&nbsp;</p><p>&nbsp;</p><p><strong>Desired Experience / Qualifications:&nbsp;&nbsp;</strong></p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in Cloud and related technologies such as AWS, Google, Azure</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SAFe Agile experience, with any SAFe certifications a plus</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knowledge of reporting/BI tools such as Cognos would be plus</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quick learner of new technologies and adapt to changes</p><p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent communication skills&nbsp;&nbsp;</p><p></p>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18"
+    },
+    "company": {
+        "name": "Brooksource",
+        "link": "https://www.linkedin.com/company/brooksource"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": {}
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Indianapolis",
+        "region": "IN",
+        "postal_code": "46203",
+        "street_address": null,
+        "latitude": 39.76845,
+        "longitude": -86.15621
+    }
+}
