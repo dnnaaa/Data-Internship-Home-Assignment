@@ -1,0 +1,13 @@
+1- In the main directory, create the python virtual environment using the command:
+(`python -m venv venv`)
+
+2- Once it's created, then activate it using the command:
+(source venv/bin/activate)
+
+3- After this run the script `script.sh` on the terminal using the command:
+(`./script.sh`)
+
+For the tests:
+    you can walk through the tests directory where test_operations module
+is located that after installing the pytest module (`pip install pytest`) you can run pytest
+in the terminal in the same tests directory

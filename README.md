@@ -198,3 +198,5 @@ Read the transformed data from `staging/transformed`, and save it to the sqlite 
 As mentioned previously, your code should be unit tested.
 
 Hints: Use pytest for your unit tests as well as mocks for external services.
+
+### To do: read the instructions.txt file to to test the dag and for tests

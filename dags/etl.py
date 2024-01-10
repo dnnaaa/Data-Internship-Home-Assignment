@@ -1,77 +1,34 @@
 from datetime import timedelta, datetime
-
+import sys
+sys.path.append("/workspaces/Data-Internship-Home-Assignment/")
 from airflow.decorators import dag, task
 from airflow.providers.sqlite.hooks.sqlite import SqliteHook
 from airflow.providers.sqlite.operators.sqlite import SqliteOperator
-
-TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    title VARCHAR(225),
-    industry VARCHAR(225),
-    description TEXT,
-    employment_type VARCHAR(125),
-    date_posted DATE
-);
-
-CREATE TABLE IF NOT EXISTS company (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    name VARCHAR(225),
-    link TEXT,
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS education (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    required_credential VARCHAR(225),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS experience (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    months_of_experience INTEGER,
-    seniority_level VARCHAR(25),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS salary (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    currency VARCHAR(3),
-    min_value NUMERIC,
-    max_value NUMERIC,
-    unit VARCHAR(12),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS location (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    country VARCHAR(60),
-    locality VARCHAR(60),
-    region VARCHAR(60),
-    postal_code VARCHAR(25),
-    street_address VARCHAR(225),
-    latitude NUMERIC,
-    longitude NUMERIC,
-    FOREIGN KEY (job_id) REFERENCES job(id)
-)
-"""
+from etl_process_operations.operations import TABLES_CREATION_QUERY, extract_data, transform_data, load_data
 
 @task()
 def extract():
     """Extract data from jobs.csv."""
+    extract_data()
 
 @task()
 def transform():
     """Clean and convert extracted elements to json."""
+    transform_data()
 
 @task()
 def load():
     """Load data to sqlite database."""
     sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
+    
+    #create a connection from the hook
+    sql_connection=sqlite_hook.get_conn()
+    
+    #loading the data into the sqlite default db
+    load_data(sql_connection)
+
+    #execute a query to check either the the loading is done successfully
+    print(sql_connection.execute("select title from job").fetchall()[0:3])
 
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
@@ -90,13 +47,20 @@ DAG_DEFAULT_ARGS = {
 )
 def etl_dag():
     """ETL pipeline"""
-
-    create_tables = SqliteOperator(
-        task_id="create_tables",
-        sqlite_conn_id="sqlite_default",
-        sql=TABLES_CREATION_QUERY
-    )
-
+    
+    #create each table separately
+    tables_creation_queries=TABLES_CREATION_QUERY.split(";") #the statement are separated using semicolone (;)
+    
+    # Here is a list to store the tasks for table creation
+    create_tables =[]
+    tables=["job", "company","education", "experience", "salary", "location"]
+    for table, query in zip(tables, tables_creation_queries):
+        create_tab=SqliteOperator(
+            task_id=f"create_tables_{table}",
+            sqlite_conn_id="sqlite_default",
+            sql=f"{query};"
+        )
+        #add the task to the list
+        create_tables.append(create_tab)
     create_tables >> extract() >> transform() >> load()
-
 etl_dag()
