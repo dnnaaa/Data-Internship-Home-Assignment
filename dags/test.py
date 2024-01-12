@@ -13,70 +13,12 @@ from bs4 import BeautifulSoup
 import html
 import os
 
-TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    title VARCHAR(225),
-    industry VARCHAR(225),
-    description TEXT,
-    employment_type VARCHAR(125),
-    date_posted DATE
-);
-
-CREATE TABLE IF NOT EXISTS company (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    name VARCHAR(225),
-    link TEXT,
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS education (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    required_credential VARCHAR(225),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS experience (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    months_of_experience INTEGER,
-    seniority_level VARCHAR(25),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS salary (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    currency VARCHAR(3),
-    min_value NUMERIC,
-    max_value NUMERIC,
-    unit VARCHAR(12),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS location (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    country VARCHAR(60),
-    locality VARCHAR(60),
-    region VARCHAR(60),
-    postal_code VARCHAR(25),
-    street_address VARCHAR(225),
-    latitude NUMERIC,
-    longitude NUMERIC,
-    FOREIGN KEY (job_id) REFERENCES job(id)
-)
-"""
-
-# Define paths
 SOURCE_CSV = "source/jobs.csv"
 EXTRACTED_DIR = "staging/extracted"
 TRANSFORMED_DIR = "staging/transformed"
-DATABASE_FILE = "sqlite_default.db"
+DATABASE_FILE = "etl_database.db"
 
 
-@task()
 def extract():
     """Extract data from jobs.csv."""
     print("starting extraction...")
@@ -89,11 +31,8 @@ def extract():
             data[:10]
             file.write(data)  
         file.close() 
-        if i==5:
-            break
     print("done!")
 
-@task()
 def transform():
     """Clean and convert extracted elements to json."""
     print("starting transformation...")
@@ -154,7 +93,7 @@ def clean_description(description):
     
     return cleaned_description
 
-@task()
+
 def load():
     """Load data to sqlite database."""
     print("starting loading...")
@@ -162,7 +101,7 @@ def load():
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
-    # SQLite insert queries
+    # Define SQLite insert queries 
     job_query = """
         INSERT INTO job (title, industry, description, employment_type, date_posted)
         VALUES (?, ?, ?, ?, ?)
@@ -194,7 +133,7 @@ def load():
                 data = json.loads(file.read())
 
             try:
-                # Execute the queries with data from the transformed JSON
+                # Execute the query
                 cursor.execute(job_query, (
                     data["job"]["title"],
                     data["job"]["industry"],
@@ -243,47 +182,6 @@ def load():
     conn.close()
     print("done!")
 
-@task()
-def create_tables():
-    """Create tables in SQLite database."""
-    # Connect to SQLite database
-    db_path = 'sqlite_default.db'
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-
-    # Execute tables creation query
-    cursor.executescript(TABLES_CREATION_QUERY)
-
-    # Commit the changes
-    conn.commit()
-
-    print("Tables created successfully!")
-
-    # Close the connection
-    conn.close()
-
-
-DAG_DEFAULT_ARGS = {
-    "depends_on_past": False,
-    "retries": 3,
-    "retry_delay": timedelta(minutes=15)
-}
-
-@dag(
-    dag_id="etl_dag",
-    description="ETL LinkedIn job posts",
-    tags=["etl"],
-    schedule="@daily",
-    start_date=datetime(2024, 1, 2),
-    catchup=False,
-    default_args=DAG_DEFAULT_ARGS,
-)
-def etl_dag():
-    """ETL pipeline"""
-
-    create_tables() >>  extract() >> transform() >> load()
-
-    print('done!')
-
-if __name__ == "__main__":
-    etl_dag()
+extract()
+transform()
+load()
