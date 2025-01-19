@@ -35,7 +35,7 @@ To run this ETL pipeline with Docker, use the provided `docker-compose.yml` file
    ```
    This will launch Airflow Webserver on `http://localhost:8080`.
 
-2. **Volumes**: The volumes in `docker-compose.yml` map local directories to the Airflow container, ensuring your local files and logs are synced. Here are the volume mappings:
+2. **Volumes**: The volumes in `docker-compose.yml` map local directories to the Airflow container, ensuring local files and logs are synced. Here are the volume mappings:
    - `./dags:/opt/airflow/dags`: Local `dags` directory to store DAG scripts.
    - `./logs:/opt/airflow/logs`: Local `logs` directory for Airflow's logs.
    - `./plugins:/opt/airflow/plugins`: Local `plugins` directory for custom Airflow plugins.
@@ -111,6 +111,10 @@ The main DAG is located in `dags/etl_dag.py`. This DAG defines three tasks:
   }
 }
 ```
+### Verifying Data in SQLite After the Load Task
+
+After the ETL process has completed, you can verify that the data has been successfully loaded into the SQLite database by connecting to the Airflow container and checking the contents of the database.
+
 ![Unit Test Screenshot](sqlite.png)
 
 ### Unit Testing
