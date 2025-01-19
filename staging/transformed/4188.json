@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Marketing and Advertising,Computer Software,Financial Services",
+        "description": "About The TeamZillow Offers is an initiative at the core of Zillowâs evolution, focused on defining the future of real estate. Our business seeks to make it simple to buy and sell homes by giving consumers certainty and control and sparing them the tremendous stress of the traditional process!We are a collaborative, passionate team of applied scientists, machine learning engineers, software engineers & product managers building the Machine Learning Software that serve as the backbone of the Zillow Offers product.We are looking for a Machine Learning Engineer who will join the engineering group for the Automated Valuation Model team. Responsible for creating automated, explainable, and unbiased home valuations, this high impact team provides our customers with an accurate offer for their home. These automated valuations are at the core of our vision of providing consumers with an always up-to-date fair-market-value cash offer for their home.About The RoleIn this Machine Learning Engineer role, you will partner closely with applied scientists to realize new research breakthroughs in a robust, scalable way. You will build and deploy machine learning-based software including data engineering pipelines, machine learning workflows, and inference microservices.We are seeking a passionate self-starter who is equally versed in software engineering best practices and the latest technologies and frameworks for deploying machine learning models.Ideally, you are interested in growing your machine learning engineering leadership, and enjoy being in a fast-paced, ambiguous environment. This role will collaborate with a team that includes applied scientists, data scientists, and a product manager. You will start remotely due to COVID-19.Our team is excited for this key hire to join our mission! We have committed significant time, systems, and processes to onboard you in an inclusive and empowering way. If this message resonates with you, please apply.This role has been categorized as a Remote position. âRemoteâ employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice which must be identified to the Company. Employees may live in any of the 50 US States, with limited exceptions. In certain cases, an employee in a remote-designated job may need to live in a specific region or time zone to support customers or clients as part of their role.Who you areReal-world experience building and deploying machine learning and/or data systems (for example, data engineering pipeline for data ingestion and feature extraction; machine learning workflow for automatically training and evaluating models; a web service for dynamic online inference)We largely use Python, but fluency in Scala, Java, and/or C++ is also acceptableFamiliarity with Python scientific stack (e.g., numpy, pandas)Experience working with cloud platforms (e.g., AWS, GCP, Azure) to ship intelligent systemsPassion for machine learning engineering and Zillow OffersSelf-starter who takes initiative, receives feedback well and has a positive attitudeNice-to-HavesExperience supporting and collaborating with scientistsExperience working with product managers, real estate partners and/or platform teams (infrastructure, data engineering, etc.)Experience working at a large technology company with various stakeholders and decision makersExperience building data pipelines with distributed processing frameworks (e.g., Apache Spark)Experience championing best practices in ML OpsIn addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location.Get to know usZillow is reimagining real estate to make it easier to unlock lifeâs next chapter.As the most-visited real estate website in the United States, ZillowÂ® and its affiliates offer customers an on-demand experience for selling, buying, renting or financing with transparency and nearly seamless end-to-end service. Millions of people visit Zillow and its affiliate sites every month to start their home search, and now they can rely on Zillow to help them finish it â and no matter what job you're in, you will play a critical role in making this vision a reality.At Zillow, we're powered by our innovative and inclusive work culture, where everyone has the flexibility, support and resources to do the best work of their careers. Our efforts to streamline the real estate transaction is supported by our passion to redefine the employee experience, a deep-rooted culture of innovation, a fundamental commitment to Equity and Belonging, and world-class benefits. But don't just take our word for it. Read our reviews on Glassdoor and recent recognition from multiple organizations, including: Fortuneâs 100 Best Companies to Work ForÂ® List 2021 Bloomberg Gender-Equality Index 2021, Human Rights Campaign (HRC) Corporate Equity Index and HRCâs Best Place to Work for LGBTQ Equality 2021, Fortune Best Workplaces for Technology 2020, Fortune Best Workplaces for Millennials 2020, Fortune Best Workplaces for Parents 2020, and the Deloitte Technology Fast 500.Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please contact us at RecruitingAccessibility@zillowgroup.com.Applicants who receive job offers from Zillow Group will be asked to sign a Proprietary Rights Agreement which includes confidentiality, intellectual property assignment, customer and employee non-solicitation, and non-competition provisions. If you are contacted for a role at Zillow Group and wish to review a copy of the Proprietary Rights Agreement prior to receiving an offer, you may request a copy from your Recruiter.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T14:51:53.000Z"
+    },
+    "company": {
+        "name": "Zillow",
+        "link": "https://www.linkedin.com/company/zillow"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 120000,
+        "max_value": 169000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Washington",
+        "region": "United States",
+        "postal_code": "98925",
+        "street_address": null,
+        "latitude": 47.411373,
+        "longitude": -120.556366
+    }
+}

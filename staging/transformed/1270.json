@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Engineer",
+        "industry": "Wine and Spirits,Food & Beverages,Consumer Goods",
+        "description": "Beam Suntory is Crafting the Spirits that Stir the World. Rooted in two centuries of family heritage, Beam Suntory has evolved into the world's third largest leading premium spirits company... where each employee is treated like family and trusted with legacy. With our greatest assets - our premium spirits and our people - we're driving growth through impactful marketing, innovation and an entrepreneurial spirit. Beam Suntory is a place where you can come Unleash your Spirit by making an impact each and every day.Â Â Data EngineerÂ Â Â The following positionÂ is open inÂ Chicago, IL.Â What makes this a great opportunity?Beam Suntory is a leader in the spirits industry with a track record of profitability and growthOpportunity to help shape the Digital Technologies & Analytics initiativesGrowth potential beyond this roleÂ Role ResponsibilitiesÂ This position will support the companyâs Digital Technologies & Analytics initiatives by taking a senior technical role in the development of advanced analytics capabilities and innovation.Â Â Drive the implementation of the defined innovation strategy through the design and architecture for analytics platform components/services utilizing Google Cloud Platform infrastructure and provide technical expertise to deliver advanced analyticsDesign, build & operate a secure, highly-scalable, reliable platform to consume, integrate and analyze complex data using a variety of best-in-class platforms and toolsCollaborate with various global IT teams to develop Big Data reference architecture patterns for data ingestion, data processing, analytics and data science solutionsDrive innovation through developing proof-of-conceptâs and prototypes to help illustrate approaches to technology and business problemsProvide strong technical skills with ability to design, architect, and get into low-level implementation detailsBe a hands-on developer and build scalable, real time, Big Data systems whilst providing a deep business understanding of CPG functions & processesProven experience in working with globally distributing agile teamsDevelop and maintain modern development & data management methodologyÂ Qualifications & ExperienceÂ A bachelor's degree in computer science, math, physics, engineering or a related field5+ years of progressive experience in data and analytics, with at least 3 years' experience in Google cloud platformOverall, 5+ years of progressive experience working in software engineering teams (mentoring junior engineers, setting technical direction, etc.).Experience with Google Cloud Platform technology stack for Data Analytics and Big data technologies (Big Query -Â DWH concepts, ANSI SQL, Big Table â HBase, DataProc â Spark/Hadoop, Dataflow â Apache Beam/Scala/Python) is requiredExperience in developing the data pipeline, ETL processes, data platform, data modelling, and data governance processes in delivering end-to-end solutionsSolid foundation in design, data structures and algorithms, and strong analytical and debugging skills with customer-facing products experienceGood understanding of private and public cloud design considerations and limitations in the areas of virtualization, global infrastructure, distributed systems, load balancing, networking, massive data storage, Hadoop, MapReduce, and security.Strong programming experience in Python and ScalaExperience of using development tools like Eclipse and IntelliJExperience of using Jenkins, GitHub flow and artifact repo.Experience developing real time data streaming pipelinesDrive innovation by assessing, piloting, building DevOps/Cloud tooling and services to improve overall developer experience and productivityExpertise & experience in building large scale, cloud based and open source projects.Â Hands-on solution driven attitude, with ability to turn around quick insights along with delivering strategic capabilitiesMulti-tasking ability to participate in multiple complex programs at the same time in an agile environmentStrong organization and prioritization skills along with outstanding written and verbal communication skillsKnowledge of agile software development methodologyÂ Â At Beam Suntory, people are our number one priority, and we believe our people grow together in diverse and inclusive environments where their unique insights, experiences and backgrounds are valued and respected. Beam Suntory is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, military veteran status and all other characteristics, attributes or choices protected by law. All recruitment and hiring decisions are based on an applicantâs skills and experience.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-22T01:43:19.000Z"
+    },
+    "company": {
+        "name": "Beam Suntory",
+        "link": "https://www.linkedin.com/company/beamsuntory"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Chicago Area",
+        "region": null,
+        "postal_code": "60618",
+        "street_address": null,
+        "latitude": 41.948055,
+        "longitude": -87.655754
+    }
+}

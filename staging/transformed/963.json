@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer in Test / Software Quality Assurance",
+        "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+        "description": "DescriptionOpen Systems International, Inc. (OSI) www.osii.com is a fast-paced, growing, high technology company, headquartered in Medina, Minnesota. As a world leader in the Operations Technology (OT) field, OSI develops and supplies state-of-the-art energy management, optimization and control software solutions to energy utility companies worldwide.In This Position You Will Have The Following ResponsibilitiesIn this position you will work with Software Development, Engineering, and Project teams to ensure OSI software products are tested and delivered having met the highest quality standards available in the organization. You will have the opportunity to participate in building and establishing OSIâs test automation framework, standard tool sets, and overall test procedures. All of this is done using the latest technologies in a fast-paced, collaborative environment at our forward-looking company. Specific on-the-job training will be provided.Define test automation strategies for applications under test.Identify high value test cases to be automated.Identify tools and develop infrastructure to improve quality and efficiency of testing.Articulate a strategic vision for Quality Assurance technical initiatives.Lead, mentor and train multi-national team members on automation framework.Plan and direct the technical aspects of the most highly complex testing automation initiatives.Identify project risks and testing scope early in the project lifecycle.Create, maintain, and execute test automation code.Collaborate with Software Development to resolve problems and identify root cause of product defects.Log, track, and mange defects to closure; and monitor, measure, and communicate test results.Maintain the test automation result repository.RequirementsRequired QualificationsBachelorâs degree in Computer Science, Software Engineering, Electrical Engineering or related technical field.5+ years of continuous hands-on software test automation experience.3+ years of quality assurance team leadership experience.Expertise in Selenium, Robot Framework, or similar automation frameworks/tools.Expertise with Python programming language.Expertise in automation framework development and maintenance.Experience with keyword and data driven test automation.Understanding of manual and automated testing best practices.Expertise in developing and maintaining CI/CD processes while working in an Agile environment.Proficient in Linux, Windows, and UNIX environments.Proficient in source control systems (Subversion, Git, etc.).Experience with code coverage tools, defect tracking systems, test case management systems, and build systems.Excellent interpersonal and communication skills (written and verbal) at both an individual and team level.Preferred QualificationsExperience with multiple programming languages.Experience in server virtualization, especially VMWare and Docker.Experience with different database technologies (SQL, Cassandra, MongoDB).Experience in System Administration.Expertise with advanced Linux command line interface.Previous participation in User Acceptance Testing cycles.Experience with HTML and/or XML.Experience leading globally-distributed teams.BenefitsOSI offers a comprehensive benefit package including health, dental, life and disability insurance, 401(k) matching, bonuses, profit sharing and a generous amount of paid time off and paid holidays. Additional perks include casual dress code, flexible work hours, free beverages, employee events, onsite fitness center, exciting travel opportunities, employee referral bonus programs, and monthly birthday and anniversary celebrations. Check out our Life at OSI Facebook page to see more.As an employee of OSI you will have access to cutting edge technologies in a fun, professional, positive and dynamic work environment. We have excellent opportunities for growth and development.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-23T12:52:14.000Z"
+    },
+    "company": {
+        "name": "Open Systems International",
+        "link": "https://www.linkedin.com/company/open-systems-international"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 74400,
+        "max_value": 116000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Medina",
+        "region": "MN",
+        "postal_code": "55340",
+        "street_address": null,
+        "latitude": 45.01901,
+        "longitude": -93.58608
+    }
+}

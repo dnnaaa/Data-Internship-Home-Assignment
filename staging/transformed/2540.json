@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Computer Networking",
+        "description": "CENIC's Software Engineers design, build, and implement robust software solutions to advance CENICâs organizational goals and objectives, including support of the CENIC network.Â This position provides advanced-level programming expertise for a variety of system integrations, tools development, software support, and troubleshooting activities.Â The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.Â Â Key Success FactorsExperience with and strong understanding of object-oriented design principlesStrong interpersonal skills and ability to work well in a diverse team-oriented environmentAdept at understanding technical information and learning new conceptsStrong interest in learning about networking concepts and technologiesResponsibilitiesDevelop quality software applicationsAnalyze and maintain existing software applicationsDesign highly scalable, testable codeDocument code consistently throughout the development processIdentify, troubleshoot, and resolve problems relating to internal mission-critical software applicationsWork with stakeholders to define requirements and implement software used to instrument, manage, and troubleshoot large-scale diverse networksUse robust and secure software development principles: robust exception-handling, input validation, proper application and use of cryptographic algorithms and libraries, proper handling of concurrency issuesQualifications5+ years of full-time software engineering experienceProficiency in at least one backend server language such as Java, Scala, Go, or Python (we use Python)Production experience with database systems - SQL and/or NoSQL (we use Postgres, ElasticSearch)Experience working in Agile and SCRUM methodologiesExperience working with CI/CD toolsExperience working with package managers such as Maven, PyPI, and NPMÂ Experience working with version control systems (we use git)Experience working with a major cloud platform (AWS preferred)Familiarity with Docker and container orchestration systemsFamiliarity with APIs and microservicesAbout CENICJoin the team thatÂ connects California to the worldÂ â advancing education and research statewide by providing the world-class computing network essential for innovation, collaboration, and economic growth. Our organization operates the California Research and Education Network (CalREN), a high-capacity computer network with more than 8,000 miles of optical fiber. The network serves over 20 million users across California, including the vast majority of K-20 students together with educators, researchers, and individuals at other vital public-serving institutions.Why work at CENIC?Company Culture:Â Small teams and a collaborative environment provide the opportunity to make a large impact in a small organization.Workplace Flexibility:Â We understand that the world is changing and we're open to remote and hybrid work options.Community Engagement:Â We work with research and education institutions in the largest state economy in the United States. The work you do has meaning.Health Benefits:Â We have generous medical benefits as well as dental, vision, and life insurance.Paid Time Off:Â We offer liberal vacation, holiday, and sick leave.Investment in Your Future:Â CENIC contributes to your 403(b) even if you don't. We also offer matching contributions on top of that.Applicants must be currently authorized to work in the United States on a full-time basis.LocationCENIC has two California offices, the home office in La Mirada and a smaller office in Berkeley. This position is based out of our La Mirada office.Â Please note due to COVID-19 this position is temporarily remote and not expected to be back in the office until conditions in the state of California improve.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-05T16:54:56.000Z"
+    },
+    "company": {
+        "name": "CENIC",
+        "link": "https://www.linkedin.com/company/cenic"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Los Angeles Metropolitan Area",
+        "region": null,
+        "postal_code": "90021",
+        "street_address": null,
+        "latitude": 34.073666,
+        "longitude": -118.23985
+    }
+}

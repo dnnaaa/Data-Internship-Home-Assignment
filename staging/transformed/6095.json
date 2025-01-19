@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Your Roleâ¢ Working closely in partnership with Engineering to maximize availability, operability, scalability,performance, and reliability of services by leveraging our deep understanding of our applicationsand end-to-end flows with expertise in infrastructureâ¢ Application and infrastructure on call / site up issues for production and non-productionâ¢ Building, deploying, and scaling systems across on-premises datacentersâ¢ Operability and availability design, readiness, and reviewâ¢ Design operations automation and tooling to improve the reliability of our services andinfrastructureâ¢ Capacity planning and management for disaster recovery and resiliencyâ¢ Application and infrastructure monitoring, alerting, and dashboardsâ¢ Security best practices, patching, and hygieneâ¢ Drive incident and problem management and analysis You haveâ¢ Confirmed experience supporting internet-facing production services and distributed systemsâ¢ Solid programming experience in Python, Golang, or similarâ¢ Expertise in operating Linux-based systems, with a solid understanding of its internalsâ¢ Experience running Docker-based workloads in productionâ¢ Experience in container orchestration platforms like Nomad or Kubernetesâ¢ Experience with hardware or software based load balancing solutions (e.g. Netscalers, nginx, etc.)â¢ Experience with APMs, Splunk, Grafana, or similar monitoring toolsâ¢ Terraform, Puppet, or other configuration management toolsâ¢ Demonstrated problem solving ability, utilizing creative and innovating thinking, but also adhering toa strong sense of ownership, customer service, and integrityâ¢ Experience partnering and collaborating very closely with engineering and platform teamsâ¢ Excellent communications skillsâ¢ Ownership mindset, self-driven, and quick learner",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-25T16:45:01.000Z"
+    },
+    "company": {
+        "name": "Veear Projects Inc.",
+        "link": "https://www.linkedin.com/company/veear-projects-inc-"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cupertino",
+        "region": "CA",
+        "postal_code": "95014",
+        "street_address": null,
+        "latitude": 37.31855,
+        "longitude": -122.03675
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Our OpportunityChewy is looking to hire Site Reliability Engineers at our Boston, MA location. Site Reliability Engineers are a cross between system and software engineers who are responsible for all operational aspects of Chewyâs e-commerce platform. The team is responsible for designing, building, monitoring, and maintaining the infrastructure of our internet-facing and internal services. We're looking for engineers who want to be a part of developing infrastructure software, maintaining it, and scaling Chewyâs technology stack. Come help us build a bigger and better Chewy as a Site Reliability Engineer. You will be part of a small family within Chewy that has a huge impact on our incredible growth. Ideal candidates will possess the ability to discuss complex technical concepts with a diverse audience across all areas of the organization. They will remain calm under pressure and always strive to add structure to high-pressure, fast paced tasks or projects.What Youâll DoFocus on service stability and reliability by working with application owners to set SLOs, \"Error Budget\" and backup and DR strategiesComplete understanding of operational tools and concepts, such as alerting, monitoring, logging and health checksPerform capacity planning and production readiness assessmentEmbed with product teams during the design and requirements phase of new product development through to initial production launchIdentify requirements for other operational teams (release engineering, automation, etc.) during application development phaseBe a technology and DevOps evangelist for the rest of the companyParticipate in on-call rotation for level 3 support escalationsWhat Youâll NeedAt least 5 years of experience working in an SRE role or similarHands on experience with orchestration and system configuration tools such as Ansible, Puppet, Chef, Terraform [preferred], etc.Minimum 5+ years of experience in building and managing applications in public cloud platforms like AWS (preferred), GCP or AzureExpert in building and maintaining highly available applications including redundancy, fail over, scalability, monitoring and performanceHighly skilled in identifying performance bottlenecks, identifying anomalous system behavior, and resolving root cause of service issuesSolid understanding/experience of web services, databases and relating infrastructure/architectureExperience working with open source community (troubleshooting, patch submission, etc.)Demonstrated 5+ years of Linux System AdministrationExperience with CI tools such as Bamboo, Jenkins, CircleCIAbility to organize, troubleshoot and continuously learnPrevious experience working within controls such as SOX, PCI, etcBachelorâs Degree (MIS or CS preferred) or equivalent work experience Position may require travelBonusAWS Certified Solutions ArchitectAdvanced Terraform knowledge and orchestration using JenkinsDatadog Integration expertise for containerChewy is committed to equal opportunity. We value and embrace diversity and inclusion of all Team Members.If you have a disability under the Americans with Disabilities Act or similar law, or you require a religious accommodation, and you wish to discuss potential accommodations related to applying for employment at Chewy, please contact HR@Chewy.com.To access Chewyâs Privacy Policy, which contains information regarding information collected from job applicants and how we use it, please click here: https://www.chewy.com/app/content/privacy).",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-01T14:59:36.000Z"
+    },
+    "company": {
+        "name": "Chewy",
+        "link": "https://www.linkedin.com/company/chewy-com"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

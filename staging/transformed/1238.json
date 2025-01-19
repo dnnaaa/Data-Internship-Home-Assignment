@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer (Payments)",
+        "industry": "Computer Software",
+        "description": "Software Engineer (Payments)REQ: 121696Â EngineeringPalo Alto, CA, United StatesAbout Yo Labs:Technology has changed daily life in a way no one could have imagined.Â Itâs made us more productive, capable and connected.Â But it has come at a cost.Â Weâre productive, but overwhelmed.Â Capable but paralyzed by too many choices.Â Connected, but only if social media counts.Â Living this way creates a void in our daily lives.Â Yo Labs is here to change that.Â Our team is committed to alleviating the mental load that our modern world has created by putting human connection back into technology and caretaking at the heart of everything we create.What youâll get to do:The goal of the Payments Team is to provide buyers and sellers everywhere with a frictionless payments experience on our platform,Have a critical role in building and maintaining our payments platform processing high transaction volumesManage all technical aspects of relationships with payment providers and integrate new payment methods into our payment platformImplement and deliver new payment features leading to higher checkout conversionBuild reporting and monitoring tools to ensure the stability and security of the payments systemWhat Youâll Bring:Bachelorâs degree in Computer Science or related field or equivalent work experience4+ years of industry experience building data driven systems, but we do realize quality of experience is more important than actual years.Experience developing APIs and integrating third-party services.Proven track record of working successfully with cross-functional teamsStrong sense of web design and attuned to the fundamentals of user experience.Experience with one or more of the following: large systems software design, development of distributed or parallel systems, database design, machine learning, application development.Excellent communication and collaboration skillsExcellent problem solving and analytical thinking skillsBonus:Experience integrating with payment service providers (e.g. Stripe, Adyen, Marqeta)Familiarity with our tech stack (Kotlin/Java, CockroachDB, AWS, Micronaut, Spring Boot, microservice architecture)Hands-on experience building custom components with one or more ecommerce platforms (Shopify, Salesforce, or SAP Hybris).What We Offer:Competitive compensation packageComprehensive benefitsPet InsurancePaid Parental Care LeaveEmployee Referral ProgramEducational AssistanceFlexible Work ProgramVolunteer time OffTotal Well Being Program",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-22T01:38:05.000Z"
+    },
+    "company": {
+        "name": "Yo Labs",
+        "link": "https://www.linkedin.com/company/yo-labs"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Palo Alto",
+        "region": "CA",
+        "postal_code": "94310",
+        "street_address": null,
+        "latitude": 37.445103,
+        "longitude": -122.16036
+    }
+}

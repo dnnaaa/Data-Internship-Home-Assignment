@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "The CompanyMiso Robotics is transforming the restaurant industry and making a real impact on the world.Miso Robotics is writing an epic new story for the restaurant industry. We've developed a robotic kitchen assistant, Flippy, that can perform a variety of kitchen tasks including flipping burgers and running the deep fryer. Our product is a robotic arm on a rail that fits into existing kitchens along existing cook lines and is designed to work with existing equipment alongside kitchen workers. Under the hood, Flippy relies on our platform which combines deep learning and other computer vision technologies with optimization-based scheduling and nonlinear control to adapt quickly to a variety of kitchen workflows, while achieving graceful and efficient motion.The challenge of bringing robotics into commercial kitchens requires many disciplines to come together. The compositions of teams at Miso Robotics reflect this multidisciplinary nature of our work. We have built a world-class team and we are looking for more exceptional people to join us. If you believe, like we do, that the future of the kitchen involves robotics and artificial intelligence (HINT: It definitely does) and if you want to count yourself among the handful of lucky people who've found themselves with the opportunity to solve this problem, then Miso Robotics might be the right place for you!The RoleAs a Senior Software Engineer, you will be responsible for designing and developing our kitchen automation framework and cloud-connected infrastructure which power our latest product, CookRight. If you enjoy coding, debugging, testing and troubleshooting throughout the development process, the Sr. Software Engineer role is the right role for you! This is a great opportunity for you to use your expertise in software engineering to own the design, prototype, and commercialization of core software for CookRight. You will work closely with robotics specialists in controls, machine learning, and computer vision to continuously evolve our architecture to support an ever-increasing diversity of kitchen environments and tasks, allowing CookRight to operate broadly throughout the restaurant industry. You will also work to make our internal framework easier and easier to use, requiring less and less training to use.What Youâll DoIn This Role, You WillTake ownership when developing, maintaining, improving, testing and releasing software.Create architectural diagrams which demonstrate flow of data through the system.Provide guidance and support within the software development organization.Design and develop software systems that are highly scalable and testable.Use best engineering judgement to iterate on code, refactoring repeatedly to improve our software generality and quality.Read our code and documentation to understand our existing architecture and practices.Reduce algorithmic complexity to improve performance.Adhere to and help improve our software development lifecycle (SDLC) processes.Create documentation to help identify and clarify architectural functional requirements.Participate in design review and provide helpful feedback.Create unit tests and system-level tests to verify code functionality.Coordinate with hardware engineers and other staff to forecast whether the design will be feasible under cost and time constraints.Performs other related duties as assigned.What You Need in Order to Succeed in this RoleTechnical RequirementsBachelorâs Degree in Computer Science, Engineering, Mathematics or related field. Advanced degree preferred.7+ years experience in developing general software frameworks in C++ including expert knowledge of Template Metaprogramming, STL, and concurrency.Completed at least two (2) complete SDLC of software releases to the commercial market.Experience in real-time system software, network stacks and protocols.Experience developing, testing, and debugging with simulations and complex state machines (e.g., commercial video game development).Expertise in Linux, ROS, CMake, Git, Docker and databases.Strong understanding of OOP, algorithms, and data structures, and software design patterns.Experience with practices for a SDLC, including agile development, coding standards, versioning, code reviews, and testing.Preferred RequirementsStrong problem solving capability.Superb communication skills.Ability to collaborate effectively with a team.Willingness to read the documentation and do the research to create the highest quality solution.Ability to adapt your coding style to our internal style.Ability to deliver production-ready code in a timely fashion.Great at managing multiple tasks and getting stuff done in a fast paced environment.Strong attention to detail, analytical skills and ability to learn at hyper speed.Obsession with clarity.Prolonged periods sitting at a desk and working on a computer.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T00:06:04.000Z"
+    },
+    "company": {
+        "name": "Miso Robotics",
+        "link": "https://www.linkedin.com/company/miso-robotics"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 84,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Pasadena",
+        "region": "CA",
+        "postal_code": "91122",
+        "street_address": null,
+        "latitude": 34.14955,
+        "longitude": -118.14145
+    }
+}

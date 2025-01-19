@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Scientist, Analytics",
+        "industry": "Computer Software",
+        "description": "This position is open to remote applicants.WHAT YOU WILL DOÂ· Wrangle and analyze large data sets from multiple data sources, including our internal data mesh, third party vendors, and customer feedsÂ· Provide insights to help business, product, and engineering leaders understand customer needs, trends in malware and malicious/anomalous behaviors, and user and system behaviorsÂ· Find actionable strategic insights in the data, create reports and presentations to summarize findings, and partner with product managers and executives to inform and influence strategic decisionsÂ· Work with product and expert teams to define and evaluate key product metricsÂ· Build, operationalize, and automate analytics assessments and reports using SQL and Python within a cloud-based infrastructureÂ· Act as a leader across analytics efforts in BBâs cybersecurity division, fostering best practices for analytics and data (efficiency, robustness, integrity, quality, standardization, automation, etc) across all internal analytics, engineering, and product teamsQUALIFICATIONSÂ· Masterâs degree in Mathematics, Statistics, Computer Science, or other quantitative field-7 years of experience with a Bachelor or 5+ years with a Masters, of experience in data analytics or related quantitative role (2+ years with a PhD)Â· Expertise in SQL and development experience with PythonÂ· Experience working with large data sets using distributed computing tools (Hadoop, Hive, Spark, etc) in a cloud environmentÂ· Deep understanding of statistical methods and applications (hypothesis testing, probability, regression, experimentation)Â· Great verbal and written communication skills and the ability to communicate the results of analyses to both technical and non-technical audiencesÂ· Strong skills in problem solving, organization, and critical thinkingABOVE AND BEYONDÂ· Doctorate in Mathematics, Statistics, Computer Science, or other quantitative fieldÂ· Experience employing machine learning algorithms (e.g., time series, clustering, anomaly detection, etc) on real world problemsÂ· Mentoring experience within an analytical environmentÂ· Experience in cybersecurity",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:39:08.000Z"
+    },
+    "company": {
+        "name": "BlackBerry",
+        "link": "https://ca.linkedin.com/company/blackberry"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 84,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "OPPORTUNITY:Â Clip Automation is looking for a hands-on Software Engineer responsible for design, development, testing, and deploying our enterprise software on the cloud. If you are a highly organized, software-savvy individual with experience in fast-paced, startup-to high-growth-phase technology companies, letâs talk!Â Â This is an opportunity to be a part of the exciting early stages of a Silicon Valley-based startup that has massive growth and venture potential. Founded by former Apple engineers, we help companies drive innovation and unlock efficiencies by digitizing and automating manufacturing operations. We provide cloud and edge platforms that leverage AI, ML and IOT.Â McKinsey projects that Manufacturing and Healthcare can save $2.3 trillion over the next 10 years using a productivity-driven model.We are looking for a collaborative self-starter who is passionate about solving complex problems and building disruptive software in a relatively undefined market.Â Â This role is based in Palo Alto, CA but is fully remote until further notice.Â Candidates based in the SF Bay Area are highly preferred as you will be working on-site with work from home flexibility post-pandemic.DUTIES / RESPONSIBILITIES:The essential functions include, but are not limited to the following:Full development life-cycle design from project requirement to deployment.You will produce high quality software that is unit tested, code reviewed, and checked in regularly for continuous integration.You will develop multi-tier scalable, high-volume performing, and reliable applications that operate 24x7.Own and manage the cloud infrastructure and deployments for ClipÂ Containerize existing applicationsÂ Â Drive innovation and bring new technologies to make deployment faster and robustBuild infrastructure to facilitate rapid deployments to productionDocumenting findings and recommendations for improvementWork with onshore and offshore development teams to resolve problems fastÂ Â Â REQUIRED SKILLS / ABILITIES:Â Bachelor's degree in Computer Science or related technical discipline2+ years of Software Development experience, ideally in a growth-stage environmentExperience developing applications using Python,Java, OpenCV, Flask, RabbitMQ, Kafka, MySQL and PostgresExperience in deploying AWS services: EC2, ECS, EKS, S3, Lambda,Cognito, IAM, RDS, VPC, Elastic Search, API/IP/NAT Gateway, and CloudWatchStrong Experience with Unix/LinuxExperience with virtualization and containerization platforms (Docker), container orchestration tools (Kubernetes).Experience with Agile development processes. Jira, Bitbucket is aÂ plusTravel:Â Domestic and International.Â As required by business needs.Â Â Â At Clip we offer a competitive benefits package that includes Health, Dental, Vision, Life Insurance, 401(k) and Unlimited PTO.Â Clip is an equal opportunity employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-09T23:11:19.000Z"
+    },
+    "company": {
+        "name": "Clip Automation",
+        "link": "https://www.linkedin.com/company/clip-automation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

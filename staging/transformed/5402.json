@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "Job detailsJob TypeFull-timeFull Job DescriptionThe Role:As a core member of the system firmware team, you will be responsible for architecture, design, and develop PCIe solutions for Ampere's platform. In particular, lead (with the existing team) the design and development of the PCIe host controller driver and its related activities with the Trusted Firmware, UEFI and OS accordingly. Communicate with customers regarding all aspect of customer firmware concerns. In addition, handle cross function interaction with other teams. What the Team Wants You to Know:ARM firmware development work at Ampere is interesting, challenging, and will expand your professional breadth. Working in this area brings out the best engineering in people and produces products that have value in the market. The ARM server firmware/software is relatively new and you will have the opportunity to invent new software technology and influence the ARM server community. What You Will Do:Architect, design, and develop PCIe solutions for Ampere SoC'sInteract with customer/3rd party vendors to address firmware requirementLead, plan and implement all PCIe firmware development in trusted firmware, UEFI, and OSInteract and coordinate with various system firmware teams accordingly for firmware integration/issuesHandle development of PCIe host driver in firmware and OS What Youâll Bring:7+ years software development with C/C++ languages, shell script, perl and python5+ years of experience with system design/development5+ years of experience with PCIe host controller, bridge, and end point cardsExperience with PCIe architectureExperience with PCIe capabilities such as configuration, ECAM, PCIe BAR, IO/memory region, ARI, ACS, ATS, PASID, etc.Experience with PCIe SERDESExperience with firmware boot loader (UEFI) and Linux kernelExperience with various NIC, storage (NVMe), and GPU cardsKnowledge of Trusted Firmware (TF) implementationSelf-managed individual with excellent problem-solving skillsGood English communications skills, both verbal and written EducationBachelorâs degree or foreign degree equivalent in Electrical Engineering, Computer Science, Information Technology or a related technical field Perks in Santa ClaraOffice has panoramic views of Silicon ValleyGarage parkingGym and cafÃ© on campusHealthy snacks, espresso and drinksStanding /Ergo friendly desk set-upPing-pong/game roomUnlimited Flextime and 10+ paid holidays Perks in PortlandWalking distance of breweries, landscaped parks, art galleries, restaurants and shopsGarage parkingOn-site bike parking and repair stationGymOn-site cafÃ©, bar, and marketRoof top terrace with Willamette River viewsHealthy snacks, espresso and drinksStanding /Ergo friendly desk set-upGame roomUnlimited Flextime and 10+ paid holidays Perks in RaleighModern and open office settingFour miles of jogging and pedestrian trailsWalking distance to various restaurants and shoppingHealthy snacks, espresso, and drinksAdjustable sit-stand desksUnlimited Flextime and 10+ paid holidays Our CompanyAmpere is designing the future of hyperscale cloud and edge computing with the worldâs first cloud native processor. Built for the cloud with a modern 64-bit Arm server-based architecture, Ampere gives customers the freedom to accelerate the delivery of all cloud computing applications. With industry-leading cloud performance, power efficiency and scalability, Ampere processors are tailored for the continued growth of cloud and edge computing. Our StoryLike the scientist behind its name, Ampere employees are innovators. We understand the needs of cloud computing and different software requirements. We are inventing what comes next and looking at everything from the structure of memory and how efficient the system is, to considerations on speed, cost of electricity and ability to cool. Power, size, weight and cost are driving the technology requirements and the innovation to come.Our world class team of engineers, with depth and expertise in the cloud and semiconductor industries, is not only focused on the development of new semiconductor designs but also building out the first software ecosystem for ArmÂ®-based server processors. Through the Ampere approach to the cloud and edge, we give our customers the freedom to challenge the status quo and accelerate next-generation data centers for the most memory-intensive applications. Given the challenge we have outlined, we are building a culture of entrepreneurs that ensure customers come first, proactively approaching industry challenges in the areas of security, power and performance, delivering results that matter most.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T04:09:41.000Z"
+    },
+    "company": {
+        "name": "AMPERE COMPUTING EMPLOYER LLC",
+        "link": "https://www.linkedin.com/company/ampere-computing-employer-llc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 84,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

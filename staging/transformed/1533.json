@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Junior Software Engineer",
+        "industry": "Insurance,Consumer Services",
+        "description": "The Junior Software Engineer assists in design, develops code, tests, installs and maintains application systems, based on per-defined requirements for programs, functions, services, and other related software components.ResponsibilitiesAssists in design solutions for approved projects and change requests of moderate complexity and riskAssists in design of software technicians based on provided detailed requirementsAssists in the develop, document and present design solutions and supporting rationaleAssists in early stages of system analysis and programming activitiesParticipate in application and program code according to business and technical requirementsConvert basic specifications into equivalent infrastructure and application software structuresCode and unit test as part of a development teamSubmit software products for review of compliance with best practices, standards, and enterprise architecture (code review)Participate in quality assurance and testing to achieve quality objectivesParticipate in quality assurance and testing activities according to planned schedulesLearn, use, and gain experience with testing tools and techniquesPerform technical support activities required for execution of test plansPerform root cause analysis and defect correction as indicated by test resultsEvaluate outcomes, report results and document findings according to current standardsBasic QualificationsBachelorâs in Computer Science or related field 2 years of IT experience in application developmentConcept of programming languages .Net and Microsoft Stack technology Preferred QualificationsDomain Driven ArchitectureAzure Cloud",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-22T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Assurant",
+        "link": "https://www.linkedin.com/company/assurant"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Scottsdale",
+        "region": "AZ",
+        "postal_code": "85266",
+        "street_address": null,
+        "latitude": 33.494907,
+        "longitude": -111.92606
+    }
+}

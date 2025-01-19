@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Financial Services",
+        "description": "Site ReliabilityÂ EngineerÂ Â PositionÂ SummaryÂ Site Reliability Engineering (SRE) is what you get when you treat operations as if it is a software problem. Our mission is to protect and provide for the software and systems behind Clearentâs services with an ever-watchful eye on their availability, latency, performance, and capacity.Â As an SRE you will use your experienceÂ in running production-grade softwareÂ toÂ build automationÂ thatÂ allowÂ our systems to run smoothly with minimal intervention.Â Essential Duties and ResponsibilitiesÂ Automate pipelines to production andÂ make it safe, secure, and repeatableÂ so that development teams can self-serviceÂ Configure and maintainÂ RancherÂ clustersÂ containing hundreds of docker microservicesÂ on-prem and in AzureÂ Construct and maintain infrastructure-as-codeÂ using terraform, puppet, and ansibleÂ Solve problems relating to mission critical services and build automation to prevent problem recurrence with the goal of automating response to all non-exceptional service conditionsÂ Influence and create new designs, architectures, standards and methods for large-scale distributed systemsÂ Build world-class alerting, monitoring, and capacity managementÂ systems for the management ofÂ ourÂ platformâs healthÂ Participate in on-call rotations as neededÂ Other duties asÂ assigned by managementÂ QualificationsÂ Â·Â Â Â Â Â Â Â 5Â yearsÂ experience in a software development and/or operations roleÂ Â·Â Â Â Â Â Â Â Intermediate experience with Azure DevOps pipelinesÂ Â·Â Â Â Â Â Â Â Professional experienceÂ in dockerÂ Â·Â Â Â Â Â Â Â Intermediate experience with scripting (powershell, bash, python preferred)Â Â·Â Â Â Â Â Â Â Ability to troubleshoot running applications in a systematic mannerÂ Â·Â Â Â Â Â Â Â Comfortable working with applications on-prem and in AzureÂ Â·Â Â Â Â Â Â Â Working proficiencyÂ withÂ GitÂ Â·Â Â Â Â Â Â Â Comfortable withÂ Scrum-basedÂ development lifecycleÂ Â·Â Â Â Â Â Â Â Excellent analytical and problem-solving skillsÂ Â·Â Â Â Â Â Â Â StrongÂ andÂ clear written and verbal communication skillsÂ Â·Â Â Â Â Â Â Â Ability toÂ translateÂ complex ideas into diagrams,Â user stories, and ultimately working softwareÂ CompetenciesÂ Â·Â Â Â Â Â Â Â Forward Thinkingâ¯- Anticipates how individuals and groups will react to situations and information and plans accordingly.Â AnticipatesÂ the consequences of situations and plans accordingly. Notices trends in the industry or marketplace and develops plans to prepare for opportunities or problems. Anticipates possible problems and develops contingencyÂ plans in advance.Â Â·Â Â Â Â Â Â Â Drives Performanceâ¯- Develops challenging but achievable goals. Maintains commitment to goals in the face of obstacles and frustrations. Finds or creates ways to measure performance against goals.Â HasÂ a strong sense of urgency about solving problems and getting workÂ done.Â Creates momentum and drives behavior change when necessary.Â Â·Â Â Â Â Â Â Â Adaptabilityâ¯- Adapts to new ideas and initiatives across a wide variety of issues or situations. Adapts interpersonal style to highly diverse individuals and groups in a range of situations. Supports major changes that challenge traditional ways of operating. Anticipates change in order to adaptÂ ownÂ plans and priorities.Â Â·Â Â Â Â Â Â Â Fosters Teamworkâ¯- Assumes additional responsibilities to facilitate the achievement of team goals. Seeks input from other team members on matters that affect them. Shares all relevant information with others.Â Â·Â Â Â Â Â Â Â Open + Transparent Communicationâ¯- Recalls others' main points, taking them into account in own communication. ChecksÂ ownÂ understanding of others' communication (e.g., paraphrases, asks questions). Elicits comments or feedback on what has been said. Maintains continuous, open and consistent communication with others.Â Â·Â Â Â Â Â Â Â Technical Expertiseâ¯- With guidance, completes common tasks, which present limited difficulties. Reads standard documents to extract key information. Assists team in carrying out complex tasks.Â Â ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T18:45:58.000Z"
+    },
+    "company": {
+        "name": "Clearent",
+        "link": "https://www.linkedin.com/company/clearent"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater St. Louis",
+        "region": null,
+        "postal_code": "63101",
+        "street_address": null,
+        "latitude": 38.62262,
+        "longitude": -90.192986
+    }
+}

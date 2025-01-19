@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "data scientist, Operations Analytics - Remote",
+        "industry": "Consumer Goods,Food & Beverages,Retail",
+        "description": "Now Brewing - Data Scientist, Operations Analytics #tobeapartnerFrom the beginning, Starbucks set out to be a different kind of company. One that not only celebrated coffee and its rich tradition, but that also brought a feeling of connection. We are known for developing and supporting partners who share this passion and are guided by their service to others.As a Starbucks Data Scientist, you will support the Operation Services organization and contribute to Starbucks success by guiding business decisions through utilizing data analysis and consulting that results in predicting outcomes, understanding complex data relationships, and developing a quantitative return on investment. This position partners on a cross-functional team of data scientists, decision scientists and data analysts supporting strategic initiatives utilizing the latest in computing technologies and operating across customer transactions and data elements to unlock the opportunities to support our global business.Leveraging Your Previous Experience, We Will Enable You To Use statistical, machine learning techniques to build models that address business needs. Extract data from various data sources; performs exploratory data analysis, cleanses, massages, and aggregates data Collaborate cross functionally with other data scientists, statisticians, and business analysts to define business problems and implement solutions. Employ scaling & automation to data preparation techniques Connect insights to business decision making options and next steps testing or research opportunities Understand business initiatives and serves as primary analytic resource in discussions with business partners to define business questions Drive creation of final insights package and recommendations; leads presentation Direct analytic component of implementation of insights into business processes and ensures appropriate testing takes place Develop project proposals, gains stakeholder buy-in, and ensures timelines are met Promote and advocate value of advanced analytics to solve business problems within department Weâd Love To Hear From People With Education: BS+ with concentration in quantitative discipline - Stats, Math, Comp Sci, Engineering, Econ, Quantitative Social Science or similar discipline Minimum of 2+ years industry experience in data science Strong background working with predictive and statistical modeling, machine learning and strong expertise in all phases of the modeling pipeline Experience building complex data sets from multiple data sources, both internally and externally. Strong SQL, databases and ETL skills required including cleaning and managing data. Advanced competency and expertise in Python, R or some combination Ability to apply knowledge of multidisciplinary business principles and practices to achieve successful outcomes in cross-functional projects and activities Ability to educate others on statistical / machine learning methods Self-starter, attention to details and results orientated, able to work under minimal guidance. Proficient in communicating effectively with both technical and nontechnical stakeholders. Retail and eCommerce experience preferred Experience on Cloud platforms such as Azure, AWS, preferred Experience working with distributed data processing frameworks such as Spark and Data bricks, and languages such as Java, PySpark or Scala, preferred Starbucks and its brands are an equal opportunity employer of all qualified individuals.We are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences. We believe that enables us to better meet our mission and values while serving customers throughout our global communities. People of color, women, LGBTQIA+, veterans and persons with disabilities are encouraged to apply.Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances. Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at 206-318-0660 or via email at applicantaccommodation@starbucks.com",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-26T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Starbucks",
+        "link": "https://www.linkedin.com/company/starbucks"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 92000,
+        "max_value": 144000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

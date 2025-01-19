@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Scientist (Remote)",
+        "industry": "Marketing and Advertising,Computer Software,Internet",
+        "description": "At Shipt, we are transforming the grocery shopping experience and giving time back to consumers. Shipt shoppers handpick fresh groceries and household essentials, then deliver them to your door in as little as one hour. At Shipt, weâre using machine learning (ML) and analytics to drive our business forward. Weâre looking for help understanding our data, optimizing our processes, and making predictions to improve our product and customer experience.  The data science team builds data driven solutions using machine learning and modeling techniques. Our solutions include predictive models, clustering, segmentation, complex reporting, and quantitative research. Our ideal candidate will be data-driven, intellectually curious, and a clear communicator with experience building machine learning models. Responsibilities Develop best practices for our internal data processes that include model building, insight development, model/insight delivery, and education of consumers to encourage data-driven action  Design and build new predictive models and optimization routines that have an enterprise level impact. Applications include modeling and capitalizing on demand in a given market, delivering search recommendations, and optimizing internal processes that affect Shiptâs bottom line  Coach, lead, and advise other members of the Data Science and engineering teams on ways to approach problems, augment code, and share new techniques.  Act as a technical advisor to leadership within data science and external teams  Work with functional team leaders (in Product, Operations, Marketing, etc.) to deploy modeling deliverables and ensure their continued success Requirements Multiple years of experience with machine learning and data science in an operational setting  High degree of proficiency with one of R or Python  Proficiency with SQL  Experience with a data visualization tool (Tableau, Chartio, Looker, Spotfire, Power BI, etc.)  Experience with cloud computing services or platforms  Comfortable giving verbal presentations and communicating with technologies like Zoom and Slack  Bachelorâs degree in a quantitative field or related experience Nice To Haves  Experience deploying predictive models in a cloud environment  Experience with batch processing frameworks  Familiarity with AWS or GCP, version control, and peer code review systems  Familiarity with on-demand and/or multi-sided marketplaces  Proficiency in both R and Python  Graduate degree in a quantitative field  This position can be 100% remote. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:36:43.000Z"
+    },
+    "company": {
+        "name": "Shipt",
+        "link": "https://www.linkedin.com/company/shipt"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

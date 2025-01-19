@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Automotive,Renewables & Environment,Utilities",
+        "description": "RoleThe Business Analytics teamâs mission is to enable a data driven business and generate knowledge from our data. The team is responsible for providing data and insights on our business operationsâ performance and associated processes, as well as customersâ insights and productsâ insights including both our vehicles and energy products portfolio. The team directly supports business leaders up to our executive team.We are looking for a data scientist who can lead key cross-functional projects for both energy and automotive business, leveraging data science and ML technics to drive business process automations and support sales & service strategies by leveraging our data. Understanding of the broader automotive and energy markets is strongly valued, in addition to engineering background with energy storage solutions.Responsibilities Contribute on all the stages of data science projects: from performing raw data mining to translating complex technical topics into business solutions. Maintains and enhance a set of critical data models supporting our automotive and energy operations Maintains complex data pipeline supporting our teamâs mission in democratizing data and enabling a data driven organization, partnering with our Sr. Analyst. Effectively communicate actionable insights at all levels of the organization. Collaborate closely with leadership, engineering, and other stakeholders to improve our view of modeling and decision engines. Solve complex problems using advanced mathematical modeling and optimization techniques, including but not limited to, big data pre-processing, problem formulation, features engineering, algorithmic selection and evaluation, hyper-parameter tuning for machine learning, and deployment. Build and Maintain a propensity model for Energy customers (both solar and storage) and build knowledge and metrics about Energy customersâ demographics and Energy product life cycle. Define and better understand the synergy between Energy and Vehicle sales process and operations.Requirements MS. or equivalent experience in a quantitative or engineering field (i.e. Statistics, Computer Science, Engineering). Proven track record of building models and extracting data insights in sales, delivery and service domains. Experience solving problems in any or all of the following spaces - forecasting, predictive modeling, NLP, churn prediction. Proficiency in Python, SQL and experience with ML libraries and frameworks like Scikit-learn, h2o or Spark ML. Proficiency in one or more visualization tools like Tableau, Bokeh, RShiny etc. Experience engineering information out of massive, complex and, in some cases, unstructured datasets. Ability to apply a strong business sense with technical skills to effectively balance decisions around the complexity and speed of the project delivery. Strong written, verbal, and interpersonal communication skills. Ability to effectively communicate at all levels in the organization. Ability to self-start and self-direct work in an unstructured environment, comfortable dealing with ambiguity. Excellent problem-framing, problem solving and project management skills and ability to change direction quickly. Ability to balance and prioritize multiple projectsPreferred Experience working within a Big Data environment. Experience with git and version control workflows.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-15T04:26:20.000Z"
+    },
+    "company": {
+        "name": "Tesla",
+        "link": "https://www.linkedin.com/company/tesla-motors"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 78100,
+        "max_value": 141000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fremont",
+        "region": "CA",
+        "postal_code": "94537",
+        "street_address": null,
+        "latitude": 37.5502,
+        "longitude": -121.98083
+    }
+}

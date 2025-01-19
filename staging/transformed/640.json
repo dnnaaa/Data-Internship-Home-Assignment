@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DevOps Engineer",
+        "industry": "",
+        "description": "Local Candidates Onlyâ¢\t7+ yearsâ experience in Site Reliability Engineering, DevOps, or Software Engineering roles.â¢\t10+ yearsâ experience in Site Reliability Engineering, DevOps, or Software Engineering roles.â¢\t4+ yearsâ experience developing in Golang, Python, or other programming languages.â¢\t2+ yearsâ experience in IaC tools and languages such as Terraform, Ansible, Packer, or Helm.â¢\t2+ yearsâ experience with cloud providers (preferably AWS).â¢\tAbility to prioritize, communicate well, design for repeatability and scalability, exude ownership, and dig beneath the hood with technology.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T21:52:20.000Z"
+    },
+    "company": {
+        "name": "ALIS Software LLC",
+        "link": "https://www.linkedin.com/company/alissoftwarellc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 120,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

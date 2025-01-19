@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Cloud Operations Engineer I",
+        "industry": "Information Technology and Services,Biotechnology,Hospital & Health Care",
+        "description": "About The JobThe Cloud Operations (CloudOps) Engineer I is responsible for all aspects of our AWS environment, as well as FMI software deployment CI/CD pipeline; including design, provisioning, monitoring, automation, and maintenance of our software suite. The position works with customers, investigates cloud incident reports, and as a member of the CloudOps team is change champion in the adoption of new ways to build and release code. The incumbent partners with development teams to maintain best practices, integrate continuous automated testing, instantiate automation scripts, maintain and operate CI/CD pipeline software, and partners with product teams to promote DevOps principles within our AWS centric environment.Key Responsibilities Support the FMI development teams to maintain uptime and reduce impact to patients. Act as escalation point for various Cloud and DevOps platform support requests. Provide support for operational requests regarding Cloud technology. Oversee, develop, and manage a subset of FMIâs DevOps platform tools and processes. Create, review, modify, and update AWS CloudFormation and Jenkins scripts. Participate in the Cloud Operations 24/7 On-Call rotation. Design and implement solutions to streamline business processes to achieve company goals more effectively and efficiently. Research new technologies and propose methods to integrate them into existing technology stack. Manage project timelines and workloads. Deliver solutions in an Agile methodology. Create and deliver presentations and documentation to the Technology team. Other projects as periodically assigned.QualificationsBasic Qualifications Bachelorâs Degree 1+ years of work experience in Cloud or DevOpsPreferred Qualifications Degree in Computer Science, Management Information Systems, or a related engineering field 2+ years in cloud computing, DevOps or IT Experience in managing or designing cloud deployment software Experience with CI/CD philosophy, processes, and toolsets Demonstrated knowledge of cloud architecture, networking, system administration, and security best practices Experience with orchestration tools such as Jenkins, Puppet, Chef, Ansible, or other similar products Familiarity with monitoring tools such as ELK, New Relic, DataDog, SonarQube, CloudWatch, CloudTrail, etc. Experience with infrastructure as code frameworks such as CloudFormation, Terraform, or other similar products Familiarity with JSON, XML, and related notational data representations Understanding and experience working with version control software such as Git Comfortable administering a Git management tool, such as GitHub Enterprise Comfortable with working in either Linux (RHEL, CentOS, Amazon Linux) or Microsoft Windows environments Hands on experience with infrastructure tools such as AWS, VMware, Docker, Kubernetes, and Swarm Knowledge about APIs, RESTful services and how they can be used to integrate with AWS Understanding of HIPAA and importance of privacy of patient data Commitment to reflect FMIâs values: Patients, Passion, Innovation and Collaboration",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-08T03:28:28.000Z"
+    },
+    "company": {
+        "name": "Foundation Medicine",
+        "link": "https://www.linkedin.com/company/foundation-medicine"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

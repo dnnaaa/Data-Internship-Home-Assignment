@@ -1,0 +1,88 @@
+version: "3.9"
+
+networks:
+  generale-network:
+
+services:
+  # Postgres Database
+  postgres:
+    image: postgres:13
+    container_name: postgres
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    ports:
+      - "5432:5432"
+    networks:
+      - generale-network
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # Airflow Webserver
+  airflow-webserver:
+    image: apache/airflow:2.6.1
+    container_name: airflow-webserver
+    depends_on:
+      - airflow-scheduler
+      - postgres
+    ports:
+      - "8080:8080"
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./source:/opt/airflow/source 
+      - ./staging:/opt/airflow/staging
+      - ./tests:/opt/airflow/tests
+    command: "webserver"
+    networks:
+      - generale-network
+
+  # Airflow Scheduler
+  airflow-scheduler:
+    image: apache/airflow:2.6.1
+    container_name: airflow-scheduler
+    depends_on:
+      - postgres
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./source:/opt/airflow/source 
+      - ./staging:/opt/airflow/staging
+      - ./tests:/opt/airflow/tests
+    command: "scheduler"
+    networks:
+      - generale-network
+
+  # Airflow Initializer
+  airflow-init:
+    image: apache/airflow:2.6.1
+    container_name: airflow-init
+    depends_on:
+      - postgres
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./source:/opt/airflow/source 
+      - ./staging:/opt/airflow/staging
+      - ./tests:/opt/airflow/tests
+    command: >
+      bash -c "airflow db init"
+    networks:
+      - generale-network
+
+volumes:
+  postgres_data:

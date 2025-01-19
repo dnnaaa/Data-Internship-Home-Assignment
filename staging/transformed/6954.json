@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Jr. Software Engineer",
+        "industry": "Hospital & Health Care,Information Technology and Services",
+        "description": "We are looking for a Backend Software Engineer to join our Integrations team. Offering $30/hr. on a 6-month Contract (w/ ability for perm conversion).Minimum Qualifications:Bachelorâs degree in Computer Science, Computer Engineering, or related fieldProficiency with software developmentFamiliarity with agile principles like continuous build, test, integration, and deploymentPreferred Qualifications:2+ yearsâ experience as a member of a software development teamSkilled knowledge and experience developing and maintaining data communication systems and architectureAbility to develop and troubleshoot data flow processes, translation mapsKnowledge of Web Services, RESTful API developmentExperience with GoLang or another programming languageExperience with cloud development with AWS, Azure, or other cloud providers is a plusKnowledge of relational databases, PostgreSQL or other relationalExperience with Docker and development of containerized applicationsFamiliarity with FHIR and healthcare interoperability standards is a plus",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-09-01T14:09:16.000Z"
+    },
+    "company": {
+        "name": "Revolution Technologies",
+        "link": "https://www.linkedin.com/company/revolution-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Melbourne",
+        "region": "FL",
+        "postal_code": "32902",
+        "street_address": null,
+        "latitude": 28.079931,
+        "longitude": -80.603516
+    }
+}

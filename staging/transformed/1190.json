@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer-React Native-APJS",
+        "industry": "Online Media,Internet,Entertainment",
+        "description": "Our Vision is to change the way the world communicates. Our Mission is to connect people and things.We are reimagining the way people watch TV with services like Sling and AirTV. We are redefining the boundaries of communication and connectivity too, with our planned green field 5G cloud native network build out and the Internet of Things. Nothing is out of our reach, and the opportunity to shape the future of entertainment and technology has never been more tangible.About The PositionOur mission is to build a modern, hybrid cloud enterprise platform for all DISH to consume. Our environment isâ¦ Complex  Highly elastic  Based on some of the latest and greatest cloud native technologies  Very fast paced  Basic Requirements: A successful React Native Mobile developer will: Be available to work onsite out of our American Fork, UT or Englewood, CO offices  Have a 4-year college degree in Computer Science / Information Technology, Masterâs degree is preferred or equivalent professional experience  Have 3+ years of relevant experience  Software development experience and minimum mobile apps development experience  Technologies in our environment: Here are some of the key technologies that make up our environment. While we do not expect you to have a detailed understanding of each, the more of these you are familiar with, the better. Hands-on experience working on React Native on the front end to create Android/iOS Apps.  Thorough understanding of React Native and its core principles  Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model  Firm grasp of the JavaScript {{and TypeScript or ClojureScript}} language and its nuances, including ES6+ syntax  Rock solid at working with third-party dependencies and debugging dependency conflicts  Familiarity with native build tools, like XCode, Gradle {{Android Studio, IntelliJ}}  Understanding of REST APIs, the document request model, and offline storage  Experience with popular React workflows (such as Flux or Redux)  Experience creating, optimizing, and integrating Application Programming Interface (API) calls; background in API development preferred.  Create Technical Requirements Documentation based on Product Requirement Documents.  Build high-level user interfaces using rapid prototyping methodologies.  Design application frameworks for use across multiple products.  Work with internal technical teams to identify and build platform elements required to support key mobile product features. #DICE_CACompensation: $99,360.00/Yr. - $157,665.00/Yr.From versatile health perks to new career opportunities, check out our benefits on our careers website .Employment is contingent on Successful completion of a pre-employment screen, which may include a drug test.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T02:04:54.000Z"
+    },
+    "company": {
+        "name": "Sling TV",
+        "link": "https://www.linkedin.com/company/sling-tv"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 70000,
+        "max_value": 125000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "American Fork",
+        "region": "UT",
+        "postal_code": "84003",
+        "street_address": null,
+        "latitude": 40.376762,
+        "longitude": -111.79587
+    }
+}

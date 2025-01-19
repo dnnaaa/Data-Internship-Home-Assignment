@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Modeler",
+        "industry": "Staffing and Recruiting",
+        "description": "Description:The EBDM Model Developer/ Analyst will function as part of the EBDM Model Development team. The role will primarily facilitate ongoing model validation efforts including, but not limited to: writing and executing model code; training, testing and validation of model performance against benchmark methods; data quality assessment; implementation of data preprocessing methods; reproducible workflow design; and documentation of methods, assumptions and outcomes. Analytical focus will provide insights into business processes, derived from model applications and involve communication of technical procedures to a wide audience with varying backgrounds.Required Job Skills:â¢ Proficiency in Python programming and object oriented designâ¢ Practical experience with large data analysis with multiple open source programming libraries (pandas, numpy, scikit-learn, scipy, statsmodels, as well as one of tensorflow/keras/pytorch)â¢ Hadoop, Apache Sparkâ¢ Neo4j and Cypherâ¢ General statistics and probabilityâ¢ Time series analysis, forecasting and anomaly detectionâ¢ Graph analytics/ network scienceâ¢ Hands on advanced statistical modeling and/or machine learning model development in Pythonâ¢ Experience with model design, implementation and evaluation of model performanceâ¢ Model validation procedures with knowledge of regulatory requirements in industryâ¢ Quick learner with capacity for independent judgment and decision makingâ¢ Advanced ExcelDesired Job Skills:â¢ Effective written and oral communication skills, especially in reference to explaining quantitative methodology for audiences of all technical backgroundsâ¢ Degree in quantitative discipline involving computer science, engineering or statisticsâ¢ Jira/Agileâ¢ PowerPointâ¢ SharePoint",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-18T22:02:48.000Z"
+    },
+    "company": {
+        "name": "ettain group",
+        "link": "https://www.linkedin.com/company/ettain-group"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Charlotte Metro",
+        "region": null,
+        "postal_code": "28209",
+        "street_address": null,
+        "latitude": 35.225204,
+        "longitude": -80.83933
+    }
+}

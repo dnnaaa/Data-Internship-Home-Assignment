@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer I",
+        "industry": "Internet",
+        "description": "Expected compensation: $52.00 - $59.00 per hourHireArt is helping the worldâs largest social network find a Software Engineer to join the test infrastructure team for one of its flagship devices.In this role, youâll maintain automation and lab environments related to the device, as well as work with its upcoming prototypes.As a Software Engineer, You WillModify existing databases and database management systems.Write/code logical and physical database descriptions and specify identifiers of the database to the management system (or direct others in coding descriptions).Work as part of a project team to coordinate database development and determine project scope and limitations.Review project requests describing database usersâ needs in order to estimate time and cost required to accomplish projects.RequirementsBachelor's in computer science, software engineering, or relevant field1+ years experience as a software engineer or in relevant roleProficiency with Python Knowledge of computer development software as it relates to systems (e.g. SQL, VisualBasic, etc.)Basic knowledge of the full software development lifecycle (i.e. business/systems analysis, requirements gathering, functional specification authoring, development, testing, and delivery) Basic knowledge of computer hardware and softwareVerbal/written communication, problem solving, customer service, and interpersonal skillsBasic ability to work independently and manage your time Basic ability to troubleshoot issues and make system changes as needed to resolve themCommitment:This is a full-time, 6-month contract position (with the potential for extension or conversion) staffed via HireArt and based in Burlingame, CA. It will be fully remote until offices reopen and is available to candidates local to the area.HireArt values diversity and is an Equal Opportunity Employer. We are interested in every qualified candidate who is eligible to work in the United States. Unfortunately, we are not able to sponsor visas or employ corp-to-corp.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T23:12:14.000Z"
+    },
+    "company": {
+        "name": "HireArt",
+        "link": "https://www.linkedin.com/company/hireart"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Burlingame",
+        "region": "CA",
+        "postal_code": "94012",
+        "street_address": null,
+        "latitude": 37.584194,
+        "longitude": -122.366264
+    }
+}

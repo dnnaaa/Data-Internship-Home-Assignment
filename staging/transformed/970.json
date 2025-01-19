@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Developer / Software Engineer / Web API Developer",
+        "industry": "",
+        "description": "At SchoolPass, we're changing the way schools think about campus movement and wellness. Parents love using SchoolPass to communicate wellness, attendance, and dismissal changes to everyone at the school with the tap of a button, and schools love using SchoolPass to streamline their dismissal process and make sure every kid goes where they're supposed to at the end of the day.We're headquartered in the Greater DC Area, and we have customers in 36 states from California to New York. Our work is dynamic, responsive, and stimulating.We are looking for a remote, full-time Software Engineer with web API backend experience to join our API and Integrations team. We build and maintain web APIs and build integrations between our APIs and Third Party APIs.What you will doWork in a small, fully-remote, multi-functional team that maintains the systems at the core of our businessUnderstand the full technology stack and how all the pieces fit togetherDeliver testable, maintainable, and high-quality codeShare knowledge, promote best practices, and collaborate with other engineersDevelop and deploy web APIs and integrations with web APIsTake operational responsibility for the services we deployWhat we are looking forYou have 3+ years of Object Oriented programming languages and best practices with experience in or a desire to learn C#You have experience building web APIs built on top of MVC FrameworksYou are familiar with SQL based databasesYou are comfortable running your software in Windows environmentsYou are interested in keeping up with current best practices in your areas of expertiseOur Technology StackWe have a TypeScript/Angular web application and several Xamarin (C#) Mobile Apps for our Front EndWe use ASP.NET Core MVC (C#) back end communicating with a relational database through Entity FrameworkWe also have a MVC Web App we are transitioning to the Angular siteWe use Amazon Web ServicesWe use Microsoft's Azure Devops and custom solutions for integration, deployment, and project managementJob Type: Full-timePay: $106,000.00 - $126,000.00 per yearBenefits:Dental insuranceHealth insurancePaid time offVision insuranceSchedule:Monday to FridaySupplemental Pay:Bonus paySigning bonusEducation:Bachelor's (Preferred)Experience:OOP: 3 years (Preferred)Web API: 3 years (Preferred)MVC: 3 years (Preferred)Work Location:Fully RemoteThis Job Is:Open to applicants who do not have a college diplomaA job for which people with disabilities are encouraged to applyCompany's website:https://schoolpass.com/COVID-19 Precaution(s):Remote interview process",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-12T03:54:40.000Z"
+    },
+    "company": {
+        "name": "SchoolPass",
+        "link": "https://www.linkedin.com/company/school-pass"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30345",
+        "street_address": null,
+        "latitude": 33.85543,
+        "longitude": -84.28748
+    }
+}

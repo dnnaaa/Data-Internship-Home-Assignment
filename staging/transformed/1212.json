@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Principal Data Scientist",
+        "industry": "Marketing and Advertising,Computer Software,Internet",
+        "description": "At Shipt, we are transforming the grocery shopping experience and giving time back to consumers. Shipt shoppers handpick fresh groceries and household essentials, then deliver them to your door in as little as one hour.At Shipt, we are transforming the grocery shopping experience and giving time back to consumers. Shipt shoppers handpick fresh groceries and household essentials, then deliver them to your door in as little as one hour. We work at the intersection of a multi-sided marketplace, with cross-disciplinary teams shipping real-world products to our customers, shoppers and partners around the nation. We have rich, complex datasets and our Data Science organization performs a wide variety of data science and analytics, ranging from designing and evaluating experiments, conducting research, crafting complex database queries and ETL pipelines, developing predictive models, building marketplace optimization algorithms, and informing decision making through insights and reporting.  Weâre searching for a Senior Data Scientist, Optimization Analytics, to further boost the rigor of our statistical and data analysis approaches. This person will help understand data collected across this complex marketplace, optimize existing processes, and make predictions to improve our products and experiences. Our ideal candidate will be data-driven, intellectually curious, technically and statistically rigorous, and a clear communicator. Responsibilities Bring strong technical expertise and develop a thorough understanding of our data to drive insights in the areas of customer behavior, loyalty and engagement, search performance, profitability, and product development, through optimization techniques.  Drive innovation, explore and validate novel optimization methodologies and techniques.  Collaborate with other members of the Data Science teams and partners on ways to approach optimization; develop and apply techniques that deliver highest accuracy and quality analyses and insight, with a focus on generating actionable insights, balancing advanced solutions with interpretable results.  Design optimization strategies to support business initiatives, apply rigorous statistical analyses and interpret the results to improve performance; work with engineering/product to deploy and drive real impact.  Contribute to the data science roadmap and priorities within your area of ownership and projects.  Find opportunities for improvement across the business and assist in decision-making across teams. Requirements Advanced degree in a quantitative field (math, statistics, econometrics, computer science, or other), and a minimum of 4 years of industry experience  Knowledge of underlying mathematical foundations of statistics, modeling, and analytics.  Experience with exploratory data analysis, model development, and knowledge of how to leverage these skills to solve complex business problems.  Proven track record of completing multiple data science projects end-to-end; from idea generation, objectives formulation, to implementation and deliverables.  Strong written and verbal communication skills and the ability to explain technical topics to data scientists, engineers, and business partners.  Strong SQL skills (we use Snowflake, Postgres and Redshift.)  Experience with a statistical scripting language (e.g., R or Python.)  Experience with a data visualization tool (Tableau, Chartio, Looker, Spotfire, Power BI, etc.)  Ability to work collaboratively in a dynamic, team-based environment.  Demonstrated ability to learn and embrace new technologies, applications and solutions.  Experience as a technical lead and passion for mentoring.  Experience with event instrumentation is a plus. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-22T01:12:18.000Z"
+    },
+    "company": {
+        "name": "Shipt",
+        "link": "https://www.linkedin.com/company/shipt"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Birmingham",
+        "region": "AL",
+        "postal_code": "35226",
+        "street_address": null,
+        "latitude": 33.522858,
+        "longitude": -86.80771
+    }
+}

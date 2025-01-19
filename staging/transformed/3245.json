@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Information Technology and Services",
+        "description": "This position is responsible for design, coding, unit testing, and documentation of applications for Heartlandâs customers. This position will also work closely with other Team Members and clients to provide custom .NET and CMS based software solutions. In addition, this position will also meet with new and existing clients to frame up and estimate new solutions.ESSENTIAL FUNCTIONSDesign, code, unit test and documentations of software.Develop using cutting edge technologies to match the fit for our customer from a time, budget, and technical need.Leverage CMS systems to provide a foundation framework for our customer websites.Estimate development effort required to deliver small and large projects.Mentor other developers in developing scalable, secure, responsive applications.Provide application support with focus on customer satisfaction and quality.Follow Agile development practices for delivering software components.Presales consulting in order to frame in solution architectures.Design reusable services and components to build composite applications.Provide leadership role in designing applications for our customers.COMPETENCIESAmbition â The drive to achieve personal advancement.Active Listening - Ability to actively attend to, convey, and understand the comments and questions of others.Adaptability - Ability to adapt to change in the workplace.Assertiveness â Ability to act in a self-confident manner to facilitate completion of a work assignment or to defend a position or idea.Coaching and Development â Ability to provide guidance and feedback to help others strengthen specific knowledge/skill areas.Conflict Resolution â Ability to deal with others in an antagonistic situation.Customer Oriented - Ability to take care of the customersâ needs while following company policy.Decision Making - Ability to make critical decisions while following company procedures.Goal Oriented â Ability to focus on a goal and obtain a pre-determined results.Honesty / Integrity â Ability to be truthful and be seen as credible in the workplace.Innovative â Ability to look beyond the standard solutions.Leadership â Ability to influence others to perform their jobs effectively and to be responsible for making decisions.Motivation â Ability to inspire oneself and others to reach a goal and perform to the best of their ability.Presentation Skills â Ability to effectively present information publicly.Relationship Building â Ability to effectively build relationships with customers and co-workers.SKILLS & ABILITIESRequired Experience6+ years of experience building web-based applications in Microsoft stack4+ years of experience working with .NET including C#, ASP.NET, MVC, AOD.NET/Entity Framework, HTML, CSS, and JavaScript4+ years of experience working with object oriented development, utilizing design patterns, as well as, SQL utilizing MS SQL Server and source code repos (GIT, TFS, Azure DevOps)Preferred Experience3 + years of experience developing applications using Kentico or another CMS1+ years of experience developing Xamarin apps, cloud first applications in Microsoft Azure, and IoT applications1+ years of experience with React, Vue, Node, and CI/CD automated pipelinesRequired Sills, Education and/or Certifications:Associateâs degree in Software Engineer/Computer Science or related disciplinePreferred Skills, Education and/or Certifications:Bachelorâs Degree in Computer Science or related disciplineKentico Certified Developer and Exam AZ-204: Developing Solutions for Microsoft AzureGeneral knowledge of LAMP stackEqual Opportunity Employer - Disabled/Vets",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T18:36:53.000Z"
+    },
+    "company": {
+        "name": "Heartland Business Systems",
+        "link": "https://www.linkedin.com/company/heartland-business-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 54600,
+        "max_value": 76400,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Wisconsin",
+        "region": "United States",
+        "postal_code": "54943",
+        "street_address": null,
+        "latitude": 44.639957,
+        "longitude": -89.73298
+    }
+}

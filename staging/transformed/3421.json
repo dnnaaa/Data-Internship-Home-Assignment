@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Engineer - New Grad",
+        "industry": "Computer Software,Internet,Financial Services",
+        "description": "Ripple is the worldâs only enterprise blockchain solution for global payments. Today the world sends more than $155 trillion across borders, however, the underlying infrastructure is dated and flawed. Ripple solves this problem. We connect banks, payment providers, corporations, and digital asset exchanges via RippleNet to provide one frictionless experience to send money globally. Rippleâs distributed financial technology outperforms todayâs banking infrastructure by driving down costs, increasing processing speeds and delivering end-to-end visibility into payment fees, timing and delivery.Ripple is growing rapidly and we are looking for a results-oriented and passionate Software Engineer to help build our data platform. The platform enables everyone in the company to make data driven strategic decisions. You have a passion for the craft of software engineering and take pride in applying those skills to data challenges.What Youâll DoBuilding, improving, maintaining data pipelines and foundational frameworks for data ingestion and data transformationDesign and implement scalable and reliable backend infrastructure of the Data applicationsCollaborate with partner engineering teams and business stakeholders to build new capabilities to the Data platformWhat Weâre Looking ForDegree in Computer Science or equivalentCoursework / intern experience with software engineering, ideally involving data oriented applications (Python, Java or other programming languages)Experience in building ETL/ELT data pipelines. Real time pipelines a huge plus.Experience writing SQL queries in data warehouses such as Redshift, BigQueryKnowledge of building REST API endpoints Exposure to Hadoop and NoSQL databases like hbase, cassandra etc is a plusExposure to CI/CD (via Airflow or similar tool) a plusExperience with Terraform or similar tools a huge plusExcellent written and verbal communication skillsAttention to detail and a commitment to excellenceBe a recent graduate of Spring 2020, Fall 2020, Spring 2021What We OfferThe chance to work in a fast-paced start-up environment with experienced industry leadersA learning environment where you can dive deep into the latest technologies and make an impactCompetitive salary and equity100% paid medical and dental and 95% paid vision insurance for employees starting on your first day401k (with match), commuter benefitsIndustry-leading parental leave policiesGenerous wellness reimbursement and weekly onsite programsFlexible vacation policy - work with your manager to take time off when you need itEmployee giving matchModern office in San Franciscoâs Financial DistrictFully-stocked kitchen with organic snacks, beverages, and coffee drinksWeekly company meeting - ask me anything style discussion with our Leadership TeamTeam outings to sports games, happy hours, game nights and more!Who We AreRipple enables payments everywhere, every way, for everyone using the power of blockchain and crypto. By joining Rippleâs growing, global network (RippleNet), financial institutions can process their customersâ payments anywhere in the world instantly, reliably and cost-effectively. Banks and payment providers can use the digital asset XRP to further reduce their costs and access new markets. With offices in San Francisco, Washington D.C., New York, London, Mumbai, Singapore, SÃ£o Paulo, Reykjavik and Dubai, Ripple has hundreds of customers around the world.Ripple is an Equal Opportunity Employer. Weâre committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual preference, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.Please find our UK/EU applicant privacy notice here.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-13T05:58:48.000Z"
+    },
+    "company": {
+        "name": "Ripple",
+        "link": "https://www.linkedin.com/company/ripple-labs"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

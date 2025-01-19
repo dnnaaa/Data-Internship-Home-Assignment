@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "Financial Services,Information Services,Information Technology and Services",
+        "description": "Job SummaryGLGâs Core Engineering team builds the platform technology that connects GLGâs clients to our experts. Based primarily in our Austin and New York offices, our team of developers, IT engineers, operations engineers, and product managers are responsible for GLGâs technology initiatives, product development, and IT operations.Reporting to the Director of the Enterprise Transformation Engineering, the Senior Software Engineer is a key member of the Enterprise Transformation team. The Enterprise Transformation Engineering team is developing and implementing best-in-class business transformation solutions that create the connective tissue across our business technology eco-system to track revenue throughout the company. This includes next generation of revenue micro services, using queues (AWS SQS), topics (AWS SNS), Lambdas, CD/CI using Github Actions, Regression testing with Wiremock and monitored by Cloudwatch and AWS X-RAY, all driven from a single source of truth in Salesforce. This is a great opportunity to get exposed to leading AWS technologies and micro services, while working on green field projects.Specific Responsibilities Include (but Are Not Limited To) Build strong relationships with a variety of GLG stakeholders including senior business leaders Develop a deep understanding of GLG products and Engineering processes Architect business transformation solutions that integrate with the current and future technology eco-system Build products, from end to end, with multiple technology stacks Devise metrics to understand the success of a project Develop a comprehensive understanding of business metrics to drive ideas and translate them into executable projects Effectively present project outcomes to large groups Mentor and lead other Engineers on the team An Ideal Candidate Will Have The Following At least 6 years of relevant software engineering experience, including proven project leadership skills A track record in developing green field projects is preferred Experience working with complex business requirements across multiple organizations and translating them into achievable deliverables Must have experience working in an AGILE environment Strong Database (preferably T-SQL) experience is required js experience is required Must have experience in developing micro-services, messaging, queuing, monitoring and scaling technologies CI/CD experience in Cloud environments (preferably AWS) Bachelorâs degree required. Masterâs degree in business, finance, or relevant field preferred. Be an autonomous self-starter, and an ability to deep dive into new and existing products Must have a desire to be involved in leading edge development, and work with leading technology Strong interpersonal and relationship building skills are required to effectively collaborate with various business stakeholders including senior leaders Maintains a proactive âcan-doâ approach to all situations, with the ability to develop appropriate solutions using excellent analytical, critical thinking and problem-solving skills Strong communication and presentation skills are required to work effectively with the executive team Must have strong organizational and project management skills, ability to prioritize and work within tight time frames and manage multiple projects simultaneously About GLG / Gerson Lehrman GroupGLG is the worldâs insight network. Our clients rely on GLGâs global team to connect with powerful insight across fields from our network of 900,000+ experts (and the hundreds of new experts we recruit every day).We serve thousands of the worldâs best businesses, from Fortune 500 corporations to leading technology companies to professional services firms and financial institutions. We connect our clients to the worldâs largest and most varied source of first-hand expertise, including executives, scientists, academics, former public-sector leaders, and the foremost subject matter specialists.GLGâs industry-leading compliance framework allows clients to learn in a structured, auditable, and transparent way, consistent with their own internal compliance obligations and the highest professional ethical standards. Our compliance standards are a major competitive differentiator and key component of the companyâs culture.To learn more, visit www.GLGinsights.com.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-22T01:40:52.000Z"
+    },
+    "company": {
+        "name": "GLG",
+        "link": "https://www.linkedin.com/company/glg"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 96200,
+        "max_value": 154000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

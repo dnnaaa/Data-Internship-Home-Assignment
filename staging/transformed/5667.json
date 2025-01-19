@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software",
+        "description": "Hybrid Model (3 days at the office, 2 days remote) perfect for Greenville, SC & Spartanburg, NC engineers!This Jobot Job is hosted by Craig RosecransAre you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.Salary $120,000 - $145,000 per yearA Bit About UsJobot is looking for a Site Reliability Engineer for the leading provider of software and support in the healthcare industry.Why join us?The work we do is rewarding & if you enjoy saving lives & working on cutting edge technology like we do, please apply! We are known for incredibly low turnover because of the work life balance we offer. That said, we are conscious of the fact that we cannot be successful unless our customers are successful which is at the core of all we do.Job DetailsDevelop applications from customer services side/liability - that gear towards application transactions and less in application infrastructure- Incident response and problem management towards application development and monitoring Contribute to a light amount of application development, working very closely with development teams on reliability / observability. Provide reasoning about application architecture as well as be comfortable looking at code and offering feedback on how it can be improved to increase reliability. Participate and lead incident resolution efforts and subsequent postmortems. Work laterally with our other engineering teams to identify root causes, characterize and track problems and collaborate to address them Defining required performance and expected load, taking actions to address disruptions and monitoring operation.What You Need for this Position-3-5 years working experienceGood blend of Software Development + Operations (DevOps)KubernetesHelmDockerGitCI/CDInternet protocolsScripting languagesLinuxPreferredJiraAWSAzureKafkaPrometheusGrafanaAnsibleInterested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T21:49:15.000Z"
+    },
+    "company": {
+        "name": "Jobot",
+        "link": "https://www.linkedin.com/company/jobot"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greer",
+        "region": "SC",
+        "postal_code": "29651",
+        "street_address": null,
+        "latitude": 34.939312,
+        "longitude": -82.229195
+    }
+}

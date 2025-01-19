@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "Do you want a meaningful job? RadioMobile is looking for a Software Engineer to join the development team to create, enhance, maintain and develop 911 dispatch, mobile and associated hardware used by public safety agencies and fleet management organizations. Join the RadioMobile team developing exciting mission critical end-to-end public safety systems including mobile hardware, firmware and software. This position concerns Windows-based mobile data computers, remote display terminals, along with fire station alerting systems, that include computers, radios, and station control units. RadioMobile hosts on-prem as well as cloud-based services, Windows and iOS applications, integration with various wireless communications including 4G/5G, 2-way satellite and LMR. All of this to make citizens and fire fighters safer and saving lives.RadioMobile's development team is looking for a Software engineer with emphasis in Microsoft Server, SQL Server and Azure environments to create, enhance, maintain and test software applications for 911 dispatch, mobile devices and associated applications used by public safety departments & fleet management organizations. In addition to the current products this position will work with management and other team members to evaluate and create new programs and systems as part of ongoing innovation.Â POSITION REQUIREMENTS:Design & development of software applications & tools using standard development tools using Agile methodologyDesign & development of database driven client-server applicationsAssist team with QA testing, problem resolution and documentationCoordinate with other staff designers and developers to ensure total end-to-end system functionalityAssist with customer support, enhancements and new featuresREQUIRED QUALIFICATIONS:Bachelor or Masterâs degree of Computer Science or Computer Engineering2+ years directly related experience in Software Development technologiesExtensive development experience in C# & .NET technologiesExtensive development experience using Microsoft SQL ServerDevelopment experience with REST APIÂ Strong coding & code review skillsProficient with GUI (Graphical User Interface) development tools and techniquesFamiliar with web development technologiesSelf-motivated, good time management and comfort working individually and in a group environmentIndividual must exhibit very good written and verbal communication skillsOTHER PREFERRED QUALIFICATIONS:Familiarity with:GIS/Mapping and SDKs (e.g., ESRI)Relational database management system (SQLite, Microsoft SQL Server)TCP/IP, UDP, socket communications & networking technologies (WebAPI, REST, etc.)Cloud and virtualization technologySecurity mindset (HTTPS, VPN, TLS, X.509 certificates)Agile software development experience (e.g., Atlassian tools)Public Safety EnvironmentCandidate MUST be authorized to work in the US for any employer.Â About RadioMobileHeadquartered in San Diego, RadioMobile provides products that enable public safety and commercial organizations to have access to situational awareness information to make informed decisions. With a wide portfolio ranging from ruggedized in-vehicle mobile data computers, dispatch/tracking software products including mapping, fire station alerting, mobile vehicle location services, customized mobile data networking products, integration and installation services, we pride ourselves in having the flexibility to support products across government and public safety, security services and the private fleet management industries.Email: careers@radiomobile.com",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-02T18:20:13.000Z"
+    },
+    "company": {
+        "name": "RadioMobile, Inc.",
+        "link": "https://www.linkedin.com/company/radiomobile"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 75500,
+        "max_value": 123000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Diego",
+        "region": "CA",
+        "postal_code": "92161",
+        "street_address": null,
+        "latitude": 32.71576,
+        "longitude": -117.16382
+    }
+}

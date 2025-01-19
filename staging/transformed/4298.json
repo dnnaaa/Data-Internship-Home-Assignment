@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Professional, Data Scientist",
+        "industry": "Information Services",
+        "description": "Join our team of over 5,000 employees globally, who provide the insights through data and next generation technology that help millions of people find, buy and protect the homes they love.Â From the beginning, CoreLogic has been driven by a single purpose â to innovate and create solutions that solve our clientsâ toughest challenges in the housing market. CoreLogic is the trusted source for property intelligence, with deep knowledge of powerful economic, social, and environmental forces that promote healthy housing markets and thriving communities.We apply that same dedication to creating a diverse and inclusive work culture that inspires innovation and bold thinking. A place where individuals can work on small teams, feel valued, and directly impact the real estate industry. We believe our team members are the best in the business, and we will continue to recruit, retain, develop and reward our most important asset â our people!Job Description:Design, develop, and deliver solutions that will enhance and add value to new and existing data assets for broad industry application and aligned with business and market requirements.Â  Support the development of algorithms, models, and analytic solutions based on rules engine, machine learning, mathematical modeling, pattern recognition, feature extraction, and data mining techniques.Â  Performs data analysis, data profiling, featuring engineering, and model development using a variety of analytic techniques, tools, and programming languages to provide solutions and deliverables.Job DutiesWorking with other senior staff to apply machine learning algorithms to perform feature engineering and models implementation.Prepare and create training and testing data for various types of algorithms (e.g., AutoML, logistic regression, neural networks, clustering, support vector machines, boosting trees, random forest) for supervised and unsupervised models.Working with other senior staff in data enrichment through the development of machine learning algorithms to fill data gaps.Create and select predictive features from raw data.Â Create model reports for stakeholder review and model documentation.Â Develop analytic models using SQL, Python, PySpark, and other Google Cloud Platform (GCP) tools such as BigQuery (BQ), BQML, AutoML and Jupyter notebook.Perform data analysis and data profiling on large volumes of property and proprietary data, and present model outputs and performance to stakeholders.Â QA and analyze large amounts of data to create appropriate data sets for model building and testing.Prepare and maintain programs and documentation for analytic models.Conduct defined quantitative and qualitative research projects under the supervision of senior staff and communicates research results to internal and external stakeholders.Job QualificationsMasterâs or higher in machine learning, a data science, math, statistics or an engineering field, or equivalent work experience. Ability to thrive in a team environment and adapt to quickly changing priorities.2-3 years of directly related experience for candidate with only undergrad degree.Strong problem solving and analytical ability.Strong communication skills.Ability to quickly and efficiently adapt to new concepts.Â Demonstrated knowledge of statistical techniques.Working knowledge in multiple analytic development tools, statistical tools, programming languages, and big data tools.Working knowledge in cloud platform such as GCP, AWS, or Azure.Some data mining/data analysis/data profiling experience.Ability to work collaborative with cross-function teams and business units.Demonstrated general business acumen; experience working in a real estate and mortgage related data industry a plus.CoreLogic's Diversity Commitment:CoreLogic is fully committed to employing a diverseÂ workforce and creating an inclusive workÂ environment that embraces everyoneâs uniqueÂ contributions, experiences and values. We offer anÂ empowered work environment that encouragesÂ creativity, initiative and professional growth andÂ provides a competitive salary and benefits package.Â  We are better together when we support and recognize our differences.Â EOE AA M/F/Veteran/Disability:CoreLogic is an Equal Opportunity/Affirmative ActionÂ employer committed to attracting and retaining theÂ best-qualified people available, without regard toÂ race, color, religion, national origin, gender, sexualÂ orientation, gender identity, age, disability or statusÂ as a veteran of the Armed Forces, or any other basisÂ protected by federal, state or local law. CoreLogicÂ maintains a Drug-Free Workplace.Â ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T00:02:18.000Z"
+    },
+    "company": {
+        "name": "CoreLogic",
+        "link": "https://www.linkedin.com/company/corelogic"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Diego",
+        "region": "CA",
+        "postal_code": "92161",
+        "street_address": null,
+        "latitude": 32.71576,
+        "longitude": -117.16382
+    }
+}

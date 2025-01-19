@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist - Part time",
+        "industry": "",
+        "description": "Wishi is transforming the retail experience as we know itâand we want your big ideas! At Wishi, our goal is to help our customers look great and feel great about themselves by revolutionizing how people shop and use their closets. In a time-starved world where online shopping often feels overwhelming, our business connects customers to outfits they love. Whether itâs helping someone dress for success at a new job or taking the stress out of packing for a family vacation, we take care of our clients â and they love us for it!  We are looking for someone who identifies as a numbers person, cares about using data to drive critical business decisions and will actively promote a data-driven approach to decision making in Wishi. What you will do: Develop end-to-end data science projects: from data collection, cleaning and pre-processing of structured and unstructured data, to live models in production. Translate business challenges into data-driven solutions. Designing experiments to measure the impact of new features on our service. Evaluate consumer behavior including customer journeys, site traffic and marketing funnels, identify characteristic patterns, predict churn likelihood, attribute signup/purchase to the right channels, and reduce uncertainties that come with the service business. Analyze customer acquisition strategies in digital media (including Social, Search,Video/OTT, Display, etc) to maximize Return on Advertising Spend (ROAS). Partner with the Product to identify key customer personas and measure Lifetime Value / Customer Acquisition Cost (LTV/CAC) per marketing channel. Quantify impact of content, social and earned media on purchase intent. Collaborate with product design and engineering to develop an understanding of needs. Create usable KPI dashboards. Building clear and easy to understand dashboards (Tableau) and presentations. Communicate findings to all stakeholders. Who you are: 3+ years in an analytic role (including data and analytics, digital marketing, growth marketing or consulting ). Comfortable in SQL and some experience with a programming language (Python or R a plus). Quantitative and qualitative analysis skills, and well versed in financial analysis metrics (Return on Investment (ROI), Margin, CAC, LTV, etc.) Database experience around querying and managing large data sets, preferably in Looker/TABLEAU or similar Business Intelligence tool. Graduate with a Bachelor's degree in a related field.",
+        "employment_type": "PART_TIME",
+        "date_posted": "2021-08-12T19:22:00.000Z"
+    },
+    "company": {
+        "name": "Wishi",
+        "link": "https://www.linkedin.com/company/wishi"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "United States",
+        "postal_code": "13856",
+        "street_address": null,
+        "latitude": 42.93923,
+        "longitude": -75.62005
+    }
+}

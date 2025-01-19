@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer, Data",
+        "industry": "Computer Software,Information Technology and Services,Internet",
+        "description": "DescriptionRing is looking for a Software Engineer with the passion to drive the execution and ongoing support of mission-critical data services, furthering large-scale data governance, data streaming, and data analytics. If you are passionate about data and technology, eager to seek challenging and innovative opportunities, and motivated to deliver the best customer experience, then this role is the right fit for you.Responsibilities Design and document distributed systems and micro-services. Implement robust and maintainable code with clear documentation. Deliver customer value in an iterative fashion while working towards longer term systems goals. Help shape the growth of data services. Evaluate and implement efficient distributed storage and query techniques. Interact and integrate with teams and systems to extract, transform, and load data from a wide variety of sources. Develop automation tools for monitoring and measuring data quality, with associated user interfaces.Basic Qualifications Bachelorâs degree in Computer Science or a related field 3+ years of experience in Software Engineering / Data Engineering / Data Warehousing roles working in high traffic, fault tolerant, and highly available environments 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of systems 3+ years of experience with Golang, Python, Java, Scala or a similar programming language 2+ years of experience with Test Driven Development or writing unit tests 2+ years of experience with SQL skills 2+ years of experience with Big Data Technologies (Hadoop, Hive, Pig, Spark, etc.) 1+ years of experience with Streaming platforms like Kafka or KinesisPreferred Qualifications Experience with AWS Having planned and/or participated in terabyte-scale data environments Experience implementing solutions to comply with GDPR and/or other Data Privacy regulations Experience designing and implementing Data Governance programs Experience integrating NoSQL alongside RDBMS such as Postgres or MySQL in a multi-tiered, globally replicated environmentAbout RingSince its founding in 2013, Ring has been on a mission to make neighborhoods safer. From the video doorbell, to Ring Alarm, which was named #1 in Customer Satisfaction for DIY Home Security Systems by J.D. Power, Ringâs smart home security product line, as well as the Neighbors app, offer users affordable whole-home and neighborhood security. At Ring, we are committed to making home and neighborhood security accessible and effective for everyone -- while working hard to bring communities together. Ring is an Amazon company. For more information, visit www.ring.com. With Ring, youâre always home.Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us//.Company - Amazon.com Services LLCJob ID: A1352286",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-29T16:14:08.000Z"
+    },
+    "company": {
+        "name": "Ring",
+        "link": "https://www.linkedin.com/company/ring-labs"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 65300,
+        "max_value": 141000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Hawthorne",
+        "region": "CA",
+        "postal_code": "90251",
+        "street_address": null,
+        "latitude": 33.916424,
+        "longitude": -118.35028
+    }
+}

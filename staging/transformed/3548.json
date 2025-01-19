@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "SRE @MLB Has a Focus On Providing Consulting Services To Any And All Engineering Teams Throughout The Organization To Help In Certain Key AreasIncident responseKubernetes operationsUser experience optimization through SLIs and SLOsHigh Availability and Disaster recovery planningDebugging running systems and providing tools to assist runtime debuggingObservability toolingOptimizations for cost controlAs An SRE At MLB You WillWrite software in python, Golang, bash, Typescript, Javascript, HCL, and maybe C/C++.Use and administer GrafanaWrite and maintain plugins for Grafana (both open source and not)Write and maintain tools that help software engineering teams function betterConsult with engineering teams in the key areas outlined aboveHelp promote good observability culture throughout MLBHelp enhance the next generation of APM toolingBe on-call for SRE managed servicesUse Google Cloud PlatformUse and understand statisticsProvide advice around HA and DR initiativesAssist teams in understanding their operational dollar cost and optimizations to reduce sameAutomate telemetry collectionA Good Fit For This Role WillHave an eagerness to be a self-starter and get things doneHave written code in a compiled language that runs in production somewhereHave written code in interpreted languagesHave a good understanding of the JVM and JavaHave worked with time series data extensivelyHave worked with o11y tools extensivelyHave some experience with TerraformBe able to communicate effectively and asynchronouslyUnderstand that the documentation is a productHave worked with and gained a solid understanding of Grafana and its ecosystemThings You Will Almost Certainly Work OnUnderstanding the user experience for services run by the consulted engineering teamHelping set target objectives for user experience specific to the team/serviceUnderstanding the cost of running servicesSetting target objectives for costUnderstanding relative service health to help guide engineering effort (SLOs)Enhancing observability tooling to make the above possibleEnhancing alerting tooling to make the above actionableGaining deep understanding of service operation to guide disaster recovery and HA initiativesForming incident response best practices for the teamAll in-office positions are subject to MLB's mandatory Covid-19 vaccine policy.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-11T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Major League Baseball",
+        "link": "https://www.linkedin.com/company/major-league-baseball"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

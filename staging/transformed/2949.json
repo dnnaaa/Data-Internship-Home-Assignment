@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "Trella Health is a fast-growing, healthcare analytics company that deliversÂ insights and workflows toÂ healthcare providers andÂ risk-bearingÂ entities to growÂ and improve performance and better patient outcomes. We strive to positively impact every care path in America and to get there, we need exceptionally talented, bright, and driven people. We have been recognized as one of the top 50 startups in the US by LinkedIn in 2020 and have previously been announced as one of Modern Healthcareâs âBest Places to Workâ in consecutive years. We are excited about our growth trajectory and would love for you to be part of this exciting journey!We are looking for a versatile Data ScientistÂ to join our Data Science & Engineering team. You will be responsible for turning medical claims data into measures and actionable insights within our Software as a Service (SaaS) solutions. You will utilize your strong quantitative analysis and SAS and SQL skills to create and analyze scripts to compute metrics and impact downstream data sets. You will work closely with our product teams to contribute to the product roadmap, assist with user stories, develop specifications and provide timeline estimations. Additionally, you will contribute to multiple initiatives both in a team and independent environment, and you'll have the ability to take direction, run with idea, and have a keen eye for improvements. We're looking for someone who is intellectually curious who is passionate about continuous learning, especially when solving problems within healthcare data.Are you ready? Join us as we empower meaningful change in healthcare!Location:Â Philadelphia, PA; Atlanta, GA; RemoteReports to:Â VP, Data Science & EngineeringÂ Youâre excited about this opportunity because you will:Develop SAS and SQL Scripts necessary to support curated datasets in Trellaâs proprietary solutionsWork within the CMS Virtual Research Data Center (VRDC) to interpret, analyze, and build datasetsServe as resident expert on data sources, calculations, and methodologiesAssist in sizing and scoping of new analytic projects, working with Product team to develop specifications and requirementsAssist in validation of new and existing datasets to support QA/test strategyDesign and document measure methodology in collaboration with other Data Scientists and Product teamsWork with internal and external stakeholders to translate business concepts into data deliverables in our platformEnhance knowledge of industry subject matter through independent research and professional developmentÂ This job might be a fit for you if you have:Bachelors degree in a technical field or equivalent work experience3-5 years of relevant professional experience, preferably within the healthcare analytics or software industryExpert SAS programming and SQL skills requiredDeep understanding of Medical Claims data (Medicare FFS, Commercial, Medicaid, Medicare Advantage, etc.)Demonstrable experience working with medical coding systems (ICD10, CPT, HCPCS, MS DRG, NPPES NPI, etc.)Experience working with CMS data and/or Virtual Research Data Center (VRDC) highly desiredExperience supporting Accountable Care Organizations (ACOs), physician practices, post-acute, or health plan analyticsAbility to work independently, dive into data and build programs to aggregate and report dataOutstanding critical thinking, time management, and communication skillsThrives in a fast-paced technology start upInquisitive, self-starter with intellectual curiosityKnowledge of software development technologies including Jira, Confluence, Bitbucket, etc.About Trella Health:Trella Health is a rapidly growing, VC-backed healthcare technology company dedicated to improving healthcare. By empowering post-acute care providers and their patient referral sources to advance the way they work together, weâre paving the way for healthier, more cost-effective outcomes. Our customers range from the largest national providers down to small standalone agencies. Our solutions give business leaders an active picture of the care continuum so they can better understand peer and provider performance metrics in their market. Our customers use analytics and insights to improve growth and performance in their business. The Trella Health Experience:Trella Health encourages diverse perspectives and celebrates curiosity, initiative, drive, and a passion for making a difference. Our collaborative culture is anchored by trust, transparency, and inclusion â and we also have a lot of fun. Other benefits include:Medical, dental, and vision healthcareCompetitive salary and bonus structureUnlimited Paid Time OffFlexible work hoursShare options/equityEqual Opportunity EmployerTrella Health is an equal opportunity employer. All persons will receive consideration for employment without regard to race, color, gender, sexual orientation, gender identity or expression, religion, national origin, marital status, age, disability, handicap, veteran status, genetic information, or any other protected status as recognized by federal, state, or local laws.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-22T18:00:54.000Z"
+    },
+    "company": {
+        "name": "Trella Health",
+        "link": "https://www.linkedin.com/company/trellahealth"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Philadelphia",
+        "region": null,
+        "postal_code": "19901",
+        "street_address": null,
+        "latitude": 39.906075,
+        "longitude": -75.16684
+    }
+}

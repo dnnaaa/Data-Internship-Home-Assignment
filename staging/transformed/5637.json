@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services,Banking,Financial Services",
+        "description": "Responsibilities:Understanding the business, payment platforms, and customer flows that generate the source data for the projectAnalyzing and understanding the data needed for modeling and platform featuresCleaning the data and ensuring the validity of the dataPreprocessing the data (via shell scripts and a programming language such as Python, Java, Scala, etc)Iteratively computing features and tuning parameters to improve the quality of the modelCommunicating your findings to the project team and client stakeholdersAssisting in decision making and making recommendations on Data Science aspects of the projectCollaborating with key stakeholders (data scientists, engineers, risk managers, users) on the projectÂ Requirements:Proficient in Machine Learning (training and testing, avoiding overfitting, etc.)Experience with applying machine learning techniques to predictive modelingKnowledge of Big Data technologies such as Spark, Hadoop, and related platformsProficiency in Bash, Python, and either Java or ScalaProficient in querying databases (Spark, PySpark, Hive, SQL, Oracle, Cassandra)Experience with extracting insights from raw data and transforming them into useful featuresKnowledge of resource monitoring and runtime optimization (both at JVM and OS level)Knowledge of statistics or data visualization is a plusKnowledge of tree-based algorithms (Random Forests, XGBoost, LGBM) is a plusKnowledge of Deep Learning algorithms is a plusAbility to communicate your findings in a clear way and prepare stakeholder presentationsPrior client-facing consulting experience is a plus",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-23T17:11:50.000Z"
+    },
+    "company": {
+        "name": "Mindlance",
+        "link": "https://www.linkedin.com/company/mindlance"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greenwood Village",
+        "region": "CO",
+        "postal_code": "80018",
+        "street_address": null,
+        "latitude": 39.616886,
+        "longitude": -104.95051
+    }
+}

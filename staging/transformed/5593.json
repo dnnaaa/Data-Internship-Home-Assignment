@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "Position: Data ScientistLocation: Irvine, CA (4-10 days onsite a month)Length: Contract to HIRE or Full TimeSalary: 110-140k + 10% Bonus Potential+ BenefitsMust Have: SQL, PythonThe Data Scientist works independently on all phases of an analytics project. The scope of work includes the data analysis and preparation, model development, and the presentation of results and recommendations to stakeholders.Â Â PRIMARY DUTIES/KEY RESPONSIBILITES:Work independently on all phases of an analytics project, including formulation, research, development, implementation, testing, and maintenance.Assist with problem formulation and the selection of an appropriate methodology.Present findings and recommendations to stakeholders.Maintain an awareness of trends in the field; research and suggest new methodologies.Qualifications:BS/BA with 5 yearsâ experienceDegree in Statistics, Operations Research, Applied Mathematics, Computer Science, Economics, or related quantitative field.Proven experience applying descriptive, predictive, and prescriptive statistics to real-world problems.Â Experience querying relational databases using SQL.Ability to develop and maintain production-ready code.Experience working with Amazon Web Services (AWS) strongly preferred.The ability to present findings clearly and concisely to team members and data science leadership.Experience creating compelling data visualizations strongly preferred.Strong problem-solving skills with an emphasis on product development.A drive to learn and master new technologies and techniques.The ability and inclination to coach junior staff.Expertise in one or more of the following strongly preferred:Generalized linear models, time series models, forecasting techniques, cluster analysis, and principle component analysis.Linear and mixed integer optimization, discrete event simulation, heuristic methods, and network flow analysis.Machine Learning: Selecting, tuning, and implementing a variety of common supervised and unsupervised models, including decision trees, nearest neighbor models, and neural nets; and several standard ML libraries, such as scikit-learn, TensorFlow, or similar.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T19:29:45.000Z"
+    },
+    "company": {
+        "name": "Apex Systems",
+        "link": "https://www.linkedin.com/company/apex-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Irvine",
+        "region": "CA",
+        "postal_code": "92717",
+        "street_address": null,
+        "latitude": 33.68591,
+        "longitude": -117.82472
+    }
+}

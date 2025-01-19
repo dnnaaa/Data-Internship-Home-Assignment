@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "PRANOS.ai is Palo Alto based and founded by Y-combinator S18 alums. The revolutionary mass media platform converts any car window into a digital display. Our pioneering technology is designed to deliver captivating consumer-generated digital out-of-home content on the fly.At Pranos we believe our products begin with our people. We have a diverse, smart team that drives creative thought. By giving the team the resources they need to be leaders in innovation, we are also successful at driving precision. Key QualificationsYou have deep understanding of core CS â including algorithms & data structures, operating systems, distributed systems, networking, and concurrent programming.We prefer someone with a minimum of 3 years of experience in software engineering, but we are openYou have experience and insight into designing, implementing, and supporting highly scalable cloud services from the ground up.You are a versatile programmer in Go, Java, Python.You are comfortable in working in a dynamic, fast-growing team environment.You can thrive in small team environment with minimal documentation and process.You have phenomenal Aptitude to deal with ambiguity, and enthusiasm to help tackle difficult issues.DevOps experience is nice to have.DescriptionThe Embedded systems engineer will work closely with our CTO (Y combinator S18 alum) and other senior engineers to develop PRANOS.aiâs embedded systems for users worldwide. Building inÂ Python, C, and C++Â , the Embedded Systems Engineer will deliver the cleanest, most efficient, and reliable applications for our customers. Architect and grow a new codebase, working with remote development teams integrating technical input and feedback from PRANOS.aiâs product and design teams on enhancements, new features, testing, accessibility, and documentation.ResponsibilitiesWrite clean, well documented, and well tested code using best practices for React and React-Native developmentWork closely with CTO and collaborate with Design, Product, and Engineering teams as well as mentor and coach remote development teams to ensure the highest quality product is deliveredDebug and develop mobile platform specific features on iOS and Android in a React Native codebaseDesign and contribute to the high-performance backend services that drive the mobile appsCommit to best practices for testing, logging, and deploymentsStay up to date with industry trends and advise the team on best practices to implementQualificationsExperience building large, high traffic frontend codebases in React NativeProven ability to ship high quality, testable, and accessible code quicklyExperience working on mobile performance and accessibilityExperience debugging mobile applications on iOS and AndroidDemonstrated experience working in diverse, equitable, and inclusive environments on cross-functional on innovative projectsBelieve in continuous learning, sharing best practices, and making global impactPossess a customer-first mindset and data-driven approach to your workEmail resumes and Linkedin link to: David@pranos.aiV.V.V.Employment TypeFull-time Contractor",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-08T01:42:33.000Z"
+    },
+    "company": {
+        "name": "PRANOS.ai",
+        "link": "https://www.linkedin.com/company/pranos-ai"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

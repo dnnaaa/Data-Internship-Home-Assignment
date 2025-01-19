@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer - Blockchain Infrastructure",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "About KrakenOur mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion. In our first decade, Kraken has risen to become one of the largest, most successful and respected crypto exchanges in the world.We are changing the way the world thinks about finance and our range of successful products are playing a critical role in the mainstream adoption of crypto assets. We continue to trail-blaze into new territory with the introduction of Kraken Bank, providing a more seamless integration between crypto and the traditional financial system. This makes us the first crypto company (ever) to be awarded a U.S. state banking charter.Our diverse group of 2,000+ Krakenites are distributed all over the world, united by a shared passion for delighting customers, upholding crypto values and achieving our meaningful mission. We attract people who push themselves to improve, are radically transparent and think differently in order to unlock their potential.Crypto is a rapidly evolving industry and weâre just getting started. Weâre growing fast and you're invited to join the revolution!About The RoleThis role is remote.Our Engineering team is having a blast while delivering the most sophisticated crypto-trading platform out there. Help us continue to define and lead the industry.ResponsibilitiesBuild, improve, maintain, and upgrade clusters of dozens of blockchain daemons/consensus nodes in a scalable and highly redundant fashionDeploy testnet & mainnet blockchain daemons/consensus nodes, monitor proactively for performance bottlenecks and unusual behavior, optimize performance in productionDevelop systems for rolling out patches/updates/infrastructure in an automated fashionProvide blockchain as a service to the crypto gateway engineering teamImplement robust metrics and monitoring of blockchain infrastructureWrite good quality policies, procedures and technical documentationNurture security awareness in the organization, produce material to support this, and relate this to the current threat landscapeRequirements3+ years of experience in dev-opsCode (or script) in at least one modern application development or utility language;Experience operating KubernetesExperience with administrating Linux systems and with configuration management (Ansible, Terraform, Docker)Experience with cloud platform services and tooling (GCP, AWS)Experience with metrics collection and monitoringWorking understanding of TCP/IP network stackOnline availability for unforeseen remotely-fixable issuesSelf-motivated & self-organizedUse Source Code Management and Document Management Systems to organize business function tasks and publish relevant material;Understand DNS, SSL/ TLS, and how traffic on IP networks establishes end-to-end security and trust.Desire to make the best trading platform out thereStrong passion for Bitcoin and other cryptocurrenciesFluent English language skills is requiredLocation Tagging: #US #EUWeâre powered by people from around the world with their own unique backgrounds and experiences. We value all Krakenites and their talents, contributions, and perspectives.Check out all our open roles at https://www.kraken.com/careers . Weâre excited to see what youâre made of.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-05T17:36:24.000Z"
+    },
+    "company": {
+        "name": "Kraken Digital Asset Exchange",
+        "link": "https://www.linkedin.com/company/krakenfx"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "United States",
+        "postal_code": "13856",
+        "street_address": null,
+        "latitude": 42.93923,
+        "longitude": -75.62005
+    }
+}

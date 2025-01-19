@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "Who We AreHi, weâre SambaSafety and we offer the industryâs most comprehensive driver monitoring software. Our technology helps everyone from large corporations to small companies ensure only the safest individuals are driving on behalf of their business. These companies trust SambaSafety to keep their employees safe on the roads, helping protect their brand, greater community and bottom line. Simply put, we save lives and are on a mission to reduce crashes on American roadways 20 percent by 2025.Weâve built an inclusive, supportive, and exceptional culture where every employee is empowered in their role. Donât take our word for it; weâve been recognized as a Top Workplace by The Denver Post and Built In Colorado. And our employees rate SambaSafety top-notch, with a rock solid 4.7-star rating on Glassdoor.What Youâll DoInvestigate and contribute to solving various issues in production environmentsDrive infrastructure as code adoptionDeployment of software releasesProactively analyze and contribute improvements to support deployment processesProvide collaboration as a conduit between various technical and non-technical teamsWork with the development teams to improve system qualityBuild effective monitoring, alerts, and metrics for production servicesProvide configuration management for production applicationsParticipate in an on-call rotationWhat Youâll NeedAbility to listen to team feedback and prioritize efforts within the shift or escalate to managers for suggestions.Excellent collaboration skills.Ability to think strategically and act tactically.Works with a sense of urgency in high pressure environment and demonstrates the ability to effectively respond to issues during emergency situations.Demonstrates the ability to adapt quickly to changing priorities, circumstances and direction.Professional experience with cloud environments (AWS certification preferred)Strong knowledge and experience working in Linux/Unix environmentExperience with centralized logging solutions (Splunk, Elk, etc.)Knowledge of active monitoring (Datadog, Dynatrace, etc.)Understanding of security best practicesExperience with CI/CD tools (Jenkins, CircleCI, etc.)Experience with a modern programming language (python, Java etc.)Experience with SQL and NoSQL databasesUnderstanding of gitKnowledge of networking principles such as firewalls, load balancing, routing and switchingKnowledge of horizontal and vertical scaling best practicesBenefits And PerksUnlimited Paid Time Off and Paid Volunteer Days401k match and generous Healthcare Benefits including a fully employer paid family medical planWellness &Tuition ReimbursementZoom Happy HoursFlexible Work From Home schedule & a Monthly Internet stipendLots of Samba swagSamba Virtual Events including our famous Samba SprintOur team of talented and committed safety professionals is exceptional. At SambaSafety we strive to foster an inclusive culture that supports, encourages and celebrates a wide array of diversity. We are committed to create a space where all employees can show up as their authentic selves every day, and we work to advance employee equality, diversity and inclusion.SambaSafety provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, gender identity, and expression or genetics.Come join us to find out for yourself what all the excitement is about!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-13T01:41:21.000Z"
+    },
+    "company": {
+        "name": "SambaSafety",
+        "link": "https://www.linkedin.com/company/sambasafety"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Denver",
+        "region": "CO",
+        "postal_code": "80247",
+        "street_address": null,
+        "latitude": 39.738453,
+        "longitude": -104.984856
+    }
+}

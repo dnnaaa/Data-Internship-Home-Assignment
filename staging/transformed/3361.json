@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "At Sensormatic Solutions, a division of Johnson Controls (JCI), we bring together diverse data and insights with our intelligent operating platform that is designed to drive improved shopper experiences and retail outcomes. Our innovative solutions (Loss Prevention, ShopperTrak, and Inventory Intelligence) drive improved customer experiences and enable retailers to create streamlined shopping.What you will do As a Site Reliability Engineer (SRE) you will tune and troubleshoot multi-tiered systems to achieve efficient application performance, stability, and availability. The SRE will work closely with the software engineers, infrastructure, and network engineers to deploy and maintain our services. You will act as 3rd level technical support liaison between Sensormatic Solutions external and internal customers, vendors, and the technology departments on a global scale.Â  You will be a point of contact and assist in application and infrastructure implementation, support, monitoring, incident response, and training. Responsible for availability, latency, performance, efficiency, change management, monitoring, emergency response, and capacity planning Investigate and identify the root cause of moderately sophisticated customer, network, infrastructure application, and server issues.How you will do it Supervise and report the status of tickets to respective internal/external customers and interested parties.Â  Drive platform reliability methodologies, influence design decisions, and get hands-on to tackle key infrastructure, cluster automation, and scaling challenges Analyze, investigate, and identify root cause of complex customer issues, and communicate findings to appropriate group for resolution.Â  Work with different areas of the business to establish SLIs and SLOs for customer platforms. Ensure that error budgets are maintained and SLOs are met. Build tools to reduce toil and automate workflows Follow and implement Sensormaticâs production change control process. 24/7 on-call duty in case of emergencies, based on rotating shifts alongside other global teamsÂ  Serve as Incident Commander to lead efforts in resolving mission-critical issues across the entire engineering organization Collaborate closely with product developers and perform Production Readiness Reviews to ensure that designed solutions respond to non-functional requirements such as availability, performance, security, and maintainability as well as functional requirements such as security, scalability and reliability Help developers interface with tooling, including our Kubernetes platform and in-house continuous delivery pipeline for Terraform Work off-hours periodically to accommodate maintenance/downtime windows as well as outages. Build and update How-To documents (runbooks) and procedures for troubleshooting and system management. Participate in Research and Development activity as needed to progress Sensormaticâs new or improved products, processes, or formulas. Â ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T05:15:45.000Z"
+    },
+    "company": {
+        "name": "Johnson Controls",
+        "link": "https://ie.linkedin.com/company/johnson-controls"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 79500,
+        "max_value": 98700,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Chicago",
+        "region": "IL",
+        "postal_code": "60654",
+        "street_address": null,
+        "latitude": 41.88323,
+        "longitude": -87.6324
+    }
+}

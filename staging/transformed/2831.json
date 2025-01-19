@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Marketing and Advertising,Computer Software,Internet",
+        "description": "About UsAt Cars.com, we help shoppers meet their perfect car match, and people find their perfect career match. As one of the top places to work in Chicago, according to The Chicago Tribune, Built-In Chicago and others, we pride ourselves on a culture of growth and innovation.Cars.com has revolutionized the automotive industry for both shoppers and sellers through technology and solutions for buyers and sellers alike. We never shy away from a challenge, move fast, collaborate across functions to approach problems from every angle. Weâve built a culture thatâs second-to-none and share core values that keep everyone working full-speed at the same goals with the same open, outcome-driven and bold attitudes.Cars.com is a CARS brand. CARS includes the following brands: Cars.com, Dealer Inspire, DealerRater. Learn more here !About The RoleData is the driver for our future at CARS. We are looking for a Data Scientist III to join our data science team. This team is responsible to improve shopping experience, optimize sales and marketing pipelines and build measurement strategies. In simple terms, this is the team behind all machine learning products at CARS.Data Science@Cars is a group of collaborative and humble individuals from diverse backgrounds. We are actively involved in the open source community and regularly participate in Data Science events. We learn from each other through regular algorithmic/code review sessions and stay connected through coffee chats in this remote world.About The ProjectsWe deliver scalable ML products that are served to millions of users through our website and mobile app. Search, Recommendation Systems, Pricing and Churn are some of the example projects that we actively work on. Right from the start, each team member will own a product(s) and as the time progresses, you will gain exposure to working on diverse areas of ML. The team maintains a healthy balance between research projects and immediate deliverables.On a Typical Week You Will  Collaborate with product and engineering teams to define, design, build and deploy machine learning models and frame AB tests   Understand business impact of models and monitor model performances to make sure model outputs are of good quality at all times   Apply robust and maintainable coding practices to ensure model outputs are provided reliably and efficiently at all times   Work with business partners to identify business opportunities and trends   Communicate modeling methodologies and analytical findings to business stakeholders   Stay up-to-date with latest technology trends and publish research articles on science and innovations  Requirements  4+ years professional experience in developing machine learning models with a BS/MS in statistics, econometrics, machine-learning, applied mathematics or related quantitative fields   Understanding of supervised and unsupervised machine learning concepts   Experience with entire pipeline of deploying machine learning algorithms including development, validation, implementation and production launch   Strong coding skills in Python/PySpark and knowledge of OOP and functional programming   Experience in writing efficient SQL (or similar RDBMS) queries   Understanding of AWS ecosystem   Good documentation skills   Be flexible in working on diverse problems instead of focusing on a particular ML area like Image Recognition, Natural Language Processing etc.   Understanding of coding best practices and familiar with version control tools   Experience with presenting technical work to executives in a concise and effective way  Preferred  Experience in delivering complex ML systems that use real time scoring   Experience in mentoring other Data Scientists or data enthusiasts   Involvement of any kind in data science community   PhD in statistics, econometrics, machine-learning, applied mathematics or related quantitative field  We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T23:20:41.000Z"
+    },
+    "company": {
+        "name": "Cars.com",
+        "link": "https://www.linkedin.com/company/cars-com"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

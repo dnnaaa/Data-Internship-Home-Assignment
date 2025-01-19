@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer In Test",
+        "industry": "Information Technology and Services",
+        "description": "Software Engineer in TestÂ Â AffiniPay is looking for a Quality Engineer that is passionate about building excellent automation systems and delivering high-quality code into production. Our ideal candidate will have strong experience with building automated test suites and running continuous integration systems for web-based applications and APIs. You will also be responsible for developing QA procedures, testing of software and reporting on the quality of the current builds. This role will expose you to all aspects of the software stack and many cutting edge frameworks/tools. This is an extraordinary opportunity for someone to join a growing company as part of a fast-paced engineering team.Responsibilities:Define test strategy, build test plans and test casesDesign, develop and deploy advanced automated testing frameworks that provide reliable and repeatable test resultsDevelop internal QA tools to efficiently test components/applicationsPerform testing of features and bugs at all levels of the stackBuild and maintain QA infrastructure to provide a reliable build pipeline and test environmentsAnalyze and decompose complex issues and collaborate with others to drive adoption of standard methodologies in code health, testing, and maintainabilityRequirements:BS in computer science or equivalent related work experience3+ years in a QA or development roleExperience with one or more general-purpose programming languages including but not limited to: Ruby, Python, JavaScript, or Java, and able to write automated tests, scripts, and toolsExperience in the design/development of an automation frameworkExperience with REST APIs and other back-end systemsExperience with Travis, Jenkins, or some other CI systemFamiliar with Linux shellExperience with Git or other SCMFamiliarity with SQL, databases, and data-driven automated testsStrong understanding of concepts related to computer architecture, data structures, and programming practicesNatural inclination of staying ahead to learn current trends and standard methodologies in software test automationAbility to thrive in a fast-paced, agile team environmentAbility to work effectively, efficiently, and independently with minimal guidanceNice to Have:Proven understanding of building and administering CI/CD systemsExtensive knowledge of Unix/Linux environmentsDeep knowledge of Internet technologiesExperience with performance testing or security testingExperience developing simple test tools or test harnesses to aid in testingExperience using cloud-computing services such as AWS or Google Cloud PlatformExperience with IaC, Terraform, etc.Experience with payment certifications such as PCIAbout AffiniPay:At AffiniPay, weâre continuously taking on exciting and interesting problems to define the direction of the financial technology industry and transform the way professionals get paid! Our drive to become leaders in FinTech has fostered our fast-paced, growth-focused culture. Weâve assembled teams of highly collaborative problem solvers who are passionate about both personal and company growth. We are eager to build, work together, and go above and beyond to be industry leaders. We also know that our people are our greatest asset and responsible for our ultimate success. As such, we invest in our team membersâ growth and development, recognize accomplishments, and celebrate successes together. Weâre building a winning team, and we need more creative, collaborative, and fun-loving people to help us get the job done!Affini-Perks! We've got you covered...Competitive compensation structure100% paid medical, dental, and vision benefit plans401K with automatic 5% company contributionCompetitive PTO (Paid Time Off) plan100% Company paid short- and long-term disability and life insurancePaid maternity/paternity leaveFun destination quarterly meetingsAffiniPay Swag PackageCompany lunches and fully stocked kitchenAll the benefits of a startup culture without the downsidesThe chance to get in on the ground floor of one of Austin's fastest growing companies!AffiniPay is proud to be an Equal Opportunity Employer.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T22:49:50.000Z"
+    },
+    "company": {
+        "name": "AffiniPay",
+        "link": "https://www.linkedin.com/company/affinipay"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

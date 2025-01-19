@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Health, Wellness and Fitness",
+        "description": "As a Data Scientist you will apply your skills to increase digital adoption, engagement and behavior change leveraging CVS Healthâs digital products.Aetnaâs Member Analytics team is an innovative team tasked with optimizing our ability to engage with members to help them make better healthcare decisions.Our goal is to improve clinical outcomes and to help members gain more transparency into the healthcare system so that they can save money. To do this, weâve developed a leading capability that combines data science, agile marketing, behavioral economics, large scale experimentation, and optimization of our digital properties and applications. Through this we message millions of members each year about real challenges they face and help them become healthier and save money â we drive tangible and meaningful impact for our members.As a Data Scientist you will:Develop, validate and execute algorithms and predictive models to investigate problems, detect patterns and recommend solutionsPerform analyses of structured and unstructured data to solve moderately complex business problems, utilizing advanced statistical techniques and mathematical analysesCreate data structures and pipelines to organize, collect and standardize data that helps generate insights and addresses reporting needsUse data visualization techniques to effectively communicate analytical results and support business decisionsEvaluate the data needs of assigned projects and assure the integrity of the dataDocument projects, business objectives, data gathering and processing, detailed set of results and analytical metricsRequired Qualifications2+ years of relevant Machine Learning model building experienceExperience with Python, R and SQLPreferred QualificationsHealthcare industry experienceExperience with Experimental Design and or A/B testingStrong written and verbal communication skillsProblem resolution skillsProficiency in several areas of data modeling, machine learning algorithms, statistical analysis and data engineeringAbility to work with large data sets from multiple sourcesEducationBachelorâs degree or equivalent work experience in Mathematics, Statistics and Computer ScienceMasterâs degree preferredBusiness OverviewAt CVS Health, we are joined in a common purpose: helping people on their path to better health. We are working to transform health care through innovations that make quality care more accessible, easier to use, less expensive and patient-focused. Working together and organizing around the individual, we are pioneering a new approach to total health that puts people at the heart.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-14T21:31:54.000Z"
+    },
+    "company": {
+        "name": "CVS Health",
+        "link": "https://www.linkedin.com/company/cvs-health"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

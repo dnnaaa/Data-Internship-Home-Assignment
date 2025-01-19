@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "Data Scientist tl;dr: An innovative seed-stage startup in the DevSecOps space is looking for a Data Scientist to join our team and help design and build NLP and anomaly detection models and algorithms using bleeding edge technology.  Our tech-stack and R&D cultureAs this is a greenfield application, we do not have all the details ironed out, youÂ will help us do that. However, weâll probably be using some of these: â Â  Â  Â Databricks / Apache Spark / Presto / Hive / Athena for data wrangling â Â  Â  Â PyTorch / TensorFlow / Keras / Scikit-learn for ML/DL â Â  Â  Â AWSÂ as a cloud provider â Â  Â  Â Python and Jupyter notebooks well, for everything  We will be putting a high emphasis on: â Â  Â  Â Honing your skills â Â  Â  Â Non-blocking automatic MLOps CI/CD pipeline â Â  Â  Â Letting data scientists research and not distract them with endless unneeded meetings â Â  Â  Â Involvement and impact on the decision making process and roadmap of a new product â Â  Â  Â Open-source use and contribution  One of the challenges of data scientists is getting data, youâll have all the data you need, and then some. Â What do we expect you to bring to the table?We believe that for every highly functioning relationship, there must be a good synergy between the partners and that it must be a win-win situation for all. Our key requirements are: â Â  Â  Â Enjoy your work and working with your team and be proud of it â Â  Â  Â Assume best intentions â we know we will! â Â  Â  Â Drive to build something amazing â Â  Â  Â Be excited about data and coding â Â  Â  Â Have strong opinions, but hold them loosely Â  What will you be doing?As a seed-stage team member, you will be working on a greenfield application and ML models. You will be an integral part of the design and architecture decision process, working directly with the other team members and leadership (we have a very flat structure). In this role you will have a huge impact on the success of the company. MinimumÂ Qualifications  - At least 4 years of experience as a Data Scientist / Researcher / ML Engineer - Hands-on experience building ML/DLÂ modelsÂ  - Master's degree or equivalent in a STEM fieldÂ   Preferred Qualifications - MLOps and data engineering experience - Familiarity with the DevOps ecosysetm - Experience with NLP, anomaliy detetion - PhD in a STEM fieldÂ ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T18:09:35.000Z"
+    },
+    "company": {
+        "name": "Stealth Startup",
+        "link": "https://www.linkedin.com/company/stealth-startup-51"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta Metropolitan Area",
+        "region": null,
+        "postal_code": "30317",
+        "street_address": null,
+        "latitude": 33.74975,
+        "longitude": -84.38857
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "Job DescriptionMy client is a global provider of legal, regulatory and business information and analytics that help customers increase productivity, improve decision making outcomes, and advance the rule of law around the world. They provide corporations with insights about their markets, benchmarking brands against competition, and strengthen legal infrastructure. They are currently working on a $50 million project migrating $5 billion worth of products to azure.Required Skills & Experience5+ years experience and proven background working in a technical, Cyber Security related position.BSc Engineering/Computer Science/IT Security or relevant experience.Industry certification such as CSSP, AWS Certified Security, CSSLP desirableUse of orchestration tools such as Terraform, Ansible or CloudFormationPrevious Analytic and troubleshooting experience is requiredExperience migrating application from on-premises to public cloud.Experience with Blue-Green deployment methodologies.Experience working with containerised workloads such as Docker and Kuebernetes.Experience with Log Management tools e.g â Elastic Stack, Graylog or SplunkExperience working with an enterprise RDBMS such as MySQL and/or Microsoft SQL Server.Knowledge of change control and associated procedures.Use of Secret Management services e.g - Hashicorp VaultExperience with any high-level programming language.Configuration Management tools â e.g. Ansible, Puppet, Chef or equivalents.Professional experience of working within the public cloud â Azure, AWS or GCP.Hands-on experience of Linux and Windows server including support and troubleshooting.System and application monitoring â e.g. Prometheus, Grafana, Nagios etc.Professional Experience with common source control tools â e.g Git, SVNCloud Architecture and system design to solve key business problems and facilitate team goals.Strong and enthusiastic technologist, able to demonstrate a broad technical knowledgeAbility to act as a point of expertise, advise others in the team on best practise and impart knowledge.Coding and scripting experience â e.g. Powershell, Bash, Python or equivalent Continuous Integration/Delivery Tools â e.g. Gitlab, Github, JenkinsCloud Architecture and system design to solve key business problems and facilitate team goals.Hands-on experience performing application static/dynamic security and penetration assessment with tools such as â SonarQube, CheckMarx, AppScan, BurpSuite, OWASP ZAP Proxy, WebInspect, Fortify, Veracode, Nessus etc.Good understanding of defensive, corrective and detective controls and requirementsKnowledge of OWASP Top 10/ SANS Top 25, identify vulnerabilities via manual and automated testing methods and how to effectively remediate vulnerabilities associated with each. Ability to recognize and escalate Security issuesExposure to application security testing (source code review and web/mobile application penetration tests)Familiarity with different types of security vulnerabilities and tools for countermeasureThe candidate should be well versed in Information security principles at an Intermediate level Desired Skills & ExperienceDesirable â AWS / Azure Certifications The OfferCompetitive Salary: Up to $55-65/hour, DOEYou Will Receive The Following BenefitsMedical Insurance & Health Savings Account (HSA)401(k)Paid Sick Time LeavePre-tax Commuter BenefitApplicants must be currently authorized to work in the United States on a full-time basis now and in the future.Posted By: Noah Mackeprang",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-17T08:48:40.000Z"
+    },
+    "company": {
+        "name": "Motion Recruitment",
+        "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Los Angeles",
+        "region": "CA",
+        "postal_code": "90101",
+        "street_address": null,
+        "latitude": 34.05224,
+        "longitude": -118.24335
+    }
+}

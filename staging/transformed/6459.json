@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Engineer (REMOTE)",
+        "industry": "Insurance,Financial Services",
+        "description": "Job Summary:Â This technologyÂ roleÂ will report to theÂ AVPÂ ofÂ Data Architecture.Â Â Job DutiesÂ  Work as part of a data engineering team building Allied WorldâsÂ cloud-based data platformÂ  Build theÂ cloudÂ infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sourcesÂ  Assemble large, complex data sets that meet functional / non-functional business requirementsÂ  Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability,Â etcÂ  Keep our data separated and secure across national boundaries through multiple data centers and AWS regionsÂ  Work with data and analyticsÂ teamÂ to strive for greater functionality in our dataÂ platformÂ  Help buildÂ and maintainÂ a metrics-drivenÂ DevOpsÂ culture with a focus onÂ automation andÂ observabilityÂ ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-30T23:45:37.000Z"
+    },
+    "company": {
+        "name": "Allied World",
+        "link": "https://bm.linkedin.com/company/allied-world"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 86300,
+        "max_value": 157000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

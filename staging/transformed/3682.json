@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Renewables & Environment",
+        "description": "About UsWe are a fast-growing stealth startup located in San Jose, CA.Â Our company has developed a breakthrough technology to custom design and manufacture 3D graphene and other carbon materials.Â Graphene has the promise to transform many industries as this carbon-based material is over 100 times stronger than steel, flexible, transparent, a great thermal conductor and the most conductive material that we know exists.Â The list of possible applications is expansive, including transparent touch displays, IoT sensors, game-changing battery electrodes, semiconductors, innovative composite materials and solar panels - just to name a few.Â Our leadership team is seasoned in leading startups from an early stage to multi-billion-dollar companies. Our development teams have extensive experience in successfully launching products from conception to production. As validation that we are on the forefront of this coming transformation, we have acquired multiple revenue producing commercial and government contracts and recently closed a large round of funding and have opened a new production facility in San Jose to scale our production and accelerate our growth in key product development areas. Â Â Data ScientistThe data scientist will specialize in sensor data analytics associated with the development of IoT sensors for commercial and government applications. We are looking for a candidate with a strong background in statistical analysis and signal processing to lead the development of a custom machine learning algorithm for real-world applications.Â This position requires an in-depth knowledge of machine (deep) learning on spatiotemporal datasets. The candidate should have a track record of success in different sensor-related projects and have a desire to work on challenging real-world problems to make a positive impact in the world.Â A few selected examples of work include processing high-dimensional graphene sensor data, integration of distributed sensor networks, and anomaly detection in an energy storage system using streaming sensor data.Â Expertise in edge machine learning is highly desired.Â Â Job ResponsibilitiesAssimilate different data files from different sensor types.Implement data pre-processing techniques and feature-extraction methods.Develop high-dimensional data visualization tools.Organize and maintain sensor library and develop signal processing and machine learning algorithms.Implement machine learning algorithms on distributed sensor network.Contribute to the sensor development efforts by creating, modifying, evaluating, and validating data analytics for 3D graphene sensors and the resulting products.Work in a cross-functional team environment to ensure the successful integration of the companyâs unique sensing materials to the sensing solutions.Â QualificationsBachelorâs degree in electrical engineering, computer science, or a related field of study.Expertise in signal processing techniques.Experience with statistical data analysis software and predictive algorithms (e.g., Python, R, MATLAB, etc.).Familiar with machine learning and deep learning model development (e.g., scikit-learn, Tensorflow, Keras, and Pytorch).Strong presentation and communication skills.Experience and success in new product introduction through the entire product life cycle (e.g., concept, design, prototype, and production) are preferred.Excellent critical analysis and reasoning skills.Flexible to effectively manage and execute multiple projects and priorities simultaneously.Â BenefitsMedical, dental, and vision insurance401KPTOCompetitive salary with opportunity for career growthEmployee stock option plansEmployee relocation assistance programÂ We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, age, status as a protected veteran, or status as a qualified individual with disability. EEO Employer/Vet/Disabled.Â Principals only; third party or agency submitted candidates will not be considered.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-13T18:34:04.000Z"
+    },
+    "company": {
+        "name": "Stealth Startup",
+        "link": "https://www.linkedin.com/company/stealth-startup-51"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 88800,
+        "max_value": 120000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Jose",
+        "region": "CA",
+        "postal_code": "95148",
+        "street_address": null,
+        "latitude": 37.334793,
+        "longitude": -121.888145
+    }
+}

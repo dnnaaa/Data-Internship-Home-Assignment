@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer (SRE)",
+        "industry": "Banking,Financial Services,Investment Banking",
+        "description": "Job Id: 21343509The deployment automation team at Citi manages a platform that orchestrates releases across a very large number of enterprise applications. This is a mature platform running without major issues and supporting modern deployment strategies like canary, blue-green, containers, microservices, public cloud alongside some more traditional distributed systems and databases.As we expand our continuous delivery product portfolio, we are looking for a SRE, hands-on engineer with experience running platforms as scale leveraging industry observability and automation platforms. Someone who brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with a cross-functional team to develop real-world solutions and positive user experiences at every interaction.Responsibilities:Configure and tune the observability platforms we use to streamline alerting and proactive issue identification.Automate manual activities as new features are added to the platform.Ensure the platform functional test suite remains complete and runs quickly.Expand performance and load testing capability to better simulate real production use.Perform root cause analysis owning actionable follow-ups.Measure and optimize system performance setting proper metrics and SLAs/SLOsMange risk and control activities across the platform and teamEssential Skills:3+ SRE and operational role running a large enterprise platform5+ years working with Linux5+ years scripting in Python/Shell/Bash/Ksh.3+ years of software development experience (Java on Linux)Extensive experience working with and customizing automation scripts â Ansible is currently used.Prior experiences with DevOps CI/CD tools like Git and Jenkins.Experience analyzing data to drive decisions.Competent with API, web services and microservices developmentStrong communication skills, both written and oralStrong architecture and designStrong analytical, algorithmic, and problem-solving skillsExcellent teamwork and proactive attitudeBS/MS degree in Computer Science or related technical fieldDesired Skills:Experience with Docker, Kubernetes, OpenshiftExperience with Sql/NoSql databases like Oracle, MongoDBJava Spring Framework development experienceExperience in Config Management tooling e.g. Ansible, Chef, Puppet or SaltStackExperience writing automation testsAbility to quickly learn new concepts and software-------------------------------------------------Job Family Group: Technology-------------------------------------------------Job Family:Systems & Engineering------------------------------------------------------Time Type:------------------------------------------------------Citi is an equal opportunity and affirmative action employer.Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.Citigroup Inc. and its subsidiaries (\"Citiâ) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.View the \"EEO is the Law\" poster. View the EEO is the Law Supplement.View the EEO Policy Statement.View the Pay Transparency Posting",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Citi",
+        "link": "https://www.linkedin.com/company/citi"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Irving",
+        "region": "TX",
+        "postal_code": "75063",
+        "street_address": null,
+        "latitude": 32.813877,
+        "longitude": -96.949936
+    }
+}

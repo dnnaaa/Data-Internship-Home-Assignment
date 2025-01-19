@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "100% REMOTE Site Reliability Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "A risk management software company is looking for a 100% remote Site Reliability Engineer and is offering up to $65/hour (contract-to-hire). This engineer is someone experienced with either Terraform, Cloudformation, or Ansible, and skilled with at least one scripting language (Powershell, Bash, Python, etc.). Someone who be comfortable joining a major Azure cloud migration project, and looking to expand their DevOps skill set (including hands-on Kubernetes/AKS builds) will fit in perfectly here!Required Skills & Experience3+ years of experienceProficient with at least one major public cloud (Azure, AWS, or GCP)Infrastructure-as-Code (Terraform or Cloudformation)Configuration Management (Ansible preferred)Scripting (Bash, Powershell, Python, etc.)Linux or Windows server support/troubleshootingDesired Skills & ExperienceUnderstanding of containerization/orchestration (Docker, Kubernetes, etc.)Azure or AWS certificationsBlue-Green deployment methodologiesMonitoring (Grafana, Nagios, Prometheus)On-prem to Cloud MigrationsWhat You Will Be DoingTech Breakdown70% on-premise30% AzureTerraformAKSDaily Responsibilities90% Hands On10% Management DutiesThe OfferCompetitive compensation: Up to $65/hour, (contract-to-hire)You Will Receive The Following BenefitsMedical Insurance & Health Savings Account (HSA)401(k)Paid Sick Time LeavePre-tax Commuter BenefitApplicants must be currently authorized to work in the United States on a full-time basis now and in the future.Posted By: Gavin Malloy",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-14T01:51:47.000Z"
+    },
+    "company": {
+        "name": "Motion Recruitment",
+        "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Chicago",
+        "region": "IL",
+        "postal_code": "60654",
+        "street_address": null,
+        "latitude": 41.88323,
+        "longitude": -87.6324
+    }
+}

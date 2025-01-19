@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Junior Machine Learning Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Youâ¦You are passionate about creative applications of AI to seemingly intractable problems. You love impacting the missions of the Department of Defense and Intelligence Community. You are driven to operationalize AI for close combat and small unit maneuver applications. You are not only a big thinker but also a doer, creator, and inventor.Usâ¦We were founded as a fresh alternative in the Government Consulting Community and are dedicated to the belief that results are a product of analytical thinking, agile design principles and that solutions are built in collaboration with, not for, our customers. This mantra drives us to succeed and act as true partners in advancing our clientâs missions.Program Missionâ¦To respond to an erosion in close combat capability relative to pacing threats identified in the 2018 National Defense Strategy - this group integrates next generation 24/7 situational awareness tools and high-resolution digital sensors to deliver a single platform that improves Soldier sensing, decision making, target acquisition, and target engagement. These capabilities will provide the increased lethality, mobility, and situational awareness necessary to achieve overmatch against our current and future adversaries in any domain.In support of these efforts the team is building a tactical Machine Learning Operations Platform, capable of managing the entire ML pipeline (data preparation, labeling, training, monitoring, and retraining). This initiative will address the following mission critical needs:Converting ML models and MLOps tools to containerized cloud native solutions.Package MLOps tools to serve as Platform as a Service on the US Army Tactical Cloud Package, Azure, and/or AWS, and/or Google Cloud Platform.Store multi-sensor, multi-model data in a cloud environment.Enable multi-sensor data movement and storage from tactical environment to cloud environment.Establish a cloud-based ML model training data library.Establish a cloud-based ML model library. Enable government employees and military personnel in all aspects of ML application cloud migrations.Creating Helm charts for the entirety of each application.Manage administrative actions customer accounts (establish accounts, tear down accounts, set up alerts for overuse of cloud compute instances). What Weâd Like To See...Minimum 3 years building and deploying at scale Machine Learning and Deep Learning models (graduate level education may be used in place of work experience) Minimum 3 years of developing machine learning methods, including familiarity with techniques in clustering, regression, optimization, recommender engines, artificial neural networksHands-on experience using deep learning and computer vision libraries such as PyTorch, TensorFlow, Caffe, MXNet, OpenCV, Keras, and scikitExperience with containerization of machine learning applications (AWS DL Containers, Docker, Singularity, Apache Mesos Openshift, Kubernetes)Experience with CUDA and NVIDIA GPU accelerated libraries for AI, ML, DLExperience with building analytics for geospatial time series dataDesired Skills...MS or PhD in computer science, data science, applied mathematics, or other physical science or engineering field TS/SCI ClearanceProven experience building AI or data science applications for the US Intelligence CommunityProven experience building AI or data science applications for close combat scenariosProven experience writing and building applications using a 12 factor application software architecture, micro services, and API-first methodologiesAbility to clearly communicate and provide positive recommendation of improvements to existing software applicationsYears of Experience: 3+ years of experience or moreEducation: Bachelor's degree in computer science, data science, physics, applied mathematics/statistics, operation research, or other physical science/engineering fieldLocation: Washington D.C. MetroClearance: U.S. Citizenship required, and ability to obtain DoD Secret Clearance",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Octo",
+        "link": "https://www.linkedin.com/company/octo-consulting-group"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fort Belvoir",
+        "region": "VA",
+        "postal_code": "22060",
+        "street_address": null,
+        "latitude": 38.71071,
+        "longitude": -77.14582
+    }
+}

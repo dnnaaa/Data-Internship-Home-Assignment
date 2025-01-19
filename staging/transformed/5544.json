@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist-1",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "If youâre passionate about building a better future for individuals, communities, and our countryâand youâre committed to working hard to play your part in building that futureâconsider WGU as the next step in your career.Driven by a mission to expand access to higher education through online, competency-based degree programs, WGU is also committed to being a great place to work for a diverse workforce of student-focused professionals. The university has pioneered a new way to learn in the 21st century, one that has received praise from academic, industry, government, and media leaders. Whatever your role, working for WGU gives you a part to play in helping students graduate, creating a better tomorrow for themselves and their families.Essential Functions And Responsibilities Identify new data sources that will improve the diversification of university data. Deep knowledge of various data sources (government, open source APIs, web scraping, etc.). Ability to write and process complex SQL queries. Experience extracting meaning data from social networking platforms. Basic understanding of regular expressions to extract data from semi-structured and unstructed data sources. Understanding of online web scraping to get data from sources that donât offer API data access. Create predictive models leveraging machine learning algorithms. Traditional statistical models (logistic regression, classification algorithms, tree models, etc.). Machine learning algorithms (neural networks, decision trees, association rules). Text mining and natural language processing. Experience with very large data sets. Background in setting up and maintaining big data processes. Experience with Hadoop, Hive, and HBase in the Amazon AWS environment. Efficient processing of large amounts of unstructured data.Knowledge, Skill And Abilities: R Programming Scripting language (python, java script) SQL Programming Business writing and communication#AA#D&IAs an equal opportunity employer, WGU recognizes that our strength lies in our people. We are committed to diversity.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T01:35:55.000Z"
+    },
+    "company": {
+        "name": "Western Governors University",
+        "link": "https://www.linkedin.com/company/western-governors-university"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Houston",
+        "region": "TX",
+        "postal_code": "77208",
+        "street_address": null,
+        "latitude": 29.760803,
+        "longitude": -95.36951
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Associate Software Engineer",
+        "industry": "Financial Services,Retail",
+        "description": "What You'll Do...Under the guidance of a senior, lead or principal software engineer, designs, develops and maintains software components and products that support H&R Block business applications.Uses tools, languages, coding standards and best practices to develop new product features and maintain year over year product functionality and enhancements. Creates and executes unit tests and addresses defects. Works closely with the QA, User Experience and other teams to ensure consistent understanding of requirements and approach.Designs, develops and maintains software components.Creates and maintains documentation of design approaches.Creates and maintains documentation on internal architecture of the system under the guidance of senior or lead software engineer.Participates in technical design and code reviews for all new enhancements and maintenance work delivered.Under the guidance of the lead engineer or senior software engineer, understand business and functional requirements and produces technical specifications and product requirements.Creates, maintains and executes unit test and alpha test plans.Maintains current knowledge on the latest technologies relevant to the role regarding algorithms, language, design methodology, third party development tools, application platforms, hardware compatibility and operating systems.What You'll Bring To The Team...Education:Bachelorâs degree in a related field or the equivalent through a combination of education and related work experience.Skills:2+ years .NET/.NET Core 1+ years Microservices / Entity Framework / Dapper 1+ years APIs / REST / SOAP/Graph QL 1+ years SQL / Hibernate / JPA It would be even better if you also had...Mentoring expAzure Cloud Auto Provisioning ExperienceTerraform ExperienceAzure Data FactorySQL Schema Design/Data ModelingMonitoring / Jaeger / Prometheus / Grafana / PagerDuty : 1 YearAzure Functions/Cloud Lambda ExperienceScrum / Kanban : 2 YearsJavascript/Client Side Technologies About H&R Block...Weâre here to live our purposeâto provide help and inspire confidence in our clients and communities everywhere. We take our work personally, because we know what it represents: Families and homes. Livelihoods and lives.Weâve been true to that purpose since brothers Henry and Richard Bloch founded our company in 1955. Since then, weâve grown to approximately 12,000 tax offices throughout the United States and around the world. When you join our team, youâll add to the momentum of a forward-thinking companyâone that defined an industry and is now leading its transformation.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T23:22:23.000Z"
+    },
+    "company": {
+        "name": "H&R Block",
+        "link": "https://www.linkedin.com/company/h&r-block"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 23,
+        "max_value": 36.6,
+        "unit": "HOUR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Kansas City",
+        "region": "MO",
+        "postal_code": "64113",
+        "street_address": null,
+        "latitude": 39.099792,
+        "longitude": -94.57856
+    }
+}

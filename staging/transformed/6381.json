@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer - SW Delivery",
+        "industry": "Consumer Electronics",
+        "description": "Summary Software Delivery Services & Infrastructure is passionate about ensuring engineers at Apple can do amazing things! We are looking for a hardworking application Site Reliability Engineer (SRE) to join us in this mission. Youâll play a meaningful role in the day-to-day operations of services relied upon across Apple. You'll partner with engineering teams to ensure they're successful. You'll look for opportunities to innovate all while driving for rock-solid operations. In this role your job responsibilities will include incidents reporting, planning, review and documentation, performing upgrades, regression, ad-hoc, compatibility testing, automation and monitoring for services on different platforms. Your work will impact millions of customers and developers worldwide. Key Qualifications A positive and respectful attitudeStrong understanding of SRE and SQA methodologies and practices.Fundamentals for large scale services and ability to fix, identify and triage issues.Strong analytical, problem solving and creative thinking skills.Experience in gray box testing, alerts and monitoring. Proven track record to write automation and knowledge of code-review systems.Superb collaboration skills with excellent written and verbal communication.Diligent to do the right thing and delight the customers with great experiences! Description As part of Software Delivery Services & Infrastructure SRE, you will be responsible for delivering reliable services at scale and driving projects to a successful outcome. Monitor SLOs, respond to incidents, solve issues, and ensure the service is up-to-date and secure. Collaborate with engineering teams to implement best practices and shape technical decisions. Focus on designing, deploying and maintaining critical internal services for software engineering. These services include large scale source control management, and PostgreSQL deployments. Also implement automation for services we support and contribute in a cross-functional team environment.To ensure your success, this job will provide you with:Hardworking and talented coworkers around the global that are ready to collaborate, mentor, and learn from youOwnership to drive meaningful improvements to the operational reliability of the services you manageOpportunities to contribute to the best practices used by SRE teams within Software Delivery Additional Requirements Prior experience as an SRE, software engineer, or system administratorProven ability to self-manage large projects and meet deadlinesProficiency in any language like Python/Java/Javascript. Role Number: 200245264",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-26T14:40:59.000Z"
+    },
+    "company": {
+        "name": "Apple",
+        "link": "https://www.linkedin.com/company/apple"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 82700,
+        "max_value": 209000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cupertino",
+        "region": "CA",
+        "postal_code": "95014",
+        "street_address": null,
+        "latitude": 37.319313,
+        "longitude": -122.02927
+    }
+}

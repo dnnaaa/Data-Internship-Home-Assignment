@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Big Data Engineer",
+        "industry": "",
+        "description": "Big Data EngineerAbout UsAt Wevision, we build services, data platform, AI and machine learning-based optimization engines toÂ Â automate the whole software development process. Our tenet is to build a strong tech team to deliver E2E solutions covering tech areas ranging from research, big data, micro services to data applications with front-end tools.Come join our team at Wevision, a fast-growing startup dedicated to building AI and machine learning-based optimization engines to automate software development and implementation.Responsibilities Design, architect, develop, scale, and improve our data platform and its servicesImplement large-scale high-throughput solutions using on-premise and cloud technologies such as Kafka, Spark on Hadoop/Hive/S3, AWS Lambda, Terraform, Kubernetes, etc.Â Participate in novel solutions to challenging technical problems, introduce new technologies to our data platform and its servicesÂ Diagnose and debug issues in development, staging and production environmentsCollaborate with product/program managers, software developers and analysts in an open, creative environmentÂ Below is the expected technical skills, experiences etc:Strong programming (Scala/Java) and shell scripting skillsExperience with batch processing technologies like Apache SparkAbility to explore and analyze datasets using SQLExperience in Software Development Lifecycle and its activitiesÂ Some Nice-to-haves:Experience with real-time processing technologies like Apache Spark/FlinkExperience with and/or knowledge of CI/CD pipelinesJob type: Full time, Contact",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-10-05T17:32:13.000Z"
+    },
+    "company": {
+        "name": "WeVision LLC",
+        "link": "https://www.linkedin.com/company/wevision-llc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "California",
+        "region": "United States",
+        "postal_code": "93266",
+        "street_address": null,
+        "latitude": 37.254673,
+        "longitude": -119.61728
+    }
+}

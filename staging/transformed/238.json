@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning/Data Engineer",
+        "industry": "Computer Software",
+        "description": "The Role:Â The machine learning engineer is expected to optimize the section on our commercial application machine learning pipelines. You will be evaluating existing machine learning (ML) processes, performing statistical analysis to resolve data set problems, and enhancing the accuracy of our commercial software's predictive automation capabilities.To ensure success as a machine learning engineer, you should demonstrate solid data science knowledge and experience in a related ML role. The machine learning engineer will be someone whose expertise translates into the enhanced performance of predictive automation software.Machine Learning Engineer Responsibilities:Consult with product managers to determine and refine machine learning objectives and product requirements.Design sections of the machine learning pipeline and self-running feature engineering to automate predictive models.Transform data science teams prototypes and apply appropriate ML algorithms and tools to create near-level production code to be handed off to development for routinization.Work with the data science team to ensure that algorithms generate accurate product results.Solve complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks.Develop ML algorithms to analyze huge volumes of historical data to assist the product make predictions on the data sets. Data sets are customer and non-customer data.Run tests, performing statistical analysis, and interpreting test results.Document machine learning processes.Keep abreast of developments in machine learning.Machine Learning Engineer Requirements:Bachelor's degree in computer science, data science, mathematics, or a related field.Masterâs degree in computational linguistics, data analytics, or similar will be advantageous.At least two years' experience as a machine learning engineer.Advanced proficiency with Python code writing.Extensive knowledge of ML frameworks, libraries, data structures, data modeling, and software architecture.In-depth knowledge of mathematics, statistics, and algorithms.Superb analytical and problem-solving abilities.Great communication and collaboration skills.Excellent time management and organizational abilities.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-22T20:21:21.000Z"
+    },
+    "company": {
+        "name": "Symphony AyasdiAI",
+        "link": "https://www.linkedin.com/company/ayasdi"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DevOps Engineer - REMOTE",
+        "industry": "Internet",
+        "description": "Company DescriptionMedable's mission is to get effective therapies to patients faster. We provide an end-to-end, cloud-based platform with a flexible suite of tools that allows patients, healthcare providers, clinical research organizations and pharmaceutical sponsors to work together as a team in clinical trials. Our solutions enable more efficient clinical research, more effective healthcare delivery, and more accurate precision and predictive medicine. Our target audiences are patients, providers, principal investigators, and innovators who work in healthcare and life sciences.Our vision is to accelerate the path to human discovery and medical cures. We are passionate about driving innovation and empowering consumers. We are proactive, collaborative, self-motivated learners, committed, bold and tenacious. We are dedicated to making this world a healthier place.Job DescriptionDevelop a roadmap to the Engineering team for the Application and Infrastructure monitoring and availabilityIdentify innovative ways to research logs to uncover and report defects as well as to validate the ApplicationIncorporate best practices for the High Availability and Reliability of the Application & InfrastructureMeet the compliance requirements for the Software development process Continuously improve the monitoring process to meet Service level ObjectivesParticipate and optimize the On-call rotation processImplement tools and Develop Automation scripts for the smooth CI/CD of the software releasesIdentify critical metrics to monitor and alert on the issues with software ApplicationsUse Tools to Apply data modeling and predictive analysis to anticipate issuesWork closely with the teams to resolve production issues and perform root cause analysis of the incidentsDocument solutions, SRE architectural patterns, and best practicesOther duties as assignedQualifications5+ years of experience in managing SRE operations in a complex Production environmentExperience with Automation using Python/Go programming or equivalentExperience with YAML, JSON, bash shell scripting, and Linux command-line utilitiesExperience in working with any of the configuration management tools: Ansible, Chef, Puppet, SaltExperience working with CI/CD tools such as Jenkins, Gitlab or equivalent and Artifactory, Fastlane for both web and Mobile Platforms Knowledge of working with Infrastructure-as-Code tools such as Terraform, CloudFormation, Google Cloud Deployment ManagerExperience working with Docker and Kubernetes monitoring and debuggingExperience with Monitoring solutions such as Datadog, Prometheus, Grafana or equivalent, etc.Experience working with Log management using ToolsExperience with implementing Security Best practicesSolid troubleshooting experience in a large scale production environmentExpertise in AWS and GCP cloud Infrastructure and the related services Additional InformationAll your information will be kept confidential according to EEO guidelines.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-27T04:01:23.000Z"
+    },
+    "company": {
+        "name": "Medable, Inc",
+        "link": "https://www.linkedin.com/company/medable-inc-"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Palo Alto",
+        "region": "CA",
+        "postal_code": "94310",
+        "street_address": null,
+        "latitude": 37.445103,
+        "longitude": -122.16036
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer (Junior)",
+        "industry": "Computer Software,Information Technology and Services,Outsourcing/Offshoring",
+        "description": "Update: Moving forward and not limited to 2021, Nexient will be supporting fully remote and hybrid work models for all team members***Weâre happy to announce that as part of our efforts to embrace, adapt, and provide more flexibility to our team membersâNexient will be adopting a new set of work models. Whether itâs fully remote, hybrid, or full-time at the officeâyou now have the option to choose the work arrangement that best suits your needs and preferences. You are not locked into any selection and can make changes at any point if needed.Donât only dream about whatâs next â come build it with us!Nexient specializes in bringing a âProduct Mindsetâ to our work, using small, nimble teams, Agile thinking and other techniques from product development to build great custom software people love to use.And as Americaâs leading 100% US, 100% Agile software services partner, weâre building it here instead of sending tech jobs offshore.People are noticing.Our clients include some of Americaâs favorite brands in retail, healthcare, financial services and more â but also some very cool product companies you may not have heard of yet. Weâre recognized as a Gartner Cool Vendor, HfS Hot Vendor and the only 100% US tech company in the Worldâs Top 100 Outsourcers. You might have read about us in The New York Times.Nexient CombinesSilicon Valley innovation (through our Bay Area innovation hub, and network of startups and emerging technology partners)Scalable, Midwest delivery (with 65+ Agile teams in high talent cities like Ann Arbor, Michigan)Onsite collaboration (with product managers and other key roles working face-to-face with client teams around the country)Come build with us!Required Technical SkillsFamiliarity with machine learning fundamentals Aware of optimization techniques and differences (gradient decent variants, hyperparameter tuning, regularization) Some experience with different problems and domains, ideally specialized in at least one (supervised, unsupervised, generative, control/RL, anomaly detection, timeseries, etc.) Familiarity with a couple of traditional ML models (k-means, KNN, decision trees, SVM, Bayesian/graphical models, Gaussian process, etc.) Basic understanding of deep learning fundamentals (CNN, RNN, attention/memory, Autoregressive) and ideally some applications of extensions (Transformer, LSTM, ResNet, etc.)  Experience coding with popular frameworks Solid with Python (basic data structures, coding patterns) along with common data, math and visualization libraries Able to work in different coding environments (local, notebooks, containers) and familiar with software engineering workflows (testing, code management/Git) Loading and saving large data sets and models efficiently Nice To HaveStructuring code to make it modular and deployable (logging and metrics, adhering to common deployment interfaces/hooks) Ability to follow papers/theory and adapt associated models NLP specialization (NLU, NLI, QA, BERT, GPT, T5, XLNet, etc.) MLOps and cloud environment (resource configuration, optimization) Data engineering (large scale data processing in batch or stream, security and configuration best practices)Benefits & PerksCompany sponsored health, dental, vision insurance and flexible spending account (FSA) for employees and their families including domestic partnersPaid Vacation Time and company holidays401K planLunch & LearnPassionate, collaborative and awesome co-workersWorld class training and career mentorshipNexient is an inclusive equal opportunity employer. At Nexient, your uniqueness makes us better. Your uniqueness is why you are valued, you are heard, you add to our culture, and you belong. Diversity & Inclusion is hard coded into our DNA, and at the core of everything we do. Together, not separately, we strive to become even more diverse to help fuel our innovation and connect us closer with the clients and communities we serve.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-19T21:25:33.000Z"
+    },
+    "company": {
+        "name": "Nexient",
+        "link": "https://www.linkedin.com/company/nexient"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "Job title : SRELocation : NYCFull Time Position Â Required Qualifications:Â·Â Â Â Â Â Â Â Â Â 4-5 years of work experience year work experience in a DevOps or Site Reliability Engineer role.Â·Â Â Â Â Â Â Â Â Â Good working knowledge in production/application supportÂ·Â Â Â Â Â Â Â Â Â Good with OOP concepts and Python programming/scriptingÂ·Â Â Â Â Â Â Â Â Â Strong Computer Science fundamentals in Data Structures, Algorithms, Complexity Analysis, Object-Oriented Design and Designing Large Scale Data-Intensive Applications.Â·Â Â Â Â Â Â Â Â Â 4+ years industry experience in Expert Knowledge in Linux, Python, Shell,Â JavaScript, MongoDB, Elasticsearch, RedisÂ·Â Â Â Â Â Â Â Â Â Comfortable multi-tasking, managing multiple stakeholders and working as part of a teamÂ Preferred Qualifications:Â·Â Â Â Â Â Â Â Â Â Experience in ELK Stack (Elasticsearch, Logstash, Kibana) or Prometheus + GrafanaÂ·Â Â Â Â Â Â Â Â Â Experience with continuous deployment/delivery practicesÂ·Â Â Â Â Â Â Â Â Â AWS Certifications such as Solution Architect, DevOps EngineerÂ·Â Â Â Â Â Â Â Â Â Experience with Container technologies like Docker, KubernetesÂ·Â Â Â Â Â Â Â Â Â Experience with cloud computing systemsÂ·Â Â Â Â Â Â Â Â Â Networking including TCP, HTTP, DNS, SSL certificatesÂ·Â Â Â Â Â Â Â Â Â Knowledge of Slang/SecDB is a plusÂ ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T19:53:50.000Z"
+    },
+    "company": {
+        "name": "Zentek  Infosoft ",
+        "link": "https://www.linkedin.com/company/zentekinfosoft"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "United States",
+        "postal_code": "13856",
+        "street_address": null,
+        "latitude": 42.93923,
+        "longitude": -75.62005
+    }
+}

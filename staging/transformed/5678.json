@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "DescriptionOur client is seeking a Site Reliability Engineer to join one of the fastest-growing and most innovative startups in Atlanta. Youâll work collaboratively with software engineering to deploy and operate our systems, help automate and streamline our operations and processes, build and maintain tools for deployment, monitoring and operations, and troubleshoot and resolve issues in our dev, test and production environments.This job can stuff your resume with the latest buzzwords like big data, machine learning, agile development and cookie pool, but thatâs the least important thing about it. This job is hard and, though you may not know it yet, itâs your dream job.Top Skills Required:Â 1+ years ofÂ AWS Administration (AWS Certified Cloud Practitioner preferred)1+ years of codingÂ and scripting (we use Ruby and most of its key frameworks)1+ year ofÂ Linux AdministrationDatabase experience (MongoDB, PostgreSQL, MySQL, Redis)Experience with ticketing systems such as Jira or ZenDeskExperience scaling a system (clustering, memory leak, bottleneck identification, etc.)Strong interpersonal and collaboration skillsAbility to articulate, defend and evolve an ideaNice to Have:Build/deployment process management (we use GitHub)Facebook, Twitter, Pinterest, Instagram, or other 3rd Party API experienceExperience with large-scale email deliverability, including SPF, DKIM, and DMARCOpen source contributionsCulture:Casual, start-up environment that promotes personal and professional growthBenefits:Bonus potentialMedical/Dental/Vision plansPaid parking/MARTA pass or ability to be 100% remoteInvestors and co-founders with a proven track-record of successCasual, start-up environment that promotes personal and professional growthLocation: 100% remote or ability to go into Atlanta office",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T14:41:50.000Z"
+    },
+    "company": {
+        "name": "Elev8 Hire Solutions",
+        "link": "https://www.linkedin.com/company/elev8hire"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

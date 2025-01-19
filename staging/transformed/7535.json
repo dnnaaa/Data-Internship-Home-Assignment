@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist - Consumer Panels",
+        "industry": "Computer Software",
+        "description": "1010data ValuesIntegrity: Doing the right things for the right reasonsAgility: Adapting and thriving in a dynamic environmentTeamwork: Combining our strengths to do amazing thingsPassion: Channeling enthusiasm to drive excellenceCreativity: Unleashing curiosity to defy the norm About The Role1010data is seeking a Data Scientist â Consumer Panels with strong skills in data analysis to create large-scale analytical solutions (data products and applications) to client-driven business problems.â¯Qualified candidates will have several years of experience working with consumer panel data such as clickstream, receipt/e-receipt or credit card transaction panels. At the core of 1010dataâs technology stack is a fast parallel processing database that powers all of our product offerings. Your work will involve using this core capability to analyze billions of rows of consumer panel data to solve business problems. You will apply your expertise working with consumer panel data to build accurate projections and derive insights from combining multiple consumer panels from various collection sources. You will also work closely with the data engineering and operations teams to prototype and support high-performance data pipelines and the corresponding operational processes. Once deployed, you will be responsible for supporting ongoing data quality and stability of existing products and supporting client inquiries about the data. You are curious and passionate about using your analytical skills in answering complex questions from real world datasets. You are adept at working in line with business goals and strive to deliver high quality products to further our growth. You will primarily use the 1010data Macro Language to interact with our core database. You will also use Airflow, Scala, Spark and Python to varying degrees. You will be part of a diverse team with rich backgrounds in physics, computer science, statistics, finance and engineering collaborating to build data products using massive data sets. You will need to develop expertise in 1010dataâs products and be able to propose novel solutions to challenging problems. You will be based in the US and are comfortable working remotely with the Data Science, Data Quality, Data Engineering and account management teams.This role is not sponsorableWhat You Will Take OnDevelop and maintain panel projection methodologies on multiple consumer panels in support of product offerings in the Retail, CPG and Equities industriesBuild and enhance methodologies and analytical insights derived from combining panels across clickstream, e-receipt and credit card collection channelsBecome an expert user of 1010data Macro Language to analyze and process massive datasetsUse your understanding of datasets and business problems to research analytical solutions to further product capabilitiesUse 1010data Macro Language, Spark, Scala, Python and Airflow to design, build and maintain data pipelinesDevelop systems and processes to across the product lifecycle assessing source data and transforming raw inputs into knowledge and insightsCollaborate with product management, data engineering and data quality teams in producing high quality productsConduct ad-hoc data analyses to resolve production and client data issuesFind and implement optimizations, improvements and design modifications to data engineering challengesDevelop quick proof-of-concept analyses and audit decks on new source dataParticipate in agile development sprints and share your progress updates regularly What You Already Have3-7 years professional experience in data analysis or practical experience buildingâ¯customer facing analytical products3+ years professional experience working with consumer panel data including demonstrated experience with projection methodologiesDatabase experience (understanding of database structures and query languages such as SQL)Demonstrated experience with scripting languages and statistical software (R, SAS, SPSS, MATLAB) and comfortable learning new tools as neededSolid understanding of statistical conceptsBS/MS in a highly analytical discipline (Computer Science /Physics /Mathematics /Econometrics) or equivalentExperience deriving insights from multiple types of consumer panel sources such as clickstream, e-receipt and credit card transaction dataExperience working with parallel processing frameworks like SparkExperience constructing data pipelines using AirflowBackground in vector/matrix arithmetic is a plusExperience with list/vector-based languagesCommunicationâ¯and collaborationHave strong, positive interpersonal skillsAble to communicate clearly, consider options presented by others and reach an informed, balanced technical opinionCreate clear, concise memos, summaries, design documentation, and presentations About 1010dataFor more than 20 years, 1010data has helped financial, retail and consumer goods customers monitor shifts in consumer demand and market conditions and rapidly respond with highly targeted strategies. The 1010data Insights Platform combines market intelligence, data management, granular enterprise analytics, and collaboration capabilities to empower better business outcomes. More than 900 of the worldâs foremost companiesâ partner with 1010data to power smarter decisions.You can find this on the Company page of 1010data at https://1010data.com/company/We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:25:10.000Z"
+    },
+    "company": {
+        "name": "1010data",
+        "link": "https://www.linkedin.com/company/1010data"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

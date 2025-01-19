@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Food Production",
+        "description": "This is an exempt level position  Position Summary:  Weâre looking for a Machine Learning Engineer to join our Emerging Technology team and work with our team of data scientists to automate theâ¯training and evaluationâ¯ofâ¯models within an Azure ecosystem.â¯This position will partner with many business, product and science teams, so written and in-person communication skills are extremely important. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for building complete engineering solutions supporting the latest advances in artificial technology. We have many different functions in the team, and this role requires a broad range of skills such as machine learning, data, optimization, and platform/infrastructure engineering.  Key Responsibilities:  Study and transform data science prototypes  Design machine learning systems  Research and implement appropriate ML algorithms and tools  Design, build and run services at high scale and availability  Run machine learning tests and experiments  Train and retrain systems when necessary  Extend existing ML libraries and frameworks  Keep abreast of developments in the field  Demonstrates strong business acumen and understanding of manufacturing and finance concepts  Adept at quickly acquiring software skills  Evaluate new AI & software tools through POCs and propose solutions for implementation  Document guides, systems design, reference architectures and implementations  Job Requirements:  5+ years of professional industry experience as a ML Engineer, Data Scientist, or Software Engineer with a focus on building production data/ML products  Demonstrated success across the entire ML lifecycle including feature engineering, model development, model deployment, & model maintenance  Demonstratable knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks  Demonstrated good working knowledge of cloud computing  Experience designing, developing and shipping web based frontend clients  Proficiency in web technology stacks, UI patterns, React, JavaScript, Typescript  Good problem solving, debugging, collaboration and communication skills  Experience optimizing experiences for performance and accessibility  Expertise in middle tier/backend technologies such as .NET, relational and/or non-relational (NoSQL) databases, web services and RESTful concepts  Understanding of data structures, data modeling and software architecture  Experience with very large-scale data processing/analysis (a.k.a. Big Data)  Experience with Azure cloud services  Ability to work independently to actively identify and drive solutions for evolving business problems  Deep knowledge of math, probability, statistics and algorithms  Ability to write robust code in Python and R  Strong business aptitude, the ability to rapidly learn new problem domains, and become conversant in the domain with subject matter experts  A drive to learn and master new technologies and techniques  Creative, proactive, bold and out-of-box thinking Educational Requirements MS or PhD in Engineering, Statistics, Applied Mathematics, Computer Science, or other technical discipline  Relocation assistance may be available with this position.This position offers a complete benefit package, including 401K/ESOP, pension, health, life, vision, and dental insurance.ADM requires the successful completion of a pre-employment drug screen and a background check.ADM is an EOE for minorities, females, protected veterans and individuals with a disability.About ADMAt ADM, we unlock the power of nature to provide access to nutrition worldwide. With industry-advancing innovations, a complete portfolio of ingredients and solutions to meet any taste, and a commitment to sustainability, we give customers an edge in solving the nutritional challenges of today and tomorrow. Weâre a global leader in human and animal nutrition and the worldâs premier agricultural origination and processing company. Our breadth, depth, insights, facilities and logistical expertise give us unparalleled capabilities to meet needs for food, beverages, health and wellness, and more. From the seed of the idea to the outcome of the solution, we enrich the quality of life the world over. Learn more at www.adm.com.EEOADM is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability and veterans status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-09T00:00:00.000Z"
+    },
+    "company": {
+        "name": "ADM",
+        "link": "https://www.linkedin.com/company/adm"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Erlanger",
+        "region": "KY",
+        "postal_code": "41018",
+        "street_address": null,
+        "latitude": 39.016716,
+        "longitude": -84.6005
+    }
+}

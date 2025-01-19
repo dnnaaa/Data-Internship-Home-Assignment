@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer III, iOS (R&D)",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "ACVâs mission is to build and enable the most trusted and efficient digital marketplaces for buying and selling used vehicles with transparency and comprehensive data that was previously unimaginable. We are powered by a combination of the worldâs best people and the industryâs best technology. At ACV, we are driven by an entrepreneurial spirit and rewarded with a work environment that enables each Teammate to impact the companyâ from day one. ACVâs network of brands includes ACV Auctions, ACV Transportation and ACV Capital within its Marketplace Products as well as True360 and Data Services.What Are We Looking ForACV Auctions is seeking an iOS Engineer that is responsible for the development and maintenance of our iOS applications for a diverse and vast number of devices.What Youâll Be Doing Design, develop, and maintain code for our innovative iOS applications. Collaborate with software and production engineers to design scalable services, plan feature roll-out, and ensure high reliability and performance of our products. Conduct code reviews, develop high-quality documentation, and build robust test suites for your products. Design and build complex systems that can scale rapidly with little maintenance. Design and implement effective service/product interfaces. Develop roadmaps and prioritizes technical debt to effectively plan features and work. Able to lead and successfully complete software projects without major guidance from a manager/lead. Lead in team discussions to define requirements on new and current products, as needed. Provide technical support for many applications within the technology portfolio. Respond to and troubleshoot complex problems quickly, efficiently, and effectively. Handle multiple competing priorities in an agile, fast-paced environment. What You Will Need BS degree in Computer Science or a related technical discipline or equivalent practical experience. Strong programming skills (OOP) and understanding of major data structures (arrays, dictionaries, strings, etc.) and algorithms. Understanding of common design patterns such as dependency injection or MVVM. Several years of experience developing for iOS using Swift with common frameworks such as UIKit. A deep knowledge in day-day tools and how they work including Xcode and XCTest. Highly proficient in version control systems including trunk based development, multiple release planning, cherry picking, and rebase. Self-sufficient debugger who can identify and solve complex problems in code. Experience working with continuous integration and build tools Experience with SwiftUI/Combine or Objective C are a plus. What We Offer Comprehensive benefits offerings for benefits eligible Teammates. Unique culture that truly values each and every Teammate. Career development and Future Growth Opportunities. At ACV, we are committed to an inclusive culture in which every individual is welcomed and empowered to celebrate their true selves. We achieve this by fostering a work environment of acceptance and understanding that is free from discrimination. ACV is committed to being an equal opportunity employer regardless of sex, race, creed, color, religion, marital status, national origin, age, pregnancy, sexual orientation, gender, gender identity, gender expression, genetic information, disability, military status, status as a veteran, or any other protected characteristic We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-30T05:07:20.000Z"
+    },
+    "company": {
+        "name": "ACV Auctions",
+        "link": "https://www.linkedin.com/company/acv-auctions"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Buffalo",
+        "region": "NY",
+        "postal_code": "14218",
+        "street_address": null,
+        "latitude": 42.88769,
+        "longitude": -78.87937
+    }
+}

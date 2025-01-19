@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Staff Site Reliability Engineer - McD Tech Labs",
+        "industry": "Restaurants",
+        "description": "We are currently looking for skilled Site Reliability Engineers to develop, maintain, and support container orchestration (kubernetes), distributed ML workloads, network services, storage layers, and configuration of a petabyte scale AWS storage and Kafka stream stack.Responsibilities:Develop and maintain high performance k8s clusters across multiple regionsDevelop and maintain telemetry infrastructure and visualization for metrics, logs, and distributed tracing.Develop and maintain the operational configuration of a petabyte scale storage and stream analysis serviceWork with Audio and Speech AI Engineers to accelerate development and deployment of heterogeneous analysis and distributed training pipelinesParticipate in the definition and management of SLIs, SLOs and error budgets for infrastructure and production services.Design and implement infrastructure-as-code pipelinesQualificationsRequired Qualifications:5+ Years LinuxÂ experienceÂ configuring, supporting, and optimizingÂ 4+ Years AWSÂ experienceÂ designing, implementing, and support cloud-basedÂ infrastructureÂ 2+Â YearsÂ experienceÂ architecting, deploying, and supportingÂ kubernetesÂ in cloud environments.Â 3+Â yearsÂ experienceÂ designing and supporting distributed systems.Â ExperienceÂ writing production codeÂ in one of more languages such as Python, Java, GoÂ in a microservices environment.Â Desired Qualifications:Familiarity running distributed ML workloadsÂ in cluster orchestrated environmentsÂ Experience building and supporting telemetry infrastructureÂ (Grafana, Prometheus, and similar tools)Â Experience designing and implementing infrastructure as code pipelinesÂ 2+ YearsÂ PubSubÂ Experience (Kafka, SQS, SNS, MQTT)Â Plus for experienceÂ implementingÂ best security practices into infrastructureÂ Additional InformationMcDonaldâs is committed to providing qualified individuals with disabilities reasonable accommodations to perform the essential functions of their jobs. Additionally, if you (or another applicant of whom you are aware) require assistance accessing or reading this job posting or otherwise seek assistance in the application process, please contact recruiting.supportteam@us.mcd.comMcDonaldâs provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to sex, sex stereotyping, pregnancy (including pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), race, color, religion, ancestry or national origin, age, disability status, medical condition, marital status, sexual orientation, gender, gender identity, gender expression, transgender status, protected military or veteran status, citizenship status, genetic information, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.Nothing in this job posting or description should be construed as an offer or guarantee of employment.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T18:26:14.000Z"
+    },
+    "company": {
+        "name": "McDonald's",
+        "link": "https://www.linkedin.com/company/mcdonald%27s-corporation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Mountain View",
+        "region": "CA",
+        "postal_code": "94040",
+        "street_address": null,
+        "latitude": 37.39008,
+        "longitude": -122.08139
+    }
+}

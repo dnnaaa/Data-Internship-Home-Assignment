@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer In Test",
+        "industry": "",
+        "description": "The location for this job isAustin, TX (Remote until Covid)Interview roundsHackerrank and 2 Rounds of InterviewÂ Need strong Testng, Selenium, Java Coding experience and AppiumMust have:â¢Â  Â  Â  Â Bachelors or Masters in CS or related degrees.â¢Â  Â  Â  Â Minimum of 6+ years with Master or 8+ years with Bachelors of hand on experience in software development in test automation, concurrent coding skills in Java.â¢Â  Â  Â  Â Test automation experience using open source technologies and/or in-house frameworks -- MUSTâ¢Â  Â  Â  Â Experience in API testing (SOAP and MicroServices).â¢Â  Â  Â  Â Experience in UI and Mobile Testing.â¢Â  Â  Â  Â Experience with test frameworks like Junit, TestNG.â¢Â  Â  Â  Â Familiarity with BDD and/or Cucumberâ¢Â  Â  Â  Â Experience in Continuous Integration and Continuous Deployment.â¢Â  Â  Â  Â Experience with code versioning tools (Git, SVN)â¢Â  Â  Â  Â Excellent knowledge SQL and ability to write complex queries to validate.â¢Â  Â  Â  Â Following Scrum/Agile development methodology.â¢Â  Â  Â  Â Strong application debugging skills.â¢Â  Â  Â  Â Experience with Jira or similar Agile process tools.â¢Â  Â  Â  Â Experience with using defect management and test management tools.â¢Â  Â  Â  Â Ability to thrive in a fast-paced environment where resourcefulness, determination, and strong problem-solving skills are necessary for success.â¢Â  Â  Â  Â Positive attitude and the ability to complete assigned objectives with minimal supervision.â¢Â  Â  Â  Â Excellent communications skills both written and verbal.Â Â Nice-to-have:â¢Â  Â  Â  Â Javascript and NodeJS, server-side experience is preferred.â¢Â  Â  Â  Â Experience with shell scriptingâ¢Â  Â  Â  Â Experience with Security Testing and/or ADA testing",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-14T17:01:00.000Z"
+    },
+    "company": {
+        "name": "Collabupp Corporation",
+        "link": "https://www.linkedin.com/company/collabupp-corporation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

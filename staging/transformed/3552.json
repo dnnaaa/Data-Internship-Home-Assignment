@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DevOps / Site Reliability Engineer ",
+        "industry": "Information Technology and Services",
+        "description": "DevOps and Site Reliability Engineer (SRE) - Oracle SAAS Infrastructure Services TeamU.S. Citizenship or U.S. Lawful Permanent Resident Status Required  due to supporting Federal Government customersOracle is a leader in enterprise cloud applications powering many of the worldâs largest organizations, and weâre in the process of revolutionizing our application user experiences withÂ ourÂ new Redwood user interface components and enterprise-scale backend services.Â We are on a quest toÂ provide the most productive platform with extremelyÂ fast, secure, and extensible REST services to back these user experiences.Â Our goal is to create a universal services and transaction servicesÂ that is metadata-oriented and is simple to uptake, test, debug, and monitor.Â These services must be highly scalable andÂ dynamic to meet the varying work loads for our customers.Â We have many large scale customers who are ready to work with you on this fabulous journey.Â Weâre looking for talented DevOps/SRE engineers to build, deploy and monitor the service on Oracle Cloud. IfÂ youÂ haveÂ experience as a DevOps engineer supporting CI/CD, rollout, patching, monitoring enterprise scalable micro services using cloud nativeÂ infrastructure please contact us right away.What You'll DoÂ Bringing in the right âDevOpsâ mindset among the teams developing software, conductingÂ training on tools and processes that makes software development and testing easier.Participate in the entire software Lifecycle â development, testing, CI and production operationsAutomate release and deployment process from development to productionÂ rollout following CI/CD processÂ using standard DevOps toolsetDefine, enforce and maintain metrics and quality gates for build promotionÂ processesTake ownership of maintaining and managing the environments. Maintain separation between Dev, UAT,Â stage and production environments.Monitor and maintain the production service and infrastructureParticipate in on-call/Pagerduty for the serviceWork with customers and ISVs and service developers to troubleshoot issues in production systems.Mentor new employees and software developers to increase quality of projectsRequired Knowledge and SkillsB.S., M.S. in Computer Science, Electrical Engineering withÂ 2-3 years of professionalÂ experience inÂ CloudÂ Infrastructure and Cloud SolutionsProfessional work experience working on complex applications/services with DevOps Experience.Strong knowledge of Linux/UNIX Shell scripting, package management etcHands on experience working with standard DevOps tools Kubernetes, Docker, Istio, Grafana, Helm Charts, TerraformExperience withÂ BuildÂ AutomationÂ and MonitoringÂ tools like Maven, ANT, Gradle, Jenkins bug tracking tools like JIRABuild Tools like Maven, ANT, Gradle,.Source control tools like Git, GitHub, SVN or equivalentNetwork configuration and managementKnowledge of middleware components like Weblogic or TomcatKnowledge of Python or Perl is desirable.Knowledge of Monitoring technologies (Enterprise Manager, Thousand Eyes, Prometheus) will be an advantage.Teamwork is key here.Â We are looking for developers who believe in the value of cross team collaboration.Excellent oral and written communication skills.Self motivated to continuously learn and improve.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-11T19:00:52.000Z"
+    },
+    "company": {
+        "name": "Oracle",
+        "link": "https://www.linkedin.com/company/oracle"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Seattle Area",
+        "region": null,
+        "postal_code": "98109",
+        "street_address": null,
+        "latitude": 47.591396,
+        "longitude": -122.33279
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Site Reliability Engineers (SREs) are responsible for keeping all Elsevier production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our environments and the Elsevier's production codebases. SREs can specialize in systems, whether it be networking, the Linux kernel, or some more specific interest in containers, observability, scaling, algorithms, or distributed systems.Elsevier has a complex portfolio of products and services. We have a cloud native, microservices andÂ container platform strategyÂ which seeks to improve how we deliver quality software to customers at a higher pace. The experiences and expertise that our embedded and consulting SREs have can assist other engineering groups within the company, as well as to Elsevier customers running our software.The SRE model is a specific implementation of DevOps, which has a more specific focus on innovation, application reliability and performance at scale. Fundamental to SRE is a software engineering approach to IT operations. SRE teams use software to manage systems, solve problems, and automate operations tasks.As an SRE you will:Partner with Product OwnersÂ to agree availability targets that our customers value the most.Document every actionÂ so your findings turn into repeatable actionsâand then into automation.Make monitoring and alerting alert on symptoms and not on outages.Debug production issues across services and all levels of the stack including real user experience issues.Be on a standby rotation to respond to availability incidents and provide support for Product teams with customer incidents.Learn from your time on-callÂ to prevent incidents from ever happening.Run our Infrastructure Platform with Terraform and Kubernetes.Â Use the Infrastructure PlatformÂ to run your productÂ as a first resort and make suggestions to improve the platform as much as possible.Improve the deployment process to make it as boring as possible.Plan the growth of your product's infrastructure.Design, build and maintain paved road modules that allows products to scale.You may be a fit to this role if you have some of these inclinationsShare ourÂ operating principles and work in accordance with those principles.You see challenges from a business and customer perspective.You view problems as an opportunity to improve.That you are aÂ systems thinkerÂ - with a deep understanding ofÂ the whole and the parts, how products interconnect and feedback loops.Involvement in hiring process - reviewing questionnaires, involved in interviews, qualifying candidatesAccountability, self awareness, handling conflict in the team and receiving feedbackMaintaining good relationships with other engineering teams in Elsevier that help improve their products",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T13:40:50.000Z"
+    },
+    "company": {
+        "name": "Elsevier",
+        "link": "https://nl.linkedin.com/company/elsevier"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

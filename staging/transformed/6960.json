@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "JOB DESCRIPTIONDoron Precision Systems, Inc. is a world leader in driving simulation systems and now has an opening for a full-time Software Engineer in Binghamton, New York.REQUIREMENTSBachelor's degree in Engineering or Computer Science is required.2-4 years related experience.Design and programming experience with C, C++ (OOP), Microsoft Visual Studio.Software development experience both in a team environment as well as working independently.Significant experience with Windows UI and application development.Experience with Interface Control Requirements and Documentation.Background in real-time simulation and/or game development.Some minimal travel may be required.PREFERREDWorking knowledge of vehicle dynamics.Experience interfacing to I/O hardware and real-time control loops.Experience developing and working with distributed network applicationsJOB DUTIES AND RESPONSIBILITIESResponsible for the research, design and writing of software for Company Products.Supports/installs software applications/systems.Tests new and existing software for faults and corrects any deficiencies.Modifies existing programs by analyzing and identifying areas for modification and improvement.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-01T14:23:24.000Z"
+    },
+    "company": {
+        "name": "Doron Precision Systems Inc.",
+        "link": "https://www.linkedin.com/company/doron-precision-systems-inc-"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Binghamton",
+        "region": "NY",
+        "postal_code": "13904",
+        "street_address": null,
+        "latitude": 42.125893,
+        "longitude": -75.845924
+    }
+}

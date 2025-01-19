@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Telecommunications",
+        "description": "ABOUT THE ROLEWe are looking for our next extraordinaryÂ Site Reliability Engineer to level up ourÂ TechOps Team!As a SRE, you have the mind of a software engineer and the soul of a systems administrator. You are the guardian angel of our systems infrastructure. You have no trouble communicating your take on problems that arise. Enterprise and network administration are in your DNA, and you have the blood test to prove it. (Or maybe just the experience. That works, too.). Your time would be split 50/50 between writing code and operationalizing infrastructure (aka scripting yourself out of a job).Your usual day of awesomeness includes:Â Â Maintain the core infrastructure.Debug software at the code and infrastructure level.Software development to help support production code and bring automation to routine tasks.Collaborate with engineers in the deployment and scaling of new product features.Architect scalable, reliable solutions for business requirements.Maintain services once they are live by measuring and monitoring availability, latency, and overall system health.Create documentation and diagrams of systems and processes.Investigate production incidents, help determine contributing factors, implement fixes, and write blameless postmortems.Architect, create, and implement automation into our SDLC.Be responsible for configuration management tools and monitoring strategy.Understand production call flows to support incident management.Help meet objectives for the business by interacting with other teams within the organization.Technologies Youâll Work WithNodeJS, Golang, PythonGIT, CI/CD toolsDocker, KubernetesTerraformAWS (Lambdas, EC2, Kinesis, S3, Route53, RDS, Dynamo, and many others)ELKDatadog, Bitbucket, JiraWeb servers (Apache/Nginx/Varnish)NoSQL DBsSQL (RDS Aurora/MSSQL/PSQL)CM tools like AnsibleHTTP, TLS/SSLLinuxNetwork routing and firewallsWHAT YOU BRINGSoftware Engineering (NodeJS preferred).Scripting in Bash, Python.Experience with designing/maintaining Linux based systems.Monitoring production systems.Experience with AWS and Cloud Hosting.Understanding of system and network security best practices.Monitoring/Alarming complex systems.Advanced troubleshooting and fault isolation skills.Highly collaborative with effective written and verbal communication skills.OUR VALUES â LETâS MAKE LIFE ULTRA TOGETHER!Ownership:Â We are all owners; be the outcome and get the job done.Action Biased:Â Be brilliant, proactive, and act with urgency.Embrace the Adventure:Â Be agile, adaptive, and thrive on change.Invent and Simplify:Â Never accept good enough.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T04:24:33.000Z"
+    },
+    "company": {
+        "name": "Ultra Mobile",
+        "link": "https://www.linkedin.com/company/ultra-mobile"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Costa Mesa",
+        "region": "CA",
+        "postal_code": "92626",
+        "street_address": null,
+        "latitude": 33.663857,
+        "longitude": -117.90476
+    }
+}

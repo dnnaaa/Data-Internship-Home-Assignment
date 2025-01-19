@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Site ReliabilityÂ EngineerÂ Excellent opportunity to be part of this high growth business unit transforming on premise applications to Google Cloud Platform.Â Â You will work with a dedicated team to design, configure, deploy, and support enterprise applications to GCP in a large, data intensive environment.Â Â RESPONSIBILITIES:Â Work with business and IT team to transform enterprise applications from on prem to GCPDesign, configure, deploy, and triage applications into productionCode deployment utilizing terraformCI/CDÂ Write scripts, performance monitoringSupport and on call dutiesÂ Document new processesThis is an excellent 6+ month contract opportunity working withÂ a high growth business unit as they transform to GCP. Outstanding opportunity to learn and grow your skills in a team that is seeking innovation in product and technology. Potential for conversion to full time employment. Ideally in Saint Louis or Atlanta but you can work 100% remotely.Â Â REQUIRED SKILLS:5+ years as an SRE - Site Reliability EngineerÂ GCP - 1 year - experience deploying code to cloud platformsExperience deploying/supporting .Net/C# applicationsÂ WindowsÂ and related scripting skills in PowerShell, Python, or BashKnowledge of CI/CD, Jenkins pipelinesExcellent troubleshooting skills and a problem-solver mindsetÂ Â PREFERRED SKILLS:Kubernetes - certificationsÂ GKEÂ AppDynamicsÂ Â Â ",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-10T15:15:22.000Z"
+    },
+    "company": {
+        "name": "Visionaire Partners",
+        "link": "https://www.linkedin.com/company/visionaire-partners"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Modeler",
+        "industry": "Financial Services",
+        "description": "Position: Data ModelerLocation: Remote, but candidates near NYC/NJ are highly preferredAbout UsFIA Tech is a dynamic and growing Software-as-a-Service technology company which supports over 8,000 global finance and trading firms. Our customers depend on our solutions which connect the global futures and derivatives industry for trade processing and regulatory compliance needs.Position Description:In partnership with a world-class team, you will be responsible for architecting data models for industry standards, communications protocols, and database schemas.The Data Modeler will be primarily responsible for transforming the business needs of the industry in general, and FIA Tech customers specifically, into solutions that result in new or enhanced FIA Tech products. This position will work directly with clients to understand their needs regarding services that FIA Tech offers, and work with FIA Tech strategy, development, UX and support teams to deliver solutions that meet industry-wide needs.Responsibilities:Bachelor's degree or equivalent practical experienceLogical data model as a standard for the golden source and for consuming applications to inherit5+ years Data Architecture and Data Modeling experienceData Modeling both transactional and analytical systemsStrong SQL, data mapping, and data profiling skillsBe the Data SME for the development team and assist developersKnowledge of Data transformation, Data management & ETL processesQualifications/ Preferred Experience:Experience in financial services including trade life cycle strongly preferredExperience with FpML or FIXML standardsData modeling tools such as UML, XML, JSONFamiliarity with agile software delivery methodologies such as ScrumExperience architecting business solutions based on SQL Server database, reporting and integration services, Power BIProven experience meeting regular deadlinesPowered by JazzHRLOcFnZedVv",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T00:08:07.000Z"
+    },
+    "company": {
+        "name": "FIA Tech",
+        "link": "https://www.linkedin.com/company/fia-tech"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

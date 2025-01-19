@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DevOps Engineer",
+        "industry": "",
+        "description": "Role- Senior Devops EngineerLoc- Remoteâ¢ 4+ yearsâ experience with cloud platforms - deployments and services AWS.â¢ Must have experience in Terraformsâ¢ Experience with Docker and Kubernetesâ¢ 3+ yearsâ experience in configuration and operating systems management and data and business analysisâ¢ Experience in source and project control (GitHub Jira) - hands-onâ¢ Experience in automation using Go, Python, C, C , Ansible or Shell scriptingâ¢ Experience in Monitoring and logging tools (Nagios, QRadar, New Relic, sysdig, logDNA)â¢ Experience in Continuous Integration platforms (Jenkins, Terraform, TeamCity, Travis CI)â¢ Experience in Load balancing, geo routing, and proxyingâ¢ Experience in Networking Firewalls and Load Balancingâ¢ Experience in NoSQL databases, key-stores and other data-structure solutions (MongoDB, Redis)â¢ Experience in Virtual application and web servers (Apache, NGINX, WebSphere, IIS)â¢ Ability to communicate detailed information â verbally and in writingSecondary Skill Set:\tÂ·         Snowflake, Databricks, Mulesoft (any one skill would be add on advantage)Roles and Responsibilities:\tâ¢ Assists in training engineering staff on DevOps principles to foster communication and collaboration amongst software, infrastructure, and test engineering teamsâ¢ Amplifies feedback loops with all customers and embeds knowledge and learnings into decision making and engineering processesâ¢ Serves as a DevOps advocate to engineering teamsâ¢ Assesses customer requests and changes to business solutions in terms of cost, benefits, and impact for enterprise-wide optimizationâ¢ Provides guidance to customers and business analysts regarding the performance, customer service, and cost management issues related to a proposed technical solutionâ¢ Assists other stakeholders in defining and building development workflows and tools across the entire software engineering systemâ¢ Assists engineering leadership in developing fully-automated and continuously deployed applicationsâ¢ Ability to set SLOs, SLAs, SLIs and incident response processâ¢Team management , planning and prioritizationâ¢ Serves as a technical advisor on software engineering projectsâ¢ Identifies, defines, directs, and performs analyses to resolve project issuesâ¢ Participates in the development of RFPs",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T18:23:01.000Z"
+    },
+    "company": {
+        "name": "TekNett Incorporated",
+        "link": "https://www.linkedin.com/company/teknett-incorporated"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

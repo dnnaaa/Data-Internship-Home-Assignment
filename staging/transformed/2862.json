@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "AI/ML- Machine Learning Engineer, Information Intelligence",
+        "industry": "Consumer Electronics",
+        "description": "Summary The AI/ML Information Intelligence team is creating groundbreaking technology for artificial intelligence, machine learning and natural language processing! The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for.  Our universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will be doing large scale machine learning and deep learning to improve Query Understanding and Ranking of search and developing fundamental building blocks needed for Artificial Intelligence. This involves developing sophisticated machine learning models, using word embeddings and deep learning to understand the quality of matches, online learning to react quickly to change, natural language processing to understand queries, taking advantage of petabytes of data and signals from millions of users and combining information from multiple sources to provide the user with results that best satisfies their intent and information seeking needs. Key Qualifications Experience in machine learning, deep learning, information retrieval, natural language processing or data miningProficiency in one of following languages: Python, Go, Java, C++Excellent knowledge and good practical skills in major machine learning algorithmsExcellent data analytical skillsExperience with large scale search and machine learning systems is highly desiredExperience with Hadoop, Hive, and/or Impala is a plusGood interpersonal skillsGood team player Description As a member of our fast-paced group, youâll have the unique and rewarding opportunity to shape upcoming products from Apple. We are looking for people with excellent applied machine learning experience and solid engineering skills in creating outstanding search service. This role will have the following responsibilities:- Analyzing search ranking and relevance requirements, issues and opportunities- Understanding product requirements, translate them into modeling tasks and engineering tasks- Building machine learned models for search relevance, ranking and query understanding problems- Integrating search functions into Apple products, such as Siri, Spotlight, Safari, Messages, Lookup, etc.- Building end-to-end production system including query understanding and ranking to power search- Utilizing Spark, Hadoop MapReduce, Hive, Impala to perform distributed data processing Education & Experience MS or Ph.D in Computer Science, Artificial Intelligence, Machine Learning, Data Science or related field Role Number: 200269900",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T15:58:36.000Z"
+    },
+    "company": {
+        "name": "Apple",
+        "link": "https://www.linkedin.com/company/apple"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cupertino",
+        "region": "CA",
+        "postal_code": "95014",
+        "street_address": null,
+        "latitude": 37.319313,
+        "longitude": -122.02927
+    }
+}

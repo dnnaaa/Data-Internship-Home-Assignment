@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "(100% Remote) Site Reliability Engineer ",
+        "industry": "Information Technology and Services",
+        "description": "Our customer is a SaaS based AI product development startup. Their product automates and personalizes restaurant orders on high-volume voice channels using artificial intelligence (AI).TitleÂ - Site Reliability Engineer LocationÂ - Austin, Texas, United States - Remote till covidDurationÂ - FulltimeResponsibilitiesâ Be part of on-call rotation to respond to urgent bugs or production outagesâ Proactively identify and fix infrastructure bottlenecksâ Choosing tooling for and understanding of CI / CDâ GCP knowledgeâ Kubernetes (In a production environment)â Dockerâ Knowledge of working in an Agile environmentâ Infrastructure As Codeâ Develop, integrate and support features in the core server stackâ Develop and support data pipeline and infrastructureDesirable Skills Include:â Microservices Architectureâ Goâ Pythonâ ML Opsâ Should be able to apply different tenants' configuration through code as well as tools.Experienceâ 3-5 years of experience in working with infrastructure as codeâ At least 1 year in Python or Golangâ Comfortable developing, maintaining DevOps pipelinesâ Strong experience working with cloud services - AWS or GCP preferredâ Exposure to NLP/AI/ML is a huge plusÂ If interested please email me your resume atÂ anna@avestacs.com",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T17:18:16.000Z"
+    },
+    "company": {
+        "name": "Avesta Computer Services",
+        "link": "https://www.linkedin.com/company/avesta-computer-services"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}
