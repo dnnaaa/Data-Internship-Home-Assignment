@@ -68,6 +68,8 @@ The main DAG is located in `dags/etl_dag.py`. This DAG defines three tasks:
 - **Transformed Data**: The cleaned and structured data is stored as `.json` files in the `staging/transformed/` directory, following the defined schema.
 - **Final Storage**: The final data is loaded into a SQLite database for easy querying.
 
+![Unit Test Screenshot](etl_pipline.png)
+
 ### Example of Transformed Data Schema
 
 ```json
@@ -107,6 +109,7 @@ The main DAG is located in `dags/etl_dag.py`. This DAG defines three tasks:
   }
 }
 ```
+![Unit Test Screenshot](sqlite.png)
 
 ### Unit Testing
 
@@ -118,7 +121,7 @@ Unit tests are written using `pytest` to ensure the ETL tasks work as expected.
 
 #### Screenshot of Tests
 
-![Unit Test Screenshot](test.jpg)
+![Unit Test Screenshot](test.png)
 
 ---
 
