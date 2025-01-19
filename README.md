@@ -12,6 +12,8 @@ Data-Internship-Home-Assignment/
 │       ├── extract.py  # Logic for extracting data
 │       ├── transform.py # Logic for transforming data
 │       └── load.py     # Logic for loading data into SQLite
+│ ── source/
+│   └── jobs.csv        # The source CSV file containing the job data to be processed
 ├── staging/
 │   ├── extracted/      # Extracted files (TXT format)
 │   └── transformed/    # Transformed files (JSON format)
