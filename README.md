@@ -36,12 +36,12 @@ To run this ETL pipeline with Docker, use the provided `docker-compose.yml` file
    This will launch Airflow Webserver on `http://localhost:8080`.
 
 2. **Volumes**: The volumes in `docker-compose.yml` map local directories to the Airflow container, ensuring your local files and logs are synced. Here are the volume mappings:
-   - `./dags:/opt/airflow/dags`: Local `dags` directory to store your DAG scripts.
+   - `./dags:/opt/airflow/dags`: Local `dags` directory to store DAG scripts.
    - `./logs:/opt/airflow/logs`: Local `logs` directory for Airflow's logs.
    - `./plugins:/opt/airflow/plugins`: Local `plugins` directory for custom Airflow plugins.
    - `./source:/opt/airflow/source`: Local `source` directory to store the raw CSV data.
    - `./staging:/opt/airflow/staging`: Local `staging` directory to store extracted and transformed files.
-   - `./tests:/opt/airflow/tests`: Local `tests` directory to store your unit tests.
+   - `./tests:/opt/airflow/tests`: Local `tests` directory to store unit tests.
 
 ### DAG and Tasks
 
