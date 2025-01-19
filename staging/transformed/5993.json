@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Financial Services",
+        "description": "About Us:Liberty Lending is a fintech company that offers consumers a digital banking and lending platform with the mission of helping everyone make financial progress. The company was founded in 2015 by a Team that has deep experience in building customer-centric, data-driven products that make personal finance simple and intuitive. Since our founding, we have broadened our mission beyond lending and are focusing on innovating more broadly in banking and personal finance to empower consumers and give them the access and confidence to make better financial decisions.Â What sets us apart is our data and product capabilities, our people, our appetite for disruption and relentless focus on the consumer in a world where the choices for consumers are overwhelming.Â With our expanding suite of lending and banking services that will be delivered through best-in-class digital products and experiences, we are focused on helping consumers de-mystify personal finances so that can live better lives.Â At Liberty Lending, we are passionate about revolutionizing the old financial norms that consumers are faced with to make credit more accessible and everyday spending decisions more manageable. We believe that if our customers can see the financial future they want, all they need is the right tools, and a bit of coaching to make it a reality.About the Department:Liberty Lending's Risk and Decision Science team consists of a group of Data Scientists, Data Engineers, Analytics Professionals covering all the business units and Business Intelligence Analysts.Â We are passionate about data and cutting-edge technology. Our goal is to leverage the data to drive the business growth agenda. The Risk and Decision Science team works cross functionally with other business units to ideate, hypothesize, analyze and test, formalize, implement, maintain, and track progress for all initiatives.Â About You:We are looking for a gritty, curious, and collaborative Data Scientist to solve business problems using data. As a Data Scientist, you will use analytical, statistical, and programming skills to collect, analyze and interpret large dataset. Then you will develop data-driven business solutions. This role will report to a senior Data Scientist.What Youâll Do:Mine and analyze data from internal database and external vendor to optimize and improve business decisioningResearch and evaluate new data vendors and make recommendationsBuild and maintain data productsDevelop predictive models to optimize various functions across the organization, including marketing, risk, and operationsDevelop processes and tools to monitor and analyze model performance and data accuracyWork independently to create data-backed recommendations to help stakeholders make strategic business decisionsWhat You Should Have:Masters or PhD in Mathematics, Statistics, Econometrics, Operation Research, Industrial Engineering, Computer Science, or relevant fields is required.5+ years of experience extracting, cleaning, manipulating datasets and building statistical models.Experience in lending is required.Experience using Python to manipulate data and draw insights from large data sets.Experience applying unsupervised and supervised machine learning algorithms: clustering, decision trees, regression, etc. Understand algorithmsâ fundamentals, their real-world advantages/drawbacks.Experience applying advanced machine learning algorithms: boosting, ensembles, neural networks, gridsearch, etc. Understand algorithmsâ fundamentals, their real-world advantages/drawbacks; have intuition on the best algo & hyperparameter to leverageGood communication and presentation skillsBonus experience in: unstructured data, BeautifulSoup, NLP, time-series modeling, RNN, AIWhy Join Us?Be a part of a pioneering growth company located in the financial district of NYCExperience the excitement and learn from being part of an incredibly fast-growing and young companyBe pivotal in scaling the business and join an early stage fintechEnjoy the agility and flexibility offered by a startup culture. A social and friendly work environmentTremendous opportunities to grow and developÂ What We OfferWe believe in a team-first culture, with growth and recognition for our team members. We are dedicated to our team member's success and growth within the company.Our extensive benefits package includes:Medical, Dental, and Vision Benefits401(k) matchPaid Holidays, Sick Days, and Vacation10 weeks paid parental leavePre-tax Transit BenefitsDiscounted Gym MembershipNo-cost Life Insurance BenefitsCOVID-19 Considerations: Liberty Lending is currently remotely due to COVID-19, but we are asking for flexibility going forward as circumstances change and we determine to transition teams back to work in the office. The following are requirements to perform this role while working from home:Have a quiet, dedicated space at home that meets your ergonomic needs where you can work uninterruptedHave high-speed internetSome positions require a direct connection into your modem/router (not via wifi)Be comfortable trouble shooting technical issues without in-person IT supportLiberty Lending is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws. This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. Liberty Lending makes hiring decisions based solely on qualifications, merit, and business needs at the time.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T16:34:36.000Z"
+    },
+    "company": {
+        "name": "Liberty Lending, LLC",
+        "link": "https://www.linkedin.com/company/liberty-lending-llc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 62100,
+        "max_value": 119000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York City Metropolitan Area",
+        "region": null,
+        "postal_code": "10021",
+        "street_address": null,
+        "latitude": 40.748295,
+        "longitude": -73.98556
+    }
+}

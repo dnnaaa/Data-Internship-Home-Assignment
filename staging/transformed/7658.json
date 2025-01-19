@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer, Trajectory Prediction",
+        "industry": "Consumer Electronics",
+        "description": "Summary Apple is looking for world-class qualified ML/Deep Learning engineers to develop and integrate machine learning technologies within our Special Projects Team, focusing on autonomous technologies in a robotics environment. Join Apple and help us leave the world better than we found it! Key Qualifications Expert in Python and/or C++ with a minimum of 5+ years using these languages in a machine learning research capacity5+ years experience in ML and deep learning (DL)3+ years of experience using ML technologies, such as PyTorchExperience researching current DL literature and the math of machine learning: optimization methods, common types of models and layers, etc.Understanding of modern machine learning (ML) concepts and state of the art deep learning frameworksStrong software engineering skills to build scalable and robust infrastructure for deep learning data, modeling, and evaluation systemsProven track record in training and debugging deep learning systems: Define metrics and datasets, performing error analysis, training models in a modern DL frameworkExperience with hardware specific optimization of ML models and deploymentPassionate about building extraordinary productsCreative, collaborative, and product focusedExcellent communication skills â you collaborate effectively with other teams and communicate clearly about your workPreferred to have experience specifically in applying deep learning to robotics problems and predicting multimodal behaviors for agentsPreferred to have experience with CNNs, GNNs, Transformers, RNNs, LSTMs Description As a member of the team, you will work on a hardware/software product enabled by the ML technologies you build. Our team pursues research & development in the areas of ML with a particular focus on deep learning (DL), optimization, and reinforcement learning (RL). You will work on one of the most challenging technical problems of today and develop ground breaking deep learning solutions for predicting probabilistic multimodal future trajectories of agents. In particular, you will research and prototype a variety of experiments to push the current groundbreaking technology, optimize and deploy models to ensure realtime capabilities, and design and implement a robust evaluation framework to iteratively push progress over time. Youâll also join an extraordinary team of hardworking engineers and researchers with deep experience in robotics, machine learning, and software engineering.We hope youâre passionate about the values that drive us: -  Passion for the mission: Weâre here to make something great. We tackle whatever work is right for the product and strive for the best possible results. -  Humility: The right answer is more important than being right. We search for solutions as a team and value clear-eyed feedback.-  Lean habits: You canât grow without limits. Time constraints and big goals encourage us to sharpen our focus and learn to make great decisions. Education & Experience A minimum of a Bachelorâs degree in Machine Learning, Robotics, Statistics, Computer Science or a related field.If this is you, we'd love to hear from you. Role Number: 200293121",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-02T15:39:01.000Z"
+    },
+    "company": {
+        "name": "Apple",
+        "link": "https://www.linkedin.com/company/apple"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 135000,
+        "max_value": 206000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cupertino",
+        "region": "CA",
+        "postal_code": "95014",
+        "street_address": null,
+        "latitude": 37.319313,
+        "longitude": -122.02927
+    }
+}

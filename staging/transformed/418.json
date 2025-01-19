@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "POSITION (REMOTE) Software Engineer â Web AppsCOMPANY OVERVIEWFounded in 2011, privately held TransformativeMed, Inc., headquartered in Seattle, Washington, is the world-wide leader in developing Cerner and Epic integrated solutions that enable hospitals and health systems to modernize their Electronic Health Record (EHR).Â Â Our mission is simple: Make clinicianâs lives easier and improve patient safety by simplifying the medical software experience through embedded applications and ancillary tools. POSITION OVERVIEWTransformativeMed is seeking a mid or senior front-end leaning full-stack software engineer.Â The primary focus of this position will be front-end development of the Core Diabetes App using JavaScript (jQuery/React) and other related web technologies. However, competency in middle-ware/back-end technologies is desired as occasional RESTful API work with PHP/Postgres will be needed.Â This position will also have the opportunity to collaborate with our other development teams but will remain predominately focused on the Core Diabetes App to start.Â COMPETENCIES & ESSENTIAL ATTRIBUTESÂ·Â Â Ability and desire to work in a team setting, collaborating with product management, developers, customers and clinicians is expectedÂ·Â Â Proficient written and verbal communication skillsÂ·Â Â Thrive in a dynamic start-up environmentÂ·Â Â Eagerness to learnÂ·Â Â Ability to work with a degree of technical ambiguityESSENTIAL FUNCTIONS Â·Â Â Refactor existing legacy jQuery application into new standardized React productÂ·Â Â Improve existing features for legacy application versionsÂ·Â Â Provide detailed product documentation for your contributionsÂ·Â Â Collaborate with the Solutions Delivery team to deliver and support deployments for new and existing clients as needed with occasional after-hours tasksÂ·Â Â Provide Tier-3 support for client-reported issues as neededÂ REQUIRED SKILLSÂ·Â Â Bachelorâs degree or equivalent relevant work experienceÂ·Â Â 4+ years experience of front-end development with JavaScriptHTML5CSS3JavaScript: jQuery and React, Angular or similar SPA FrameworksResponsive/Cross-Browser Web DesignTemplating engines (MustacheJS/Handlebars)Â·Â Â 2+ years experience of back-end developmentPHP or NodeJSSQLApache or NginxÂ·Â Â Experience with industry standard development tools/practicesGit and GitHubJSON/XML/WebSockets/SOAP/RESTful APIsVirtualization technology (Vagrant/Docker/VirtualBox/VMWare/KVM)Waterfall and Agile development methodologiesKnowledge of common software development patternsBONUS SKILLSÂ·Â Â Previous healthcare development experience with Cerner CCL, mPages, or PowerChartÂ·Â Â Linux system administration and scripting (CentOS/RedHat/Bash)Â·Â Â CI/CD Pipeline configuration (Jenkins, Bamboo, GitHub CI)Â·Â Â Automated testing experience (WebDriver, Mocha, Protractor)Â·Â Â Knowledge of JavaScript transpilers/minifiers (Babel, Webpack, Typescript)Â·Â Â Cordova developmentSUPERVISORY RESPONSIBILITYÂ·Â Â None PERFORMANCE & SUCCESS MEASURES Â·Â Â Growth in application/infrastructure knowledge for our product suite and related EHR application/infrastructure knowledgeÂ·Â Â Shippable development contributions to the core company products with minimal reworkÂ·Â Â Effective and timely technical support for complex issue escalationÂ·Â Â Ability to work effectively and collaboratively with the TransformativeMed teamÂ·Â Â Consistent contributions to code/product documentationCOMPANY BENEFITS Â·Â Â Employee-centric culture, we consider and contribute to your career growthÂ Â·Â Â Competitive payÂ·Â Â Unlimited PTO and flexible work schedulesÂ·Â Â Health/dental/vision/disability insuranceOUR APPLICATIONSCore Mobile App â An iOS/Android application that presents rich, actionable EHR information in a format unique to each clinical specialtyâs priorities. Clinical teams caring for a patient have what they need, when they need it, can organize rounds, convey discharge readiness, conduct handoffs, and manage their patient lists. As status and situations change, smart notifications and secure messaging ensure the right information is provided to act.Core Work Manager App â An EHR-embedded application that can create any number of patient lists, group and filter them based on the teamâs specialty or individualâs needs, and view data in their preferred format. Built-in capabilities securely synchronize tasks; route alerts, notifications, and secure messages across the entire care team.Core Diabetes App â An EHR-embedded application that standardizes and streamlines the management of patients with diabetes, ensuring patient safety from admission to discharge. By presenting workflow wizards, visualizing important clinical data, and providing a comprehensive dashboard of diabetic patients, the Core Diabetes App helps clinicians effectively and quickly treat diabetic conditions.Â Equal Opportunity EmployerTransformativeMed is an equal opportunity employer and is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. TransformativeMed makes hiring decisions based solely on qualifications, merit, and business needs at the time.Â Other DutiesPlease note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-14T17:20:56.000Z"
+    },
+    "company": {
+        "name": "TransformativeMed",
+        "link": "https://www.linkedin.com/company/transformativemed"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Seattle Area",
+        "region": null,
+        "postal_code": "98109",
+        "street_address": null,
+        "latitude": 47.591396,
+        "longitude": -122.33279
+    }
+}

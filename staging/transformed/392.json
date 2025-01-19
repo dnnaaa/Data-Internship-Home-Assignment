@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Principal JAVA Software Engineer",
+        "industry": "Civil Engineering",
+        "description": "Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the worldâs leading mission capability integrator, we are a trusted provider of highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies, including the Intelligence Community, Department of Defense, Department of Health and Human Services, and NASA. Every day, our 22,000 employees do the canât be done, solving the most daunting challenges facing our customers.Peraton is seeking a Senior Principal JAVA Software Engineer to join our Peraton team. The position will be located in Annapolis Junction, MD.Day To Day Work Responsibilities May IncludeWork in an agile development processes implementing features as defined by user storiesDevelopment using Java full stack Develop/Maintain platform related applications and libraries Develop/Maintain existing application as requirements are requested and when updates are required.Basic QualificationsBachelorâs Degree in Computer Science or related discipline and nine yearsâ relevant experience and high school diploma and thirteen yearsâ related experience. Seven (7)+ yearsâ experience as a software developerEvaluating, defining, planning, designing, implementing, refining, and deploying database solutions in LINUX VM environments at the Enterprise and project levels.Developing successful backup and recovery procedures on more than one programActive TS/SCI w/poly clearancePreferred QualificationsSupporting the development of long-term architectural storage solutions based on customer business requirements and new developmentExperience in resolving database issues and in creating new features/ functionality for existing databaseExperience working on a big data team a plus Good communication skillsStrong familiarity with Open Source technologies (Spring, Camel, Guava , etc)Good understanding of PKI infrastructure (e.g 2-way SSL, TLS, etc)Expert with Dev Ops practices (CI, Release Management, Monitoring , etc)Self-starter who is able to get up to speed quickly and can work independently Collaborative attitude and team-orientedCandidates with these skills will be given preferential considerationDatabase experience with (MongoDb, Postgrese, Oracle, MySQL, etc)Experience with ACTIVE MQ, JAVA, GWT, TOMCAT, JMS, GIT, Python, ELK stack, SpringBoot, Vue.jsDomain knowledge of the TUSCAN portfolio of capabilitiesGood working knowledge of Linux/Unix and scripting such as Javascript, sh, bash, perl, and other scripting tools/languageExperience using JIRA, Confluence Agile/Scrum methodologyDeveloping middleware of presentation layer software Background in SIGINT or Cyber or NetDef or IA Use of serialization technologies is a plus. (e.g. Avro, Thrift, ProtoBuf)Use of Messaging technologies (JMS, Kafka, others) Use of Spring/SpringBoot Experience developing and using REST services Experience Agile processes (spins, sprints, retrospectives)Experience Jenkins, Gradle, Maven, and/or GitWe are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law.#AJ2021",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-14T17:05:16.000Z"
+    },
+    "company": {
+        "name": "Peraton",
+        "link": "https://www.linkedin.com/company/peraton"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 108,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Annapolis",
+        "region": "MD",
+        "postal_code": "21403",
+        "street_address": null,
+        "latitude": 38.97829,
+        "longitude": -76.49568
+    }
+}

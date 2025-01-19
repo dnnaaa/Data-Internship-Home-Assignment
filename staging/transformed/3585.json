@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer (Security) ",
+        "industry": "Information Technology and Services,Computer & Network Security,Computer Software",
+        "description": "A new, quirky function of Security SRE instead of a SecEng team.Â Youâre going to be responsible for identifying and exploring various types of risk throughout varied architecture and applications, seeking out threats and building solutions to a range of complex problems. What does this mean in simple terms? Youâre going to sit within the engineering team, looking at every single platform to understand how things can be better. From a reliability and security point of view.Â Youâll report to the Chief Security Officer, but youâll constantly speak to the Head of SRE and development teams to come up with creative solutions to potential and current problems. Youâll automate as much as you can, most likely in Go, or Kotlin, but you donât need to be an expert in either, as long as youâre a strong coder.Â All applications run on Linux in the Cloud, so youâll need to know your way around Linux and most likely youâve worked with Kubernetes and AWS too.Â A security mindset is of course a must have. Why do systems fail? How are system vulnerabilities exploited? And most importantly, how can you find them before someone else does?Â Youâre going to be joining a company who are aiming to create the future of the financial system. With $200m+ of recent investment, theyâre now in ultra scale-up mode. This position is open to junior of senior hires, so whether youâve got 2 or 20 years experience, if you want to get in early with a potential gamechanger in the fintech/digital asset world, this could be for you.Â Salaries are going to be dependent on your experience, but weâre realistically talking about a range between Â£100-160k. Itâs a fully remote environment, with the engineering team spread across the world â a completely modern approach to technology.Â If you love blockchain and crypto â this could be the perfect match for you.Â Not got an up-to-date CV but keen? Not a problem. We can work on building a new CV together, just like youâre going to work on building the future of fintech.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-11T13:40:39.000Z"
+    },
+    "company": {
+        "name": "Saragossa",
+        "link": "https://uk.linkedin.com/company/saragossa"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

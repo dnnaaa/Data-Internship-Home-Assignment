@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Sr. AWS Data Engineer/ Developer",
+        "industry": "Information Technology and Services,Staffing and Recruiting,Financial Services",
+        "description": "AWS Date Engineer/DeveloperContract to hireIrving, TX (remote position)ResponsibilitiesDesign and support the new and evolving sources of data being brought into the data warehouse.RequiremetnsAt least 9 years experience. Need Senior level candidate who can spearhead AWS effort. AWS is new to company.Experience working with AWS Analytical Component - Redshift.Experience working with AWS GLUE - Managed ETL Service.Experience optimizing data retrieval processes supporting API output and reading API calls.Experience with performance tuning.Education QualificationBachelor's Degree in Computer Science, Information Technology (IT), or closely related field.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-10T13:11:58.000Z"
+    },
+    "company": {
+        "name": "Yoh, A Day & Zimmermann Company",
+        "link": "https://www.linkedin.com/company/yoh-a-day-&-zimmermann-company"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 108,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 99000,
+        "max_value": 166000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas",
+        "region": "TX",
+        "postal_code": "75342",
+        "street_address": null,
+        "latitude": 32.777977,
+        "longitude": -96.79621
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Computer Hardware,Electrical/Electronic Manufacturing,Semiconductors",
+        "description": "Our vision is to transform how the world uses information to enrich life for all. Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.The Smart Manufacturing and AI team at Micron Technology is looking for an ambitiousâ¯Machine Learningâ¯Engineer. Are you curious, high velocity, and ready to solve complex problems? Do you dream in data science and machine learning models? If so, we want you to join us! Our mission is to enableâ¯toâ¯deliver industry-winning machine learning solutions to power Micronâs dominance in the highlyâ¯competitiveâ¯memory solutions market. Qualified applicants willâ¯have experienceâ¯in a variety of dataâ¯and cloudâ¯technologies and have extensive practice modeling data, querying, andâ¯deployingâ¯scalable pipelinesâ¯toâ¯execute machine learning models. You will collaborate with Data Scientists,â¯MLâ¯Engineers, Dataâ¯engineers- andâ¯expert usersâ¯toâ¯build and deployâ¯scalableâ¯AI/ML solutions that drive value and insight fromâ¯Micronâsâ¯manufacturing processes and systems.â¯â¯Responsibilities include, but not limited to:â¯Build and maintain data/solution pipelines that feed machine learning modelsâ¯ Work in a technical team through development, deployment, and application of applied analytics, predictive analytics, and prescriptive analyticsâ¯using machine learning and artificial intelligenceâ¯ Design andâ¯optimizeâ¯data structures in data management systems (Hadoop,â¯Snowflake,â¯and Cloud platforms) toâ¯enableâ¯AI/ML solutions. Build custom software components and analytics applicationsâ¯ Create/Maintain CI/CD pipelines of machine learningâ¯solutionsâ¯in the cloudâ¯ Education Qualifications:â¯Technical Degree required. Computer Science or Statistics background is highly desiredâ¯ â¯Minimum Qualifications:â¯3+ years of experience in building and executingâ¯end-to-end ML systemsâ¯automatingâ¯training, testing, and deploying Machine Learning modelsâ¯ 6+ years of experience with machine learning frameworks (TensorFlow,â¯PyTorch,â¯scikit-learn, etc.) 2+ years of experience with designing\\implementing Machine Learning Operations (ML Ops) which includes CI\\CD, Active Learning, Continuous Monitoring, Automated Model Deployment, and Inference Pipeline Automation. Familiarity with software architecture (data structures, data schemas, etc.) Software development skills and the desire to work on cutting edge development in a Cloud environmentâ¯ Strong scripting and programming skills in one of the following, Pythonâ¯orâ¯Javaâ¯ Experience developingâ¯Machine Learning or A.I. solutionsâ¯with either Python, AWS, AZURE, GCPâ¯ Outstanding analytical thinking, interpersonal, oral and written communication skillsâ¯ Proficiency in the Microsoft Office suiteâ¯ Ability to prioritize and meet critical project timelines in a fast-paced environmentâ¯ Self-motivated and team-orientedâ¯ â¯Preferred:â¯Deep knowledge of math, probability, statistics, and algorithmsâ¯ Demonstrated ability to study and transform data science prototypesâ¯into production solutionsâ¯ Knowledge of computer vision and/or signal processing including techniques for classification and feature extractionExperience with continuous integration/continuous delivery (CI/CD) tools (Jenkins, Git, Docker, Kubernetes)â¯ 3+ years of strong working knowledge of databases (Oracle, MSSQL,â¯Snowflake, orâ¯BigQuery)â¯â¯ 3+ yearsâ¯building scalableâ¯ETLâ¯pipelines with big data processing and/or developing applications and data sourcesâ¯ About Micron Technology, Inc.We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life for all. With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products through our MicronÂ® and CrucialÂ® brands. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence and 5G applications that unleash opportunities â from the data center to the intelligent edge and across the client and mobile user experience.To learn more, please visit micron.com/careersMicron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.Please note that in order to assist in providing a safe and healthy workplace for all Micron team members, new employment offers for U.S.-based jobs are contingent upon the applicantâs provision of a copy of their COVID-19 vaccination card to Micron on a confidential basis prior to their scheduled start date confirming that they have completed the COVID-19 vaccination process, subject to any written request for a medical or religious accommodation and to the extent permitted by applicable law.For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micronâs People Organization at hrsupport_na@micron.com or 1-800-336-8918",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T20:07:51.000Z"
+    },
+    "company": {
+        "name": "Micron Technology",
+        "link": "https://www.linkedin.com/company/micron-technology"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 80600,
+        "max_value": 103000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boise",
+        "region": "ID",
+        "postal_code": "83712",
+        "street_address": null,
+        "latitude": 43.61579,
+        "longitude": -116.20158
+    }
+}

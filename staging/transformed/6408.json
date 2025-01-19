@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - Santa Monica, CA Office or Telecommuting",
+        "industry": "Computer Software,Insurance,Financial Services",
+        "description": "Our Enterprise Software Services Department is seeking a Software Engineer to join our team and help pioneer Perr&Knight's innovative next generation web platform and SaaS applications. The ideal candidate will have extensive knowledge of C#, .Net, HTML, CSS, JavaScript, and will be able to shape the application from day one.What We'll Bring To The TableCompetitive salary including merit-based bonus planFlexible Work ProgramClear opportunities for career progressionCompany-funded professional educational programGenerous benefits including: PTO, medical/dental/vision insurance and 401K with matching Company contributionsFriendly, dynamic work environmentVisible management commitment to our company core values of: employee development, excellent work product, innovation, integrity, respect for each other and superior customer serviceWhat You'll Be DoingArchitect, design, and implement new features end-to-endModify existing codebase to reflect changing business requirementsWork with product managers, designers, and engineers to prototype and implement product featuresOther duties as assigned by the Manager of Software DevelopmentWhat You'll Bring To The TableBachelor's degree from an accredited college or universityThree or more years of IT delivery experience with a solid understanding of Computer Science concepts and programing methodologiesAdvanced knowledge of C# programming and Microsoft technology stack (.NET, ASP.NET MVC, Web APIs)Experience using SQL, and understanding of relational database concepts.Some experience with front-end web development using HTML5, Javascript, AngularExperience using Git, including branching, merging, and resolving merge conflictsExperience with CI/CD such as Jenkins, Docker containers and container orchestration tools such as Kubernetes, and AWS or Azure cloud technology a plusAbility to effectively communicate verbally and in writing About Perr&KnightFounded in 1994, Perr&Knight provides insurance consulting and software solutions to the property & casualty and accident & health industries. Services include actuarial consulting, product development, insurance policy and forms consulting, regulatory compliance, state filings, licensing, technology consulting, statistical reporting, data services, and predictive analytics. Software includes StateFilings.com, which is a leasing cloud-based state filings management solution. With offices in Santa Monica, Boca Raton, the New York metro Area, Fort Worth and Cincinnati, and more than 100 insurance professionals, Perr&Knight is among the largest independent actuarial and insurance consulting firms in the United States.Our mission as an actuarial and insurance operations consulting firm is to provide extraordinary value to our clients by offering innovative and unique solutions to complex challenges they face while providing a positive and motivating work environment for our employees that respects diversity and recognizes ingenuity and hard work.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-31T00:02:54.000Z"
+    },
+    "company": {
+        "name": "Perr&Knight",
+        "link": "https://www.linkedin.com/company/perrandknight"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Santa Monica",
+        "region": "CA",
+        "postal_code": "90403",
+        "street_address": null,
+        "latitude": 34.010933,
+        "longitude": -118.491516
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer ",
+        "industry": "Information Technology and Services",
+        "description": "PriceSpider is revolutionizing retail data technology by capturing actionable insights that improve the customer experience. Combining decades of data on consumer shopping behaviors with its proprietary data collection platform, PriceSpider arms brands with intelligence from thousands of ecommerce sites and marketplaces to help them drive sales conversions and protect brand integrity at every possible digital touch point. PriceSpider helps the worldâs biggest brands enrich the consumer journey and build long-lasting relationships with their shoppers, resulting in more revenue and higher profit margins.We are looking for enthusiastic and passionate engineers to join our team. If you would enjoy working to bring real world value to many of the worldâs largest companies, we would love to hear from you. Our platform runs thousands of jobs and processes millions of requests each day as we strive to collect the most accurate information about the way our customersâ products are used and consumed around the globe.Â Â Essential Functions & Responsibilities:Â Work individually and collaboratively with global teams to createÂ both scalable andÂ maintainable solutions towards team and companyÂ goalsÂ Promote high quality coding standards through the employment of industry best practices, including unit-testing,Â CI/CD, and our expanding cloudÂ onlyÂ strategyÂ Take responsibility for project quality, represented primarily by user adoption and data usability and accuracyIdentify and engage in opportunities to reduce legacy application inefficiencies as newer projects and solutions progressÂ Create and maintain documentation and training materialÂ Research and explore new technology and systems for the application of improved solutions to internal and external client obligationsÂ Participate in project and team planning, including those responsible for the identification and enumeration of product requirementsÂ Â Requirements and Qualifications:Â 4+ Years of experienceÂ in web application development preferablyÂ involving technologies promoting the movement, maintenance, and quality ofÂ dataÂ Experience with cloud service providers, preferably AWS (handledÂ standard cloud service technologies including VMs,Â containers,Â queueing systems...)Â Thorough understanding of SQL Databases (MSSQL and Postgres)Experience with multiple languages,Â preferablyÂ Go and NodeJS (Typescript)Â Experience with ReactJS and functional componentsStrong understanding of REST architecture and how to build scalable APIâsExperience with CI / CDÂ procedures andÂ toolsÂ (GitHub Actions, Jenkins,Â ...)Â Very analytical thinking and adaptability to frequently changing needsÂ withÂ an absoluteÂ solution orientationÂ Excellent communication skills in an international environmentÂ Tech Stack:Any of: NodeJS, Golang, C#PostgreSQL, MSSQLGithubÂ andÂ GithubÂ Actions,Â CI/CDÂ AWSÂ inÂ generalÂ Container,Â Kubernetes, LinuxÂ MessagingÂ (e.g.Â RabbitMQ)Nice to have, any of:Â Jenkins, C#, Elastic Search, KafkaÂ Location:Â We are hiring for this position in Irvine, CA or remote (PST). Remote work allowed.PriceSpider is an equal opportunity employer that is committed to inclusion and diversity.Â ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T21:08:36.000Z"
+    },
+    "company": {
+        "name": "PriceSpider",
+        "link": "https://www.linkedin.com/company/pricespider"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "California",
+        "region": "United States",
+        "postal_code": "93266",
+        "street_address": null,
+        "latitude": 37.254673,
+        "longitude": -119.61728
+    }
+}

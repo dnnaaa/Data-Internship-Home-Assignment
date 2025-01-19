@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Test Engineer",
+        "industry": "Primary/Secondary Education,Higher Education,Government Administration",
+        "description": "Software Test Engineer: Are you willing to make a difference? Â At Kulicke and Soffa, our engineers make that decision daily. We are an international engineering company developing robotic equipment for the semiconductor industry. Meaningâ¦.medical equipment (including ventilators), cell phones, autonomous automobiles, computers, space operations cannot happen without our equipment. We are currently seeking an Advanced Engineer, Software Test Engineer conducts tests(automated and manual) and studies to support the development of our robotics products. The engineer will create user scenario test cases to evaluate the functionality and performance of capabilities being added to our software.Â  As part of the software verification and testing team, he/she programs and maintains automated testing scripts and software tools.Â  This person participates in requirements planning, design reviews and investigating defects.Â  This person is responsible to ensure product requirements and quality standards are satisfied and to help assess how well the product will meet customer needs both in terms of functionality and usability.Â RESPONSIBILITIESPerforms software product testing according to the company's overall development and testing processesÂ Analyzes requirements and develops tests suitable for new features within the appropriate environmentÂ Participates in design and code reviewsÂ Tests products at all levels: Workflow, Unit, Application, PerformanceÂ Investigates possible causes of problemsÂ Specifies and writes test cases; both automated and manual testsÂ May write code for software testing toolsÂ Creates metrics to analyze process and product performanceWorks closely with other members of the product development teamCoordinates with other teams to address cross team dependenciesÂ Â MINIMUM QUALIFICATIONSBachelorâs Degree in mechanical or computer engineering/computer science with a minimum of 2 years of experience Experience in writing code such as C#Â Â Python or Â C++.Strong aptitude for understanding software development, software architecture and software testing .A thorough and careful approach to work; close attention to details and quality; strong organizational skills.Â Ability to establish good working relationships with Development, Testing, and Support staff.Â Able to troubleshoot by simplifying complex systems, debugging, and finding root causes.Is proactive and not afraid to take initiative.Â Interested? We began as a start-up and now 65 years later as a successful public corporation, still retain the spirit of offering our core values to employees and customers alike. With R&D centers of excellence in the USA, Europe and Asia, we bring together todayâs generation of talent, collaborating on tomorrowâs technologies. For more information, please forward your resume to us.Kulicke & Soffa is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected veteran status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-08T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Kulicke & Soffa",
+        "link": "https://sg.linkedin.com/company/kulicke-and-soffa"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 59500,
+        "max_value": 118000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fort Washington",
+        "region": "PA",
+        "postal_code": "19049",
+        "street_address": null,
+        "latitude": 40.14165,
+        "longitude": -75.19268
+    }
+}

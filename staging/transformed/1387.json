@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "â¢ Knowledge of at least one of the programming languages like SQL, Python, R, and Scalaâ¢ Familiarity with business intelligence tools (e.g., Tableau)â¢ Strong mathematics skills (e.g., statistics, algebra)â¢ Experience with big data technologies such as Hadoop and Sparkâ¢ Advanced ability to perform exploratory data analysisÂ Responsibilitiesâ¢ Collecting Service data through means such as analyzing current sources or by setting up and managing new studiesâ¢ Transferring data into a new format to make it more appropriate for analysisâ¢ Creating new, experimental frameworks to collect Service dataâ¢ Building tools to automate data collectionâ¢ Searching through large data sets for usable informationâ¢ Creating reports and presentations for business usesâ¢ Correlating similar data, identify patterns and trends in data sets to find actionable results.â¢ Understanding the business problems and analyzing the data by using appropriate Statistical models to generate insightsâ¢ Application of various machine learning algorithms and statistical Modeling like decision trees, text analytics, natural language processing (NLP), supervised and unsupervised, regression models, deep learning and clustering.â¢ Use Machine learning along with real-time usage and performance data to optimize product performance, quality and reliabilityCreate digital twins using 3D software and run simulations to measure product reliability in varying conditions to enable enhanced service design and predictive maintenance.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-19T20:39:12.000Z"
+    },
+    "company": {
+        "name": "L&T Technology Services Limited",
+        "link": "https://in.linkedin.com/company/l&t-technology-services-limited"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Marlborough",
+        "region": "MA",
+        "postal_code": "01752",
+        "street_address": null,
+        "latitude": 42.346947,
+        "longitude": -71.54718
+    }
+}

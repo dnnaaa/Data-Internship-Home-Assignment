@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Systems Engineer, Site Reliability Engineer",
+        "industry": "Telecommunications",
+        "description": "Who are we?At Amdocs, our purpose is to enrich lives and progress society. With our creativity and technology, we help make a better connected world. Amdocs and its 25,000 employees serve the leading players in the communications and media industry, enabling next-generation experiences in 85 countries. Our cloud-native, open and dynamic portfolio of digital solutions, platforms and services brings greater choice, faster time to market and flexibility, to better meet the evolving needs of our customers as they drive growth, transform and take their business to the cloud. Listed on the NASDAQ Global Select Market, Amdocs had revenue of $4.1 billion in fiscal 2019. For more information, visit Amdocs atÂ http://www.amdocs.comIn one sentenceSite Reliability Engineering (SRE) combines software and systems engineering to build and run large-scale, fault-tolerant systems. SREs ensure that Products and Services have reliability, 99.99%+ uptime and a fast rate of improvement. SREs ensure our systems have the right amount of capacity and performance. SRE development focuses on monitoring, triaging/solving product incidents, optimizing existing products, creating tools, and creating automation to eliminate work and increase reliability.SRE intellectual curiosity, problem solving ability, openness, and expertise are integral to our success.Â SREs collaborate, provide support, learn, share knowledge and grow.Â Behind our customers product experience is a team keeping the products running, ensuring our customersâ success.This position is a remote job anywhere across North America.What will your job look like?Learn in depth how our products work.Maintain live products and services by measuring and monitoring availability, latency and overall system health.Scale systems sustainably through mechanisms like automation, and evolve systems by pushing for changes that improve reliability and velocity.Practice sustainable incident response,Â timely documentationÂ and blameless postmortems.Support Products and services through consulting, developing/implementingÂ software platforms and frameworks, capacity planning, launch reviews, deployment, operations, refinement, bug detection.Minimum QualificationsBachelor's degree in Computer Science, related technical field, or equivalent practical experience.Experience programmingÂ code for production useÂ in one or more of the following: Python, Go,Â C, C++,Â JavaExperience with Unix/Linux operating systems internals (e.g., filesystems, system commands, system tools, systems, init), networking (e.g., IP addressing, interfaces)Experience with analyzing and troubleshooting systems.Experience using repositories (such as GIT, Nexus, Docker Registry)Â Experience creating SQL code to query schemas, tables and data in Relational databasesPreferred QualificationsâÂ Â Â Experience maintaining large-scale highly available Products and systems.âÂ Â Â Systematic problem-solving approach, coupled with effective communication skills and a sense of drive. Ability to debug, optimize code, and automate routine tasks.âÂ Â Â Experience designing and developing software oriented towards systems, product or network automation.âÂ Â Â CI/CD and build experience: Bitbucket, Jenkins, Ansible, GIT, Vault, Consul, Terraform, HELMâÂ Â Â Experience working in AWSâÂ Â Â Solid understanding of networking concepts; TCP/IP, SNMP, SSH, DNS, VPNsâÂ Â Â Experience with operational monitoring tools (such as Elasticsearch, Kibana, Fluent Bit/FluentD/Filebeat, Grafana, Prometheus, Nagios, Zabbix, CloudWatch)âÂ Â Â Understanding of containerization technologies and orchestration (Dockers/Kubernetes)âÂ Â Â Experience with RESTful APIsâÂ Â Â Experience in a regulated industry environment and data security compliance (PCI, ISO/IEC, GLBA, FINRA, PSD 2, PHI/HIPAA, DOJ, SOC, GDPR, etc)Â Â Amdocs is an equal opportunity employer. We welcome applicants from all backgrounds and are committed to fostering a diverse and inclusive workforceÂ Â ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T15:33:32.000Z"
+    },
+    "company": {
+        "name": "Amdocs",
+        "link": "https://www.linkedin.com/company/amdocs"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

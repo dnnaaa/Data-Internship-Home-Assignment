@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Your OpportunityWe are looking for a skilled engineer with disciplines that incorporate aspects of software systems engineering and operations. We are combining these skills to come up with better ways of managing and operating applications.What you are good atEvangelize SRE mindset and solve problems through systematization.Identify opportunities to build innovative tools and solve unique operations problems on a large enterprise and mission critical applicationsCreate scripts to automate operational tasks & incorporate the solutions into infrastructureTriage alerts & diagnose/resolve critical issues, manage implementation of changesDevelop tools, frameworks, and instrumentation to validate and increase rollout success for applications.Coordinate capacity planning Develop CI/CD orchestration systems to reduce friction for software delivery to production.Real-Time troubleshooting of mission critical application workflows and incorporate feedback to product development.Participate in on call supportWhat you haveRequired Skills8-10 years of experience with enterprise level administration and support8-10 years of experience in writing automation scripts, building application dashboards for proactive monitoring, setting up Alerts for early determination of the issues8-10 years of experience practicing SDLC (Software Development Lifecycle) practice, process improvementsHands on enterprise systems administration, monitoring, and deployment activitiesExperience with Windows 2012/2016 hosted via Virtual MachineKnowledge of IP networking including DNS, DHCP, firewalls, IP routing, etc.Familiarity with large scale distributed systems and high-availability architecturesLinux and Windows system administration, troubleshooting, and tuningDevelopment experience in one or more or programming languages such as .Net, Powershell, Java, Python, BashKnowledge of one or more of SQL, NoSQL databasesKnowledge of one or more of Message Brokers such as Solace, RabbitMQ, IBM MQWorking knowledge of Splunk, AppDynamics or similar tools Bachelor's degree in Computer Science or related disciplineHelpful SkillsFinancial services industry experienceAgile methodologiesPersonal SkillsStrong customer orientation with an affinity to proactively own, communicate, and follow-through projects and issuesExtreme sense of ownership to resolve problems in a distributed environmentGritty resolve to dig deeper into technical issues in a complex trading eco-systemA self-starter with the ability and confidence to independently resolve issues and bring results back to the teamWhy work for us?Own Your Tomorrow embodies everything we do! We are committed to helping our employees ignite their potential and achieve their dreams. Our employees get to play a central role in reinventing a multi-trillion-dollar industry, creating a better, more modern way to build and manage wealth.Benefits: A competitive and flexible package designed to empower you for today and tomorrow. We offer a competitive and flexible package designed to help you make the most of your life at work and at homeâtoday and in the future. Explore further.Schwab is committed to building a diverse and inclusive workplace where everyone feels valued. As an Equal Opportunity Employer, our policy is to provide equal employment opportunities to all employees and applicants without regard to any status that is protected by law. Please click here to see the policy.Schwab is an affirmative action employer, focused on advancing women, racial and ethnic minorities, veterans, and individuals with disabilities in the workplace. If you have a disability and require reasonable accommodations in the application process, contact Human Resources at applicantaccessibility@schwab.com or call 800-275-1281.TD Ameritrade, a subsidiary of Charles Schwab, is an Equal Opportunity Employer. At TD Ameritrade we believe People Matter. We value diversity and believe that it goes beyond all protected classes, thoughts, ideas, and perspectives.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-23T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Charles Schwab",
+        "link": "https://www.linkedin.com/company/charles-schwab"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 94600,
+        "max_value": 189000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

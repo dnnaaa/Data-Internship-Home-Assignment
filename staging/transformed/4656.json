@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer III",
+        "industry": "Information Technology and Services,Banking,Financial Services",
+        "description": "Job Description:Position SummaryAssist in building upcoming projectsRequired SkillsUnderstanding PRPC Architecture, tools and frameworkBPM TechnologyDesired Skills-Pega Senior System Architect with proven experience in designing, developing and supporting high volume transactional n-tier enterprise components/applications. Will be working as part of team-5+ years in PRPC - Pega V 6.x / Pega 7.x / Pega 8.x-Strong in PEGA concepts and implementation experience with PEGA connectors, performance tuning, decision trees, listeners , UI design, Integration, Security Model etc.-SQL/Database concepts-Experience in with full lifecycle PEGA implementations (preferably PEGA 7)-Experience in all phases of software development lifecycle including analysis, design, implementation, testing and deployment-Ability to create reusable components that can be leveraged across the enterprise for providing top-notch customer experience.-Ability to troubleshoot and resolve complex production issues-Provide leadership and deep technical expertise in all aspects of solution design and application development for specific business environment-Should be able to collaborate with external technology team to coordinate delivery of software solution.-Will not have direct reports but may lead projects and direct activities of a team related to special technology initiatives or operations.-Strong communication and presentation skills.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T00:01:36.000Z"
+    },
+    "company": {
+        "name": "Bank of America",
+        "link": "https://www.linkedin.com/company/bank-of-america"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "College Park",
+        "region": "GA",
+        "postal_code": "30022",
+        "street_address": null,
+        "latitude": 33.653393,
+        "longitude": -84.4495
+    }
+}

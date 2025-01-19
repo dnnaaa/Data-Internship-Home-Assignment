@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer/DevOps",
+        "industry": "",
+        "description": "Malbek is the next-generation, cloud-based contract management solution, empowering business users to take control of their contracts. The world of contract management is full of tools with clunky user interfaces, costly implementations, and customers that are generally underwhelmed. We know it doesnât need to be this way, and thatâs why Malbek is forging a new path. From products that delight to exceptional people who make everything run smoothly, Malbek stands apart as a company with both an outstanding product portfolio and a refreshing culture. Check outÂ Our CompanyÂ page to learn more about us.Â We are looking for a talented DevOps engineer to join our SRE team in the US, where you will be supporting our SaaS solution running on AWS.Â Experience and SkillsÂ·Â Â Â Â Â Â 3+ years as a Site Reliability Engineer, DevOps EngineerÂ·Â Â Â Â Â Â 2+ years AWS Experience (EC2, RDS, VPC, IAM, etc.)Â·Â Â Â Â Â Â Excellent scripting skills â Bash, Python, Go, etc. ideally with some coding experience.Â·Â Â Â Â Â Â Excellent Linux system administration and networking skillsÂ·Â Â Â Â Â Â Automating build pipelines, deployments and monitoringÂ·Â Â Â Â Â Â Writing ansible playbooks for managing infrastructure or similar toolsÂ·Â Â Â Â Â Â Diagnosing low-level systems issues and tuning performanceÂ·Â Â Â Â Â Â Excellent Linux system administration and networking skillsÂ·Â Â Â Â Â Â Good understanding of cloud operations and deployment pipelines.Â Candidates should also be able to demonstrate the following abilities.Â·Â Â Â Â Â Â Ability to go off and research a new technology and provide a well thought out cost/benefit analysis.Â·Â Â Â Â Â Â Excellent communication skills; collaborative and personable - happy to help take a lead on projects.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â BenefitsÂ·Â Â Â Â Â Â A dynamic startup environment with a rapidly growing customer baseÂ·Â Â Â Â Â Â Lots of space and freedom to be yourself and take ownershipÂ Â ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T14:56:51.000Z"
+    },
+    "company": {
+        "name": "Malbek",
+        "link": "https://www.linkedin.com/company/malbek"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

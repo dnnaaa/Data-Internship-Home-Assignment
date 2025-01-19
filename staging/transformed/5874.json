@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Senior Data Engineer-Data InfrastructureServe Robotics seeks to a build data analytics platform which aims to improve delivery robots and drive business decisions. Data Infrastructure team is searching for an enthusiastic individual who could tackle complex technical challenges in data collection, transferring and processing at scale, and develop solutions which will run on robots and in the cloud.What you'll be doingDesign, implement, and improve the analytics platform.Develop and maintain data tools and solutions (e.g., pipelines, models, tables) to acquire, process, and store data by ensuring the accessibility, reliability, and quality of data for end users.Apply data modeling techniques to organize and transform data into meaningful and valuable output.Understand the data needs of other teams and build cross-functional solutions in a collaborative work environment.Drive ongoing efficiency and reliability improvements through design and automation: performance, scaling, observability, and monitoring.What makes you a strong fitStrong problem solving and coding skills in at least one of the following languages: Python/Java/Scala/Kotlin.Expert level skills writing and optimizing complex SQLKnowledge of data warehousing conceptsExperience in data mining, profiling, and analysisExperience with complex data modeling, ETL design, and using large databases in a business environmentExperience with Big Data technologies such as GCP BigQuery/Dataflow, AWS Redshift, Spark or similar technologiesYou are able and comfortable to communicate well, both verbally and in writing.You are passionate about technology and enjoy collaborating, learning from or teaching others so we can all become better developers.You value respectful and inclusive environments, and always want to do your best to help your team and strive to excellence.Bonus pointsSound knowledge of distributed systems and data architecture - design and implement batch and stream data processing pipelines, knows how to optimize the distribution, partitioning, and MPP of high-level data structures.Demonstrate efficiency in handling data - tracking data lineage, ensuring data quality, and improving discoverability of data.Familiarly with different types of data serialization formats such as Parquet, Avro and Protobuf.About Serve RoboticsOver 40% of restaurant deliveries in the US are within 30 minutes walking distance, yet 90% of the time, we are moving two-pound burritos with two-ton cars!We are reimagining how things move in cities. Our personable sidewalk delivery robot, Serve, is a small, low-speed self-driving vehicle thatâs designed to take deliveries away from congested streets to save energy and reduce emissions, while making deliveries faster and cheaper.Having completed thousands of commercial deliveries for Postmates (now Uber) in Los Angeles and San Francisco, we recently spun out with backing from top tier investors to grow faster and target the entire sidewalk delivery market. Our commercial agreement with Uber provides us unlimited access to delivery jobsâand thus revenue.We are proud to be an equal employment opportunity and affirmative action employer. Qualified applicants are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T17:38:29.000Z"
+    },
+    "company": {
+        "name": "Serve Robotics",
+        "link": "https://www.linkedin.com/company/serve-robotics"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

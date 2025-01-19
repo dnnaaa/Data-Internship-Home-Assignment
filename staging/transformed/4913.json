@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Sr IT Specialist (Bus. Title: Sr. Data Engineer)",
+        "industry": "Information Technology and Services,Staffing and Recruiting,Hospital & Health Care",
+        "description": "SummaryThe Sr. IT Specialist (Sr. Data Engineer) role is a highly versatile backend developer for our information systems, supporting SQL Development for our web applications, ETL processes, data automation and report development. Sr. IT Specialists (Sr. Data Engineers) work closely with client services teams to support client data deliverables, as well as operational teams across the business to support functional data needs for business processes. Strong Sr. IT Specialists (Sr. Data Engineers) are collaborative, open-minded and strategic problem solvers who excel at learning new skills and putting them to use.Responsibilities Design and develop data report extracts, processes and comprehensive systems to support the needs of the business and functionality of web applications Build systems and reports to support various types of data status inquiries Quickly identify and resolve production issues related to data matching, ingestion merge or reporting export Responsible for automated inbound lab result data ingestion processes utilizing SSIS, T-SQL and SQL Agent Jobs.  Develop and maintain complex matching logic systems and stored procedures for merging inbound patient results data from flat files or staging tables to existing patient profile records.  Continuous fine tuning and optimization of data integration systems to promote stability and eliminate exceptions requiring human intervention Work with business and client liaisons to create standardized approaches to data sharing and integration Document data workflow diagrams for major services Build and manage monitoring systems and tests for production data quality Build data systems and processes to enable easy troubleshooting and exception reconciliation by the Data Ops team Develop procedures to enhance reporting and query capabilities to improve efficiency and accuracy Design and build data visualizations, interactive dashboards and report extracts to support the internal business and clients Collaborate with software development team on database architecture and processes to support applications Collaborate with and support client services teams for service implementation and troubleshootingRequirementsLicense/Certification/Education: Normally requires a B.S. Degree in Computer Science w/5+ years experience.Qualifications And Requirements 5+ years working in information systems development roles or proven technical skills coupled with a degree/certification in computer science, info systems or similar field.  Exceptional skills in relational database systems (MS SQL Server) MS SQL Server, T-SQL, dynamic SQL, scripting, Reporting services and Integration Services, flat file automation (pull, post) Ability to identify and diagnose ETL and database related issues, perform root cause analysis, and recommend corrective actions Python and other data scripting language experience is a plus Data visualization design and development capability in Tableau or other tools/languages Highly proficient with SQL Server Integration Services, SQL Server Agent automation Ability to work with complex business requirements in developing SQL stored procedures. Solid understanding of flat file formats and file format conversion Understanding of EDI file formats Solid communication skills for documenting complex processes and oral communication skills in communicating with technical and non-technical employees. Data workflow mapping in Visio or other similar tool Must be highly proficient with all common Microsoft Office 365 features; including the desktop applications Experience with Azure Platform as a Service SQL Database and other data automation products preferred Occasional working evening and weekend hours to resolve production issues or urgent client needsShift1ScheduleM-F 830am - 530pm",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T22:35:51.000Z"
+    },
+    "company": {
+        "name": "Labcorp",
+        "link": "https://www.linkedin.com/company/labcorp"
+    },
+    "education": {
+        "required_credential": "associate degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Liverpool",
+        "region": "NY",
+        "postal_code": "13090",
+        "street_address": null,
+        "latitude": 43.102867,
+        "longitude": -76.20637
+    }
+}

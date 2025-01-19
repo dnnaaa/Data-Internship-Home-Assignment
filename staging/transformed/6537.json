@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Computer Software",
+        "description": "The CompanyÂ Â Running a restaurant is a balancing act - itâs a barrage of challenges from all directions and knowing how to maximize resources is the key to bringing it all together to make it a successful business. To make it work, itÂ has toÂ be clear where to focus.Â Â Lineup.ai is a sophisticated digital tool that interprets contextual data to accurately predict how busy a restaurant will be â today, next week, or in three weeks. In partnership with best-in-class restaurants, and leveraging advanced machine learning models, the team at Lineup.ai has developed a solution by rooting our innovation efforts in our purpose â to help our customers mitigate risk and uncertainty. By considering multiple key factors that affect demand, Lineup.ai increases confidence and consistency in a managerâs decisions.Â Our easy-to-use software shows executives and managers exactly what they need to make better, faster decisions toward increasing efficiency and improving profitability. Weâve built a custom prediction engine tailored to each storeâs specific geography, weather, and local events. Lineup.ai is up and running in multiple pilot locations, enabling continued iteration of the key features and refinement of the predictive model.Â What You Will Do:Â Experiment withÂ a variety ofÂ machine learningÂ algorithms to build, test, and refineÂ predictive models for restaurant sales, labor, and inventoryÂ Identify and experiment with new data sourcesÂ to increaseÂ theÂ predictiveÂ power of our productsÂ Design and develop incremental model improvements and data acquisition strategiesÂ Â Develop monitoringÂ metrics to reflect real-world model performance and make recommendations to shape the future direction of models and digital solutionsÂ Â Collaborate withÂ Product, UX, and the leadership teamÂ to understandÂ businessÂ requirements and prioritizeÂ solutionÂ developmentÂ Collaborate with ML Engineer to determine how to bestÂ operationalize andÂ scale solutionsÂ Partner withÂ ML EngineerÂ andÂ the 1848 Ventures Data Science Practice GroupÂ to create more robust features and algorithmsÂ as well as develop shared best practices and broadly reusable componentsÂ How You Will Get Here:Â Â Commercial experience applying data and machine learning to drive generate business valueÂ A track record of designing and implementing time-series algorithmsÂ (forecasting)Â Experience operationalizing modelsÂ in a three-tiered environmentÂ (dev, test, prod)Â A demonstrated ability toÂ communicateÂ technical findingsÂ toÂ a non-technical audienceÂ A demonstrated ability to dive deep and solve new complex problems but the discernment to know when, and how deep to dive (progress over perfection; value driven)Â High levels of competence withÂ PythonÂ High levels of competence with SQLÂ A high-level understanding of data architecture and database designÂ Proficient with a wide variety of machine learning and data munging libraries and tools (e.g.Â NumPy, scikit-learn,Â PyTorch,Â xgboost, etc.)Â Prior experience working with data engineers, software engineers, and dev ops teams to set up appropriate technical resources to perform Data Science work and translating prototypes to productionÂ Â Proficiency with at least one cloud-based platform (Google Cloud Platform, Amazon Web Services, or Microsoft Azure)Â Nice To Haves:Â Prior experience implementing deep learning algorithmsÂ Experience with DAG / workflow orchestration tools (e.g.Â Airflow, Prefect)Â Experience writing unit testsÂ Experience with other general-purpose programming languagesÂ ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-30T16:07:47.000Z"
+    },
+    "company": {
+        "name": "Lineup.ai",
+        "link": "https://www.linkedin.com/company/lineupai"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Westfield Center",
+        "region": "OH",
+        "postal_code": "44251",
+        "street_address": null,
+        "latitude": 41.02686,
+        "longitude": -81.94169
+    }
+}

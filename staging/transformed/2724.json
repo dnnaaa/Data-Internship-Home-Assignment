@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Consumer Services,Financial Services,Information Technology and Services",
+        "description": "Company DescriptionNow, more than ever, itâs not only convenience but safety we think about when we choose to shop online rather than going into an actual store. Cardinal, a Visa solution, is a global leader in authenticating digital transactions. We work every day to make the digital shopping experience safe, rewarding, and engaging. For over two decades, weâve been bringing merchants, issuers, and shoppers together in an experience where everybody wins. With a singular focus, proven technology, and dedicated service, we continuously raise the bar for payment authentication around the world. We are one of the leading FinTech companies in Northeast OH. We are proud of what we do and how we do it.When you work with us, you get the best of two worlds. Cardinal is a small company, with a welcoming, family-like atmosphere. But as a Visa solution, we offer the world-class resources and benefits of a global company. As companies with a worldwide customer base, both Cardinal and Visa realize the benefits of having a diverse employee base, both for our products and customer service. We are dedicated to continuous improvement in all that we do. We use Lean and Agile principles and rituals as the framework for achieving that improvement. To achieve these goals we need accomplished and ambitious people - people that recognize the value that comes with the varying perspectives, and the cultural awareness that comes with our diversity.Location:This role is eligible for remote work from anywhere in the US, or could be based out of our headquarters in Cleveland, OH.Job DescriptionWe are seeking out a Site Reliability Engineer to join our growing Continuous Delivery team here at CardinalCommerce. This engineer would join a team of passionate engineers whose mission is to modernize cardinalâs application delivery process, runtime environment, and automated testing process using a combination of containerization and pipeline technologies.The role is responsible for helping the company continue to architect and manage their Kubernetes environments from development through production along the way adding testing and security automation. The Site Reliability Engineer engineer would lead cross-functional projects including members from the development, operations, and QA organizations to help build highly available and resilient systems. In addition to the architectural work, there will be hands-on responsibilities including implementation and troubleshooting. Other responsibilities for this role will include laying out both monitoring and centralized logging strategy as well as training and gaining buy-in from all impacted groups.What Youâll DoArchitect/Implement/Manage infrastructure to support Kubernetes clusters in all environmentsProvide support for all application environments as well as the continuous integration build environmentDevelop/implement centralized logging strategyDevelop/implement container monitoring strategyAct as the Docker technical SME for our Continuous Integration TeamParticipate in requirements gathering sessionsEvaluate and/or recommend purchases of network hardware, software, and peripheral equipmentCoordinate and conduct project architecture, infrastructure review meetingsDevelop/implement container scaling strategyQualificationsWhat We Need You To HaveMinimum of a Bachelorâs degree in technical or related disciplineIn lieu of degree, a high school diploma/equivalent with four or more years related experience and/or training or equivalent combination of education and experience will be considered3+ years of software engineering and/or IT operations and infrastructure experienceExperience in the following areasLinux (Redhat, ubuntu)Infrastructure Automation tools (ansible, salt, chef)Container scheduler (Kubernetes, Docker Swarm)Containerized development (Docker, rkt)Logging tools (ELK stack, Splunk)Monitoring tools (Prometheus, Telegraf)What We Would Like You To HaveExperience in the following areas:Application pipeline software (Jenkins, Bamboo)Source Control Tool Administration (Bitbucket, Github enterprise)Scripting (bash, powershell)Experience in DevOps cultureAdditional InformationVisa will consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.Job Number: REF34920O",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-20T09:42:13.000Z"
+    },
+    "company": {
+        "name": "Visa",
+        "link": "https://www.linkedin.com/company/visa"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Mentor",
+        "region": "OH",
+        "postal_code": "44061",
+        "street_address": null,
+        "latitude": 41.699814,
+        "longitude": -81.33907
+    }
+}

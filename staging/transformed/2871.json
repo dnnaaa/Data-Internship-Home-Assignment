@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer, ML Platform",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Join a leading fintech company thatâs democratizing finance for all. Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers, removing fees, and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.We Are Proud Of The World Class Products And Company Culture We Continue To Build And Have Been Recognized AsJust as we focus on our customers, we also strive to create an inclusive environment where our employees can thrive and do impactful work. A Great Place to Work A CNBC Disruptor 50 in 2019 and 2020 A LinkedIn Top Startup in 2017, 2018, 2019 and 2020 Robinhood is backed by leading investors that include DST Global, Index Ventures, NEA, Ribbit Capital, Thrive Capital, and Sequoia.Check out life at Robinhood on The Muse!About The RoleInsights from data power most decisions at Robinhood. The Core Machine Learning team works with a simple mission of making it easy to use machine learning at Robinhood. The team is executing the mission by building the core infrastructure (eg. Training and serving platform, feature platform) and a number of model-as-a-service solutions (eg. Embedding service, multi-arm bandit service). The team works closely with data scientists who are applying ML in various spaces such as risk and fraud, growth, customer understanding etc. to ensure that they are able to ship their solutions to create business value.As an MLE focused on ML Platform, you will build Robinhoodâs ML platform and deploy it in stages. Depending on your expertise and interest, you will have the opportunity to work on different aspects of the platform such as distributed training, feature serving, automatic training and deployment, model monitoring and so on. You will also be responsible for making the platform highly scalable, reliable, and observable for our customers.What Youâll Do Day To Day Understand the ML lifecycle of data scientists and identity their pain points Address the customer pain points by adding functionalities to the ML platform Design, develop, deploy, and support new modules as needed Help customer teams train novel ML models and take them to production. Simplify feature engineering, hyper-parameter tuning, model monitoring etc. for ML platform users Work multi-functionally with product managers, operations and other engineering teams in order to build a platform that actually caters to their need Collaborate with our data infrastructure teams to ensure outstanding access to data on our platform Present ML success stories to internal and external audiences Survey the latest and greatest in various areas of ML and bring the benefits of those to the firm whenever possible About You 3+ years of experience as Machine Learning Engineer Proven understanding of large-scale ML systems Proven understanding of machine learning and deep learning algorithms Passion for writing safe, secure, and readable code Graduate degree in a quantitative field such as computer science, engineering or natural sciences and some experience in software engineering in a production environment. Excellent programming skills, including proficiency in Python, Scala, or Java Passion for working and learning in a fast-growing company Excellent communication skills to tell a story through data. Experience of building relationships and influencing stakeholders across multiple disciplines Experience of working with product teams and shipping product-aligned software Bonus Points Industry experience building AL/ML/data science platforms for large user base Experience of contributing to open source ML platform repos Technologies We Use Python Scikit-learn Tensorflow or Pytorch Kubernetes Kafka Feeling ready to give 100% to democratizing finance for all? Weâd love to have you apply, even if you feel unsure about whether you meet every single requirement in this posting. At Robinhood, weâre looking for people invigorated by our mission, not just those who simply check off all the boxes.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04T01:08:08.000Z"
+    },
+    "company": {
+        "name": "Robinhood",
+        "link": "https://www.linkedin.com/company/robinhood"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 132000,
+        "max_value": 203000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Menlo Park",
+        "region": "CA",
+        "postal_code": "94029",
+        "street_address": null,
+        "latitude": 37.45322,
+        "longitude": -122.18322
+    }
+}

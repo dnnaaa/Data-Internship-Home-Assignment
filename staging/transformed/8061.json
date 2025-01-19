@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Back-End Software Engineer",
+        "industry": "",
+        "description": "ABOUT USAt ZaiNar, weâre leveraging patented innovations usingÂ software-defined radios and advanced signal processingÂ to build revolutionary new products inÂ Positioning, Navigation, and Timing. Our imaginative team has developed the worldâs most precise network time synchronization and distribution capabilities âÂ wirelessly syncing to sub-nanosecond accuracy. Weâre solving leading edge problems in RF location tracking and network communications. Our initial target market isÂ asset tracking in dynamic industrial environmentsÂ ($10B+), and the opportunities beyond that are endless. ZaiNar already complies with release 16 of 3GPP standards for 5G, to enable ZaiNarÂ location tracking for any 5G-NR deviceÂ without hardware changes. ZaiNar is VC-backed by tier 1 funds including Softbank, and has graduated from multiple accelerator programs including StartX, Alchemist, and Plug and Play.Ensuring a diverse and inclusive workplace, where the best idea wins is, important to us. So, come join a curious, collaborative, and forward-thinking team, where everyone has the freedom to shape their own future, our companyâs, and the worldâs â one nanosecond at a time.THE ROLEJoin a team of brilliant engineers developing the next generation of networked software-defined radio systems to support ZaiNarâs super-precise network time distribution capabilities. We are seekingÂ aÂ Senior/Principal Back-End Software EngineerÂ with practical experience building great software. You will help to create web services that deliver ML models, data for analytical reporting, and provide the backbone for an AI-powered highly-scalable location/positioning platform. You should have at least 7 years or more of experience as a Back-end engineer. Hands-on experience working with a cloud platform, preferably AWS, is required. Experience building commercially-deployed software is also necessary. In your role you will fully support automated unit and integration testing, and system/regression testing.This role reports to the VP of Engineering and operates closely with Embedded/Edge SW and HW development teams.Â The successful individual must be self-motivated and have the ability to proactively see what needs to be done.Youâll be paid well, offered great healthcare and stock options, and work in an excellent safe environment. ThisÂ full-time roleÂ works out of our new Belmont office, right off 280. ZaiNar has strict COVID-19 policies in place to ensure the health and safety of our employees and our community, and we are flexible with working from home.Â RESPONSIBILITIESâ¢Â Â Â Â Â Design, code and work within AWS to build backend web services.â¢Â Â Â Â Â Code in python to support ML models.â¢Â Â Â Â Â Work with signal processing and data scientists to build and deploy services encapsulating ML models.â¢Â Â Â Â Â Build location management functionality that scales up to serve millions of concurrent clients globally.â¢Â Â Â Â Â Prepare web-based reports, populate dashboards, and provide design documentation.â¢Â Â Â Â Â Identify and record bugs.â¢Â Â Â Â Â Be a self-starter, own your work from concept to deployment.â¢Â Â Â Â Â Work in an environment that supports your individual growth.Â Â COMPELLING ATTRIBUTESâ¢Â Â Â Â Â BSc degree in Computer Science, Engineering or a related subject.â¢Â Â Â Â Â 7+ years of web services development experience.â¢Â Â Â Â Â Experience with Python is a must (experience in other programming languages will be considered as a plus, with a strong preference for C/C++).â¢Â Â Â Â Â Experience with microservice architectural frameworks.â¢Â Â Â Â Â Development experience with Linux/Unix platform.â¢Â Â Â Â Â Capability in debugging complex software applications, performance tuning and profiling.â¢Â Â Â Â Â Experience with Amazon Web Services (EC2, S3, API GW, ECS, Lambda, IoT Core, SageMaker, and Greengrass).â¢Â Â Â Â Â Experience in relational database, data modeling, and developing SQL queries.â¢Â Â Â Â Â Hands-on experience with Continuous Integration systems.â¢Â Â Â Â Â Experience using configuration management tools such as Jira, and experience using version control systems such as Git.â¢Â Â Â Â Â Interpersonal skills and appreciation of other people's work discipline within a startup environment.â¢Â Â Â Â Â The ability to work in an agile team.â¢Â Â Â Â Â Fluency in English.Â ALSO INTERESTINGâ¢Â Â Â Â Â MSc degree in Computer Science, Engineering or a related subject.â¢Â Â Â Â Â Experience in ML workflow, including labeling, data preparation, feature engineering, training, tuning, hosting and monitoring.â¢Â Â Â Â Â Knowledge and prior experience in Kubernetes environment a great plus.â¢Â Â Â Â Â Experience on ElasticSearch and Kibana platforms.â¢Â Â Â Â Â Some web design/development and/or software application development experience (web or mobile).â¢Â Â Â Â Â Experience with HTML5, CSS, Javascript, web services (SOAP and REST), XML.â¢Â Â Â Â Â Ability to also interface with Business Management and customers directly.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-18T06:12:58.000Z"
+    },
+    "company": {
+        "name": "ZaiNar, Inc.",
+        "link": "https://www.linkedin.com/company/zainar"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 84,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Belmont",
+        "region": "CA",
+        "postal_code": "94003",
+        "street_address": null,
+        "latitude": 37.508537,
+        "longitude": -122.291954
+    }
+}

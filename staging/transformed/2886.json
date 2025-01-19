@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "Link to req https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3365648Back End Software Engineer for Machine Learning TeamLocation: San FranciscoDo you want to join a Machine Learning team committed to personalizing the PlayStation experience for millions of users? The work we do delivers impactful insights to build an increasingly dynamic and interactive experience! The Backend/server Software Engineer will deliver and optimize interactions across PlayStation experiences and systems by designing, building, testing and cost-effectively deploying real-time client-facing online Machine Learning service.We are looking for someone who can build delightful products and experiences for millions, in an agile environment, collaborating with teams-across Engineering, Product and Design. Further, you will be immersed in ML technologies, tools and processes, as you help to advance our technical objectives and architectural initiatives.This is a mid-level backend/server engineer position, but we will also gladly consider senior level candidates.Responsibilities:Design, build, deploy and maintain Java-based backend micro service that integrates with Machine Learning pipelineOptimize resource and infrastructure cost and extend micro service to use new technologySupport production issues and actively serve on-call scheduleOwn the implementation end to end by effectively communicate with non-technical stakeholders on requirements and deliverablesQualifications:BS in engineering or computer scienceProficiency in Java and knowledge in Python or Scala3+ years of industry work experience in large scale and low latency Java/Kubernetes service that serves real-time customers.Machine Learning knowledge and experience is a big plus.Preferred qualifications:Experience with system distributed cloud-based environments, such as AWS.Experience with tech stacks such as Spark, Kubernetes, Jenkins, Prometheus.Experience with machine learning tools such as MLlib, Tensorflow, and scikit-learn.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T16:20:05.000Z"
+    },
+    "company": {
+        "name": "Sony Interactive Entertainment",
+        "link": "https://www.linkedin.com/company/sony-interactive-entertainment-llc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 109000,
+        "max_value": 229000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

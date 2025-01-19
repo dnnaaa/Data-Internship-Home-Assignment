@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine learning Data Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Machine LearningÂ Data EngineerÂ Long-Term ContractCincinnati, OhioÂ You will haveÂ the opportunity to work on challengingÂ Machine LearningÂ and AIÂ projects with the goal to improve the everyday life ofÂ clientâsÂ members.Â Â You willÂ collaborate with data scientist, analyst, business and IT teams toÂ design,Â implement, and deployÂ Machine Learning and AIÂ services using Python,Â PySpark,Â Azure services,Â Databricks, Terraform,Â and other open-source software.Â Â Develop plans, designs, code,Â andÂ documentation,Â andÂ toÂ performÂ code reviews,Â testing, andÂ debugging.Â Â You will embrace and enforce best practices in our data science community withÂ automated,Â repeatable data pipelines.Â Some examples of how we add capabilities toÂ Machine Learning PlatformÂ include:Â Â·Creating templates for data scientists, embracing leading-edge modeling techniquesÂ Â·Establishing a Feature Store with tens of thousands of features available to use in predictive modelsÂ Â·Defining monitoring, auditing, data lineage, and dependency tracking for data pipelines to improve qualityÂ Â·Integrating ethical AI bias monitoring and drift analysis into modelling processingÂ Â·Standardizing the definitions of clinical, financial, and actuarial features for use across the businessÂ Tools usedÂ Â Â·Python, PySpark,Â Azure DatabricksÂ Â· Azure Data Factory,?Azure DevOps,?Azure Kubernetes Service,Â CosmosDB, AppInsights, Kafka,?PulsarÂ Â·TerraformÂ Â·Open-source ML software, likeÂ SciKitÂ Learn,Â SparkML,Â TensorFlow,Â Horovod,Â PetastormÂ Â Job DescriptionÂ Â·Build and deployÂ ML modelsÂ on Azure, using best practices in security, and Azure servicesÂ Â·Understand best practices for effective predictive models, including cluster management and algorithms, and evangelize with Humana Data ScientistsÂ Â·ThriveÂ in a fast-paced agile environment, closely interacting with businessÂ analysts,Â software engineers, machine learning scientists, data engineers, and data scientistsÂ Â·Put together production templates, review and test ML code, and deploy it toÂ ProductionÂ Â Role RequirementsÂ Â·BS in Computer Science or related fieldÂ Â·3+ years of experience working on cloud platformsÂ â AzureÂ preferredÂ Â Â·5+ years of experience withÂ Machine LearningÂ and AIÂ Â·5+ years of software development experience, withÂ significantÂ Python experienceÂ Â·Solid knowledge of data structures and algorithmsÂ Â·Experience in production environments (ideally enterprise level).Â Directly responsible for creating productionÂ jobsÂ Â·AbilityÂ to learn new technologies and comprehendÂ unfamiliarÂ data domains and business processesÂ quicklyÂ Â Role DesirablesÂ Â·Open-source contributions and portfolio of shipped code at GitHubÂ Â·Experience with Azure, particularly Azure Data Factory (ADF), Spark, Git, and other software engineering tools;Â Â·Experience working with data scientists to streamline code, implement reliable production processes to score models, and/or building scalable, efficient processes to derive newÂ dataÂ Â·Familiar withÂ healthcare applications, terminologies, and dataÂ Â·Passion projects with ML/AI/NLP, for exampleÂ Kaggle competitions and HackathonsÂ Â RoleÂ BonusÂ Â·Working multiple tools together on the Azure platform (Databricks, ADF, AppInsights and other monitoring/logging tools) to deploy to production;Â Â Â·Experience in an enterprise production environment where they have hardened, refactored or otherwise improved upon the training code from DataÂ ScientistsÂ ",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-26T17:16:51.000Z"
+    },
+    "company": {
+        "name": "MAPSYS Inc.",
+        "link": "https://www.linkedin.com/company/mapsys"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cincinnati Metropolitan Area",
+        "region": null,
+        "postal_code": "45220",
+        "street_address": null,
+        "latitude": 39.097866,
+        "longitude": -84.508
+    }
+}

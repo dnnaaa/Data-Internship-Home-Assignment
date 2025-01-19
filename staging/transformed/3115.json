@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Transportation/Trucking/Railroad",
+        "description": "Who We Are:Reengineering one of Americaâs most antiquated industries is no small task. But at Variant, we like a challenge. And weâre committed to our cause. We believeÂ drivers and shippers deserve better.Â WeÂ believe technology can transform trucking. And we knowÂ that when you hire the very best people, you get the very best results.Â And at Variant, that means reimagining every aspect of the driver experience. It also means successfully scaling a business model that others said couldnât be scaled.Â So, if you want to be part of a cross-functional team that is using a first-of-its-kind platform toÂ overhaul the long-haul trucking industry, we invite you to get on board.Â Why Variant?This is a once-in-a-lifetime opportunity to be part of transforming one of Americaâs largest industries from the inside out. If thatâs not enough, we also offer a highly-competitive compensation package, unlimited paid-time off, a collaborative work environment, and a team invested in each otherâs growth. Additionally, we have profit-sharing, an employee stock purchasing program, 401K matching, a professional development allowance, and a tricked-out office that you can work from post-COVID. So, join us, and letâs reengineer this industry. Permanently. And for the better.Â What Youâll Do:If you hate restrictive job descriptions, have an appetite for growth, and love collaborating with diverse teams, Variant is the place for you. Our ideal candidate will drive work around Mathematical Optimization, Machine Learning, Graph Algorithms, System Design and Architecture, and other critical workstreams as we continue to grow.Â What Weâre Looking For:Â EducationMaster's in computer science, statistics, mathematics, operations research or a related discipline required, PhD preferred.Â ExperienceÂ· Experience with Routing optimization.Â· Writing high-performance code for graph algorithms, linear algebra and matrix operationsÂ· C++, Python, Java, Linux, CPLEX or Gurobi. C# a bonusÂ· Translating real world situations into mathematical constraints and objective functionsÂ· Expertise with applied statistical modeling and machine learning techniquesÂ· Strong experience with Git and/or bitbucket is requiredÂ· Ability to work with multiple data sources and types (structured/unstructured)Â· Cloud experience (AWS/Azure/Google)Â· Experience in manipulating and analyzing complex data from multiple sourcesÂ Supervisory Responsibility: noneÂ Work Environment: This job operates in a normal professional office environment and routinely uses standard office equipment such as computers, phones, photocopiers and fax machines, and filing cabinets.Â Physical Requirements: While performing the duties of this job the employee must have the ability to communicate or exchange information; also, the employee is required to have close visual acuity to perform an activity such as viewing a computer, expansive reading, or preparing and analyzing data, reports and figures",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-09T15:13:00.000Z"
+    },
+    "company": {
+        "name": "Variant",
+        "link": "https://www.linkedin.com/company/drivevariant"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

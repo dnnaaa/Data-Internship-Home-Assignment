@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Associate Software Engineer, Full Stack",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "Job DescriptionDepartment: EngineeringReports To: VP of EngineeringYardstik is a new venture-backed software company based in Minneapolis that was recently recognized as a Best Place to Work and received Minne Innoâs Fire Award in the âGrowingâ category. Weâre on a mission to bring more security and safety to the internet economy. The world of background screening, certification, and training has lacked innovation and weâre here to change that for our customers.The team we have in place brings dozens of years of experience in SaaS and helping start-ups become forever companies. Weâre looking for awesome people to come help us reach new heights and fulfill our mission.Hereâs the high-levelYardstik is looking for a talented Full Stack Associate Software Engineer to help build out our platform. Your duties will include collaborating with other engineers to implement new features for our UI (react, express, node), internal and external back-end APIs (Ruby on Rails, Postgres), along with various other microservices (Typescript, NestJS) that comprise the Yardstik platform using modern cloud technologies (AWS, Docker).You are the right candidate for this role if you have completed training in software engineering and have the skills to hit the ground running. You must be a self-starter who is eager to learn, comfortable with uncertainty, and can demonstrate knowledge of programming and development practices.Our technology stack and development processes include the following:Backend & PlatformRestful APIs, GraphQLAWS, k8sRuby-on-Rails, Typescript, Express, NodePostgres, Redis, RabbitMQSPAs, MicroservicesClient-SideReact, SASSMaterial UIReact Testing Library, JestDev ProcessScrum-based agile approach with Continuous DeliveryModern use of tools and documentation; GitHub, Clubhouse.io, OpenAPI 3.0Here's whatâs expected of you:Perform coding, debugging testing & troubleshootingImplementing unit, integration, and end-to-end testingSelf-motivated ability to learn new technologies and skillsParticipate in code reviews by receiving & providing feedbackParticipate in Scrum Process as member of the TeamYour experience might look something like this:a background in the frontend, backend, or full-stack developmentan ability to take initiative and learn new technologiesjoy for being part of a highly collaborative, remote-friendly work environmentan affinity for wearing many hats from an engineering perspectivea passion for working in a fast-paced and rewarding startup environmentTechnical Qualifications:Proficiency in at least 1 high-level software development languageFormal software engineering education, related experience, or a combination of bothExperience with data storage technologiesPassionate about problem solvingCapacity to learn quicklyWhat we Offer:Company Health Insurance Plan401k Retirement PlanHealth Savings AccountLiberal Vacation PolicyOpportunity to accelerate your careerCompany stock options and the education to understand what those mean for you.Equal Employment OpportunityYardstik is an equal opportunity employer. All employment decisions are based on business needs, job requirements, and individual qualifications without regard to age, color, disability, equal pay/compensation, genetic information, national origin, pregnancy, race, religion, retaliation, sex (including sexual orientation and gender identity), sexual harassment or veteran status. Yardstik will not tolerate discrimination or harassment based on any of these characteristics.Powered by JazzHRkKYTXv34XO",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T07:16:42.000Z"
+    },
+    "company": {
+        "name": "Yardstik",
+        "link": "https://www.linkedin.com/company/yardstik"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Edina",
+        "region": "MN",
+        "postal_code": "55340",
+        "street_address": null,
+        "latitude": 44.91049,
+        "longitude": -93.34866
+    }
+}

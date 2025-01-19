@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "At Emburse our mission is to help make our usersâ lives -- and their businesses â better. We are dramatically transforming how organizations manage corporate expenses and invoices. We humanize work by automating manual tasks and saving usersâ time, so they can focus on what matters most -- their family, community, or more rewarding work. We help CFO's give their employees a simple and amazing experience while ensuring compliance and reducing costs. Our solutions are tailored for companies from start-ups to enterprises. We have more than 16,000 clients and 9 million users globally.Emburse has offices across North America, including Los Angeles, Montreal, Portland (ME), San Diego, San Francisco, and Toronto, as well as locations in the UK, Germany, Spain, and Australia.Our core values - Sincerity, Empathy, Empowerment, Individuality, and Teamwork - reflect who we are as a company. They are central to the decisions we make and the interactions we have with our teams, customers, and partners. As a people-focused company, we are seeking candidates who align with our values.Emburse is a proud recipient of a 2020 Tech Cares Award from TrustRadius and a 2020 IDC SaaS CSAT Award for Travel and Expense. These awards celebrate companies that have gone above and beyond to provide their communities, clients, and front-line workers with support during the COVID-19 pandemic. We are a people-first company, and this award is a testament to our mission to humanize work.Follow us to stay updated on news and job openings!Emburse Software Engineers contribute to the development of an engaging and interconnected set of system solutions. As an engineer, you will enhance the experiences of your customers, solve interesting challenges, and design new solutions. Emburse, known for its innovation and award-winning technologies, is strong on engineering. This ensures you will have access to the best and brightest minds in our industry to grow your experience and career within Emburse.What You'll DoTakes personal responsibility for quality and maintainability of the product and actively identifies areas for improvementIdentifies problems/risks of own work and othersUnderstanding of OWASPPossesses empathy with the user of the software they are producing and uses that empathy to guide decision-makingIdentifies viable alternative solutions and presents themSDLC processes are followed, including adopting agile-based processes/meetings, peer code-reviews, and technical preparations required for scheduled releasesPartners with product and analytics and drive requirements that take into account all parties' needsOn-boards and mentors less experienced team membersDevelops sophisticated software with minimum supervisionMakes complex contributions to technical documentation/knowledge base and team/engineering presentationsStrong ability to mentor and guide junior developersMay have role in supervising others or leading small to moderate projectsFixes complex bugs and demonstrates advanced debugging skillsProduces quality API documentation and ensures practices are followedContributes to system design sessions in their area of specialtyExpanded Code review responsibilitiesPerforms advanced refactoringGives constructive feedback to team membersLearn industry jargon and business concepts to better understand the challenges our technology is designed to solve.Raises roadblocks and updates estimations as neededAbility to communicate complicated concepts to junior staffWhat We're Looking ForBachelorâs degree in Computer Science or related field, or equivalent yearsâ experience6+ years of software development experience, preferably with Project Lead experienceMinimum of 6 yearsâ professional experience in Java development Experience working in OS X and Linux environments, Spring, AWS, Microservices, SQL, NoSQL, GIT. Experience working in a scrum and DevOps environmentGood understanding of agile application development lifecycleExperience Designing and building JSON or REST services, experience working with 3rd party APIs, AWS APIs, Docker or other containers, large-scale or distributed web applications, Test Driven Development and functional testingUnderstanding of various design patterns and OOP paradigmExperience in RESTful and security of API designKnowledge in at least 1 OOP languageEmburse provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Emburse complies with applicable state and local laws governing nondiscrimination in employment in every location where the company has facilities. This policy applies to all terms and conditions of employment.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-01T06:44:52.000Z"
+    },
+    "company": {
+        "name": "Emburse",
+        "link": "https://www.linkedin.com/company/emburse"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

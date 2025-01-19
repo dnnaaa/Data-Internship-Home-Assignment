@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Leisure, Travel & Tourism",
+        "description": "Data ScientistÂ The successful candidate will be responsible for developing and maintaining machine learning and predictive modeling algorithms to provide business insights and identify opportunities to improve current business processes or new avenues that should be explored. This individual will work closely with data engineers, analysts, software developers and SMEâs within the business to deliver new and exciting products and services. The main objectives are to leverage data science techniques and machine learning to drive operational efficiency and effectiveness by enabling proactive data-driven decisions across the organization. This includes fostering collaboration, building partnerships, co-developing products, sharing knowledge, providing insights and valuable predictive information to business teams and leaders to highlight potential risks and opportunities that initiate the drive for change. Key Responsibilities:Use and follow best practices to develop statistical and machine learning techniques to build bespoke models to address the needs of our customers and business. Build and maintain descriptive, predictive, and prescriptive models to streamline existing processes and identify market opportunities for new products and services.Assemble and derive value from large, multi-dimensional datasets that meet functional/non-functional business requirements.Integrate and curate data from a wide range of internal and external sources to develop detailed reports and datasets for predictive modeling.Use data visualization tools to explain your results simply and succinctly to technical, non-technical, and senior management.Leverage cloud technologies to deploy and operationalize machine learning endeavors.Dissect and solve complex business problems using analytical and quantitative approaches to identify patterns and correlations in large, complex datasets.Required Skills and ExperienceMinimum of 3 years hands-on experience in a data science role.Minimum 2 years of intensive experience with cloud-based Big Data, BI, ML and Analytics technologies, preferably AWS.Strong expertise with Big Data tools such as Databricks/Spark, Amazon Athena, etc.Experience with event driven architectures and implementing analytics on data streams utilizing pub/sub technologies such as Kafka and Amazon Kinesis.Strong capabilities in scripting languages such as Python, R, Scala, etc.Strong experience with statistical analysis, statistical modeling, and machine learning techniques. Experience with operationalizing Machine Learning using tools like Sagemaker.Experience with Data Visualization tools such as Tableau. Strong interpersonal and communication skills with Agile/Scrum experience.Strong problem solving and critical thinking skills with a proven record for identifying and diagnosing problems, and solving complex problems with simple, logical solutions.Outstanding verbal, written, presentation, facilitation, and interaction skills, including ability to effectively communicate technical and non-technical information and concepts to multiple organization levels.Â Required EducationÂ A bachelor's degree or higher in Computer Science, or other quantitative discipline such as statistics, mathematics, physics or engineering.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T19:09:50.000Z"
+    },
+    "company": {
+        "name": "Hertz",
+        "link": "https://www.linkedin.com/company/hertz"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Chicago Area",
+        "region": null,
+        "postal_code": "60618",
+        "street_address": null,
+        "latitude": 41.948055,
+        "longitude": -87.655754
+    }
+}

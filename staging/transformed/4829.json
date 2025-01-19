@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "The Data Scientist will report to the Senior Data Scientist within the University Analytics and Institutional Research department (UAIR) and will assist in the development and responsibilities of an integrated institutional planning office for the University of Arizona. The Data Scientist will serve as a liaison between the University Planning Office and UAIR and will be instrumental in providing statistical and predictive insights to University Senior Leadership to further institutional strategic goals. The scope of the office will be focused on institutional planning surrounding projections years into the future. The data scientistâs concentration will be on developing statistical, predictive, and prescriptive models to help guide the work of the planning office, as well as support the broader data science needs of UAIR. The position will require not only the ability to carry out complex technical data science requirements, but also to communicate and share relevant insights from statistical analysis and modeling.Â ResponsibilitiesDevelop and implement statistical, machine-learning, and heuristic techniques to create descriptive,Â diagnostic,Â predictive, and prescriptive analyticsÂ Collaborate with experts in various subject areas to get an understanding of underlying business processes, strategies,Â circumstances,Â and execution to produce effective statistical and machine-learning modelsÂ Identify opportunities to enhance our current analytical capabilities and develop new analytics products to enhance business insights and functions through expert mathematical, analytical, and computational techniquesÂ and guidanceÂ Identify approaches to improve accuracy and effectiveness ofÂ existingÂ analytical modelsÂ PresentÂ data-driven,Â informed, and results-basedÂ conclusions and recommendations to both internal and externalÂ leadership, college, department,Â and/orÂ project teams, including tailoring to technical and non-technical audiencesÂ Create visualizations, dashboards, presentations, and handouts to presentÂ conclusions and results in an intuitive formatÂ Work with cross-functional teamsÂ in the selectionÂ of appropriate analytical methods, designÂ ofÂ experiments and analytics, verification of data quality and information integrity,Â interpreting results, documenting processes and assumptions, and suitable presentation methodÂ CoordinationÂ with Business Intelligence data engineers, developers, analysts, and architects to ensure integration of functionality and toolsetsÂ Develop and document data modelling best practices and processesÂ QualificationsMasterâsÂ Degree in Mathematics, Statistics, Computer Science, or other related field; AND five yearsâÂ experience withÂ research, statistics, or analyticsÂ Experience programming and using data analysis software, such as Python or R, in a professional work environmentÂ One or more yearsâ experience with a database management language, such asÂ SQLÂ Experience using statistical/machine learning modeling techniques such as linear regression, logistic regression, clustering, random forest, gradient boosting, and ensemble modelingÂ Strong background in statistical concepts including regression analysis, factoring, clustering, decision trees, and experimental designÂ Experience in building, training, scoring, tuning, and maintaining predictive modelsÂ ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-19T16:29:20.000Z"
+    },
+    "company": {
+        "name": "University of Arizona",
+        "link": "https://www.linkedin.com/company/uarizona"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Tucson Area",
+        "region": null,
+        "postal_code": "85701",
+        "street_address": null,
+        "latitude": 32.213425,
+        "longitude": -110.92448
+    }
+}

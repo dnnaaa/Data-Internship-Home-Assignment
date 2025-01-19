@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Immediate need for a talentedÂ Site Reliability Engineer.Â This is aÂ Contract to Hire (FTE) employmentÂ opportunity and isÂ in Atlanta, GA (Initially Remote).Â Please review the job description below:Top Must Have: AWS, some software development experience, some Linux experience.What you will do: - Automate anything and everything! (Infrastructure build out, testing, deploying, monitoring, etc)- Design and assist in the authoring of software tools that reliably manage application delivery- Design and assist in the setup and maintenance of application monitoring and alerting- Engage with Development/Capability Teams to ensure best practices are implemented- Improve predictability and reliability of software releases, workflows and operating software.- Reduce application deployment windows by leading company towards a Continuous Deployment environment- Reduce mean time to recovery (MTTR) by helping troubleshoot, monitor, alert, and automating recovery.The skills we require: - Python, Ruby, Go or other systems programming (moderate skills required)- Experience with configuration management systems (Octopus, Chef, Puppet)- Experience rolling out redundant, mission-critical applications in a highly available production environment- Experience with version control systems (Git or SVN)- Experience with Cloud Computing platforms (Amazon AWS, Kubernetes, Heroku, etc)- Experience with continuous integration tools (Jenkins, CircleCI, etc), Artifactory (or Nexus)- Excellent written communication, problem solving, and process management skills- Desire to work in a fast paced, evolving, growing, dynamic environmentThe skills we prefer: - Linux system engineering expertise- VMWare, VirtualBox experience.- Experience supporting Ruby or Java applications- Experience supporting Database Server infrastructure (MySQL, Postgres, etc)- Networking Knowledge- Experience with Hashicorp tools (Vagrant, Terraform, Packer, etc), Linux Containers (docker, rocket)- Experience with Java build tools such as Ant, Maven, Gant, or Gradle- Experience with agile development, continuous integration and automated testing",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-26T17:27:22.000Z"
+    },
+    "company": {
+        "name": "Pyramid Consulting, Inc",
+        "link": "https://www.linkedin.com/company/pyramid-consulting"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "Computer Software,Computer Networking,Computer & Network Security",
+        "description": "DescriptionItâs an exciting time to be at Infoblox. Named a Top 25 Cyber Security Company by The Software Report and one of Inc. magazineâs Best Workplaces for 2020, we are leading the way to next-level DDI with our Secure Cloud-Managed Network Services, bringing next-level security, reliability, and automation to cloud and hybrid systemsâall managed through a single pane of glass. Our success depends on bright, energetic, talented people who share a passion for building the next generation of networking technologiesâand having fun along the way.We are looking for a Senior Software Engineer to join our Cloud Engineering team in Tacoma, WA, or Austin, TX, reporting to the senior manager of Software Engineering. In this role, you will be a part of the team building SaaS-based applications and services powering Infobloxâs Data Lake and other Next-Gen Platform components. As part of the Cloud Engineering team, you will have the opportunity to use the latest technology to deliver the core foundation for all Infoblox applications. You will also get the opportunity to work with the best of the technical and thought leadership team at Infoblox.Youâre the ideal candidate if you are a strategic thinker who is driven to collaborate across teams, operate independently, and is deadline and results-driven.What Youâll DoJoin an agile SaaS team to design, develop, and maintain features and iteratively deploy services using Infobloxâs cloud-based architectureDesign and implement components of the Next Generation Platform & Data LakeRecommend ways to improve system reliability, efficiency, and qualityWork closely with various cross-functional product teamsStay current on key trends, especially in the area of technologies and frameworks like Kubernetes, Docker, and ELK/PrometheusBe responsible for key back-end components of the platformDevelop REST and gRPC APIs, as well as contribute to the overall API frameworkWhat Youâll Bring6+ years of experience in software development with programming languages such as Python, Golang, or JavaIn-depth knowledge of Linux system internals, including boot, network, and storage subsystemsKnowledge of protocols such as DHCP, DNS, NTP, and TCP/IPGood understanding of microservices architecture and container-based softwareExperience in microservices development and container-based software using Docker and other container technologies is a huge plusExperience with Amazon Web Services (EC2, VPC, ELB, S3, CloudFormation, etc.) is a plusGood exposure in application performance tuning, memory management, and scalabilityAbility to design highly scalable distributed systems using different open-source technologiesExperience building high-performance algorithmsBachelorâs degree in CS, CE or EE is required and masterâs in CS, CE, or EE is preferredGood communication skills What Success Looks LikeAfter six months, you willâ¦Develop expertise in GoLang/PythonLearn new skills related to cloud technologiesDevelop expertise in a microservices architectureImprove efficiency rate with completing projectsAfter About a Year, You Willâ¦Have made a significant contribution toward back-end developmentHave made a significant contribution toward design and new ideasStart leading and taking ownership of the feature/projectHave gained hands-on working experience and become an expert on Docker and KubernetesWeâve Got You CoveredOur holistic benefits package includes coverage of your health, wealth, and wellnessâas well as a great work environment, employee programs, and company culture. We offer a competitive salary and benefits package, including a 401k with a company match and generous paid time off to help you balance your life. We have a strong culture and live our values every dayâwe believe in transparency, curiosity, respect, and above all, having fun while delighting our customers.Speaking of a great work environment, here are just a few of the perks you may enjoy, depending on your locationâ¦Onsite massages, clubs, farmers market, and fitness classesDelicious and healthy snacks and beveragesElectric vehicle charging stationsOutdoor amenities, seating, and courtyard BBQDog park and pet-friendly programsNewly remodeled offices with state-of-the-art amenities Why Infoblox? Weâve created a culture that embraces diversity, equity, and inclusion and rewards innovation, curiosity, and creativity. We achieve remarkable results by working together in a supportive environment that focuses on continuous learning and embraces change. So, whether youâre a software engineer, marketing manager, customer care pro, or product specialist, you belong here, where you will have the opportunity to grow and develop your career. Check out what itâs like to be a Bloxer. We think youâll be excited to join our team.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-09T20:11:26.000Z"
+    },
+    "company": {
+        "name": "Infoblox",
+        "link": "https://www.linkedin.com/company/infoblox"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Tacoma",
+        "region": "WA",
+        "postal_code": "98406",
+        "street_address": null,
+        "latitude": 47.25308,
+        "longitude": -122.44153
+    }
+}

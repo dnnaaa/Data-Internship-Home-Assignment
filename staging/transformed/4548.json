@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Basic Qualifications (Required qualifications):  â¢3+ yearsâ experience programming in C++  â¢3+ yearsâ experience in embedded real-time software development  â¢1+ yearsâ experience in full software development life-cycle  Preferred Qualifications:  â¢2+ years of experience developing software for unmanned or manned tactical aircraft mission systems in the areas of tactical communication systems (wideband SATCOM, Narrowband, CDL, Link16, Voice comm, etc.), sensors (EO/IR, ESM, SIGINT, etc.), Stores Management System, Navigation, OMS or cybersecurity  â¢Experience with Agile software development  â¢Experience working with software version control tools such as ClearCase or Git  â¢Experience developing software services using  Phantom Fusion infrastructure",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-18T17:04:18.000Z"
+    },
+    "company": {
+        "name": "ACL Digital",
+        "link": "https://www.linkedin.com/company/acl-digital"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Hazelwood",
+        "region": "MO",
+        "postal_code": "63042",
+        "street_address": null,
+        "latitude": 38.785255,
+        "longitude": -90.39012
+    }
+}

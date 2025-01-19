@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Key projects:â¢Â As a Senior Site Reliability Engineer, you will be responsible for the day-to-day maintenance, operational support, and reliability of Internet-based and in-store systems.â¢Â On an onÂ­going basis, this position will help identify root causes of operational issues and partner with other team members to drive resolution.Daily Responsibilities:â¢Â Provide break/fix, customer support, and communication to product teamsâ¢Â Create and manage Service Level Indicators (SLIs), and Service Level Objectives (SLOs) using New Relic, and Splunkâ¢ Resolve performance bottlenecks using data from monitoring tools, and profiling utilities like dotTrace, dotMemory, and PerfViewâ¢Â Manage configuration of monitoring, and alerting in New Relic, Splunk, and Pager Dutyâ¢Â Implement OS, and application changes as needed using Chef and Jenkinsâ¢Â Create and maintain system, process, and training documentationâ¢ Drive root cause analysis and post-mortem as neededâ¢Â Conduct monthly OS patching and deploy OS, application, and infrastructure changesQualifications:â¢Â 4-6+ years supporting external, customer-facing web services for a large siteâ¢Â 4-6+ years installing, configuring, and troubleshooting Windows-based systems and services using IIS and MSSQLâ¢ 2-3+ years using Chef to manage servers in Windows environmentâ¢Â 2-3+ years using Splunk, New Relic, and Pager Duty in a large, customer-facing environmentâ¢Â 2-3+ years managing VIPs, pools, and members on F5 Big IPâ¢Â Outstanding troubleshooting, attention to detail, written and spoken communication skills.â¢Â Experience defining and using Service Level Indicators (SLIs), and Service Level Objectives (SLOs)",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-09-07T18:15:44.000Z"
+    },
+    "company": {
+        "name": "Apex Systems",
+        "link": "https://www.linkedin.com/company/apex-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

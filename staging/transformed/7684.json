@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer, Entry-Level",
+        "industry": "Marketing and Advertising,Computer Software,Internet",
+        "description": "DoorDash is building the world's most reliable on-demand, logistics engine for delivery! We're looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7, global infrastructure system that powers DoorDashâs three-sided marketplace of consumers, merchants, and dashers.At DoorDash, our product engineers implement and operate technological solutions to improve the experiences of our merchants, dashers, and consumers. From creating beautiful, user-friendly flows to crafting scalable backend architectures, we strive to deliver reliant, performant technology that delights our customers.What Youâll DoDevelop, maintain and ship technical elements with the support of your team members Act on feedback, coaching, and mentorship from your manager and team membersActively learn about the elements to which you contributeMake a direct impact on our business by collaborating with your team to solve problems for our customersUnderstand the \"why\" behind your work and empathizes with your customersQualificationsB.S., M.S., or PhD. in Computer Science or related disciplinesAt least 2 previous Software Engineering internships or equivalent work experience Experience working with databases (e.g. SQL) Solid understanding of algorithms and data structuresExperience working with at least one object-oriented programming language (e.g. Python, Java, Kotlin, etc)Experience writing clean code, working with version control, and unit testingNice To HavesAble to analyze and improve efficiency, scalability, and stability of various systemsExcited to develop, release and run large-scale web applicationsExperience with solutions for systems monitoring, live deployments and continuous integrationExperience with real-time technology problemsExperience working with service oriented architecture, writing APIs, and designing systemsWhy Youâll Love Working at DoorDashWe are leaders - Leadership is not limited to our management team. Itâs something everyone at DoorDash embraces and embodies.We are doers - We believe the only way to predict the future is to build it. Creating solutions that will lead our company and our industry is what we do -- on every project, every day. We are learners - Weâre not afraid to dig in and uncover the truth, even if itâs scary or inconvenient. Everyone here is continually learning on the job, no matter if weâve been in a role for one year or one minute.We are customer obsessed - Our mission is to grow and empower local economies. We are committed to our customers, merchants, and dashers and believe in connecting people with possibility.We are all DoorDash - The magic of DoorDash is our people, together making our inspiring goals attainable and driving us to greater heights. We offer great compensation packages and comprehensive health benefits.About DoorDashDoorDash is a technology company that connects customers with their favorite local and national businesses in all 50 US states, Canada, and Australia. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the DoorDash blog or at www.doordash.com.Our Commitment to Diversity and InclusionWeâre committed to growing and empowering a more inclusive community within our company, industry, and cities. Thatâs why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-02T01:12:45.000Z"
+    },
+    "company": {
+        "name": "DoorDash",
+        "link": "https://www.linkedin.com/company/doordash"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 129000,
+        "max_value": 211000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

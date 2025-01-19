@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "Location:This role is remote for the first six months. Then relocate to one of the cities below.Â·Â Â Â Â Â Â Roswell, GAÂ·Â Â Â Â Â Â Dallas, TXÂ·Â Â Â Â Â Â Knoxville, TNÂ·Â Â Â Â Â Â Neenah, WIÂ·Â Â Â Â Â Â San Francisco, CAÂ Â Company:Â iCuro is pioneering artificial intelligence (AI) systems and products for accelerating enterprise growth outcomes. iCuro is a leading consulting partner and thought leader in the rapid development and deployment of enterprise AI solutions by fully integrating hardware and software, and data. We serve customers across multiple industry verticals including Consumer Packaged Goods (CPG), Retail, Manufacturing, Health Sciences, and Technology.www.icuro.comÂ Job Description:Â The Data Scientist will apply his/her strong expertise in machine learning, data mining, and information retrieval to design, prototype and build next generation advanced analytics engine and services. The Data Scientist collaborates with translators to define technical problem statement and hypothesis to test; develops efficient and accurate analytical models that mimic business decisions.Â Role & Responsibilitiesâ¢Â Â Â Â Â Â Design, create, test and implement complex machine learning and deep learning models and algorithms that drive analytical solutions throughout the organizationâ¢Â Â Â Â Â Â Work with business managers to frame a problem, both mathematically and within the business context. Perform exploratory data analysis to gain insights about the problemâ¢Â Â Â Â Â Â Experienced in proposing ROI based solutions to business driven by AI/ML; Be a storyteller to explain the âwhy & howâ of your data driven recommendations to cross-functional teamsâ¢Â Â Â Â Â Â Leverage variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks to achieve business outcomesâ¢Â Â Â Â Â Â Leverage advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications to improve model recommendationsâ¢Â Â Â Â Â Â Conduct advanced statistical and other analysis to provide actionable insights, identify trends, and measure performance leveraging TensorFlowâ¢Â Â Â Â Â Â Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomesâ¢Â Â Â Â Â Â Identify and develop long-term data science processes, frameworks, tools, and standardsâ¢Â Â Â Â Â Â Comfortable working in programming languages like SQL, Python and R, as well as with frameworks like Azure ML Ops and Azure Machine Learning; experience designing solutions in distributed teams using Version Control tools like GITâ¢Â Â Â Â Â Â Curate and connect external data sets for broad enterprise-wide analytic usageâ¢Â Â Â Â Â Â Develop company A/B testing framework and test model qualityâ¢Â Â Â Â Â Â Collaborate with internal stakeholders to understand business challenges and develop analytical solutions to optimize business processes & monitor outcomesâ¢Â Â Â Â Â Â Have passion to advocate and educate on the value and importance of data driven decision making & analytical methodsâ¢Â Â Â Â Â Â Mentor and guide data science team members as well as developers and QA engineers working on the productsÂ Qualificationsâ¢Â Â Â Â Â Â 5-10 years of experience in software development of large-scale data infrastructure and distributed systemsâ¢Â Â Â Â Â Â 4-8 years of experience in data extraction, transformation, statistical analysis and data modelingâ¢Â Â Â Â Â Â 5+ years of experience developing enterprise software using Java or Pythonâ¢Â Â Â Â Â Â 3-6 years of experience in applying Data Mining and Machine Learning techniques to solve business problemsâ¢Â Â Â Â Â Â 5-8 years of experience using major RDBMS, SAP, Hadoop, Spark, Elasticsearch, or similar technologiesâ¢Â Â Â Â Â Â 3+ years of experience with statistical modeling tools such as R, SAS, SciKit-learn, â¢Â Â Â Â Â Â Bachelors degree in Computer Science, Computer Engineering, Machine Learning, or related field or equivalent experience.Â Technical Skillsâ¢Â Â Â Â Â Â Experience with Azure and/or GCP cloud platformâ¢Â Â Â Â Â Â Experience in machine learning, statistics, optimization or related fields; deeper experience in working with large data sets, simulation/ optimization or distributed computing tools is a plusâ¢Â Â Â Â Â Â Experience working with Open CV, Deep learning experience and time series analysisâ¢Â Â Â Â Â Â Experience with Map/Reduce, SAP, Hadoop, Hive, Spark, etc.â¢Â Â Â Â Â Â Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data setsâ¢Â Â Â Â Â Â Coding knowledge and experience with several languages: Python, Go, Java, JavaScript, R, SQL etc.â¢Â Â Â Â Â Â Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.â¢Â Â Â Â Â Â Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.â¢Â Â Â Â Â Â Experience visualizing/presenting data for stakeholders using: Tableau, PowerBI, Looker, Data Studio, Shiny, D3, ggplot etc.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-15T12:22:37.000Z"
+    },
+    "company": {
+        "name": "ICURO",
+        "link": "https://www.linkedin.com/company/icuro"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

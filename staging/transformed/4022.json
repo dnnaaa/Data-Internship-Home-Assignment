@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "FedNow Senior Software Engineer",
+        "industry": "Banking,Capital Markets,Financial Services",
+        "description": "CompanyFederal Reserve Bank of BostonÂ Â The Federal Reserve is developing a new interbank 24x7x365 real-time gross settlement (RTGS) service with integrated clearing functionality, called the FedNow service. This service will help enable financial institutions provide their customers with the ability to send and receive payments any time, any day, and have full access to those funds within seconds. This position is a unique opportunity to be part of a new mission-critical Federal Reserve initiative that will be transformative to the payments landscape in the United States.Position Contributions-Top level technical expert in one or more highly specialized areas of applications systems analysis and programming. Responsible for software design, coding, testing, debugging, and documentation. Has full technical knowledge of all phases of applications systems analysis and development. Provides technical leadership on complex projects. Interacts with internal project teams and work groups regularly. level of work required is considered advanced and staff must be able to work under minimal supervision. This job does not have any direct reports. You have an appetite to learn, and a passion for technology, innovation, and developing new skills on evolving technologies.What Will Be Expected Of You-Serves as a Senior Software Engineer: to design, develop and implement new complex solutions in accordance with FedNow and Fed StandardsDevelops software solutions (front end SPA and backend) in CloudDevelop end to end Infrastructure-as-Code solutions in CloudProvides input into strategic and tactical planning of software solutions and software development lifecycle changesIn addition to being able to engineer across numerous areas of technology, youâll serve as subject matter expert in one or more areasTrains and consults cross functionally within the organization on troubleshooting/resolving highly complex and/or highly time critical problemsCollaborates with analysts as part of an integrated Agile team to define user requirements and conduct design review for the development of complex and innovative cloud applications using modern internet-scale technologies and Serverless architecture in CloudDemonstrates skill dexterity; seeking to continuously adapt and employ new technical skills alongside proven staplesEnsures that the quality of software developed, maintained and enhanced in-house and installed into production is sufficient to prevent the occurrence of catastrophic defects that cause the customer significant problems, missed deadlines, or interruption to the production environmentEnsure compliance with Fed policies, procedures and standardsProvides primary or backup production support for applications and components, including but not limited to timely resolution to production problems and processing issuesExpertise you will bring-8+ years of Java Development3+ years working with AWS cloud-based platforms in an enterprise environment.Demonstrated experience engineering software with cloud-first architectures5+ years software engineering experience in a team-based environmentExperience with building and deploying solutions in CloudExperience with Serverless architecture for building software solutions in CloudExperience with CI/CD build tools, and DevOps processesExperience developing high performance, high volume, highly available(24/7/365) environmentsExperience with Agile software engineering (Scrum, Kanban, Lean etc)Bachelor's degree in Computer Science, Information Systems, Logistics& Requirements-Deep expertise in Java and proficient knowledge of programming languages (JavaScript, XML, JSON, HTML, CSS etc. Python a bonus)Proficient knowledge of operating systems (Linux, Unix, Windows)Proficient knowledge of database development (SQL, Oracle, DB2)Ideally, youâll have experience with AWS services, and integrating them into an applicationIdeally youâll have experience with leading edge Cloud technologies, such as Kafka, in-memory and NoSQL databases, messaging platforms, memcache etc).Demonstrates independent thinking and decision-making abilitiesDemonstrates excellent written and oral communication abilitiesProficient knowledge of cloud security for application development and deliveryAdvanced knowledge of object-oriented programmingIdeally, Infrastructure as Code (IAC); TerraformNice to Have- Experience with API Development and consumption and microservices architectureExperience with agile development methodologyAWS CertificationsKnowledge of technology project and secure coding standardsStrong interpersonal, teamwork and negotiation skillsStrong customer service skillsStrong problem solving and critical thinking skillsFamiliarity with usability techniques and best practicesInfrastructure as Code (IAC); TerraformFull Time / Part TimeFull timeRegular / TemporaryRegularJob Exempt (Yes / No)YesJob CategoryWork ShiftFirst (United States of America)The Federal Reserve Banks believe that diversity and inclusion among our employees is critical to our success as an organization, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool. The Federal Reserve Banks are committed to equal employment opportunity for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differences.Privacy Notice",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T07:45:16.000Z"
+    },
+    "company": {
+        "name": "Federal Reserve Bank of Boston",
+        "link": "https://www.linkedin.com/company/federal-reserve-bank-of-boston"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 80100,
+        "max_value": 131000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

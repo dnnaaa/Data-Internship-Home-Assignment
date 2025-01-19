@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist - Machine Learning",
+        "industry": "Financial Services",
+        "description": "Credit Sesame is a fast growing FinTech company, a pioneer and the leader in personal credit management with a disruptive vision for personal finance through its recent acquisition and entry into digital banking. Headquartered in the Bay Area with presence across the US and Canada and growing globally, Credit Sesame is helping consumers' cash work for their credit and their credit work for their cash by applying advanced data science, AI and machine learning for better financial wellness.Â Our purpose is to be the âgo toâ brand for financial wellness.Weâre seeking a highly motivated Data Scientist to join our team and build predictive models that impact credit-related decisions made by millions of users.Â This person will be responsible for developing, productionizing, maintaining, and monitoring ML models affecting all components of our business.We are open to various position titles, based on the candidate's experience (junior, mid, senior).You'll...Join a centralized Data Science team that is part of our larger Engineering org;Use Python and SQL to develop machine learning models whose predictions drive many key aspects of our business, ranging from deciding which email to send to which user on each day, to real-time fraud detection for our digital banking business, to product recommendations at scale on our web and app platforms, to forecasting and anomaly detection systems;Work closely with our Data Engineering team to deploy these models across our Mobile App and Desktop & Mobile Web platforms;Collaborate with Analytics to design and analyze experiments testing the performance of our models;Build parameterized dashboards to monitor both machine learning performance metrics and funnel metrics important to the business;Initiate and lead new modeling projects as well as support initiatives spearheaded by Product;Design and implement efficient pipelines both for model maintenance and for model deployment;Pitch your ideas and present your results to stakeholders including our CRM (customer relationship management) team, Product, and others.It is expected that...You are strongly self-motivated, have a mindset of getting things done, and are willing to pick up new skills as needed and iterate quickly as appropriate;You can communicate clearly and confidently to technical as well as non-technical audiences;You have knowledge of machine learning packages (mainly scikit-learn and the Python API of XGBoost; experience with other packages is a plus) and algorithms (logistic regression, random forest classifier, gradient boosting regressor, etc.); experience with personalization algorithms and product recommendation systems is a big plus;You have strong proficiency in writing correct and efficient SQL queries;You are proficient at programming in Python, and at using Git (any other programming skills are a plus!);You have 2+ years of relevant experience, or a similar mix of experience and education in a quantitative field;You have knowledge of statistics and experiment design;You are comfortable with being process-driven like an engineer, and purpose-driven like a business manager;You can juggle multiple tasks in a fast-paced environment;You can work in a cross-functional team and manage multiple stakeholders;You can balance short-, medium-, and long-term objectives and successfully deliver on all fronts;You want to work, excel, and grow in a diverse, challenging, and highly collaborative environment;(Plus) You have experience building machine learning models that were deployed as a service, with predictions being made in real time.You'll love it here because...youâll have huge potential to grow with a company thatâs a category leader;youâll have equity in a pre-IPO company backed by top VCs;we offer comprehensive medical, dental, and vision insurance with many plan options;we offer monthly fitness, phone and internet reimbursement;you can fuel up at our stocked kitchens with endless snacks and drinks;we prize EQ and empathy, and have a culture that emphasizes total wellness, including work-life harmony.Office LocationWe are open to hiring remotely for this role. You could also work out of our Toronto, San Francisco or our Mountain View officeâyou decide!We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T18:01:00.000Z"
+    },
+    "company": {
+        "name": "Credit Sesame",
+        "link": "https://www.linkedin.com/company/creditsesame"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 87500,
+        "max_value": 120000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Mountain View",
+        "region": "CA",
+        "postal_code": "94040",
+        "street_address": null,
+        "latitude": 37.39008,
+        "longitude": -122.08139
+    }
+}

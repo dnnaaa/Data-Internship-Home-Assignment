@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Banking,Financial Services",
+        "description": "Data Scientist New YorkAs Barclays Data Scientist you will build, implement and execute statistical models, supporting the VP / Impairment, specifically building and implementing models (PD, EAD, LGD) for IFRS 9, and other regulatory and financial programs.Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We've helped millions of individuals and businesses thrive, creating financial and digital solutions that the world now takes for granted. An important and growing presence in the USA, we offer careers providing endless opportunity.What will you be doing? You will develop predictive models, statistical analyses, optimization procedures, monitoring processes, data quality analyses, and score implementations supporting regulatory and impairment model. This should be done in accordance with Barclays standards, policies and procedures. Shepherd models through the internal validation process with the Internal Validation Unit (IVU). Implement models in python based Barclays MEF and MES production environments Participate in overall project design and delivery with QAâs other functional teams and end-clients. Produce robust documentation to ensure replicability of results and fulfil Barclays governance requirements. Provide support for audits of model development and implementation, by both internal and external auditorsWhat Weâre Looking For Post graduate university degree in quantitative discipline required (ex. Statistics, Operations Research, Economics, Computer Science, Engineering). Graduate studies, Masters or PhD required. Extensive knowledge of data analysis, theory and statistical techniques (such as linear or nonlinear models, logistic regression, machine learning, macroeconomic forecast, decision trees, cluster analysis and neural networks etc.) Experience building regulatory, Impairment (IFRS9) models for credit cards and unsecured lending. Strong (at least 3 years) Python, Hive, SAS and SQL programming skills. Python experience preferred. An ability to produce reports and interrogate systems to produce analysis and resolve discrepancies/queries. Strong analytical, technical and/or statistical skills with proven ability to process large datasets into meaningful information.Skills That Will Help You In The Role Analytical skills â Knowledge of data & analytics. Ability to work independently on analytical tasks. Team work - Ability to work with and in cross-functional teams and virtual teams across locations. Conceptual thinking â Ability to think strategically about analytics and their value to the organization. Communication-Ability to think quickly & relay information to technical and non-technical audiences.Where will you be working?Barclaysâ U.S. headquarters is located at 745 Seventh Avenue in New York, NY. At Barclays, we offer you an engaging and challenging environment, giving you the opportunity to make the most of your unique set of skills. We also have an extensive range of learning and development initiatives designed to support you both personally and professionally.Interested and want to know more about Barclays? Visit home.barclays/who-we-are/ for more details.90291673",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-30T23:18:34.000Z"
+    },
+    "company": {
+        "name": "Barclays",
+        "link": "https://uk.linkedin.com/company/barclays-bank"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 95500,
+        "max_value": 147000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

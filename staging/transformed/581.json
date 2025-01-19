@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Development Engineer in Test - Platform Quality",
+        "industry": "Consumer Electronics",
+        "description": "Summary Do you have a strong interest in low level firmware and technology? A desire to work on complex software features, driving a high standard of quality into Apple's products? The Core OS Platform Enablement organization is looking for a talented and passionate software engineer to join the Platform Quality engineering team. As a critical member of the team, you will be focusing on software technologies in low-level firmware and Apple silicon domains. Tightly integrated within the development team, your responsibilities will span across all phases of software delivery of Apple's products, from early design to product launch and beyond. You'll become intimately familiar with one or more major technologies, taking on responsibilities of test, framework and tool development, along with influencing design decisions. Key Qualifications Experience in software development and testSkilled in testing embedded systems and firmwareFamiliarity with computer architecture and operating systems conceptsDemonstrate strong critical thinking, debugging and troubleshooting skillsExcellent collaborative and communication skillsKnowledge of C / C++ and Python programming Description Devise a testing strategy for one or more major SOCs and products, focusing on low-level firmwares, silicon features, and boot loader technologiesGain a deep understanding of the design, requirements and architectureInfluence inclusion of testability into the software design Develop and automate unit, functional and system-level tests Define and drive quality metrics to track progress and improvementsCollaborate cross-functionally with peer test, QA and validation teams Assess and represent end-user impact of issues, shaping key product decisionsExplore novel approaches to create new test frameworks, automation and infrastructure to streamline testing Education & Experience Bachelorâs degree in CS, CE, EE or equivalent industry experience Additional Requirements Familiarity with low-level firmware conceptsExposure to HW bring-up Role Number: 200230728",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-06T03:42:54.000Z"
+    },
+    "company": {
+        "name": "Apple",
+        "link": "https://www.linkedin.com/company/apple"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Beaverton",
+        "region": "OR",
+        "postal_code": "97007",
+        "street_address": null,
+        "latitude": 45.486595,
+        "longitude": -122.795616
+    }
+}

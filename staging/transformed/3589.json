@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer - Quip",
+        "industry": "Computer Software,Information Technology and Services,Internet",
+        "description": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts. Job Category Products and Technology Job Details At Quip, we have built an amazing new way for teams to collaborate, communicate, and make decisions, whether you're three friends in an office, or one of the largest companies on the planet with tens of thousands of employees at all corners of the globe. Our Site Reliability Engineering (SRE) team makes sure that Quip is delightfully fast, always available for our customers whenever they need it, and well-insulated from outages or unpleasant surprises.We never lose sight of one of our guiding principles: you cannot meet these goals at the expense of the health and happiness of the team working on them. Maintaining a healthy and supportive work environment, good work-life balance, and encouraging technical and professional growth for team members is as of much a core value for us as having top-notch operational standards.Our team focuses on keeping our product running smoothly, consistently, and without repetitive manual work (toil). We know we have a keen product, and a fantastic place to work, and we're looking for some great people to join our SRE team to keep everything that way!You Would Get The Opportunity ToContinually develop Quip's operational reliability and simplicity.Maintain our observability and automation at the level where we need it to be, by extending existing infrastructure, setting up open source projects, or even developing custom solutions when necessary.Investigate and repair bugs, mysterious occurrences, and production issues throughout the entire system, in concert with product and infrastructure engineers.Champion operational excellence and production quality across the entire company.Skills and technologies you'd use (and learn or improve!) here:Building efficient, scalable, and reliable products on cloud platforms.Understanding, modifying, and writing Python code, both in our product codebase, and in supporting infrastructure for automation.Using configuration and orchestration tools to create repeatable, auditable, documented-in-code systems.Designing systems for the sweet spot of long-term scale and reliability, while keeping manual maintenance and complexity costs down, and still shipping at reasonable speeds.Things we're looking for in people who we want to join us:Keen interest in keeping a holistic view of entire systems in mind: patterns, architectures, data flows, lifecycles, edge cases, and risks.Excited about continually reducing complexity, and creating systems that are easily understandable, repeatable, and observable.Convinced about the importance of communication (both verbal and written/online), close team collaboration, and sharing information with others (creating documentation, or in-person training).Eager to learn best-in-field design and engineering practices from coworkers with a wealth of skills and experience, and getting to add your unique mark to what we're building.Drawn to understand (at a rough level) the basic skeleton of the stacks on which your system operates, from both network (SSL/TLS, HTTP, DNS, TCP, IP, CIDR, local networking, global routing) and host (process/daemon, system library, process supervisor, binary packaging, UNIX distribution, kernel) perspectives.Bonus points (not at all required, but would let you hit the ground running!):Experience running medium-to-large user-facing services on public cloud services, particularly AWS.Experience running, scaling, tuning, and debugging production SQL databases, particularly Amazon Aurora MySQL.Experience with configuration and orchestration management tools, particularly Terraform and Docker.Experience with and opinions about modern best-practice observability/debugging/logging/monitoring stacks.Comfortable writing Python (specifically, Python 3) scripts and libraries, and modifying existing code. Accommodations If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form. Posting Statement At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce.com and Salesforce.org do not accept unsolicited headhunter and agency resumes. Salesforce.com and Salesforce.org will not pay any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org .Salesforce welcomes all.Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T22:06:38.000Z"
+    },
+    "company": {
+        "name": "Quip",
+        "link": "https://www.linkedin.com/company/quip-com"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Los Angeles",
+        "region": "CA",
+        "postal_code": "90101",
+        "street_address": null,
+        "latitude": 34.05224,
+        "longitude": -118.24335
+    }
+}

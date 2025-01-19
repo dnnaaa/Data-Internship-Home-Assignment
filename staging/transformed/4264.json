@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Information Technology and Services",
+        "description": "ALLOYâs engineering team provides software development and technical expertise to solve practical, real-world problems and build high-end, world-class customer experiences. We maintain existing products, architect new ones, estimate effort and provide informed opinions around whatâs possible, reasonable and feasible. We strive to incorporate more DevOps practices into our work every day and to continually leverage the latest cloud computing services. Our engineers are fearless, aggressive makers and problem solvers. We love to combine talents to overcome the obstacles that strike fear in the hearts of most shops. We learn something new every day and never shy away from conversations, music recommendations, or new ideas.What You Will DoDevelop and enhance a suite of applications written in C# and SQL Server, hosted in AWSImplement new features and bug fixes and support them through testing and deploymentMigrate legacy, server based applications onto serverless platforms and managed servicesResearch and pinpoint issues in complex systems with lots of moving piecesDevelop CI/CD pipelines and automated tests to ensure your applications are always in a deployable stateRequirementsWhat we definitely need Takes pride in writing clean, elegant codeKnowledgeable of modern software platforms, patterns, and practicesStrong understanding of web protocols such as TCP, HTTP, and RESTDetail orientedAble to explain complex concepts in simple termsAbility and desire to quickly learn new technologyStrong troubleshooting/debugging skillsC#ASP.NET MVCJavascript frameworks such as Node.js, React, and VueEntity Framework/DapperSQL ServerAWSGitNice to haves Bachelor of Science in CS or MIS preferredSQL/.NET/AWS certification is a plusExperience with Agile and Scrum methodology best practices",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T04:34:51.000Z"
+    },
+    "company": {
+        "name": "Alloy",
+        "link": "https://www.linkedin.com/company/alloy-birmingham"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Birmingham",
+        "region": "AL",
+        "postal_code": "35226",
+        "street_address": null,
+        "latitude": 33.522858,
+        "longitude": -86.80771
+    }
+}

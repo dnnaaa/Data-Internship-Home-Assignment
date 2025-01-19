@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software",
+        "description": "Site Reliability Engineer - Unicorn startup w/ RevenueThis Jobot Job is hosted by Adam BennettAre you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.A Bit About UsWeâre a software company that has built a PaaS product that enables large enterprises to automate business decisions! We have a long list of current clients and have a line out the door of companies who want to integrate our platform into their supply chain, inventory, sales, and operation applications!Why join us?Weâre at an inflection point. Weâre scaling our teams and potentially doubling our company in size! Weâre currently over 300 people. We have a culture-first organization and the leader of the DevOps / SRE team wants to see everyone succeed. Weâre looking for engineers to help us scale! Weâre an AWS/ Azure shop and rely heavily on Kubernetes for scale.Job DetailsMust have Senior experience with deploying and maintaining Kubernetes.Ideally, you have Sr. level experience with a scripting language to scale infrastructure.Senior experience supporting cloud applications in AWS or Azure.Monitoring applications are a really big ânice to haveâInterested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-22T21:09:24.000Z"
+    },
+    "company": {
+        "name": "Jobot",
+        "link": "https://www.linkedin.com/company/jobot"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Jose",
+        "region": "CA",
+        "postal_code": "95148",
+        "street_address": null,
+        "latitude": 37.334793,
+        "longitude": -121.888145
+    }
+}

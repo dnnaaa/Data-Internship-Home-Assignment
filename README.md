@@ -1,219 +1,138 @@
-## DNA Engineering Data Assignment
+# ETL Pipeline with Airflow
 
-Build an ETL pipeline using Apache Airflow.
+This project demonstrates an ETL (Extract, Transform, Load) pipeline using Apache Airflow. It processes job posting data, performs transformations, and loads the cleaned data into a SQLite database. The pipeline is deployed in a Docker environment for easy execution and scalability.
 
-`Apache Airflow` is an open-source platform for developing, scheduling, and monitoring batch-oriented workflows.
-Airflow’s extensible Python framework enables you to build workflows connecting with virtually any technology. A web interface helps manage the state of your workflows. Airflow is deployable in many ways, varying from a single process on your laptop to a distributed setup to support even the biggest workflows.
+## Project Structure
 
-Airflow Docs: https://airflow.apache.org/docs/
-
-## Table of content
-
-- [Prerequisites](#prerequisites)
-- [Project Setup](#project-setup)
-- [Airflow Setup](#airflow-setup)
-- [Before we begin](#before-we-begin)
-- [Description](#description)
-- [Assignment](#assignment)
-
-
-## Prerequisites
-- Python 3.8 or higher
-
-- Create and activate a virtual environment
-
-### Virtual Environment
-
-#### Creation
-
-```bash
-python -m venv venv
+```plaintext
+Data-Internship-Home-Assignment/
+├── dags/
+│   ├── etl_dag.py      # Main DAG script that orchestrates the ETL process
+│   └── tasks/
+│       ├── extract.py  # Logic for extracting data
+│       ├── transform.py # Logic for transforming data
+│       └── load.py     # Logic for loading data into SQLite
+│ ── source/
+│   └── jobs.csv        # The source CSV file containing the job data to be processed
+├── staging/
+│   ├── extracted/      # Extracted files (TXT format)
+│   └── transformed/    # Transformed files (JSON format)
+├── tests/
+│   ├── test_extract.py # Unit tests for the extraction task
+│   ├── test_transform.py # Unit tests for the transformation task
+│   └── test_load.py    # Unit tests for the loading task
+└── requirements.txt    # Project dependencies
+└── docker-compose.yml  # Docker Compose configuration for running Airflow
 ```
 
-#### Activation
+### Docker Compose
 
-On Linux
+To run this ETL pipeline with Docker, use the provided `docker-compose.yml` file. This file contains all the necessary services for running Airflow (webserver, scheduler, and database). 
 
-```bash
-source venv/bin/activate
-```
+1. **Start the services**: You can start the services in detached mode with the following command:
+   ```bash
+   docker-compose up -d
+   ```
+   This will launch Airflow Webserver on `http://localhost:8080`.
 
-On Windows
-```bash
-venv\Scripts\activate
-```
+2. **Volumes**: The volumes in `docker-compose.yml` map local directories to the Airflow container, ensuring local files and logs are synced. Here are the volume mappings:
+   - `./dags:/opt/airflow/dags`: Local `dags` directory to store DAG scripts.
+   - `./logs:/opt/airflow/logs`: Local `logs` directory for Airflow's logs.
+   - `./plugins:/opt/airflow/plugins`: Local `plugins` directory for custom Airflow plugins.
+   - `./source:/opt/airflow/source`: Local `source` directory to store the raw CSV data.
+   - `./staging:/opt/airflow/staging`: Local `staging` directory to store extracted and transformed files.
+   - `./tests:/opt/airflow/tests`: Local `tests` directory to store unit tests.
 
-#### Deactivation
+### DAG and Tasks
 
-```bash
-deactivate
-```
+The main DAG is located in `dags/etl_dag.py`. This DAG defines three tasks:
 
-## Project Setup
+1. **Extract Task** (`dags/tasks/extract.py`):
+   - Reads the `jobs.csv` file located in `/source/jobs.csv`.
+   - Extracts the job description data from the `context` column.
+   - Saves each extracted entry as a `.txt` file in the `staging/extracted/` directory.
 
-Export AIRFLOW_HOME before installing dependencies
+2. **Transform Task** (`dags/tasks/transform.py`):
+   - Reads the `.txt` files from the `staging/extracted/` directory.
+   - Cleans and structures the data into the desired format (JSON).
+   - Saves the transformed data as `.json` files in the `staging/transformed/` directory.
+   - The desired schema for the transformed data includes job details, company information, education requirements, experience, salary details, and location information.
 
-```bash
-export AIRFLOW_HOME="your_desired_airflow_location"
-```
+3. **Load Task** (`dags/tasks/load.py`):
+   - Reads the transformed JSON files from `staging/transformed/`.
+   - Loads the cleaned data into a SQLite database using SQLAlchemy.
+   - The SQLite database is created in the container and used to store job posts with related data (job, company, education, experience, salary, and location).
 
-Install dependencies
+### Data Flow
 
-```bash
-pip install -r requirements.txt
-```
+- **Raw Data**: The raw job posting data is stored in the `jobs.csv` file under the `/source` directory.
+- **Extracted Data**: The extracted job descriptions are saved as `.txt` files in the `staging/extracted/` directory.
+- **Transformed Data**: The cleaned and structured data is stored as `.json` files in the `staging/transformed/` directory, following the defined schema.
+- **Final Storage**: The final data is loaded into a SQLite database for easy querying.
 
-## Airflow Setup
+![Unit Test Screenshot](etl_pipline.png)
 
-Show Info about Airflow Env
-```bash
-airflow info
-```
-
-Display Airflow cheat sheet
-```bash
-airflow cheat-sheet
-```
-
-**Set load_examples to False in airflow.cfg if you don't want to load tutorial dags and examples, before you execute the next command**
-
-
-Migrate airflow database
-
-```bash
-airflow db migrate
-```
-
-Create an Admin user
-
-```bash
-airflow users create \
-    --username admin \
-    --firstname first_name_example \
-    --lastname last_name_example \
-    --role Admin \
-    --email your_email@example.com
-```
-
-Start all components
-
-```bash
-airflow standalone
-```
-
-- Access Airflow UI at: http://localhost:8080, and enter your login information
-
-
-## Before we begin
-- In this assignment, you will be asked to write, refactor, and test code.
-- Make sure you respect clean code guidelines.
-- Read the assignment carefully.
-
-
-## Description
-- You are invited to build an ETL pipline using Ariflow in this assignment.
-- Data Location: `source/jobs.csv`
-
-**Data description**
-
-Your target data is located in the context column.
-It's a json data that needs to be cleaned, transformed and saved to an sqlite database
-
-
-**Provided by default:**
-- Pipline structure with necessary tasks under `dags/etl.py`.
-- SQL Query for tables creation.
-- The blueprint task functions that needs to be completed.
-
-## Assignment
-
-### 1. Code Refactoring
-
-The code of the etl is grouped into one Python (`dags/etl.py`) script with makes it long, unoptimized, hard to read, hard to maintain, and hard to upgrade.
-
-Your job is to:
-
-- Rewrite the code while respecting clean code guidelines.
-- Refactor the script and dissociate the tasks, and domains.
-
-### 2. ETL Tasks
-Fill in the necessary code for tasks: Extract, Transform, Load.
-
-
-#### Extract job
-
-Read the Dataframe from `source/jobs.csv`, extract the context column data, and save each item to `staging/extracted` as a text file.
-
-#### Transform job
-
-Read the extracted text files from `staging/extracted` as json, clean the job description, transform the schema, and save each item to `staging/transformed` as json file.
-
-The desired schema from the transform job:
+### Example of Transformed Data Schema
 
 ```json
 {
-    "job": {
-        "title": "job_title",
-        "industry": "job_industry",
-        "description": "job_description",
-        "employment_type": "job_employment_type",
-        "date_posted": "job_date_posted",
-    },
-    "company": {
-        "name": "company_name",
-        "link": "company_linkedin_link",
-    },
-    "education": {
-        "required_credential": "job_required_credential",
-    },
-    "experience": {
-        "months_of_experience": "job_months_of_experience",
-        "seniority_level": "seniority_level",
-    },
-    "salary": {
-        "currency": "salary_currency",
-        "min_value": "salary_min_value",
-        "max_value": "salary_max_value",
-        "unit": "salary_unit",
-    },
-    "location": {
-        "country": "country",
-        "locality": "locality",
-        "region": "region",
-        "postal_code": "postal_code",
-        "street_address": "street_address",
-        "latitude": "latitude",
-        "longitude": "longitude",
-    },
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Technology",
+    "description": "Develop software solutions...",
+    "employment_type": "Full-time",
+    "date_posted": "2024-01-19"
+  },
+  "company": {
+    "name": "Tech Corp",
+    "link": "https://linkedin.com/company/tech-corp"
+  },
+  "education": {
+    "required_credential": "Bachelor's degree in Computer Science"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Junior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60000,
+    "max_value": 80000,
+    "unit": "per year"
+  },
+  "location": {
+    "country": "USA",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10001",
+    "street_address": "123 Main St",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  }
 }
 ```
+### Verifying Data in SQLite After the Load Task
 
-#### Load job
+After the ETL process has completed, you can verify that the data has been successfully loaded into the SQLite database by connecting to the Airflow container and checking the contents of the database.
 
-Read the transformed data from `staging/transformed`, and save it to the sqlite database.
+![Unit Test Screenshot](sqlite.png)
+
+### Unit Testing
+
+Unit tests are written using `pytest` to ensure the ETL tasks work as expected.
+
+- **Test Extraction**: `tests/test_extract.py` contains unit tests for the `extract_jobs` function to verify that data is correctly extracted from the CSV file.
+- **Test Transformation**: `tests/test_transform.py` contains unit tests for the `transform_jobs` function to validate that the transformation process produces the correct data in JSON format.
+- **Test Loading**: `tests/test_load.py` contains unit tests for the `load_to_sqlite` function to ensure that the transformed data is correctly loaded into the SQLite database.
+
+#### Screenshot of Tests
+
+![Unit Test Screenshot](test.png)
+
+---
 
 
-### 3. Unit Testing
+### Conclusion
 
-As mentioned previously, your code should be unit tested.
-
-Hints: Use pytest for your unit tests as well as mocks for external services.
-
-## Git Best Practices
-
-- **Write Meaningful Commit Messages**: Each commit message should be clear and concise, describing the changes made. Use the format:
-  ```
-  <type>: <short description>
-  ```
-  Examples:  
-  - `feat: add extraction task for ETL pipeline`  
-  - `fix: resolve bug in transform job schema`  
-  - `refactor: split ETL script into modular tasks`
-
-- **Commit Small, Logical Changes**: Avoid bundling unrelated changes in one commit.
-
-- **Review Before Committing**: Ensure clean and tested code before committing.
-- **...
-
-[This guide](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) provides detailed insights into writing better commit messages, branching strategies, and overall Git workflows.
+This project demonstrates how to set up and execute a complete ETL pipeline using Apache Airflow in a Dockerized environment. The pipeline extracts, transforms, and loads job data into a SQLite database, and is fully testable with unit tests.
 

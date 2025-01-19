@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Cloud Operations Engineer/ Site Reliability Engineer (Remote, USA)",
+        "industry": "Information Technology and Services,Computer Software,Computer Networking",
+        "description": "Company DescriptionActiveVideo is a Silicon Valley company that harnesses the power of the cloud to accelerate multi-platform television experiences and is the developer of AppCloud and CloudTV, cloud-based software virtualization platforms that enables service providers, content aggregators and CE manufacturers to deliver the latest TV experiences to millions of set-tops and connected devices. We are based in San Jose, CA, with an office in Hilversum, the Netherlands.Job DescriptionAs a Cloud Operations Engineer at ActiveVideo you will use leading edge technologies to build, deploy, operate, and maintain configuration management and orchestration routines to deliver and scale applications and services in virtualized environments and in the cloud as part of a small, geographically distributed Cloud Operations team. We are committed to delivering best-in-class system uptime and operations observability through automation and instrumentation.This is a key technical role within the Cloud Platform and Operations organization that interfaces closely with the Cloud Infrastructure, Development teams, Product and Customer Engagement teams. The ideal candidate is a self-starter with a strong focus on collaboration, automation, continuous improvement, and an innovative mindset that will lead to operational efficiencies, and increased compliance. The candidate must have a track-record of managing live productions environments with strict availability targets and extensive experience building automation to support continuous software releases.Deliver configuration management and orchestration routines to deploy and scale applications and services in AWS, running a microservice architecture on Kubernetes; operating and maintaining these systems in production and critical user facing environments. Support product development teams in the delivery of continuous integration, continuous deployment, providing templates and patterns to follow, to ensure code produced by product development teams is deployed and scaled.Perform root cause analysis for production issues whether the root cause is in infrastructure, environment, configuration, application, or deployment routines; understand when to escalate to product development teams; remediate root causes and implement preventative actions.Participate in on-call rotation and afterhours maintenance when necessary, respond to major incidents, and participate in bridge calls in support of initiatives and incident response.Actively collaborate with the product, development teams and QA teams to build automated testing and monitoring of deployments, implementing and utilizing different deployment methodologies, such as canary or blue green.Revamp and continuously optimize application release cycles as production environments and product suite scales.Participate in Change Management activities which include reviews, approvals, rollback plans, and live operations transition.Applying automation where possible to reduce manual and repetitive tasks.Architect and implement monitoring, reporting, alerting, and centralized dashboarding solutions for proactive event detection to increase uptime and application performance and reduce failures.Qualifications 6 + years of experience as a SRE operating a Public Cloud platform 3+ years experience working with configuration management and orchestration technologies such as Cloud Formation, Ansible or comparableExperience managing and launching cloud-native applications in Docker containers with Kubernetes orchestration using Helm.Extensive knowledge of troubleshooting in a Linux and Kubernetes environment using tools like Splunk, PRTG, DataDog, New Relic, etc.Experience launching multiple deployment strategies in live production environments.Knowledge of application performance and monitoringKnowledge of cloud infrastructure principles including infrastructure as codeIn-depth knowledge of CI/CD tools and methodologies, examples Bamboo, Jenkins, Artifactory or similar.Proficiency in Python, bash or other programming language.Ability to quickly learn new and existing technologies.Ability to work in fast paced and dynamic environment.Strong written and verbal communication skillsAWS Associate CertificationTravel and Location Requirements: Ability to travel to ActiveVideo locations on occasionAdditional InformationYouâll become part of a team consisting of strong, delivery-minded technologists. The culture is highly informal and our structure flat. This enables our employees to be flexible and to research their ideas. And of course, we offer a competitive package with competitive salaries, medical, dental, vision, life, 401(k), and PTO starting at 15 days for the first year of service.We're an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T00:00:00.000Z"
+    },
+    "company": {
+        "name": "ActiveVideo",
+        "link": "https://www.linkedin.com/company/activevideo"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Miami",
+        "region": "FL",
+        "postal_code": "33299",
+        "street_address": null,
+        "latitude": 25.775084,
+        "longitude": -80.1947
+    }
+}

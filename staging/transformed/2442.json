@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer (Multiple Positions, US : Remote- $110-170k)",
+        "industry": "",
+        "description": "This is a remote, US-based role.Â NOTE: We are hiring multiple positions for the CRE role. This is a heavily customer-facing role. Please see the Operator role for a back-of-house SRE opening.Â Â As a Site Reliability EngineerÂ (SRE),Â your primary goals will be to provide exceptional value to our clients working across our managed and professional services offerings.Â 1. Job DescriptionFairwinds is seeking an intellectually curious, collaborative, enthusiastic, and flexible engineer to join our team as a Site Reliability Engineer.Â As an SRE at Fairwinds, youâll work directly with clients to ensure their goals are met through automation, analysis, and infrastructure configuration.Â Working collaboratively with the other SREs at Fairwinds, your expertise will help our clients succeed with Kubernetes through building robust infrastructure, solving complex problems, maintaining reliable, secure environments, and standing behind our work as a part of our on-call rotation.Â Â Â We work with a diverse set of technologies in and around Kubernetes depending on what our clients need. Commonly this includes technologies like:AWS/GCP/AzureÂ (e.g.Â Instances, DNS, IAM, cloud networking)Kubernetes Ingress/CNI/Service Meshes/Network PolicyHelm, Terraform, DockerDatadog, OpenMetrics, and statsdFairwinds Insights, rbac-manager, and FalcoCircleCI, Jenkins, and Gitlab for CI/CDGo, Python, and bashÂ 2. About you...You have experience working with Kubernetes in a production environmentÂ â deploying with helm, debugging tough networking problems, optimizing for scale, updating and upgrading to match best practices for security and efficiency.You have experience working in one or more of the major cloud providers: AWS, GCP, Azure.Â YouÂ are comfortableÂ workingÂ directly with external clientsÂ to understand fluid requirements and unique use cases.Youâre a self-motivated and directed individual contributor who is excited about being part of a growing startup.Â Youâre interested inÂ Kubernetes and cloud-native technologyÂ and have anÂ eagerness to learnÂ and an aptitude for sharing your knowledge with others.Â You know your stuff and are a creative problem solver. You can think your way through complex issues, have a keen eye for details, and possess strong analytical and research skills â you know how to find answers, and you know when to ask for help.Youâre organized, communicative, and accountableâyou enjoy being on a team and you own your role entirely, while being open to critique, suggestions, and new ideas.Â 3. Why FairwindsFairwinds is on the cutting edge of Kubernetes.Â We are aÂ âRemoteÂ Firstâ organization working U.S. hours, headquartered in Boston, MA.Â We believe our solutionsÂ (SaaS,Â Managed Service, Professional Services, Training, etc.) enable our customers to succeed with Kubernetes.Â We want individuals who are excited to bring expertise to clients everyday!Â Â We are a group of curious and motivated individuals, guided by our values of respect, inclusion, compassion, and kindness.Â Fairwinds is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.Â Fairwinds' Engineering Leadership Philosophy.Â Compensation and Benefits:Salary range is $110-170K plus bonusWe're hiring across experience bands from mid to senior levels. Salary will be aligned with experience.Medical - 100% paid by CompanyDental - 100% paid by CompanyVision - 100% paid by CompanyStock optionsTax Savings AccountsÂ (FSA)Life Insurance401kUnlimited PTORemote-firstÂ (USÂ remote hours)",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-26T15:21:04.000Z"
+    },
+    "company": {
+        "name": "Fairwinds",
+        "link": "https://www.linkedin.com/company/fairwinds"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Denver",
+        "region": "CO",
+        "postal_code": "80247",
+        "street_address": null,
+        "latitude": 39.738453,
+        "longitude": -104.984856
+    }
+}

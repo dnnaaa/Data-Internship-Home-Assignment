@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "Sumner & ScottÂ are looking to recruit a number ofÂ Data ScientistsÂ to join a fast growing FinTech start up focussing on bringing down data barriers.One of the most valuable kinds of data today is in the financial sector. Financial data plays a key role across many industry verticals. However, it has notoriously been locked behind regulatory barriers and a lack of format standards. Our clients first product is an API that makes financial transactions accessible with minimal engineering overhead to both humans and machine-learning models in a scalable and privacy-preserving way.TheyÂ - are allergic to over-engineering.Â - are anarchists at heart and like to hack around the status quo.Â - are radically honest and appreciate challenging one another, rather than giving out âpats on the backâ. Â - are willing to learn and adapt quickly to new situations and requirements. Languages, frameworks, libraries, compilers, etc. are just tools for a job. A new problem might need a new tool. If it doesnât exist yet, we will build it.Â - have a sense of humor (well, we think we do).As an early member of their data science team, you will helpÂ - push the limits of what can be done with data.Â - build the team and drive the direction of the company.Â - shape our product and culture.Â - experience the direct impact of what you build on hundreds of millions of peopleâs financial lives.The following are requiredÂ - the tools: Python, Pandas, Matplotlib, scikit-learn, etc.- Spark, SQL and fundamental database operations.Â - recognized open-source contributions and/or top performance in data competitions (Kaggle, Numerai, etc.).- fluency in statistics and probability.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-04T13:56:25.000Z"
+    },
+    "company": {
+        "name": "Sumner & Scott",
+        "link": "https://www.linkedin.com/company/sumner-&-scott"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

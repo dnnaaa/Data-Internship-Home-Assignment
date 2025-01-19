@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Full Stack Developer",
+        "industry": "Financial Services,Automotive,Information Technology and Services",
+        "description": "Ally and Your CareerAlly Financial only succeeds when its people do - and thatâs more than some cliche people put on job postings. We live this stuff! We see our people as, well, people - with interests, families, friends, dreams and causes that are all important to them. Our focus is on the health and safety of our teammates as well as work-life balance and diversity and inclusion. From generous benefits to a variety of employee resource groups, we strive to build paths that encourage employees to stretch themselves professionally. We want to help you grow, develop, and learn new things. Youâre constantly evolving, so shouldnât your opportunities be, too?The OpportunityThe full stack developer will be a critical member of a team responsible for owning Ally's risk data collection process, including maintaining/enhancing the existing data warehouse, driving the data sourcing strategy, and ensuring accurate, consistent data is ultimately provided to Ally's internal and external stakeholders. The engineer will identify where custom software solutions are needed within the environment, then design, develop, and implement those solutions.The Work ItselfDesign, develop, and maintain multiple pieces of software within the RADAR environment utilizing a multitude of technology stacks including .NET Core and AngularCollaborate with partners to identify, prioritize, and implement improvements to existing software or to create new softwareIdentify needs within the business and team that can be solved with a technology solution, then design, develop, and maintain software for that solutionIdentify and implement improvements to the software development lifecycle within RADAR by researching, utilizing, and maintaining modern agile toolsetsCoordinate with other development teams to ensure that RADAR follows Ally best practicesParticipate in night-time testing of application functionality after major IT projects are completed (network/server changes)The Skills You BringBachelor's degree in Computer Science preferred2 to 4 years of experience with proficiencies in/withC#, WPF, ASP.NET Core MVC and Web APIAngular 8, TypeScript, JavaScript, CSS, HTMLSQLExperience with JSON and XMLExperience with Visual Studio and a Microsoft/Windows environmentExposure to agile development environments utilizing tools such as Jenkins, Jira, Confluence, and BitBucketExposure to continuous integration and continuous deploymentExperience with ORMs such as Entity FrameworkComplete knowledge and understanding of SQLExperience with both unit testing and end to end testing utilizing Moq, xUnit, Selenium, or other similar frameworksExposure to and understanding of containerization using Docker a plusExperience with version control systems such as gitComprehensive knowledge and understanding of relational database design concepts and management principlesExperience in building new business processes and re-inventing existing ones to exceed business needs and eliminate redundancies and inefficienciesExperience with ETL and reporting tools such as SSIS and SSRSGood work ethic, persistence and determination in problem solvingOpenness and desire to learn and implement new tools that enhance the team's capacityMust be self-motivatedAbility to work in a team and fast paced changing environmentEffective written and verbal communication skills; effective presentation skillsAbility to explain complex concepts to non-technical clients and colleaguesHow Weâll Have Your BackAlly's compensation program offers market-competitive base pay and pay-for-performance incentives (bonuses) based on achieving personal and company goals. But Allyâs total compensation â or total rewards â extends beyond your paycheck and is designed to support and enrich your personal and professional life, including:Time Away: competitive holiday and flexible paid-time-off, including time off for volunteering and voting.Planning for the Future:Â plan for the near and long term with an industry-leading 401K retirement savings plan with matching and company contributions, student loan and 529 educational assistance programs, tuition reimbursement, and other financial well-being programs.Supporting your Health & Well-being:Â flexible health and insurance options including dental and vision, pre-tax Health Savings Account with employer contributions and a total well-being program that helps you and your family stay on track physically, socially, emotionally and financially.Building a Family:Â adoption, surrogacy, and fertility support as well as parental and caregiver leave, back-up child and adult/elder day care program and child care discounts.Work-Life Integration:Â other benefits including LifeMattersÂ® Employee Assistance Program, subsidized and discounted Weight WatchersÂ® program and other employee discount programs.Who We AreAlly Financial is a customer-centric, leading digital financial services company with passionate customer service and innovative financial solutions. We are relentlessly focused on \"Doing it Right\" and being a trusted financial-services provider to our consumer, commercial, and corporate customers. For more information, visit www.ally.com.Ally is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to age, race, color, sex, religion, national origin, disability, sexual orientation, gender identity or expression, pregnancy status, marital status, military or veteran status, genetic disposition or any other reason protected by law. We are committed to working with and providing reasonable accommodation to applicants with physical or mental disabilities. For accommodation requests, email us atÂ work@ally.com. Ally will not discriminate against any qualified individual who is capable of performing the essential functions of the job with or without reasonable accommodation.Â ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T17:24:14.000Z"
+    },
+    "company": {
+        "name": "Ally",
+        "link": "https://www.linkedin.com/company/ally"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

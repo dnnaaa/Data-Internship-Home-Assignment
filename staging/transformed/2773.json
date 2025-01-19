@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Job Title:  Machine Learning/ML Engineer  Duration:  12 MonthsÂ  Location:  Full Remote Â Description:Collaborates with ML engineers and other senior architects for ML model onboarding, deployment, Testability and availability for internal clients.Write, automate, and execute performance and load running test scripts to measure latency and throughput of ML backend microservices at the edge-gateway with/without cache.Help analyze and troubleshoot performance bottlenecks at edge-gateway and ML backend microservices. Create client integration script/sample code for internal clients to integrate with gateway service.Experience with programming in Java. 3-5 years of experience in RESTful APIs and distributed systems using Spring frameworks Spring boot.Â Experience with Docker and Kubernetes. Experience writing test automation suites using JUnit and Mockito. Familiarity with performance testing, write, automate, and execute performance scripts. Experience with CI/CD. Proficiency in Jira, Wiki, git, GitHub and Postman, and SOAPUI. Proficiency in JSON, SQL, and regular expressions. Familiarity with agile software development lifecycle. Excellent written and verbal communication skills. Experience working with multiple stakeholders to produce and review documentation.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-03T23:17:01.000Z"
+    },
+    "company": {
+        "name": "Aditi Consulting",
+        "link": "https://www.linkedin.com/company/aditiconsulting"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

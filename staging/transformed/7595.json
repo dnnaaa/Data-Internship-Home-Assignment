@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Internet,Leisure, Travel & Tourism",
+        "description": "Description:Â·Â Â Â Â Â Â The Screenings Team aims to increase user safety, reduce the frequency of property damage incidents, and help maintain our brand. Â·Â Â Â Â Â Â We perform background checks and other data searches to score a user's risk.Â Requirements:Â·Â Â Â Â Â Â 3+ years of data science, data analytics, or business intelligence experienceÂ·Â Â Â Â Â Â Strong understanding of SQLÂ·Â Â Â Â Â Â Experience conducting data analysis in PythonÂ·Â Â Â Â Â Â Experience building clear and easy to understand dashboards and presentations Â·Â Â Â Â Â Â Ability to communicate clearly and effectively to cross functional partners of varying technical levelsÂ·Â Â Â Â Â Â Ability to define relevant metrics that can guide and influence stakeholders to appropriate and accurate insightsÂ·Â Â Â Â Â Â BS/BA in CS or related fieldPreferred Qualifications: oÂ Â Prior experience at a major tech company and/or in management consultingoÂ Â Familiarity with SupersetoÂ Â Familiarity with running weblab experiments, efficacy studies, or product validation testsoÂ Â Familiarity with machine learning basicsoÂ Â Familiarity with our infrastructure, including Airflow, Presto SQL, and Hive SQLoÂ Â Experience creating and maintaining data pipelinesoÂ Â Experience supporting engineering product workoÂ Â MS/MA in CS or related field",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-10-05T17:35:07.000Z"
+    },
+    "company": {
+        "name": "Cypress HCM",
+        "link": "https://www.linkedin.com/company/cypress-hcm"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Engineer (Python, AWS)",
+        "industry": "Information Technology and Services",
+        "description": "About UsDescriptionWavicle Data Solutions designs and delivers data and analytics solutions to reduce time, cost, and risk of companiesâ data projects, improving the quality of their analytics and decisions now and into the future. As a privately-held consulting service organization with popular, name brand clients across multiple industries, Wavicle offers exciting opportunities for data scientists, solutions architects, developers, and consultants to jump right in and contribute to meaningful, innovative solutions.Our 250+ local, nearshore and offshore consultants, data architects, cloud engineers, and developers build cost-effective, right-fit solutions leveraging our teamâs deep business acumen and knowledge of cutting-edge data and analytics technology and frameworks.Wavicle Has Been Recognized By Industry Leaders As FollowsAt Wavicle, youâll find a challenging and rewarding work environment where we enjoy working as a team to exceed client expectations. Employees appreciate being part of something meaningful at Wavicle.Chicago Tribuneâs Top WorkplacesInc 500 Fastest Growing Private Companies in the USCrainâs Fast 50 fastest growing companies in the Chicago areaTalend Expert Partner recognitionMicrosoft Gold Data Platform competencyAbout The RoleWe are looking for a Senior Data Engineer who will be responsible for designing and building optimized data pipelines, in an on-prem or cloud environment, for the purpose of driving analytic insights.ResponsibilitiesCreate the conceptual, logical and physical data models.Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of sources like Hadoop, Spark, AWS Lambda, etc. Lead and/or mentor a small team of data engineers. Design, develop, test, deploy, maintain and improve data integration pipeline. Develop pipeline objects using Apache Spark / Pyspark / Python or Scala. Design and develop data pipeline architectures using Hadoop, Spark and related AWS Services. Load and performance test data pipelines built using the above-mentioned technologies. Communicate effectively with client leadership and business stakeholders.Participate in proposal and/or SOW development.RequirementsProfessional work experience as a strategic or a management consulting (customer facing) role and in an on-shore capacity, is highly preferred. 5+ years of professional work experience designing and implementing data pipelines in on-prem and cloud environments is REQUIRED. 5+ years of experience building conceptual, logical and/or physical database designs using tools such as ErWin, Visio or Enterprise Architect.Strong hands-on experience implementing big-data solutions in the Hadoop ecosystem (Apache Hadoop, MapReduce, Hive, Pig, Sqoop, NoSQL, etc) and.or Databricks is required.3+ years of experience with Cloud platforms (AWS preferred, GCP or Azure), and Python programming and frameworks (e.g., Django, Flask, Bottle) is REQUIRED. 5+ years of working with one or more databases like Snowflake, AWS Redshift, Oracle, SQL Server, Teradata, Netezza, Hadoop, Mongo DB or Cassandra is required.Expert level knowledge of using SQL to write complex, highly-optimized queries across large volumes of data is required.3+ years of professional hands-on experience working with one or more ETL tools to build data pipelines/data warehouses is highly preferred (e.g. Talend Big Data, Informatica, DataStage, Abinitio).3+ years of hands-on programming experience using Scala, Python, R, or Java is REQUIRED. 2+ years of professional work experience on ETL pipeline implementation using AWS services such as Glue, Lambda, EMR, Athena, S3, SNS, Kinesis, Data-Pipelines, Pyspark, etc. 2+ years of professional work experience using real-time streaming systems (Kafka/Kafka Connect, Spark, Flink or AWS Kinesis) is required.Knowledge or experience in architectural best practices in building data lakes is required. Strong problem solving and troubleshooting skills with the ability to exercise mature judgement. Ability to work independently, and provide guidance to junior data engineers.Ability to build and maintain strong customer relationships.Bachelor or Masterâs degree in Computer Science, Engineering, Information Systems or relevant degree is required.Open to 25% national travel to the client location, as required by the client.Equal Opportunity EmployerWavicle is an Equal Opportunity Employer and committed to creating an inclusive environment for all employees. We welcome and encourage diversity in the workplace regardless of race, color, religion, national origin, gender, pregnancy, sexual orientation, gender identity, age, physical or mental disability, genetic information or veteran status.BenefitsHealth Care Plan (Medical, Dental & Vision)Retirement Plan (401k, IRA)Life Insurance (Basic, Voluntary & AD&D)Unlimited Paid Time Off (Vacation, Sick & Public Holidays)Short Term & Long Term DisabilityTraining & DevelopmentWork From HomeCollege Tuition BenefitBonus Program",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T17:23:29.000Z"
+    },
+    "company": {
+        "name": "Wavicle Data Solutions",
+        "link": "https://www.linkedin.com/company/wavicle-data-solutions"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

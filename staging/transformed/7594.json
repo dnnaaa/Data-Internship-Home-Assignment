@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Sr. Developer",
+        "industry": "Financial Services",
+        "description": "Position Summary:This position is responsible for the delivery of high quality, secure code along with analysis, testing, support, documentation and troubleshooting. The Senior Developer is responsible for the knowledge and understanding of compliance within development and operational policies and procedures in support of PCI audit requirements.Essential Functions:Develops multi-tenant platformsAnalyzes Business Processes and assist in identification of technical tasks.Performs Technical lead role as assigned for specific development projects involving multiple technology components and team members.Manages multiple short and long term development tasks in parallel within timeframes assigned.Analyzes and troubleshoots issues, problems and alternatives. Develops and executes options and plans for resolutionPerforms other duties as assignedEducation and Experience:Bachelorâs degree in Computer Science or related field required, four (4) years of working experience accepted in lieu of education requirementFive (5) yearsâ progressive experience in Software Development or related field requiredExposure to Financial Services Industry or Payments Processing Industry a plusStrong background in Object Oriented Programming concepts and techniquesBackground in both user experience and back end processes functionsProficient in the C# programming languageExperience with n-Tier software systems; adept at middle-tier development involving business and data layers preferredExperience with software design patterns is preferredExposure to cross-device mobile application development and/or mobile-optimized browser-based applications a plusMicrosoft .NET Framework, Microsoft MVC, and Microsoft WCF is requiredExposure to the following platforms/systems/writing languages, is a plus:Summary of Qualifications:Ability to effectively communicate with others and to assimilate and understand information, in a manner consistent with essential job functionsStrong organizational skills; ability to multi-task is essentialAbility to work under pressure; plan and follow implementations to stringent timeframesFlexibility and willingness to work at a rapid pace without every detail documented and locked down.Ability to understand and carry out oral and written instructionsAbility to compose simple to complex communications, written or verbalAbility to manage multiple development tasks as part of a team, contributing system components to be integrated into a complete product or solutionAbility to interface with internal and external clients in a professional and understandable mannerAbility to understand business and technical processes to support business needs.Ability to create accurate and understandable system documentation, specifications and user Requirements for complex functions and processes.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:38:45.000Z"
+    },
+    "company": {
+        "name": "CardWorks",
+        "link": "https://www.linkedin.com/company/cardworks"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Horsham",
+        "region": "PA",
+        "postal_code": "19044",
+        "street_address": null,
+        "latitude": 40.182846,
+        "longitude": -75.13714
+    }
+}

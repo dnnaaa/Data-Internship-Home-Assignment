@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "HUED is a venture-backed early stage healthcare engagement platform tailored to improving quality of care for Black and Latinx populations. By reducing barriers that these communities face due to fear, distrust, comfortability and lack of access to quality medical care, HUED seeks to change the lives of 500,000 Black and Latino patients by 2025.Â We are looking for a VP of Engineering. This role will establish company technology vision, strategies, and plans for growth. The VP of Engineering will build, improve and supervise our platform and quality assurance processes.Â This is an exciting opportunity to be part of HUEDâs founding team.Â Duties and Key responsibilities include:Â Â Develop the technical aspects of our company's strategy including but not limited to: hiring & building our in-house engineering team & managing outsourced developers/designers.Create a timeline for development and deployment of technology servicesEnsure system infrastructure is functioning and working efficientlyBuild processes for data protection and quality assuranceMonitor and report on Key Performance Indicators and metricsReduce the risk of technological breaches and protect sensitive digital informationRespond to feedback from stakeholders and use it to make improvements or adjustments needed to our technology stack.Make sure regulatory standards are met (e.g. HIPAA, GDPR, CCPA)Oversee any changes in system architecture and ensure continued compliance (e.g. SOC 2)Deploy and implement a disaster recovery plan in the event of a breachPlan and implement appropriate use policies for employeesCommunicate our technology strategy to our partners as well as investorsÂ Skills & Knowledge:Â Ability to be a âbig pictureâ thinkerExcellent leadership, team building, and management skillsAble to multitask, prioritize, and manage time efficientlyÂ Able to build strong interpersonal relationships with peers, leaders, and other senior management throughout the company.Encouraging to team and staff; able to mentor and leadExcellent verbal and written communication skillsEnjoys being a polyglot and unafraid to dabble in new programming languages (or frameworks & tools).Â Education / Experience:Â Bachelorâs degree in information technology, computer science, or related field; Technology-related discipline preferredEight to ten yearsâ experience in a software development role, information technology role, or related field; five years in management or leadership role preferred.Experience with Mobile Application Development.Preferable to have experience in building healthcare related products.Â Computer / Software / Technology ProficiencyÂ Ruby on Rails, JavaScript, TypeScript, SQL or similar stack.Databases: MySQL, PostgresQL, NoSQL (MongoDB, DynamoDB, Redis)Code Versioning: Git (using GitHub)Mobile Development: React Native, Xamarin or other cross-platform mobile development frameworks. Familiarity with Swift/Objective-C and Java for Android/Kotlin.API Development: REST and GraphQLNice to have: DevOps experience leveraging AWS, Docker, Kubernetes or other IaaS or PaaS providers (e.g. Heroku)Â Â If interested, please send resume to: engage@huedco.comÂ ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-03T01:40:49.000Z"
+    },
+    "company": {
+        "name": "HUED",
+        "link": "https://www.linkedin.com/company/huedco"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

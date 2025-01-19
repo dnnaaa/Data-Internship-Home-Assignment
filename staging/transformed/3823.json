@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer - Kubernetes",
+        "industry": "Computer & Network Security,Computer Software",
+        "description": "Much of our support and software development focuses on optimizing existing systems, building infrastructure and reducing work through automation. Youâll join a team of curious problem solvers with a diverse set of perspectives who are thinking big and taking risks. In this environment youâll take the lead on relevant projects, supported by an organization that provides the support and mentorship you need to learn and grow. As an SRE youâll be focused on running better production applications and systems.As a Site Reliability Engineer (SRE) you'll be focused on running better production applications and systems, building a meaningful engineering discipline, and combining software and systems to develop creative engineering solutions to operational problems.Responsibilities:Design, code, test and deliver software to automate manual operational workTroubleshoot priority incidents, facilitate blameless post-mortems and ensure permanent closure of incidentsEngage with development team throughout the life cycle to help develop software for reliability and scale, ensuring minimal refactoring or changesIdentify application patterns and analytics in support of better service level objectivesDesign self-healing and resiliency patternsDesign automated software and product upgrades, change management, and release management solutionsParticipate in the 24x7 support coverage as neededQualifications:Minimum 3 years' experience with the following:Hands on experience using large scale software development, preferably in one of these languages: Java, Python, scripting languagesHands on experience of Kubernetes, Docker, Docker Swarm style deploymentsPrior experience in DevOps and/or application development teamExperience with infrastructure components utilized in data warehousing or big data environmentsHands on experience of Continuous Delivery toolsHands on experience in Unix: Linux and SolarisWorking knowledge of infrastructure components (e.g. routers, load balancers , cloud products , container systems , compute, storage and networks)Excellent debugging and trouble shooting skillsExpertise in at least one technology stack designing, coding, testing, and delivering softwareProficiency in one or more technology domains, may be a cross-domain expert able to solve complex and mission critical problems within a business or across the firmExposure to Orchestration and configuration management tools for applicationsExposure on data-dog and data-dog monitoringExcellent communication skills, both written and oral appropriately scaled for senior technical and senior business audienceAbility to work and effectively prioritize in a highly dynamic work environment that includes a global focusZimperium is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T22:55:43.000Z"
+    },
+    "company": {
+        "name": "ZIMPERIUM",
+        "link": "https://www.linkedin.com/company/zimperium"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas-Fort Worth Metroplex",
+        "region": null,
+        "postal_code": "75049",
+        "street_address": null,
+        "latitude": 32.7513,
+        "longitude": -97.08263
+    }
+}

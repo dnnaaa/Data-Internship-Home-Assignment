@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - Remote",
+        "industry": "Information Technology and Services",
+        "description": "Our client has 2 large projects and is looking for Software Engineers to help support them.Â WHAT YOUâLL DOÂ Build solutions that meet our customerâs needs and are maintainable, cost-effective and responsive.Partner with our product, design and infrastructure teams to build or enhance applications and services.Â Own the reliability of the application and services by partnering. operations and infrastructure to build, scale and monitor services and applications.Design, develop, test, debug and maintain software code for our high-performance business applications.Analyze and optimize User Interface and Backend Application code for efficiency.WHAT YOU'LL NEEDAt least 5 years of professional experience building high-performance, reliable systems in a complex, multi-tiered and distributed environment.Design and implement services in a variety of programming languages including Nodejs, Golang.Successful deployment of production code at scale.Proven track record of writing maintainable code which includes unit tests, readable code and decent implementations of design patterns.Expertise with learning new technologies and familiarity with our tech stack: JavaScript, Node.js, Go, React.js, ElasticSearch, NSQ, GraphQL and Postgres.To schedule an interview with our recruiter, please visit : https://calendly.com/lauren-jessup/vaco_needs",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-05T14:38:16.000Z"
+    },
+    "company": {
+        "name": "Vaco",
+        "link": "https://www.linkedin.com/company/vaco"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

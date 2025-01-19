@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Machine Learning Engineer:About the PositionÂ As aÂ member of our Engineering team,Â youÂ will work with a tight, highly skilled machine learningÂ / data scienceÂ team dedicated to the development ofÂ proprietary consumer insights.Â You will beÂ working closely with our Data Scientists,Â implementingÂ highly available and scalable machine learningÂ pipelines.Â If you are aÂ Software Engineer passionate for technology who wants toÂ work with a mature,Â intensely skilled team, values total ownership of your work, and canât imagine a day without coding, we want to speak to you! We're looking for a creative, focused,Â collaborative,Â technically curious individual who enjoys both design as well as working hands-on with the code.Â If you are interested in working on cutting edge ML and AI projects atÂ Internet scale and speed this is the job for you!Â Key ResponsibilitiesÂ Design and implement ML featureÂ pipelinesÂ Optimize pipelines and processes for model development, experimentation and scaled productionÂ scoringÂ Â Implement machine learning algorithms and libraries in service to modeling and production scoringÂ pipelinesÂ Monitor and ensure the quality of machine learningÂ solutionsÂ by implementingÂ processÂ and control disciplinesÂ as well asÂ toolingÂ toÂ governÂ Analyze large and complex data sets to derive valuable insights, inform feature and productÂ developmentÂ Apply machine learning and data science techniques and design distributedÂ systemsÂ Qualifications & Experience RequirementsÂ StrongÂ Software Engineering background with emphasis in dataÂ science andÂ machineÂ learningÂ Fluent in Java, Python, and/or Scala programming languagesÂ Strong communication skills including the ability to describe complex models and findings to different audiences and stakeholders, fromÂ dataÂ science peers to business decision-makersÂ Demonstrated exploratory analysis and visualization abilities in a non-academicÂ settingsÂ Strong bias for action and ability to pivot quickly and act with agility according to the needs of theÂ businessÂ Working knowledge of machine learning frameworks and the data and computation management mechanisms that surround them in a cloudÂ environmentÂ (AWS)Â Experience designing, implementing, and transitioning to AI/MLÂ cloud basedÂ frameworks such as AmazonÂ SageMakerÂ Experience implementing quality and controlÂ disciplinesÂ for Machine LearningÂ pipelinesÂ through process andÂ toolingÂ Ability to handle multiple projects simultaneously, meet deadlines, and effectively manage priorities and communicateÂ progressÂ Fluent in Linux based systems, Docker,Â and code versioning tooling (Git/CI/CD)Â Computer Science or equivalent degree and work experienceÂ ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T15:23:52.000Z"
+    },
+    "company": {
+        "name": "1872 Consulting",
+        "link": "https://www.linkedin.com/company/1872-consulting"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Virginia",
+        "region": "United States",
+        "postal_code": "23038",
+        "street_address": null,
+        "latitude": 37.512905,
+        "longitude": -78.697624
+    }
+}

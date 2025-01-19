@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Internet",
+        "description": "Didi autonomous driving is innovating the way we build our self-driving cars. We leverage our ride-sharing network to collect large amounts of data, and improve our algorithms with the data. In this role, you will lead a group of engineers to design, train and deploy ML models. It covers different algorithms across the whole stack. If you are interested in solving exciting and challenging problems, and are enthusiastic about autonomous driving, please join us!ResponsibilitiesFrom a research perspective, exploring, prototyping, validating, and iterating new machine learning algorithmsOn the development side, productionize ML algorithms to improve onboard intelligence of autonomous vehicles, including training, serving, evaluating and monitoring the ML modelsChampion of the best engineering practices, crafting solutions and not just identifying problemsQualificationsMS, or higher degree, in CS/CE/EE, or equivalent industry experienceExtensive experience with ML frameworks such as Tensorflow or PyTorchStrong experience with state-of-the-art machine learning and classificationStrong programming skills in Python, C++, or other relevant languagesExcellent mathematical reasoning skills, especially with probabilityPassionate about self-driving car technology and its impact on the world![plus] Solid research papers on AI/ML or roboticsAbout The CompanyDidi Chuxing (âDiDiâ) is the worldâs leading mobile transportation platform. Weâre committed to working with communities and partners to solve the worldâs transportation, environmental, and employment challenges by using big data-driven deep-learning algorithms that optimize resource allocation.Didi Chuxingâs Autonomous-Driving team was established in 2016, and has grown to a comprehensive research and development organization covering HD mapping, perception, behavior prediction, planning and control, infrastructure and simulation, labeling, hardware, mechanical, problem diagnosis, vehicle modifications, connected car, and security, among others. Weâre developing and testing self-driving vehicles in China and the United States.In August 2019, DiDi upgraded its autonomous driving unit to an independent company to focus on R&D, product application, and business development related to self-driving technologies. The new company will integrate the resources and technology of DiDiâs platform, continue to increase investment in R&D, and deepen collaboration with auto industry partners.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-31T08:13:05.000Z"
+    },
+    "company": {
+        "name": "DiDi",
+        "link": "https://cn.linkedin.com/company/didiglobal"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Mountain View",
+        "region": "CA",
+        "postal_code": "94040",
+        "street_address": null,
+        "latitude": 37.39008,
+        "longitude": -122.08139
+    }
+}

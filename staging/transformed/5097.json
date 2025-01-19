@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "Data Scientist/Analyst Location: SFO, CA (Remote can work from anywhere but wiling to work Pacific hours).3 Rounds of InterviewÂ Mandatory:Â·Â Â Â Â Â Â Â Â 3+ years of data science, data analytics, or business intelligence experienceÂ·Â Â Â Â Â Â Â Â Strong understanding of SQLÂ·Â Â Â Â Â Â Â Â Experience with conducting data analysis in Python and / or RÂ·Â Â Â Â Â Â Â Â Experience building clear and easy to understand dashboards and presentations Â·Â Â Â Â Â Â Â Â Ability to communicate clearly and effectively to cross functional partners of varying technical levelsÂ·Â Â Â Â Â Â Â Â Ability to define relevant metrics that can guide and influence stakeholders to appropriate and accurate insightsÂ PlusesÂ·Â Â Â Â Â Â Â Â Familiarity with SupersetÂ·Â Â Â Â Â Â Â Â Familiarity with running weblab experiments, efficacy studies, or product validation testsÂ·Â Â Â Â Â Â Â Â Familiarity with machine learning basicsÂ·Â Â Â Â Â Â Â Â Familiarity with Client infrastructure, including Airflow, Presto SQL, and Hive SQLÂ·Â Â Â Â Â Â Â Â Experience creating and maintaining data pipelinesÂ·Â Â Â Â Â Â Â Â Experience supporting engineering product work",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-20T21:07:13.000Z"
+    },
+    "company": {
+        "name": "Derex Technologies Inc",
+        "link": "https://www.linkedin.com/company/derex-technologies-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

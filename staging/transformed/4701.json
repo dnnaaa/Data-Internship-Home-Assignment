@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "Marketing and Advertising,Computer Software,Internet",
+        "description": "Terminus is the only account-based engagement platform built to deliver more pipeline and revenue through multi-channel account-based marketing (ABM). The platform, Terminus Engagement Hub, connects the first and third-party data needed to understand both customers and prospects, with the most robust suite of engagement channelsâincluding ads, chat, email, and webâavailable. Terminus powers multi-channel ABM for thousands of brands globally including DHL, G2, Outreach, and TripActions. Terminus is proud to be a G2 leader in ABM for 13 consecutive quarters. Visit terminus.com to learn more or connect with us on Twitter and LinkedIn .Terminus is seeking an accomplished Senior Software Engineer to help us build an industry leading Account-Based Marketing platform that allows B2B marketers to do ABM at scale. This role will be pivotal in helping our teams build, scale and deliver best-in-class ABM platform on the market to our customers. This will include working with third-party data and integrations, ETL jobs, our data platform, as well as a variety of our other services which require experience in, but not limited to, APIs, messaging and automation.Most importantly, we are looking for engineers that exemplify our core values: positive, supportive, and self-starting. Like us, we want you to be excited every day about working with this team and building great software. We are passionate about delivering high-quality code and providing our customers with features that they need and love.As a fast growing startup, Terminus offers an incredible opportunity for a senior software engineer to learn, grow personally and professionally, and be part of building our company and culture.ResponsibilitiesWrite and review services coded in Go (primarily), Python, Typescript, Ruby, Java and other languages/frameworks as necessaryDesign and implement large scale data solutionsDeploy high-volume services to production multiple times per dayMaintain infrastructure-as-code in an AWS environment (We use Terraform)Instrument code to provide visibility into performance and reliabilityDocument service design/architecture and participate in design reviewsMaintain operations by measuring and monitoring availability, latency and overall system healthWork with Support to triage and debug customer and product issuesRequirements5+ years in software with experience in one or more of the following: Go, C, C++, Java, C# or Ruby3+ years experience running production systems on a major cloud providerExperience in building, maintaining and monitoring distributed services and systemsExperience with RPC/RESTful API designExperience in multiple database designs (relational, document, graph)Experience with Microservices architecture.Preferred Experience With The FollowingAWSDesigning and developing public APIsDocker in a production environmentExperience with big data technology (e.g. Spark, Hive, etc.).Incredible Benefits, Incredible Company!Guaranteed participation in our equity program - because our employees should share in our successUnlimited vacation to unplug and recharge however you chooseHalf-Day Fridays to reward you for your productivity2 days paid VTO (volunteer time off) every year to help impact your communityMonthly UberEats stipend to help support your favorite local spotsTeam budget to help facilitate team building - connected teams are more successful teamsRotating quarterly perks for the evolving needs of our employeesWellness stipend to balance your body and mind100% employer paid Health, Dental, and Vision Insurance for employee only coverage to cover your fundamental needs100% employer paid Short-term and Long-term Disability Insurance401K with a competitive company match to build your future financial securityWe put families first with an exceptional Paid Parental Leave Program for employees with 1+ years of serviceNamed Best Workplace Winner 2017, 2018, and 2019 by Inc. Magazine Ranked #21 on the Deloitte Fast 500Ranked #61 on the Inc. 5000 of fastest-growing private companies in the U.S.Named G2 2020 Spring category leader for the 10th consecutive quarter.Diversity and inclusion are essential values at Terminus. We believe we do our best and most impactful work when we are a diverse, inclusive and equitable organization. We're proud to recruit and hire talented people from a wide variety of backgrounds and experiences. We do not discriminate on the basis of race, color, national origin, gender, religion, sex (including pregnancy, sexual orientation, gender identity or transgender status), age, or disability.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T00:27:53.000Z"
+    },
+    "company": {
+        "name": "Terminus",
+        "link": "https://www.linkedin.com/company/terminus-account-based-marketing"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

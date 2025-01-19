@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "AtÂ Carta Healthcare, we believe in a multidisciplinary approach to solving problems.Â Our mission is to automate and simplify the work that burns out clinical staff, so they can focus on patient care. Our AI Enabled Technology offers a complete solution (people, process and technology) to support the Healthcare Registry Data Market.Â We design products that transform the way hospitals use data to deliver care. We make analyzing data fast, easy, and useful for everyone. We give clinicians time back to focus on research and care that improve patient lives by reducing paperwork.Â Carta Healthcare is a remote organization with headquarters in San Francisco and Portland, Oregon.Â To learn more about our AI Enabled Solutions and more about our company, pleaseÂ visit www.carta.healthcareWe are looking for aÂ Data ScientistÂ responsible for working with and improving our automation, natural language processing, and machine learning tools.Â Your primary focus will be building tools to extract actionable clinical insights from unstructured data sources.Â This will include expanding the capabilities of Cartaâs NLP pipeline, building new algorithms, and orchestrating the training, evaluation, and deployment of these algorithms to live data.Â Responsibilities:Interpret messy structured and unstructured clinical data to produce actionable insightsWork with parallelized and modular data ingest and machine learning techniquesImprove the performance of Cartaâs automation and machine learning pipelinesWork with clinical experts to generate de-identified datasets for evaluating our ML algorithmsOrchestrate the training, deployment, and evaluation of ML pipelines across multiple customer deployments.Collaborate with other team members and stakeholdersÂ What youâll need:PhD in Biomedical Informatics, Statistics, Computer Science or related fieldStrong understanding of the core principles of statistical/machine learningExperience working with clinical dataExperience with Natural Language Processing tools (e.g. Spacy)Python expertise (4+ years experience)Proficient understanding of code versioning tools (i.e. git)Familiarity with Jupyter notebooks or other data science toolsStrong data visualization skills (Tableau, matplotlib, etc.)Experience with the FHIR standard for medical dataPostgres or SQL expertiseA hands-on, engaged approach to solving problemsÂ Â Â Â Excellent communication skills and experience in collaborative environmentsÂ The desire to be continually learning about emerging technologies/industry trendsJob is remote but candidates must be US-basedWhy we love Carta Healthcare, and why you will too!Industry leading productsWork hard, and have fun doing itWork alongside some of the most talented and dedicated teammatesMission drivenÂ ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-14T00:13:59.000Z"
+    },
+    "company": {
+        "name": "Carta Healthcare Inc.",
+        "link": "https://www.linkedin.com/company/cartahealthcare"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

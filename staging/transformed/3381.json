@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer (REMOTE)",
+        "industry": "Information Technology and Services",
+        "description": "Machine Learning EngineerFortune 500 client, McLean; VA or Dallas; TX or OPEN TO FULLY REMOTE6-12 months with extensionOverview:The client's iLab is currently looking for Machine Learning Engineers in its Innovation Labs â Tech Strategy team. In this position, you will be responsible for taking on new initiatives to design, build, and deploy machine learning models in a client solution-oriented environment.Â As a member of our team, you will make an immediate impact on building and expanding current technology platforms across AWS and GCP.What you will do:Work within an agile team that includes members with cross-functional skillsCollaborate closely with other functional teams to design, build, test, and deploy AI solutions to address market needsDesign and implement Machine Learning algorithms and models into software solutions for our enterprise customers by using common machine learning frameworks, including establishing and training machine learning and deep learning models at scale for computer vision (image recognition, object detection, image generation), machine translation, language modeling, rankings and recommendations, speech recognition, etc.Design, build, and implement cloud native applications using the GCP and AWS services, event streaming technologies, and various open source frameworksBuild distributed, scalable, and reliable data pipelines that ingest and process data at scale and in real-time to feed machine learning algorithmsIncorporate real-time data streams to produce highly predictive features in our modelsWrite understandable, testable, and secure code with an eye towards quality and maintainability.What we are looking for:3 - 5 years of Machine Learning/Artificial Intelligence Engineering experienceÂ Experience with Machine Learning - Frameworks TensorFrow & XGBoost, scikit-learn, Pytorch and ONNX.Â In addition, I am also looking for experience with programming languages (Python, Java, Go, etc.).Â Experience with Big Data and/0r Data Lake experience.Must have GCP or AWS backgroundÂ ",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-12T20:18:32.000Z"
+    },
+    "company": {
+        "name": "Technology Ventures",
+        "link": "https://www.linkedin.com/company/technology-ventures"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Washington",
+        "region": "DC",
+        "postal_code": "20398",
+        "street_address": null,
+        "latitude": 38.892063,
+        "longitude": -77.01991
+    }
+}

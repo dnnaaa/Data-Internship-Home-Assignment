@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+        "description": "Job Summary:This role will be a part of the resort sales team within the Guest Experience Digital Platform organization. The team supports the guest experience platform for multiple resort destinations which include the front-end website used by guests and travel agents as well as the core services which integrate with the commerce systems. As part of the team, the role will be responsible for the delivery of new capabilities, enhancement of existing capabilities and the modernization of the existing technical stack to take full advantage of cloud native architecture while continuing to support and sustain the existing front-end applications during the transition.The Software Engineer applies practical knowledge of development and engineering to conceive, design, develop, test, and implement software fixes, enhancements, components, and/or new software systems and applications of moderate to high complexity. The Software Engineer helps drive development of components through his/her ownâ and partner engineersâ work.Responsibilities:Executes assigned component level software development projects and major fixes using new or existing technologiesDevelops specifications for assigned components, projects or fixesReviews or writes codeDeveloping, testing and debugging of applications or fixes to existing applicationsDesigns, develops, manages, creates and maintains technical components and templatesAble to code with front-end technology stack and lead end-to-end troubleshootingInteracts and coordinates deliverables with other technical groups in the organizationBasic Qualifications:2 to 5 years of web development, including experience with HTML, CSS, Ajax, JavaScript.Experience with Single Page Applications and responsive applications built using JavaScript frameworks like Angular.Experience with server-side scripting like PHP or a similar object-oriented server-side scripting language.Experience working with Node.jsAbility to develop and implement high-quality code in a timely manner is essentialEffective verbal and written communication skills with both technical and non-technical audiencesAbility to thrive in a dynamic, collaborative and fast paced environmentStrong interpersonal skills as well as strong problem-solving and analytical skillsAttention to detailRequired EducationBachelors Degree or equivalent experience821486BR",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T13:03:36.000Z"
+    },
+    "company": {
+        "name": "Disney Parks, Experiences and Products",
+        "link": "https://www.linkedin.com/company/disney-parks-experiences-products"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 87000,
+        "max_value": 125000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Glendale",
+        "region": "CA",
+        "postal_code": "91205",
+        "street_address": null,
+        "latitude": 34.148136,
+        "longitude": -118.24644
+    }
+}

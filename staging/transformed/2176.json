@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Network and Data Center Engineer",
+        "industry": "Computer Software",
+        "description": "Role is with a discrete tech-driven research firm. Some of the world's sharpest technologists and resarchers work here.Position Summary:Design, configure and deploy enterprise network infrastructures which will support some of the most advanced tech research in the world.Provide Network and Infrastructure Architectural resources to research and technology teams. Ability to translate the requirements into an IP-based delivery platform.Research, design, and implement network security best practices using a combination of technologies such as VPNs/encryption, firewalls, secure proxies, IDS/IPS and secure network design methodology. Ensure those practices are adhered to by providing leadership and rigor to all projects and infrastructure, whether they be new or ongoing operations.Provide tier 3 supportBe an integral team leader and engineering/technical resource on enterprise-wide infrastructure projects. Provide expert-level knowledge and a broad understanding and ownership of the network and its production and transmission technologies and applications.Duties and Responsibilities:Design and implement complex network architectures to provide highly available network services.Provide security controls and architectures to secure these services internally and for those services that are externally availableDesign and configuration of routers/switches, firewalls, VPNs, application load balancers, secure proxies, quality of service designs and multicast audio over IP networksTest architectures in development and execute deployments working with technical program managers and operationsProvide team and project leadership â direct engineering, collaborate with other teams and provide leadership and mentoringProduce high quality documentation for all network designs, products, data flows and servicesProvide final escalation support and guidance to all levels of support escalations teams and EngineersMinimum Qualifications:B.S. in related field or equivalent experience.10 years-experience in the planning, design, implementation and technical support of multi-vendor, multi-platform enterprise networks2 years-experience providing layered security through the use of firewalls, VPNs, encryption, IDS/IPS and secure proxies2 years-experience with multicast â dense, sparse and source specificDemonstrated knowledge of LAN and WAN networks from layer 2 up2 years-experience implementing quality of service technologies and diagnosing network performance issuesDemonstrated knowledge of virtualization architectures and network attached storage is preferredExperience at leading teams of engineers/technical staffAbility to communicate highly technical information in a clear, concise and effective mannerAbility to be a key leader and demonstrate executive level leadership skills for the Corporation's successPythonRequirements and General Skills:Good public speaking and presentation skills.Interpersonal skills and ability to interact and work with staff at all levels.Excellent written and verbal communication skills.Ability to work independently and in a team environment.Ability to pay attention to details and be organized.Ability to project professionalism over the phone and in person.Ability to handle multiple tasks in a fast-paced environment.Commitment to âinternal clientâ and customer service principles.Willingness to take initiative and to follow through on projects.Creative writing ability.Excellent time management skills, with the ability to prioritize and multi-task, and work under shifting deadlines in a fast-paced environment.Must have legal right to work in the U.S.Technical Skills:Expert knowledge of the following protocols and technologies: IP routing protocols (eBGP, iBGP, MP-BGP, OSPF), router redundancy protocols including HSRP/VRRP/MLAG, Ethernet protocols including spanning tree, rapid spanning tree 802.1W, access control, network address translation, quality of service and policy-based routing, Layer3 Leaf-and-Spine, VXLAN and EVPN datacenter networking.Expert knowledge with firewalls/ACL/encryption/VPN technology - Cisco ASA and associated protocols (IPSEC/GRE) and secure proxy functions.Extensive experience with IP Multicast â dense mode, sparse mode (RPs/BSRs) and source specific multicast.Application and load balancing products and technologies (F5 knowledge is required)Extensive experience in a multi-vendor network architectureExperience with Linux and Windows, especially their networking stacks up to Layer 4",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-03T03:47:42.000Z"
+    },
+    "company": {
+        "name": "Quantitative Systems",
+        "link": "https://www.linkedin.com/company/quantitative-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Newport Beach",
+        "region": "CA",
+        "postal_code": "92661",
+        "street_address": null,
+        "latitude": 33.60877,
+        "longitude": -117.87336
+    }
+}

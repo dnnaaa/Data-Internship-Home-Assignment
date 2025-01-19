@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "The Company:Are you looking for an opportunity to develop your career in a fast-growing tech company? eFileCabinet is an industry-leading document management software company. We help businesses get back to work securely, efficiently, and effectively. Companies can manage all their documents with our top-rated cloud-based Rubex platform.Our robust product includes Smart Automation, Workflow, Templates, Share & Requests, Governance, and eSignature with KBA/OTP. With our top-rated customer service (check G2), eFileCabinet is a no-brainer for companies looking to get back to what matters.Who You Are:We are looking for product-focused, driven software engineers who have a passion for creating great SaaS applications. Do you have deep knowledge and experience in cloud technologies, problem-solving, critical thinking, and continuous learning/improvement?Â If you enjoy working as part of an Agile team of dedicated, passionate engineers to create amazing products, then youâre in luck; we are looking for you to join our team as a Software Engineer.What Youâll Be Doing:Producing and maintaining high-quality software applications, clean code, and documentation as part of an Agile teamMaintaining existing applications, fixing bugs, enhancements and interacting with users to resolve problemsEnhancing existing software applications by identifying areas of improvement, making recommendations, and designing and implementing new featuresCollaborating with other developers to design, optimize and peer review codeProviding technical assistance in collaboration with stakeholders and existing customers.Improving system quality by identifying issues and common patterns, and developing standard operating proceduresInvestigating and using new technologies where relevantWhat Youâll Bring to the Table:3-5 years of software design and development experience, with increasing responsibilityExcellent team collaboration and communication skillsExperience with cloud platforms, concepts and web technologies (AWS/Azure)Experience with/understanding of various architectural styles (SOA, microservices, etc.)Experience designing and implementing software following best practices, primarily with C# .NET (Framework and Core), and React, Angular or other modern JS front-end frameworkExperience with various storage and caching technologies, scaling and optimization (SQL, PostgreSQL, NoSQL, etc.)Strong analytical and reasoning skills with an ability to visualize processes and outcomesProficiency in troubleshooting software issues and debugging a large codebaseDriven and detail-oriented with a passion for learningWhat We Offer:Four Day Work WeekFully Remote PositionÂ Flexible Work ScheduleStraightforward and clear uncapped compensationMaternity and Paternity LeaveOpportunities to grow your careerTop-notch work-life balance and company cultureCome experience the stability of a 20-year-old company with the vision and energy of a startup. Apply today!eFileCabinet is an EEO; M/F/D/V; we offer PTO; Medical, Dental, Vision, 401k (with Match), Life insurance and many perks. The salary for this position is dependent on experience.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-03T03:28:59.000Z"
+    },
+    "company": {
+        "name": "eFileCabinet",
+        "link": "https://www.linkedin.com/company/efilecabinet"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Lehi",
+        "region": "UT",
+        "postal_code": "84043",
+        "street_address": null,
+        "latitude": 40.387875,
+        "longitude": -111.84917
+    }
+}

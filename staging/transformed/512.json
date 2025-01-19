@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer I",
+        "industry": "",
+        "description": "Summary   This position requires common knowledge and an understanding of basic techniques and concepts of programming in at least one programming language. The focus is on learning and gaining on the job experience.Â   General Characteristics â¢ Acquires basic knowledge and develops skills in a specific practice area.â¢ Applies standard techniques and procedures to perform assigned tasks as part ofa broader assignment.â¢ Requires guidance and oversight on details of work.â¢ Familiar with the principals of the Agile Manifesto. Ideally has some knowledgeof the SCRUM Agile methodology.â¢ Active participant in Agile ceremonies (daily standup, retrospective, etc.).â¢ Displays ability to follow directions and understand procedural guidelines.â¢ Possesses an analytical mind and the desire to investigate problem..    Technical Responsibilities â¢ Performs basic design tasks.â¢ Performs coding, testing and administration assignments.â¢ Familiarity with Java (understanding of object oriented concepts, syntax, etc.). â¢ Familiarity with an integrated design environment (IDE) and tools required to write software.â¢ Familiarity with Linux or Unix operating systemâ¢ Working knowledge of computer networking with protocols such as TCP, UDP and SCTP.â¢ Familiarity with other languages such as javascript, python, C/C++, HTML, CSS, etc. Managerial Responsibilities â¢ Coordinates with technical and/or administrative staff.â¢ Focus is on learning  Direction Received â¢ Close supervision and guidance is required for many aspects of work  Communication Skills  â¢ Possesses basic oral and written communication skills. â¢ Interacts professionally with other staff.â¢ Actively seeks help from manager, peers, and other members of the team.  Experience â¢ 0-1+ Years, bachelor's degree in computer science or a related field",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-12T20:25:59.000Z"
+    },
+    "company": {
+        "name": "NetNumber",
+        "link": "https://www.linkedin.com/company/netnumber"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 65200,
+        "max_value": 136000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Massachusetts",
+        "region": "United States",
+        "postal_code": "01721",
+        "street_address": null,
+        "latitude": 42.172356,
+        "longitude": -71.605
+    }
+}

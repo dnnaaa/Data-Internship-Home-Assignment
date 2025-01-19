@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Staffing and Recruiting",
+        "description": "TITLE: Data Scientist/Machine Learning EngineerLOCATION: RemoteDuration: 8 months+ extensions Â Ideal Qualifications:5+ Python software development for composition and modularity, debugging and following tracebacksStrong stats background and concepts including hypothesis testing, correlation, R squared, P-valueExperience with Pandas, NumPy, SciPy, Pytorch Tensorflow functional API, deep learningMathematics of machine learning- linear algebra, multivariable calculus SQL querying Hyperparameter optimization, regularizing regression models Nice to HaveMasters or PhD- HIGHLY preferred!! Ecommerce experience Â Â Â Our client is looking for a Data Scientist/Machine Learning Engineer to sit remotely within the US.Â We follow industry standard practices for managing, collaboration, deployment and testing.Â We deploy and interact with resources on AWS.Â Responsibilities include:â¢ Analyze large data sets by quantifying the data quality, identifying particular patterns, and visualizing results â¢ Understand business problems and identify the right data sets and ML/Statistical approach to produce the desired outcomes â¢ Adapt to account for changes and be able to propose alternative approaches â¢ Ideate and develop analytics and modeling solutions cross-functionally to build customized, long-term, and sustainable solutions â¢ Provide critical thought leadership and enhance organizational capabilities â¢ Own machine learning pipelines end-to-end â¢ Write production-grade machine learning code using standard engineering practices and deploy models to production â¢ Improve codebase and lead/participate in code reviews with Research Scientists and Data Scientists â¢ Help non-engineers develop their engineering skills â¢ Mentor junior team members and contribute to a culture where everyone is valued",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-12T19:17:50.000Z"
+    },
+    "company": {
+        "name": "Insight Global",
+        "link": "https://www.linkedin.com/company/insight-global"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

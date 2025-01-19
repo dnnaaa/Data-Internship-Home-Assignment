@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Servicii financiare,Software,Tehnologia informației și servicii informatice",
+        "description": "ResponsibilitiesImplementation of AI and ML applications in company with the Deutsche Bank IPB Business Organisation.Understanding and translating business requirements into technical concepts as preparation for AI application development.Designing machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.Research and implement appropriate ML algorithms and tools.Turning unstructured data into useful information by e.g. applying NLP.Advanced analytics of business data using modern statistical approaches and analytical systems.Execute data science experiments to gain new insights into the available data, which allows generating new business opportunities.Visualisation of data using common BI tools.Advanced pre-processing of data as required by the respective AI application.Delivery of AI and ML application on modern infrastructure in an international business context.Train and retrain systems when necessary.Extend existing ML libraries and frameworks if necessary.Rollout and document changes and applications according to requlatory requirements.Maintain and deliver Bugfixes for existing AI and ML applications.Profile RequirementsBSc in Computer Science or similar field; Masterâs degree is a plus.Proven experience as a Machine Learning Engineer or similar role.Extensive knowledge of ML frameworks, libraries, data structures, data modelling, and software architecture.In-depth knowledge of mathematics, statistics, and algorithms.Ability to write robust code in Python and if necessary R.Knowledge of common Python frameworks in the area of data processing, data science and machine learning e.g. Pandas, Scikit-Learn, Numpy, Tensorflow and others.Experience with visualizing data in e.g. Tableau or Qlik Sense.Excellent communication skills.Ability to work in a team.Outstanding analytical and problem-solving skills.Structured and intrinsically motivated way of working.Capability to work in a fast paced and changing environment.OptionalExperience in the area of cloud computing ideally GCP or similar.First experience with low code Data Science tools e.g. Kubeflow.Experience with specific NLP frameworks e.g. NLTK, Spacy.Experience with implementing ML applications in a Hadoop environment.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T15:36:21.000Z"
+    },
+    "company": {
+        "name": "Deutsche Bank",
+        "link": "https://de.linkedin.com/company/deutsche-bank"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "RO",
+        "locality": "Bucureşti",
+        "region": null,
+        "postal_code": "",
+        "street_address": null,
+        "latitude": 44.442814,
+        "longitude": 26.086712
+    }
+}

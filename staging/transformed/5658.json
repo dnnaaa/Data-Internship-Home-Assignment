@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Required Qualifications:4-5 years of work experience year work experience in a DevOps or Site Reliability Engineer role.Good working knowledge in production/application supportGood with OOP concepts and Python programming/scriptingStrong Computer Science fundamentals in Data Structures, Algorithms, Complexity Analysis, Object-Oriented Design and Designing Large Scale Data-Intensive Applications.4+ years industry experience in Expert Knowledge in Linux, Python, Shell, JavaScript, MongoDB, Elasticsearch, RedisComfortable multi-tasking, managing multiple stakeholders and working as part of a teamÂ Preferred Qualifications:Experience in ELK Stack (Elasticsearch, Logstash, Kibana) or Prometheus + GrafanaExperience with continuous deployment/delivery practicesAWS Certifications such as Solution Architect, DevOps EngineerExperience with Container technologies like Docker, KubernetesExperience with cloud computing systemsNetworking including TCP, HTTP, DNS, SSL certificatesKnowledge of Slang/SecDB is a plusif your interested, please share updated resume to dilipkumar.tm@itcinfotech.com",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T14:22:51.000Z"
+    },
+    "company": {
+        "name": "ITC Infotech",
+        "link": "https://in.linkedin.com/company/itc-infotech"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York City Metropolitan Area",
+        "region": null,
+        "postal_code": "10021",
+        "street_address": null,
+        "latitude": 40.748295,
+        "longitude": -73.98556
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Banking,Financial Services,Investment Banking",
+        "description": "Locations: NY - New York, United States of America, New York, New YorkMachine Learning EngineerAs a Capital One Machine Learning Engineer, you'll be part of an Agile team dedicated toproductionizing machine learning applications and systems at scale. Youâll participate in thedetailed technical design, development, and implementation of machine learning applicationsusing existing and emerging technology platforms. Working within an Agile environment, youâllfocus on machine learning architectural design, develop and review model and application code,and ensure high availability and performance of our machine learning applications. You'll havethe opportunity to continuously learn and apply the latest innovations and best practices inmachine learning engineering to keep Capital One at the cutting edge of technology.We are seeking Software Engineers who are passionate about marrying data with emerging technologies to join our team. As a Capital One Software Engineer, youâll have the opportunity to be on the forefront of driving a major transformation within Capital One. Learn more about #lifeatcapitalone and our commitment to diversity & inclusion by jumping to slides 76-91 on our Corporate Social Responsibility Report. This requisition is an advertisement for multiple opportunities within our Tech organization. By applying to this particular role, you'll also be considered for other roles within Capital One's Engineering Organization.What Youâll Do In The RoleDeliver ML software models and components that solve real-world business problems, while working in collaboration with the Product and Data Science teams.Solve complex problems by writing and testing application code, developing and validating ML models, and automating tests and deployment. Collaborate as part of a cross-functional Agile team to create and enhance software that enables state-of-the-art, next generation big data and machine learning applications.Leverage cloud-based architectures and technologies to deliver optimized ML models atscale. Construct optimized data pipelines to feed ML models. Use programming languages like Python, Scala, or Java. Leverage continuous integration and continuous deployment best practices, includingtest automation and monitoring, to ensure successful deployment of ML models andapplication code. Basic QualificationsBachelorâs degree. At least 1 year of experience designing and building data-intensive solutions using distributed computing.At least 1 year of experience programming with Python, Scala, or Java. At least 1 year of Machine Learning experience with an industry recognized ML framework (scikit-learn, PyTorch, Dask, Spark, or TensorFlow). Preferred QualificationsExperience developing and deploying ML solutions in a public cloud such as AWS, Azure, or Google Cloud Platform. Master's or doctoral degree in computer science, electrical engineering, mathematics, or a similar field. At least 1 year of experience working with large code bases in a team environment.At least 1 year of experience with distributed file systems or multi-node database paradigms. Contributed to open source ML software.At least 1 year of experience building production-ready data pipelines that feed ML models.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.Job Category - Information Technology, Engineering, Technology Explorers, Technology Explorers",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04T05:17:45.000Z"
+    },
+    "company": {
+        "name": "Capital One",
+        "link": "https://www.linkedin.com/company/capital-one"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

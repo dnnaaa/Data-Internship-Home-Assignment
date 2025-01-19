@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - Apple Cloud Product Services",
+        "industry": "Consumer Electronics",
+        "description": "Summary Are you passionate about building large-scale distributed services? Do you want to work with technologies that impact hundreds of millions of users around the world? Are you interested in solving sophisticated problems that can have a direct impact on the success of the company? Do you love building applications that operate at this level of scale and complexity? If the answer to these are yes, then come join the group of software engineers behind the backend services that support our Apple Cloud Products. What we do is essential, sophisticated, exciting and highly rewarding! Key Qualifications Experience designing, implementing and supporting highly scalable applications and web services Experience with SQL and NoSQL database technologies Multithreaded or event-driven programmingExcellent analytical and problem solving skillsExcellent written and interpersonal skillsAptitude to independently learn new technologiesAbility to design, develop and deploy large scale applicationsBe able to drive a project from a simple idea to an implementationBe an authority who possesses both strong programming skills and a creative, user-focused demeanorAbility to thrive in a multi-functional team on high profile, critical projectsExperience with data pipelines and processing large data sets Description We are looking for a deeply capable engineer who has a strong background in designing, implementing and supporting large scale web services. This is a highly visible position with significant ownership of projects. The position requires collaboration with multiple multi-functional engineering teams to define, implement and maintain some of the core backend web services that will support the next generation of Apple services and Cloud Products.The focus of our organization, is on application backend, where we have ownership of web services behind some of Apple's largest ecosystems:iCloud Drive, providing document-based APIs and services to keep customer documents in sync across their devicesApple News, a platform that delivers content around the globe for Apple News, News+ and StocksEfficiency apps for collaboration, such as Apple Notes and the suite of iWork apps.The work is sophisticated, complicated, high-impact and highly visible. It involves crafting data models, picking the appropriate data store, resolving data flows between client and data store, APIs that support multiple features, as well as developing and deploying web services used by several millions of Apple devices. Our team has the ownership of the entire lifecycle of application data, from the critical portions of what enables apps to work well at Apple scale to the work that happens behind the scenes, including asynchronous jobs and data processing.Our team is looking for hardworking and passionate engineers who want to make a difference in the products they develop. If you feel this is you, we'd love to hear from you!Apple is an equal opportunity employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. Education & Experience -  BS or MS or Ph.d in Computer Science or equivalent shown experience Role Number: 200228271",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T06:32:47.000Z"
+    },
+    "company": {
+        "name": "Apple",
+        "link": "https://www.linkedin.com/company/apple"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 118000,
+        "max_value": 200000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cupertino",
+        "region": "CA",
+        "postal_code": "95014",
+        "street_address": null,
+        "latitude": 37.319313,
+        "longitude": -122.02927
+    }
+}

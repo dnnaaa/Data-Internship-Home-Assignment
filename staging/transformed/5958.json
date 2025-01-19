@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Retail,Food & Beverages",
+        "description": "MUST HAVES:-Â Â Â Â Â Â Â Â Â Â Â 5+ Python software development for composition and modularity, debugging and following tracebacks-Â Â Â Â Â Â Â Â Â Â Â Strong stats background and concepts including hypothesis testing, correlation, R squared, P-value-Â Â Â Â Â Â Â Â Â Â Â Experience with Pandas, NumPy, SciPy, Pytorch -Â Â Â Â Â Â Â Â Â Â Â Tensorflow functional API, deep learning-Â Â Â Â Â Â Â Â Â Â Â Mathematics of machine learning- linear algebra, multivariable calculus -Â Â Â Â Â Â Â Â Â Â Â SQL querying -Â Â Â Â Â Â Â Â Â Â Â Hyperparameter optimization, regularizing regression models PLUSSES:-Â Â Â Â Â Â Â Â Â Â Â Masters or PhD- HIGHLY preferred!! -Â Â Â Â Â Â Â Â Â Â Â Ecommerce experience Â DAY TO DAY:Â Â Â A company is looking for a Data Scientist/Machine Learning Engineer to sit remotely within the US.Â We follow industry standard practices for managing, collaboration, deployment and testing.Â We deploy and interact with resources on AWS.Â Responsibilities include:â¢ Analyze large data sets by quantifying the data quality, identifying particular patterns, and visualizing results â¢ Understand business problems and identify the right data sets and ML/Statistical approach to produce the desired outcomes â¢ Adapt to account for changes and be able to propose alternative approaches â¢ Ideate and develop analytics and modeling solutions cross-functionally to build customized, long-term, and sustainable solutions â¢ Provide critical thought leadership and enhance organizational capabilities â¢ Own machine learning pipelines end-to-end â¢ Write production-grade machine learning code using standard engineering practices and deploy models to production â¢ Improve codebase and lead/participate in code reviews with Research Scientists and Data Scientists â¢ Help non-engineers develop their engineering skills â¢ Mentor junior team members and contribute to a culture where everyone is valued",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T23:42:38.000Z"
+    },
+    "company": {
+        "name": "Insight Global",
+        "link": "https://www.linkedin.com/company/insight-global"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

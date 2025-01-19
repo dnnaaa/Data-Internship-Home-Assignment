@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Lead Developer SalesForce Vlocity",
+        "industry": "Information Technology and Services,Insurance,Financial Services",
+        "description": "Company SummaryJoin a team that puts its People First! Since 1889, First American (NYSE: FAF) has held an unwavering belief in its people. They are passionate about what they do, and we are equally passionate about fostering an environment where all feel welcome, supported, and empowered to be innovative and reach their full potential. Our inclusive, people-first culture has earned our company numerous accolades, including being named to the Fortune 100 Best Companies to Work ForÂ® list for six consecutive years. We have also earned awards as a best place to work for women, diversity and LGBTQ+ employees, and have been included on more than 50 regional best places to work lists. First American will always strive to be a great place to work, for all. For more information, please visit www.careers.firstam.com.Job SummaryWe are looking for smart people to help us imagine, design, and build great software solutions leveraging the Salesforce Industries (Vlocity) platform to help our business partners succeed by solving challenging problems in a fast paced and results driven setting.As Salesforce Lead Developer, You WillTranslate business requirements into well-architected Vlocity product that showcase the Salesforce platformDesign and engineer new solutions on the Salesforce platform using Apex and Lightning Web ComponentsProvide hands-on development assistance to product team for technical issuesProvide guidance during business requirement evaluation on best solution with either declarative (point-and-click configuration) or code and customizationFollow modern software development methodologies including iterative and incremental development based on Agile principlesContinue learning new platform capabilities resulting from product release and acquisitions.Apply design patterns like limits and bulkification patterns, efficient and reliable trigger handling, asynchronous operations, and effective unit testingConduct code reviews to ensure high code quality and design patterns are followed and help remediate vulnerabilitiesProvide technical guidance/mentorship to other team membersTechnical Skills QualificationsBachelor's degree in Computer Science or equivalent combination of education and experience5+ years of direct experience working in Salesforce Platform (Vlocity or Industries a plus)Demonstrable Apex development experience: classes, triggers, controllers, components and understanding of governor limitsUnderstanding of DevOps practices, change sets, scratch orgs and deploymentsDevelopment experience with Lightning Web Components (LWC) including JavaScript, HTML, CSSExperience using platform automation tools (flows, process builder, data loader)Experience with SQL, SOQL and SOSL best practicesExperience with Vlocity Interaction Platform (Omni Scripts, Data Raptors, Integration Procedures, Flex cards) highly desirableExperience integrating Salesforce with other business applications via Mulesoft (REST & SOAP endpoints)Preferred QualificationsIn depth understanding of Salesforce Industries Insurance Data ModelIn depth understanding of Insurance industryâs key processes (quoting, policy admin, claims)Comfortable coordinating with distributed teams (US + India)Promotes openness, inquisitiveness, positivity, teamwork and especially integrityCost Conscious in self-declared timelines, balancing urgency, and importanceSalesforce Certifications, specifically, Platform Developer I and/or Service Cloud Consultant desired#techreferralFirst American invests in its employees' development and well-being, empowers them to provide superior customer service and encourages them to serve the communities where they live and work. First American is committed to diversity and inclusion. We are an equal opportunity employer.Based on eligibility, First American offers a comprehensive benefits package including medical, dental, vision, 401k, PTO/paid sick leave and other great benefits like an employee stock purchase plan.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T01:58:49.000Z"
+    },
+    "company": {
+        "name": "First American Title",
+        "link": "https://www.linkedin.com/company/first-american-title"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Santa Ana",
+        "region": "CA",
+        "postal_code": "92703",
+        "street_address": null,
+        "latitude": 33.749737,
+        "longitude": -117.86978
+    }
+}

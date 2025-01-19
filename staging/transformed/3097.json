@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "",
+        "description": "Description :Machine Learning/MLÂ Engineer Location: Remote, Can be Anywhere, Preferably in West Coast or someone who can work in PSTÂ Â·Â Â Â Â Â Â Â Â Â 5+ years of industry experience or a PhD + 2 years industry experience in applied Machine learning.Â·Â Â Â Â Â Â Â Â Â Strong coding skills in Python/Java/Scala or equivalentÂ·Â Â Â Â Â Â Â Â Â Experience with distributed data processing tools like Hive, Spark, Airflow and popular ML frameworks like Tensorflow or Pytorch is preferredÂ·Â Â Â Â Â Â Â Â Â Solid understanding of engineering best practices and complexities of models in productionÂ·Â Â Â Â Â Â Â Â Â Experience developing and productionizing machine learning models is a plusÂ·Â Â Â Â Â Â Â Â Â Experience with Docker, Kubernetes, Spark is a plusÂ·Â Â Â Â Â Â Â Â Â Experience with distributed data processing tools like Hive, Spark, Airflow is a plusÂ·Â Â Â Â Â Â Â Â Â Industry experience building end-to-end Machine Learning Infrastructure a bigplusÂ ",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-10T18:32:59.000Z"
+    },
+    "company": {
+        "name": "Cool-Minds LLC",
+        "link": "https://www.linkedin.com/company/cool-mindsllc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

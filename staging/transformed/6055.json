@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - CES",
+        "industry": "Information Technology and Services,Computer Software,Biotechnology",
+        "description": "Who We AreTetraScience provides the worldâs first and only R&D Data Cloud, with a mission to transform life sciences R&D, accelerate discovery, and improve human life. Scientists at global Pharma and Biotech organizations rely on our innovative Tetra Data Platform for easy access to centralized, harmonized, and actionable scientific data to accelerate their digital lab transformation. With best-in-class SaaS performance, a team of industry innovators, and excellent product/market fit, Tetra is positioned to become an iconic life sciences software company.What you areYou thrive on working well with others. You make the people around you better. You love to collaborate with fellow team members, customers, field engineers, executives, and inspire them to do their best.You relentlessly strive to excel in your craft. You are passionate about delivering delightful customer experiences. You take ownership of all the aspects of the customer journey from beginning of case creation, to resolution.You consistently seek understanding and clarity. You look at every interaction as an opportunity to learn. You arenât afraid to ask questions. You have the humility and confidence to not be the smartest person in the room.What You Will DoDevelop tools, scripts, and design processes to improve observability and system resiliency.80% of your time will be hands-on code fixes - individually or by partnering with engineering teams.Building, automating, and monitoring infrastructure in AWS to increase product reliability.You will be the responsible to investigate end-to-end issues and escalations reported by TetraScience customers.Triage issues, drive to resolution and/or identify workarounds to unblock customers.You will be the steward of the customer support to the engineering escalation process, increasing efficiency by streamlining communication with customer success, by triaging, extracting, and documenting relevant informationRequirements3+ years of experience with a proven track record of excellence as Production Support Engineer or Site Reliability Engineer for web application platformsCoding experience in one or more languages Python, JavaScript, React or JavaDemonstrated experience of debugging software reliability issues in a distributed environment including troubleshooting experience with APIs.Must have experience with CloudNative(AWS) platforms and applications( Micro-services, Lambda, Docker and Kubernetes deployments, Databases, NoSQL, Kafka/Queueing Service, or Elastic Search)Must be self-driven, innovative, and willing to take initiative. Good to have startup experience.Bachelor's degree in engineering, or equivalentBenefitsCompetitive Salary and equity in a fast growing companySupportive, team oriented culture of continuous improvement.100% employer paid benefits for all eligible employees and immediately family members.401KGenerous paid time off (PTO)Flexible working arrangements - Remote work | East Coast Zone + Boston office as needed",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T03:41:03.000Z"
+    },
+    "company": {
+        "name": "TetraScience",
+        "link": "https://www.linkedin.com/company/tetrascience"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

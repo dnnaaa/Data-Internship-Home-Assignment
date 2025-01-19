@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "Job DescriptionMajor purpose: This engineer will need experience in SW design, digital communications, modems, and FPGA design.Areas of desired experience or education include:â¢ Forward Error Correction (FEC)â¢ Modulationâ¢ Demodulationâ¢ Digital filtersâ¢ Baseband samplingâ¢ Acquisitionâ¢ Tracking AlgorithmsMajor functions: Technical/Functional skills: Education/Experience/Licenses etc.:\tQualifications:â¢ Bachelorâs (Masterâs preferred) degree in Computer Science, Computer Engineering, Software Engineering or Electrical Engineering.â¢ 4+ years of experience implementing complex modem algorithms in DSP software.â¢ 4+ years of equivalent experience in FPGA design with SW background will also receive considerationâ¢ Preferred Skills:â¢ Expertise in C++ and object-oriented software designâ¢ Expertise in software design for testabilityâ¢ Expertise in laboratory debug techniques using digital scopes, logic analyzers, BERTS & other complex measurement equipmentâ¢ Experience with TI DSP BIOS RTOS is a plus.â¢ Familiarity with Git is a plusâ¢ Familiarity with VHDL/Verilog and Matlab/Simulink is a plus",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T21:44:50.000Z"
+    },
+    "company": {
+        "name": "LAUNCH Technical Workforce Solutions",
+        "link": "https://www.linkedin.com/company/launchtws"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Salt Lake City Metropolitan Area",
+        "region": null,
+        "postal_code": "84105",
+        "street_address": null,
+        "latitude": 40.74076,
+        "longitude": -111.89312
+    }
+}

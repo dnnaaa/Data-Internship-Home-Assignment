@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Industrial Automation,Aviation & Aerospace,Computer Software",
+        "description": "Software Engineer (C++/python)American Robotics is seeking a Software Engineer to help build software for our industrial drone system Scout. This work would cover a variety of domains including simulation environments, command and control, image processing, and robotics.Â This person will have the opportunity to contribute to a rapidly growing company on the verge of exciting commercial success.ResponsibilitiesDevelop and maintain drone simulation environmentsDevelop automated testing environmentsDevelop and maintain business logic software for drone and drone stationCollaborate with cross functional teams to support engineering projectsRequirementsA Bachelors or Masters or higher degree in a Computer Science, Computer Engineering, Software Engineering or equivalent fieldExperience developing software in robotics applications3+ years of professional experience building production softwareAt least 1 year experience with both C++ and pythonCurrent on modern C++ standards (C++ 11 / 14 / 17)Experience developing multithreaded softwareExperience with CI / CD tools such as JenkinsGreat Additions:Experience with robotics simulation environments such as GazeboExperience developing robotics softwareDrone/robotics enthusiast; familiar with building and operating drones and other robotsÂ About American RoboticsÂ American Robotics is a commercial developer of the first FAA-approved fully-automated drone systems, providing ultra high resolution aerial data to enterprise customers. Through innovations in robot autonomy, machine vision, edge computing and AI, American Robotics has created the next generation of drone technology: a fully-automated robotic data platform capable of continuous, unattended operation. Using this technology, American Robotics provides enterprise customers with the ability to continuously monitor, digitize and analyze their assets in real-time.Â ",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T14:49:18.000Z"
+    },
+    "company": {
+        "name": "American Robotics",
+        "link": "https://www.linkedin.com/company/american-robotics-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Waltham",
+        "region": "MA",
+        "postal_code": "02154",
+        "street_address": null,
+        "latitude": 42.37617,
+        "longitude": -71.23899
+    }
+}
