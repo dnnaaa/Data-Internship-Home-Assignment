@@ -1,8 +1,10 @@
-from datetime import timedelta, datetime
+from datetime import timedelta
 
-from airflow.decorators import dag, task
-from airflow.providers.sqlite.hooks.sqlite import SqliteHook
-from airflow.providers.sqlite.operators.sqlite import SqliteOperator
+DAG_DEFAULT_ARGS = {
+    "depends_on_past": False,
+    "retries": 3,
+    "retry_delay": timedelta(minutes=15)
+}
 
 TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -58,45 +60,5 @@ CREATE TABLE IF NOT EXISTS location (
     longitude NUMERIC,
     FOREIGN KEY (job_id) REFERENCES job(id)
 )
+
 """
-
-@task()
-def extract():
-    """Extract data from jobs.csv."""
-
-@task()
-def transform():
-    """Clean and convert extracted elements to json."""
-
-@task()
-def load():
-    """Load data to sqlite database."""
-    sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
-
-DAG_DEFAULT_ARGS = {
-    "depends_on_past": False,
-    "retries": 3,
-    "retry_delay": timedelta(minutes=15)
-}
-
-@dag(
-    dag_id="etl_dag",
-    description="ETL LinkedIn job posts",
-    tags=["etl"],
-    schedule="@daily",
-    start_date=datetime(2024, 1, 2),
-    catchup=False,
-    default_args=DAG_DEFAULT_ARGS
-)
-def etl_dag():
-    """ETL pipeline"""
-
-    create_tables = SqliteOperator(
-        task_id="create_tables",
-        sqlite_conn_id="sqlite_default",
-        sql=TABLES_CREATION_QUERY
-    )
-
-    create_tables >> extract() >> transform() >> load()
-
-etl_dag()
