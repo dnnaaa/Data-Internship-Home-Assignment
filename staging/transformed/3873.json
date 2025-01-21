@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Local Seattle Area Candidates Only Please!   The digital nexus where ESG and price signals merge.Xpansiv is the global market for ESG (Environmental, Social, and Governance)-inclusive commodities. These Intelligent Commodities\u2122 bring transparency to markets, empowering participants to value energy, carbon, and water to meet the challenges of an information-rich, resource-constrained world.   We\u2019re the marketplace for an ever-expanding ecosystem of proven environmental commodities, like RECs (Renewable Energy Certificates), offsets, and differentiated fuels. We connect buyers and sellers of Intelligent Commodities in a global liquidity hub that accelerates the transition to a net-zero future.   Job DescriptionAs a Site Reliability Engineer, you will design, implement, and support our core infrastructure. The SRE team is responsible for reliability, scalability, and automation while keeping an eye on latency,&amp;nbsp;security, performance, and capacity. You will also mentor, share knowledge, and guide technical decisions toward long-term success. As a key hire on a growing engineering team, you\u2019ll have a deep impact on engineering practices and culture. As an SRE you will:     - Deploy and maintain our infrastructure, and improve the process to make it as boring as possible.   \n  - Document every action into repeatable actions&amp;nbsp;\u2013&amp;nbsp;and then automation.   \n  - Debug production issues across all services and levels of the stack.   \n  - Own, maintain, and continuously improve all systems provided as a service, such as monitoring and datastores.   \n  - Research and implement changes to increase reliability and operate more efficiently.   \n   Who We're Looking For  - Someone with intense curiosity and humility.   \n  - Someone who can get challenging projects across the finish line.   \n  - Someone who is empathetic, patient, and passionate about helping teammates grow.   \n  - Someone who is collaborative, and who can influence diverse engineering teams.   \n  - Someone with experience running applications in production.   \n  - Someone who takes engineering best practices seriously, who cares about reliability and end-user trust, and who will advocate for all of these things.   \n   Technical Requirements  - Fluency in a programming language. (We use Python and Bash where possible.)   \n  - Familiarity with command-line Linux.   \n  - Familiarity with version control. (We use git.)   \n  - Familiarity with some form of infrastructure as code. (We use Terraform where possible.)   \n  - Familiarity and comfort with at least one cloud provider. (We use AWS where possible.)   \n  - Three years of experience in some combination of software engineering, systems administration, backend automation, testing automation, data engineering, or similar work. This should include operational responsibility for business-critical systems in a collaborative environment.   \n   Bonus Points  - Six, ten, or more years of experience, in a diverse range of environments and architectures.   \n  - Strong fluency in Python, and experience writing software.   \n  - Strong fluency in Linux, and experience with medium-to-large scale environments.   \n  - Familiarity with running systems with a microservice architecture.   \n  - Familiarity with data persistence technologies (for example, Elastisearch, Kafka, or Redis).   \n   We encourage you to apply if this role excites you&amp;nbsp;\u2014&amp;nbsp;We are always looking for outstanding individuals with diverse backgrounds and perspectives who embody trust, transparency, collaboration, and a can-do attitude. We\u2019re excited to meet you!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-15T15:32:38.000Z"
+    },
+    "company": {
+        "name": "Xpansiv",
+        "link": "https://www.linkedin.com/company/xpansiv-data-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

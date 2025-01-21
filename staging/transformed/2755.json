@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Remote eventually will have to relocate to Denver, CO or Memphis, TN      Position will be temporarily remote from home until AHS returns to office.      CandidatesMUSTbe located in the Memphis, TN area OR Denver, CO area.      Quick Notes From Interview      George Stragand - Manager of the team     - Newer to AHS - just started 2 1/2 weeks ago   \n  - Lives in colorado   \n 6 currently on the team and looking to double size      Gitlab used a lot      On call every once in a while and rotates through each team member      A lot of work within the cloud      He Asked About Security Experience      What is the owasp top 10 and which would you go after first?      What He Would Like To See      Heavy focus on the networking stuff      VPC      Networking      Routing is a bigger deal      Unicorn- someone with servicemesh experience Hashicorp is one      Istio - they're currently using       Anthos - they're currently using",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04T08:25:24.000Z"
+    },
+    "company": {
+        "name": "Saxon Global, Inc.",
+        "link": "https://www.linkedin.com/company/saxonglobal"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Memphis",
+        "region": "TN",
+        "postal_code": "38111",
+        "street_address": null,
+        "latitude": 35.14338,
+        "longitude": -90.05214
+    }
+}

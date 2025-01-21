@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Hospital &amp; Health Care",
+        "description": "As a software engineer, you will be responsible for designing, programming, testing, and maintaining production, pre-production and prototype software applications. You will coordinate with team leads, senior engineers and management in order to create efficient, correct and maintainable solutions that enhance current applications and create new products.    This is a replacement position, and performance goals will be linked to the ability to manage work efficiently, finish work on-time and produce high-quality code with minimal outstanding issues. Specific responsibilities will include maintenance and extension of a module responsible for capturing, recording, and reporting results for healthcare quality measures; supporting applications which report, enforce, and monitor quality in a healthcare setting; performing analysis and benchmarking of existing systems to identify bottlenecks and improvements; work with senior staff members to grow knowledge of existing system functionalities.   Required Qualifications:  - 3+ years of experience in .NET and C# programming   \n  - Experience with ASP.NET Web Forms, MVC/Razor, Entity Framework and LINQ   \n  - Experience with Microsoft SQL Server   \n  - Experience with HTML, CSS, JavaScript, jQuery, Internet Explorer, Chrome, Firefox, and Safari.   \n  - Experience with cloud-based design and deployments will be given precedence, especially regarding the Microsoft Azure platform   \n  - Experience with API development and microtransactional systems will be given preference   \n  - Excellent communication skills, both written and verbal   \n  - Bachelor\u2019s degree (or higher) in relevant discipline, or equivalent work experience   \n  - Successful completion of a pre-employment background check   \n  - Must be authorized to work for any employer in the U.S. We are not currently able to provide sponsorship for this position.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:21:22.000Z"
+    },
+    "company": {
+        "name": "Medisolv, Inc.",
+        "link": "https://www.linkedin.com/company/medisolv"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Maryland",
+        "region": "United States",
+        "postal_code": "20708",
+        "street_address": null,
+        "latitude": 38.952736,
+        "longitude": -76.701294
+    }
+}

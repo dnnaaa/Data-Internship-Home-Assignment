@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer (SRE)",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Empower the Individual Through Crypto      Gemini is a crypto exchange and custodian that allows customers to buy, sell, store, and earn more than 30 cryptocurrencies like bitcoin, bitcoin cash, ether, litecoin, and Zcash. Gemini is a New York trust company that is subject to the capital reserve requirements, cybersecurity requirements, and banking compliance standards set forth by the New York State Department of Financial Services and the New York Banking Law. Gemini was founded in 2014 by twin brothers Cameron and Tyler Winklevoss to empower the individual through crypto.      Crypto is about giving you greater choice, independence, and opportunity. We are here to help you on your journey. We build crypto products that are simple, elegant, and secure. Whether you are an individual or an institution, we want to help you buy, sell, and store your bitcoin and cryptocurrency. Crypto is not just a technology, it's a movement.      At Gemini, our mission is to empower the individual and that includes giving our employees flexibility of choice \u2014 our Office Optional Policy allows employees to choose to work from one of our physical locations or from home.      Select roles that are location-specific will still be eligible for flexible schedules.      The Department: Infrastructure      Gemini\u2019s Infrastructure team are key experts in building and operating Gemini's world class cryptocurrency exchange systems and networks, using a combination of high-speed data center equipment and cloud-hosted components. With a focus on building, automating, and scaling Gemini\u2019s product offerings, the Infrastructure keeps a close eye on the horizon and thinks steps ahead of the company\u2019s business needs to collaboratively build and scale its growing footprint.      The Role: Site Reliability Engineer (SRE)      As a member of the team, you\u2019ll have a hand in building innovative and robust solutions to stay ahead of our business growth. The ideal candidate is passionate about helping developers build the best products in the market, ensuring that they have the infrastructure to maintain our standards of high performance; they possess a strong sense of ownership and a desire to produce excellent results on the first try.      Responsibilities     - Utilize automation (via Ansible) to improve productivity, workflow, and technology deployment   \n  - Build and support optimized network infrastructure   \n  - Evaluate and implement new technologies   \n  - Troubleshoot infrastructure and application performance issues, and find and improve performance bottlenecks   \n  - Participate in the team's 24/7 on-call rotation      \nQualifications     - 4+ years experience with Linux system administration   \n  - 2+ years experience with configuration management systems (Ansible, Puppet, Chef, Salt)   \n  - 2+ years experience with metrics collection and monitoring (open source or commercial)   \n  - A keen sense of automation to create consistent and predictable infrastructure   \n  - Working knowledge of industry best practices with regards to information security   \n  - Understanding of IP network functionality (e.g., TCP, UDP, multicast)   \n  - Working knowledge of how to debug networking issues   \n  - Experience building and scaling distributed, highly available systems   \n  - Familiarity with infrastructure management and operations lifecycle concepts and ecosystem      \nPreferred Qualifications     - 5+ years running bare-metal systems   \n  - System tuning and kernel optimization   \n  - 2+ years experience in cloud platform administration       \nIt Pays to Work Here      We take a holistic approach to compensation at Gemini, which includes:     - Competitive Compensation and Profit-Sharing Equity   \n  - Flexible vacation policy   \n  - Retirement Plan Matching   \n  - Generous Parental leave   \n  - Comprehensive health plans   \n  - Training and professional development      \nAt Gemini, we strive to build diverse teams that reflect the people we want to empower through our products, and we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. Equal Opportunity is the Law, and Gemini is proud to be an equal opportunity workplace and affirmative action employer. If you have a specific need that requires accommodation, please let a member of the People Team know.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-29T03:00:09.000Z"
+    },
+    "company": {
+        "name": "Gemini",
+        "link": "https://www.linkedin.com/company/geminitrust"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

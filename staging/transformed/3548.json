@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "SRE @MLB Has a Focus On Providing Consulting Services To Any And All Engineering Teams Throughout The Organization To Help In Certain Key Areas     - Incident response   \n  - Kubernetes operations   \n  - User experience optimization through SLIs and SLOs   \n  - High Availability and Disaster recovery planning   \n  - Debugging running systems and providing tools to assist runtime debugging   \n  - Observability tooling   \n  - Optimizations for cost control      \nAs An SRE At MLB You Will     - Write software in python, Golang, bash, Typescript, Javascript, HCL, and maybe C/C++.   \n  - Use and administer Grafana   \n  - Write and maintain plugins for Grafana (both open source and not)   \n  - Write and maintain tools that help software engineering teams function better   \n  - Consult with engineering teams in the key areas outlined above   \n  - Help promote good observability culture throughout MLB   \n  - Help enhance the next generation of APM tooling   \n  - Be on-call for SRE managed services   \n  - Use Google Cloud Platform   \n  - Use and understand statistics   \n  - Provide advice around HA and DR initiatives   \n  - Assist teams in understanding their operational dollar cost and optimizations to reduce same   \n  - Automate telemetry collection      \nA Good Fit For This Role Will     - Have an eagerness to be a self-starter and get things done   \n  - Have written code in a compiled language that runs in production somewhere   \n  - Have written code in interpreted languages   \n  - Have a good understanding of the JVM and Java   \n  - Have worked with time series data extensively   \n  - Have worked with o11y tools extensively   \n  - Have some experience with Terraform   \n  - Be able to communicate effectively and asynchronously   \n  - Understand that the documentation is a product   \n  - Have worked with and gained a solid understanding of Grafana and its ecosystem      \nThings You Will Almost Certainly Work On     - Understanding the user experience for services run by the consulted engineering team   \n  - Helping set target objectives for user experience specific to the team/service   \n  - Understanding the cost of running services   \n  - Setting target objectives for cost   \n  - Understanding relative service health to help guide engineering effort (SLOs)   \n  - Enhancing observability tooling to make the above possible   \n  - Enhancing alerting tooling to make the above actionable   \n  - Gaining deep understanding of service operation to guide disaster recovery and HA initiatives   \n  - Forming incident response best practices for the team      \nAll in-office positions are subject to MLB's mandatory Covid-19 vaccine policy.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-11T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Major League Baseball",
+        "link": "https://www.linkedin.com/company/major-league-baseball"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

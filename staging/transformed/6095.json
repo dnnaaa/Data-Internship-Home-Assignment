@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Your Role   \u2022 Working closely in partnership with Engineering to maximize availability, operability, scalability,   performance, and reliability of services by leveraging our deep understanding of our applications   and end-to-end flows with expertise in infrastructure   \u2022 Application and infrastructure on call / site up issues for production and non-production   \u2022 Building, deploying, and scaling systems across on-premises datacenters   \u2022 Operability and availability design, readiness, and review   \u2022 Design operations automation and tooling to improve the reliability of our services and   infrastructure   \u2022 Capacity planning and management for disaster recovery and resiliency   \u2022 Application and infrastructure monitoring, alerting, and dashboards   \u2022 Security best practices, patching, and hygiene   \u2022 Drive incident and problem management and analysis       You have   \u2022 Confirmed experience supporting internet-facing production services and distributed systems   \u2022 Solid programming experience in Python, Golang, or similar   \u2022 Expertise in operating Linux-based systems, with a solid understanding of its internals   \u2022 Experience running Docker-based workloads in production   \u2022 Experience in container orchestration platforms like Nomad or Kubernetes   \u2022 Experience with hardware or software based load balancing solutions (e.g. Netscalers, nginx, etc.)   \u2022 Experience with APMs, Splunk, Grafana, or similar monitoring tools   \u2022 Terraform, Puppet, or other configuration management tools   \u2022 Demonstrated problem solving ability, utilizing creative and innovating thinking, but also adhering to   a strong sense of ownership, customer service, and integrity   \u2022 Experience partnering and collaborating very closely with engineering and platform teams   \u2022 Excellent communications skills   \u2022 Ownership mindset, self-driven, and quick learner",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-25T16:45:01.000Z"
+    },
+    "company": {
+        "name": "Veear Projects Inc.",
+        "link": "https://www.linkedin.com/company/veear-projects-inc-"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cupertino",
+        "region": "CA",
+        "postal_code": "95014",
+        "street_address": null,
+        "latitude": 37.31855,
+        "longitude": -122.03675
+    }
+}

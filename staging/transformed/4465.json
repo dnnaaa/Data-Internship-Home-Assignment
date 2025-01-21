@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior DevOps Engineer",
+        "industry": "Commercial Real Estate",
+        "description": "Our CONFIDENTIAL, growth client&amp;nbsp;is looking for experienced DevOps and Site Reliability Engineers who are interested in working with a fast-growing team in building industry-leading real estate data services. You will be working on a small team using cutting edge technology and tools to build and support infrastructure for our diverse environment including customer facing applications, large scale data processing, and APIs.   Technologies:  - Google Cloud (Compute, Storage, Networking)   \n  - Kubernetes   \n  - Helm   \n  - Terraform   \n  - CircleCI   \n  - Monitoring (DataDog or Stackdriver, StatusCake)   \n  - Linux   \n  - Bash   \n  - Python   \n   Application/Data Stack  - Airflow   \n  - Hasura   \n  - ETL processes   \n  - Database Development and support (Postgres, BigQuery, MongoDB)   \n  - GraphQL   \n  - Looker   \n  - Node.js,   \n  - React/Redux   \n  - Python   \n   If you can articulate the value of CI/CD and Infrastructure-as-code (IAC) and have hands-on coding experience with infrastructure management automation in the cloud (GCP OR AWS), would look forward to reviewing your background.    Once you apply, we\u2019ll send you the full job spec, all company information and a highlight of their leadership team.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T22:18:21.000Z"
+    },
+    "company": {
+        "name": "Talentpair",
+        "link": "https://www.linkedin.com/company/talentpair"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

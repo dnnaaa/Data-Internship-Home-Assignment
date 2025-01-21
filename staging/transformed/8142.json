@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Computer Software",
+        "description": "Our client is the next big thing. They're in stealth mode, backed by two household-name billionaires and focused on the war on cancer.   You will work with a team of machine learning scientists and engineers to develop and deploy AI-based biomarkers to support the personalization of cancer therapy. You will work closely with our engineering team to build production-grade APIs and serving models that integrate with our clinical product.   Minimum Qualifications:   - BS or MS in an AI-related field (CS, EE, Stats, etc.) or substantial development experience in AI.   \n  - Strong programming skills, competitive in ACM-ICPC or other competitions.   \n  - Substantial experience with Python, and deep learning libraries such as PyTorch or Tensorflow   \n  - Experience in implementing high-performance and large-scale deep learning systems.    \n   Preferred Qualifications:  - Full time industry experience in deep learning research/product.   \n  - Experience mentoring and advising other engineers",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-14T00:20:28.000Z"
+    },
+    "company": {
+        "name": "EngTal - Engineering Talent",
+        "link": "https://www.linkedin.com/company/engtal"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

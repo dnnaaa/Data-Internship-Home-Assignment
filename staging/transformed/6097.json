@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Staff Site Reliability Engineer, Traffic Engineering",
+        "industry": "Automotive,Renewables &amp; Environment,Utilities",
+        "description": "The Role      Tesla is looking for a Site Reliability Engineer to join our Core Infrastructure Services (CIS) team. Our team builds, owns, and operates Core Infrastructure Services such as DNS, Load Balancers, Content Delivery Networks and a suite of provisioning tools and services.      We enable our customers on-prem and in the cloud to operate securely and reliably. Our mission is to improve infrastructure effectiveness and increase efficiency for all core services used by the various infrastructure teams at Tesla across the globe.      Responsibilities     - Perform analysis, troubleshooting, and introspection on core infrastructure components   \n  - Partner with teams from across the organization to help tackle hard problem    \n  - Drive standardization efforts across multiple disciplines   \n  - Ensure reliability of the existing core infrastructure systems to guarantee 99.99% uptime   \n  - Tackle issues across the entire stack: hardware, software, network and application   \n  - Develop new software-based solutions to infrastructure engineering problems      \nRequirements     - BS/MS in Computer Science, Information Systems, Electrical Engineering, or the equivalent in experience and evidence of exceptional ability.   \n  - Expert understanding of Linux systems and services    \n  - Deep understanding of HTTP, TCP, SSL/TLS and DNS   \n  - Experience working with load balancers such as F5, Nginx or equivalent.   \n  - Experience with configuration management tools: Puppet, Chef, or Ansible   \n  - Knowledge of various aspects of service design: including messaging protocols & behavior, caching strategies and software design practices   \n  - Familiar with and have practically applied shell scripting and at least one higher-level language to real-world problems   \n  - Prioritize tasks and work independently   \n  - Excellent written communication, interpersonal communication, and documentation skills",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-30T04:07:38.000Z"
+    },
+    "company": {
+        "name": "Tesla",
+        "link": "https://www.linkedin.com/company/tesla-motors"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fremont",
+        "region": "CA",
+        "postal_code": "94537",
+        "street_address": null,
+        "latitude": 37.5502,
+        "longitude": -121.98083
+    }
+}

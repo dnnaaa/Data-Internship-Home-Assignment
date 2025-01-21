@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "We have an urgent need for a Site Reliability Engineer for one of our client's ongoing projects. This is a Remote role for now.     Software Site Reliability EngineerLocation: RemoteType: Contract Duration: 8 Months +       Responsibilities  - Serve as a primary point of contact for the overall health, performance, and capacity of one or more of our services.   \n  - Partner closely with our development teams and product managers to architect and build features that are highly available, performant and secure   \n  - Develop innovative ways to smartly measure, monitor & report application and infrastructure health   \n  - Gain deep knowledge of our application stack   \n  - Function well in a fast-paced and rapidly-changing environment   \n  - Participate in a 24x7 on-call rotations.   \n  - Ability to debug and optimize code and automate routine tasks.   \n   Basic Qualifications:  - 3 years of relevant experience in a production environment   \n  - Experience in coding in one of the programming languages: C++, C, Java, Python, Go.   \n  - Experience with architecting, developing and troubleshooting large scale systems.   \n  - Experience with algorithms and data structures and/or Unix/Linux systems internals (e.g., filesystems, system calls) and administration.   \n  - Experience with continuous integration and deployment automation tools such as Drone, Spinnaker, Harness, etc.   \n   Preferred Qualifications:  - Hands-on working with private or public cloud (GCP / AWS/ Azure)   \n  - 3 years of experience in computing, distributed systems, storage, or networking.   \n  - Previous experience working with geographically-distributed coworkers.   \n  - Should have led teams, collaborating cross-functionally to deliver complex software features and solutions.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-10T20:09:33.000Z"
+    },
+    "company": {
+        "name": "Digitive",
+        "link": "https://www.linkedin.com/company/digitivellc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

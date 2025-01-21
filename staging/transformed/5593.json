@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "Position: Data ScientistLocation: Irvine, CA (4-10 days onsite a month)Length: Contract to HIRE or Full TimeSalary: 110-140k + 10% Bonus Potential+ BenefitsMust Have: SQL, Python   The Data Scientist works independently on all phases of an analytics project. The scope of work includes the data analysis and preparation, model development, and the presentation of results and recommendations to stakeholders.&amp;nbsp;&amp;nbsp;   PRIMARY DUTIES/KEY RESPONSIBILITES:  - Work independently on all phases of an analytics project, including formulation, research, development, implementation, testing, and maintenance.   \n  - Assist with problem formulation and the selection of an appropriate methodology.   \n  - Present findings and recommendations to stakeholders.   \n  - Maintain an awareness of trends in the field; research and suggest new methodologies.   \n   Qualifications:  - BS/BA with 5 years\u2019 experience   \n  - Degree in Statistics, Operations Research, Applied Mathematics, Computer Science, Economics, or related quantitative field.   \n  - Proven experience applying descriptive, predictive, and prescriptive statistics to real-world problems.&amp;nbsp;   \n  - Experience querying relational databases using SQL.   \n  - Ability to develop and maintain production-ready code.   \n  - Experience working with Amazon Web Services (AWS) strongly preferred.   \n  - The ability to present findings clearly and concisely to team members and data science leadership.   \n  - Experience creating compelling data visualizations strongly preferred.   \n  - Strong problem-solving skills with an emphasis on product development.   \n  - A drive to learn and master new technologies and techniques.   \n  - The ability and inclination to coach junior staff.   \n  - Expertise in one or more of the following strongly preferred:   \n  - Generalized linear models, time series models, forecasting techniques, cluster analysis, and principle component analysis.   \n  - Linear and mixed integer optimization, discrete event simulation, heuristic methods, and network flow analysis.   \n  - Machine Learning: Selecting, tuning, and implementing a variety of common supervised and unsupervised models, including decision trees, nearest neighbor models, and neural nets; and several standard ML libraries, such as scikit-learn, TensorFlow, or similar.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T19:29:45.000Z"
+    },
+    "company": {
+        "name": "Apex Systems",
+        "link": "https://www.linkedin.com/company/apex-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Irvine",
+        "region": "CA",
+        "postal_code": "92717",
+        "street_address": null,
+        "latitude": 33.68591,
+        "longitude": -117.82472
+    }
+}

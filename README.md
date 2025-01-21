@@ -51,6 +51,12 @@ deactivate
 
 ## Project Setup
 
+
+Build and start the Docker containers:
+
+```bash
+docker-compose up --build
+
 Export AIRFLOW_HOME before installing dependencies
 
 ```bash
@@ -102,7 +108,6 @@ airflow standalone
 ```
 
 - Access Airflow UI at: http://localhost:8080, and enter your login information
-
 
 ## Before we begin
 - In this assignment, you will be asked to write, refactor, and test code.

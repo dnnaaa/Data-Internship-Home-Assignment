@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Required Technical Skills:     - Strong SRE experience along with automated build tools, continuous integration and continuous deployment concepts.   \n  - Experienced in Agile development lifecycle      \nHands-on experience with the following:     - Programming languages: Python, Shell   \n  - Database platforms: DB2/MSSQL   \n  - SCM tools: GIT   \n  - Continuous integration Tools: Jenkins   \n  - Web servers: Tomcat/Apache   \n  - Operating systems: Unix      \nGood knowledge of:     - Programming languages: Perl, batch   \n  - Database platforms: PostgreSQL   \n  - Cloud-based environments such as: AWS and Azure   \n  - Container platform: Docker   \n  - Operating systems: Windows      \nDesired Technical Skills:     - Monitoring tools like AppDynamics, Splunk and Prometheus   \n  - Build automation tools: Ant, Gradle, Maven      \nRequired Aptitudes     - Ability to add value by bringing new ideas to the team and taking the initiative in improving the existing processes.   \n  - Ability to take new requirements from the application teams to bring back to the core team build additional tools and automation.   \n  - Passion for innovating and using technology to find creative solutions to optimize systems.   \n  - Eager to learn and be in sync with what is happening in technology, DevOps/SRE, both in and outside the firm.      \nEducational qualification and experience:     - Bachelor's degree in engineering/computer science or MCA from recognized institution   \n  - Minimum 5 years of relevant experience.   \n  - Language requirements: Must be able to work in an English-speaking environment      \nPowered by JazzHR      CTC0hhUZUw",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-09-01T19:03:02.000Z"
+    },
+    "company": {
+        "name": "Zealogics Inc",
+        "link": "https://www.linkedin.com/company/zealogics-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

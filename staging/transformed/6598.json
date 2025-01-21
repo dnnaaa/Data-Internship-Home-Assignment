@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - Junior Level",
+        "industry": "Financial Services,Information Technology and Services",
+        "description": "Purpose of Job      We are currently seeking a talented Software Engineer - Junior Level for our San Antonio, Plano, Phoenix, or 100% remote environment work location(s).      Provides support to the Enterprise and has an opportunity to significantly impact organizational growth and effectiveness through delivering best in class technology solutions. Engaged in all phases of the software systems and application development lifecycle which include; gathering and analyzing requirements, designing, testing, documenting and implementing software, responding to outages. Identify and manage existing and emerging risks that stem from business activities and ensure these risks are effectively identified and escalated to be measured, monitored and controlled.      Job Requirements      About Usaa      USAA knows what it means to serve. We facilitate the financial security of millions of U.S. military members and their families. This singular mission requires a dedication to innovative thinking at every level.      USAA Information Technology: A Realistic Preview      USAA Careers \u2013 World Class Benefits      Primary Responsibilities     - Identifies and manages existing and emerging risks that stem from business activities and the job role.   \n  - Ensures risks associated with business activities are effectively identified, measured, monitored, and controlled.    \n  - Follows written risk and compliance policies and procedures for business activities.   \n  - Design, develop, code, and test technical solutions collaborating with senior engineers.   \n  - Participate in code/design reviews to ensure smooth daily operations and accurate planning.   \n  - May begin to help organize work to deliver features and solutions.   \n  - Resolves simple production issues with some assistance through troubleshooting applications independently.      \nMinimum Requirements     - Bachelor's degree in related field of study, OR Certification from an approved technical field of study, OR 4 additional years of related experience beyond the minimum required.   \n  - 2 years of software development experience specific to a discipline/technology.      \nPreferred Qualifications     - Experience with Varicent or incentive compensation solution development   \n  - 2+ years of SQL experience   \n  - Experience designing and building reports through report writing packages   \n  - Experience working with application programming interfaces implemented through Python or Java   \n  - Experience with data publish and subscribe models such as that available through Apache Kafka   \n  - Experience with software defect and root cause detection   \n  - Experience working with business users to facilitate and compile test scripts, test cases and overall testing plans   \n  - Experience presenting solutions that are consistent with architectural guidelines   \n  - Experience with analyzing data for forecasting and modeling   \n  - Experience with software as a service and cloud computing      \nThe above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job.      Compensation      USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market position. The salary range for this position is: $66,300 - $119,500 *(this does not include geographic differential it may be applied based on your work location). Employees may be eligible for pay incentives based on overall corporate and individual performance or at the discretion of the USAA Board of Directors.     - Geographical Differential: Geographic pay differential is additional pay provided to eligible employees working in locations where market pay levels are above the national average.      \nShift Premium will be addressed on an individual-basis for applicable roles that are consistently scheduled for non-core hours.      Benefits      At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals. Please visit USAA Total Rewards for more details.      Relocation assistance is not available for this position.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-30T06:06:42.000Z"
+    },
+    "company": {
+        "name": "USAA",
+        "link": "https://www.linkedin.com/company/usaa"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Antonio",
+        "region": "TX",
+        "postal_code": "78266",
+        "street_address": null,
+        "latitude": 29.42517,
+        "longitude": -98.49461
+    }
+}

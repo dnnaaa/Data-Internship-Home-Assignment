@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Computer Games,Information Technology and Services,Computer Software",
+        "description": "You know when you look at promo videos or still screenshots of a game and you think it looks incredible? Remember how you felt when you actually played it, and twitchy animations, sub-par AI and characters that seem to have no perception of the world around them shattered your dream? It\u2019s time to put a stop to this!      Our team in EA Vancouver is a central group devoted to advancing the fields of character animation and AI in EA games: we work towards a (near) future where animation, physics and AI all play together to create realistic and compelling characters. Our technology is shared across multiple games in EA including FIFA, Madden, NHL, UFC, Battlefield and many others: talk about getting in game credits, hey?   We are looking for passionate research engineers to join us, using Machine Learning (amongst other things!) to push the boundaries of animation quality and help bring our characters to life!      Responsibilities     - Stay up to date with academic development in the field of Machine Learning   \n  - Propose and develop novel ML based solutions to solve problems in character animation, agent behavior and content generation   \n  - Design and implement Machine Learning solutions that consider game development requirements:   \n  -   - Usable workflows that minimize human intervention   \n  - Low impact runtime complexity   \n    \n  - Collaborate with content creators and other software engineers to ensure that our tools are maintainable, effective and easy to use         \nMinimum Qualifications     - Bachelor\u2019s degree in computer science, applied math, statistics, machine learning or equivalent   \n  - Strong knowledge and practical experience with C/C++   \n  - Strong knowledge of linear algebra, statistics, and optimization   \n  - Strong knowledge of Machine Learning:   \n  -   - At least 1-2 years of experience in the field with a demonstrated practical approach to problem solving   \n  - Tensorflow, PyTorch, NumPy, SciPy and similar   \n  - Focus on Deep Learning and Deep Reinforcement Learning approaches to improve character animation   \n          \nPreferred Qualifications     - Master\u2019s degree and/or Ph.D. in computer science, applied math, statistics, machine learning or equivalent   \n  - 1-2 years of experience in game development         \nNon-Technical Requirements     - High standards of work and desire to meet and exceed expectations   \n  - Strong teamwork skills but also the ability to take ownership and work independently   \n  - Good communication skills   \n  - Passion for making games look and play great   \n  - We love RL. We hope you do too. We will ask you about it. What a save!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-14T07:04:34.000Z"
+    },
+    "company": {
+        "name": "Electronic Arts (EA)",
+        "link": "https://www.linkedin.com/company/electronic-arts"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

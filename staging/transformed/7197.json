@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Cloud Data Engineer",
+        "industry": "Information Technology and Services,Computer Software,Management Consulting",
+        "description": "\u00adWho You\u2019ll Work With      Slalom Emerge is team of pioneers and trailblazers helping ensure we achieve our strategic goals of investing for the future and pursuing innovation as a competitive advantage. We empower our local markets by identifying emerging capabilities, building multi-disciplinary teams, and providing access to niche and hyper specialized expertise.      What You\u2019ll Do     - Design, and deliver cloud-native, hybrid, and multi-cloud workloads   \n  - Migrate enterprise workloads to any of the major public cloud platforms (AWS, GCP, Azure, Snowflake) using industry-standard as well as proprietary methodologies    \n  - Automate cloud deployments, \u00ad\u00adas well as build CI/CD pipeline to support Cloud-Based workloads    \n  - Provide experienced knowledge and/or develop competency on various automation tools    \n  - Deliver quality results in cross-functional work environments and teams    \n  - Support current state analysis and work with enterprise architects to build target state architecture   \n  - Shepherd requirements into technical solutions and contribute to design sessions and technical solutions    \n  - Define and clearly communicate requirements to all stakeholders    \n  - Design and architect solutions in the areas of Data Virtualization, DevOps, Security, Governance, CI/CD, and/or Containerization    \n  - Monitor and manage implementation to ensure high quality and alignment with defined requirements    \n  - Work as team member across complete life cycle of delivery including architecture, design, development, test, and document integration solutions, custom development, and data migration elements of business applications    \n  - Ability to travel up to 30-40% (regional)      \nWhat You\u2019ll Bring  - Experience migrating and deploying cloud-based solutions    \n  - Minimum of 2 years of hands-on experience in other Cloud technologies such as   \n  - AWS - S3, Glacier, EC2, Lambda, SQS, Redshift    \n  - Azure - Blob Storage, Cool Blob Storage, Virtual Machine, Functions, SQL Datawarehouse    \n  - GCP - Cloud Storage, Coldline Cloud Storage, Compute Engine, Cloud Functions, Big Query    \n  - Snowflake   \n  - 2+ years of experience in SQL, data transformations, statistical analysis, and troubleshooting across more than one Database Platform (Cassandra, Snowflake, PostgreSQL, Redshift, Big Query, Azure SQL Warehouse, etc.).   \n  - 2+ years of experience with ETL tools such as Informatica, Talend, Matillion, Databricks and/other   \n  - Knowledge and understanding of product features including IaaS, PaaS, and SaaS Solutions    \n  - Configuration Management and Infrastructure-as-Code experience (e.g. Terraform, Cloud Deployment Manager, Chef, Puppet, Ansible)   \n  - Coding ability in Python/Java/C#/Unix, Kinesis, Kafka and/or shell scripting to build and deploy data pipelines    \n  - Experience building solutions utilizing various Cloud services such as EC2, S3, EMR, Kinesis, RDS, Redshift/Spectrum, Lambda, Glue, Athena, API gateway, etc.   \n  - Experience with any one of the data Virtualization tools like Trino, Starburst, Denodo, Data Virtuality etc. is a big plus   \n  - High Availability and Disaster Recovery principles, patterns and usage    \n  - Understanding of cloud ecosystem   \n  - Experience configuring and tuning virtual private clouds    \n  - Experience supporting Production applications or workloads in a cloud-based environment    \n  - Performance analysis, troubleshooting and remediation techniques    \n  - Useful to have experience with API management and integration (e.g. Apigee)   \n  - Preferred to have Certification as an active Data Engineer and/or Architect from any of the major cloud platforms      \nAbout Us      Slalom is a modern consulting firm focused on strategy, technology, and business transformation. In 39 markets around the world, Slalom's\u202fteams have autonomy to move fast and do what's right. They are backed by\u202fregional innovation hubs, a global culture of collaboration, and partnerships with the world's top technology providers. Founded in 2001 and headquartered in Seattle, Slalom has organically grown to over 8,000 employees. Slalom has been named one of Fortune's 100 Best Companies to Work For five years running and is regularly recognized by\u202femployees as a best place to work. Learn more at slalom.com.       Slalom prides itself on helping team members thrive in their work and life. As a result, Slalom is proud it invest in benefits that include: meaningful time off and paid holidays, parental leave, 401(k) with a match, a range of choices for highly subsidized health, dental, & vision coverage, adoption and fertility assistance, and short/long-term disability. We also offer additional benefits such as a yearly $350 reimbursement account for any well-being related expenses as well as discounted home, auto, and pet insurance.       Slalom is an equal opportunity employer that is committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veterans status, or any other characteristic protected by federal, state, or local laws.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-08T03:30:13.000Z"
+    },
+    "company": {
+        "name": "Slalom",
+        "link": "https://www.linkedin.com/company/slalom-consulting"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Washington",
+        "region": "DC",
+        "postal_code": "20398",
+        "street_address": null,
+        "latitude": 38.892063,
+        "longitude": -77.01991
+    }
+}

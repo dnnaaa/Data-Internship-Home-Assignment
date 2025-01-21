@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Environmental Services",
+        "description": "As a Software Engineer, you will engineer, code, and test resilient, highly-scalable software systems for both their web applications as well as backend APIs for their mobile apps, that services their hundreds of thousands of customers. They are significantly building out the engineering teams and are seeking talented coders who love growth to be a part of this expansion.   Responsibilities     - Solve technical problems by working closely with Agile scrum masters, UX, product managers, and remote teams.   \n  - Review and correct code for quality and design   \n  - Strong written and verbal communication skills.   \n  - Manage the delicate balance between implementation complexity, time to market and scalability and resiliency.   \n  - Working knowledge of database and code architecture best practices.&amp;nbsp;   \n  - Design high-performance database schema and code architecture.   \n  - Empower remote teams to deliver stable, high performing, and reliable code.&amp;nbsp;This requires regular interactions with remote teams in the mornings.   \n  - Contribute significantly to sprints, meet sprint deadlines, help other team members with their sprint commitments and take the lead on urgent tasks.   \n   Required Qualifications:     - 2+ years of PHP development experience with Laravel (or other similar languages like C, C++, C#, Java, C#, and .net work as well).   \n  - Experience writing SQL queries and engineering solid database schema designs.   \n  - 2+ years of experience in performance optimization, debugging, and unit testing.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T10:26:07.000Z"
+    },
+    "company": {
+        "name": "Airswift",
+        "link": "https://www.linkedin.com/company/airswift"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Provo",
+        "region": "UT",
+        "postal_code": "84601",
+        "street_address": null,
+        "latitude": 40.235123,
+        "longitude": -111.66219
+    }
+}

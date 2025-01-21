@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Industrial Automation,Aviation &amp; Aerospace,Computer Software",
+        "description": "Software Engineer (C++/python)American Robotics is seeking a Software Engineer to help build software for our industrial drone system Scout. This work would cover a variety of domains including simulation environments, command and control, image processing, and robotics.&amp;nbsp;This person will have the opportunity to contribute to a rapidly growing company on the verge of exciting commercial success.   Responsibilities  - Develop and maintain drone simulation environments   \n  - Develop automated testing environments   \n  - Develop and maintain business logic software for drone and drone station   \n  - Collaborate with cross functional teams to support engineering projects   \n   Requirements     - A Bachelors or Masters or higher degree in a Computer Science, Computer Engineering, Software Engineering or equivalent field   \n  - Experience developing software in robotics applications   \n  - 3+ years of professional experience building production software   \n  - At least 1 year experience with both C++ and python   \n  - Current on modern C++ standards (C++ 11 / 14 / 17)   \n  - Experience developing multithreaded software   \n  - Experience with CI / CD tools such as Jenkins   \n   Great Additions:     - Experience with robotics simulation environments such as Gazebo   \n  - Experience developing robotics software   \n  - Drone/robotics enthusiast; familiar with building and operating drones and other robots   \n&amp;nbsp;About American Robotics&amp;nbsp;American Robotics is a commercial developer of the first FAA-approved fully-automated drone systems, providing ultra high resolution aerial data to enterprise customers. Through innovations in robot autonomy, machine vision, edge computing and AI, American Robotics has created the next generation of drone technology: a fully-automated robotic data platform capable of continuous, unattended operation. Using this technology, American Robotics provides enterprise customers with the ability to continuously monitor, digitize and analyze their assets in real-time.&amp;nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T14:49:18.000Z"
+    },
+    "company": {
+        "name": "American Robotics",
+        "link": "https://www.linkedin.com/company/american-robotics-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Waltham",
+        "region": "MA",
+        "postal_code": "02154",
+        "street_address": null,
+        "latitude": 42.37617,
+        "longitude": -71.23899
+    }
+}

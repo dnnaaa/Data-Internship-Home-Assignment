@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Machinery,Staffing and Recruiting",
+        "description": "At Sensormatic Solutions, a division of Johnson Controls (JCI), we bring together diverse data and insights with our intelligent operating platform that is designed to drive improved shopper experiences and retail outcomes. Our innovative solutions (Loss Prevention, ShopperTrak, and Inventory Intelligence) drive improved customer experiences and enable retailers to create streamlined shopping.      What You Will Do     - As a Site Reliability Engineer (SRE) you will tune and troubleshoot multi-tiered systems to achieve efficient application performance, stability, and availability. The SRE will work closely with the software engineers, infrastructure, and network engineers to deploy and maintain our services.   \n  - You will act as 3rd level technical support liaison between Sensormatic Solutions external and internal customers, vendors, and the technology departments on a global scale.    \n  - You will be a point of contact and assist in application and infrastructure implementation, support, monitoring, incident response, and training.   \n  - Responsible for availability, latency, performance, efficiency, change management, monitoring, emergency response, and capacity planning      \nInvestigate and identify the root cause of moderately sophisticated customer, network, infrastructure application, and server issues.      How You Will Do It     - Supervise and report the status of tickets to respective internal/external customers and interested parties.    \n  - Drive platform reliability methodologies, influence design decisions, and get hands-on to tackle key infrastructure, cluster automation, and scaling challenges   \n  - Analyze, investigate, and identify root cause of complex customer issues, and communicate findings to appropriate group for resolution.    \n  - Work with different areas of the business to establish SLIs and SLOs for customer platforms.   \n  - Ensure that error budgets are maintained and SLOs are met.   \n  - Build tools to reduce toil and automate workflows   \n  - Follow and implement Sensormatic\u2019s production change control process.   \n  - 24/7 on-call duty in case of emergencies, based on rotating shifts alongside other global teams    \n  - Serve as Incident Commander to lead efforts in resolving mission-critical issues across the entire engineering organization   \n  - Collaborate closely with product developers and perform Production Readiness Reviews to ensure that designed solutions respond to non-functional requirements such as availability, performance, security, and maintainability as well as functional requirements such as security, scalability and reliability   \n  - Help developers interface with tooling, including our Kubernetes platform and in-house continuous delivery pipeline for Terraform   \n  - Work off-hours periodically to accommodate maintenance/downtime windows as well as outages.   \n  - Build and update How-To documents (runbooks) and procedures for troubleshooting and system management.   \n  - Participate in Research and Development activity as needed to progress Sensormatic\u2019s new or improved products, processes, or formulas.       \nWhat We Look For     - Bachelor\u2019s degree or relevant job experience in related field required   \n  - Global Support experience a plus.   \n  - Experience in automation and/or scripting (Shell, Perl, or Python, etc)   \n  - Deep understanding of the Linux and system administration at large-scale. Various Linux platforms (RedHat/CentOS/Ubuntu)   \n  - Experience with production code deployment   \n  - Excellent customer service skills to work with both internal and external customers daily   \n  - Ability to work successfully both independently and in a team environment   \n  - Remedy or Jira Ticketing/Case Management systems   \n  - Knowledge of Cloud concepts (GCP or AWS)   \n  - Continuous improvement around automation tools and processes for Infrastructure as Code experience (TerraForm, Puppet, Spacewalk, Spinnaker, Chef, Jenkins)   \n  - Understanding of deployment and administration of Containers (Kubernetes a huge plus)   \n  - Would prefer to have this person sit in Chicago*      \nJohnson Controls is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law. If you are an individual with a disability and you require an accommodation during the application process, please visit www.johnsoncontrols.com/careers.      Job      Information Systems      Primary Location      US-IL-Chicago      Organization      Bldg Technologies & Solutions",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T06:13:11.000Z"
+    },
+    "company": {
+        "name": "Johnson Controls",
+        "link": "https://ie.linkedin.com/company/johnson-controls"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Chicago",
+        "region": "IL",
+        "postal_code": "60654",
+        "street_address": null,
+        "latitude": 41.88323,
+        "longitude": -87.6324
+    }
+}

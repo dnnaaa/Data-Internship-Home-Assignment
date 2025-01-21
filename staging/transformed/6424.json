@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Wireless Protocol Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Capgemini Engineering combines, under one brand, a unique set of strengths from across the Capgemini Group: the world leading engineering and R&D services of Altran \u2013 acquired by Capgemini in 2020 \u2013 and Capgemini\u2019s digital manufacturing expertise. With broad industry knowledge and cutting-edge technologies in digital and software, Capgemini Engineering supports the convergence of the physical and digital worlds. Combined with the capabilities of the rest of the Group, it helps clients to accelerate their journey towards Intelligent Industry.&amp;nbsp;Capgemini Engineering has more than 52,000 engineer and scientist team members in over 30 countries across sectors including aeronautics, automotive, railways, communications, energy, life sciences, semiconductors, software & internet, space & defense, and consumer products.   Job Title: Wireless Protocol EngineerType: FTE   Location:&amp;nbsp;Redmond, WA   Job Description:\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Creating&amp;nbsp;Protocol&amp;nbsp;test scenarios ( UMTS+LTE)&amp;nbsp;across all the&amp;nbsp;procedure&amp;nbsp;that comply to 3GPP and Carrier requirements\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Able to identify the&amp;nbsp;KPIs that make sense for product to define&amp;nbsp;best user  experience&amp;nbsp;and&amp;nbsp;figure out methods to measure the KPIs\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Identifying critical scenarios&amp;nbsp;that impact user experience&amp;nbsp;on cellular services , map such scenarios to modem procedure, design the test cases on network simulators&amp;nbsp;&amp;nbsp;test and optimize the modem or OS platform \u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Debug latencies in various layers in protocol stack, Hardware interface (&amp;nbsp;such as USB/PCIe ) that could impact power and performance\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Identifying&amp;nbsp;the&amp;nbsp;KPIs that will impact the power and performance and define test methods to uncover the issues.&amp;nbsp;Define details test plans and approach for testing, developing test tools to achieve the same. \u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Windows User mode and kernel mode driver knowledge for networking devices ( Wi-Fi, LTE)&amp;nbsp;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan the test approach and scope, write test cases, execute test cases, record and manage defects\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;communicate issues with greater detail and help development teams to easily understand fix issues faster or assess the level of risk&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Preferably candidates who moved from Modem level to Drivers side experience. Hands on work experience is at device side, Understanding on modem protocol, Performance testing. And also Windows based system products is a must to have.&amp;nbsp;Main objective of this team is to work on LTE modem & Windows driver integration and support issues reported from field, during certification and new surface launches etc.&amp;nbsp;The key skill set expected for these roles-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;LTE protocol knowledge and bug/fixes experience-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;WDM/drivers experience in developing/fixing issues in USB, PCIe etc.-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;PC/Mobile system debug knowledge with JTAG and test equipment   This company is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-31T00:12:16.000Z"
+    },
+    "company": {
+        "name": "Capgemini Engineering",
+        "link": "https://fr.linkedin.com/company/capgemini-engineering"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Redmond",
+        "region": "WA",
+        "postal_code": "98073",
+        "street_address": null,
+        "latitude": 47.67491,
+        "longitude": -122.12399
+    }
+}

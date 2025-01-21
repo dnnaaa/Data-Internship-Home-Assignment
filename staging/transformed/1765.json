@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "As a Software Engineer, you will:      - Contribute to all parts of our stack, from web to our distributed service, queuing, and data layers   \n   - Maintain and scale our massive pipeline of streaming device, energy, and weather data   \n   - Build the advanced grid services that power companies need to evolve the grid to 100% renewable energy (leveraging millions of electric vehicles, smart thermostats, batteries, and other energy IoT devices)   \n   - Collaborate with the analytics team to scale our thermal modeling, device control, and energy efficiency algorithms and incorporate them into new platform features   \n   - Contribute to our team culture and inclusive workplace environment   \n    Candidate Skills/Qualifications:      - 2 - 4 years professional software development experience   \n   - Demonstrated professional experience with at least one of python, javascript, or java; other programming interests and technologies are encouraged!   \n   - Experience with at least one scripting language   \n    Nice to have:      - Information security experience: PKI, TLS, OAuth, SSO, penetration testing, etc.   \n   - Front end expertise in web (HTML/CSS/React), Android or iOS   \n   - Experience using modern development tools and processes (automated testing, continuous integration, code review, version control, etc)   \n   - Database and data processing pipeline experience (we work with RabbitMQ, MySQL, MongoDB, DynamoDB, S3, and Airflow)   \n   - Cloud administration experience (preferably AWS + Linux), including instance, networking and security management   \n   - Experience monitoring and operating web services   \n    Why work for EnergyHub?      - Collaborate with outstanding people: Our employees work hard, do great work, and enjoy collaborating and learning from each other.    \n   - Make an immediate impact: New employees can expect to be given real responsibility for bringing new technologies to the marketplace. You are empowered to perform as soon as you join the team!   \n   - Gain well rounded experience: EnergyHub offers a diverse and dynamic environment where you will get the chance to work directly with executives and develop expertise across multiple areas of the business.   \n   - Work with the latest technologies: You'll gain exposure to a broad spectrum of IoT, SaaS and machine learning challenges, including distributed fault-tolerance, device control optimization, and process modeling to support scalable interaction with disparate downstream APIs.    \n   - Be part of something important: Help create the future of how energy is produced and consumed. Make a positive impact on our climate.   \n   - Focus on fun: EnergyHub places high value on our team culture. Happy hours and holiday parties are important to us, but what's also important is how our employees feel every single day.    \n    Company Information      EnergyHub is a growing enterprise software company that works with the most forward-thinking companies in smart energy. Our platform lets consumers turn their smart thermostats, electric cars, water heaters, and other products into virtual power plants that keep the grid stable and enable higher penetration of solar and wind power. We work on technology that already provides energy and cost savings to millions of people through partnerships with the leading companies in the Internet of Things.      Company Benefits      EnergyHub offers a generous benefits package including 100% paid medical for employees and a 401(k) with employer match. We offer a casual environment, the flexibility to set your own schedule, a fully stocked fridge and pantry, free Citi Bike membership, secure bike rack, gym subsidy, paid parental leave, and an education assistance program.      EnergyHub is an Equal Opportunity Employer      In connection with your application, we collect information that identifies, reasonably relates to or describes you (\"Personal Information\"). The categories of Personal Information that we may collect include your name, government-issued identification number(s), email address, mailing address, other contact information, emergency contact information, employment history, educational history, and demographic information. We collect and use those categories of Personal Information about you for human resources and other business management purposes, including identifying and evaluating you as a candidate for potential or future employment or future positions, recordkeeping in relation to recruiting and hiring, conducting analytics, and ensuring compliance with applicable legal requirements and Company policies.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-30T05:10:25.000Z"
+    },
+    "company": {
+        "name": "EnergyHub",
+        "link": "https://www.linkedin.com/company/energyhub"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Brooklyn",
+        "region": "NY",
+        "postal_code": "11239",
+        "street_address": null,
+        "latitude": 40.692528,
+        "longitude": -73.991
+    }
+}

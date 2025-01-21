@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "Xignite Engineering is a talented, energetic team building out a highly scalable and reliable cloud-computing architecture that powers Xignite and enables the business to grow rapidly. Our engineering team creates complete end-to-end technology products and solutions to deliver financial market data timely and accurately to our customers.   The Role  - Design, build, and deploy high performance, fault-tolerant, scalable front end and back end servers for fast optimized web services.   \n  - Gain a deep understanding of the financial industry and business requirements, and work with the product team to create just-in-time deliverables   \n  - Leverage your knowledge and understanding to create innovative business solutions   \n  - Drive improvements in team productivity through tools, processes, test-driven development, and continuous refactoring   \n  - Take full ownership and responsibility for the success of your deliverables, from design through production deployment   \n  - Ability to work in a fast-changing environment   \n   Required Skill Set  - BS, MS or PhD in Computer Science or related discipline/experience   \n  - 2-5 years experience with .NET   \n  - Proficiency with C#   \n  - Solid object oriented design and analytical skills   \n  - Highly self-motivated, with a strong sense of ownership and urgency   \n  - Good communication skills   \n   Bonus Skills  - Deep .NET Core skills in memory management, multi-threading, serialization   \n  - Experience developing for and deploying to the cloud, AWS or Microsoft Azure   \n  - Experience building large-scale server applications or distributed systems.   \n  - SQL experience, (SQL Server or MySQL)   \n  - Key/value stores   \n  - Experience with microservices, Linux, Docker, REST API,&amp;nbsp;Akka.Net, gRPC, OAuth/OpenID   \n  - Experience with automated test frameworks   \n  - Knowledge of financial market data   \n  - Maintaining a GitHub like account, contributing to open source projects, posting answers on StackOverflow",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-21T01:12:23.000Z"
+    },
+    "company": {
+        "name": "Xignite",
+        "link": "https://www.linkedin.com/company/xignite"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

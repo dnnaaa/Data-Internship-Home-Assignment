@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior C++ Engineer",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "Who We Are      Firebolt is a major shake-up to the cloud data warehouse space. So far we\u2019ve built the fastest, most scalable, and most hardware efficient cloud data warehouse in the market, by far, and have helped some of the most data-forward companies in the world with their biggest data challenges. But this is just the beginning. We are a strong team of world-class data experts, led by ex-founders from Sisense and Looker. With $164M of recent funding by top VCs, we are poised to grow quickly and change how we work with data and what can be done with data.      About The Team      Firebolt is a Cloud Native system, consisting of numerous components provisioning, orchestrating and exposing the unprecedented capabilities of our Analytical Database (Data Warehouse).      You will be working on the database itself - the Core Engine, which is written in modern C++, judiciously embracing the features of C++14/17/20 targeting the Linux platform.      The Role     - Take a key position in our R&D team   \n  - Take part in the definition of our product design and architecture   \n  - Design, build and maintain our cutting-edge database core engine   \n  - Developing highly distributed, multithreaded, low latency core engine      \nRequirements      About you     - BSc degree in Computer Science, Engineering, or a related field   \n  - 3+ years of proven experience as a professional developer of production software   \n  - 3+ years of experience working with C++ on a production software   \n  - Fluency in modern C++ (C++11 and above) language, compilers, libraries, and patterns   \n  - Familiarity with high performance, low latency, highly multithreaded development is an advantage   \n  - Experience developing for Linux   \n  - Excellent analytical skills      \nA big bonus if you have     - Familiarity with OS internals, memory management, file systems   \n  - Familiar with cloud infra development   \n  - Familiarity with code profiling tools   \n  - Familiarity with distributed computing, networking, lockless algorithms, and datastructures   \n  - Familiarity with Golang, python, and shell scripting   \n  - Familiarity with one of the following: FoundationDB, Aerospike, or any high-performance KV-store   \n  - Background in playing any classical musical instrument",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T01:14:21.000Z"
+    },
+    "company": {
+        "name": "Firebolt",
+        "link": "https://www.linkedin.com/company/firebolt"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

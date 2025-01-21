@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Electrical/Electronic Manufacturing,Computer Software,Automotive",
+        "description": "ISEE is seeking a full-time Machine Learning Engineer to join our team. The ideal candidate has several years of work experience.       Role Responsibilities Include      -  Working on the intersection of sensing and perception algorithms.   \n  -  Prototyping and deploying robust computer vision algorithms on ISEE\u2019s vehicle fleet in areas of: Sensor calibration, localization and mapping, fusion, tracking and pattern recognition.   \n  -  Benchmarking and maintaining developed modules.   \n  -  Work independently to deliver high-quality code in a timely fashion.   \n  -  Collaborate with team for testing, evaluation and review of code.         \n Required Qualifications      -  Degree in Computer Science, Electrical Engineering, Robotics or related field.   \n  -  Experience in deploying deep learning models at scale on real-world data in at least one of these deep learning frameworks: PyTorch, Tensorflow, Caffe.   \n  -  Hands-on experience with developing, training and deploying deep learning models in multimodal (sensors space and temporal) real world data.   \n  -  Strong Python and/or C++ skills.   \n  -  Passionate about self-driving vehicles and real-world robotic solutions.   \n  -  Strong presentation and communication skills.         \n Preferred      -  Publication record in top-tier computer vision or machine learning conferences.   \n  -  3+ yrs industrial experience in deploying Computer Vision/Deep learning algorithms in real-world scenarios.   \n  -  Robotics/autonomous experience is a plus.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-25T11:34:21.000Z"
+    },
+    "company": {
+        "name": "ISEE AI",
+        "link": "https://www.linkedin.com/company/isee-ai"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cambridge",
+        "region": "MA",
+        "postal_code": "02239",
+        "street_address": null,
+        "latitude": 42.36525,
+        "longitude": -71.10502
+    }
+}

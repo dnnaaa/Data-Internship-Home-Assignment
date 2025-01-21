@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+        "description": "Organization Summary      If you love the pursuit of excellence and are inspired by the challenges that come through driving innovations that impact how the world lives, works and plays, then we invite you to learn more about Microsoft Operations - and the value we deliver across Microsoft and to our customers and partners. We offer unique opportunities to work on interesting global projects in an environment that appreciates diversity, focuses on talent development and recognizes and rewards great work.      We make doing business with Microsoft easy.      Position Description      The Microsoft Business Operations Data Engineering team is looking for a talented Site Reliability Engineer to design, build & operate business oriented services for Microsoft.      The successful candidate will be at ease leading the architecture for the next generation of Data Engineering Platform as we move into PaaS, Performance Tuning SQL, and SSAS, Troubleshooting across complex distributed systems, and leading incident investigations & capable of identifying root cause in a complex, distributed environment.      Related Technology     - Big Data Technologies, Data Bricks, Kusto, Kensho   \n  - SQL Server, SSAS, SSIS, SSRS.   \n  - Azure SQL   \n  - SQL Datawarehouse / Synapse   \n  - Azure Infrastructure - IaaS, PaaS   \n  - PowerShell, Shell Scripts   \n  - Monitoring tools such as App Insights, Log Analytics, Kusto, Geneva   \n  - Azure DevOps   \n  - TSQL (SQL Azure, MSSQL)   \n  - DAX/MDX Querying   \n  - .Net and C#       \nResponsibilities      Responsibilities:     - Conduct Troubleshooting and determine Root Cause of complex cross product issues (ADF, Data Bricks, SQL Server, SSAS, SSRS, PowerBI, Power Platform, etc)   \n  - Conduct performance analysis/tuning   \n  - Ensure accurate service capacity planning.   \n  - Build tools, develop efficient support processes, & contribute to our knowledge base.   \n  - Plan & conduct proof of concept projects with new technology & processes.   \n  - Build / Optimize monitoring & self-healing capabilities.   \n  - Collaborate at depth with peers in Development & Program Management.      \nQualifications      Basic Qualifications (must be quantitative):     - Degree in Computer Science, or similar subject (Data Science, IT, Business Intelligence, Data Warehousing, Math, Statistics), or relevant industry experience equivalent to a degree.   \n  - 2+ years experience in Site Reliability, Service Engineering, or an Operations team delivering industry-leading technical solutions with the highest quality.   \n  - 2+ years experience writing code in C# or a similar high level language.   \n  - 2+ years experience writing scripts in PowerShell or a similar scripting language.   \n  - 1+ years of experience with ITIL, MOF, or other industry standard operations / support framework   \n  - 1+ years knowledge / Experience with DevOps   \n  - 2+ years experience working in an Agile environment. SCRUM, etc.   \n  - 2+ years experience with continuous delivery & configuration management   \n  - 2+ years experience with telemetry, instrumentation, monitoring, & alerting.   \n  - Strong analytical capabilities.   \n  - Ability to manage multiple priorities, commitments & projects.   \n  - A passion for customer experience & usability, including successful delivery of customer selfservice tools & automated management/optimization of services.      \nPreferred Qualifications (can Be Quantitative & Qualitative)      It is desirable that you have one or more of the following MSFT certifications;     - Azure Infrastructure   \n  - Azure Architecture   \n  - SQL Server Administration   \n  - Windows Server Administration      \nMicrosoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.      Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T02:43:13.000Z"
+    },
+    "company": {
+        "name": "Microsoft",
+        "link": "https://www.linkedin.com/company/microsoft"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

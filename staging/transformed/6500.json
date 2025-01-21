@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Computer Networking,Computer Software",
+        "description": "Our client in is looking for a Machine Learning Engineer to join their team. This is a permanent role by way of 6 month contract-to-hire with a company that highly values work/life balance.      Position Description:        - Design, manage, develop automated, data-driven framework and platform   \n  - Work alongside data scientists   \n  - Design tools that will source data from many areas and then deploy machine learning services to various business areas   \n  - Work on complex projects involving one or more business lines   \n  - Team up with other Machine Learning Engineers in the organization on larger projects concurrently   \n  - Write ETL processes to acquire data for model development, as well as, design data pipelines and tools for real time and batch processing in a production system.   \nRequired Skills:        - 2+ years experience with the following:   \n  - Machine learning and deep learning algorithms   \n  - Google Cloud Platform (GCP) based analytic solutions like Datalab, BigQuery, or similar.   \n  - Big data environments using Flink, Spark, NoSQL DB structures   \n  - productionizing/building REST APIs and micro-services   \n  - Object oriented programming languages (Scala, Java, Python, etc.)   \n  - CI/CD concepts   \n  - product scaling   \n  - data pipelines   \n  - batch processing   \n  - architectures   \n  - Version control tools like Git   \n  - SQL advanced knowledge   \n  - Excellent communication skills to collaborate across cross functional teams      \nBeacon Hill is an Equal Opportunity Employer that values the strength diversity brings to the workplace. Individuals with Disabilities and Protected Veterans are encouraged to apply.      Company Profile:      Beacon Hill Technologies, a premier National Information Technology Staffing Group, provides world class technology talent across all industries utilizing a complete suite of staffing services.  Beacon Hill Technologies' dedicated team of recruiting and staffing experts consistently delivers quality IT professionals to solve our customers' technical and business needs.       Beacon Hill Technologies covers a broad spectrum of IT positions, including Project Management and Business Analysis, Programming/Development, Database, Infrastructure, Quality Assurance, Production/Support and ERP roles.               Learn more about Beacon Hill Staffing Group and our specialty divisions, Beacon Hill Associates, Beacon Hill Financial, Beacon Hill HR, Beacon Hill Legal, Beacon Hill Life Sciences and Beacon Hill Technologies by visiting www.beaconhillstaffing.com.       We look forward to working with you.      Beacon Hill. Employing the Future\u2122",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-30T15:41:54.000Z"
+    },
+    "company": {
+        "name": "Beacon Hill Staffing Group",
+        "link": "https://www.linkedin.com/company/beacon-hill-staffing-group"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Ewing",
+        "region": "NJ",
+        "postal_code": "08520",
+        "street_address": null,
+        "latitude": 40.2659,
+        "longitude": -74.81924
+    }
+}

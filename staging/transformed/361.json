@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer (Remote)",
+        "industry": "Outsourcing/Offshoring",
+        "description": "Job Title: Software Engineer &amp;nbsp;Location: Alpharetta GA&amp;nbsp;Job Description:Project Information:  - Contractor will be working on a platform that contain 26 products.   \n  - Contractor will be working on a team of 15-20 developers with sub teams of 3   \n  - Apply the principles of computer science and mathematical analysis to the design, development, testing, and evaluation of the software and systems that make computers work. Designs, develops and tests operating systems-level software, compilers, and network distribution software for medical, industrial, military, communications, aerospace, business, scientific and general computing applications.   \n&amp;nbsp;Education/Experience  - Bachelors degree in computer science, software engineering or relevant field required   \n  - 8-10 years experience required   \n  - Large scale Integration experience a plus   \n&amp;nbsp;Responsibility level\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Exercises independent judgment with minimal direction from supervisor&amp;nbsp;Skills  - This is a Spring Java developer on an enterprise Web Application ,   \n  - Required Spring, Tomcat, MySQL, JSP, Spring MVC, JavaScript, HTML, CSS, jQuery, React, Angular, AJAX, Soap web service, JEE, Design Patterns   \n  - Capable of learning and working on a complex system quickly   \n  - Verbal and written communication skills, problem solving skills, customer service and interpersonal skills (Required)   \n  - Strong ability to work independently and manage one's time (Required)   \n  - Strong mentoring skills necessary to provide support and constructive performance feedback (Required)   \n  - Strong knowledge of the full software development lifecycle: from business/systems analysis, through requirements gathering and functional specification authoring, to development, testing and delivery (Required)   \n  - Strong ability to troubleshoot issues and make system changes as needed to resolve issue   \n&amp;nbsp;Major Job Duties and Responsibilities:&amp;nbsp;&amp;nbsp;  - Write Application code with highest quality, secure and unit tested. All code must follow the coding and security standards.   \n  - Coordinate with others within the team and organization for the betterment of the products we are tasked with delivering.   \n  - This includes being aware of development efforts in other components that might impact application.   \n  - Clearly express your ideas and solutions to team members, other departments and managers.   \n  - Develop standards and guidelines to guide the use and acquisition of software and to protect vulnerable information.   \n  - Training and guiding junior developer.   \n  - Solving production issues.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-14T17:05:28.000Z"
+    },
+    "company": {
+        "name": "StaffChase",
+        "link": "https://www.linkedin.com/company/staffchase"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Alpharetta",
+        "region": "GA",
+        "postal_code": "30022",
+        "street_address": null,
+        "latitude": 34.075615,
+        "longitude": -84.29455
+    }
+}

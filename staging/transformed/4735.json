@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - Web Video Clients",
+        "industry": "Internet",
+        "description": "About Us      Launched in 2011, Twitch is a global community that comes together each day to create multiplayer entertainment: unique, live, unpredictable experiences created by the interactions of millions. We bring the joy of co-op to everything, from casual gaming to world-class esports to anime marathons, music, and art streams. Twitch also hosts TwitchCon, where we bring everyone together to celebrate, learn, and grow their personal interests and passions. We\u2019re always live at Twitch. Stay up to date on all things Twitch on LinkedIn , Twitter and on our Blog .      About The Role      Twitch is building the future of live interactive entertainment, and video is at the very core of that vision. Amazon Interactive Video Service (IVS) is an AWS Service built within Twitch that enables AWS developers to easily and quickly use the low-latency highly -distributed live video platform that powers Twitch in their own applications. The IVS Video Clients team is looking for an experienced Web Engineer to contribute to the web platform of our video playback library. This cross-platform low-level library powers playback on all of the client platforms that Twitch supports, including desktop and mobile web, Android, iOS, PS4, Xbox, and others, and the player SDKs for IVS.      If you are passionate about video, streaming, or entertainment, and inspired by building performant client software, then this is the position for you. Previous working with video technologies is a bonus, but not a requirement since you'll be partnered with accomplished video engineering veterans. Along the way, you'll gain in-depth knowledge of our highly available and scalable end-to-end live video infrastructure. We can't wait to see what we can build together!      You Will     - Develop essential components of C++ cross-platform video playback library   \n  - Experiment to decide to build new features and improve performance and client quality of service   \n  - Lead cross-team projects, working with backend video teams like ingest, transcode, replication, and mapping teams to improve the video playback experience   \n  - Add reliable unit, integration, and end-to-end tests that run on different browsers and devices   \n  -  Up-level the team through mentorship and best practices   \n You Have:     -  3+ years of professional software development or equivalent expertise   \n  - Expertise with modern web technologies like TypeScript, ES6, WebPack, and NPM   \n  - Experience with software architecture fundamentals, such as async programming, object-oriented design, abstractions, software design, and multiple testing methodologies   \n  -  Skillful communication skills and can clearly articulate complex technical problems and solutions   \n Bonus Points     - Experience working with WebRTC, WebTransport, and/or WebCodecs   \n  - Experience working with web media APIs like Media Source Extensions, Encrypted Media Extensions, MediaCapabilities   \n  - Experience working with web players like HLS.JS, Shaka Player, DASH.JS, Video.JS   \n  -  Working familiarity with C++   \n Perks     -  Medical, Dental, Vision & Disability Insurance    \n  -  401(k)    \n  -  Maternity & Parental Leave    \n  -  Flexible PTO    \n  -  Commuter Benefits    \n  -  Amazon Employee Discount    \n  -  Monthly Contribution & Discounts for Wellness Related Activities & Programs (e.g., gym memberships, off-site massages, etc.)    \n  -  Lunch Served Daily    \n  -  Free Snacks & Beverages       \nWe are an equal opportunity employer and value diversity at Twitch. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T00:06:09.000Z"
+    },
+    "company": {
+        "name": "Twitch",
+        "link": "https://www.linkedin.com/company/twitch-tv"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

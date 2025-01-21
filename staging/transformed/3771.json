@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "Software Engineer  tl;dr: An innovative seed-stage startup in the DevSecOps space is looking for a Software Engineer (fullstack) to join our team and help design and build a greenfield cybersecurity product using bleeding edge technology.    Our tech-stack and R&D culture   As this is a greenfield application, we do not have all the details ironed out, you will help us do that. However, we do know we will be using:   \u25cf &amp;nbsp; &amp;nbsp;  Node.js backend   \u25cf &amp;nbsp; &amp;nbsp;  React / Vue / Angular frontend   \u25cf &amp;nbsp; &amp;nbsp;  TypeScript on both   \u25cf &amp;nbsp; &amp;nbsp;  Serverless, kubernetes, AWS   \u25cf &amp;nbsp; &amp;nbsp;  Neo4j, MongoDB   We will be putting a high emphasis on:   \u25cf &amp;nbsp; &amp;nbsp;  Honing your skills   \u25cf &amp;nbsp; &amp;nbsp;  SOLID design principles   \u25cf &amp;nbsp; &amp;nbsp;  Highly maintainable and testable code   \u25cf &amp;nbsp; &amp;nbsp;  Non-blocking automatic CI/CD pipeline   \u25cf &amp;nbsp; &amp;nbsp;  Letting developers develop and not distract them with endless unneeded meetings, procedures and rules   \u25cf &amp;nbsp; &amp;nbsp;  Involvement and impact on the decision making process and roadmap of a new product   \u25cf &amp;nbsp; &amp;nbsp;  Open-source use and contribute   What do we expect you to bring to the table?  We believe that for every highly functioning relationship, there must be a good synergy between the partners and that it must be a win-win situation for all.   Our key requirements are:   \u25cf &amp;nbsp; &amp;nbsp;  Enjoy your work and working with your team and be proud of it   \u25cf &amp;nbsp; &amp;nbsp;  Assume best intentions \u2013 we know we will!   \u25cf &amp;nbsp; &amp;nbsp;  Drive to build something amazing   \u25cf &amp;nbsp; &amp;nbsp;  Be excited about data and coding   \u25cf &amp;nbsp; &amp;nbsp;  Have strong opinions, but hold them loosely   &amp;nbsp; What will you be doing?    As a seed-stage team member, you will be working on a greenfield application and ML models. You will be an integral part of the design and architecture decision process, working directly with the other team members and leadership (we have a very flat structure). In this role you will have a huge impact on the success of the company.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T01:57:27.000Z"
+    },
+    "company": {
+        "name": "Stealth Startup",
+        "link": "https://www.linkedin.com/company/stealth-startup-51"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta Metropolitan Area",
+        "region": null,
+        "postal_code": "30317",
+        "street_address": null,
+        "latitude": 33.74975,
+        "longitude": -84.38857
+    }
+}

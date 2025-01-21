@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "Analytica is seeking a Data Scientist&amp;nbsp;to support long term federal client engagements  in financial regulatory or health projects in the DC Metro area.  The role will apply statistical programming, modeling, visualization techniques, data mining, and forecasting skills to analyze challenging public sector problems.&amp;nbsp;        Analytica has been recognized by Inc.&amp;nbsp;for 3 consecutive years as one of the 250 fastest growing business.  We offer competitive compensation with opportunities for bonuses, employer paid health care, training and development funds, and 401k match. &amp;nbsp;      Responsibilities include:         - Be a key member of a highly collaborative, cross-functional team environment to design, develop, and deliver innovative, technical solutions using AI/ML and other data-driven methods.&amp;nbsp;    \n  - Feature Engineering and Attribute Evaluation - identify the key determinants for modeling that exist in the business process and within existing data sets, as well as selecting evaluation protocols (model techniques)    \n  - Conduct pre-processing of data to collect, clean, and prepare data sets for input into a computational model using technologies such as Python or R    \n  - Select and applying modeling techniques to fit the business problem, including experience applying machine learning (ML) supervised and unsupervised learning, regression, neural networks and deep learning, natural language processing, etc.    \n  - Investigate, test, report, and validate model results with clients and colleagues&amp;nbsp;    \n  - Present results of modeling activities to clients, depicting the insights realized, and explaining the relevance of their results to the organization\u2019s business challenges    \n  - Participate as part of an agile team in daily stand-ups, release planning, retrospectives, and customer demos    \n  - Participate on solution design teams for&amp;nbsp;responding to government requests for white papers, proposals and other content needs    \n   Basic Qualifications:      - Bachelor's degree in Statistics, Mathematics, Physics, Computer Science, or another quantitative field; Master's degree or PhD a plus    \n  - Three (3)+ years in data science, data engineering, as a statistician, or a related quantitative field    \n  - Strong problem-solving skills, leveraging domain knowledge, information technology, and data science techniques    \n  - High degree of experience utilizing R, or Python to support the development of complex statistical use cases    \n  - Experience implementing unsupervised (e.g., clustering), semi-supervised (e.g., label propagation) and supervised learning (e.g., ensemble classifiers) algorithms, and when it is appropriate to use each is a strong plus    \n  - Experience querying data from relational databases using SQL    \n  - Experience with development of predictive analytics models    \n  - Experience working in an Agile project management environment    \n  - Must be a U.S. Citizen and be able to obtain and maintain a security clearance",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-28T19:36:31.000Z"
+    },
+    "company": {
+        "name": "Analytica",
+        "link": "https://www.linkedin.com/company/analytica-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Washington DC-Baltimore Area",
+        "region": null,
+        "postal_code": "21201",
+        "street_address": null,
+        "latitude": 38.873062,
+        "longitude": -77.007385
+    }
+}

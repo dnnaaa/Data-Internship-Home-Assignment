@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - Twitch-Music",
+        "industry": "Internet",
+        "description": "About Us      Launched in 2011, Twitch is a global community that comes together each day to create multiplayer entertainment: unique, live, unpredictable experiences created by the interactions of millions. We bring the joy of co-op to everything, from casual gaming to world-class esports to anime marathons, music, and art streams. Twitch also hosts TwitchCon, where we bring everyone together to celebrate, learn, and grow their personal interests and passions. We\u2019re always live at Twitch. Stay up to date on all things Twitch on LinkedIn , Twitter and on our Blog .      About The Role      You will have demonstrated experience building front-end and backend codebase. You have knowledge of front-end and backend engineering methods, how best to meet latency code in ReactJS or VanillaJS. You will also have experience doing code-reviews and setting best engineering practices.      You Will     - Embrace and champion engineering best practices within your group and Twitch   \n  - Work with product managers, designers, and other collaborators to build great experiences   \n  - Partner with fellow engineering teams to accomplish complex programs   \n  - Develop new music product services and features    \n  - Improve existing APIs and services, with a heavy focus on scale and availability   \n  -  You'll identify and uphold frontend & backend engineering best practices   \n  - Work in a supportive team environment with shared code, code reviews, and disciplined quality control; quality begins with the developers on the team   \n  - Produce clean code, tests, and well written documentation   \n You Have:     - Bachelor's degree or above in Computer Science/Engineering or prior engineering experience   \n  - Proficient coder in the following: Go, Java, C++, or similar languages   \n  - Experience developing web applications and their backend APIs   \n  - Familiarity with web technologies and languages (JavaScript/TypeScript).   \n  - Experience working with product managers, designers, and other engineering leaders   \n  - Familiarity in the AWS ecosystem of services (EC2, RDS, Dynamo, Lambda, and CloudWatch)   \n  - Fluency in data structures, algorithms, data modeling, and schema design   \n Bonus Points     - Familiarity with Graphql   \n  - Proficiency in ReactJS   \n  - Proficiency in ML or Mobile Development   \n Perks     - Medical, Dental, Vision & Disability Insurance   \n  -  401(k) , Maternity & Parental Leave    \n  - Flexible PTO   \n  -  Commuter Benefits    \n  - Amazon Employee Discount   \n  - Monthly Contribution & Discounts for Wellness Related Activities & Programs (e.g., gym memberships, off-site massages , etc. ),   \n  - Breakfast, Lunch & Dinner Served Daily   \n  - Free Snacks & Beverages       \nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.      We are an equal opportunity employer and value diversity at Twitch. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T00:06:52.000Z"
+    },
+    "company": {
+        "name": "Twitch",
+        "link": "https://www.linkedin.com/company/twitch-tv"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

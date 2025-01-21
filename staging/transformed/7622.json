@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "GCP Cloud Engineer",
+        "industry": "",
+        "description": "GCP Cloud EngineerRemote PositionLinkedIn profile,References MandatoryVisa: Any(No OPT/CPT)  - Experience in building and supporting large-scale, business-critical systems on public cloud (GCP & AWS)&amp;nbsp;   \n  - Hands on experience in GCP,Cloud composer,Big Query, and Looker.   \n  - Strong experience in performance tuning of Big Query SQL Scripts.   \n  - Good understanding of cloud design considerations and their impact on pricing.   \n  - Experience hosting an application on GCP using Compute Engine, App Engine, kubernetes engine,   \n  - cloud storage and cloud SQL.   \n  - Experience in Networking Protocols such as Cloud DNS,Cloud CDN etc.   \n  - Proficient in modern scripting language(Python) for automation on build tasks.   \n  - Knowledge of Application&amp;nbsp;monitoring&amp;nbsp;using google Stack driver.   \n  - Experience with Big Data on GCP : Big Query,PUB/SUB,Data Flow, Dataproc.   \n  - Prior&amp;nbsp;experience with container technologies with GitHub,Docker,CI/CD tools and Monitoring tools.   \n  - Experience with infrastructure configuration management tools Terraform, Puppet,Chef.   \n  - Experience with&amp;nbsp;UNIX/Linux power   \n  - Prefer Google Cloud certified&amp;nbsp;candidates.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-10-05T17:35:14.000Z"
+    },
+    "company": {
+        "name": "Byte Link Systems, Inc.",
+        "link": "https://www.linkedin.com/company/bytelink-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas",
+        "region": "TX",
+        "postal_code": "75342",
+        "street_address": null,
+        "latitude": 32.777977,
+        "longitude": -96.79621
+    }
+}

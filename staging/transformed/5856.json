@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "Biotechnology",
+        "description": "Seeking a Senior Software Engineer, Architect who will develop complex software for low power and battery powered medical devices. Come join a team of professionals where your experience will be a Value add.      What You Will Be Doing      Develop Linux applications that communicate with firmware running on development boards      Design and implement     - Real-time, embedded signal processing software and algorithms   \n  - Programmable and configurable data acquisitions systems   \n  - Highly secure authentication and encryption systems, such as secure booting, secure data collection, bidirectional authentication mechanisms   \n  - User interface and conduct applications programming   \n  - Bluetooth Low Energy wireless connectivity   \n  - Real-time data visualization using custom Qt Widgets for data collection systems   \n  - Robust and fault-tolerant wireless data transfer and synchronization between multiple devices in unpredictable environments      \nArchitecting the firmware system design      Ensure high reliability suitable for verification and validation      What You Need for this Position      Bachelor's Degree in Computer Science or a related field      5+ years of Software Engineer experience      Implement secure data streaming and synchronization over BLE/USB      Implement streaming and synchronization using REST APIs      Support group efforts toward high quality documentation      Knowledge Of Or Experience In The Following     - C/C++ programming   \n  - Object oriented programming   \n  - Design patterns   \n  - Computer architecture, memory organization   \n  - Code optimization and code debugging   \n  - Firmware development   \n  - Bluetooth Low Energy (BLE)   \n  - Near Field Communications (NFC)   \n  - USB device interfaces (libUSB)   \n  - TCP/IP and REST APIs   \n  - Encryption (AES)   \n  - Distributed systems   \n  - Software testing methods (unit testing, integration testing      \nFamiliarity with Qt, Linux systems and implementing applications that communicates with firmware      Knowledge of QMS, FDA design controls and GMP regulation      Experience working in both large structured and small entrepreneurial organizations      For your hard work and dedication earn a generous salary, bonus and stock option along with a comprehensive benefits package including 401k and much more.      Relocation assistance could be available for an ideal candidate.      Email Your Resume In Word To      Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:      Nyna.Goldberg@CyberCoders.com     - Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : NG-1641839 -- in the email subject line for your application to be considered.***      \nNyna Goldberg - Principal Recruiter - CyberCoders      Applicants must be authorized to work in the U.S.      CyberCoders, Inc is proud to be an Equal Opportunity Employer      All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.      Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T17:38:27.000Z"
+    },
+    "company": {
+        "name": "CyberCoders",
+        "link": "https://www.linkedin.com/company/cybercoders"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Lake Forest",
+        "region": "CA",
+        "postal_code": "92609",
+        "street_address": null,
+        "latitude": 33.66746,
+        "longitude": -117.6885
+    }
+}

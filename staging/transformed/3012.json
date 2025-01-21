@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software",
+        "description": "This Jobot Job is hosted by Danielle Wilson      Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.      A Bit About Us      International specialist insurer industry and established in 2006 to focus primarily on the needs of small and middle market commercial clients seeking a Site Reliability Engineer to join the rapidly growing and evolving IT Organization. This role will be responsible for maintaining operational coverage of platforms offered through the cloud, on-premises and hybrid with a focus on improving automation, scale, process, data collection and visibility into production health and reliability by enhancing existing tools, developing new tools through continuous integration, automated testing, and delivery.            Why join us?         Competitive salary and bonus (based on personal & company performance)      Comprehensive health insurance, Vision, Dental and FSA      401(k) with competitive company matching      Paid Time Off      Modern and open office spaces, complimentary fruit and drinks      Job Details      MUST HAVES     -  Azure Cloud technology tools, server provisioning and administration, OS administration (Linux and Windows), with hands-on experience configuring and supporting middleware and web servers.   \n  -  Azure Cloud services for monitoring and supporting application performance, infrastructure, log aggregation, and SQL/Oracle DB monitoring.   \n  -  DevOps technologies (ADO, AKS, Bamboo, Puppet, Docker)   \n  -  Comfortable with client-facing role and interacting with, IT, business units and other stakeholders on regular basis.       \nPLUSES     -  Experience with eCommerce portals and support   \n  -  Administration of monitoring applications    \n  -  Java development or support    \n  -  CI/CD development   \n  -  ITIL certification or knowledge basis   \n  -  Agile      \nInterested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-03T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Jobot",
+        "link": "https://www.linkedin.com/company/jobot"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

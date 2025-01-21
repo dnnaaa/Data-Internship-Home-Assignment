@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer In Test",
+        "industry": "Information Technology and Services",
+        "description": "Software Engineer in Test&amp;nbsp;&amp;nbsp;   AffiniPay is looking for a Quality Engineer that is passionate about building excellent automation systems and delivering high-quality code into production. Our ideal candidate will have strong experience with building automated test suites and running continuous integration systems for web-based applications and APIs. You will also be responsible for developing QA procedures, testing of software and reporting on the quality of the current builds. This role will expose you to all aspects of the software stack and many cutting edge frameworks/tools. This is an extraordinary opportunity for someone to join a growing company as part of a fast-paced engineering team.   Responsibilities:  - Define test strategy, build test plans and test cases   \n  - Design, develop and deploy advanced automated testing frameworks that provide reliable and repeatable test results   \n  - Develop internal QA tools to efficiently test components/applications   \n  - Perform testing of features and bugs at all levels of the stack   \n  - Build and maintain QA infrastructure to provide a reliable build pipeline and test environments   \n  - Analyze and decompose complex issues and collaborate with others to drive adoption of standard methodologies in code health, testing, and maintainability   \n   Requirements:  - BS in computer science or equivalent related work experience   \n  - 3+ years in a QA or development role   \n  - Experience with one or more general-purpose programming languages including but not limited to: Ruby, Python, JavaScript, or Java, and able to write automated tests, scripts, and tools   \n  - Experience in the design/development of an automation framework   \n  - Experience with REST APIs and other back-end systems   \n  - Experience with Travis, Jenkins, or some other CI system   \n  - Familiar with Linux shell   \n  - Experience with Git or other SCM   \n  - Familiarity with SQL, databases, and data-driven automated tests   \n  - Strong understanding of concepts related to computer architecture, data structures, and programming practices   \n  - Natural inclination of staying ahead to learn current trends and standard methodologies in software test automation   \n  - Ability to thrive in a fast-paced, agile team environment   \n  - Ability to work effectively, efficiently, and independently with minimal guidance   \n   Nice to Have:  - Proven understanding of building and administering CI/CD systems   \n  - Extensive knowledge of Unix/Linux environments   \n  - Deep knowledge of Internet technologies   \n  - Experience with performance testing or security testing   \n  - Experience developing simple test tools or test harnesses to aid in testing   \n  - Experience using cloud-computing services such as AWS or Google Cloud Platform   \n  - Experience with IaC, Terraform, etc.   \n  - Experience with payment certifications such as PCI   \n   About AffiniPay:At AffiniPay, we\u2019re continuously taking on exciting and interesting problems to define the direction of the financial technology industry and transform the way professionals get paid! Our drive to become leaders in FinTech has fostered our fast-paced, growth-focused culture. We\u2019ve assembled teams of highly collaborative problem solvers who are passionate about both personal and company growth. We are eager to build, work together, and go above and beyond to be industry leaders. We also know that our people are our greatest asset and responsible for our ultimate success. As such, we invest in our team members\u2019 growth and development, recognize accomplishments, and celebrate successes together. We\u2019re building a winning team, and we need more creative, collaborative, and fun-loving people to help us get the job done!   Affini-Perks! We've got you covered...  - Competitive compensation structure   \n  - 100% paid medical, dental, and vision benefit plans   \n  - 401K with automatic 5% company contribution   \n  - Competitive PTO (Paid Time Off) plan   \n  - 100% Company paid short- and long-term disability and life insurance   \n  - Paid maternity/paternity leave   \n  - Fun destination quarterly meetings   \n  - AffiniPay Swag Package   \n  - Company lunches and fully stocked kitchen   \n  - All the benefits of a startup culture without the downsides   \n  - The chance to get in on the ground floor of one of Austin's fastest growing companies!   \n   AffiniPay is proud to be an Equal Opportunity Employer.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T22:49:50.000Z"
+    },
+    "company": {
+        "name": "AffiniPay",
+        "link": "https://www.linkedin.com/company/affinipay"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

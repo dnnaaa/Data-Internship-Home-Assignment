@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Platform Engineer",
+        "industry": "Insurance",
+        "description": "Senior Data Platform EngineerHippo is modernizing the home insurance industry by putting customers at the center of everything we do, from the coverage we offer to the customer service we provide. Hippo\u2019s true ambition lies in helping people protect their homes to begin with by leveraging technology and data to help find small issues before they become big headaches. Because, at the end of the day, the best home insurance policy is the one you never have to use.&amp;nbsp;We're looking for a talented Data Platform Engineer to scale up our analytical data infrastructure, as well as partner with the product team to ensure data integrity in the entire system. An ideal candidate brings curiosity, a passion for data, and a deep understanding of the technologies behind data pipelines, warehousing, big data, analytics and deep understanding of the software development life cycle . Prior startup experience and ability to thrive in a fast-paced environment is a big plus.   Responsibilities:  - Manage analytics data systems, continuously scale up to meet the growing business demand   \n  - Develop and provide on-going improvement for workflow orchestration system   \n  - Manage build and deployment process in company wide data systems   \n  - Manage data ingest flow to meet all company\u2019s batch processing and real time use cases   \n  - Develop and improve company\u2019s reporting framework in empowering various regulatory and partner requirements   \n  - Partner with product engineering and other platform team to ensure data integrity across the broader systems   \n  - Improve the anomaly detection platform integration to achieve a resilient data system, and empower data QA as well as business users   \n   Required Qualifications:  - Bachelor\u2019s degree or equivalent in Computer Science, Computer Engineering, Information Technology or any related field of study   \n  - 5+ years of work experience as a software engineer in data infrastructure or analytical data warehouse   \n  - Demonstrable knowledge, experience, skill and proficiency with the following:   \n  - Python   \n  - SQL   \n  - Shell scripting   \n  - AWS/GCP environments   \n  - Experience with building ETL workflow management systems   \n  - Experience with docker container and Kubernetes   \n   Preferred Qualifications:  - Experience working with DBT and BigQuery   \n  - Experience in building or integrating data anomaly and validation tools   \n   Compensation & Perks:  - Healthy Hippos Benefits-&amp;nbsp;100% Employer paid medical, dental & vision plan options for our team members AND their families (yes, you read that correctly). As well as 401K, long & short term disability, EAP and flexible spending accounts.   \n  - Flexible Paid Time Off-&amp;nbsp;Uncapped PTO (with manager approval)   \n  - Little Hippos Program- We reimburse our team members up to $25k for adoption costs and up to $50k for infertility treatments. Plus, we offer 12 weeks parental leave for primary caregivers and 8 weeks for secondary caregivers.   \n  - Hippo Habitat- Fun offices located in downtown Austin. Stocked kitchen and BBQ Friday\u2019s for all!&amp;nbsp;   \n   Hippo is an equal opportunity employer, and we are committed to building a team culture that celebrates diversity and inclusion.&amp;nbsp;Hippo\u2019s applicants are considered solely based on their qualifications, without regard to an applicant\u2019s disability or need for accommodation. Any Hippo applicant who requires reasonable accommodations during the application process should contact the Hippo\u2019s People Team to make the need for an accommodation known",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T22:06:37.000Z"
+    },
+    "company": {
+        "name": "Hippo Insurance",
+        "link": "https://www.linkedin.com/company/hippo-insurance"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Palo Alto",
+        "region": "CA",
+        "postal_code": "94310",
+        "street_address": null,
+        "latitude": 37.445103,
+        "longitude": -122.16036
+    }
+}

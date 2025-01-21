@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Scientist - Search and NLP",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Grainger is North America's leading distributor of maintenance, repair, and operating products and services. Our wide assortment, deep expertise, innovative technology solutions and unparalleled customer service keep customers' operations running and their people safe.      We're looking for passionate people who can move our company forward. We have a welcoming workplace where you can build a career for yourself while fulfilling our purpose to keep the world working. We embrace new ways of thinking and recognize everyone is an individual. Find your way at Grainger.      Position Details      You will join a team of software engineers, data scientists and ML engineers working on high impact problems in the fields of Search, Information Retrieval, NLP, Product Similarity & Matching and Recommendations. You will report to the Senior Manager, Data Science.      You Will     - Develop production-level code that runs, trains, and maintains ML models   \n  - Build code to run in production   \n  - Conduct exploratory data analysis activities on available data.   \n  - Develop experimental and analytic plans for data modeling processes, use of baselines, ability to determine cause and effect relations   \n  - Build pipelines from data lakes to feed models   \n  - Work toward agreement between our strategy and data science deliverables   \n  - Provide recommendations to collaborators to solve business issues through data-driven methods and embedded model deployment         \nYou Have     - Master's in Computer Science / Applied Mathematics / Engineering / Physics   \n  - 4+ years of experience as a Data Scientist in Vision, NLP, Recommender Systems or Data Science for Enterprise Search   \n  - Proficiency in Python, SQL and Bash   \n  - Experience with ML/DL toolkits: Keras, PyTorch, Tensorflow, scikit-learn, SparkML and other service such as Kafka, Redis, Postgres, Spark, or Snowflake   \n  - Experience with identifying, scoping and leading complex data science projects with collaborators and high impact   \n  - Background in NLP such as Document Classification & Clustering, Intent Prediction, Knowledge Graph, Multi-Modal Search, Text Summarization and Generation   \n  - Experience in many different technologies and the full model lifecycle, typically ranging from data pipelines, data extraction, model training, model serving, labeling tools, ML-ops, ad-hoc tooling and all points in between         \nOur Benefits     - Comprehensive healthcare plans   \n  - PTO and family leave   \n  - Retirement plans         \nWe are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-20T05:53:49.000Z"
+    },
+    "company": {
+        "name": "Grainger",
+        "link": "https://www.linkedin.com/company/w.w.-grainger"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Chicago",
+        "region": "IL",
+        "postal_code": "60654",
+        "street_address": null,
+        "latitude": 41.88323,
+        "longitude": -87.6324
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Engineer, Software - AWS, Java",
+        "industry": "Information Technology and Services,Computer Software,Telecommunications",
+        "description": "Equal Opportunity/Affirmative Action Employer including Vets and Disabled      Your Role In Helping Us Shape The Future      You will play a critical role in developing the billing application software that enables Intelsat Commercial Aviation to invoice our customers and generate revenue. You will drive the transformation of Intelsat\u2019s billing systems from on-premise to AWS Cloud. Bring your passion for AWS application design and Data Engineering to this exciting opportunity where wireless and aerospace unite.       Are you up to the challenge?      -  Develop high-quality financial system software design and architecture in AWS   \n  -  Produce consistent, high quality code by following industry best practices and company standards   \n  -  Leverage automation across testing, integration, and deployment activities   \n  -  Ensure unit tests are well written to provide maximum code coverage.   \n  -  Identify, prioritize and execute tasks in the software development life cycle   \n  -  Participate in Code Reviews and providing constructive feedback   \n  -  Carry out root cause analysis on defects, ensure fixes are happening in the right way   \n  -  Mentor, educate and support team members with code, best practices   \n  -  Document development phases and monitor systems   \n  -  Can identify and address performance bottlenecks in a production environment   \n  -  Participate in POC and Research and Development Efforts for leading edge technologies in area   \n  -  Manage monthly financial transaction processing in AWS      \n Can you drive these processes?       World class AWS development and deployment. Imagine the future of cloud-based billing in the wireless aerospace segment. Deliver new concepts utilizing new tools and techniques to add value to the business.      You Should Definitely Have     -  Computer Science, Computer Engineering or related Bachelor\u2019s Degree   \n  -  AWS Solutions Architect Associate or Professional Certification   \n  -  5+ years\u2019 experience developing and deploying applications in AWS, with commensurate expertise in relevant AWS components including S3, EMR, EC2, Lambda, AWS Data Pipeline, RDS, DynamoDB, etc.   \n  -  5+ years\u2019 experience of writing code using Java as primary programming language   \n  -  3+ years\u2019 experience writing code in Scala or Python   \n  -  Excellent knowledge of object-oriented design   \n  -  3+ years demonstrable knowledge working with traditional RDBMS solutions e.g. MySQL, Oracle, Postgres   \n  -  1+ experience writing micro services using SpringBoot framework   \n  -  1+ years hands on experience with big data tools: Hadoop, Spark, Kafka, etc.   \n  -  1+ experience writing ETL jobs using Apache spark, Hadoop etc   \n  -  1+ years demonstrative knowledge working with NoSQL Solutions such as DynamoDB, MongoDB etc   \n  -  Familiarity with Agile methodology   \n  -  Analytical mind with problem-solving aptitude   \n  -  Ability to work independently in individual contributor role      \nIt Would Be Nice If You Had     -  AWS Big Data Certification   \n  -  Good knowledge of message queues   \n  -  Experience with CI/CD pipelines and tools like Jenkins, spinnaker etc      \nWhat It\u2019s Like To Work With Us      Intelsat is connecting the world and transforming the satellite landscape by reaching beyond the traditional satellite industry. We are defining new products that will open new, profitable markets. To help us reach this goal, you should be a bold thinker who will perform a key role in shaping Intelsat innovation for years to come.     -  We emphasize personal and professional growth   \n  -  Awesome benefits including PTO, medical, tuition reimbursement, and training   \n  -  Fun, diverse, and inclusive culture      \nAbout Us      We\u2019re Intelsat Inflight, the inflight internet company. We believe the internet should do everything it does on the ground, in the sky. Our worldwide inflight Wi-Fi services have made internet and video entertainment a regular part of flying. We are a diverse and mission-minded group of professionals all working together in extraordinary harmony. We connect the aviation industry and air travelers with innovative technology and applications, and we do it all in a high-energy environment that welcomes the next challenge. Be prepared to join a performance-obsessed team that is passionate about bringing the internet to every device, every flight, everywhere.      Other Job Info     -  These statements are intended to describe the general nature and level of work being performed by employees assigned to this job. This is not intended to be an exhaustive list of all responsibilities, duties, and skills required of employees assigned to this job.   \n  -  These statements are intended to describe the general nature and level of work being performed by employees assigned to this job. This is not intended to be an exhaustive list of all responsibilities, duties, and skills required of employees assigned to this job.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T01:47:54.000Z"
+    },
+    "company": {
+        "name": "Intelsat",
+        "link": "https://www.linkedin.com/company/intelsat"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Chicago",
+        "region": "IL",
+        "postal_code": "60606",
+        "street_address": null,
+        "latitude": 41.881664,
+        "longitude": -87.63681
+    }
+}

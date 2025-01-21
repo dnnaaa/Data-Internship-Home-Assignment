@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "Data ScientistLocation: Bellevue, WA (mostly remote work)Contract: 10 month contract with potential to extendBenefits: 3 weeks of PTO annuallyPay Rate: $50/hr on W2   DRI tickets (10-25 a week) & Experimentation support  - Respond to tickets, flag if need to be raised to EXP or guide teams. Typical issues.   \n  - Debug why scorecards aren\u2019t running/ late, build interesting slices etc.   \n  - How to analyze a scorecard (needs ramp up with DS/Dev)   \n   Experimentation health  - Build back P0 (auto shut down) reporting - no reports today to see scorecard delays.   \n  - Metrics and templates clean up to reduce load on COSMOS where unnecessary   \n  - Make sure metrics have updated descriptions   \n  - Monitor and remove certain repeat scorecards as needed    \n  - Triage new metric additions / MG changes to follow best practices (description, use cache) etc. (include DS/Dev)   \n   Dashboard  - Monitor platform experimentation health   \n  - Ensure updates are done at least weekly for syncs   \n  - Updates to dashboard for new data   \n   Experiment program  - Arrange and or share exp brownbags and remind / rally folks experiments   \n  - Maintain a FAQs / Wiki   \n   Communication  - Share monthly updates on health, top changes, top asks, top questions (offline or office hrs)   \n  - Share live sites via emails / banners   \n  - Update banners in exp or tools etc.   \n  - Update or follow up on tooling messages to give self-serve directions -&amp;gt; propose fixes/solutions.   \n  - Office hours support - Host it, Pull experts, Gather questions and follow ups, answer frequent ones   \n   Required Qualification  - SQL, Python, basic coding/scripting skills   \n  - Dashboarding - PowerBI or Tableau   \n  - Excellent communication and partnerships skills   \n  - Problem solving skills   \n  - 6mo+ A/B Experimentation & Testing   \n  - Data Science experience   \n   Preferred Qualification  - Operations or Technical support handling experience   \n  - C family language programming experience   \n  - MS data stack experience like Cosmos/SCOPE",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-26T17:01:46.000Z"
+    },
+    "company": {
+        "name": "Apex Systems",
+        "link": "https://www.linkedin.com/company/apex-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Bellevue",
+        "region": "WA",
+        "postal_code": "98007",
+        "street_address": null,
+        "latitude": 47.6137,
+        "longitude": -122.19093
+    }
+}

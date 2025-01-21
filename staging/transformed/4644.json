@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Computer Software,Banking,Computer &amp; Network Security",
+        "description": "We are searching for a quality C# developer to develop code and .NET solutions for our business. In this role, you will be required to design, write, and maintain C# coding for our future and ongoing projects. You will also be required to contribute to design and planning sessions as well as formulate approaches for current coding tasks.To ensure success as a C# developer you must have an excellent grasp of C# and the .NET framework, prolific coding abilities, and be able to problem-solve on a daily basis. A top-quality C# developer will be able to perform full-stack development as well as handle the creation, maintenance, and further development of .NET applications and programs.   C# Developer Responsibilities:  - Developing C# .NET solutions for the organization.   \n  - Creating in-house applications using the .NET framework.   \n  - Debugging and maintaining written code.   \n  - Defining and organizing projects on an ongoing basis.   \n  - Reporting and resolving issues related to .NET projects.   \n  - Identifying and handling technical risks and issues.   \n  - Working in a project team alongside other developers.   \n  - Providing technical support to stakeholders in the organization.   \n  - Reporting on project statuses and developments to senior team members.   \n  - Participating in project meetings with management and other team members.   \n   C# Developer Requirements:  - A bachelor's degree in computer programming, computer science, or information technology.   \n  - C#, .NET 3.5 (or higher), and Microsoft Visual Studio certification and experience.   \n  - A minimum of 2 years of experience as a C# programmer or developer.   \n  - Knowledge of other coding-languages (PHP, C+, Java, etc).   \n  - Ability to write clean, easy to understand code.   \n  - Outstanding analytical and problem-solving capabilities.   \n  - Excellent written and verbal communication skills.   \n  - Ability to work independently and complete projects with minimal supervision.   \n  - Sound understanding of coding and development processes.   \n  - Experience with working in an agile environment.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-20T00:02:51.000Z"
+    },
+    "company": {
+        "name": "Applied Resource Group",
+        "link": "https://www.linkedin.com/company/applied-resource-group"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Alpharetta",
+        "region": "GA",
+        "postal_code": "30022",
+        "street_address": null,
+        "latitude": 34.075615,
+        "longitude": -84.29455
+    }
+}

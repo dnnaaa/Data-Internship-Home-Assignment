@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Engineer",
+        "industry": "",
+        "description": "We are seeking a Senior Data Engineer to help us build our highly programmable and scalable data pipelines from the ground up using public cloud infrastructure and services. Your position requires hands-on development and data schema modeling while collaborating closely with the team in driving the critical technical decisions and infrastructure needed to launch, support, and ramp the product in a fast-paced environment. You are a thinker-doer who can think broadly. Still, deep dive into details, align with product management on requirements and priorities towards producing a best-in-class product experience and help shape the team culture.   Recommended Skills  - Extensive background in CS, or equivalent experience   \n  - A deep understanding of Cloud data warehouses/lakes, relational databases, distributed systems, Massively Parallel Processing (MPP) databases, and No-SQL databases.&amp;nbsp;   \n  - Experience developing and optimizing large-scale batch and real-time data pipelines.   \n  - Able to build robust, reliable, and scalable data infrastructure.   \n  - Demonstrated ability to architect and implement data pipelines and data models.   \n  - An analytics mindset to analyze large data sets to identify gaps and inconsistencies, provide data insights, and advance effective product solutions.   \n  - Experience performing in ETL with a combination of SQL and python.&amp;nbsp;   \n  - Shipped products and worked across teams.   \n  - Excellent communication skills, both written and verbal   \n   Benefits  - MacBook Air/Pro   \n  - Vision, dental, and medical plan choices   \n  - Flexible working hours   \n  - Competitive salary & 401(K)   \n  - Flexible/Personal Time Off   \n  - Employee Stock Purchase Plans, and other financial benefits   \n  - Paid Holidays",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T01:12:25.000Z"
+    },
+    "company": {
+        "name": "Immersa",
+        "link": "https://www.linkedin.com/company/immersaco"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Palo Alto",
+        "region": "CA",
+        "postal_code": "94310",
+        "street_address": null,
+        "latitude": 37.445103,
+        "longitude": -122.16036
+    }
+}

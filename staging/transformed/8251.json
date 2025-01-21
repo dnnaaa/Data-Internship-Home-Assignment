@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "Senior Software Engineer (Site Reliability)   Who are we?We are America's Workforce Specialists. The largest light industrial staffing company in the United States and a preeminent resource for professional staffing. We offer local expertise and service through our nearly 600 branches and provide a full range of employment solutions to companies nationwide!What are we looking for?Our Corporate office is looking for a Senior Software Engineer to join our remote platform engineering team. You will be developing core frameworks, components, and services that will be the foundational pieces for our suite of applications. We are a dynamic team of various skillsets and need someone who has a background in Database administration or Security. This position is 100% remote; the ideal candidate will be based in the Central or Eastern time zone.Primary Responsibilities:  - Design, develop, and maintain infrastructure components that will be used to build out our AWS cloud infrastructure environments for software engineering teams   \n  - Developing reusable Terraform modules that are secured in GitHub source control   \n  - Build into and enhance the continuous integration / continuous delivery pipelines   \n  - Conduct infrastructure reviews using the AWS Well Architected Tool   \n  - Exhibit a leadership style and be a force multiplier that helps to grow others around the organization   \n  - Evaluate and integrate application tools into our application ecosystem: Examples: Logging, Monitoring, Feature Toggling, Static Code Analysis, Testing, Secrets Management, Artifact Repository, etc.   \n  - Be a collaborative team player working on an agile scrum team   \n  - A curiosity to understand the inner workings of our systems and a focus on continuous improvement of our applications and services to ensure the highest level of customer satisfaction   \n  - Participate in agile scrum activities and ceremonies   \n  - Provide production support for infrastructure and tooling issues that may arise during business hours   \n Requirements:  - Specific expertise in one of the following areas: Database Administration or Security   \n  - Solid experience with Terraform   \n  - A passion for technology and providing innovative ideas to help the company be a standout engineering organization in the staffing industry   \n  - Bachelor's Degree in Computer Science, Computer Engineering or related technical experience   \n  - 5+ years of relevant, hands-on software engineering experience   \n  - Experience working on enterprise-level applications   \n  - Experience with the application build process and integration and deployments to on-prem and cloud environments like AWS   \n  - Experience building core components and services for alerting, monitoring, logging, builds, deployments, authentication, authorization, and many more   \n  - Ability to work in a team environment independently, pairing, and possibly doing mob programming   \n  - Experience evaluating and implementing best practices tools and techniques for software development, leading code reviews, and coaching/mentoring engineers   \n  - Experience supporting AWS production environments   \n Pluses:  - Cloud certification in AWS   \n  - Administering managed database services in AWS   \n  - Familiar with security tooling from Palo Alto \u2013 Prima Cloud, Cortex XDR, Panorama   \n  - Experience with Configuration Management tools such as Ansible   \n  - Experience with CI/CD tools such as Github Retrieve, Jenkins or Gitlab   \n  EmployBridge offers a competitive benefits package, which includes: comprehensive Health coverage including Medical/Dental/Vision and prescription drug benefits, 401(k), paid time off and holidays, flexible spending accounts, and a wellness program.EmployBridge is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-15T14:46:54.000Z"
+    },
+    "company": {
+        "name": "EmployBridge",
+        "link": "https://www.linkedin.com/company/employbridge"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

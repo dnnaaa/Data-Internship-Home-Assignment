@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Sr Data Engineer",
+        "industry": "Airlines/Aviation",
+        "description": "Job Responsibilities        - Work closely with source data application teams and product owners to design, implement and support analytics solutions that provide insights to make better decisions   \n  - Implement data migration and data engineering solutions using Azure products and services: (Azure Data Lake Storage, Azure Data Factory, Azure Functions, Event Hub, Azure Stream Analytics, Azure Databricks, etc.) and traditional data warehouse tools.   \n  - Perform multiple aspects involved in the development lifecycle - design, cloud engineering (Infrastructure, network, security, and administration), ingestion, preparation, data modeling, testing, CICD pipelines, performance tuning, deployments, consumption, BI, alerting, prod support.   \n  - Provide technical leadership and collaborate within a team environment as well as work independently.   \n  - Be a part of a DevOps team that completely owns and supports their product   \n  - Implement batch and streaming data pipelines using cloud technologies   \n  - Leads development of coding standards, best practices and privacy and security guidelines.   \n  - Mentors others on technical and domain skills to create multi-functional teams   \n    Minimum Qualifications- Education & Prior Job Experience        - Bachelor's degree in Computer Science, Computer Engineering, Technology, Information Systems (CIS/MIS), Engineering or related technical discipline, or equivalent experience/training   \n  - 3+ years software solution development using agile, DevOps, operating in a product model that includes designing, developing, and implementing large-scale applications or data engineering solutions   \n  - 3+ years data analytics experience using SQL   \n  - 2 years of cloud development and data lake experience (prefer Microsoft Azure) including Azure EventHub, Azure Data Factory, Azure Databricks, Azure DevOps, Azure Blob Storage, Azure Data Lake, Azure Power Apps and Power BI.   \n  - Combination of Development, Administration & Support experience in several of the following tools/platforms required:   - Scripting: Python, Spark, Unix, SQL   \n  - Data Platforms: Teradata, Cassandra, MongoDB, Oracle, SQL Server, ADLS, Snowflake, Azure Data Explorer. Administration skills a plus   \n  - Azure Cloud Technologies: Azure Data Factory, Azure Databricks, Azure Blob Storage, Azure Data Lake, Azure Power Apps and Azure Functions   \n  - CI/CD: GitHub, Jenkins, Azure DevOps, Terraform   \n  - BI Analytics Tool Stack - Cognos, Tableau, Power BI, Alteryx, Denodo, and Grafana   \n  - Data Warehousing: DataStage, Informatica   \n  - Data Governance and Privacy: Informatica Axon and EDC, BigID   \n   \n    Preferred Qualifications- Education & Prior Job Experience        - 5+ years software solution development using agile, dev ops, product model that includes designing, developing, and implementing large-scale applications or data engineering solutions.   \n  - 5+ years data analytics experience using SQL   \n  - 3+ years full-stack development experience, preferably in Azure   \n  - 3+ years of cloud development and data lake experience (prefer Microsoft Azure) including Azure EventHub, Azure Data Factory, Azure Functions, ADX, ASA, Azure Databricks, Azure DevOps, Azure Blob Storage, Azure Data Lake, Azure Power Apps and Power BI.   \n  - Airline Industry Experience   \n    Skills, Licenses & Certifications        - Expertise with the Azure Technology stack for data management, data ingestion, capture, processing, curation and creating consumption layers.   \n  - Expertise in providing practical direction within the Azure Native cloud services.   \n  - Azure Development Track Certification (preferred)   \n  - Spark Certification (preferred)   \n    7153",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-25T17:22:51.000Z"
+    },
+    "company": {
+        "name": "Ntelicor",
+        "link": "https://www.linkedin.com/company/ntelicor"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fort Worth",
+        "region": "TX",
+        "postal_code": "76116",
+        "street_address": null,
+        "latitude": 32.749905,
+        "longitude": -97.33034
+    }
+}

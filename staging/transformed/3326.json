@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Site Reliability&amp;nbsp;Engineer&amp;nbsp;Excellent opportunity to be part of this high growth business unit transforming on premise applications to Google Cloud Platform.&amp;nbsp;&amp;nbsp;You will work with a dedicated team to design, configure, deploy, and support enterprise applications to GCP in a large, data intensive environment.&amp;nbsp;&amp;nbsp;RESPONSIBILITIES:&amp;nbsp;  - Work with business and IT team to transform enterprise applications from on prem to GCP   \n  - Design, configure, deploy, and triage applications into production   \n  - Code deployment utilizing terraform   \n  - CI/CD&amp;nbsp;   \n  - Write scripts, performance monitoring   \n  - Support and on call duties&amp;nbsp;   \n  - Document new processes   \n   This is an excellent 6+ month contract opportunity working with&amp;nbsp;a high growth business unit as they transform to GCP. Outstanding opportunity to learn and grow your skills in a team that is seeking innovation in product and technology. Potential for conversion to full time employment. Ideally in Saint Louis or Atlanta but you can work 100% remotely.&amp;nbsp;&amp;nbsp;REQUIRED SKILLS:  - 5+ years as an SRE - Site Reliability Engineer&amp;nbsp;   \n  - GCP - 1 year - experience deploying code to cloud platforms   \n  - Experience deploying/supporting .Net/C# applications&amp;nbsp;   \n  - Windows&amp;nbsp;and related scripting skills in PowerShell, Python, or Bash   \n  - Knowledge of CI/CD, Jenkins pipelines   \n  - Excellent troubleshooting skills and a problem-solver mindset   \n&amp;nbsp;&amp;nbsp;PREFERRED SKILLS:  - Kubernetes - certifications&amp;nbsp;   \n  - GKE&amp;nbsp;   \n  - AppDynamics&amp;nbsp;&amp;nbsp;   \n&amp;nbsp;",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-10T15:15:22.000Z"
+    },
+    "company": {
+        "name": "Visionaire Partners",
+        "link": "https://www.linkedin.com/company/visionaire-partners"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

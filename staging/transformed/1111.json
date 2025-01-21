@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer II",
+        "industry": "Electrical/Electronic Manufacturing,Mechanical or Industrial Engineering,Medical Devices",
+        "description": "Job Description       JOB SUMMARY:      At Midmark Digital Diagnostics, we develop ECG, spirometry, and vital sign devices used by physicians and nurses. We are now looking for a talented senior software developer who wants to help us deliver great medical software. We build applications that interface with diagnostic devices and connect to a wide variety of healthcare systems. We are using .NET, C#, as well as Angular and Typescript. We work in cross-functional teams and we like agile, continuous delivery and automation.      We are now looking for a talented software developer that can help us take software development to the next level.      ESSENTIAL/PRIMARY DUTIES:      -  Architect, design, implement and unit test new medical device software applications.    \n   -  Maintain, support, debug, enhance, and refactor existing software applications.    \n   -  Analyze, prototype, and estimate new product features.    \n   -  Work in cross-functional teams with other software developers, test automation engineers and firmware engineers.    \n   -  Create and update software documentation (specifications and design documentation).    \n    EDUCATION and/or EXPERIENCE:      Bachelor\u2019s degree in Computer Engineering or Computer Science, Electrical Engineering or related field required and 3 - 5 years of experience in a related field preferred .      COMPETENCY/SKILL REQUIREMENTS:        Primary       -    -  Experience with Microsoft programming languages and frameworks (C#, .NET, .NET Core, ASP.NET Web API, WPF).    \n   -  Experience of Test-Driven development (TDD) and good object-oriented design    \n   -  Experience with database development including, preferably SQL Server.    \n   -  Experience of front-end development using Javascript/Typescript and Angular.    \n   -  Excellent communication skills (verbal and written).    \n   -  Excellent problem-solving skills.    \n     \n    Secondary      -    -  Knowledge of FDA and ISO regulations for medical devices.    \n   -  Experience interfacing with electronics via USB, Bluetooth, and other network technologies.    \n   -  Knowledge of Azure.    \n   -  Experience of working with build automation and continuous delivery (CI/CD) using Azure DevOps, GitHub Actions, Jenkins or similar tools.    \n     \n        About Us       Midmark is the only clinical environment design and manufacturing company that enables a better care experience at the point of care in medical, dental and animal health. By harmonizing space, technologies and workflows, we enhance interactions between patients and caregivers resulting in more efficient care and better outcomes. By living our corporate values, our 2,000 teammates worldwide make this possible.      EO/AA Employer Minorities/Females/Protected Veterans/Disabled",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T02:10:50.000Z"
+    },
+    "company": {
+        "name": "Midmark Corporation",
+        "link": "https://www.linkedin.com/company/midmark-corporation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Torrance",
+        "region": "CA",
+        "postal_code": "90506",
+        "street_address": null,
+        "latitude": 33.83633,
+        "longitude": -118.340034
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "Olio Apps is looking for our next software engineer! We are a small but talented group of full stack developers focused on meeting and exceeding our customer\u2019s&amp;nbsp;expectations when it comes to delivering their mission critical projects. Those run the gamut of web apps, native mobile apps, web service backends, and experimental prototypes.   If you are a great communicator, love honing your technical skills, and enjoy building software that people will rely on in their daily lives \u2014 we\u2019d love to hear from you!   Responsibilities  - Analyze requirements and mock-ups to create actionable, estimated ticket work items   \n  - Create technical designs encompassing the algorithms, patterns, and tools needed to accomplish the tasks at hand   \n  - Build reusable components, and aggregate those building blocks into features   \n  - Write unit tests and integration tests to ensure quality of work   \n  - Participate within a highly collaborative agile software development lifecycle   \n  - Create and receive high quality pull requests which enhances the overall quality of the engineering team   \n&amp;nbsp;Qualifications  - Bachelor's degree in computer science or software engineering; or equivalent experience   \n  - Effective and proactive communicator, with a strong growth mindset   \n  - Demonstrated experience in React Native   \n  - High proficiency with Typescript and Javascript   \n  - Proficiency in using modern web development technologies and techniques, including AJAX, HTML5, CSS, Responsive Design, web services   \n  - 3+ years of experience in active software project development   \n  - 2+ years working with React / React Native   \n  - 2+ years experience with Redux, Redux Saga, or equivalents&amp;nbsp;   \n  - 1+ years experience working with either Go, Java, Swift, Objective C, or Python   \n  - 1+ years experience in building web services and API backends   \n   Employment Type  - Full Time",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T19:20:50.000Z"
+    },
+    "company": {
+        "name": "Olio Apps",
+        "link": "https://www.linkedin.com/company/olioapps"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Portland",
+        "region": "OR",
+        "postal_code": "97268",
+        "street_address": null,
+        "latitude": 45.516018,
+        "longitude": -122.68143
+    }
+}

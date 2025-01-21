@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Airlines/Aviation,Information Technology and Services,Computer Software",
+        "description": "That Means You Will      As a Site Reliability Engineer, you will join a team of passionate developers and testers to design, develop, test, and integrate applications of high complexity. We operate in a collaborative, open environment focused on using Agile development techniques to autonomously deliver solutions quickly and effectively.     - Develop and support high-quality API centric software solutions   \n  - Drive, influence, and support API quality standards   \n  - Provide technical leadership and coaching to junior team members   \n  - Establish a culture of software craftsmanship best practices, including Test Driving/Automation, Continuous Integration, and Continuous Deployment   \n  - Engage in Agile software development activities, including sprint planning, daily standups, retrospectives, and hackathons   \n  - Interface regularly with customers to ensure technical solutions are meeting needs   \n  - Collaborate with other teams to drive alignment on product requirements and resulting development execution plans   \n  - Collaborate with Architecture and Product Leads to drive product and technology roadmaps   \n  -  7 or more years of experience in Java application development    \n  -  3 or more years of experience developing with RESTful web services    \n  -  3 or more years of experience with SQL or NoSQL DBMSs    \n  -  5 or more years of experience in roles that required strong interpersonal communication and collaboration skills    \n  -  5 or more years of experience in roles that required strong analytical and problem-solving skills    \n  -  3 or more years of demonstrated technical leadership skills    \n  -  2 or more years of experience with Agile and Extreme Programming (XP) software development practices like TDD    \n  -  Embraces diverse people, thinking and styles.    \n  -  Consistently makes safety and security, of self and others, the priority.    \n  -  Where permitted by applicable law, must have received or be willing to receive the COVID-19 vaccine by date of hire to be considered for U.S.-based job, if not currently employed by Delta Air Lines, Inc.    \n  -  Experience in the Airline domain    \n  -  Experience working with AWS and/or Redhat Openshift    \n  -  Experience with any of the following Agile development processes: Acceptance Test Driven Development, Continuous Integration, Test Automation, Pair Programming       \nEducation (or Equivalent Work Experience)     -  Bachelor's degree in a Computer Science/Engineering related discipline",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T22:09:51.000Z"
+    },
+    "company": {
+        "name": "Delta Air Lines",
+        "link": "https://www.linkedin.com/company/delta-air-lines"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 84,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

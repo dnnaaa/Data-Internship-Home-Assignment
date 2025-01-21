@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Site Reliability Engineers (SREs) are responsible for keeping all Elsevier production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our environments and the Elsevier's production codebases. SREs can specialize in systems, whether it be networking, the Linux kernel, or some more specific interest in containers, observability, scaling, algorithms, or distributed systems.     - Elsevier has a complex portfolio of products and services. We have a cloud native, microservices and&amp;nbsp;container platform strategy&amp;nbsp;which seeks to improve how we deliver quality software to customers at a higher pace. The experiences and expertise that our embedded and consulting SREs have can assist other engineering groups within the company, as well as to Elsevier customers running our software.   \n     - The SRE model is a specific implementation of DevOps, which has a more specific focus on innovation, application reliability and performance at scale. Fundamental to SRE is a software engineering approach to IT operations. SRE teams use software to manage systems, solve problems, and automate operations tasks.   \n   As an SRE you will:  - Partner with Product Owners&amp;nbsp;to agree availability targets that our customers value the most.   \n  - Document every action&amp;nbsp;so your findings turn into repeatable actions\u2013and then into automation.   \n  - Make monitoring and alerting alert on symptoms and not on outages.   \n  - Debug production issues across services and all levels of the stack including real user experience issues.   \n  - Be on a standby rotation to respond to availability incidents and provide support for Product teams with customer incidents.   \n  - Learn from your time on-call&amp;nbsp;to prevent incidents from ever happening.   \n  - Run our Infrastructure Platform with Terraform and Kubernetes.&amp;nbsp;   \n  - Use the Infrastructure Platform&amp;nbsp;to run your product&amp;nbsp;as a first resort and make suggestions to improve the platform as much as possible.   \n  - Improve the deployment process to make it as boring as possible.   \n  - Plan the growth of your product's infrastructure.   \n  - Design, build and maintain paved road modules that allows products to scale.   \n  - You may be a fit to this role if you have some of these inclinations   \n  - Share our&amp;nbsp;operating principles and work in accordance with those principles.   \n  - You see challenges from a business and customer perspective.   \n  - You view problems as an opportunity to improve.   \n  - That you are a&amp;nbsp;systems thinker&amp;nbsp;- with a deep understanding of&amp;nbsp;the whole and the parts, how products interconnect and feedback loops.   \n  - Involvement in hiring process - reviewing questionnaires, involved in interviews, qualifying candidates   \n  - Accountability, self awareness, handling conflict in the team and receiving feedback   \n  - Maintaining good relationships with other engineering teams in Elsevier that help improve their products",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T13:40:50.000Z"
+    },
+    "company": {
+        "name": "Elsevier",
+        "link": "https://nl.linkedin.com/company/elsevier"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

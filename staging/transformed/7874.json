@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Sr. Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "**C2C or Sponsorship is&amp;nbsp;NOT&amp;nbsp;available for this position**&amp;nbsp;   Job Title:&amp;nbsp;Sr. Site Reliability Engineer (SRE)Job Type:&amp;nbsp;Permanent/Direct HireJob Location:&amp;nbsp;Marietta, GA - The client is still working remote, but will eventually move to a hybrid work schedule. Candidates based in Atlanta are preferred.&amp;nbsp;Target years of Experience:&amp;nbsp;4+ years of engineering experience   Top 3-5 Skillsets:  - Experience with AWS (The client is migrating to AWS right now).   \n  - Senior level Linux administration experience&amp;nbsp;   \n  - Programming experience with Bash, Python, Ruby, Go, Java, or C/C++   \n  - Experience building CI/CD & deployment pipelines&amp;nbsp;   \n   Preferred:  - Kubernetes experience   \n   What this job is:Building automation of:  - Infrastructure   \n  - Configuration   \n  - Deployment of infrastructure   \n  - Build/Test/Deploy/Release of code   \n  - Maintain log shipping best practices, including tagging, tracing, alerting and analysis tools.   \n  - Maintain monitoring and observe of applications and systems.   \n  - Deploy and maintain healthy, performance, compliant platforms (Linux, dependencies, application servers, database).   \n  - Build and maintain pipelines for CI, CD and deployment.   \n  - Writing Infrastructure as code (Terraform)   \n   Tech Stack:&amp;nbsp;&amp;nbsp;Linux, Chef, Puppet, Terraform, Jenkins, AWS.   Team Dynamics:&amp;nbsp;Agile environment. TDD, Collaborative team environment.   **C2C or Sponsorship is Not available for this position**   Equal Opportunity Employer/Veterans/DisabledTo read our Candidate Privacy Information Statement, which explains how we will use your information, please visit https://www.modis.com/en-us/candidate-privacy/The Company will consider qualified applicants with arrest and conviction records.&amp;nbsp;&amp;nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-04T20:19:49.000Z"
+    },
+    "company": {
+        "name": "Modis",
+        "link": "https://ch.linkedin.com/company/modis"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Marietta",
+        "region": "GA",
+        "postal_code": "30066",
+        "street_address": null,
+        "latitude": 33.952305,
+        "longitude": -84.54905
+    }
+}

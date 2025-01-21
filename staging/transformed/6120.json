@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Staffing and Recruiting",
+        "description": "Essential Duties And Responsibilities     - Deploy and maintain infrastructure in both AWS and DataCenter.   \n  - Generate documentation and clear communication on projects from development to delivery.   \n  - Be responsible for AWS, DataCenter, Windows and Linux systems up time and performance.   \n  - Manage and maintain: Kubernetes, Docker, Chef, JFrog Artifactory.   \n  - Work closely with software engineers and tech leadership to drive projects.   \n  - Build and run production environments in AWS using Infrastructure as code methods.   \n  - Orchestrate environment development using Kubernetes, Terraform and/or Cloud Formation.   \n  - Build & Deploy CI pipeline automation to a combination of Kubernetes/Docker and VM based systems in both VMWare and AWS.   \n  - Work closely with System Architects, Engineers, Product Managers and System Administrators to meet their environment setup and service automation needs.   \n  - System monitoring & analytics.      \nRequired      Experience     - Bachelor\u2019s degree   \n  - Experience in system build configuration automation   \n  - 3+ years of experience in Linux.   \n  - 2+ years of experience building and maintaining a SaaS platform   \n  - 2+ years working experience with AWS: VPC, EC2, RDS, Cloudformation.      \nPreferred     - Experience using Terraform   \n  - Must be passionate about automation.   \n  - Experience with task management and tracking.   \n  - Professional experience in software engineering and development.   \n  - Scripting skills in one of Ruby/Bash/Python.   \n  - Build and release automation tools: Jenkins, GIT, Docker.   \n  - Production system integration, log collection and analysis, build and performance monitoring/tuning.   \n  - Design and implement availability, security and performance monitoring.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-26T05:52:02.000Z"
+    },
+    "company": {
+        "name": "Sayva Solutions",
+        "link": "https://www.linkedin.com/company/sayva-solutions"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Diego",
+        "region": "CA",
+        "postal_code": "92161",
+        "street_address": null,
+        "latitude": 32.71576,
+        "longitude": -117.16382
+    }
+}

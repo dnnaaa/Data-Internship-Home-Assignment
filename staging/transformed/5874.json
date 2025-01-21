@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Senior Data Engineer-Data Infrastructure   Serve Robotics seeks to a build data analytics platform which aims to improve delivery robots and drive business decisions. Data Infrastructure team is searching for an enthusiastic individual who could tackle complex technical challenges in data collection, transferring and processing at scale, and develop solutions which will run on robots and in the cloud.   What you'll be doing  - Design, implement, and improve the analytics platform.   \n  - Develop and maintain data tools and solutions (e.g., pipelines, models, tables) to acquire, process, and store data by ensuring the accessibility, reliability, and quality of data for end users.   \n  - Apply data modeling techniques to organize and transform data into meaningful and valuable output.   \n  - Understand the data needs of other teams and build cross-functional solutions in a collaborative work environment.   \n  - Drive ongoing efficiency and reliability improvements through design and automation: performance, scaling, observability, and monitoring.   \n   What makes you a strong fit  - Strong problem solving and coding skills in at least one of the following languages: Python/Java/Scala/Kotlin.   \n  - Expert level skills writing and optimizing complex SQL   \n  - Knowledge of data warehousing concepts   \n  - Experience in data mining, profiling, and analysis   \n  - Experience with complex data modeling, ETL design, and using large databases in a business environment   \n  - Experience with Big Data technologies such as GCP BigQuery/Dataflow, AWS Redshift, Spark or similar technologies   \n  - You are able and comfortable to communicate well, both verbally and in writing.   \n  - You are passionate about technology and enjoy collaborating, learning from or teaching others so we can all become better developers.   \n  - You value respectful and inclusive environments, and always want to do your best to help your team and strive to excellence.   \n   Bonus points  - Sound knowledge of distributed systems and data architecture - design and implement batch and stream data processing pipelines, knows how to optimize the distribution, partitioning, and MPP of high-level data structures.   \n  - Demonstrate efficiency in handling data - tracking data lineage, ensuring data quality, and improving discoverability of data.   \n  - Familiarly with different types of data serialization formats such as Parquet, Avro and Protobuf.   \n   About Serve RoboticsOver 40% of restaurant deliveries in the US are within 30 minutes walking distance, yet 90% of the time, we are moving two-pound burritos with two-ton cars!We are reimagining how things move in cities. Our personable sidewalk delivery robot, Serve, is a small, low-speed self-driving vehicle that\u2019s designed to take deliveries away from congested streets to save energy and reduce emissions, while making deliveries faster and cheaper.Having completed thousands of commercial deliveries for Postmates (now Uber) in Los Angeles and San Francisco, we recently spun out with backing from top tier investors to grow faster and target the entire sidewalk delivery market. Our commercial agreement with Uber provides us unlimited access to delivery jobs\u2014and thus revenue.  - We are proud to be an equal employment opportunity and affirmative action employer. Qualified applicants are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T17:38:29.000Z"
+    },
+    "company": {
+        "name": "Serve Robotics",
+        "link": "https://www.linkedin.com/company/serve-robotics"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

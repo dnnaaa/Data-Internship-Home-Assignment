@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Job Description: A) Responsibilities to include but not limited to the following.1) Understand business objectives and develop models that help to achieve them, along with metrics to track their progress. 2) Analyze ML Algorithms that could be used to solve a given problem and ranking them by their success probability. 3) Explore and visualize data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world.4) Verify data quality, and/or ensuring it via data cleaning. 5) Supervise the data acquisition process if more data is needed. 6) Define validation strategies and define the preprocessing or feature engineering to be done on a given dataset. 7) Define and built data augmentation pipelines. 8) Train models and tune their hyperparameters. 9) Analyze the errors of the model and designing strategies to overcome them.    B) Required Qualifications:   1) Proficiency with Machine Learning frameworks e.g., Tensorflow or Keras.2) Proficiency with Python libraries for machine learning such as scikit-learn and Pandas. 3) Expertise in visualizing and manipulating big data sets. 4) 3+ Years of industry experience in software engineering  development. 5) Ability to independently and creatively solve problems.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T01:11:13.000Z"
+    },
+    "company": {
+        "name": "Infogain",
+        "link": "https://www.linkedin.com/company/infogain"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Burlingame",
+        "region": "CA",
+        "postal_code": "94012",
+        "street_address": null,
+        "latitude": 37.584194,
+        "longitude": -122.366264
+    }
+}

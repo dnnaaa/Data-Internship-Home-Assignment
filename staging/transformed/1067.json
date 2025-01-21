@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineers (RoR)",
+        "industry": "",
+        "description": "SENIOR SOFTWARE ENGINEERs (RoR)&amp;nbsp;ZYMR Inc. has an immediate requirement to fulfill for our newest Customer.&amp;nbsp;The project involves working with a fast-growing, tier-1, pre-IPO Silicon Valley Energy startup that was established almost 10 years ago and has raised more than $100M in funding so far.   We are looking for experienced Ruby on Rails (Preferred), Django Platform Developers:   Responsibilities and Duties  - Write platform code, services, and components   \n  - Design & develop microservices for components   \n  - Responsible for design and implementation, test automation, and other SDLC activities.   \n  - Gather and analyze requirements and convert them into concrete technical tasks with effort estimates.   \n  - Cross-border project experience is a plus.   \n  - Perform code reviews, test case reviews to meet high-quality standards.   \n&amp;nbsp;Qualifications and Skills  - 6+ years building scalable applications with web frameworks like Ruby on Rails, Django, etc. (RoR preferred)   \n  - 6+ years experience with OOP design and building REST APIs   \n  - Proficient in designing microservices with containerization tools Docker and Kubernetes   \n  - Experience with UI frameworks like Angular or ReactJS   \n  - Strong background in Data Structures and Algorithms   \n  - Expert with Relational Databases, like MySQL or PostgreSQL   \n  - Experience with Web Services (REST)   \n  - Experience working in cloud environments, AWS preferred   \n  - Experience with SOA & Event-Driven Architecture.   \n  - Knowledge of Caching and Messaging technologies like Redis, RabbitMQ, Kafka.   \n  - Experience with Linux development and runtime environments   \n  - Experience with Agile / SCRUM methodology for product development (TDD, CI)   \n  - Education: Bachelor\u2019s in computer science or equivalent degree   \n  - 4+ years at any leading SaaS firm - experience with the energy domain a big plus.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-20T06:05:56.000Z"
+    },
+    "company": {
+        "name": "Zymr, Inc.",
+        "link": "https://www.linkedin.com/company/zymrinc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

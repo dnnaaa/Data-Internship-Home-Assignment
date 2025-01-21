@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer I",
+        "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+        "description": "Description      At Shutterfly, we\u2019re all about people \u2014 bringing them together, making them feel welcome, and connecting them to experiences. We make our customers\u2019 memories last a lifetime by capturing, preserving, and sharing them through photography and personalized products. Through our family of brands, trend setting products, cutting edge technology, and best in class customer service, we help our customers, and each other, share life\u2019s joy.      Position Summary      At Shutterfly we value results through teamwork and a \u201ccan-do\u201d attitude. We are seeking a Software Engineer (Full Stack) for our Fulfillment Service Platform. This is a critical individual contributor role for software development with enterprise level software technologies: Java/J2EE, REST Services, Front-end frameworks: Angular or React, NodeJS, MySQL and AWS.      We are looking for Software Engineers who enjoy solving complex problems, driving business value through rapid innovation and enjoy complete ownership (Cradle to Grave: Design, Dev, Infrastructure, Release, Support) of the assigned domain.      If you love the fun and excitement of working in an entrepreneurial, collaborative and agile software development environment with cutting-edge technologies then send us your resume today.      Responsibilities     - Design, development, test and deployment of highly scalable, high-reliability software: UI, services and back-end in a business-critical enterprise environment.   \n  - Work with Product leadership to clarify requirements, design technical solutions and develop complex features.   \n  - Partner across engineering teams to deliver functionality.   \n  - Collaborate with other developers to plan releases and ensure the team delivers on the committed plan.   \n  - Participate in design and code reviews across the team, adhering to software best practices.   \n  - Support and debug of critical transactions in the Shutterfly order processing flow. Work with stakeholders to address questions and unblock issues with Order Fulfillers   \n  - Perform scalability and performance analysis as needed.      \nSkills & Qualifications     - BS/MS in Computer Science or equivalent.   \n  - 1+ years academic or professional software development experience in enterprise technologies e.g.: Java, REST Services, Spring, Kubernetes, NodeJS, MySQL, XML, Go and AWS.   \n  - 1+ years of academic or professional experience developing effective APIs and REST services with understanding of server-side and middle-tier technologies, relational databases/SQL.   \n  - 1+ years of academic or professional experience with JavaScript, including concepts like asynchronous programming, closures, types, jQuery and ES6   \n  - 1+ years of academic or professional experience in UI development using modern frontend frameworks (Angular2+, React, Vue) and web markup, including HTML5, CSS3   \n  - Excellent design, coding and analytical skills.   \n  - Excellent problem-solving and software debug skills   \n  - Excellent communication and teamwork skills.      \nPreferred Qualifications     - Familiarity with Agile SDLC processes (Scrum, Kanban, XP).   \n  - Familiarity Micro services and Distributed architectures.   \n  - Ability to think at end-user level and act tactically.   \n  - Strong customer focus and \u201cowner\u201d mindset.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T13:29:38.000Z"
+    },
+    "company": {
+        "name": "Shutterfly, Inc.",
+        "link": "https://www.linkedin.com/company/shutterfly"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Tempe",
+        "region": "AZ",
+        "postal_code": "85280",
+        "street_address": null,
+        "latitude": 33.42552,
+        "longitude": -111.94125
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "What you\u2019ll do:  - Design, build, and maintain features and services across mabl\u2019s entire product surface   \n  - Work as part of a small, self-directed team to define, implement, test, and support solutions to high level product challenges   \n  - Collaborate closely with other engineers, product managers, and designers   \n  - Take responsibility for the quality and impact of your own contributions and those of your teammates   \n  - Debug production issues across services and multiple levels of the stack   \n  - Continually seek out and incorporate customer feedback into your work, including regularly joining customer calls   \n  - Participate in our on-call rotation   \n   What you\u2019ll bring to the table:  - You have experience as a developer working on the critical path of applications with meaningful production traffic   \n  - You have a high bar for quality of code and quality of user experience   \n  - You constantly learn, challenge assumptions, and ensure your work is providing high customer value   \n  - You are an effective communicator; we are a small team, and you will be involved in every aspect   \n  - You are happy to branch out and contribute wherever needed\u2014within your technical wheelhouse or otherwise   \n   Engineering at mabl:The Engineering team is driven by mabl\u2019s core values: drive, insight, support, and authenticity. Working closely with our users and the rest of the product team, the Engineering team builds and supports the cloud-native service that enables our customers to create, manage, and run end-to-end tests running on a scalable infrastructure.&amp;nbsp;   We value small, self-organizing teams that are empowered to make decisions and quickly solve problems. We strive to deliver the best experience to our customers and prospects. While our primary job is to build quality software through rigorous engineering practice, mabl engineers engage in all phases of product development.Here is a sample of the technologies and toolsets that we use:   LanguagesTypeScript, Java, JavaScript, Python, Node.js   Front endReact + Redux   Cloud PlatformGoogle   Machine LearningTensorflow, ML Engine   Data AnalysisBigQuery, DataFlow, Spanner   ComputeContainer Engine, Cloud Functions, App Engine, Cloud Run   Source ControlGitHub   Continuous IntegrationGitHub Actions&amp;nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-11T15:19:41.000Z"
+    },
+    "company": {
+        "name": "mabl",
+        "link": "https://www.linkedin.com/company/mabl"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Boston",
+        "region": null,
+        "postal_code": "02119",
+        "street_address": null,
+        "latitude": 42.36041,
+        "longitude": -71.05798
+    }
+}

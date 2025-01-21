@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Electrical/Electronic Manufacturing,Construction,Mechanical or Industrial Engineering",
+        "description": "Job Summary      Randstad is seeking a Software Engineer with experience in Aerospace or the Automotive industry to support the Embedded development of a state-of-the-art alternative fuel Aircraft Propulsion System. You will work with a diverse international team and head up the design and development of the Control Systems. Your work will truly revolutionize air transportation across North America and Europe.      location: Everett, Washington   job type: Permanent   salary: $135,000 - 145,000 per year   work hours: 8am to 4pm   education: Bachelors      Responsibilities      - Select appropriate HW/SW platforms and architectures to achieve real-time data acquisition and control of complex systems including Propulsion system, power management, and safety features   \n  - Develop embedded code to perform system telemetry and control for these complex systems in real-time (&amp;lt; microseconds)   \n  - Develop assorted software for a variety of subsystem test stands   \n  - Develop database and post processing software to support system troubleshooting, development and analysis   \n  - Be able and willing to build or adapt new software development environments as needed.   \n  - Create graphical user interfaces for real time system telemetry and control panels   \n  - Maintain high quality documentation of code base and architectures   \n  - Help build our software engineering team as we grow         \nRequirements      - Demonstrated self-starter / learning related to software and firmware   \n  - Experience with relevant computer programming languages such as C/C++, Python   \n  - Hands-on experience coding and testing prototype systems   \n  - Ability to plan projects and be accountable for deliverables & schedules   \n  - Proficiency in DO178C or ISO 26262 and applicable standard for Software Life Cycle   \n  - Proficiency in multi-application, multi-layer design , verification and implementation   \n  - Experience in Software in the loop and Hardware in the loop   \n  - Emphasis on real time high bandwidth control system theory, design, and implementation   \n  - Serial digital communication knowledge (UART, I2C, CAN, SPI)   \n  - Hands on experience with measurement and test equipment (oscilloscopes, DAQ's, etc)   \n  - Circuit design and PCB layout for mixed power/signal applications   \n  - Application/GUI programming   \n  - Experience with version control systems   \n  - Altium experience         \nQualifications      - Experience level: Experienced   \n  - Minimum 5 years of experience   \n  - Education: Bachelors (required)         \nSkills     - Embedded Software Full Lifecycle         \nEqual Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-20T06:12:35.000Z"
+    },
+    "company": {
+        "name": "Randstad USA",
+        "link": "https://www.linkedin.com/company/randstadusa"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Everett",
+        "region": "WA",
+        "postal_code": "98201",
+        "street_address": null,
+        "latitude": 47.97913,
+        "longitude": -122.19589
+    }
+}

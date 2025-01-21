@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer (Remote)",
+        "industry": "Consumer Goods,Banking,Financial Services",
+        "description": "About Us      Since 2018, HMBradley has been reshaping the consumer banking experience through transparent financial products that adapt with the customers\u2019 needs over time. We see ourselves as our customers\u2019 long-term financial partner \u2013 their trusted resource in getting rich slowly.      In the past year, we\u2019ve raised a $18.25 million Series A and were recognized by Business Insider as one of the best high yield checking accounts of 2021 \u2013 and we are just getting started! We\u2019re ready to bring on more curious, customer-centric collaborators to challenge the status quo and implement disruptive ideas.      Here at HMBradley we are energized by bringing our bold ideas to life and maintain the mindset that even small wins are progress and should be celebrated. We are deeply invested in empowering our team to do great things, and have a lot of fun while doing so. If this sounds exciting to you, and you want to help build financial products people will actually want to use, we\u2019d love to have you join us!      Some Of The Things You\u2019ll Get At HMBradley      Impact: Because we\u2019re a small team (for now) and an early stage startup, each new hire has an outsized impact on the company, culture, and product.      Geographic flexibility: We started with our headquarters in Santa Monica, CA, but nowadays our team works from almost anywhere.      Competitive perks: More on that below, but we have all the good stuff.      Job Overview      The Site Reliability Engineer will report to the VP of Engineering and will be responsible for developing and maintaining the company's infrastructure, proactively researching for improvements and always targeting the highest standards of security. They will be working closely with the engineering and data science teams, assisting them achieve their goals and swiftly responding to any business-critical matters as they ar     - Joining on-call rotations and troubleshooting incidents in production.   \n  - Helping our engineers ship faster, reliably and with minimum disruption.   \n  - Implementing access control policies for different systems.   \n  - Cybersecurity due diligence.      \nQualifications      Required:     - Minimum of 2 years experience working as a DevOps or Site Reliability Engineer.   \n  - Solid understanding of operating systems and networking.   \n  - Experience working with AWS or other well known cloud providers.   \n  - Experience working in containerized environments.   \n  - Hands-on experience with Linux and Bash scripting.         \nPreferred     - Bachelor's degree in Computer Science, Computer Engineering or related field.   \n  - Experience with Kubernetes and cloud native technologies.   \n  - Experience with centralized logging and monitoring systems.   \n  - Experience with continuous integration and continuous delivery systems.   \n  - Experience with infrastructure as code such as Terraform.   \n  - Experience managing production environments.      \nExperience/Certifications      What we offer to you:     - Competitive compensation, including equity   \n  - 100% company paid health, vision, and dental coverage for employees   \n  - Leave benefits, 401K   \n  - Geographic flexibility   \n  - Regardless of location -- a dynamic, fun and fast paced work environment!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-28T04:24:04.000Z"
+    },
+    "company": {
+        "name": "HMBradley",
+        "link": "https://www.linkedin.com/company/hmbradley"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Santa Monica",
+        "region": "CA",
+        "postal_code": "90403",
+        "street_address": null,
+        "latitude": 34.010933,
+        "longitude": -118.491516
+    }
+}

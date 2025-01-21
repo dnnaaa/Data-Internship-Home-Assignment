@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Analyst, ICQA",
+        "industry": "Information Technology and Services,Retail,Financial Services",
+        "description": "Description      ESSENTIAL JOB DUTIES AND RESPONSIBILITIES*        - Effectively identify and communicate analytical findings and trends to drive business changes that improve the customer experience and journey.   \n  - Data validation, mining, and discovery.   \n  - Perform ad-hoc analysis and provide business leaders actionable insights as needed.   \n  - Write SQL queries.   \n  - Creation of reports and dashboards utilizing Excel and Power Bi.   \n  - Collaborate with the BI team to support reporting efforts for the ICQA team.   \n  - Identify and define KPIs.         \nBASIC AND PREFERRED QUALIFICATIONS (EDUCATION And/or EXPERIENCE)        - Bachelor\u2019s degree in Computer Science, IT, Information Systems, Math, Statistics, or quantitative discipline with 2+ years of professional experience in Analytics/Business Intelligence.   \n  - Experience in inventory control or fulfillment centers a plus.   \n  - Experience working with complex data in large corporate environment a plus.   \n  - A self-starter mentality and ability to operate within a fast-paced and ambiguous environment.   \n  - Data visualization tools such as Power BI, Tableau, and SQL.   \n  - Proficiency in SQL query building and report writing.   \n  - Strong SQL knowledge including but not limited to; complex queries, CTEs, temp tables, stored procedures, cursors.   \n  - Advanced in MS Excel including VLOOKUPs, pivot tables, charts, Power Query, index matches",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-31T00:00:51.000Z"
+    },
+    "company": {
+        "name": "GameStop",
+        "link": "https://www.linkedin.com/company/gamestop"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Grapevine",
+        "region": "TX",
+        "postal_code": "76051",
+        "street_address": null,
+        "latitude": 32.93656,
+        "longitude": -97.0867
+    }
+}

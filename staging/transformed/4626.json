@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Minimum qualifications:  - Bachelor's degree in Computer Science, a related technical field involving software/systems engineering, or equivalent practical experience.   \n  - Experience programming in at least one of the following languages: Java, Python, or Go.   \n  - Experience with algorithms and data structures.   \n  - Experience in working in a 24/7 team managing large data centers   \n  - Problem Management - populate in participate in (Root Cause Analyses (RCAs) and hand them off to the Global Solutions team   \n  - Incident management - Act in key response roles during major incidents e.g. Sev0, Sev1.    \n   Job Requirements:  - Expertise in designing, analyzing, and troubleshooting large-scale distributed systems.   \n  - Ability to debug, optimize code, and automate routine tasks.   \n  - Systematic problem-solving approach, coupled with effective communication skills and a sense of drive.   \n  - Expertise related to DevOps engineering including version control systems (Git, SVN), automated build and testing (jenkins, vagrant), configuration management (e.g. Puppet, Chef, Ansible, etc)   \n  - Solid knowledge of the operating system networking stack, TCP and UDP, and network interface drivers   \n  - Track record of practical problem solving, excellent communication, and documentation skills   \n  - Strong experience in developing the microservices using Spring Boot.   \n  - Experience in building web applications using SPRING framework features like MVC (Model View Controller), AOP (Aspect Oriented Programming), DAO (Data Access Object), Spring Boot, Spring Security, Spring Batch.   \n  - Experience with monitoring tools such as nagios and log aggregation tools such as splunk   \n  - Experience in Docker orchestration and management.   \n  - Good knowledge of database connectivity (JDBC) for databases like Oracle, SQL Server, MySQL, MongoDB, NoSQL.   \n  - Experience with Kubernetes   \n  - Hands on experience configuring and managing Cloud services, using the CLI/SDKs   \n  - Experience with JVM optimization and Java server technologies like Tomcat or Jetty   \n  - Understanding of Unix/Linux operating systems.   \n  - &amp;nbsp;",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-18T19:53:01.000Z"
+    },
+    "company": {
+        "name": "Visionet Systems Inc.",
+        "link": "https://www.linkedin.com/company/visionet-systems-inc-"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Framingham",
+        "region": "MA",
+        "postal_code": "01703",
+        "street_address": null,
+        "latitude": 42.28156,
+        "longitude": -71.41882
+    }
+}

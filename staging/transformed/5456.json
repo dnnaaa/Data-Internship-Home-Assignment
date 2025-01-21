@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "Job Description      A Software Development company is looking for a Site Reliability Engineer to join their team on a full-time Direct Hire basis. You\u2019d be joining a team of unique problem solvers with a multitude of skills and perspectives. You\u2019ll be responsible for taking the lead on relevant projects while surrounded by people who will provide support and mentorship.      As a Site Reliability Engineer, you\u2019ll mainly be focused on running better production application and systems, creating a strict engineering discipline and utilizing software and systems to help find creative engineering solutions to operational problems.      Required Skills & Experience     - Azure and AWS   \n  - Azure DevOps   \n  - Scripting in either Java or Powershell   \n  - Terraform and ansible   \n  - Kubernetes      \nDesired Skills & Experience     - 5+ years of experience in an DevOps Environment.   \n  - Oracle   \n  - Springboot   \n  - Docker      \nThe Offer     - Competitive Salary: Up to $155K/year, DOE      \nYou Will Receive The Following Benefits     - health, dental, vision   \n  - 401(k)   \n  - Casual and Flexible Work Culture and Environment   \n  - Ability to work in a Tech-driven company      \nApplicants must be currently authorized to work in the United States on a full-time basis now and in the future.      Posted By: Connor Bowles",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-22T08:50:45.000Z"
+    },
+    "company": {
+        "name": "Motion Recruitment",
+        "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas",
+        "region": "TX",
+        "postal_code": "75342",
+        "street_address": null,
+        "latitude": 32.777977,
+        "longitude": -96.79621
+    }
+}

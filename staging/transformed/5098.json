@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Biotechnology",
+        "description": "Satellite Biosciences&amp;nbsp;is pioneering the development and implementation of proprietary, off-the-shelf, implantable satellite organs as living therapeutic solutions that can transform the lives of millions of patients who suffer from serious diseases.&amp;nbsp;&amp;nbsp;Building on 25 years of work in award-winning labs&amp;nbsp;at top academic institutions, the platform is supported by a strong IP portfolio and is backed by a top tier syndicate, led by Polaris Partners.   We are seeking an experienced, creative, and motivated&amp;nbsp;Data Scientist&amp;nbsp;to join our rapidly growing team. In this role you will contribute to the company\u2019s platform technology of engineered satellite organs. Specifically, you will contribute towards our efforts to characterize and optimize the satellite organs using data driven approaches and modeling techniques such as unsupervised and supervised machine learning.   This role is a unique opportunity to join an early-stage, well-funded Biotech startup. You will report directly to our Senior Data Scientist. The position is full time and offers flexibility for working remotely.   Responsibilities:  - Wrangle data of multi-omic datasets and images in preparation for algorithm development and machine learning   \n  - Evaluate open access databases of sequencing results for disease modeling   \n  - Develop 2D and 3D image analysis algorithms   \n  - Parse sequencing results and use unsupervised, semi-supervised, and machine learning techniques for outcomes prediction   \n  - Analyze peptide and nucleic acid sequence data sets   \n  - Manage cloud relational databases of analysis outputs (e.g., PostgreSQL)   \n  - Construct and optimize code for machine learning algorithms   \n  - Assist in using convolutional neural networks with and without transfer learning techniques to develop prediction algorithms.   \n  - Support running statistical hypothesis tests and generate power curves.   \n   Required Qualifications & Experience:&amp;nbsp;  - BS, MS, or PhD in a quantitative discipline   \n  - &amp;nbsp;0 to 5 years of experience in the biotechnology industry   \n  - Proficiency with Python or Julia   \n  - Competency with data wrangling from imaging and tabular data (e.g., pandas)   \n  - Experience with machine learning and at least one deep learning library (e.g., Tensorflow, PyTorch, MXNet, Flux) a plus.   \n  - Understanding of statistical hypothesis testing with multi-factor and multi-level datasets a plus.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;   \n  - Experience with at least one of the following:   \n         Imaging analysis and algorithm development         RNA-Seq datasets and analysis         Machine learning and convolutional neural networks         Histology images  - Experience preferred but not required: Linux and Git AWS or other cloud computing platforms   \n  - Possesses&amp;nbsp;documentation skills and attention to detail.   \n  - &amp;nbsp;Excellent communication, presentation, collaboration, time-management, and organizational skills are required.&amp;nbsp;&amp;nbsp;   \n  - The successful candidate will be an ambitious self-starter, have a strong work ethic, be able to generate high quality work under tight deadlines, and enjoy working in a fast-paced team environment.&amp;nbsp;&amp;nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T18:46:12.000Z"
+    },
+    "company": {
+        "name": "Satellite Bio",
+        "link": "https://www.linkedin.com/company/satellite-bio"
+    },
+    "education": {
+        "required_credential": null
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cambridge",
+        "region": "MA",
+        "postal_code": "02239",
+        "street_address": null,
+        "latitude": 42.36525,
+        "longitude": -71.10502
+    }
+}

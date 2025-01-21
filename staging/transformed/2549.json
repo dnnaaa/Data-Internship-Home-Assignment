@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "Software Engineer (Full Stack) - Pareto Portfolio Company   What you\u2019ll do  - Full stack web/mobile application development with a variety of coding languages.   \n  - Work closely with Product Manager to define feature specifications and build products leveraging frameworks such as React & React Native.   \n  - Create engaging UIs using performant and modern React.   \n   Required skills  - Bachelors in computer science or equivalent.   \n  - You produce readable, high quality code.   \n  - Highly technical with strong hands-on coding skills.   \n  - Fluent in at least one backend web framework.   \n  - Experience with React or a similar framework.   \n  - Comfortable with SQL.   \n  - You prize reliability, simplicity, and robustness in building out systems.   \n  - You communicate clearly and listen well.   \n  - You are a self-starter and comfortable taking on a variety of roles.   \n  - Have a startup mentality: team player, self-motivated, high-integrity, pragmatic, resourceful, can execute under pressure.   \n   Preferred Qualifications  - Masters in computer science or equivalent.   \n  - Prior knowledge of Graphql, Redis, Elasticsearch and React Native.   \n  - Prior experience with distributed systems and high-throughput services.   \n  - Knowledge of AWS or similar cloud services.   \n   Location  - San Francisco&amp;nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-05T17:48:41.000Z"
+    },
+    "company": {
+        "name": "Pareto Holdings",
+        "link": "https://www.linkedin.com/company/paretoholdings"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

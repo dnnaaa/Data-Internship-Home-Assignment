@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": " Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "Data Scientist - remote 43618   ONLY applicants:  US Citizens or Green Card holders    Data Scientist to join our global AI product support teamThis role will cover a wide range of responsibilities with plenty of variation from week to week.Responsibilities will include but are not limited to:  - Product development   \n  - Prototype new modeling methodologies for incorporation into our global suite   \n  - Work directly with our ML engineering team to identify issues and guide them on requirements   \n  - Write data pipelines / ETL for non-standard or new modeling use cases   \n  - Build new dashboards and reports to provide insights to clients on model performance and impact, leveraging our proprietary BI toolkit   \n  - Help document methodologies, tool usage and business logic   \n  - Client & user support   \n  - Support client implementation teams executing complex modeling tasks on our enterprise ML ops platform   \n  - Perform complex/custom data engineering where needed to support strategic clients   \n  - Train ML models for underwriting, targeting and other applications where needed   \n  - Testing & QA   \n  - Test new product features and algorithms and verify accurate implementation ahead of live release to our global client base   \n  - Implement bug-fixes and upgrades to Experian methodologies in credit-related business logic (e.g. Bureau Inferencing modifications etc.)   \nValuable skills include  - Highly proficient writing data processing code with at least one SQL dialect   \n  - Spark SQL experience desirable but not required   \n  - Comfortable using Python and Jupyter notebooks with common open source libraries for machine learning   \n  - MLlib, pytorch, sklearn, tensorflow all valuable   \n  - Understanding of credit risk modeling fundamentals   \n  - Strong communication skills - able to talk to business users to understand and articulate issues requirements, as well as more technical developer audiences   \n  - Strong data visualization skills - can present datasets to bring out insights & tell a story   \n  - Self-starter willing to solve problems and ask the right questions; growth mindset   \n  - Desirable: Familiarity with widely-used credit risk assessment tools like FICO Model Builder and SAS   \n  - Desirable: Understanding of the credit risk lifecycle from prospecting and acquisition to customer management and collections   \nWhat your background looks like  - Experience in modeling and/or data engineering in a Credit Risk institution. You will have worked at least 3 - 5 years for a major bank, FinTech or other financial institution.   \n  - At least 5 - 7 years total industry experience focused on analytics, data science and/or data engineering, with some direct experience in applied statistics and machine learning   \n  - Advanced degrees in quantitative fields and/or professional experience in applied analytics are valuable   \n  - Bachelors degree required, Masters degree preferred",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-09T21:22:33.000Z"
+    },
+    "company": {
+        "name": "Sharp Decisions",
+        "link": "https://www.linkedin.com/company/sharp-decisions"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Los Angeles Metropolitan Area",
+        "region": null,
+        "postal_code": "90021",
+        "street_address": null,
+        "latitude": 34.073666,
+        "longitude": -118.23985
+    }
+}

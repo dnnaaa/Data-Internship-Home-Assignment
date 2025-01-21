@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer, Backend (Kubernetes) - Distributed US, Toronto",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "Databases are the beating heart of every business in the world.      Cockroach Labs is the team behind CockroachDB, an open source, distributed SQL database. In addition to the open source version of the DB, we offer CockroachCloud, a self-service, fully managed cloud offering of CockroachDB. We aim to build infrastructure that keeps pace with the world, so developers can focus on what matters most: building the best products. Join us on our mission to Make Data Easy.      About The Role      CockroachCloud provides CockroachDB as a service to anyone who needs to scale fast, survive anything, and thrive everywhere. We are standardizing on Kubernetes as the compute runtime platform for both CockroachCloud and self-hosted deployments of CockroachDB. The Kubernetes Operator is the unifying fabric that will unlock multi-tenant, multi-region and auto-scaling capabilities for all CockroachDB deployments.      You\u2019ll be helping build out the CockroachDB operator, developed fully in open source, and ensuring that it is the best way to deploy, manage and scale CockroachDB. Internally the operator is used to deploy and manage thousands of CockroachCloud clusters, from small starter side projects to multi-region production clusters. Working closely with our SRE team and other Engineers, you will be part of a collaborative culture striving to make data easy at global scale by combining distributed databases with a beautiful user experience.      You Will     - Contribute to the growth of CockroachCloud and CockroachDB by designing, building, and testing \u201cCockroachDB on Kubernetes\u201d. Kubernetes will become the standard way to deploy CockroachDB to any public or private cloud. Your expertise and commitment to excellence for building a cloud database service that Makes Data Easy for everyone.   \n  - Develop in Go, but if you don't know it you'll learn while you're here.   \n  - Collaborate with Product, Design, and Engineering to create strategic customer value.   \n  - Ensure that as CockroachDB on Kubernetes grows it remains scalable, survivable, and consistent.      \nThe Expectations      In the first month you will join your engineering team and start to learn about our production systems, software development workflow, and the architecture of CockroachDB and CockroachCloud. We believe that it's essential for you to take this first month to become familiar with our technology, company, and our culture.      After 3 months you'll be a fully-fledged member of your team and comfortable contributing to both CockroachCloud and the open source operator. You will begin to determine the parts of our product that most interest you and work with your manager to focus your efforts on projects that align with your interests and our goals.      As our team grows you will have the opportunity to shape the direction of development for CockroachCloud and CockroachDB. We want our users to have a phenomenal experience using our product and you play a crucial role in making CockroachCloud a joy to use. We also offer technical training and experienced mentorship to help you learn and grow into whatever you wish it to be.      You Have     - A passion for working on complex technical products and exposure to the design, creation, and growth of a modern cloud-native application.   \n  - Experience developing applications using programming languages like Go, Java, JavaScript, and Python.   \n  - An understanding of distributed system and API design.   \n  - Experience using infrastructure such as Kubernetes and public clouds.    \n  - Comfort implementing Kubernetes operators or similar frameworks (like Mesos schedulers).   \n  - Experience building collaborative relationships with your colleagues. You enjoy being part of the code review process and partnering with your teammates on challenging problems.   \n  - 2+ years of relevant experience.   \n  - A BS in Computer Science or equivalent experience.      \nThe Team      Isaac Wong - VP of Engineering      Isaac is responsible for the health of the engineering organization at Cockroach Labs. He partners closely with teams to ensure we have a balanced culture that promotes quality and innovation in pursuit of our goals. Before joining Cockroach Labs Isaac was in life sciences for 16 years with Medidata Solutions where he had a front row seat on the exciting ride from a 30 person startup to more than 2000 people worldwide. But the lure of distributed, resilient, and consistent SQL databases, along with the amazing technology and culture at Cockroach Labs proved too much. When not working he likes to draw, play the piano and search NYC for cannolis with his wife and kids.      Yandu Oppacher - Director of Engineering      Yandu works across multiple parts of CockroachCloud to ensure that our infrastructure and teams are robust and scalable. Yandu joined Cockroach Labs after nearly 8 years at Shopify where he started on the data platform team and helped it grow from 4 DB nodes to several hundred Hadoop nodes running over petabytes of data in Google Cloud. In his last 2 years at Shopify, he led the Production Engineering teams responsible for all of the compute runtime resources that power Shopify\u2019s mission critical services. Joining CockroachCloud and Cockroach Labs allows him to get back to his first love, Databases, while applying his Production Engineering skills to help build our DBaaS platform. Outside of Cockroach Labs Yandu will be found reading or, more likely, chasing after his 3 young kids and exploring the outdoors with them.      Our Benefits     - 100% health insurance coverage (for you and your dependents!)   \n  - Paid parental leave (with baby bucks)   \n  - Flex Fridays   \n  - Flexible time off & flexible hours   \n  - Education reimbursement   \n  - Relocation support      \nCockroach Labs is proud to be an Equal Opportunity Employer building a diverse and inclusive workforce. If you need additional accommodations to feel comfortable during your interview process, please email us at accessibility@cockroachlabs.com.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-21T10:35:18.000Z"
+    },
+    "company": {
+        "name": "Cockroach Labs",
+        "link": "https://www.linkedin.com/company/cockroach-labs"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

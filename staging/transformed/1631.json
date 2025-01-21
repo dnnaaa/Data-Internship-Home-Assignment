@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist I",
+        "industry": "Computer Software,Information Technology and Services,Internet",
+        "description": "Description      DESCRIPTION      The Organizational Research and Measurement (ORM) Team within World Wide Consumer guides the talent strategy for Amazon\u2019s largest workforce comprised of over one million Amazon global employees across order fulfillment, transportation, corporate, consumer, and customer service organizations. We are an interdisciplinary team that combines the talents of science and engineering to develop and deliver research insights, data products, and solutions across the employee lifecycle including on-boarding; high-potential identification; talent development; engagement; movement; retention; and attrition.      The Role      We are looking for a truly innovative data scientist who is able to contribute to the research and engineering of end-to-end solutions for complex science and business problems around the future of talent evaluation, development, and management at Amazon. You will work closely with I/O psychologists, economists, engineers, and business partners to estimate and validate models on large scale data, and turn the results of these analyses into products, policies, programs, and actions that have a major impact on Amazon\u2019s business. We are looking for creative thinkers who can combine strong data science, software engineering, and product development skillsets with a desire to innovate, and who know how to execute and deliver on big ideas.      Key Responsibilities     -  Support the development of start-to-finish data product solutions from requirements gathering and ideation, through interface design and implementation.   \n  -  Contribute to the design and implementation of data infrastructure and pipelines for machine learning and analytics products.   \n  -  Obtain, merge, analyze, and report data using SQL, statistics software, and data visualization tools.   \n  -  Apply various statistical and machine learning techniques to analyze large and complex data sets.   \n  -  Communicate applied machine learning and statistic concepts to project sponsors, business leaders, and development teams across Amazon.   \n  -  Understand business customer needs, iterate on feedback, and drive adoption         \nBasic Qualifications     -  A Bachelor\u2019s Degree in Computer Science, Machine Learning, Operational research, Statistics or in a highly quantitative field or equivalent experience.   \n  -  4+ years of hands-on experience in predictive modeling and analysis, advanced statistics, and machine learning.   \n  -  3+ years conducting end-to-end scientific research in an applied setting.   \n  -  Experience developing and applying models in a production environment.   \n  -  Proficient with SQL and at least one scripting language (e.g., R, Python).   \n  -  Demonstrable expertise in research design methodologies (e.g., experiments, quasi-experiments, surveys, sampling methods).   \n  -  Strong communication and data presentation skills   \n  -  Familiarity with using data visualization tools.      \nPreferred Qualifications     -  MS/PhD in Computer Science, Machine Learning, Operational research, Statistics or in a highly quantitative field. PhD strongly preferred.   \n  -  Experience with AWS technologies (Sagemaker, S3, Glue, EC2, Data Pipeline, Lambda)   \n  -  Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment.   \n  -  A passion for continuous learning and self-development.      \nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, visit https://www.amazon.jobs/en/disability/us .         Company - Amazon.com Services LLC   Job ID: A1645645",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-29T09:08:45.000Z"
+    },
+    "company": {
+        "name": "Amazon",
+        "link": "https://www.linkedin.com/company/amazon"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

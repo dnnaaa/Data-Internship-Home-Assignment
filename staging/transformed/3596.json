@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "Site Reliability Engineer II: ONLY W2 &amp;nbsp;- 100% Remote &amp;nbsp;- 6 month contract with likely extensionRate is $50/hr on W2&amp;nbsp;skills that are REQUIRED:&amp;nbsp;- Heavy Service Mesh exp (Istio) &amp;nbsp;-&amp;nbsp;Exp with cloud service provider GCP&amp;nbsp;- Kubernetes&amp;nbsp;- CI/CD exp (Gitlab)&amp;nbsp;- DevOps exp   Most important must-have\u2019s:  - Someone with experience with cloud providers (GCP and AWS)   \n  - Someone having configuration management software/scripting experience with Ansible, Chef or Puppet   \n  - Familiarity with automation and proficient with programming language (Python/Go)   \n  - Familiarity with Google cloud platform/Kafka   \n  - \"Looking for candidates with a background in networking and Istio\"   \n     Site Reliability Engineers (SREs) at Frontdoor are responsible for maintaining the availability and uptime of infrastructure. SREs use software engineering principles to solve operational challenges to create reliable infrastructure. We try to reduce the toil from our everyday work using as much automation as possible.  Responsibilities: * Implement SRE principles and practices across organization to improve performance and efficiency * Research and implement solutions to build an always-up, always-available, resilient services * Integrate and automate existing manual solutions and processes * Participate in an on-call rotation for availability incidents * Plan for growth and capacity of the infrastructure * Troubleshoot and support productions issues * Participates on cross functional company project teams responsible for implementing technology. * Investigates anomalies/outages and determines steps to reproduce, root cause, and solutions options. * Monitors environment performance and provides all necessary reporting analysis. * Attends relevant conference/seminars to remain current on new and upcoming technology.  Skills Requirements: * Hands-on experience with cloud service providers(at least one of GCP, AWS) * Hands-on experience with at least one configuration management software (Ansible/Chef/Puppet) * Experience with setting up Logging (e.g. ELK) and Monitoring(e.g. Prometheus) solutions * Working knowledge of containers and any one container orchestration platform(Kubernetes/Nomad/Mesos/Swarm) * Understanding and experience in at least one CI/CD pipeline (Jenkins/Travis/CircleCI/Gitlab etc.) * Good understanding of Unix/Linux operating systems and its internals * Well-versed with Linux CLI * Apart from shell scripting(sh/bash), proficient with one other programming language(Python/Ruby/Go/Perl) * Working knowledge of any one distributed version control systems (git/bzr/hg) * Ability to write good technical user document * Exposure to managing Infrastructure as Code with tools like Terraform/CloudFormation or using Cloud Provider SDKs  Experience Requirement: * At least 4-6 years of hands-on DevOps/SRE experience * At least 1-2 years of experience developing code, either maintaining scripts or applications * Bachelor\u2019s degree in Engineering or related technical or quantitative degree (e.g. mathematics)&amp;nbsp;",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-12T19:51:39.000Z"
+    },
+    "company": {
+        "name": "TALENDICA",
+        "link": "https://www.linkedin.com/company/talendica"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

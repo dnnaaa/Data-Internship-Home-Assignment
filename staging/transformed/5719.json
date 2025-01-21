@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Engineer (Python, AWS)",
+        "industry": "Information Technology and Services",
+        "description": "About Us      Description      Wavicle Data Solutions designs and delivers data and analytics solutions to reduce time, cost, and risk of companies\u2019 data projects, improving the quality of their analytics and decisions now and into the future. As a privately-held consulting service organization with popular, name brand clients across multiple industries, Wavicle offers exciting opportunities for data scientists, solutions architects, developers, and consultants to jump right in and contribute to meaningful, innovative solutions.      Our 250+ local, nearshore and offshore consultants, data architects, cloud engineers, and developers build cost-effective, right-fit solutions leveraging our team\u2019s deep business acumen and knowledge of cutting-edge data and analytics technology and frameworks.      Wavicle Has Been Recognized By Industry Leaders As Follows      At Wavicle, you\u2019ll find a challenging and rewarding work environment where we enjoy working as a team to exceed client expectations. Employees appreciate being part of something meaningful at Wavicle.     - Chicago Tribune\u2019s Top Workplaces   \n  - Inc 500 Fastest Growing Private Companies in the US   \n  - Crain\u2019s Fast 50 fastest growing companies in the Chicago area   \n  - Talend Expert Partner recognition   \n  - Microsoft Gold Data Platform competency         \nAbout The Role      We are looking for a Senior Data Engineer who will be responsible for designing and building optimized data pipelines, in an on-prem or cloud environment, for the purpose of driving analytic insights.      Responsibilities     - Create the conceptual, logical and physical data models.   \n  - Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of sources like Hadoop, Spark, AWS Lambda, etc.    \n  - Lead and/or mentor a small team of data engineers.    \n  - Design, develop, test, deploy, maintain and improve data integration pipeline.    \n  - Develop pipeline objects using Apache Spark / Pyspark / Python or Scala.    \n  - Design and develop data pipeline architectures using Hadoop, Spark and related AWS Services.    \n  - Load and performance test data pipelines built using the above-mentioned technologies.    \n  - Communicate effectively with client leadership and business stakeholders.   \n  - Participate in proposal and/or SOW development.         \nRequirements     - Professional work experience as a strategic or a management consulting (customer facing) role and in an on-shore capacity, is highly preferred.    \n  - 5+ years of professional work experience designing and implementing data pipelines in on-prem and cloud environments is REQUIRED.    \n  - 5+ years of experience building conceptual, logical and/or physical database designs using tools such as ErWin, Visio or Enterprise Architect.   \n  - Strong hands-on experience implementing big-data solutions in the Hadoop ecosystem (Apache Hadoop, MapReduce, Hive, Pig, Sqoop, NoSQL, etc) and.or Databricks is required.   \n  - 3+ years of experience with Cloud platforms (AWS preferred, GCP or Azure), and Python programming and frameworks (e.g., Django, Flask, Bottle) is REQUIRED.    \n  - 5+ years of working with one or more databases like Snowflake, AWS Redshift, Oracle, SQL Server, Teradata, Netezza, Hadoop, Mongo DB or Cassandra is required.   \n  - Expert level knowledge of using SQL to write complex, highly-optimized queries across large volumes of data is required.   \n  - 3+ years of professional hands-on experience working with one or more ETL tools to build data pipelines/data warehouses is highly preferred (e.g. Talend Big Data, Informatica, DataStage, Abinitio).   \n  - 3+ years of hands-on programming experience using Scala, Python, R, or Java is REQUIRED.    \n  - 2+ years of professional work experience on ETL pipeline implementation using AWS services such as Glue, Lambda, EMR, Athena, S3, SNS, Kinesis, Data-Pipelines, Pyspark, etc.    \n  - 2+ years of professional work experience using real-time streaming systems (Kafka/Kafka Connect, Spark, Flink or AWS Kinesis) is required.   \n  - Knowledge or experience in architectural best practices in building data lakes is required.    \n  - Strong problem solving and troubleshooting skills with the ability to exercise mature judgement.    \n  - Ability to work independently, and provide guidance to junior data engineers.   \n  - Ability to build and maintain strong customer relationships.   \n  - Bachelor or Master\u2019s degree in Computer Science, Engineering, Information Systems or relevant degree is required.   \n  - Open to 25% national travel to the client location, as required by the client.         \nEqual Opportunity Employer      Wavicle is an Equal Opportunity Employer and committed to creating an inclusive environment for all employees. We welcome and encourage diversity in the workplace regardless of race, color, religion, national origin, gender, pregnancy, sexual orientation, gender identity, age, physical or mental disability, genetic information or veteran status.      Benefits     - Health Care Plan (Medical, Dental & Vision)   \n  - Retirement Plan (401k, IRA)   \n  - Life Insurance (Basic, Voluntary & AD&D)   \n  - Unlimited Paid Time Off (Vacation, Sick & Public Holidays)   \n  - Short Term & Long Term Disability   \n  - Training & Development   \n  - Work From Home   \n  - College Tuition Benefit   \n  - Bonus Program",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T17:23:29.000Z"
+    },
+    "company": {
+        "name": "Wavicle Data Solutions",
+        "link": "https://www.linkedin.com/company/wavicle-data-solutions"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "Zoom is an award-winning workplace. We have been recognized by Comparably as #1 CEO, Company Happiness, Benefits, Compensation, Diversity, and more! Not to mention we\u2019ve been awarded by Glassdoor as the 2nd Best US workplace & Best Large Company US CEO in 2018, Wealthfront, and Business Insider. Our culture focuses on delivering happiness, our commitment to transparency, and the tangible benefits we provide our employees and our customers.      The ideal candidate will have experience and qualifications for planning and managing operations infrastructure, including:     - Must be US Citizen   \n  - Excellent communication in English and Fluent in Mandarin (Mainland) is a bonus   \n  - Plan and execute site deployments (AWS, Ansible, Docker, Terraform).   \n  - Experience working with automating system administration tasks using scripting tools such as Python or shell (preferred).   \n  - Aptitude for analyzing and troubleshooting operating systems, application configuration and stabilities.   \n  - Experience with monitoring and automation tools further help analyze real time issues.   \n  - Familiar with system hardening and server security best practices.      \nThe Position Will Have The Following Responsibilities     - Working with the Lead Cloud Operations Engineer to understand application functionalities and verification requirements; working with Software Engineering to define a scalable real time testing and monitoring strategies.   \n  - Implementing new verification steps for newly introduced functionalities and configuring, optimizing and scaling a physical and cloud-based server farm for supporting Zoom service reliabilities   \n  - Lead troubleshooting and monitoring efforts with production/non-production systems.      \nEnsuring a diverse and inclusive workplace where we learn from each other is core to Zoom\u2019s values. We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records as well as any qualified applicants requiring reasonable accommodations in accordance with the law.      We believe that the unique contributions of all Zoomies is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status.      All your information will be kept confidential according to EEO guidelines.      Explore Zoom     - Hear from our leadership team   \n  - Browse Awards and Employee Reviews on Comparably   \n  - Visit our Blog   \n  - Zoom with us!   \n  - Find us on social at the links below and on Instagram",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-13T14:43:18.000Z"
+    },
+    "company": {
+        "name": "Zoom",
+        "link": "https://www.linkedin.com/company/zoom-video-communications"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Some of the characteristics the manager is looking for in a contractor for this role are:     -  Knowledge and experience in building and analyzing linear regression, logistic regression, generalized linear models, and time series models   \n  -  Experience in converting business problems into statistical problems, building models to solve the statistical problem, then use the models to develop business recommendations to solve the business problem   \n  -  Knowledge of optimization techniques and application to business problems   \n  -  Experience in pulling data from multiple sources, cleaning the data, and preparing the data for analysis   \n  -  Experience in using a structure workflow in their problem solving   \n  -  Experience in using Git to manage model versions   \n  -  Experience with R and Python   \n  -  3+ years of applying the above in a business environment      \n,",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-13T09:31:36.000Z"
+    },
+    "company": {
+        "name": "Horizontal Talent",
+        "link": "https://www.linkedin.com/company/horizontal-talent"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Stamford",
+        "region": "CT",
+        "postal_code": "06928",
+        "street_address": null,
+        "latitude": 41.051926,
+        "longitude": -73.539474
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+        "description": "Team Name      IT \u2013 Site Reliability Engineering      Job Title      Senior Site Reliability Engineer      Requisition ID      R008637      Job Description      At Blizzard Entertainment, our Site Reliability Engineers (SREs) use systems expertise combined with software engineering patterns to help define, create, and support the architecture, build systems, orchestration, and operations of services across the business. The role is comprised of talented engineers that are focused on evangelizing reliability-as-a-feature through monitoring, service-level objectives, automation, everything-as-code, and testing.      Blizzard's games and platforms reach a global audience of passionate gamers. The scale is massive and the challenges are very real, but wise application of technology is the answer to keep it all running reliably with minimal oversight. Our Site Reliability Engineers are at the heart of this work, working directly with the engineering teams from idea to launch to deliver the most epic (and reliable!) experiences... ever.      As an SRE at Blizzard, you may find yourself...     - Being part of an on-call rotation to assist finding a resolution during incidents   \n  - Hosting blameless postmortems to share learnings, discover gaps, embrace transparency, and improve reliability across our services   \n  - Building positive and collaborative relationships across the company   \n  - Employing your systems knowledge to triage problems and tune resource usage   \n  - Championing automation to reduce toil and increase development velocity   \n  - Helping define and instrument Service-Level Objectives to ensure epic player experiences   \n  - Leveraging Configuration Management to build and maintain consistency across services   \n  - Building Terraform configs to manage infrastructure in public and private clouds   \n  - Supporting and improving build pipelines with Jenkins, Argo, and/or Spinnaker   \n  - Adopting Containers and Kubernetes for new and existing services   \n  - Applying everything-as-code methodologies across configuration, infrastructure, orchestration, and elsewhere      \nYou may succeed in this role if you...     - Love to solve novel and exciting problems   \n  - Dislike solving the same problems over-and-over- so you automate or eliminate them   \n  - Are inspired to make everyone's job easier by improving workflows   \n  - Are comfortable digging through metrics, logs, and whatever else is available to triage and fix an incident at any time   \n  - Strive to be better, smarter, and faster tomorrow than you are today   \n  - Enjoy trying new technologies to improve what we're doing today   \n  - Are okay using older technologies that may not be perfect, but are good enough and low maintenance   \n  - Naturally spread the philosophies and practices of DevOps to others   \n  - Like to collaborate with others to solve problems, share knowledge, and provide feedback   \n  - Can self-assess the needs of a system or team, and make a case to prioritize that work   \n  - Relish working with software, network, cloud, and systems engineers to solve problems across all tiers of the stack   \n  - Help your peers succeed as much as you can      \nTypes of projects you may work on...     - Managing services and infrastructure supporting Blizzard's incredible platforms and games   \n  - Defining the future of running services for our platforms and games with Kubernetes   \n  - Supporting our massive global data platforms across multiple clouds   \n  - Performing and improving service migrations from one cloud/data center to another    \n  - Working closely with our incubation teams to help define how future products should operate   \n  - Integrating monitoring and logging with systems to improve observability and enable Service-Level Objectives   \n  - Designing and executing stress tests to validate scale expectations vs reality      \nAreas of Expertise for an SRE at Blizzard      Below Is a Non-exhaustive List Of Technologies SREs May Be Exposed To      SREs at Blizzard are expected to become experts in the technologies used by the teams they are working with.     - Service-Level Objectives (SLI, SLO, SLA, Error Budget, Burn Rate)   \n  - Distributed Systems (architectures, micro-services, high-availability, elections)   \n  - Configuration Management (Puppet, Hiera, Terraform, Terragrunt, Ansible)   \n  - Container Computing (Docker, Kubernetes, Service Mesh)   \n  - Cloud Services and Architecture (AWS, GCP, OpenStack)   \n  - Distributed Message Bus (RabbitMQ, Kafka)   \n  - Proxies and Load Balancing (Nginx, HAProxy, Envoy)   \n  - Monitoring (Prometheus, Kibana, Grafana, Elasticsearch, Datadog)   \n  - Logging (Splunk, SysLog, ELK Stack, Linux Journal, grep)   \n  - Source Control (GitHub Enterprise, Perforce)   \n  - CI/CD (Jenkins, Argo, Spinnaker)   \n  - Linux (bash, debugging, tuning)   \n  - Networking (triaging, packet loss, routing)   \n  - Programming (Python, Go, C#, C++, Shell, PowerShell)      \nBlizzard Entertainment is an Equal Opportunity Employer. All qualified applications will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law, and will not be discriminated against on the basis of disability.      COVID-19 Hiring Update      We\u2019ve transitioned to a work-from-home model and we\u2019re continuing to interview and hire during this time. This role is expected to begin as a remote position. We understand each person\u2019s circumstances may be unique and will work with you to explore possible interim options.      Accommodation Request: We are committed to working with and providing reasonable assistance to individuals with physical and mental disabilities. If you are a disabled individual requiring an accommodation to apply for an open position, please email your request to talentacquisition@blizzard.com. General employment questions cannot be accepted or processed here. Thank you for your interest.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-31T00:02:53.000Z"
+    },
+    "company": {
+        "name": "Blizzard Entertainment",
+        "link": "https://www.linkedin.com/company/blizzard-entertainment"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Irvine",
+        "region": "CA",
+        "postal_code": "92717",
+        "street_address": null,
+        "latitude": 33.68591,
+        "longitude": -117.82472
+    }
+}

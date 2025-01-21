@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Test Engineer",
+        "industry": "Mental Health Care",
+        "description": "Who is Mindstrong?   Mindstrong is a human-centered technology company, focused on optimizing the consumer experience for receiving and providing best-in-class mental healthcare across the illness and demographic spectrum. We are actively deploying a new learning behavioral health system, which relies on rapid innovations in low- burden measurement science and coordinated care delivery, focused on helping individuals living with a serious mental illness (SMI) live their fullest lives.&amp;nbsp;Our services are offered to people with an SMI through active partnerships with several nationwide health insurance payers.   We\u2019re setting out to radically simplify mental healthcare for those living with a serious mental illness. Join us on this important journey!   What is the Senior Software Engineer in Test role?   Our Caseworks provide care using the Care Web application. We are looking for a stellar and passionate Senior Software Engineer in Test - Web to perform manual and automation testing of our Care Web application and its interaction with backend microservices and nosql databases to ensure correct functionality. In this role you will actively participate in manual testing, writing automated tests and application troubleshooting. You will need to understand how the web application uses backend services to deliver its functionality. You will use this understanding to set up specific test scenarios, to automate these scenarios and to help identify the root cause of defects.&amp;nbsp;&amp;nbsp;   Our ideal candidate is a bright and motivated Engineer who is excited about shipping quality products and&amp;nbsp;eager to apply their experience with manual and automated testing. This is a great opportunity for someone who wants to learn and grow as they are contributing to the quality of our products.   What you'll be doing:     - Writing new test cases or modifying existing to cover new or changed functionality   \n  - Defining test requirements, test strategies and test designs   \n  - Conducting manual testing of Care Web application and its interaction with backend microservices and nosql databases.   \n  - Write End to End automated tests for Web app and REST services.&amp;nbsp;   \n  - Manage multiple priorities and tasks in a dynamic work environment   \n   Who you are:     - You feel good about your work knowing that what you do will affect the lives of millions of people around the world   \n  - Entrepreneurial and eager to thrive in a startup environment   \n  - Strong communicator (oral and written)   \n  - A good person, highly ethical and accepting of others   \n   Your background and skills:     - Delivering quality products across a wide range of running environments excites you   \n  - You are familiar with web and REST API testing and have programming experience in Java, Ruby or Python.   \n  - You are familiar with Front End automation frameworks such as Selenium, Cypress and REST API automation frameworks such as REST Assured.   \n  - Working knowledge of Cloud technologies (AWS EC2, Docker) is a plus   \n  - Working knowledge of no-sql databases such as MongoDB is a huge plus.   \n  - Experience with CI/CD (Jenkins, TeamCity, Bamboo, Fastlane etc.) is a plus   \n  - Strong aptitude for learning new technologies   \n  - You use judgment in selecting methods, techniques and evaluation criteria for successful results   \n  - B.S. in Computer Science or related field OR equivalent experience   \n  - 5+ years of experience in testing web applications, back end services and databases.   \n   Competitive Benefits:  - Remote work! While we have offices in the Bay Area and would love to see you in person, we\u2019re a flexible first company - work where you do your best work.   \n  - A robust healthcare package, including Medical, Dental, and Vision plans, plus more!   \n  - Wellness programs designed to help you stay financially, emotionally, and physically healthy!&amp;nbsp;   \n  - Savings through a company sponsored 401k plan   \n  - We take self care personally, we offer 11 paid holidays + Flexible, untracked PTO so you can create balance between work and play   \n  - Flexible schedules - we\u2019re all over the U.S., so we can flex schedules easily with core hours to ensure solid collaboration time and flex beyond that   \n&amp;nbsp;   Mindstrong is proud to be an Equal Employment Opportunity employer that celebrates diversity. We are committed to providing equal employment opportunities to all employees and applicants. All individuals seeking employment at Mindstrong are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other characteristic protected by federal, state, or local laws. This policy applies to all terms and conditions of employment. Mindstrong also strives for a safe and robust workplace and prohibits harassment of any kind. If you have a disability or special need that requires accommodation for interviewing, please let us know by emailing&amp;nbsp;contact-recruiting@mindstronghealth.com",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-30T05:14:06.000Z"
+    },
+    "company": {
+        "name": "Mindstrong ",
+        "link": "https://www.linkedin.com/company/mindstrong"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "California",
+        "region": "United States",
+        "postal_code": "93266",
+        "street_address": null,
+        "latitude": 37.254673,
+        "longitude": -119.61728
+    }
+}

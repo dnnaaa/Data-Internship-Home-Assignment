@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Lead Software Engineer",
+        "industry": "Information Technology and Services,Staffing and Recruiting,Human Resources",
+        "description": "(JavaScript)      Location: Remote      Pay:150-165K Annually      Job Overview      Seeking great Software Engineer who can help build out company platform. From ordering to customer accounts to product catalogs and pricing, you'll work across the sets of services and functionality we provide to customers. The ideal candidate will be able to collaborate with our top-notch engineering team & product managers, and build great services and features for our customers, and then work with our highly-skilled engineers in both code reviews and architecture discussions to help drive forward a cohesive code base.      In This Role You Will     -  Develop new backend functionality & components   \n  -  Help migrate our functionality and services to GCP   \n  -  Mentor developers on coding and SDLC best practices   \n  -  Help maintain a cohesive, well-engineered code base   \n  -  Lead a team of engineers and participate in a collaborative, code review environment   \n  -  Drive engineering efficiency improvements through build tooling, CI/CD pipeline improvements, architectural improvement, tech debt paydown, etc      \nRequirements     -  Ecommerce Experience   \n  -  Strong ES6/ES7 JS, React, Angular, Vue, C# experience   \n  -  MySql, TSQL Management and Optimization   \n  -  Experience with RESTful APIs and concepts, interested in Serverless architectures / frameworks and microservices   \n  -  GCP or AWS   \n  -  Experience with CI/CD tools such as Travis, Cloud build, and deploying code to production   \n  -  Experience with JS unit and integration testing frameworks   \n  -  Proven ability to design and implement robust and scalable enterprise systems   \n  -  Operations experience an asset (capacity planning, incident response, security scanning, etc)   \n  -  MLM or Direct sales with direct involvement with commissions   \n  -  Experience creating and maintaining GraphQL endpoints",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-31T00:03:48.000Z"
+    },
+    "company": {
+        "name": "Jefferson Frank",
+        "link": "https://www.linkedin.com/company/jefferson-frank"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Santa Rosa",
+        "region": "CA",
+        "postal_code": "95401",
+        "street_address": null,
+        "latitude": 38.439697,
+        "longitude": -122.715645
+    }
+}

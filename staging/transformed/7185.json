@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Cloud Operations Engineer I",
+        "industry": "Information Technology and Services,Biotechnology,Hospital &amp; Health Care",
+        "description": "About The Job      The Cloud Operations (CloudOps) Engineer I is responsible for all aspects of our AWS environment, as well as FMI software deployment CI/CD pipeline; including design, provisioning, monitoring, automation, and maintenance of our software suite. The position works with customers, investigates cloud incident reports, and as a member of the CloudOps team is change champion in the adoption of new ways to build and release code. The incumbent partners with development teams to maintain best practices, integrate continuous automated testing, instantiate automation scripts, maintain and operate CI/CD pipeline software, and partners with product teams to promote DevOps principles within our AWS centric environment.      Key Responsibilities     -  Support the FMI development teams to maintain uptime and reduce impact to patients.   \n  -  Act as escalation point for various Cloud and DevOps platform support requests.   \n  -  Provide support for operational requests regarding Cloud technology.   \n  -  Oversee, develop, and manage a subset of FMI\u2019s DevOps platform tools and processes.   \n  -  Create, review, modify, and update AWS CloudFormation and Jenkins scripts.   \n  -  Participate in the Cloud Operations 24/7 On-Call rotation.   \n  -  Design and implement solutions to streamline business processes to achieve company goals more effectively and efficiently.   \n  -  Research new technologies and propose methods to integrate them into existing technology stack.   \n  -  Manage project timelines and workloads.   \n  -  Deliver solutions in an Agile methodology.   \n  -  Create and deliver presentations and documentation to the Technology team.   \n  -  Other projects as periodically assigned.      \nQualifications      Basic Qualifications     -  Bachelor\u2019s Degree   \n  -  1+ years of work experience in Cloud or DevOps      \nPreferred Qualifications     -  Degree in Computer Science, Management Information Systems, or a related engineering field   \n  -  2+ years in cloud computing, DevOps or IT   \n  -  Experience in managing or designing cloud deployment software   \n  -  Experience with CI/CD philosophy, processes, and toolsets   \n  -  Demonstrated knowledge of cloud architecture, networking, system administration, and security best practices   \n  -  Experience with orchestration tools such as Jenkins, Puppet, Chef, Ansible, or other similar products   \n  -  Familiarity with monitoring tools such as ELK, New Relic, DataDog, SonarQube, CloudWatch, CloudTrail, etc.   \n  -  Experience with infrastructure as code frameworks such as CloudFormation, Terraform, or other similar products   \n  -  Familiarity with JSON, XML, and related notational data representations   \n  -  Understanding and experience working with version control software such as Git   \n  -  Comfortable administering a Git management tool, such as GitHub Enterprise   \n  -  Comfortable with working in either Linux (RHEL, CentOS, Amazon Linux) or Microsoft Windows environments   \n  -  Hands on experience with infrastructure tools such as AWS, VMware, Docker, Kubernetes, and Swarm   \n  -  Knowledge about APIs, RESTful services and how they can be used to integrate with AWS   \n  -  Understanding of HIPAA and importance of privacy of patient data   \n  -  Commitment to reflect FMI\u2019s values: Patients, Passion, Innovation and Collaboration",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-08T03:28:28.000Z"
+    },
+    "company": {
+        "name": "Foundation Medicine",
+        "link": "https://www.linkedin.com/company/foundation-medicine"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

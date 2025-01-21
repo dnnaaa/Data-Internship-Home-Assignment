@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Music,Computer Software,Entertainment",
+        "description": "We\u2019re looking for a Data Scientist for a music creation platform working to change the way we think about the ecosystem of music creation and production, making it easier and more affordable for anyone at any skill level to create music at the touch of a button.   This role requires is a specific skillset focused on learning, scale, and agility in the music tech space, but we know you\u2019re out there.   We're open to candidates from all over the U.S. - ideally, you'd want to relocate to San Diego, but happy to have a conversation about the best scenario.    Benefits:  - Industry-leading healthcare covering medical, dental, vision, and life paid by the company   \n  - Health Savings and Flexible Spending accounts   \n  - 401K   \n  - Unlimited PTO with an employee-focused work approach   \n  - Flexible work schedule and a remote-friendly environment   \n  - Parental leave   \n  - Participation in profit sharing   \n  - 200% Pay on your Birthday   \n  - Employee Referral Bonus Program   \n  - Maternity Leave Program   \n  - Company outings, retreats, and events (when permissible)   \n   Responsibilities  - Collect, analyze, and present processed and unprocessed data pertaining to music creation tech to make the business more powerful and increase enterprise opportunities. To be honest, the right person can probably better tell us how this role should work. And we'll happily empower you to do that   \n  - Design accurate and scalable prediction algorithms in pertinence to business objectives   \n  - Collaborate with the engineering team to bring analytical prototypes to production, make product adjustments, and geek out on product opportunities. GET FIRED UP. (sorry)   \n  - Based on the insights you gather, make clear recommendations to improve and work with other department leads to execute   \n  - Help design data team hiring roadmaps   \n  - Produce regular analytics reports for internal and external stakeholder (board, investor, etc.) purposes.   \n   Requirements and some nice-to-haves:  - Bachelor's in statistics, comp sci, math, engineering   \n  - Deep ML/AI experience (including machine learning modeling and ensemble methodology)   \n  - Python expertise (NumPy, SciPy), SQL, MongoDB, C++   \n  - Understanding of digital signal processing techniques (filtering, spectral/FFT analysis, convolution, etc.)   \n  - Experience with machine learning, especially as it applies to music analysis and/or generation   \n  - Experience with the following technologies: Django, Heroku, AWS, S3   \n  - Familiarity with python audio processing libraries such as Librosa   \n  - Passion for or experience in music - ML, production, and creation",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-12T00:42:42.000Z"
+    },
+    "company": {
+        "name": "KTeam",
+        "link": "https://www.linkedin.com/company/kteam-co"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Diego",
+        "region": "CA",
+        "postal_code": "92161",
+        "street_address": null,
+        "latitude": 32.71576,
+        "longitude": -117.16382
+    }
+}

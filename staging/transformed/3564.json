@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Computer &amp; Network Security",
+        "description": "We are seeking a Site Reliability Engineer who will be responsible for improving and maintaining software development, test and live infrastructure and services. The ideal candidate will be self-motivated, articulate, have experience with Linux and other *NIX- derivatives, and is comfortable working in a fast-paced development environment. Your primary mission as a SRE engineer is working closely with the development, technical operations, quality assurance, and product management teams, to ensure the uptime and performance of McAfee Cloud Security Solution for Corporate clients and US Government agencies.  US citizenship required!   About the role:     - You will support McAfee Cloud Security Solution, a mission-critical, front-end and back-end systems and applications in production environment which includes US Government specific deployment and support procedures   \n  - You will help us identify and improve infrastructure and system reliability, performance, monitoring, and overall stability of McAfee Cloud Security systems   \n  - Capacity planning and demand forecasting to meet systems demand, identifying performance bottlenecks and conceiving tuning improvements   \n  - Build tools and automation that eliminate repetitive tasks and prevent incident occurrence   \n  - You will help us create operational runbooks and documentation   \n  - Participate in 24\u00d77 operational support and on-call rotation shifts   \n   About You:     - US Citizenship required   \n  - You will have 0 - 3 years of production applications and systems support   \n  - You will have experience supporting, analyzing and troubleshooting large-scale distributed mission-critical systems   \n  - You will have a systematic approach and strong sense of ownership to bring problems to resolution   \n  - You will have experience configuring and managing web servers (Apache, Tomcat, Nginx) and RESTful web service applications   \n  - You will have knowledge of Linux systems administration and architecture   \n  - You will have experience configuring and managing virtualized environments   \n  - Proficiency working with Amazon Web Services (AWS) like EC2, EBS, ELB, S3, and EMR in a available and scalable production environment   \n  - You will have experience with continuous integration and deployment automation tools such as Jenkins, Harness, AWS CloudFormation, Salt, or Puppet, Chef, Ansible   \n  - You will have experience with SQL (MySQL) and databases (Redis, CouchBase, Cassandra, Crate)   \n  - Experience with open-source technologies (Kafka, Memcached, Redis, Hadoop, HBase, Zookeeper, Oozie)   \n  - Network knowledge (TCP/IP, UDP, DNS, Load balancing) and prior network administration experience is a big plus   \n  - Extensive scripting experience with Shell, Python or Golang   \n  - Experience documenting processes, systems, environments and runbook procedures   \n  - Experience with source control tools such as Github, SVN, or Perforce",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T19:37:40.000Z"
+    },
+    "company": {
+        "name": "McAfee",
+        "link": "https://www.linkedin.com/company/mcafee"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Plano",
+        "region": "TX",
+        "postal_code": "75093",
+        "street_address": null,
+        "latitude": 33.019695,
+        "longitude": -96.697586
+    }
+}

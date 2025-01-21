@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning and Systems (MLSys) Engineer ",
+        "industry": "Computer Software",
+        "description": "OctoML is an energetic new company changing how developers optimize and deploy machine learning models for their AI needs. We\u2019re a team of machine learning systems leaders focused on making ML more efficient and easier to deploy by\u2026 applying machine learning to it!   OctoML was founded by the creators of Apache TVM, a popular open-source compiler that transforms ML models into highly-efficient binary code optimized for the specific hardware and model architecture. We are building the Octomizer, a cloud-based \"TVM as a Service\" product that enables developers to optimize and package their ML models through a modern web app as well as a rich API surface.   We dream big but execute with focus and believe in creativity, productivity and a balanced life. We value diversity in all dimensions. OctoML is growing fast and looking for MLSys engineers to join the team!   As an&amp;nbsp;MLSys Engineer, you will:&amp;nbsp;  - Explore machine-learning-based optimizations for performance and energy efficiency   \n  - Develop hardware-aware optimization for emerging ML algorithms   \n  - Improve model ingestion and robustness at the front end of our pipeline&amp;nbsp;   \n  - Develop automation strategies for generating efficient ML models   \n  - Develop groundbreaking demos to wow your friends and win customers   \n   Our ideal&amp;nbsp;MLSys Engineer will have:&amp;nbsp;  - Experience with ML frameworks such as PyTorch, MxNET, Tensorflow, etc.   \n  - Experience implementing or optimizing linear algebra functions (convolutions, fully connected, etc.)   \n  - Proficiency in Python, C or C++&amp;nbsp;   \n  - Excellent verbal and written communication skills   \n  - Ability to empathize with co-workers and customers   \n  - Collaborative working style; able to self manage your time effectively   \n  - BA or BS in Computer Science, Computer Science Engineering, Electrical & Computer Engineering, Electrical Engineering, or a&amp;nbsp;closely-related&amp;nbsp;field is required for this position   \n   Location: Onsite (post-pandemic) in Seattle, WA or Remote&amp;nbsp;Our Benefits:OctoML aims to provide the resources that employees need to be healthy and comfortable.  - 4 weeks paid personal time off + company paid holidays and company downtime 2x per year   \n  - 100% employer paid premium (for employee and dependents) with a low-deductible plan   \n  - Family & Medical Paid Time Off (includes Maternity, Paternity, Adoption, among others)   \n  - Remote and telework setups for employees (post-COVID)   \n  - Flexible work hours   \n   OctoML is committed to creating a diverse environment and is proud to be an equal opportunity employer. We hire based on an evaluation of abilities and effectiveness. We don't discriminate against employees on the basis of any other personal characteristic or any classification protected by federal, state or local law. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-02T21:02:21.000Z"
+    },
+    "company": {
+        "name": "OctoML",
+        "link": "https://www.linkedin.com/company/octoml"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

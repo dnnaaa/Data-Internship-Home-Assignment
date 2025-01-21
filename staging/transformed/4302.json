@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Professional, Data Scientist",
+        "industry": "Information Services",
+        "description": "Join our team of over 5,000 employees globally, who provide the insights through data and next generation technology that help millions of people find, buy and protect the homes they love.&amp;nbsp;From the beginning, CoreLogic has been driven by a single purpose \u2013 to innovate and create solutions that solve our clients\u2019 toughest challenges in the housing market. CoreLogic is the trusted source for property intelligence, with deep knowledge of powerful economic, social, and environmental forces that promote healthy housing markets and thriving communities.   We apply that same dedication to creating a diverse and inclusive work culture that inspires innovation and bold thinking. A place where individuals can work on small teams, feel valued, and directly impact the real estate industry. We believe our team members are the best in the business, and we will continue to recruit, retain, develop and reward our most important asset \u2013 our people!   Job Description:Design, develop, and deliver solutions that will enhance and add value to new and existing data assets for broad industry application and aligned with business and market requirements.&amp;nbsp; Support the development of algorithms, models, and analytic solutions based on rules engine, machine learning, mathematical modeling, pattern recognition, feature extraction, and data mining techniques.&amp;nbsp; Performs data analysis, data profiling, featuring engineering, and model development using a variety of analytic techniques, tools, and programming languages to provide solutions and deliverables.   Job Duties  - Working with other senior staff to apply machine learning algorithms to perform feature engineering and models implementation.   \n  - Prepare and create training and testing data for various types of algorithms (e.g., AutoML, logistic regression, neural networks, clustering, support vector machines, boosting trees, random forest) for supervised and unsupervised models.   \n  - Working with other senior staff in data enrichment through the development of machine learning algorithms to fill data gaps.   \n  - Create and select predictive features from raw data.&amp;nbsp;   \n  - Create model reports for stakeholder review and model documentation.&amp;nbsp;   \n  - Develop analytic models using SQL, Python, PySpark, and other Google Cloud Platform (GCP) tools such as BigQuery (BQ), BQML, AutoML and Jupyter notebook.   \n  - Perform data analysis and data profiling on large volumes of property and proprietary data, and present model outputs and performance to stakeholders.&amp;nbsp;   \n  - QA and analyze large amounts of data to create appropriate data sets for model building and testing.   \n  - Prepare and maintain programs and documentation for analytic models.   \n  - Conduct defined quantitative and qualitative research projects under the supervision of senior staff and communicates research results to internal and external stakeholders.   \n   Job Qualifications  - Master\u2019s or higher in machine learning, a data science, math, statistics or an engineering field, or equivalent work experience. Ability to thrive in a team environment and adapt to quickly changing priorities.   \n  - 2-3 years of directly related experience for candidate with only undergrad degree.   \n  - Strong problem solving and analytical ability.   \n  - Strong communication skills.   \n  - Ability to quickly and efficiently adapt to new concepts.&amp;nbsp;   \n  - Demonstrated knowledge of statistical techniques.   \n  - Working knowledge in multiple analytic development tools, statistical tools, programming languages, and big data tools.   \n  - Working knowledge in cloud platform such as GCP, AWS, or Azure.   \n  - Some data mining/data analysis/data profiling experience.   \n  - Ability to work collaborative with cross-function teams and business units.   \n  - Demonstrated general business acumen; experience working in a real estate and mortgage related data industry a plus.   \n   CoreLogic's Diversity Commitment:CoreLogic is fully committed to employing a diverse&amp;nbsp;workforce and creating an inclusive work&amp;nbsp;environment that embraces everyone\u2019s unique&amp;nbsp;contributions, experiences and values. We offer an&amp;nbsp;empowered work environment that encourages&amp;nbsp;creativity, initiative and professional growth and&amp;nbsp;provides a competitive salary and benefits package.&amp;nbsp; We are better together when we support and recognize our differences.&amp;nbsp;EOE AA M/F/Veteran/Disability:CoreLogic is an Equal Opportunity/Affirmative Action&amp;nbsp;employer committed to attracting and retaining the&amp;nbsp;best-qualified people available, without regard to&amp;nbsp;race, color, religion, national origin, gender, sexual&amp;nbsp;orientation, gender identity, age, disability or status&amp;nbsp;as a veteran of the Armed Forces, or any other basis&amp;nbsp;protected by federal, state or local law. CoreLogic&amp;nbsp;maintains a Drug-Free Workplace.&amp;nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T00:03:29.000Z"
+    },
+    "company": {
+        "name": "CoreLogic",
+        "link": "https://www.linkedin.com/company/corelogic"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Irvine",
+        "region": "CA",
+        "postal_code": "92717",
+        "street_address": null,
+        "latitude": 33.68591,
+        "longitude": -117.82472
+    }
+}

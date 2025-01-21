@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Hospital &amp; Health Care",
+        "description": "STRATEGIC STAFFING SOLUTIONS HAS AN OPENING!Strategic Staffing Solutions (S3) is currently looking for an Application Development Senior Advisor/SRE for a contract opening with one of our largest Healthcare clients located in Bloomfield, CT/ Remote!    This is a&amp;nbsp;Contract Opportunity&amp;nbsp;with our company that&amp;nbsp;MUST&amp;nbsp;be worked on a&amp;nbsp;W2 ONLY, NO visa sponsorship or C2C eligibility for this position.&amp;nbsp;The details are below.Application Development Senior Advisor   We are looking for a Site Reliability Engineer (SRE) who is passionate around solving business problems through innovation and engineering practices. The SRE would serve as the bridge between our operations members and service delivery members. The individual will be embedded in the operations team and enable the SRE community of practice by helping to bridge the needs and technologies of both teams while enabling the operations members to streamline and automate the repetitive and manual activities. The application environment is a blend between on premise & cloud.   Roles and Responsibilities:     - Monitoring, Alerting and Communication   \n  - Manage and monitor production systems   \n  - Application Availability & performance issues   \n  - Data and Integration issues   \n  - Stakeholder communication   \n  - Incident Management and root cause analysis   \n  - Facilitate the incident management   \n  - Guide the team on root cause analysis   \n  - Manage performance metrics   \n  - Work with stakeholders to identify & define the service level indicators and objectives   \n  - Measure and report the performance metrics.   \n  - Automation and tools   \n  - Work with the service delivery teams in developing and testing automation of repetitive and manual efforts.   \n  - Work closely with engineering teams on monitoring and performance management tools initiatives to improve system reliability and performance.   \n  - Team building   \n  - Help teams transition to SRE mind set   \n  - Help with SRE adoption across teams   \n   Desired Qualifications:     - Bachelor\u2019s degree or equivalent experience   \n  - 5+ years of experience in Developer, Operations roles   \n  - Knowledge of application, data and infrastructure architecture dislines   \n  - Working proficiency in development and monitoring tools   \n  - Ability to work in large, collaborative teams to achieve organization goals   \n  - A mindset focused on reliability, uptime and the customer experience   \n  - 4+ years of SRE experience   \n  - 3+ years of public cloud experience   \n  - Willing to work on a distributed team spanning multiple time zones.   \n  - Analytical and problem-solving skills   \n  - Good communication skills   \n  - The desire to continually learn and test your own boundaries   \n  - Exposure to standard software development practices including agile, deployment pipelines, continuous integrations and continuous delivery   \n  - Understanding of software skills such as business analysis, development, maintenance and software improvements   \n  - Experience with monitoring and observability systems like Dynatrace, CA APM, Splunk etc.   \n  - Experience in one or more programming languages Python, Java, Scala, PySpark   \n  - Experience with build and deployment pipeline technologies like Jenkins, Cloudbees, Terraform, Urban Code Deploy, Ansible, Maven, GitHub   \n  - Experience working with relational databases or HDFS or cloud storage   \n  - Hands on experiences in AWS technologies \u2013 Cloud Watch, Step Functions, Lambda, Glue, EC2, Redshift, DynamoDB, SQS, ECS/EKS, Elastic Search, SnowFlake, Elastic Cache, databricks, to name a few   \n  - Exposure to containerization \u2013 Docker and Kubernetes   \n   Skills and Experience:     - SITE RELIABILITY ENGINEER   \n  - JAVA   \n  - SQL   \n  - J2EE   \n  - MQ Series   \n  - KAFKA   \n  - PYTHON   \n  - OPENSHIFT   \n  - ORACLE   \n  - Additional Skills:   \n  - JENKINS   \n  - MAVEN   \n  - METRICS   \n  - PYSPARK   \n  - RELIABILITY ENGINEER   \n  - ROOT CAUSE ANALYSIS   \n  - SCALA   \n  - SOFTWARE DEVELOPMENT   \n  - SPLUNK   \n  - STRUCTURED SOFTWARE   \n  - PROBLEM-SOLVING   \n  - AMAZON DYNAMODB   \n  - AMAZON ELASTIC COMPUTE CLOUD   \n  - APACHE HADOOP HDFS   \n  - CACHE   \n  - CLOUD STORAGE   \n  - CLOUDBEES   \n  - CONTAINERIZATION   \n  - DATABASES   \n  - DOCKER   \n  - DYNAMODB   \n  - EC2   \n  - ECS   \n  - ENGINEER   \n  - HADOOP DISTRIBUTED FILE SYSTEM   \n  - HDFS   \n  - INCIDENT MANAGEMENT   \n  - INTEGRATION   \n  - INTEGRATOR   \n  - BUSINESS ANALYSIS   \n  - DEPLOYMENT   \n  - MAINTENANCE   \n  - OPERATIONS   \n   The S3&amp;nbsp;Difference:The global mission of S3&amp;nbsp;is to build trusting relationships and deliver solutions that positively impact our customers, our consultants, and our communities.&amp;nbsp;The four pillars of our company are to:  - Set the bar high for what a company should do   \n  - Create jobs   \n  - Offer people an opportunity to succeed and change their station in life   \n  - Improve the communities where we live and work through volunteering and charitable giving   \nAs an S3 employee, you\u2019re eligible for a full benefits package that may include:  - Medical Insurance   \n  - Dental Insurance   \n  - Vision Insurance   \n  - 401(k) Plan   \n  - Vacation Package   \n  - Life & Disability Insurance Plans   \n  - Flexible Spending Accounts   \n  - Tuition Reimbursement",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-12T12:46:09.000Z"
+    },
+    "company": {
+        "name": "Strategic Staffing Solutions",
+        "link": "https://www.linkedin.com/company/strategic-staffing-solutions"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Bloomfield",
+        "region": "CT",
+        "postal_code": "06002",
+        "street_address": null,
+        "latitude": 41.830956,
+        "longitude": -72.73743
+    }
+}

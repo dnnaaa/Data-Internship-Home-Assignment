@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer - Remote",
+        "industry": "Financial Services",
+        "description": "Company            Linear Financial Technologies is a fast-growing fintech company formed on the premise that technology and data can transform the way businesses access financial products, thus removing friction from the experience.  Simply put, our mission is to empower our clients to compete and succeed in the digital economy.         Linear operates in 3 countries and is backed by strong growth-oriented investors.  We have a large and growing set of blue-chip clients, including 6 of the top 25 commercial banks.  Our clients and solutions span industries including banks, non-bank lenders, commerce platforms, and suppliers.          The core of what we provide is a cutting-edge SaaS platform that simplifies the journey for businesses to gain access to capital and open accounts, allowing owners to focus on their passion - running their businesses.  Embedded in the solution is a decade of insights, accompanied by the power of AI/ML technologies to enable intelligent business decisions.  Our platform is also facilitating the next wave of innovation in financial services, embedding lending experiences into commerce platforms which links the traditional banking system with the digital economy.         At Linear Financial Technologies, we're passionate about building software that solves problems. We count on our site reliability engineers (SREs) to empower our users with a rich feature set, high availability, and stellar performance level to pursue their missions. As we expand our customer deployments, we are currently seeking an experienced SRE to help optimize our growing cloud environment. Specifically, we are searching for someone who brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with a cross-functional team to develop real-world solutions and positive user experiences at every interaction.                      Key Responsibilities:         Objectives of this Role            - Care for production environments by monitoring availability and analyzing system health   \n   - Build software and systems to manage platform uptime and SLA reporting   \n   - Improve reliability, quality, and time-to-market of our suite of software solutions   \n   - Measure and optimize system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs, and innovating to continually improve   \n   - Provide primary operational support and engineering in a Software as a Service (SaaS) environment   \n    As an SRE at Linear Financial Technologies, you will:            - Gather and analyze metrics from both infrastructure and applications to assist in performance tuning and fault finding   \n   - Maintain monitoring tools for alerting and measurement of SLAs   \n   - Partner with development teams to improve services through rigorous testing and release procedures   \n   - Work cross-functionality to drive incidents beyond resolution ensuring that they do not reoccur   \n   - Provide second level support for customers   \n   - Participate in an off hours on call rotation   \n    Requirements:      Necessary qualifications for success:               - Ability to program with one or more languages, such as Python, Java, or Golang   \n   - Knowledge of a config management system like Ansible, Chef, Salt or Puppet   \n   - A proactive approach to spotting problems, areas for improvement, and performance bottlenecks   \n    Nice-to-haves (not required):            - Experience with Kubernetes and/or Docker   \n   - Experience with APM and monitoring solutions in general   \n       - Familiarity with working on Infrastructure as Code (IAC) tools like Terraform or Cloudformation   \n   - Previous success working in a SaaS environment   \n   - AWS certification in Solutions Architect, SysOps, DevOps Engineer, or Developer   \n    Benefits:                     - Salary range 110k-170k commensurate with experience and capabilities   \n   - Comprehensive benefits package including generous PTO, health, dental, vision, 401K with company match   \n   - Bonus eligible   \n    Linear provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Linear complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T13:13:17.000Z"
+    },
+    "company": {
+        "name": "Linear Financial Technologies",
+        "link": "https://www.linkedin.com/company/linear-financial-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Reston",
+        "region": "VA",
+        "postal_code": "22096",
+        "street_address": null,
+        "latitude": 38.960186,
+        "longitude": -77.3545
+    }
+}

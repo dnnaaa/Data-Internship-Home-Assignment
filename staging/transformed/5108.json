@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Oil &amp; Energy",
+        "description": "Responsibilities     - Work with a small team of data scientists, software engineers and domain experts to build the next generation of Novi\u2019s platform   \n  - Develop novel solutions to open-ended, challenging and long-standing industry problems   \n  - Engage in thought leadership within the company and community   \n  - Mentor other team members on domain knowledge and technical solutions   \n  - Develop software to deliver solutions to ill-posed problems using sparse, noisy spatiotemporal data   \n   Required Skills & Experience  - Minimum 5 years of hands-on data science and machine learning experience   \n  - Foundation in integrating data-driven methods with physics-based models   \n  - Strong foundation in statistics and machine Learning   \n  - Strong software engineering principles and software development lifecycle experience (e.g., git, unit tests, CI)   \n  - Strong familiarity with Python and PyData stack (e.g., pandas, numpy, scipy)   \n  - Strong familiarity with ML Frameworks (e.g., scikit-learn, PyTorch, TensorFlow)   \n  - Experience going from algorithm development to production code   \n  - Experience modeling time series and spatial datasets   \n  - Experience deploying callable ML models in a production environment (e.g., REST API, TensorFlow Serving)   \n   Preferred Skills & Experience  - Open-source plotting libraries (e.g., altair, matplotlib, holoviz)   \n  - Database query & ETL (SQL & NoSQL)   \n  - AWS tools (e.g., lambda, EC2, etc.)   \n  - Probabilistic programming (e.g., Stan, PyMC, Pyro)   \n  - Model interpretation and explainability tools (e.g., Shapley)   \n  - Linux systems and command-line interfaces (e.g., bash)   \n  - Container and orchestration tools (e.g., Docker, Kubernetes, Nomad)   \n  - Previous work on an agile team   \n  - Experience in oil and gas",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T15:26:04.000Z"
+    },
+    "company": {
+        "name": "Quest Groups LLC",
+        "link": "https://www.linkedin.com/company/quest-groups"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

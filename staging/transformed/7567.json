@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Test Engineer",
+        "industry": "Automotive,Electrical/Electronic Manufacturing",
+        "description": "Responsibilities   1.    Perform Agricultural Vehicle Display System Functional Testing and software validation for display on different Agricultural vehicles like tractor, combine and various harvester vehicles.   2.    Perform Manual bench testing using tools like CANalyzer / CANoE devices, or other tools for serial bus system data logging and analysis.    3.    Perform Testing on physical vehicle on need basis.   4.    Understanding the system improvements , requirements, create test plan, review with stakeholders and execute   5.    Perform Integration testing support   6.    Validate the sprint release software on actual display hardware   7.    Maintain the test bench and test environment   8.    Collaborate with cross-functional teams like system engineering , product Validation and internal test teams at offshore location   9.    Participate on system requirement and Test reviews    10.    Follow the client project execution process (Agile SCRUM)   11.    Work closely with different validation groups to understand the defect / issue generated.      Qualifications   * Bachelor's Degree in Agricultural, Electrical Engineering, computer science or EET or related degree area.      Preferred Qualifications      * Previous testing experience for Automotive, Off-highway vehicles    * Any experience with Polarion tool   * Knowledge of vehicle communication and Diagnostics protocols: CAN/LIN/J1939/XCP/UDS   * Experience with Farm Equipment, Precision Farming systems or connected vehicle systems.   * Experience in electronic troubleshooting and diagnostics or a related field. Complex mechanical assembly service or troubleshooting acceptable too.    * Experience with development and execution of test plans.   * Ability to demonstrate good written and verbal communication skills required.   * Ability to demonstrate good computer skills with Word, Excel, MSOffice suite.   * Ability to work independently with little supervision.   * Communications protocol experience and understanding (e.g. Serial,  Cellular, Wifi, GPS, ISOBUS).   * Agricultural, construction, or similar background which demonstrates familiarity with operation of off-highway equipment.          IND123",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:33:52.000Z"
+    },
+    "company": {
+        "name": "Larsen &amp; Toubro",
+        "link": "https://in.linkedin.com/company/larsen-&amp;-toubro-limited"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Burr Ridge",
+        "region": "IL",
+        "postal_code": "60126",
+        "street_address": null,
+        "latitude": 41.74564,
+        "longitude": -87.91868
+    }
+}

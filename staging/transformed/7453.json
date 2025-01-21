@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Validation Design Engineer - SOC",
+        "industry": "Electrical/Electronic Manufacturing,Computer Software,Semiconductors",
+        "description": "Job Description      Now is an exciting time for Intel\u2019s Design Enablement Group! This position is within the Design Enablement (DE) organization of Technology Development (TD). At Intel, Design Enablement is one of the key pillars enabling Intel to deliver winning products in the marketplace. Your work will directly enable design teams to get to market faster with leadership products on cutting edge technologies and partner with Technology Development to deliver cost-effective, competitive design platform.      In this position you will help us with one or more of the following responsibilities:     - Design and integration of Intel\u2019s lead technology-development test chips.   \n  - Define and design test structures needed for process development.   \n  - Work with TD Process and device experts to define critical Design features and test structures to exercise on the test chips.   \n  - Develop CAD software/flows that automate physical layout of E-Test Structures   \n  - Develop layout verification software to implement process design rules using industry standard tools.   \n  - Digital system design using RTL for implementation through logic synthesis & automatic place-and-route   \n  - Validate design IP at the IP and system level   \n  - Develop and utilize various debug and validation tools and/or methodologies to implement validation plans to ensure a solid design      \nBehavioral Traits That We Are Looking For     - Written and verbal communication skills   \n  - Teamwork, problem-solving, and data analysis   \n  - Ability to work across geographical locations      \nBy applying to this posting, you\u2019ll be considered for multiple roles within Design Enablement (DE)      This is an entry level position and will be compensated accordingly.      Qualifications      You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your schoolwork/classes/research and/or relevant previous job and/or internship experiences.      Minimum Skills And Experience That Will Get You Noticed      You should have Bachelor\u2019s degree OR Master's degree OR PhD in Electrical Engineering, Computer Engineering, Computer Science, or other related Electrical Scientific STEM field, with 6+ months of work or educational experience. Must have the required degree or expect the required degree by May of 2022.      Your experience must be in one or more of the following areas:     - Circuit design and VLSI technology   \n  - Computer architecture, RTL, Verilog, System Verilog, exposure to OVM UVM   \n  - Knowledge of Chip floor planning, layout integration, layout design rules and schematic/layout comparison debug and validation   \n  - Experience with floor planning, layout design, and verification CAD tools   \n  - Digital system RTL based design, including DFT, system architecture, and integration of various IPs into subsystems   \n  - Solving problems using efficient computer algorithm and programming techniques.   \n  - Object oriented programming, data structures, algorithms and digital logic.   \n  - Programming or scripting in Python, Perl, Tcl, SKILL, C++, or Unix shell.      \nPreferred experience in one or more of the following areas:     - Knowledge of semiconductor device physics, process scaling, and advanced technology nodes.   \n  - Industry standard CAD tools for schematic entry, circuit simulation, custom layout, and design/layout verification, from vendors such as Cadence, Synopsys, and Siemens.   \n  - Design Compiler (DC), IC Compiler (ICC2), Fusion Compiler (FC), Genus, or Innovus   \n  - Layout verification using ICV/Calibre.   \n  - Pre-silicon or post-silicon validation/verification   \n  - Development of PCells or PyCells      \nBy applying to this posting your resume and profile will become visible to Intel Recruiters / Sourcers and will allow them to consider you for current and future job openings aligned with the skills and positions mentioned above.      #designenablement      @designenablemnt      Inside this Business Group      Manufacturing and Product Engineering (MPE) is responsible for test development across product segments, supporting 95% of Intel's revenue. We deliver comprehensive pre-production test suites and component/physical debug capabilities to enable high quality, high volume manufacturing.      Other Locations      US, California, Santa Clara; US, California, Folsom; US, Arizona, Phoenix; US, Texas, Austin;      Posting Statement      All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-12T05:09:56.000Z"
+    },
+    "company": {
+        "name": "Intel Corporation",
+        "link": "https://www.linkedin.com/company/intel-corporation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 6,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Hillsboro",
+        "region": "OR",
+        "postal_code": "97124",
+        "street_address": null,
+        "latitude": 45.52395,
+        "longitude": -122.98974
+    }
+}

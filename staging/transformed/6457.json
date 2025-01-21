@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Clinical Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "At&amp;nbsp;Carta Healthcare, we believe in a multidisciplinary approach to solving problems.&amp;nbsp;Our mission is to automate and simplify the work that burns out clinical staff, so they can focus on patient care. Our AI Enabled Technology offers a complete solution (people, process and technology) to support the Healthcare Registry Data Market.&amp;nbsp;We design products that transform the way hospitals use data to deliver care. We make analyzing data fast, easy, and useful for everyone. We give clinicians time back to focus on research and care that improve patient lives by reducing paperwork.&amp;nbsp;Carta Healthcare is a remote organization with headquarters in San Francisco and Portland, Oregon.&amp;nbsp;To learn more about our AI Enabled Solutions and more about our company, please&amp;nbsp;visit www.carta.healthcareWe are looking for a&amp;nbsp;Data Scientist&amp;nbsp;responsible for working with and improving our automation, natural language processing, and machine learning tools.&amp;nbsp;Your primary focus will be building tools to extract actionable clinical insights from unstructured data sources.&amp;nbsp;This will include expanding the capabilities of Carta\u2019s NLP pipeline, building new algorithms, and orchestrating the training, evaluation, and deployment of these algorithms to live data.Responsibilities:&amp;nbsp;  - Interpret messy structured and unstructured clinical data to produce actionable insights   \n  - Work with parallelized and modular data ingest and machine learning techniques   \n  - Improve the performance of Carta\u2019s automation and machine learning pipelines   \n  - Work with clinical experts to generate de-identified datasets for evaluating our ML algorithms   \n  - Orchestrate the training, deployment, and evaluation of ML pipelines across multiple customer deployments.   \n  - Collaborate with other team members and stakeholders&amp;nbsp;   \nWhat you\u2019ll need:&amp;nbsp;  - PhD in Biomedical Informatics, Statistics, Computer Science or related field   \n  - Strong understanding of the core principles of statistical/machine learning   \n  - Experience working with clinical data   \n  - Experience with Natural Language Processing tools (e.g. Spacy)   \n  - Python expertise (4+ years experience)   \n  - Proficient understanding of code versioning tools (i.e. git)   \n  - Familiarity with Jupyter notebooks or other data science tools   \n  - Strong data visualization skills (Tableau, matplotlib, etc.)   \n  - Experience with the FHIR standard for medical data   \n  - Postgres or SQL expertise   \n  - A hands-on, engaged approach to solving problems&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;   \n  - Excellent communication skills and experience in collaborative environments&amp;nbsp;   \n  - The desire to be continually learning about emerging technologies/industry trends   \n  - Job is remote but candidates must be US-based   \nWhy we love Carta Healthcare, and why you will too!  - Industry leading products   \n  - Work hard, and have fun doing it   \n  - Work alongside some of the most talented and dedicated teammates   \n  - Mission driven   \n  - Competitive benefits package including great healthcare benefits and a 401K&amp;nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-30T23:48:01.000Z"
+    },
+    "company": {
+        "name": "Carta Healthcare Inc.",
+        "link": "https://www.linkedin.com/company/cartahealthcare"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

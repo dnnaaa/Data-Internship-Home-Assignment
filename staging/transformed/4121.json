@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Azure Data Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "Our Client is looking for an \"Azure Data Engineer\"&amp;nbsp;for contract positions. Please review the Job descriptions below and let us know if you are&amp;nbsp;interested and fit for any of the jobs.&amp;nbsp;   Please apply at ravinder@vsvwins.com, 510 560 4649 // raghav@vsvwins.com, 302 648 1257   Job Description:  - Project Duration: 12-month contract with a chance to extend   \n  - Project Location: Richmond, VA (Can be Remote)   \n  - It's a W2/1099 Position.   \n   Technical MUST haves:&amp;nbsp;  - Pyspark/Python, writing streaming applications into a production Enterprise environment.   \n  - Rest API Design and Development   \n  - Azure Data Bricks, Configuration, Notebooks development, and Delta Tables processing   \n  - SQL in Azure   \n  - Microsoft Azure   \n\u2022 Logic App\u2022 Function Apps\u2022 Resource Management\u2022 Agile Delivery Framework  - Proven experience with Agile and Waterfall SDLC methodologies.   \n  - Excellent systems requirement documentation skills   \n  - Proven ability to deliver results.   \n   Nice to Have Experience:  - Experience with Continuous Integration Continuous Development (CICD) is a plus   \n  - Experience with Test-Driven Development (TDD) is a plus   \n   Roles and Responsibilities:  - Follows direction set by the ETL Development Lead when developing ETL solutions.   \n  - Works with Systems Analysts in designing, testing, and implementing ETL solutions.   \n  - Works as part of a larger development team that includes other internal and external ETL developers.   \n  - Responsible for the development, testing, and maintenance of ETL solutions.   \n  - Participates in unit testing and data quality efforts within assigned data domain.   \n  - Creates and maintains appropriate documentation.   \n  - Must be able to troubleshoot and identify the root cause of production issues.   \n  - Demonstrate detailed knowledge of legacy systems, Atlas systems, data structures/usage and primary systems interfaces based on appropriately written system specifications.   \n   If you are interested or have references please apply at ravinder@vsvwins.com, 510 560 4649 // raghav@vsvwins.com, 302 648 1257.   Regards,Ravi ChandelVSVWINS INC.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-17T23:24:53.000Z"
+    },
+    "company": {
+        "name": "VSV WINS, INC",
+        "link": "https://www.linkedin.com/company/vsv-wins-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Virginia",
+        "region": "United States",
+        "postal_code": "23038",
+        "street_address": null,
+        "latitude": 37.512905,
+        "longitude": -78.697624
+    }
+}
