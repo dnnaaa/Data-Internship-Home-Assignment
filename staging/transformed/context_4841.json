@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Financial Services",
+        "description": "At Parafin, our mission is to grow small businesses. Small businesses are the backbone of our economy, yet banks do not have their back. Parafin is a technology company that builds infrastructure which enables small businesses to get easy access to financial services via platforms they sell on.Parafin's first product offers capital-as-a-service for online platforms. Parafin currently powers the capital programs of platforms ranging from Series B to post IPO companies. We are a tight knit team of engineers and designers, coming from organizations such as Robinhood, Affirm, CapitalOne, Uber and CERN, excited both about helping hundreds of thousands of small businesses grow and thrive, and building products that leaders at top companies have started to use every day. We are backed by prominent venture capitalists such as Ribbit Capital, Thrive Capital, Index Ventures, Green Oaks Capital and SV Angel.Data science is central to Parafin's success - we use unique and well-structured data from small businesses to build models that directly generate, at scale, the products we provide to those businesses. Parafin offers data scientists the exciting opportunity to combine high impact technical work with career growth while experiencing the multifaceted learning that abounds at a vibrant, early stage startup.About your roleYou will take unstructured business problems and turn them into data science problems through analysis, metric development, and modeling.You will make efficient, timely use of data to guide product and business decisions.You will define and conduct experiments impacting core product design and pricing decisions.You will define and implement a framework for evaluating the performance of our portfolio of credit products that will enable us to grow to the next level of scale.You will analyze conversion on our product and identify first order product improvements.You will apply machine learning to improve our underwriting and pricing strategy.You will help scale the Parafin team by hiring exceptional talent.About youYou are an effective generalist who partners well with engineering, product, and business functions.You communicate very well with both technical and nontechnical partners.You have a strong grasp of statistics and the fundamentals of machine learning.You care deeply about the quality and correctness of your work.You take initiative and can own and drive large projects independently.You are comfortable managing competing and shifting priorities.You are excited about working on a small team and setting the foundations for data science at Parafin.You have two years of work experience as a data scientist.You are experienced with Python or R.You have a bachelor's degree in statistics, engineering, math, computer science, or a related technical discipline.Preferred but not requiredExperience with credit risk modelingExperience with time seriesExperience with SQLGraduate degreeDon't see a role that fits your interests? If you're passionate about working at Parafin email us at work@parafin.com and tell us how you'd like to help.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-19T23:06:49.000Z"
+    },
+    "company": {
+        "name": "Parafin",
+        "link": "https://www.linkedin.com/company/buildparafin"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

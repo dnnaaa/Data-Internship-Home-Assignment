@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+        "description": "Our CompanyChanging the world through digital experiences is what Adobe\u2019s all about. We give everyone\u2014from emerging artists to global brands\u2014everything they need to design and deliver exceptional digital experiences! We\u2019re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.We\u2019re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!Our CompanyChanging the world through digital experiences is what Adobe\u2019s all about. We give everyone\u2014from emerging artists to global brands\u2014everything they need to design and deliver exceptional digital experiences. We\u2019re passionate about empowering people to craft beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.We\u2019re on a mission to hire the very best and are committed to building exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!The Opportunity Adobe needs a Senior Site Reliability Engineer (SRE) who knows how to balance going fast and going big with operating safely. Our mission is to progress, protect, and provide for the software and systems behind all of Marketo: An Adobe Company, with an ever-watchful eye on system availability, latency, performance, and capacity. SRE is a mentality of engineering approaches which focuses on building highly reliable systems and eliminating toil through automation.Our SRE and Engineering teams are distributed worldwide. We rely heavily on tools like Slack, JIRA and video conferencing to collaborate. Flexibility to join meetings with colleagues around the world is expected.We are passionate about what we do and are looking for experienced, motivated people to join a hardworking team. Do you have a track record as a Site Reliability Engineer in large-scale SaaS businesses, and a strong desire to implement initiatives and systems to enhance reliability, availability, security, and privacy? Are you familiar with devops and other agile methods? This opportunity is for you!What You'll DoTurning high-touch manual processes into fully automatic solutions and maintaining and improving existing automations.Use your clear understanding of automation and orchestration procedures to automate wherever and whenever possible while eliminating technical debt.Be a specialist at articulating technical characteristics of your services and the dependencies between services.Collaborate with and guide development teams to engineer scalable, fail-safe, and optimized solutions for the Marketo product suite.Resiliency and recoverability; test, maintain and improve existing processes, implement, test, and maintain new processes.Participate in an on-call rotation for onboarded projects, ensuring that our systems remain reliable for those who depend on them.What You Need To SucceedRequires a bachelor\u2019s degree and a minimum of 5+ years of directly related experience.6 + years proven experience building, provisioning, and operating highly available and sophisticated services in AWS, Azure, GCP and/or VMware. Experience in all is preferred.6 + years demonstrated ability in modern development practices (microservices architectures, etc.)Proven ability to define and detail technical architectures of highly complex and scalable systemsExperience implementing Docker, Kubernetes, etc.This SRE position requires strong technical skills, excellent communications and problem-solving skills, and the ability to engage and work well with other teams, as well as individuallyStrong understanding of service-to-service communications (OSI 7 layer model)Technologies we useCore infrastructure technologiesHashicorp technologies (Terraform, Packer, Vault, Consul), Ansible TowerJenkinsSpinnakerSplunk, New Relic, Nagios, Checkmk, Prometheus, GrafanaPython, bash, Ansible, Ruby, JavaKnowledge of the following technologies is beneficialCosmosDB, MySQL, PostgreSQL, Cassandra, Snowflake, Aurora, HBase, Redis, ElasticSearch, Druid, SpannerTomcat, Apache HTTPD, AKKA, Nginx, NodeJSLooker, Batch, Service Fabric, App Services, Hadoop, Kafka, ActiveMQ, Kubernetes, DockerAt Adobe, you will be immersed in an exceptional work environment that is recognized throughout the world on Best Companies lists. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely.If you\u2019re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.Adobe is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, or veteran status.Pursuant to the Colorado Fair Pay Act, below is a summary of compensation elements for this role at the company if based in Colorado.Colorado Starting Salary: $127,000 - $164,900At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-15T22:02:38.000Z"
+    },
+    "company": {
+        "name": "Adobe",
+        "link": "https://www.linkedin.com/company/adobe"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 125000,
+        "max_value": 192000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

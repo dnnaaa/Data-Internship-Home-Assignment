@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Computer Software,Information Technology and Services",
+        "description": "Job SummaryThe Red Hat Software Engineering team is looking for a Senior Site Reliability Engineer (SRE) to join our Application Site Reliability Engineering (AppSRE) team in Westford, MA. In this role, you will help architect, modify, improve, and support the platform running all user-facing Software-as-a-Service (SaaS) offerings on top of Red Hat OpenShift. Using your expertise in SRE principles of automation and continuous improvement, you will help create an environment where availability, reliability and security are threaded through the entire application life cycle, not treated as an afterthought. As a Senior Site Reliability Engineer, you will write new software as required to automate software deployments, upgrades, scaling, monitoring, alerting, and testing.Primary Job ResponsibilitiesDevelop secure service architecture using cloud-native technologiesDevelop systems, primarily in Python and Golang, to prevent outages through automatic scanning and remediationEstablish and enforce SRE best practices through platform constraints and high-fidelity system modelingParticipate in an on-call rotationRequired SkillsUnderstanding of distributed systems and common distributed system failure domainsSolid background in computer networking, computer security, Linux or UNIX operating systems, system administration, Jenkins continuous integration (CI) or continuous delivery (CD) pipelines, Git or GitOpsExperience writing reliable enterprise-grade softwareFamiliarity with cloud-based relational databases, object stores, and virtual machinesAbility to effectively work in a globally distributed teamThe Following Experience Is Considered a PlusManaging a production service with Red Hat OpenShift or KubernetesDesigning and carrying out security incident response proceduresDeveloping a Kubernetes controller, operator, or platform componentContributing to the design or codebase for a cloud-native service mesh solutionOperations experience with a production user-facing applicationAbout Red HatRed Hat is the world\u2019s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future.BenefitsComprehensive medical, dental, and vision coverageFlexible Spending Account - healthcare and dependent careHealth Savings Account - high deductible medical planRetirement 401(k) with employer matchPaid time off and holidaysPaid parental leave plans for all new parentsLeave benefits including disability, paid family medical leave, and paid military leaveAdditional benefits including employee stock purchase plan, family planning reimbursement, tuition reimbursement, transportation expense account, employee assistance program, and more! Note: These benefits are only applicable to full time, permanent associates at Red Hat located in the United States.Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T05:51:51.000Z"
+    },
+    "company": {
+        "name": "Red Hat",
+        "link": "https://www.linkedin.com/company/red-hat"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Westford",
+        "region": "MA",
+        "postal_code": "01886",
+        "street_address": null,
+        "latitude": 42.581127,
+        "longitude": -71.43963
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "DescriptionPossible 3 Month CTH | No Fees | Do Not Re-Post | ConfidentialSubmit candidates under their legal name and use only Client templateRole: Site Reliability EngineerWork location Richardson, Texas (Remote)Start date: Immediate availabilityBackground check MANDA TORYRequest ID: 10135876Pursuit ProjectBasic Qualifications4+ years of experience with creating CI/CD pipelines for Application DeploymentsMust have implemented DevOps practices/tools in areas such as Continuous Integration, Release automation, Metrics Tracking on the Azure PlatformStrong experience with Gitlab, Bitbucket Server, Artifactory, JenkinsStrong experience working with Database Technologies: MongoDB, PostgresSQL (Azure CosmosDB)Experience with Cloud Environments such as Azure or AWS - Specifically deploying (Java, SpringBoot, NodeJS) Applications on CloudApplication troubleshooting experience with Linux Operating SystemsKnowledge about Blue/Green, Canary DeploymentsPreferred Qualifications: (Good to have)Created application performance dashboards on Azure, using Application Insights and automated alerts.Ability to write Terraform scripts to build complete App services for large complex applications.Experience with Secrets management using Azure Key Vault, HashiCorp VaultConfiguration Management (Ansible, Chef) experience is a plusResumes Will Be Rejected For The Following Reasons Different format Missing details in comments section Missing text box in the header Photo ID included containing personal information other than legal name and photoMaria Andrea GomezExternal Resource Manager (ERM) | SubCo Staffing CenterClient North America | Guatemala",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-05T11:45:39.000Z"
+    },
+    "company": {
+        "name": "Lorven Technologies Inc",
+        "link": "https://www.linkedin.com/company/lorventech"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Richardson",
+        "region": "TX",
+        "postal_code": "75080",
+        "street_address": null,
+        "latitude": 32.960762,
+        "longitude": -96.73352
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Electrical/Electronic Manufacturing,Computer Software,Semiconductors",
+        "description": "Job DescriptionThe machine learning engineer position within the Client Platform Engineering (CPE) organization is chartered to develop/apply machine learning algorithms to effectively solve real-life engineering problems and improve design tools and methodologies in our platforms.Depending on the candidate's background, the responsibilities and job scope may involve the following:Utilize data mining techniques to analyze and derive insights from user telemetry data, system power/performance monitoring dataDevelop/apply machine learning algorithms such as reinforcement learning, Bayesian algorithms, deep learning in design optimization applicationsDevelop expert system to work together with machine learning algorithms and deliver solutions for end-to-end tools and methodologiesSupport cloud computing infrastructure prototyping and developmentComplete programming, testing, debugging, documentation, and deployment of the solutionInteracts with users/design teams to define product/solution requirements and technology decompositionAdditional Requirements IncludePassionate about applied machine learning and deep learning to solve real-life engineering problemsExtensive knowledge/experience of Machine learning, Data science, Heuristic algorithms, Optimization algorithmsFamiliar with state-of-art machine learning, deep learning algorithms and developmentProficient in C, C++, python, Matlab, JavaExcellent problem solving, critical thinking and communication skillsUnderstanding of computer architecture, physics-based simulation methodsMinimum QualificationsQualificationsMasters Degree or higher in Electrical Engineering, Computer Engineering OR similar technical STEM degree.4+ years of experience with Machine learning, Data science, Heuristic algorithms, Optimization algorithms .5+ years of experience with C, C++, python, Matlab, JavaPreferred QualificationsPHDInside this Business GroupThe Client Computing Group (CCG) is responsible for driving business strategy and product development for Intel's PC products and platforms, spanning form factors such as notebooks, desktops, 2 in 1s, all in ones. Working with our partners across the industry, we intend to continue to advance PC experiences to deliver the real-world performance people demand. As the largest business unit at Intel, CCG is investing more heavily in the PC, ramping its capabilities even more aggressively, and designing the PC experience even more deliberately, including delivering a predictable cadence of leadership products. As a result, we are able to fuel innovation across Intel, providing an important source of IP and scale, as well as help the company deliver on its purpose of enriching the lives of every person on earth.Posting StatementAll qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T04:08:37.000Z"
+    },
+    "company": {
+        "name": "Intel Corporation",
+        "link": "https://www.linkedin.com/company/intel-corporation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Hillsboro",
+        "region": "OR",
+        "postal_code": "97124",
+        "street_address": null,
+        "latitude": 45.52395,
+        "longitude": -122.98974
+    }
+}

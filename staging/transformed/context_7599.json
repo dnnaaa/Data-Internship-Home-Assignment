@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Engineer - Python / Data Streaming ",
+        "industry": "Information Technology and Services",
+        "description": "Ippon Technologies is a global technology consulting firm that unlocks possibilities by setting new standards for excellence and delivery. We accelerate our customers\u2019 digital roadmaps and our consultants\u2019 careers.&nbsp;We are looking for a Data Engineer based in Washington DC (or NYC, or Richmond, VA, or North Carolina, or Atlanta, GA), but we're Remote Friendly.The Ippon story started in 2002 in Paris, France - cue in the accordion. Our founder and CEO Stephane Nomis used his unique experience as an international Judo champion to create a culture based on the sports values of ambition and excellence. Ippon Technologies has the brains and brawn summarized by our five COACH values: Creative, Open, Agile, Courageous, and Hungry. Do you want to work with other talented individuals who are driven and fun to work with? Do you enjoy providing solutions and value to clients? Then Ippon is where you belong!&nbsp;It\u2019s your lucky day because we are growing fast in the US and are currently seeking Data Engineer&nbsp;to join our team!&nbsp;Ippon values talented individuals who are fun to work with. We also value diversity and the different perspectives our employees bring to Ippon Technologies everyday. We are an Advanced AWS Consulting Partner. Do you love Data, Cloud and Open Source Technologies? Are you driven by providing solutions and value to clients? Are you the one everyone comes to for all things Tech? Then Ippon USA is where you belong! And It\u2019s your lucky day, because we are currently seeking a Data Engineer.Take your next career step with Ippon Technologies, a Global Data leader!We build tailor-made architecturesBecause there is not one solution that fits all needs, we give special care to design pragmatic and simple data architectures to serve our customers demonstrated needs.We are looking for data engineers who are comfortable with different architectural approach such as:&nbsp;Batch processing for historical data (e.g. Hadoop, Spark)Streaming processing for near-real time analysis (e.g. Kafka, Flink)Machine Learning for classification, prediction, root-cause-analysis, etc. - e.g. Sci-Kit Learn, Keras, TensorflowSince we are a Cloud First Digital Company, it\u2019s even more attractive if you are skilled with cloud counterparts technologies.What you will do:Design and implement Data Architectures&nbsp;Create and optimize data pipelinesEnhance real-time data processingWork with Data Scientists and Data Owners to understand use cases and hypothesis to test with the dataBuild complete data platforms by assembling major Big Data solutions such as: EMR, Kafka, Spark, Airflow, Flink, Snowflake, Elasticsearch, etc.Python / Scala / Java / codingWhat we are looking for:Bachelor's degree in Computer Science or a related fieldAt least three (3+) years of software development experienceData Streaming techniques: Apache Kafka, Amazon Kinesis, Flink, Spark Streaming, etc.Experience with AWS technologies: DynamoDB, Glue, Athena, Redshift, Kinesis, EMRCloud Certifications (AWS/AZURE/GCP): Solution Architect Associate or Pro, Big Data SpecialtyGood knowledge of NoSQL solutions, must be able to recommend the best fit for NoSQL solutions (MongoDB and/or Cassandra is a plus)Snowflake experience desirableCI/CD, Kubernetes, DockerProductionalization of ML models a plus.&nbsp;Agile developmentETL / ELT tool experience&nbsp;Judo optionalAttention to details. Mention the word \u2018pineapple\u2019, in your interviewMust love croissants&nbsp;Ippon values talented people who are fun to work with. We also value diversity and the different perspectives our employees bring to Ippon Technologies.So, do YOU speak Ippon?&nbsp;Ippon USA is an Equal Opportunity Employer",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:29:05.000Z"
+    },
+    "company": {
+        "name": "Ippon Technologies USA",
+        "link": "https://www.linkedin.com/company/ippon-technology"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York City Metropolitan Area",
+        "region": null,
+        "postal_code": "10021",
+        "street_address": null,
+        "latitude": 40.748295,
+        "longitude": -73.98556
+    }
+}

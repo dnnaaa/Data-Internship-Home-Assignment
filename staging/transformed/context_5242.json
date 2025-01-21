@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Infrastructure Engineer",
+        "industry": "Financial Services,Information Technology and Services,Internet",
+        "description": "Our PurposeWe work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team \u2013 one that makes better decisions, drives innovation and delivers better business results.Job TitleSenior Infrastructure EngineerWho are We?SessionM is a customer engagement platform empowering the world\u2019s most innovative brands to forge stronger and more profitable customer relationships. The platform scales for the enterprise, globally. SessionM is headquartered in Boston with offices around the globe.Who you will work with?As part of this role, you will work closely with architects, software engineers and operations to design, build, deploy, manage and operate our development, test and production environments. You will build and maintain tools to ensure our applications meet our stringent SLA's in a fast paced culture with a passion to learn and contribute. We are looking for a strong engineer with a can do attitude and a passion to solve problems.What do you get to do everyday? Design and Contribute to infrastructure improvements, architecture, development, deployment, and monitor our global distributed platform Standardize, develop and maintain common development tools and infrastructure, such as CI/CD pipelines, monitoring, cluster management, config management, etc. Partner with engineering teams to identify and implement infrastructure improvements to better support our customers Write code and contribute to the software architecture of a highly concurrent, high-throughput system running on AWS Participate in an environment that emphasizes trust, open communication, creative thinking, and cohesive team effort Assist with organization wide security considerations Continue to automate (Infrastructure as code) the deployment of our platform and all the systems it depends onWhat kind of person should you be? Ability to influence others, build relationships, manage conflicts, handle negotiations, and have fun! Ability to handle pressure and focus on results Excellent organization, time management, problem-solving, and analytical skills Self starter who wants to lead initiatives from inception to completionWhat skills do you need? Strong experience working with Linux and AWS or other cloud providers Strong proficiency in infrastructure as code using Terraform and/or Puppet Strong ability to code/script using Ruby, Python Significant experience with automation/configuration management using Puppet Experience with monitoring tools such as Cloudwatch, SignalFX, Or Nagios Experience administering databases, such as Microsoft SQL Server, MySQL Experience with Docker container orchestration using Kubernetes, ECS or EKS Experience building and maintaining continuous integration/delivery tools in jenkins and/or gitlabWhat can you expect from us? A unique, supportive, and flexible work environment Challenges related to working in a fast-paced, growing environment Confidence to take risks when we see potential A management team that empowers peopleDue to COVID-19, most of our employees are working from home. We\u2019ve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely. We value the safety of each member of our community because we know we\u2019re all in this together.Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law. If you require accommodations or assistance to complete the online application process, please contact reasonable.accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T06:25:20.000Z"
+    },
+    "company": {
+        "name": "Mastercard",
+        "link": "https://www.linkedin.com/company/mastercard"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

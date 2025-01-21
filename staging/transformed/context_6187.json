@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Compiler Engineer/Architect",
+        "industry": "",
+        "description": "Ascenium (www.ascenium.com) is building a new class of processor and recruiting for multiple Compiler Engineers/Architects. In this role, you will be a key member of our Core Engineering Team. This is a ground floor opportunity as Ascenium just raised a $16M series A round. You can follow the recent coverage about Ascenium in THE NEXT PLATFORM newsletter (https://www.nextplatform.com/2021/07/12/gutting-decades-of-architecture-to-build-a-new-kind-of-processor/). If you want to be part of a top-tier team that is building \u201cWhat\u2019s next\u201d in high performance processors, you will enjoy this role.&nbsp;&nbsp;Job DescriptionDesign, develop, and enhance different components of the compilerBenchmark and analyze output produced by optimizing compiler, and quantify results (analyze performance, code size, and key other compiler metrics)Develop and execute benchmark and test scenarios for compilersCollaborate with the HW design team to co-optimize compiler strategy&nbsp;&nbsp;Build custom front-end and back-end LLVM passesQualificationsBS or MS degree in Computer Science, Computer Engineering, Electrical Engineering, or related field of studyMinimum 3+ years of working experience with LLVM/compilers; Proven ability to design/architect compiler frameworks; Knowledge of LLVM flow, front-end and back-end compiler techniques;&nbsp;Strong background in&nbsp;debugging technologies, code generation, program analysis, and compiler optimizationsExperience in C++ programming, and software design skills, including debugging, performance analysis, and test designKnowledge of contemporary of CPU and GPU Compute architecturesExperience and proficiency with code versioning systems (GitHub)Familiarity with hand-written assembly optimizations (especially math-related)Experience in constraint satisfaction problem-solving techniques, modeling, and simulation toolsHardware background / familiarity with Verilog is a plus,&nbsp;but not mandatoryIdeally have public LLVM repository contributions&nbsp;&nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-27T05:11:34.000Z"
+    },
+    "company": {
+        "name": "Ascenium Inc",
+        "link": "https://www.linkedin.com/company/ascenium-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Campbell",
+        "region": "CA",
+        "postal_code": "95009",
+        "street_address": null,
+        "latitude": 37.28766,
+        "longitude": -121.94243
+    }
+}

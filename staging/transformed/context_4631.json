@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer Lead - Remote",
+        "industry": "Information Technology and Services,Computer Software,Information Services",
+        "description": "Details are as follows:Job position: Site Reliability Engineer Lead Location : RemoteDuration: 12 months+ [Long term]Immediate Interview/ Start **Please NOTE: We have positions open in CANADA and US both **10+ years Total IT experience.Healthcare experience is required Experience of at least 5 years within an Enterprise SRE configuration (Mandatory)L2 L3 Productions supportBlue Green deploymentManaged on site and off site resourcesAWS: 4 years (Mandatory)- AWS Cost Optimization, Developing applications in an AWS environment &amp; Terraform.Debugging production issues: 4+ years (Mandatory). Python: 2-3 years (Mandatory) - DJango, Celery.Good to have: AWS Certified.Experience in with development technology stack-Docker, Python, Django, Celery, Postgres. AWS serverless technologies (Lambda, Cognito, API Gateway, Step Functions, AppSync)Experience in operational technology stack (Uwsgi, Nginx, RabbitMQ, Elasticsearch, Redis). Experience with automation tools- Salt, Vagrant, Packer. Experience with metrics and orchestration tools-Jenkins, NewRelic, Datadog, Loggly.He/ She needs to be the best buddy of Key IT Stakeholders and sponsors.&nbsp;",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-18T14:45:34.000Z"
+    },
+    "company": {
+        "name": "Saicon",
+        "link": "https://www.linkedin.com/company/saicon"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 120,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

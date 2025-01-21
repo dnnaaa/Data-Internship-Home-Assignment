@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Computer Software,Telecommunications,Information Technology and Services",
+        "description": "Relay is seeking a mid-level Software Engineer to help build our next generation of software and services. Haven't heard of Relay? You will soon! We are changing the way active workers communicate and our tight-knit team is looking to add another Software Engineer that is excited to drive impact. Check out our product here: https://relaygo.com/This role involves developing Java web applications with Amazon Web Services that power our backend systems.&nbsp;We build APIs, internal applications, integrate with 3rd party providers (for things like billing, logistics, customer service), and own a data warehouse.The ideal candidate will have experience as a Software Engineer in a fast-paced environment that has a strong emphasis on team culture.&nbsp;Our current team of mission-focused individuals feels like family.&nbsp;In addition to the technical skills needed to get the job done, as a candidate you will be able to work closely with team members across the business in order to develop innovative solutions which grow the brand. &nbsp;Essential FunctionsMust be able to work in close coordination with other engineers to implement new software solutions.Analyze requirements and specifications to determine the feasibility of proposed projects and solutions, including risk assessment of current production systems, and project estimation.Participate in the team\u2019s software development process.Develop unit and functional/integration tests.Support production deployments of developed solutions and ongoing production support via an on-call rotation (about once per month).Strong communication and problem solving skills.Document solutions for team members and end users.Have a strong interest in researching best practices in software development, and demonstrate the ability to share new knowledge with the team.&nbsp;Required Skills&nbsp;Software design skills with a deep understanding of object oriented programming fundamentals and design patterns.Experience with relational database systems.Experience in developing RESTful APIs.Excellent technical problem solving and debugging skills with asynchronous systems.Strong self-motivation and willingness to tackle challenging problems.Ability to multitask, work and communicate in a fast paced environment.Ability to provide technical mentorship in a team environment.&nbsp;Required ExperienceOur stack is a JEE application tightly coupled with Amazon Web Services products and features.&nbsp;The ideal candidate will have experience with the following:2+ years of current Java experience.2+ years of hands-on development with MySQL, PostGres or similar.2+ years producing and consuming RESTful web service APIs.Experience developing asynchronous applications ideally with Amazon SWF, or similar technologies.Experience with interpreted languages such as Python or Perl.Experience developing in a Linux/Unix environment using Git (or similar versioning systems) for source control.Experience with Amazon Web Services (S3, EC2, RDS, SWF, SQS, Cloudformation) or other cloud services (Azure, Google, etc) is a plus.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-13T11:48:18.000Z"
+    },
+    "company": {
+        "name": "Relay",
+        "link": "https://www.linkedin.com/company/relaypro"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Raleigh",
+        "region": "NC",
+        "postal_code": "27699",
+        "street_address": null,
+        "latitude": 35.781303,
+        "longitude": -78.64168
+    }
+}

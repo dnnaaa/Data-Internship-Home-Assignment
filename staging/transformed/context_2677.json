@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "Job DescriptionMy client is a leading global provider of legal, regulatory and business information and analytics that help customers increase productivity, improve decision-making and outcomes, and advance the rule of law around the world. They help lawyers win cases, manage their work more efficiently, serve their clients better and grow their practices. They assist corporations in better understanding their markets, monitoring their brands and competition, and in mitigating business risk. They collaborate with universities to educate students, and support nation-building with governments and courts by making laws accessible and strengthening legal infrastructures. This organization serves customers in more than 130 countries with 10,000 employees worldwide, is part of RELX Group, a global provider of information and analytics for professional and business customers across industries. They are looking to bring on a Senior SRE to assist in a 50-million-dollar project migrating 3 billion dollars\u2019 worth of products to Azure.Required Skills &amp; Experience Use of orchestration tools such as Terraform, Ansible or CloudFormation Previous Analytic and troubleshooting experience is required Experience migrating application from on-premises to public cloud. Experience with Blue-Green deployment methodologies. Experience working with containerised workloads such as Docker and Kuebernetes. Experience with Log Management tools e.g - Elastic Stack, Graylog or Splunk Experience working with an enterprise RDBMS such as MySQL and/or Microsoft SQL Server. Knowledge of change control and associated procedures. Use of Secret Management services e.g - Hashicorp Vault Experience with any high-level programming language. Configuration Management tools - e.g. Ansible, Puppet, Chef or equivalents. Professional experience of working within the public cloud - Azure, AWS or GCP. Hands-on experience of Linux and Windows server including support and troubleshooting. System and application monitoring - e.g. Prometheus, Grafana, Nagios etc. Professional Experience with common source control tools - e.g Git, SVN Cloud Architecture and system design to solve key business problems and facilitate team goals. Strong and enthusiastic technologist, able to demonstrate a broad technical knowledge Ability to act as a point of expertise, advise others in the team on best practise and impart knowledge. Development Coding and scripting experience - e.g. Powershell, Bash, Python or equivalent  Continuous Integration/Delivery Tools - e.g. Gitlab, Github, Jenkins Cloud Architecture and system design to solve key business problems and facilitate team goals. Security Hands-on experience performing application static/dynamic security and penetration assessment with tools such as - SonarQube, CheckMarx, AppScan, BurpSuite, OWASP ZAP Proxy, WebInspect, Fortify, Veracode, Nessus etc. Good understanding of defensive, corrective and detective controls and requirements Knowledge of OWASP Top 10/ SANS Top 25, identify vulnerabilities via manual and automated testing methods and how to effectively remediate vulnerabilities associated with each. Ability to recognize and escalate Security issues Exposure to application security testing (source code review and web/mobile application penetration tests) Familiarity with different types of security vulnerabilities and tools for countermeasure The candidate should be well versed in Information security principles at an Intermediate level Desirable Skills Desirable - AWS / Azure Certifications Qualifications 5+ years experience and proven background working in a technical, Cyber Security related position. BSc Engineering/Computer Science/IT Security or relevant experience. Industry certification such as CSSP, AWS Certified Security, CSSLP desirable The Offer Competitive Salary: Up to $60-80/hour, DOE You Will Receive The Following Benefits Medical Insurance &amp; Health Savings Account (HSA) 401(k) Paid Sick Time Leave Pre-tax Commuter Benefit Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.Posted By: Noah Mackeprang",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-05T00:25:23.000Z"
+    },
+    "company": {
+        "name": "Motion Recruitment",
+        "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 97200,
+        "max_value": 144000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Irvine",
+        "region": "CA",
+        "postal_code": "92717",
+        "street_address": null,
+        "latitude": 33.68591,
+        "longitude": -117.82472
+    }
+}

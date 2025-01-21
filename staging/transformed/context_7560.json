@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer \u2013 Containers &amp; Cloud",
+        "industry": "Computer &amp; Network Security",
+        "description": "The PositionWe are looking for bright and talented software engineers with primary knowledge in containers and cloud to join one of our cross functional international teams in Boston. The Boston team will be a new innovation hub with strong focus on containerization and cloud SaaS, for our flagship product Appgate SDP. With Appgate SDP we provide Zero Trust Network Access (ZTNA) to our customers which has been recognized by Forrester as one of the few leaders in the new hype in cybersecurity. If you can bring passion, knowledge and innovation to the team, we\u2019d love to hear from you! Today our international organization is rapidly expanding and employs over 500 people world-wide with close to 160 software engineers.  We work creatively, agile, and always encourage to use the latest technology. In order to create an inspiring, innovative and knowledge gathering working environment, we give our software engineers maximal autonomy. Within Appgate you will be surrounded by the world\u2019s best ethical hackers, machine learning experts and network security engineers.   What You will doContributing to the containerization of our flagship security products as part of a creative cross-functional international teamCreate new Zero Trust products for containerized workloadsCreate, manage and integrate software to automate and secure our public and private cloud offerings.Building automated frameworks for safe production deployments which can easily be maintained and operated by our SRE\u2019sAlways learn and bring new concepts and technology to your teamWhat you will needWork experience with containerized workloads: Kubernetes, DockerWork experience in some of the following areas: Go, Python, Rest APIs, AWS, GCP, Azure, Terraform, other programming languagesGood understanding of the Linux operating systemStrong knowledge about automatic deployment of softwareSome basic knowledge about IP networkingCares about readable, performant, reliable, and secure codeAble to work with other international software teams\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3+ years of experience or show desire to take a steep learning curveFluent in English Your Key interestsCybersecurityContainersCloud environments such as AWS, GCP and AzureContinuous deployment and integrationSAAS based software deliveryThe CompanyAppgate is a new large-scale international security software startup that brings together a set of highly innovative cloud and hybrid-ready security and analytics products and services with a big focus on Network Access, Anti-Fraud and offensive security services. The company is planning to go public in the second half of the year, and just got a new $100 Million funding for our ambitious expansion plans.Appgate SDP is a context-aware, identity-centric access control solution that surpasses outdated hardware-defined and perimeter-centric approaches to infrastructure security with a \u201csoftware-defined perimeter\u201d that increases resilience, simplifies management complexity and reduces costs. Currently deployed with well over 200 customers, including a few fortune 100 companies and governments. Appgate SDP is the fastest growing product within the Appgate portfolio.&nbsp;Does this sound like an interesting challenge for you? We hope to hear from you!Interviews are held regularly so the role can be filled before the application deadline.Privacy and PuL - When you apply you allow us to save your information strictly for recruitment purposes.&nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:31:35.000Z"
+    },
+    "company": {
+        "name": "Appgate",
+        "link": "https://www.linkedin.com/company/appgate-security"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

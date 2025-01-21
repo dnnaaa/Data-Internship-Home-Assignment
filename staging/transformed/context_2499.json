@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "",
+        "description": "Link to apply: https://vertexinc.avature.net/careers/JobDetail/Machine-Learning-Engineer-IV/1219JOB SUMMARY:Perform analysis, design, implementation, testing, maintenance and support tasks with minimal supervision. This position requires interaction with other group members and departments, and as such, requires excellent communication skills. This position requires the ability to work independently, as well as in collaboration with others to implement solutions. This is a member of the team working on our Machine Learning based Tax Categorization product.essential job functions AND responsibilities:Implement, test, maintain and support software, based on technical design specifications.Prepare technical design specifications based on functional requirements and analysis documents.Review functional requirements, analysis, and design documents and provide feedback.Assist customer support with technical problems and questions.Assist and mentor other development staff.Investigate software development tools.Participate in architecture and code reviews.Lead or participate in other projects or duties.Knowledge, skills and abilities:Ability to apply professional concepts, experience and company objectives in order to perform an in-depth analysis of situations or data to resolve complex issues in creative ways.Ability to work without supervision, working with wide latitude for independent decision making.Ability to lead the work of others in the context of a project.Ability to mentor less experienced developers and team members.Ability to listen and understand information and communicate the same.Must possess strong interpersonal, organizational, presentation and facilitation skills.Must be results oriented and customer focused.Ability to listen and understand information and communicate the same.Must possess good organizational skills.Must be results oriented, customer focused, and exhibit good interpersonal skills.Python, Java, AWS Services like Lambda, SageMaker, S3, API Gateway, Step Functions, Docker, Cloud Environment, REST API. EDUCATION, TRAINING:Bachelor\u2019s Degree in Computer Science, Information Systems or related field; or equivalent combination of education/experience.Eight (8) years of experience in software developmentTraining in AWS cloud technologies and AWS Certified ArchitectREQUIRED FOUNDATIONAL COMPETENCIES:\u00b7 Builds Relationships: Fosters open dialogue and obtains shared commitment to proposals; shared ideas and information to promote mutual understanding, respect, and effective decision-making.\u00b7 Drives for Results: Acts to create opportunities for Vertex or to avoid future problems; has the courage to act with incomplete information rather than simply thinking about it; maintains a focused commitment to achieving enterprise objectives.\u00b7 Knows the Business: Understands and applies knowledge of Vertex\u2019s business and processes to accomplish goals.\u00b7 Anticipates Customer Needs (internal and external): Establishes and maintains productive relationships with customers and partners, anticipating their needs.\u00b7 Learns Continuously: Expands own knowledge base to enhance performance; seeks development to increase strengths for current and future needs.COMMENTS:The above statements are intended to describe the general nature and level of work being performed by individuals in this position. Other functions may be assigned, and management retains the right to add or change the duties at any time.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04T14:10:17.000Z"
+    },
+    "company": {
+        "name": "Vertex Inc.",
+        "link": "https://www.linkedin.com/company/vertex-inc."
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "King of Prussia",
+        "region": "PA",
+        "postal_code": "19406",
+        "street_address": null,
+        "latitude": 40.08832,
+        "longitude": -75.382126
+    }
+}

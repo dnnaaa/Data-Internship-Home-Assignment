@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "Required Skills:Expert in MySQL and one or more of the following: Oracle, Mongodb, Postgres, Oracle, MSSQL, Kafka, Hadoop, Hbase or Hive&nbsp;Experience in Kafka for at least 1 year is Must. Bachelor's degree in computer science or Information TechnologyExpert in database and SQL tuning&nbsp;Expert trouble-shooter&nbsp;Authored software to do parts or all of your jobStrong Shell, Python and SQL scripting to automate DB related jobs&nbsp;&nbsp;Familiarity with observability tools such as Grafana, Prometheus, Vividcortex, Solarwinds, Nagios, Icinga, Munin, Cacti, WiresharkAbility to work with development teams&nbsp;Familiarity with low level debugging tools: strace, tcpdump, gdb, lsof and netstat&nbsp;Familiarity with Splunk&nbsp;Expertise in setting up and testing backups&nbsp;&nbsp;Responsibilities:Respond to issues within the Service Level Objective during your assigned on-call rotationSupport 1 of 2 of these tracks of technologyKafka, ElasticSearch+LogStash+Kibana and RabbitMQMySQL, Postgres, Oracle, MSSQLWrite software to improve the reliability, scalability and performance of Client\u2019s infrastructureTroubleshoot broken systems and services issues",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-03T19:29:29.000Z"
+    },
+    "company": {
+        "name": "Akraya, Inc.",
+        "link": "https://www.linkedin.com/company/akraya-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

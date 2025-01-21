@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Marketing and Advertising,Computer Software,Internet",
+        "description": "What You'll Do As A Software EngineerUsing our entire technology stack and to develop new features and applications for the Zenput platform, including web and mobile UI's, commenting and messaging, webhooks and APIs, as well as expand capabilities in our mobile applications.Contribute to and influence design and development decisions.Work in an agile environment, quickly and incrementally delivering value to our customers using tools from the SCRUM toolbox and using tight feedback loops with customers, product, and quality.Maximize our velocity and minimize risk by using TDD/CI and other DevOps best practices.Use Jira, Slack, and Zoom, to communicate with your team and leadership.What We're Looking ForGreat communicator and outstanding team player. Bias towards over-communicating and asking questions.Desire to be part of a team, be a part of culture and contribute, and seeks best outcome for the team rather than being right.Curious and intentional about self-development.English language proficiency (at the B2 - Upper Intermediate level or greater).CS/CIS/Systems Mentality.Adoption of CI, DevOps principles and a focus on quality.A deep understanding about request life cycles, system architecture, and user behavior.Strong understanding of software design fundamentals and algorithms.Experience with Agile/Scrum methodologies and associated tools &amp; principles.MySQL/Postgres/RDBMS experience. (Just using ORM's doesn't count).Ability to design and implement the right technical solution for the right problem at the right time (i.e. you don't over-engineer, but you do thoroughly consider the constraints).Someone fun, interesting, and likes to build and hack. Not just software!2 + years of programming in Python, Javascript, Java or Objective-C (or other OOO language) for the web.Nice To HavesSpecific experience with our tech (React, Django, Javascript, Python, NoSQL, Mobile Development, AWS).Experience working remotelyExperience with DevOpsExperience working with hardware (mobile devices, embedded hardware)Expertise in and experience with developing enterprise products, and web products at scaleExperience with distributed systems, complex user interfaces or other challenging engineering problemsOpen source contributionsYou've helped make your work environment fun, and it's important to you.You've built great relationships with coworkers in the past, and want to keep doing it.You care similarly about building great software, and building great relationships with other people.You're interested in the technical problems we are solving.You're interested in the types of business problems we are solving.What You'll GetMedical / Dental / 401K benefitsUnlimited PTOOwnership through stock options",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T05:21:16.000Z"
+    },
+    "company": {
+        "name": "Zenput",
+        "link": "https://www.linkedin.com/company/zenput"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

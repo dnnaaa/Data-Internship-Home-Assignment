@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer, OS Power &amp; Performance",
+        "industry": "Consumer Electronics",
+        "description": "Summary Great battery life and device performance are critical for Apple products. Would you like to help with quantitative analysis and modeling of high dimensional data to draw insights that would impact hundreds of millions of users? Does the idea of developing software to analyze battery life and system performance excite you? If this describes you, we would love to hear from you! Key Qualifications Strong statistical analysis and machine learning skillsExperience with data analytics and visualizationStrong coding skills and software development experienceStrong analytical thinking to solve challenging problemsGrowth mindset and ability to work independentlyExcellent spoken and written communication skills Description We're looking for a motivated and agile software engineer with excellent analytics, machine learning, software development, problem solving and communication skills. You will need to analyze high dimensional data to derive meaningful insights. You will also be developing software, ML and analytics infrastructure for streamlined analysis of large datasets. To be successful in this role, you must have a strong foundation in statistical analysis and the ability to apply it to real world problems to draw sound conclusions. You must also have a strong software engineering background and be able to write production level code. As a member of this team, you will have the opportunity to provide meaningful insights to teams across Apple on a broad range of products. Education &amp; Experience M.S. or Ph.D. in Computer Science, Electrical Engineering, Applied Mathematics, Statistics, or equivalent Additional Requirements Preferred skills and experience:- Experience with programming languages like Python, C, C++ or Java- Experience in relational database technologies such as Postgres and SQLite- Proficiency in distributed compute technologies such as Spark and Splunk- Strong understanding of software systems Role Number: 200248945",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-11T07:56:08.000Z"
+    },
+    "company": {
+        "name": "Apple",
+        "link": "https://www.linkedin.com/company/apple"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 135000,
+        "max_value": 214000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cupertino",
+        "region": "CA",
+        "postal_code": "95014",
+        "street_address": null,
+        "latitude": 37.319313,
+        "longitude": -122.02927
+    }
+}

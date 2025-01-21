@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Financial Services",
+        "description": "Job Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sr. Windows SRE AdministratorDepartment:&nbsp;&nbsp;EIS \u2013 Traditional Services \u2013 Windows Group Location:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nomura NYC ( currently remote )Start:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As soon as possible.Overview:Nomura Windows group is a global team responsible for the maintenance and support of the Windows infrastructure systems used within the bank. The team plays a critical role and works closely with global counterparts in maintaining the production infrastructure and provide Windows related services to our clients.&nbsp;This is an exciting role and the successful candidate\u2019s primary responsibility will be to provide support for the firm\u2019s Windows infrastructure. The team operates in a follow the sun support model. &nbsp;The candidate must be a good team player, highly articulate, and be able to work well in a high pressure and technically challenging environment. The candidate should be passionate about supporting Windows based servers in highly virtualized environment. Good technical, communication and interpersonal skills are particularly important.&nbsp;Windows requirements:&nbsp;As a Windows SRE administrator, the candidate will expected to build software that will increase the efficiency of daily support.&nbsp;This will also include updating runbooks and support procedures.Knowledge of and Support of Operating System versions 2008, 2012 and 2019.Knowledge of Active Directoy administration and the ability to modify GPOsCandidate should be able to deploy and support MS Windows clusters.The ability to create active directory administration script, and Windows OS support scripts,&nbsp;via scripting languages (PowerShell&nbsp;is highly preferable, while ability in Python, VBScript, Jscript/JavaScript to achieve the scripting objective here is also a big plus )General support and administration of Anti-Virus such as Trend Micro and Windows Defender.&nbsp;Role / Principal Accountabilities\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support and Manage Microsoft Windows based systems. \u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Responsible for looking at ways to improve and automate SRE items which include availability, latency, performance, efiiciency, and capacity planning\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Troubleshooting support and system performance issues.\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Handling of trouble tickets, user requests, proactive maintenance.\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support weekend BCP / DR tests.\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assisting application teams in post-configuration of new servers deployed.\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Candidate should have a good understanding of ITIL and Change management policies.\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cordination with Infrastructure teams and Business IT managers to deliver projects on schedule.\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implement engineered solutions to improve efficiency and stability of the infrastructure.\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Provide documentation for 1st line Operations team and maintain run books.\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weekend oncall production support on a rotation basis.Skills &amp; Experience Required:Familiarity with Site Reliability Engineering componentsDeep understanding of Windows OS, Cloud and associated tools.Deep understanding of active directory,&nbsp;and how enterprise class identity and access management (IAM) is extended from on-premises environment to public cloud.Cloud tools such as &nbsp;Ansible, Kubernetes, and Docker are a plus.Familiarity with Cyberark and Windows time services is a plus.Strong understanding of Virtual (VMware) and physical networking configuration.Strong ability to troubleshoot issues and provide resolution.Ability and desire to learn and work independently as well as in a teamProject management and organizational skills.Strong written and verbal communication skills are a must.Analytical and disciplined approach to problem solving.Ability to establish and maintain effective working relationship with in the infrastructure teams.Previous experience with supporting a banking infrastructure is preferred.&nbsp;&nbsp;Additional qualifications:&nbsp;\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hardware support for HP DL380 and Cisco B200 \u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TCP/IP, Networks and Firewalls.\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Client/Server systems\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Familiarity with Enterprise Monitoring systems is desirable\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good understanding of Information Security policies.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-01T19:37:20.000Z"
+    },
+    "company": {
+        "name": "Nomura",
+        "link": "https://jp.linkedin.com/company/nomura"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 87600,
+        "max_value": 139000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York City Metropolitan Area",
+        "region": null,
+        "postal_code": "10021",
+        "street_address": null,
+        "latitude": 40.748295,
+        "longitude": -73.98556
+    }
+}

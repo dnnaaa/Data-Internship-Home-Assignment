@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "Computer Software",
+        "description": "Job Title: Senior Software EngineerLocation: Philadelphia, PA or New York, NYRequired Technology And Skills5 years of software development experience with focus on web-based applications and full-stack development for both customer facing UI and backend servicesExperience developing software in LAMP stack with PHP preferable utilizing Symfony.Experience developing with a UI framework, Ember.js preferred or React and Anuglar Experience with Linux configurationSome experience with different PHP runtimes Hands on experience with relational databases \u2013 MySQL preferred. Prefer database design and query developmentExperience maintaining and improving distributed systemsNice To Have SkillsExperience developing a REST API.Knowledge of Docker and containers.Experience working with AWS services Experience with CI/CD preferred JenkinsSalary And Compensation$120,000-$140,000BonusBenefits And PerksAbility to work remote401K matchClientOur client is a Fortune 500 firm that specialize in software solutions for the edtech and health tech spacePlease email jpillion@talener.com for more information or to apply.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T22:41:54.000Z"
+    },
+    "company": {
+        "name": "Talener",
+        "link": "https://www.linkedin.com/company/talener"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Philadelphia",
+        "region": "PA",
+        "postal_code": "08051",
+        "street_address": null,
+        "latitude": 39.95106,
+        "longitude": -75.16562
+    }
+}

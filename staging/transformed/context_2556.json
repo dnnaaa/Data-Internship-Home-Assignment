@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "Drop Party is a DTC entertainment brand that rewards highly devoted fandoms with premium merchandise and experiences. We're here to allow fans to engage meaningfully in cultural moments during a time where our identities are increasingly defined by the products, brands, and experiences we buy.We're a growing and diverse team of experienced operators nurturing a culture of collaboration, openness and diversity of thought.We are giving preference to candidates that are Austin, TX based, or open to relocation.What you'll be doing:Build and iterate on gamified commerce web experiences. An engaging and entertaining experience is crucial for drops centered around a fandom.Gather requirements across a cross-functional team and prioritize features effectively. Our work spans a large breadth of fields and tech plays a large part.Owning all stages of development process: development, testing, implementation, operational support.Must be a team player, able to work within tight deadlines on multiple projects in a fast-paced environment.Developing for scale and reliability. Traffic to drops are bursty and requires systems that won't fail in crucial moments.Experience2-3 years of React experience. Understands react hooks, functional components vs class components, etc.Proficiency in front-end web development, including styling, animations, component libraries, etc.Can handle complex logic required for gamification elementsFamiliarity with Node.js, Babel, Webpack, and other modern javascript tooling.Typescript experience preferred.Demonstrated strong technical judgment in conjunction with passionate customer-focusBenefitsMedical, Dental, Vision Insurance3 weeks Paid Time Off &amp; Standard National HolidaysRemote-hybrid work environment, work from home as neededEquity Participation",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04T19:00:01.000Z"
+    },
+    "company": {
+        "name": "Drop Party",
+        "link": "https://www.linkedin.com/company/drop-party"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

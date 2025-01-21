@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Sr Data Engineer",
+        "industry": "Airlines/Aviation",
+        "description": "Job ResponsibilitiesWork closely with source data application teams and product owners to design, implement and support analytics solutions that provide insights to make better decisionsImplement data migration and data engineering solutions using Azure products and services: (Azure Data Lake Storage, Azure Data Factory, Azure Functions, Event Hub, Azure Stream Analytics, Azure Databricks, etc.) and traditional data warehouse tools.Perform multiple aspects involved in the development lifecycle - design, cloud engineering (Infrastructure, network, security, and administration), ingestion, preparation, data modeling, testing, CICD pipelines, performance tuning, deployments, consumption, BI, alerting, prod support.Provide technical leadership and collaborate within a team environment as well as work independently.Be a part of a DevOps team that completely owns and supports their productImplement batch and streaming data pipelines using cloud technologiesLeads development of coding standards, best practices and privacy and security guidelines.Mentors others on technical and domain skills to create multi-functional teams Minimum Qualifications- Education &amp; Prior Job ExperienceBachelor's degree in Computer Science, Computer Engineering, Technology, Information Systems (CIS/MIS), Engineering or related technical discipline, or equivalent experience/training3+ years software solution development using agile, DevOps, operating in a product model that includes designing, developing, and implementing large-scale applications or data engineering solutions3+ years data analytics experience using SQL2 years of cloud development and data lake experience (prefer Microsoft Azure) including Azure EventHub, Azure Data Factory, Azure Databricks, Azure DevOps, Azure Blob Storage, Azure Data Lake, Azure Power Apps and Power BI.Combination of Development, Administration &amp; Support experience in several of the following tools/platforms required: Scripting: Python, Spark, Unix, SQLData Platforms: Teradata, Cassandra, MongoDB, Oracle, SQL Server, ADLS, Snowflake, Azure Data Explorer. Administration skills a plusAzure Cloud Technologies: Azure Data Factory, Azure Databricks, Azure Blob Storage, Azure Data Lake, Azure Power Apps and Azure FunctionsCI/CD: GitHub, Jenkins, Azure DevOps, TerraformBI Analytics Tool Stack - Cognos, Tableau, Power BI, Alteryx, Denodo, and GrafanaData Warehousing: DataStage, InformaticaData Governance and Privacy: Informatica Axon and EDC, BigID Preferred Qualifications- Education &amp; Prior Job Experience5+ years software solution development using agile, dev ops, product model that includes designing, developing, and implementing large-scale applications or data engineering solutions.5+ years data analytics experience using SQL3+ years full-stack development experience, preferably in Azure3+ years of cloud development and data lake experience (prefer Microsoft Azure) including Azure EventHub, Azure Data Factory, Azure Functions, ADX, ASA, Azure Databricks, Azure DevOps, Azure Blob Storage, Azure Data Lake, Azure Power Apps and Power BI.Airline Industry Experience Skills, Licenses &amp; CertificationsExpertise with the Azure Technology stack for data management, data ingestion, capture, processing, curation and creating consumption layers.Expertise in providing practical direction within the Azure Native cloud services.Azure Development Track Certification (preferred)Spark Certification (preferred) 7153",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-25T17:22:51.000Z"
+    },
+    "company": {
+        "name": "Ntelicor",
+        "link": "https://www.linkedin.com/company/ntelicor"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fort Worth",
+        "region": "TX",
+        "postal_code": "76116",
+        "street_address": null,
+        "latitude": 32.749905,
+        "longitude": -97.33034
+    }
+}

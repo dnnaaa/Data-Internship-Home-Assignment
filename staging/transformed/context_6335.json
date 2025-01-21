@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer, Web",
+        "industry": "Computer Games",
+        "description": "Who we are:SuperDraft is a New Hampshire and Las Vegas based company that is focused on paid entry and free to play daily fantasy and sports betting in the U.S. The Company has developed several unique game modes and features that appeal to both casual and hardcore sports fans and fantasy players.Who you are:You'll be a creative contributor to the entire Agile development lifecycle, from design and implementation to testing and monitoring.What you\u2019ll do:Write clean, well-organized, testable and reusable JavaScript and TypescriptBuild performant, well-tested User Interface components in React and ReduxImprove performance by identifying and fixing bottlenecks using industry standard patterns and practicesParticipate in product spec reviews, technical design reviews, and code reviewsWhat you\u2019ll bring:Excellent verbal and written communication skillsUnderstanding of JavaScript development best practices (ES6 preferred).2+ years' experience working with modern frontend frameworks (React, SASS, etc.)Experience with common tools like Webpack, npm and Jest.Experience building reusable components with an eye towards responsive designExperience translating product requirements into technical specifications.Bachelor's degree in a technical major or equivalent work experienceWhat we\u2019ll love:Experience with React hooksWhat we\u2019ll bring:SuperDraft is an equal opportunity employer and does not discriminate based on race, gender, or sexual orientation.Employees receive a competitive benefits package, including health insurance, paid vacation/sick leave, and stock options.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T18:46:25.000Z"
+    },
+    "company": {
+        "name": "SuperDraft, Inc.",
+        "link": "https://www.linkedin.com/company/superdraftdfs"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

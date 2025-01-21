@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer - Pandora",
+        "industry": "Entertainment,Broadcast Media",
+        "description": "SiriusXM and Pandora have joined together to create the leading audio entertainment company in the U.S. Together, we are uniquely positioned to lead a new era of audio entertainment by delivering the most compelling subscription and ad-supported audio experiences to millions of listeners -- in the car, at home and on the go. Our talent, content, technology and innovation continue to be at the forefront, and we want you to be a part of it! Check out our current openings below and at www.siriusxm.com/careers .Position SummarySiriusXM is seeking a Senior Software Engineer to join our Metadata Delivery Team. Our team focuses on analyzing talk and music content using machine learning methods driven by our science and analyst teams. We are responsible for making this highly data available at listener scale, using a hybrid cloud approach.Duties And Responsibilities Coding in Java, Scala, or Python.  Mentor team members on engineering best practices.  Analyze requirements and technical specifications, and implement assigned development tasks using various technologies.  Be familiar with the overall software stack and the software components.  Supervisory Responsibilities:  None.  Minimum Qualifications:  BS in Computer Science or equivalent  5+ years of Software Developer/Software Engineer experience.  Requirements and General Skills:  Good public speaking and presentation skills.  Interpersonal skills and ability to interact and work with staff at all levels.  Excellent written and verbal communication skills.  Ability to work independently and in a team environment.  Ability to pay attention to details and be organized.  Ability to project professionalism over the phone and in person.  Ability to handle multiple tasks in a fast-paced environment.  Commitment to \u201cinternal client\u201d and customer service principles.  Willingness to take initiative and to follow through on projects.  Creative writing ability.  Excellent time management skills, with the ability to prioritize and multi-task, and work under shifting deadlines in a fast-paced environment.  Must have legal right to work in the U.S.  Technical Skills:  Thorough knowledge of a modern software development process will be required.  The role will demand an understanding in modern testing and deployment best practices.  Knowledge of data structures and run time efficiencies will play a key role in contributing to our team\u2019s codebase. More details about our company benefits can be found  here !Our goal at SiriusXM+Pandora is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM+Pandora is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.The requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-08T03:13:23.000Z"
+    },
+    "company": {
+        "name": "Pandora",
+        "link": "https://www.linkedin.com/company/pandora"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 142000,
+        "max_value": 197000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Oakland",
+        "region": "CA",
+        "postal_code": "94612",
+        "street_address": null,
+        "latitude": 37.80483,
+        "longitude": -122.27248
+    }
+}
