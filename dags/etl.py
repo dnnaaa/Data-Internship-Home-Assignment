@@ -4,7 +4,8 @@ from airflow.providers.sqlite.operators.sqlite import SqliteOperator
 from tasks.extract import extract_data
 from tasks.transform import transform_data
 from tasks.load import load_data
-from utils.constants import DAG_DEFAULT_ARGS, TABLES_CREATION_QUERY
+from utils.constants import DAG_DEFAULT_ARGS
+from utils.tables_creator import create_database_schema
 
 @dag(
     dag_id="etl_dag",
@@ -17,14 +18,9 @@ from utils.constants import DAG_DEFAULT_ARGS, TABLES_CREATION_QUERY
 )
 def etl_dag():
     """ETL pipeline for processing LinkedIn job posts"""
-    
-    create_tables = SqliteOperator(
-        task_id="create_tables",
-        sqlite_conn_id="sqlite_default",
-        sql=TABLES_CREATION_QUERY
-    )
 
     # Define tasks
+    create_tables = create_database_schema()
     extract = extract_data()
     transform = transform_data()
     load = load_data()
