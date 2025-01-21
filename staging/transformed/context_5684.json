@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software",
+        "description": "This Jobot Job is hosted by Matthew WadeAre you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.Salary $110,000 - $160,000 per yearA Bit About UsBased in Portland, OR we are fast growing, well-funded startup. We are a SD-WAN provider focused on optimizing access to the Cloud. We are looking to add the talent of a Software Engineering Manager. This person will report to our VP of Engineering and will manage and lead a team of 8 engineers. Our organization believes in servant leadership. We are seeking someone with a deep attitude of service towards co-workers and customers. We also believe in having fun while still pushing ourselves to grow as people.Why join us? Highly Competitive Base Salary Extremely Competitive Equity Package Opportunity to make a lasting impact in a burgeoning spaceJob DetailsWhat you\u2019ll be doingAs a Site Reliability Engineer you\u2019ll be working with our network operations, support, and development teams to resolve customer issues, build and maintain internal and public-facing infrastructure (hardware and software), and to identify and resolve system issues in a dynamic fast paced environment. We are looking for someone that believes that operations is a software problem and seeks to define prescriptive ways for measuring availability, uptime, outages, toil, etc.ResponsibilitiesProvide the first line of internal support for the Bigleaf server, OS, and software infrastructure, including triage of software, networking, resource, and security issuesBuild, maintain, and deploy infrastructure for software and hardware systemsMaintain and extend the Bigleaf development environment including Linux tools, Bamboo, Puppet, Terraform, AWS, Azure and other cloud providersShare ownership with developers by using the same tools and techniques across the stackHave a formula for balancing accidents and failures against new releasesEncourage automation and minimize manual systems work to focus on efforts that bring long-term value to the systemQualificationsBachelor's degree in Computer Science, a related technical field involving software/systems engineering, or equivalent practical experience.Experience with designing, analyzing, and troubleshooting large-scale, public-facing, distributed systems.Deep understanding of the Unix/Linux operating systems, including kernel networking packet flowStrong understanding of network fundamentals, including tunneling (e.g. VPNs)Working knowledge of SQL databasesAbility to work in a fast-paced environment, supporting multiple concurrent projectsExperience with algorithms and data structures.Excellent written and verbal communication skills in a multi-team, collaborative environmentInterested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-22T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Jobot",
+        "link": "https://www.linkedin.com/company/jobot"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Eugene",
+        "region": "OR",
+        "postal_code": "97401",
+        "street_address": null,
+        "latitude": 44.052155,
+        "longitude": -123.091194
+    }
+}

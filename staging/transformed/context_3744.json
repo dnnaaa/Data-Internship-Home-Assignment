@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "ActiveLogic Labs designs and develops custom web-based and mobile software applications for a myriad of different industries and in several different technologies. We\u2019re looking for experienced and versatile software engineers who aren\u2019t afraid of working as a team, exploring new technologies, and pushing their personal skills to their full potential.&nbsp;What\u2019s in it for you?Salary range $80k - $130k (Depending on skill &amp; experience)Competitive total compensation package&nbsp;Full Benefits, 50% of Medical premiums paid for by companyCompany paid Disability and Life insuranceFlexible schedule &amp; work locationLocally owned, friendly, fun atmosphereTechnical Qualifications &amp; SkillsWe\u2019re not worried about whether your experience is perfectly aligned with everything we use but more that you want to learn and bring your experience building solid applications. Here are some of the things we do:Front-End Web TechCSS/HTML (SCSS, Webpack)BootstrapVue.JSReactJavascript / JQueryAngularBack-End Web TechPHP / Laravel / Symphony.NET / C#Javascript / NodeJS / ExpressLower-Level TechPythonC / C++JavaRequired Qualifications:3+ Years of professional development experience (School work does not count)GIT Source Control (Pull Requests, Code Reviews)Relational Database Experience (MySql, SQL, Postgres)Dependency Management (Composer, NPM, Webpack, Bower)",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T20:35:20.000Z"
+    },
+    "company": {
+        "name": "ActiveLogic Labs",
+        "link": "https://www.linkedin.com/company/activelogic-labs"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Leawood",
+        "region": "KS",
+        "postal_code": "66211",
+        "street_address": null,
+        "latitude": 38.91238,
+        "longitude": -94.62669
+    }
+}

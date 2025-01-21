@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer Intern",
+        "industry": "Computer Hardware,Computer Software,Semiconductors",
+        "description": "RoleThe Software Engineer Intern will aid in gathering new neural network frozen graphs, assembling data sets for each graph, and helping to isolate various blocks within the graphs. As part of these roles, you will be expected to work with machine learning frameworks and associated tools. You will be joining a small team in a dynamic startup environment, where each member is expected to take on a wide range of responsibilities and to learn and grow with the company.ResponsibilitiesGather frozen graphs for open-source DNNs and associated data setsModify existing graphical tools to isolate various component sub-graphsAid in \u201clowering\u201d the sub-graphs through our toolchain RequirementsPursuing a degree in Computer Engineering or Computer ScienceIllustrates a strong programming background with Python and JavascriptProficiency with version control software, such as GitSelf-driven debugger who loves digging deeper to determine a root causeNice to havesExperience with Deep Neural NetworksExperience with ElectronExpected Outcomes in 4 monthsCollected 3-5 DNN frozen graphs and associated data setsDeveloped a graphical tool to isolate repeated sub-graphs",
+        "employment_type": "INTERN",
+        "date_posted": "2021-09-04T06:22:09.000Z"
+    },
+    "company": {
+        "name": "quadric.io",
+        "link": "https://www.linkedin.com/company/quadric.io"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Burlingame",
+        "region": "CA",
+        "postal_code": "94012",
+        "street_address": null,
+        "latitude": 37.584194,
+        "longitude": -122.366264
+    }
+}

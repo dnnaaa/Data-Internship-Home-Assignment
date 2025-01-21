@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Job DescriptionSoftware Engineer in Philadelphia, PA 19103Interview Logistics:Video InterviewsRequired Skills SetYears of Experience:7+Education Required:Bachelors Degree or Equivalent Work Experience7+ years of experience(Python w/ no Front End) OR (React &amp; Python)Proficiency in AWS cloud serviceExperience working in an Agile environmentProject DescriptionAdditional Preferred Skills:You will own and be responsible for developing key components of our overall system that enables our customers to bring new insights to their own businesses. You'll use the best tools for the job, whether modern and revolutionary or time tested and proven, to deliver elegant, scalable solutions that meet business and technical needs.What you will doWork with a team of developers to execute strategies, implement solutions and produce peer reviewed quality softwareDevelop user facing interfaces into the data ecosystemAdd new features into our productsBuild serverless pipelines to handle API requestsImprove the software development process and contribute code reviewOwn the deployment of software and setting up monitoringBusiness ProblemWe are building a platform that will scale to support an ever-growing array of data providers and innovative products. You must be able to think big while still delivering on near-term requirements.Our company challengesEmpowering clients with highly rewarding data discovery and licensing toolsIngesting and managing billions of healthcare records from a wide variety of partnersStandardizing on common data models across data typesOrchestrating an industry-leading HIPAA privacy layerInnovating our proprietary de-identification and data science algorithmsBuilding a culture that supports rapid iteration and new possibilitiesThe infrastructure and culture we are building will provide an environment that cultivates innovation. We want to move fast knowing we can fix anything we break along the way. If a new need arises, we want to turn around a solution quickly. We want to solve our challenges in ways that create even more possibilities. We're creating a platform that lets us Client what else we might do.Physical Environment And Working Conditionsconsultant will be able to work remotely",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T21:18:24.000Z"
+    },
+    "company": {
+        "name": "Turnberry Solutions",
+        "link": "https://www.linkedin.com/company/turnberry-solutions"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 84,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Philadelphia",
+        "region": "PA",
+        "postal_code": "08051",
+        "street_address": null,
+        "latitude": 39.95106,
+        "longitude": -75.16562
+    }
+}

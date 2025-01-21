@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer - C / C++ / Python",
+        "industry": "Defense &amp; Space",
+        "description": "We are a rapidly growing autonomy and robotics technology company that has been in business for over 20 years! We are transforming government and commercial transportation with programs that include self-driving cars and trucks; autonomous shuttles; UAV; UAS; and drones. As we grow our team, we are looking for passionate people who want to build long-term careers with us!What's In It for You Competitive Compensation Contingent On Experience Health, Vision, and Dental Benefits 401k Matching Parental Leave Life InsuranceWhat You Need for this Position Experience as a Senior Software Engineer C and / or C++ Python Ability to obtain government clearance; although clearance is not required for this role B.S., M.S., or Ph.D. degree in the field of Robotics, Computer Science, or Electrical, Mechanical, or Aerospace Engineering Sensor processing (LIDAR, image processing, stereo cameras, RADAR) is a plus Familiarity with Linux or other POSIX operating systems (Ubuntu and NuttX) is a plus Experience with open-source drone development tools and flight controllers (Pixhawk, PX4, Ardupilot) is a plus Experience with Robot Operating System (ROS) is a plus Familiarity with microcontroller programming or NVIDIA Jetson embedded platforms is a plus Kalman Filtering as applied to GPS/INS or IMUs is a plus Localization, Mapping, SLAM is a plusWhat You Will Be Doing Development of software algorithms related to guidance, navigation, and control of advanced multirotor aerial vehicles Software will support autonomous vehicle operations including navigation, path planning, obstacle avoidance, sensor processing, and perception Indoor and outdoor testing of software running on multirotor aerial vehicles Complete FAA Part 107 training and certification Work as part of a multi-disciplinary development team, participating in team meetings, design reviews, brainstorming sessions, and testing events Document activities, prepare tech reports, present results, and demonstrate system capabilities Travel for field testing and project meetings may be requiredSo, if you have the experience above, please apply today or email me directly at edwin.ocampo@cybercoders.com!Email Your Resume In Word ToLooking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:Edwin.Ocampo@CyberCoders.comPlease do NOT change the email subject line in any way. You must keep the JobID: linkedin : EO1-1632158 -- in the email subject line for your application to be considered.***Edwin Ocampo - Recruiting Manager - CyberCodersApplicants must be authorized to work in the U.S.CyberCoders, Inc is proud to be an Equal Opportunity EmployerAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-31T07:00:32.000Z"
+    },
+    "company": {
+        "name": "CyberCoders",
+        "link": "https://www.linkedin.com/company/cybercoders"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 85300,
+        "max_value": 157000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Gaithersburg",
+        "region": "MD",
+        "postal_code": "20884",
+        "street_address": null,
+        "latitude": 39.142185,
+        "longitude": -77.193405
+    }
+}

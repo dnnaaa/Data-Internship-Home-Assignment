@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "",
+        "description": "Oda processes thousands of real estate images every day to better understand and serve to different audiences with evolving interests and tastes. As a machine learning engineer in our team, you'll help build and scale our cutting-edge Oda Optimization image processing and recommendation pipeline.&nbsp;What you'll do:Develop &amp; Train &amp; Monitor deep learning models to improve various Oda products.Collect &amp; Clean &amp; Generate custom datasets for DL/ML model training.&nbsp;Design and implement software solutions to improve our image processing pipeline to personalize services to different clients.&nbsp;What we're looking for:2+ years of industry experienceBS or MS in Computer Science, Statistics or related fieldExperience working with CNN, Autoencoder and Transformer architectures&nbsp;Expertise in Pytorch / Tensorflow or other GPU APIsHands-on experience with data processing pipelines, databases and large scale machine learning systemsNice to have:Background in recommendation or computational advertisingWorking knowledge of Reinforcement Learning Algorithms.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T07:21:57.000Z"
+    },
+    "company": {
+        "name": "Oda Studio",
+        "link": "https://www.linkedin.com/company/odastudio"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "TR",
+        "locality": "T\u00fcrkiye",
+        "region": null,
+        "postal_code": "",
+        "street_address": null,
+        "latitude": 38.989094,
+        "longitude": 35.433243
+    }
+}

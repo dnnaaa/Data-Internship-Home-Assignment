@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer, Factory Software Systems",
+        "industry": "Automotive,Renewables &amp; Environment,Utilities",
+        "description": "RoleThe Core Automation Services (CAS) team at Tesla is building applications to enable manufacturing, with an eye towards reliability, availability, scalability, speed and security. We're a diverse team composed of Controls Automation Engineers, Software Engineers, and various other disciplines that help facilitate automated manufacturing processes.As an SRE on the CAS team you'll be working with the infrastructure, systems and applications that act as the middleware layer between Programmable Logic Controllers (PLCs) and the outside world, such as Databases, MES systems and other services.ResponsibilitiesSupport interim HMI/SCADA vendor application (Ignition from Inductive Automation)Building tooling around it, evaluating its usage, and helping to ensure its reliability, availability and securityDesign software and systems that enable automated manufacturing at TeslaAssist Software, Controls, Manufacturing and other types of Engineers with onboarding and integrating services into the Tesla stack (Kubernetes/VMWare/Bare-metal)Ensuring best practices and observability of the service, such as metrics, logging, tracing, and alertingAutomate configuration and deployment of servicesConsult on and design infrastructure, systems and application architecture RequirementsExperience with Virtualization or ContainerizationExpert skills in Linux and its administrationUnderstanding of networking (Routing/Switching, VLANs, Firewalls, Load Balancers)Experience in a high-level language such as Go, Python and/or JavaUnderstand the concepts of Observability and Infrastructure as Code (Prometheus, AlertManager, Grafana, Jaeger and/or Splunk)CI/CD pipeline experience (preferably with GitLab)Comfortable on an on-call rotationComfortable doing live troubleshooting of issues on NOC bridges/outage callsHabitual documenter and spreader of knowledgeWilling to mentor other team members and engineers with less SWE/IT type knowledgeStrong bias for action vs endless planning, willing to get hands dirty and make mistakes sometimes3+ years as DevOps/Site Reliability EngineerAnsible for systems automationArtifactory for storing/retrieving assetsBare-metal imaging experience (Foreman/Linux PXE)Kubernetes/vSphere administration experience",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-03T09:45:28.000Z"
+    },
+    "company": {
+        "name": "Tesla",
+        "link": "https://www.linkedin.com/company/tesla-motors"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 74200,
+        "max_value": 106000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fremont",
+        "region": "CA",
+        "postal_code": "94537",
+        "street_address": null,
+        "latitude": 37.5502,
+        "longitude": -121.98083
+    }
+}

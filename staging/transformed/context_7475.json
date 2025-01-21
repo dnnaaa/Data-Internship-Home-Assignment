@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Engineer",
+        "industry": "",
+        "description": "Company Introduction:BlockTrace, LLC was founded in 2018 with the primary objective of working with customers to solve challenges related to investigating incidents of money laundering, asset recovery, fraud, and other financial crimes involving the use of cryptocurrencies. It has helped private companies and government agencies to address these challenges. Its team has a diversified range of skills and experience including but not limited to conducting cyber and cryptocurrency investigations, software engineering, big data analytics and forensics.The Challenge:We are looking for a senior data engineer who will be a powerful addition to our team. You are naturally curious, a software engineer by heart and are adept at working with big data using scripts that you create. This includes identifying patterns, behaviors and identifying specific items and insights that are of value. You enjoy creating nodes and relationships using graph database technologies. You are passionate about developing scripts, algorithms, building predictive analytics, using automation, applying machine learning, and using the right combination of tools and frameworks to turn sets of disparate data points into objective answers. You are a quick learner, energetic, curious, passionate, and motivated to meet project objectives. Most importantly, you are a great communicator, excellent team player and be able to operate in a collaborative environment.You Have:5+ years of professional experience in an engineering role5+ years of professional experience in Python.Database query experience in SQL, NoSQL and Cypher.Graph database experience using Neo4j, Amazon Neptune and/or Tiger Graph, etc.Experience with the ETL process (Extract, Transform, and Load)Experience leveraging the use of advanced machine learning algorithms (e.g. Neo4j Graph Data Science Library)Experience with various clients Neo4j Browser, Bloom, Mongo Compass, etc.Linux experience in RHEL, CentOS, Debian and/or UbuntuExperience in developing scripts in both Python and BashNice If You Have:Experience using virtualization software such as VMWare ESXI, Google Cloud Platform, AWS, Azure, etc.Experience in using visualization tools: Plotly, Matplotlib, Seaborn, ggplot, Metabase, Power BI, Amazon Quicksight, and/or Apache Superset.Experience using web services such as Google BigQuery, Redshift, S3, Spark, and/or AWS.Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, and MySQL.Experience working with blockchain data via different API'sKnowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.Experience with accessing the Dark web, Darknet Marketplaces and conducting cryptocurrency transactionsWe are an EOE that empowers our people\u2014no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic\u2014to fearlessly drive change.Citizenship:&nbsp;U.S. Citizenship is required. (Customer Requirement)Languages Required:&nbsp;EnglishLocation: Fully Remote (Work from current location in the U.S.)Education:&nbsp;A Master's Degree or higher preferred, but not required.Certifications: \"Neo4j Professional Certified\" candidates are preferred but not required.Travel:&nbsp;Under normal circumstances occasional domestic and international travel may be required. (Not during COVID)Government Clearance:&nbsp;Must be willing to undergo a background screening and successfully obtain a government security clearance.Criminal History:&nbsp;Must not have been convicted of a felony and be willing to undergo a criminal background check.Job Type:&nbsp;Full-time",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-12T04:01:53.000Z"
+    },
+    "company": {
+        "name": "BLOCKTRACE",
+        "link": "https://www.linkedin.com/company/blocktrace"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Test Automation - Software Engineer",
+        "industry": "Financial Services,Investment Management,Banking",
+        "description": "Job DescriptionImportant Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as \u201cPersonal Cell\u201d or \u201cCellular\u201d in the contact information of your application.At Wells Fargo, we are looking for talented people who will put our customers at the center of everything we do. We are seeking candidates who embrace diversity, equity and inclusion in a workplace where everyone feels valued and inspired.Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure; provides information security; and enables Wells Fargo global customers to have 24 hours a day, 7 days a week banking access through in-branch, online, ATMs, and other channels.Our mission is to deliver stable, secure, scalable, and innovative services at speeds that delight and satisfy our customers and unleash the skills potential of our employees.This position will be a Software Engineer supporting our Community Banking Gateway application, Community Banking Voltron application and the Community Banking Data Warehouse (CBDW) application. The Gateway application supports Community Banking reports. The Voltron application stores data used for Community Banking reporting. CBDW is a data application system which holds Community Bank data such as product sales data, customer experience data and incentive data.Responsibilities IncludeWork with the product owner and business stakeholders to identify solutions to business needs.Attend all Kanban and/or agile team meetings, including the daily stand ups. Be an agile champion.Write and maintain all required project documentation needed, such as work flows and user guides.Assist the product owner with writing and editing user stories.Meet sprint goals.Conduct data, functional and web based testingCreate test plans and test cases. Write, submit and manage testing defects.Assist in automating unit/system tests.Conduct validation in our production environment.Write, maintain and manage all required test documentation.Conduct business analysis as needed.Providing CBDW application end user support.Perform web content changes.Acts in a lead technical role providing technical guidance and consultation with application teams, clients, and Engineering Managers for their technology domain environments including but not limited to cloud, middleware, operating systems, applications, Software-as-a-Service, and Platform-as-a-Service products. Design, code, test, debug and document programs using agile development practices. Provides the strategy and design for projects associated with their technology domain including, upgrades and deployments.Utilizes advanced technologies and methods to integrate their technology domain with other technology domains, enabling the creation of new or expanded heterogeneous environments. Develops new documentation and departmental technical procedures. Directs the gathering of performance statistics to assist in determining hardware and communication tools needed to support projected transaction volumes, response time and system availability targets. May provide guidance and direction to less experienced staff in resolution of highly complex technical problems. Assures quality, security and compliance requirements are met for supported technology domain. Leads projects and as an escalation point, provides guidance and direction to less experienced staff in resolution of highly complex technical problems. Assures quality, security and compliance requirements are met for supported technology domain.Required Qualifications5+ years of software engineering experienceDesired QualificationsAn industry-standard technology certificationStrong verbal, written, and interpersonal communication skills1+ year of JIRA experienceExperience using the team collaboration software ConfluenceData warehouse experienceStrong analytical skillsProficiency in Excel and other Microsoft Office products (Power Point, Word, Access)Experience with Agile methodology of project deliveryKnowledge and understanding of application lifecycle, from design and development to testing, implementation and production supportExperience communicating and presenting complex information to multiple levels of the organizationExperience successfully escalating complex issues and tracking follow-through to completion2 + years of SQL Server SSIS, SSRS and SSAS experience Knowledge and understanding of technology testing: automation and data automation Experience with automation, regression, and performance testingDisclaimerAll offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.Relevant military experience is considered for veterans and transitioning service men and women.Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.BenefitsBenefits SummaryVisit https://www.wellsfargo.com/about/careers/benefits for benefits information.Reference Number5584963-1",
+        "employment_type": "PART_TIME",
+        "date_posted": "2021-09-02T05:32:06.000Z"
+    },
+    "company": {
+        "name": "Wells Fargo",
+        "link": "https://www.linkedin.com/company/wellsfargo"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Minneapolis",
+        "region": "MN",
+        "postal_code": "55440",
+        "street_address": null,
+        "latitude": 44.977486,
+        "longitude": -93.264366
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Scientist - Marketing Focus",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "Job SummaryJoin highly skilled data science team using state of the art machine learning and data analysis to attack a broad range of unique problems. We are engaged in solving difficult problems in prediction, optimization, clustering, anomaly detection, time series analysis, and Natural Language Processing (NLP). Application areas include network operation, cyber security, customer experiences, marketing, and many more. You will have a unique opportunity to apply data science and machine learning techniques to wireless data and work in a new area for data science, which is deep and scientific.The data is huge in scale, encompassing measurements from tens of millions of users worldwide at time granularity of seconds. And, your work will go into enterprise class products as well as consumer products that you and your friends are buying.Responsibilities Collaborate with cross functional teams to translate complex real-life business problems into concrete problem statements, formulate the technical specifications, and develop the machine learning solutionsUtilize data science and machine learning techniques to:Identify opportunities to acquire new customers and upsell new productsSegment customers into different cohorts based on their WiFi usage, behaviors, and characteristicsMeasure the impact of different marketing campaigns such as referral, royalty credits, rebates, rewards, and optimize expensesPredict user behaviors such as calls, churn, and satisfaction scores, to identify underlying problems and support requirementsDesign and develop data pipelines from various data sources by processing structured and unstructured data to support our machine learning and analytic needsConduct in-depth analysis on our WiFi telemetry and user behavior data, derive actionable insights as well as critical KPIs, build dashboards to monitor the network statistics, and propose the direction of our product developmentCreate compelling data stories and visualizations for marketing and publicityQualifications (Required)Strong ability in Python and SQLExperience in performing sophisticated statistical analysis on real-world, large datasetsExpertise in data analysis and processing -- in particular, data \"wrangling\" skills, such as data cleaning, augmentation, validation, the creation of ETL pipelinesExperience working with high volume data and distributed data processing tools (Spark, Map/Reduce, Hadoop, Hive, etc.)Hands-on experience working with machine learning frameworks and fundamental understanding of machine learning concepts/techniquesProactive, autonomous, yet collaborative, passionate about growing our business, and can thrive in a fast-paced and intellectually rigorous environment1-3 years of industrial experience in data science requiredMS or PhD in related disciplinesExperience DesiredExperience in marketing analytics and AB testingExperience with data visualization tools such as Tableau and RedashExperience in time-series analysis and forecasting",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-02T05:19:01.000Z"
+    },
+    "company": {
+        "name": "Plume Design, Inc",
+        "link": "https://www.linkedin.com/company/plume-wifi"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 105000,
+        "max_value": 173000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Palo Alto",
+        "region": "CA",
+        "postal_code": "94310",
+        "street_address": null,
+        "latitude": 37.445103,
+        "longitude": -122.16036
+    }
+}

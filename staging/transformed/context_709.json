@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist (Big Data Engineer)",
+        "industry": "Information Technology and Services,Financial Services,Hospital &amp; Health Care",
+        "description": "Job DescriptionJob Description...Required SkillsExperience in large-scale IT Project/Product delivery with at least 3 years of work experience in current data streaming, messaging, management, and database technologiesAbility to establish and always maintain effective and professional working relationships with others in the course and scope of conducting businessExcellent communication, problem-solving, and organizational skillsStrong data integrity, analytical, and multitasking skillsGraduation from an accredited four-year college or university with major coursework in Computer Science or EngineeringExperience creating producer and consumer applications with KafkaExperience with designing and building data platformsExperience in tuning and troubleshooting streaming/messaging platformsExperience coding and scripting (Python, Java, Scala) and design experienceExperience with ELT methodologies and toolsHands-on experience with AWS and/or AzureExperience with KStreams and KSQLExperience with designing and automating build and deployment solutions/process for data solutionsFamiliarity with data visualization, warehouse, and analytics tools/platforms such as Qlick, SAS Viya, Kibana, SnowflakeExperience with streaming/messaging platforms (Kafka, MQ, RabbitMQ, Elk, Elasticsearch)Basic knowledge of database technologies (PostgreSQL, Vertica, Redshift, etc.) Able to work independently",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-09T02:06:54.000Z"
+    },
+    "company": {
+        "name": "LanceSoft, Inc.",
+        "link": "https://www.linkedin.com/company/lancesoft"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

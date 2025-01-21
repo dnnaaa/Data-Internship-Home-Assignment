@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Financial Services,Health, Wellness and Fitness,Hospital &amp; Health Care",
+        "description": "DescriptionPerforms advanced data design and analysis using the Electronic Medical Record (EMR) to create new knowledge useful to KP and outside organizations. Extracts and cleans large volumes of healthcare data across dozens of sources. Applies expert statistical methodologies to clinical outcomes. Partners effectively with physicians, other clinicians, software engineers and business managers to communicate findings using data visualization techniques.Essential ResponsibilitiesWorks with physicians, epidemiologists, statisticians, business managers, and software engineers, to formulate and scope questions and translate knowledge into care transformationDevelops algorithms and predictive models to solve critical health service problemsInfluences a general audience to understand the quality, completeness, and appropriate use of dataProvides advice about choice of statistical approaches, perform statistical analysisDevelops tools and libraries to create efficiencies for future workDevelops systematic approaches to assure data validity.Identifies new sources of data within the electronic medical record that will improve information about target diseases and clinical processes.Establishes links across existing data sources; process large volumes of data needed for complex research/operational studiesTrains Data Consultants and other data workers.Kaiser Permanente conducts compensation reviews of positions on a routine basis. At any time, Kaiser Permanente reserves the right to reevaluate and change job descriptions, or to change such positions from salaried to hourly pay status. Such changes are generally implemented only after notice is given to affected employees.Secondary FucntionsPosition is for one year.Continuation is contingent upon contract/grant fundingExperienceBasic Qualifications:Minimum eight (8) years of experience with multivariate data analysis commonly used in epidemiology (e.g. logistic regression, linear regression, cluster analysis, Cox proportional hazard analysis, GEE, and hierarchical models). Minimum eight (8) years of experience writing and executing complex queries to extract/process data (e.g. SQL), including linking tables and variables from very large datasets. Minimum eight (8) years of programming experience to build and validate machine language and statistical algorithms and to perform statistical analysis (e.g. R, Python, SAS)EducationMaster's degree required in a quantitative health field (epidemiology, math/statistics, bioinformatics) or computer science.License, Certification, RegistrationN/AAdditional RequirementsDemonstrated understanding of data systems and architecture. Experience using data science, AI, and machine-learning platforms to build and deploy supervised and unsupervised models. Demonstrated ability to create and execute solutions to complex data science problems. Demonstrated ability to lead project efforts, communicate effectively with team members, and guide decision making. Advanced knowledge of data visualization tool principles, theories, and concepts.Preferred QualificationsExperience working with electronic medical record, to conduct health research and analytics.Experience using novel open source software for analytic and non-analytic processing.Experience with health record standards, including HL7 and other interchange and coding standards highly desirable.Advanced training in biostatistics and/or statistics (degree or continuing education).Demonstrated scholarly activities to advance the field (e.g., teaching, presentations at conferences, lead or co-authorship of scientific manuscripts). Demonstrated understanding of clinical workflows. Demonstrated proficiency with Natural Language Processing.Well versed in open source libraries and methodologies for creating data workflows composed of most appropriate technologies, including command line tools, containerized tools, microservices, etc.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-19T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Kaiser Permanente",
+        "link": "https://www.linkedin.com/company/kaiser-permanente"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 109600,
+        "max_value": 238400,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Oakland",
+        "region": "CA",
+        "postal_code": "94612",
+        "street_address": null,
+        "latitude": 37.80483,
+        "longitude": -122.27248
+    }
+}

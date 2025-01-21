@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Retail",
+        "description": "Location: Corporate Headquarters - Springfield, MO or RemoteTentative Schedule: Monday-Friday, 8 a.m.-5 p.m.Compensation Range: $65,000.00 - $115,000.00 annually, pay will be based upon applicable experience, training and skillsBonus: This job is eligible for an annual cash bonus based on individual goal achievement.A&nbsp;Data Scientist II&nbsp;at O'Reilly Auto Parts is responsible for modeling complex enterprise problems, discovering insights and identifying opportunities through the use of statistical, algorithmic, mining and visualization techniques. The Data Scientist II will work closely with clients, data stewards, project/program managers and other IT teams to turn data into critical information and knowledge that can be used to make sound organizational decisions.&nbsp;Essential Job FunctionsWork with stakeholders to identify opportunities for leveraging company data to drive business solutions.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Synthesize facts, theories, trends, inferences, key issues and themes in complex and variable situations.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognize abstract patterns and relationships between seemingly unrelated entities or situations.Apply appropriate concepts and theories in the development of principles, practices, techniques, tools, and solutions.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gather and analyze information or data on current or historical trends to anticipate the future.Improve organizational performance through the application of original thinking to existing and emerging methods, processes, products and services.Employ sound judgment in determining how innovations will be deployed to produce return on investment.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Translate up-to-date information into continuous improvement activities that enhance performance.&nbsp;&nbsp;&nbsp;Anticipate, identify and define problems while continually.Develop and implement practical and timely solutions.Skills and QualificationsRequired:&nbsp;Bachelor's degree in an Information Technology field.5+ years' practical experience with ETL, data processing, database programming, and data analytics.Extensive experience with Python, including Pandas, Numpy, SciKit-Learn, and Jupyter notebooks.Extensive experience with machine learning and statistical modeling.Knowledge of a variety of machine learning techniques (e.g., clustering, decision-tree learning, artificial neural networks) and their real-world advantages/drawbacks.Knowledge of advanced statistical techniques and concepts (e.g., regression, properties of distributions, statistical tests and proper usage) and experience with applications.Mastery of SQL along with knowledge of database design and optimization.Excellent communication skills and the desire to work in a dynamic and collaborative environment.Demonstrable ability to develop and implement mathematical solutions to data problems.&nbsp;Desired:&nbsp;Advanced degree in Computer Science, Statistics, Applied Math, or related field.Experience with a high-level programming language such as Java.Linux command line experience that includes shell scripting.&nbsp;BenefitsAll full time team members are eligible for a benefits package that is designed to offer convenience and security to our team members and their families. Programs, resources and benefit eligibility varies based on employment status, average hours worked, location and length of service. For detailed benefits info, please&nbsp;click here&nbsp;or type&nbsp;http://bit.ly/ORLYBenefits&nbsp;in your browser.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-19T19:04:15.000Z"
+    },
+    "company": {
+        "name": "O'Reilly Auto Parts",
+        "link": "https://www.linkedin.com/company/o%27reilly-auto-parts"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

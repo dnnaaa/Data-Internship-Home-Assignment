@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "A global platform provider based in Berlin, Germany is seeking a Site Reliability Engineer to help bolster&nbsp;and support their cloud-based service offering. They're looking for someone with experience in Linux, CI/CD pipelines and some coding.&nbsp;Requirements:A solid background and working experience in Software Development and/or Linux Systems Administration roleStrong interpersonal, written and verbal communication skillsAvailable to participate in a scheduled on-call rotationProficient as a Linux Systems Engineer, Linux Administrator, Software Developer, Software Engineer with experience managing large scale Web Services infrastructureDevelopment experience in one or more of the following programming languages: Linux, Python, Bash, Go, Java, C++, or RustIn addition, experience with one or more of the following would be beneficial:Distributed data storage at scale (Hadoop, Ceph)NoSQL at scale (MongoDB clusters, sharded Redis, Cassandra)Data Aggregation technologies. (ElasticSearch, Kafka)Scaling and managing traditional RDBMS (PostgreSQL, MySQL) with High AvailabilityMonitoring &amp; Alerting (Prometheus, Grafana), and Incident Management toolsetsVirtual infrastructure and/or container hosting (deployment and management) at scaleThis position is remote, but once Covid restrictions lift, they will look at a hybrid working model, and they would like candidates who are based near Berlin to pop in for meetings from time to time and catch-ups.Paying between $130 to $140k + Bonus + Benefits Apply now to be considered and for more information!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T16:54:46.000Z"
+    },
+    "company": {
+        "name": "Apollo Solutions",
+        "link": "https://uk.linkedin.com/company/apollo-solutions"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "California",
+        "region": "United States",
+        "postal_code": "93266",
+        "street_address": null,
+        "latitude": 37.254673,
+        "longitude": -119.61728
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "",
+        "description": "We are seeking a Senior Software Engineer to help us build our data automation platform targeted at business users from the ground up using public cloud infrastructure and services. Your position requires hands-on development while collaborating with the team in driving the critical technical decisions and infrastructure needed to launch, support, and ramp the product in a fast-paced environment. You enjoy working closely with product and design to align on requirements and priorities to produce a best-in-class product experience. You have a thinker-doer mentality and can think broadly but deep dive into details and help shape the team culture.Recommended Skills:Bachelor of Science degree, or equivalent experience with strong coding skillsDeveloped and shipped products using Javascript with frontend (React) and backend (Node.js) frameworksHands-on experience with using REST APIs, SQL / NoSQL databases, authentication services, web frameworks, and integrating with 3rd party applications.Working Knowledge of cloud platforms, e.g., Azure, GCP or AWSAble to confidently make technology decisions and back them up.Understanding of scripting languages, e.g., JavaScript, Python, Go, PHP, etc.Passion for delivering high-quality software by writing clean code and using test-driven development methodologies; you seek out the root cause when debugging software defects and champion improvements that prevent future issues.Works across teams, have great attention to detail and exhibit excellent written and verbal communication skills.BenefitsMacBook Air/ProVision, dental, and medical plan choicesFlexible working hoursCompetitive salary &amp; 401(K)Flexible/Personal Time OffEmployee Stock Purchase Plans, and other financial benefitsPaid Holidays",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T01:15:03.000Z"
+    },
+    "company": {
+        "name": "Immersa",
+        "link": "https://www.linkedin.com/company/immersaco"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Palo Alto",
+        "region": "CA",
+        "postal_code": "94310",
+        "street_address": null,
+        "latitude": 37.445103,
+        "longitude": -122.16036
+    }
+}

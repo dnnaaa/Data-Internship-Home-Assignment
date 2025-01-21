@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "We are looking Software Engineers to join our growing software development team. The ideal candidate is someone who has experience with Python, Django, Postgres SQL and Javascript.&nbsp;They are a team player possessing strong analytical as well as technical skills and are able to communicate the logic behind technical decisions to non-tech stakeholders. If you want to join a company with AMAZING culture and a company that has been awarded one of the BEST Places to Work in San Diego for multiple years in a row, look no further\u2026well\u2026look a bit more\u2026for the details below!What you will be doing:Designing, implementing, researching and managing software programsTesting and evaluating new programsIdentifying areas for modification in existing programs and subsequently developing these modificationsWriting and implementing efficient codeDetermining operational practicalityDeveloping quality assurance proceduresDeploying software tools, processes, and metricsMaintaining and upgrading existing systemsHelping junior team member learnWorking closely with other developers, UX designers, businesses and systems analystsWhat you can do:Minimum 5+ years of Software Dev experience.1 year of professional experience working in a medium size Django or Flask codebase.Knowledge about design and implementation of the basic data structures required to solve most common real-world problems effectively.Fast, motivated, and quick to pivot with feature changes. Obsessed about software quality.Meticulous and organized approach to work.Solid understanding of the core Python language and its standard library or at a minimum, similar understanding on any other modern scripting language such as Ruby, JavaScript, PHP, etc (plus willing to learn &amp; master Python too).1 year of professional experience working in a medium size Django or Flask codebase.&nbsp;Technologies &amp; programming languages we use:Note: Not all of these are required, but the more experience you have with these the better.PythonDjangoFlaskRubyJavaScript programming skills, including at least one JavaScript framework (e.g. React, Angular, or Vue.js)Database skills including schemas and ORMsCompany Perks:BonusesIncredible company culture with a relaxed vibeSuper fun and creative co-workersFull benefits including a generous 401(k) match",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-29T23:04:34.000Z"
+    },
+    "company": {
+        "name": "1Point21 Interactive",
+        "link": "https://www.linkedin.com/company/1point21-interactive"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Diego",
+        "region": "CA",
+        "postal_code": "92161",
+        "street_address": null,
+        "latitude": 32.71576,
+        "longitude": -117.16382
+    }
+}

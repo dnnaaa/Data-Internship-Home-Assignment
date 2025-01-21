@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "Data ScientistThe ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.&nbsp;Location: North&nbsp;Austin office if you'd like to use itSalary: $120k - $135kVisa Status: US Citizen&nbsp;ResponsibilitiesAnalyze raw data: assessing quality, cleansing, structuring for downstream processingDesign accurate and scalable prediction algorithmsCollaborate with engineering team to bring analytical prototypes to productionGenerate actionable insights for business improvementsQualificationsM.S. in quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)At least 1 - 2 years' of experience as a Data ScientistDeep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithmsFluency in PythonFamiliarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)For further details please submit a resume.Austin Fraser Inc is acting as an employment business in relation to this advert. As a professional company, we gladly welcome applications from persons of any age and background and do not intend to discriminate with advert text and terminology.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-16T15:04:41.000Z"
+    },
+    "company": {
+        "name": "Austin Fraser",
+        "link": "https://uk.linkedin.com/company/austin-fraser"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "Texas Metropolitan Area",
+        "postal_code": "78723",
+        "street_address": null,
+        "latitude": 30.276316,
+        "longitude": -97.70931
+    }
+}

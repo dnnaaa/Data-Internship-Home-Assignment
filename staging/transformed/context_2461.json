@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer (remote)",
+        "industry": "",
+        "description": "This job is 100% remote - work from anywhere in the world.    Phaidra is building the future of industrial automation.  We create hyper-intelligent and configurable control systems for the industrial sector, using AI as the core enabling technology. Specifically:   The intelligence is provided by reinforcement learning algorithms, which convert raw sensor data into high-value actions and decisions.  We focus on industrial applications, which tend to be well-sensorized with measurable KPIs \u2014 perfect for reinforcement learning.  We enable domain experts (our users) to configure the AI control systems (i.e. agents) without writing code. They define what they want their AI agents to do, and we do it for them.   Our team has a track record of applying AI to some of the toughest problems. From AlphaGo to Google's Data Centers, we know AI and how to apply it in production.  &nbsp;  Phaidra is looking for a driven Site Reliability Engineer to be a part of our engineering team. You are bold and creative, and have deep empathy for customers who may not be tech-savvy. You will work directly with our Infrastructure lead to build and maintain world class infrastructure. You will have the opportunity to make an immediate impact with your work and guide the product and team as we grow.    Responsibilities    The ideal candidate has expertise building and managing cloud infrastructure on AWS, GCP or Azure and has good knowledge of Docker &amp; Kubernetes. Your responsibilities will include flavors of Infrastructure Engineering, MLOps, SRE and DevOps. As an Infrastructure Engineer, it will be expected of you to be an Individual Contributor (IC) in the infrastructure team.   You will help build and maintain infrastructure for:  Large-scale data ingestion and processing.  Distributed model training, evaluation and inference.  Automating the end-to-end system for continuous improvement and deployment.    You will work with cloud services like AWS, Azure, GCP.  You will work with Cloud Native technologies like Kubernetes and Kubeflow.  You will help build CI/CD pipelines and take part in DevOps duties.  You will apply SRE principles for monitoring, automation and change management.  You will write and maintain tooling and documentation for infrastructure, supported applications and processes.  Build and maintain cross-functional relationships with internal teams to drive initiatives.  Participate in general IT operations and support.     Key Qualifications     Bachelors or Masters in Computer Science.  Proven experience automating Cloud and Networking infrastructure on AWS, GCP or Azure.  Good understanding of Linux-based Operating Systems, Containerisation and Orchestration technologies like Docker and Kubernetes.  Experience with Terraform or other configuration management tools like Jsonnet, Kapitan, Helm or Kustomize.  Experience with Monitoring stacks such as Prometheus, Influx, Stackdriver or Zabbix.  Programming experience, ideally with Python, Go or Bash scripting.  Good understanding of DevOps and SRE principles.  Share our company values: curiosity, ownership, transparency &amp; directness, outcome-based performance, and customer empathy.     Preferred Skills &amp; Experience     Expertise with multi and hybrid cloud environments.  Expertise with some parts of our tech stack is a big plus.  Experience in automating scalable multi-tenant systems architectures with high availability, fault tolerance, performance tuning, monitoring, and statistics/metrics collection.     Our Stack     Python, Go  Docker, Kubernetes, Terraform  GCP, AWS  Kafka / Kinesis  PyTorch  Apache Beam, Dataflow, Kubeflow  Postgres, BigTable  REST &amp; gRPC microservices     Benefits &amp; Perks     Fast-paced and team-oriented environment where you will be instrumental in the direction of the company.  Phaidra is a 100% remote company - work from anywhere!  Competitive compensation &amp; early equity.  Outsized responsibilities &amp; professional development.  Training is foundational; functional, customer immersion, and development training.  Medical / Dental / Vision (based on region).     On being Remote    We are thoughtful about remote collaboration. We look to the pioneers - like Gitlab - for inspiration and best practices to create a stellar remote work environment. We have a documentation first culture and actively practice asynchronous communication in everything we do. We are deliberate about documenting and living our values - of which accessibility, transparency, and agility are key. Our team stays connected through tools like Slack and Video Chat. We meet daily and have dedicated all-hands meetings to build strong relationships. We hold virtual team building events - and even hold virtual socials to watch rocket launches! We will have in-person All-Hands meetings twice a year once travel opens back up too.    Equal Opportunity Employment    Phaidra is an Equal Opportunity Employer; employment with Phaidra is governed on the basis of merit, competence, and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-30T01:22:56.000Z"
+    },
+    "company": {
+        "name": "Phaidra",
+        "link": "https://www.linkedin.com/company/phaidra-ai"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

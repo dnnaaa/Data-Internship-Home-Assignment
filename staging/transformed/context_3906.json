@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "About the RoleEvry Health is hiring a full-stack Software Engineer to help us automate healthcare delivery, care coordination, wellness, and risk management.&nbsp;This is an innovative role for somebody to participate in building Evry Health's technology infrastructure.You'll write some code from scratch, and also be part of integrating applications, and automating testing.&nbsp;You'll be part of the software team, working alongside both application and front-end software developers.The engineering efforts will include developing new portals for members and healthcare providers, new mobile tools, a service fabric and communications layer, a machine learning layer, and integrating large vendor systems.Technologies We UseLanguages: C#, Javascript, HTML, SQLPlatforms: .NET Core, React Core, Azure, Azure DevOpsProtocols:&nbsp;Everything (pun intended) from EDI to message queues to APIsTools: Github, XUnit, Swagger.io, RabbitMQ, Microsoft TeamsAbout Evry HealthOur mission is to fix US healthcare. Evry Health is a startup technology company and health insurer, backed by Y Combinator and several Silicon Valley venture capital funds. We build better health insurance for mid-size businesses and their employees, that costs up to 20% less. The company headquarters are in Dallas, TX, USA.Key ResponsibilitiesWrite, and test, full-stack web applications as part of an agile team.Responsible for the development, support, and maintenance for internally developed web applications, web services, integration services, back-end services, and database systems.Build systems for reliability and long-term efficiency/automation.QualificationsWe require a Bachelor's Degree and 2 years' of experience is preferred.Solid object-oriented design, programming, and debugging skills.C# experience.Strong generalist software engineering skills, ideally with experience building full-stack web applications.Deep intellectual curiosity.Excellent written and spoken communication skills.Loves working cross-functionally, and owning projects from start to finish -- including the testing and QA.Bonus: Any experience with data science, machine-learning, statistics, or mobile application development.Location and BenefitsWe have offices in Dallas, TX, but are presently working 100% remote until we return to the offices.Full benefits package including health insurance, 401(k) matching, and vacation.Why You Should Join Evry HealthEvry Health has a small team that makes the software that runs Evry Health.&nbsp;We believe our software is a key competitive advantage and we are investing aggressively in new software products.Evry Health has ambitious plans to improve the quality and accessibility of healthcare while reversing the national price inflation, and the only way to reach that level of impact is to scale through software. What we\u2019ve built so far is probably only 10% of what we will eventually need.As a member of the software team, you'll learn many of the ins and outs of the U.S. healthcare system.&nbsp;Not only will you be growing your engineering skills, but you'll absorb a great deal about public health policy.&nbsp;Your work will impact lives, families, and communities.&nbsp;You'll also be exposed to the startup world, and see how the best ideas can be nurtured and tested.&nbsp;And of course, if you ever want to start your own company, you\u2019ll learn a lot about that from working at Evry Health.&nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T15:57:24.000Z"
+    },
+    "company": {
+        "name": "Evry Health",
+        "link": "https://www.linkedin.com/company/evryhealth"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas-Fort Worth Metroplex",
+        "region": null,
+        "postal_code": "75049",
+        "street_address": null,
+        "latitude": 32.7513,
+        "longitude": -97.08263
+    }
+}

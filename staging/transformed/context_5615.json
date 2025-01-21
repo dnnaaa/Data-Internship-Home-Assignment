@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "About MoCaFiTrue financial inclusion means low-cost, high-quality financial services for everyday people. MoCaFi is delivering on that promise through Member-FDIC issued bank accounts, Rental Payment reporting to credit bureaus, incentives to support local Black &amp; Latinx owned small businesses, lender-supported homeownership programs and income relief prepaid cards funded by municipalities and community-based organizations.&nbsp;&nbsp;We\u2019re working hard to be the trusted financial partner for anyone aspiring to reach a new level of prosperity - regardless of race, ethnicity, social status or financial position. We\u2019re proud to come to work every day knowing that we have a positive impact in helping build an inclusive financial world.We are looking for a Software Engineer to join our team who will build micro-services on a cloud platform. You will be involved in building, testing, deploying, monitoring and supporting critical systems. You\u2019ll face and solve a wide range of challenges: technical, product, and operational, shaping your personal growth and career along the way.What will you do?Develop and test systems and services that enable us to deliver our missionParticipate in shaping the technical architecture of the productHelp translate product requirements into technical solutionsDeliver highly available and scalable services in a production environmentGenerate ideas for new initiatives and technologiesCommunicate with project counterparts and other software developers to deliver solutionsWhat do you need?Our core stack is NodeJS / Express / MongoDB and we run on Docker in a service oriented architectureAbility to design and implement batch processing systems to support onboarding new municipalities (ETL/Python/AWS lambdas/etc)Experience working on a SOA or micro-service based application and/or experience moving files between different systems for processing.Basic understanding of databasesWillingness to roll up your sleeves, collaborate with others and get stuff doneStrong sense of responsibility; driving a projects to completionExperience working in a collaborative environment, refining designs together, working through code reviews and managing pull requestsMoCaFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, or any other basis prohibited by applicable law.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T20:31:52.000Z"
+    },
+    "company": {
+        "name": "MoCaFi",
+        "link": "https://www.linkedin.com/company/mocafi"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Philadelphia",
+        "region": null,
+        "postal_code": "19901",
+        "street_address": null,
+        "latitude": 39.906075,
+        "longitude": -75.16684
+    }
+}

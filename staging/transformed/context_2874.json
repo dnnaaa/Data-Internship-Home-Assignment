@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Title - Machine Learning EngineerType - FulltimeLocation - San Francisco, California, United StatesWe are seeking a Machine Learning Software Engineer to become an integral part of our team! You will be responsible for creating and modifying software or specialized programs.Responsibilities:Analyze user needs and develop software solutionsWork with project manager or product owner to meet specification needsRecommend software upgrades to optimize operational efficiencyCollaborate with other developers to design and optimize codeDocument all programming tasks and proceduresPerform routine software maintenanceQualifications:Previous experience in software development, computer engineering, or other related fields3+ years working experience with:Python applied to SaaS/Enterprise Data-pipeline/classification projectsRelational database technologies: Postgres/SQL Alchemy (preferably thru AWS-RDS)Text/document processing &amp; machine learning technologies: NLP, Tensor Flow/PyTorch, Recurrent Neural Networks (RNN), Computational linguistics experience, Clustering, Decision tree learning and their real-world advantages/drawbacks.Document processing: Document format Conversion, meta-data Extraction, content Classification, &amp; content SummarizationAgile software development: JIRA (SCRUM, PR/Code reviews, unit tests)Bachelor\u2019s Degree in Computer Science/related discipline, or equivalent work experienceBonus points for commercial experience working on any of the following:Search ranking, relevance and optimization: ElasticsearchContainerization + Container OrchestrationWorkflow scalable infrastructure: Celery/RabbitMQ, AirflowDevOps via AWS: AWS Sagemaker, AWS-ECS, AWS-EKS, CloudWatchNoSQL: Any document-oriented databaseContinuous integration, Automated testing",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T12:58:42.000Z"
+    },
+    "company": {
+        "name": "Avesta Computer Services",
+        "link": "https://www.linkedin.com/company/avesta-computer-services"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

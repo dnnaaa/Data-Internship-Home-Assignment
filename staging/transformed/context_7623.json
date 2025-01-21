@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "GCP Cloud Engineer",
+        "industry": "",
+        "description": "GCP Cloud EngineerRemote PositionLinkedIn profile,References MandatoryVisa: Any(No OPT/CPT)Experience in building and supporting large-scale, business-critical systems on public cloud (GCP &amp; AWS)&nbsp;Hands on experience in GCP,Cloud composer,Big Query, and Looker.Strong experience in performance tuning of Big Query SQL Scripts.Good understanding of cloud design considerations and their impact on pricing.Experience hosting an application on GCP using Compute Engine, App Engine, kubernetes engine,cloud storage and cloud SQL.Experience in Networking Protocols such as Cloud DNS,Cloud CDN etc.Proficient in modern scripting language(Python) for automation on build tasks.Knowledge of Application&nbsp;monitoring&nbsp;using google Stack driver.Experience with Big Data on GCP : Big Query,PUB/SUB,Data Flow, Dataproc.Prior&nbsp;experience with container technologies with GitHub,Docker,CI/CD tools and Monitoring tools.Experience with infrastructure configuration management tools Terraform, Puppet,Chef.Experience with&nbsp;UNIX/Linux powerPrefer Google Cloud certified&nbsp;candidates.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-10-05T17:35:14.000Z"
+    },
+    "company": {
+        "name": "Byte Link Systems, Inc.",
+        "link": "https://www.linkedin.com/company/bytelink-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas",
+        "region": "TX",
+        "postal_code": "75342",
+        "street_address": null,
+        "latitude": 32.777977,
+        "longitude": -96.79621
+    }
+}

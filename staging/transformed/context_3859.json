@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "Come join a growing SaaS company providing Enterprise POS, Business Intelligence, and digital tools for the mobile telecom industry.We are seeking an experienced SRE to help manage and minimize system downtime. You will help assess operational risks and develop plans to mitigate them. You must have excellent communication skills and the ability to document systems and knowledge gained from analysis and incident response. You will have the ability to make a direct impact on the business and will be challenged to continuously improve. This is a hands-on position.RoleHelp maintain and enhance production monitoring and notifications.Improve reliability and quality of production systems.Measure and help optimize system performance.Work with dev. and other teams to identify points of potential failure and then work to help enhance and improve systems to mitigate.Participate in capacity planning.Create automation to improve deployment speed, testing, and responding to operational issues.Work to meet service level objectives.Help build runbooks, tools, and other supporting tools to improve incident response.Monitor production systems and help manage incident response.Required SkillsUbuntu or similar Linux environments.HAProxyRedisMonitoring via tools such as ELK stack, Grafana, Azure Application Insights.Ability to program with one or more languages (C# / .NET languages preferable, but open based on experience).Git or other distributed source control systems.Optimistic pessimist.Bonus skillsWindows experience, Hyper-VSQL ServerAzure Dev OpsPowershell, Bash scripting.Jira or equivalent ticketing systems.Experience with certificate-based authentication.Experience with CI/CD pipelines.Since this is a remote position, you should be trustworthy and a self starter. You will help us build out and maintain our infrastructure to support our customers, create and build automation, and document systems.Not sure if you're interested or want more details? Contact us and we'll set-up a call.No recruiters / agencies. Must be eligible to work in the US - cannot sponsor. Ideal candidate will be in the continental US.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-15T18:52:03.000Z"
+    },
+    "company": {
+        "name": "RT\u00b2",
+        "link": "https://www.linkedin.com/company/rtpos"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}
