@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import html
+import re
 
 
 def clean_description(description):
@@ -8,5 +9,9 @@ def clean_description(description):
         return ""
     unescaped = html.unescape(description)
     soup = BeautifulSoup(unescaped, "html.parser")
-    return soup.get_text(separator="\n").strip()
+    text = soup.get_text(separator="\n").strip()
 
+    # Remove extra spaces and newlines
+    cleaned_text = re.sub(r'\s+', ' ', text).strip()
+
+    return cleaned_text

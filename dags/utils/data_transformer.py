@@ -1,6 +1,6 @@
 import json
 import os
-from data_cleaner import clean_description
+from .data_cleaner import clean_description
 
 def safe_get(data, keys, default=None):
     """Safely navigate through nested dictionaries"""

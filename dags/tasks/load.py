@@ -1,5 +1,4 @@
 from airflow.decorators import task
-from airflow.providers.sqlite.hooks.sqlite import SqliteHook
 from utils.logger import get_logger
 from utils.db_loader import load_jobs_to_database
 

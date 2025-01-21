@@ -2,13 +2,8 @@ import sqlite3
 import json
 import os
 from typing import Dict, Any
-from constants import TABLES_CREATION_QUERY
 
-def create_database_schema(conn: sqlite3.Connection) -> None:
-    """Create all tables with relationships"""
-    cursor = conn.cursor()
-    cursor.executescript(TABLES_CREATION_QUERY)
-    conn.commit()
+
 
 def safe_extract(data: Dict[str, Any], path: list, default=None) -> Any:
     """Safely navigate through nested dictionaries"""
@@ -94,7 +89,6 @@ def load_jobs_to_database():
     
     # Connect to SQLite database
     with sqlite3.connect(db_path) as conn:
-        create_database_schema(conn)
         cursor = conn.cursor()
 
         # Load transformed data

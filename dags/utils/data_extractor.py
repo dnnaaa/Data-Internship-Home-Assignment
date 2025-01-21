@@ -3,7 +3,6 @@ import json
 import os
 
 
-
 def extract_from_csv():
         # Read CSV with proper type handling
         df = pd.read_csv('source/jobs.csv',
