@@ -1,5 +1,8 @@
 from datetime import timedelta, datetime
+import os
+import json
 
+import pandas as pd
 from airflow.decorators import dag, task
 from airflow.providers.sqlite.hooks.sqlite import SqliteHook
 from airflow.providers.sqlite.operators.sqlite import SqliteOperator
@@ -60,23 +63,139 @@ CREATE TABLE IF NOT EXISTS location (
 )
 """
 
+STAGING_DIR = "staging"
+EXTRACTED_DIR = os.path.join(STAGING_DIR, "extracted")
+TRANSFORMED_DIR = os.path.join(STAGING_DIR, "transformed")
+
+os.makedirs(EXTRACTED_DIR, exist_ok=True)
+os.makedirs(TRANSFORMED_DIR, exist_ok=True)
+
 @task()
 def extract():
     """Extract data from jobs.csv."""
+    df = pd.read_csv("source/jobs.csv")
+    for i, context in enumerate(df["context"]):
+        with open(os.path.join(EXTRACTED_DIR, f"job_{i}.txt"), "w") as f:
+            f.write(context)
 
 @task()
 def transform():
     """Clean and convert extracted elements to json."""
+    for file_name in os.listdir(EXTRACTED_DIR):
+        with open(os.path.join(EXTRACTED_DIR, file_name), "r") as f:
+            raw_data = json.loads(f.read())
+
+        transformed_data = {
+            "job": {
+                "title": raw_data.get("job_title"),
+                "industry": raw_data.get("job_industry"),
+                "description": raw_data.get("job_description"),
+                "employment_type": raw_data.get("job_employment_type"),
+                "date_posted": raw_data.get("job_date_posted"),
+            },
+            "company": {
+                "name": raw_data.get("company_name"),
+                "link": raw_data.get("company_linkedin_link"),
+            },
+            "education": {
+                "required_credential": raw_data.get("job_required_credential"),
+            },
+            "experience": {
+                "months_of_experience": raw_data.get("job_months_of_experience"),
+                "seniority_level": raw_data.get("seniority_level"),
+            },
+            "salary": {
+                "currency": raw_data.get("salary_currency"),
+                "min_value": raw_data.get("salary_min_value"),
+                "max_value": raw_data.get("salary_max_value"),
+                "unit": raw_data.get("salary_unit"),
+            },
+            "location": {
+                "country": raw_data.get("country"),
+                "locality": raw_data.get("locality"),
+                "region": raw_data.get("region"),
+                "postal_code": raw_data.get("postal_code"),
+                "street_address": raw_data.get("street_address"),
+                "latitude": raw_data.get("latitude"),
+                "longitude": raw_data.get("longitude"),
+            },
+        }
+
+        with open(os.path.join(TRANSFORMED_DIR, file_name), "w") as f:
+            json.dump(transformed_data, f)
 
 @task()
 def load():
     """Load data to sqlite database."""
     sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
+    with sqlite_hook.get_conn() as conn:
+        cursor = conn.cursor()
+        for file_name in os.listdir(TRANSFORMED_DIR):
+            with open(os.path.join(TRANSFORMED_DIR, file_name), "r") as f:
+                data = json.load(f)
+                job = data["job"]
+                company = data["company"]
+                education = data["education"]
+                experience = data["experience"]
+                salary = data["salary"]
+                location = data["location"]
+
+                cursor.execute(
+                    """
+                    INSERT INTO job (title, industry, description, employment_type, date_posted)
+                    VALUES (?, ?, ?, ?, ?)
+                    """,
+                    (job["title"], job["industry"], job["description"], job["employment_type"], job["date_posted"])
+                )
+                job_id = cursor.lastrowid
+
+                cursor.execute(
+                    """
+                    INSERT INTO company (job_id, name, link)
+                    VALUES (?, ?, ?)
+                    """,
+                    (job_id, company["name"], company["link"])
+                )
+
+                cursor.execute(
+                    """
+                    INSERT INTO education (job_id, required_credential)
+                    VALUES (?, ?)
+                    """,
+                    (job_id, education["required_credential"])
+                )
+
+                cursor.execute(
+                    """
+                    INSERT INTO experience (job_id, months_of_experience, seniority_level)
+                    VALUES (?, ?, ?)
+                    """,
+                    (job_id, experience["months_of_experience"], experience["seniority_level"])
+                )
+
+                cursor.execute(
+                    """
+                    INSERT INTO salary (job_id, currency, min_value, max_value, unit)
+                    VALUES (?, ?, ?, ?, ?)
+                    """,
+                    (job_id, salary["currency"], salary["min_value"], salary["max_value"], salary["unit"])
+                )
+
+                cursor.execute(
+                    """
+                    INSERT INTO location (job_id, country, locality, region, postal_code, street_address, latitude, longitude)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    (
+                        job_id, location["country"], location["locality"], location["region"],
+                        location["postal_code"], location["street_address"], location["latitude"], location["longitude"]
+                    )
+                )
 
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
-    "retries": 3,
-    "retry_delay": timedelta(minutes=15)
+    "retries": 1,
+    "retry_delay": timedelta(minutes=1)
 }
 
 @dag(
