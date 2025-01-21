@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer, NLP",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "ResponsibilitiesYou will be the key player in a talented machine learning and NLP team to: Develop text NLP and ML applications for various Zoom products;  Propose and design the best suitable ML and NLP models or algorithms based on the product requirements  Build ML pipelines such as model training, evaluation, and monitoring system and deploy in production utilizing AWS cloud;  Collaborate with various teams including offshore teams, communicating requirements, providing technical leadership, code review, production integration and deployment, and result evaluation.  Requirements  Ph.D or M.S. in NLP, Machine Learning, Computer Science or a related technical field;  Industry experience in machine learning applications in production.  Experience in developing pipeline components and processes, such as inference and training pipeline, model evaluation, monitoring, A/B testing etc.  Fluent in English writing and speaking, strong communication skills to work with different teams and stakeholders;  Expertise knowledge in NLP such as text classification, sentiment analysis, topic modeling, text summarization, ranking, text similarity, tokenization, word/sentence/doc embedding, NER, POS (Part-Of-Speech) tagging and parsing, intent detection, slot filler, dialog flow, knowledge graph;  Expertise in Machine Learning (ML) / Deep Learning (DL) and NLP algorithms (CNN, LSTM, BERT, XLNet, GPT etc), techniques (transfer learning, transformers, etc.). Hands-on experience on developing and training models with large-scale text data;  Experience with open-source ML / DL / NLP toolkits such as TensorFlow, Caffe, PyTorch, CoreNLP, OpenNLP, StanfordNLP, SpaCy, AllenNLP, NLTK, gensim, etc;  Strong mastery of Python programming language, and general software development skills (source code management, debugging, testing, deployment, etc.)  Preferences  Experience in Multilingual NLP Models  AWS experience such as EKS, ECR, S3;  Framework experience such as AirFlow, KubeFlow, MLFlow, TFServing, Seldon Core;  Production ML software development experience is preferred.  Strong analytical skills and attention to detail. Have experience in most but not all of these areas? We\u2019d still love to hear from you! Please apply and we\u2019ll get back to you if there\u2019s a fit.Ensuring a diverse and inclusive workplace where we learn from each other is core to Zoom\u2019s values. We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records as well as any qualified applicants requiring reasonable accommodations in accordance with the law.We believe that the unique contributions of all Zoomies is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status.All your information will be kept confidential according to EEO guidelines.Explore Zoom Hear from our leadership team  Browse Awards and Employee Reviews on Comparably  Visit our Blog  Zoom with us! Find us on social at the links below and on Instagram",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-27T19:09:51.000Z"
+    },
+    "company": {
+        "name": "Zoom",
+        "link": "https://www.linkedin.com/company/zoom-video-communications"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 104000,
+        "max_value": 176000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

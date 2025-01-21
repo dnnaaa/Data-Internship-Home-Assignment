@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer ( Remote)",
+        "industry": "Management Consulting",
+        "description": "Tiger Analytics is looking to recruit for a motivated and passionate Machine Learning Engineers for our team.You will be responsible for the following on day today basis.Support Data Scientists in onboarding new models and software onto the platformsAddress any environment access/performance issuesBuild end to end pipeline/Airflow DAGs for new modelsData Identification, availability and feature engineering as part of Data Science SupportAPI or Stream endpoint engineering for Model integration (don\u2019t need to build from scratch as they some frameworks already built internally)First line of support for issues such as spinning up of the Jupyter notes on their Kubernetes based platform, connection to snowflake and hive etc.Experience and proficiency -Spark (including spark streaming), Python and SQLAWS - EMR, Lambdas, S3Creating data pipelines for ML, specifically sourcing and munging data, as well as preparing featuresExperience with Optimization(tuning code and algorithms) and operationalization of modelsRequires very little hand-holding&nbsp;in terms of skills and is able to navigate the organization independentlyCan work with CI-CD pipelines using Jenkins, Git etc&nbsp;Knowledge and optionally some experienceAirflow orchestration pipelinesKafka streaming end points&nbsp;&nbsp;Good to know, not mandatory-Infra devops including Kubernetes&nbsp;Bachelor's degree or higher in computer science or related, with 5+ years of work experienceAbility to collaborate with Data Engineers and Data Scientist to build data and model pipelines and help running machine learning tests and experimentsAbility to manage the infrastructure and data pipelines needed to bring ML solution to productionEnd-to-end understanding of applications being created and maintain scalable machine learning solutions in productionAbility to abstract complexity of production for machine learning using containersAbility to troubleshoot production machine learning model issues, including recommendations for retrain, revalidate, and improvementsExperience with Big Data Projects using multiple types of structured and unstructured dataAbility to work with a global team, playing a key role in communicating problem context to the remote teamsExcellent communication and teamwork skills.Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Machine Learning, and AI. Our business value and leadership have been recognized by various market research firms, including Forrester and Gartner.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T21:22:30.000Z"
+    },
+    "company": {
+        "name": "Tiger Analytics",
+        "link": "https://www.linkedin.com/company/tiger-analytics"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Washington DC-Baltimore Area",
+        "region": null,
+        "postal_code": "21201",
+        "street_address": null,
+        "latitude": 38.873062,
+        "longitude": -77.007385
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer, Application Development - Austin, TX",
+        "industry": "Marketing and Advertising,Online Media,Internet",
+        "description": "LockerDome is an ad platform with a brain, designed specifically for performance-based advertising. The brain behind the platform is Neo, an in-house AI, which uses machine learning to process billions of data points and make intelligent decisions at lightning speed. Learn more at lockerdome.com.As an Application Developer on the Engineering &amp; Product team, you will be expected to write clean and maintainable code, building tools that will be used by thousands of brands and publishers, and reaching millions of end users.This position will be part of our Austin-based team. Candidates residing in (or near) Austin, TX are preferred.Your Skills Should Include In-depth knowledge of JavaScript and Node.js Experience with responsive web design using CSS and Sass Ability to learn new skills and information sets quickly Ability to solve unique or complex problems and provide actionable guidanceSkills That Are a Plus Experience with C++, particularly with a low-level performance focus Familiarity with Redis or other key-value databases Familiarity with high-performance, distributed systemsResponsibilities Build web applications using LockerDome\u2019s in-house JavaScript framework, Coral Improve and streamline the data flow pipeline for our in-house machine learning algorithms Iterate on LockerDome\u2019s data and analytics dashboard Streamline and automate processes and procedures across the company",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-19T17:11:50.000Z"
+    },
+    "company": {
+        "name": "LockerDome",
+        "link": "https://www.linkedin.com/company/lockerdome"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 68200,
+        "max_value": 149000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "St Louis",
+        "region": "MO",
+        "postal_code": "63121",
+        "street_address": null,
+        "latitude": 38.635357,
+        "longitude": -90.20099
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "Top Skills - Must HavesC++JavaPythonTop Skills' Details1. C# (3-5 years)2. Experience with Azure Functions, Service Fabric, Logic Apps (3-5 years)3.\u2022 REST/JSON (Newtonsoft APIs)/Web devSecondary Skills - Nice to Havesc# developmentjsonawsazurerestangular2",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-24T00:05:02.000Z"
+    },
+    "company": {
+        "name": "TEKsystems",
+        "link": "https://www.linkedin.com/company/teksystems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 65100,
+        "max_value": 80800,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Seattle Area",
+        "region": null,
+        "postal_code": "98109",
+        "street_address": null,
+        "latitude": 47.591396,
+        "longitude": -122.33279
+    }
+}

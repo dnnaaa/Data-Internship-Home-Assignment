@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "Job DescriptionTitle: Site Reliability EngineerLocation: Beaverton, Oregon (97008) / Remote OptionEmployment Type: Direct Hire (no c2c or sponsorship available)Job DescriptionEdgeLink is looking for a Site Reliability Engineer (SRE) to join an expanding team focused on connecting business to cloud applications and environments. From a skills perspective we are targeting most of the following:Bachelor' s degree or equivalent practical experienceExperience supporting development environments that include Linux tools, Bamboo, Puppet, Terraform, AWS, and AzureDeep understanding of the Unix/Linux operating systems, including kernel networking packet flowStrong understanding of network fundamentals, including tunnelingWorking knowledge of SQL databasesExperience with algorithms and data structures are a nice to haveEdgelink would like to thank all applicants, however only those who qualify for an interview will be contacted.EdgeLink is an equal opportunity employer.Job RequirementsSRE, DevOps, Site Reliability, CI/CD, Cloud, Azure, AWS, Linux, Bamboo, Puppet, Terraform, Unix, Networking, Tunneling, SQL, Database, Algorithm, Data Structure, VPN",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T03:12:38.000Z"
+    },
+    "company": {
+        "name": "EdgeLink",
+        "link": "https://www.linkedin.com/company/edgelink"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Portland",
+        "region": "OR",
+        "postal_code": "97268",
+        "street_address": null,
+        "latitude": 45.516018,
+        "longitude": -122.68143
+    }
+}

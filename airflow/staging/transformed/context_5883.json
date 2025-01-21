@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Engineer",
+        "industry": "Internet,Information Technology and Services,Media Production",
+        "description": "About GameChanger:We believe sports are important because they encourage leadership, teamwork, responsibility, and confidence\u2014critical life lessons that have the power to propel our youth&nbsp;toward meaningful futures. We recognize that without coaches, parents, and volunteers, organized youth sports could not exist. We celebrate those dedicated heroes and make it our mission to help them do what they do best.GameChanger provides teams across the country with team management and scorekeeping capabilities, as well as live fan experiences that keep parents, family, and friends engaged&nbsp;as games are announced, animated, and video streamed in real-time. With GameChanger, coaches and parents are able to organize and follow their athlete\u2019s journey in a simple and powerful way.Based in downtown Manhattan, GameChanger is a cutting-edge technology company and a proud member of the DICK\u2019S Sporting Goods family.The Position:As a Senior Data Engineer, you will work together in a cross-disciplinary team of Data Scientists, Production Engineers, and Data Engineers to evolve our data pipeline, warehouse, and workflow systems to be more resilient, extensible, and maintainable.&nbsp;You will also design and extend data models for a normalized data warehouse with terabytes of data to be turned into sports and customer insights. Our solutions benefit everyone including Product Managers, Developers, Data Scientists, Marketing, Executives, Coaches, Players, and Parents.What You\u2019ll Do:Partner with the analytics team to provide the data and tools they need to solve complex problemsCollaborate across the engineering organization to develop relational database designs and queriesWork with product teams to get feature data emitted into the data pipeline, and engage with them to leverage insights to inform their roadmapIdentify improvements in the flow of our dataEvaluate new technologies (both self-managed and services) for moving, transforming, modeling, and storing data and make recommendationsImprove ETL efficiencyWork with Engineers in other parts of DICK\u2019S Sporting Goods to design data flows across businessesWho You Are:3+ years of software development experience, preferably as a data or backend engineerExperienced with Scala, Python, or Typescript&nbsp;Familiar with Apache Kafka or other streaming technologies&nbsp;Comfortable working across multiple languages, databases, paradigms, etc.Eager to learn about a range of technologies. Our teams use a variety of languages, databases, and technologies to accomplish their objectives, so we're always learning and sharingPerks:Work remotely or from our well-furnished, modern office in NYC\u2019s FiDi.Unlimited vacation policy.Technology stipend - $3,500 every 2 years to purchase new technology.Full health benefits - medical, dental, vision, prescription, FSA/HRA, etc., as well as coverage for family/dependents.Life insurance - basic life, supplemental life, and dependent life.Disability leave - short-term disability and long-term disability.Retirement savings - 401K plan offered through Vanguard.Generous maternity/paternity leave.Commuter benefits.DICK\u2019S Sporting Goods Teammate Discount.We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T17:35:03.000Z"
+    },
+    "company": {
+        "name": "GameChanger",
+        "link": "https://www.linkedin.com/company/gamechangermedia"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York City Metropolitan Area",
+        "region": null,
+        "postal_code": "10021",
+        "street_address": null,
+        "latitude": 40.748295,
+        "longitude": -73.98556
+    }
+}

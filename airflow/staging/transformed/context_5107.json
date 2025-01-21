@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Computer Vision / Machine Learning Engineer ",
+        "industry": "Staffing and Recruiting",
+        "description": "You will join the Optical Engineering team, building customized solutions for the characterization of display, camera and touch technology for a well known product line up.In this role, you will design and develop computer vision and machine learning based solutions, for automatic optical inspection and calibration of displays and cam- eras used in clients future products.DescriptionYou will be directly responsible for developing automatic optical inspection and calibration of the end clients products, working with teams of amazing engineers and scientists.Design, develop and optimize CV and ML based solution, for automatic optical in- spection and calibration.Collaborate closely with optical instrumentation scientists, software engineers and system design engineers, to develop and deploy mass-production friendly metrology solutions for the clients products.Work with cross-functionally teams to define metrology coverage and calibration specifications. Develop and validate corresponding CV/ML algorithm during new product introduction (NPI) cycle.Study and improve metrology algorithm vs visual inspection correlation.Analyze large amounts of NPI data to qualify/upgrade algorithm design.Review algorithms from cross functional teams and third parties.Requirements3+ years of related professional experience.Deep knowledge and hands on experience on image processing and computer vision, including spatial/frequency domain analysis, geometric transform, feature detection, registration, segmentation, object detection and classification, etc.Experience on machine learning, including SVM, CNN, and unsupervised machine learning, for image segmentation/classification.Proficient in one or more of the following: C++/Python/Matlab/OpenCV/CUDA.Proficient in at least one machine learning framework: Keras/Pytorch/TensorFlow, etc.Good team player, self motivated and responsible.A positive outlook towards stepping into uncharted technology space and working hard to deliver solutions in a timely fashion.Experience on data analysis and visualization using Matlab/Python/JMP is a plus.Excellent written and interpersonal skills; clear communication with diverse teams.Desired SkillsetsStrong in C++ CV algorithm programming, profiling, and optimization.Proficient of complete ML development including training, validation, deployment, evaluation and continuous upgrade.Experience on developing CV and ML solution for manufacturing metrology/bio- medical imaging/related fields.Experience on transfer learning, small labeled data, GAN, etc.Experience on camera calibration, geometric registration, distortion correction, image rectification, multi-view geometry for industrial vision system.Experience on complex mathematical optimization problems.Knowledge on image quality metric (IQA).Experience of cross-functional collaboration and project leadership.EducationMS/PhD in CS/EE/Imaging Science + 3 years experience. Location: Cupertino, CADuration: 6-12 months",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-20T16:44:01.000Z"
+    },
+    "company": {
+        "name": "OSI Engineering",
+        "link": "https://www.linkedin.com/company/osi-engineering-inc."
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Diego",
+        "region": "CA",
+        "postal_code": "92161",
+        "street_address": null,
+        "latitude": 32.71576,
+        "longitude": -117.16382
+    }
+}

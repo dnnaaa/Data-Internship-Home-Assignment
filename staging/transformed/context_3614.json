@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DevOps Engineer",
+        "industry": "Computer Software",
+        "description": "Job Title:&nbsp;DevOps Engineer - REMOTELocation:&nbsp;Tampa, FLJob Summary:Heitmeyer Consulting is currently seeking a DevOps Engineer for a contract or direct hire opportunity with one of our clients in Tampa, FL(remote).Job Responsibilities:Experience with Cloud based architecture, infrastructure on AWSExperience building DevOps and Test automation capabilities from ground up for a complex cloud-based solution using Gitlab CIHands on experience with systems-level technologies, Windows, Linux.Collaborate with architects and software engineers on improving software delivery, configuration, monitoring and operationAssist other department engineers in creating practical demonstrations of proposed solutions and demonstrating them to other members of the teamWorking on ways to automate and improve development and release processesRequired Skills/Qualifications:2+ AWS experience is required: CloudFormation, EC2/ECS, RDS, Monitoring, Networking VPC.2+ experience with scripting with Python.Experience with building deployment pipelines on Gitlab CI/CD.Knowledge of package management tools like Artifactory.Deep understanding of the DevOps philosophy and agile methods.Ability to work on multiple priorities and/or projects simultaneously, independently or with a team.Excellent verbal and written communication skills.Possesses strong analytical and problem-solving skills in order to resolve or coordinate the resolution of complex problems in a flexible and logical manner.Demonstrate excellent ability to learnHeitmeyer Consulting is an equal opportunity employer and we encourage all qualified candidates to apply. Qualified applicants will be considered without regard to minority status, gender, disability, veteran status, or any other characteristic protected by law.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-13T16:22:38.000Z"
+    },
+    "company": {
+        "name": "Heitmeyer Consulting",
+        "link": "https://www.linkedin.com/company/heitmeyer-consulting"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Tampa",
+        "region": "FL",
+        "postal_code": "33675",
+        "street_address": null,
+        "latitude": 27.947424,
+        "longitude": -82.45878
+    }
+}

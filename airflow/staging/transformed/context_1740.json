@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Full Stack Engineer",
+        "industry": "Information Technology and Services,Computer Software,Staffing and Recruiting",
+        "description": "Full-Stack Software EngineerDedham MA - HybridFull-timeSenior Full Stack Software Engineer will contribute to the design and build of software architecture and product suite and must have an understanding of large-scale, real-time integrations with external systems and user facing applications. Please send an update resume to Chris McMillan at cmcmillan@alexandertg.comThe Role A hands-on contributor for the development of full application stack and bring best practices to coding, performance, release, testing and automation. Utilize cloud-native architectures to deliver resilient, high-availability services Work on definition and execution of security standards and complianceRequirements 5+ year of full-stack scale web application development 2+ of architecture exp. AWS experience Must have React.js experience Experience with Python, JavaScript, Node.js Built scalable RESTful APIs with a framework i.e. Django, Falcon, Flask, Spring Boot Experience with SQL and relational databases (Aurura DB/MySQL)Please send an updated resume to Chris McMillan at cmcmillan@alexandertg.com*MONATG*ATG456",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-30T05:16:36.000Z"
+    },
+    "company": {
+        "name": "Alexander Technology Group",
+        "link": "https://www.linkedin.com/company/alexander-technology-group"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dedham",
+        "region": "MA",
+        "postal_code": "02026",
+        "street_address": null,
+        "latitude": 42.246567,
+        "longitude": -71.17429
+    }
+}

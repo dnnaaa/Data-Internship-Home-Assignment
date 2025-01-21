@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Data Engineer",
+        "industry": "Internet",
+        "description": "Expected compensation: $90.00 - $110.00 per hourHireArt is helping Toyota Research Institute (TRI) find a Machine Learning Data Engineer to contribute to state-of-the-art machine learning data infrastructure and relevant software specific to data management, data analysis, and data mining at unparalleled scale. In this role, you'll implement robust software and data pipelines for a tremendous amount of data, and analyze large scale data for the practical scenarios of autonomous driving. Last but not least, you will deploy your algorithms and systems to explore the meaningful scenarios in TRI's data sea and beyond.The ideal candidate will possess the basic requirements outlined below as well as 2+ years of experience within the autonomous vehicle industry.As a Machine Learning Data Engineer, You WillAddress large scale challenges in the machine learning development cycle, especially around cloud and data engineering.Manipulate high-volume, high-dimensionality, structured data from driving logs for training and testing deep networks.Build a robust data platform that enables ML practitioners to build and maintain their own data pipelines and datasets.Stay up to date on the state-of-the-art in Deep Learning ideas and software, in collaboration with other divisions in the company.Solve challenging problems with cutting edge design and algorithms.Work in a multidisciplinary team and collaborate with other teams across the company.RequirementsExperience as a statistical, machine learning, and/or data engineer and a degree in Computer Science, Math, Physics or related fieldBachelor's Degree with 4+ years of experienceMaster's Degree with 2+ years of experiencePhD with 1+ year of experienceSolid proficiency in PythonStrong software engineering practices with machine learning experience in a production settingProficient in SQL and GitExperience with pipeline orchestration tooling (e.g. Airflow, AWS Step Function, Metaflow, KubeFlow, etc).Experience with AWS, Azure or GCPClear grasp on basic Linear Algebra, Optimization, Statistics, and AlgorithmsNice-to-have ExperienceExperience with data analysis, data, munging and relative machine learning skillsExperience with building end-to-end ML workflows (Data Mining \u2192 Data Preparation \u2192 Modeling)Strong knowledge of ML dataset management (data + annotations) and exposure to dataset versioning tools such as DVCExperience with ML data annotation pipeline, RESTful APIs, Apache SparkExposure to perception, prediction, and/or planning stacks for robotics/AVsExperience in AV or Automotive industryCommitment: This is a full-time (40 hours per week), on-going contract position staffed via HireArt and based in Los Altos, CA. This position can be fully remote and is open to U.S.-based candidates who are able to work during PST business hours. Candidates local to Los Altos, CA are encouraged to apply.HireArt values diversity and is an Equal Opportunity Employer. We are interested in every qualified candidate who is eligible to work in the United States. Unfortunately, we are not able to sponsor visas or employ corp-to-corp.TRI provides Equal Employment Opportunity without regard to the applicant's race, color, creed, gender, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status protected under federal, state or local laws.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-07T23:13:22.000Z"
+    },
+    "company": {
+        "name": "Toyota Research Institute",
+        "link": "https://www.linkedin.com/company/toyota-research-institute"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

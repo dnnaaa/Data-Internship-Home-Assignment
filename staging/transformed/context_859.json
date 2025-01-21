@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+        "description": "Worker Sub-TypeRegularJob DescriptionTHE POSITIONAt BlackBerry, we develop state-of-the-art machine learning algorithms to solve long-standing problems in computer security. We discover novel ML techniques and applications, build systems to handle petabytes of ludicrously high dimensional data, and protect people from bad actors.We\u2019re looking for a Machine Learning Engineer to work on a team of 20 scientists and engineers and\u202fautomate the\u202ftraining and evaluation\u202fof\u202fmodels underlying all of our security products across millions of endpoints as well as in the cloud.\u202fThis position will partner with many peer engineering, product, and research teams, so written and in-person communication skills are extremely important.What You Will DoBuild\u202fand maintain automated\u202ffeature engineering and machine learning training systems\u202fin Python Build\u202fand maintain\u202fanalytics tools for use within our AWS cloud environment Regularly contribute to documentation of our systems and tools as well as code reviews Communicate with internal teams and stakeholders to understand project requirements WHO ARE WE LOOKING FOR?Experience writing and maintaining Python (ideally on a collaborative team) Experience performing analytics and developing tools using Python and Pandas Experience with unit testing and\u202fversion control Excellent written and verbal communication Good understanding of the *nix command line 0+ years in industry with a PhD or 3+ years with a Master\u2019s degree or 5+ years with a Bachelor\u2019s ABOVE AND BEYONDExperience automating infrastructure to perform feature extraction and selection Experience automating infrastructure to train, evaluate, and deploy ML algorithms Solid grasp of statistics including product evaluation techniques like AB(N) testing Experience using AWS\u202f(S3, EC2, Glue Data Catalog, etc.) Experience with serverless query-in-place technologies like Presto / Athena Experience building and using Docker containers Job Family Group NameProduct DevelopmentScheduled Weekly Hours40",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-20T05:12:47.000Z"
+    },
+    "company": {
+        "name": "BlackBerry",
+        "link": "https://ca.linkedin.com/company/blackberry"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": "no requirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

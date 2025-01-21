@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DevOps Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Title: Devops EngineerLocation: USA, RemoteDuration: Contract Note: Client is only looking for US Citizens&nbsp;Required Skills/ExperienceThe minimum requirements for this role are as follows:2+ years of experience as DevOps engineer, SRE, software engineer, or system engineerProven programming skills (Python, Linux Shell, Java, Go, etc.)Hands-on experience in Kubernetes, Docker, AWS, Ansible, Terraform and Linux OS is requiredHands-on experience with the following technologies is a definite plusAWS GovCloud and services such as S3, ECS, EC2, CloudFront, Lambda, Route 53, ElastiCache and RDSJenkins, Groovy, Harness, Artifactory, Maven, or similar CI/CD pipelines related tools and technologies&nbsp;If you are interested, please share a good time and your number for a short discussion. Alternatively, you could share your updated resume&nbsp;at anosh.kumar@bayonesolutions.com&nbsp;or call me at&nbsp;(925) 218-2347. Looking forward to hearing from you!",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-25T17:38:28.000Z"
+    },
+    "company": {
+        "name": "BayOne Solutions",
+        "link": "https://www.linkedin.com/company/bayone-solutions"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

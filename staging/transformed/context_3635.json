@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "QualificationsBachelor's (Required)Software Development: 3 years (Preferred)SUMMARYThe Software Engineer will work closely with other team members on supporting and enhancing the company\u2019s software product line utilizing Microsoft\u2019s technologies and tools. The Software Engineer will be involved in all aspects of Software Development Lifecycle.PRIMARY RESPONSIBILITIESDesign and develop new application / components primarily in the C# language within .NET/WCF frameworkMaintain and enhance Company\u2019s existing softwarePerform unit testingContribute to integration testingEvaluate 3rd party software and develop recommendationsProvide assistance and training to Professional Services and Support groups.Follow Company\u2019s source control policies and proceduresAssist in development of test scripts and installation programsMaintain confidentiality with regard to the information being processed, stored or accessedResponsibilities may require evening and weekend work in response to needs of the projects being worked on.Travel to a customer site as requiredOther duties as assignedKNOWLEDGE AND SKILL REQUIREMENTSBachelor's Degree in Computer Science or related fieldMinimum of 3 years of working in Software Development with minimum of 2 years actively working with C# and .NETMust possess strong analytical and problem solving skillsMust have strong knowledge of the Software Development Life Cycle (SDLC) best practicesExcellent understanding of C# and .NET FrameworkHTML5, CSS3 and React\\Angular highly preferredShould have working knowledge of development technologies including WCF, WPF, and SilverlightMust have experience working with Visual Studio and IISKnowledge of relational database and Structured Query Language (SQL)Strong writing and communication skillsObject Oriented Design and familiarity with design patterns is a plusBenefits:401(k)401(k) matchingDental insuranceDisability insuranceHealth insuranceHealth savings accountLife insurancePaid time offProfessional development assistanceVision insuranceSchedule:8 hour shiftSupplemental Pay:Bonus pay",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-13T13:00:09.000Z"
+    },
+    "company": {
+        "name": "Fairfax Software",
+        "link": "https://www.linkedin.com/company/fairfaxsoftware"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Tampa",
+        "region": "FL",
+        "postal_code": "33675",
+        "street_address": null,
+        "latitude": 27.947424,
+        "longitude": -82.45878
+    }
+}

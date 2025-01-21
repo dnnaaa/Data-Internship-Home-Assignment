@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "OverviewCome join the \"IIS Infrastructure Security Team\" as a \"Software Engineer 2\". The Software Engineer 2 role is to employ a set of tools, automation activities and processes to ensure that sensitive data is not lost, misused, or accessed by unauthorized users.What You'll BringBS/MS in computer science or equivalent work experience. Experience in security controls (Data Loss Prevention, Cloud Access Security Broker, URL filtering)2+ years experience developing web, software, or mobile applications.Solid grasp of software engineering fundamentals and their practical application.Experience with the following: LanDesk, JAMF, Python, Github, Ansible &amp; Cloud Formation templatesExperience with the Software Development Life Cycle (SDLC).1+ years experience with web services (consuming or creating) with REST or SOAP.Strong experience with any of the following: Python, Java/J2EE, AWS CloudFormation or Ansible.Strong desire to learn and grow.Excellent problem solving skills with a history of superb delivery against assigned tasks.Solid communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences.Outstanding partnership skills.How You Will LeadArchitecting, developing, deploying and automating SaaS and agent based security solutionsEvaluating vendor security solutions and conducting proof of concepts (POC\u2019s)Roughly 40% hands-on codingContribute to early quality activities, including peer reviews of estimates, designs and codeResolve defects/bugs during QA testing, pre-production, production, and post-release patchesPartner effectively with all team members to deliver against commitmentsWork cross-functionally with various Intuit teams: product management, program management, dev-operations, various product lines, or business units to drive forward resultsPartner effectively with our security vendors, driving issue resolution and roadmap capabilitiesCommitment to team success and positive team dynamicsPassion for growing and applying technical skills in service to customersExperience with Agile Development, SCRUM, and/or Extreme Programming methodologies",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-30T04:05:12.000Z"
+    },
+    "company": {
+        "name": "Intuit",
+        "link": "https://www.linkedin.com/company/intuit"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 110000,
+        "max_value": 135000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Mountain View",
+        "region": "CA",
+        "postal_code": "94040",
+        "street_address": null,
+        "latitude": 37.39008,
+        "longitude": -122.08139
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Cloud Security Engineer",
+        "industry": "Broadcast Media",
+        "description": "Company OverviewAt Synamedia, we have over 2,400 uniquely talented people working together across the globe to achieve our vision of transforming the way the world is entertained and informed. As the largest global provider of video solutions, you can be part of building and delivering the most complete, secure, and advanced end-to-end technology platform. Our solutions combined with our partnership with over 200 customers worldwide means we are touching the lives of millions of people everywhere. We think that is quite exciting!When welcoming new people to our team we are always looking for opportunities to bring in new ideas, those who ask the challenging questions and have the curiosity to learn. These qualities are important to us as we innovate solutions, seize more opportunities to partner with our customers and make a difference as we collaborate to innovate the future of video.Our values connect us. Our diversity gives us strength. Our curiosity inspires creativity. If that sounds like the place, you would like to be then we look forward to hearing more from you.Role DescriptionThe Cloud Services team provides a central Cloud function, enabling AWS usage for the rest of the Synamedia business, creating standards and guidelines, which translates to the delivery of services to the AWS estate.Synamedia Cloud Services team is looking for a security focussed engineer to join the team.You\u2019ll be experienced in design and implementation of AWS Security services, but you\u2019ll be open to working with other clouds as Synamedia increases public cloud usage.Job RequirementsYour mission will be to work with internal stakeholders, such as InfoSec and owners of AWS accounts, to shape public cloud security policies, create designs, and then build and maintain Cloud security systems supporting the policies.This is a hands-on role, requiring the following behaviours and skills:  Designing, building and operating public cloud security systems.Translating policies into designs and implementations.Can keep up to date with the latest cloud security CVEs and make recommendations based on the latest threats.In depth knowledge of AWS Security and Governance services, such as:AWS IAMAWS GuardDutyAWS ConfigAWS SSOAWS Security HubAWS ShieldAWS Firewall ManagerAWS CloudTrailService Control PoliciesAWS network architecture, such as VPCs, Subnets, Routing, ACLs, SGs, VPN, direct connect.Demonstrable knowledge of:HashiCorp TerraformAWS CloudFormationAWS LambdaPythonGit, source control workflows.Good knowledge of other non-security AWS services.SAML based SSO strategies.Personal AttributesCollaboration over rulemakingImprovement over perfectionPragmatism over idealismAuthentic and empathic communicationContinuous improvement and learning mindsetPreferable AWS Security CertificationA Culture of BelongingWe want to let you know that Synamedia is committed to promoting a diverse and inclusive community - a place where we can all be ourselves and succeed. We offer a range of family friendly, inclusive employment policies, flexible working arrangements, engagement activities and services to support all our people.More informationIf this role sparks your interest, have any questions, or require any accommodations to be made to help you through your application, please reach out to our recruitment team who will be happy to help.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T22:15:36.000Z"
+    },
+    "company": {
+        "name": "Synamedia",
+        "link": "https://uk.linkedin.com/company/synamedia"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "GB",
+        "locality": "Chandlers Ford",
+        "region": null,
+        "postal_code": "SO45",
+        "street_address": null,
+        "latitude": 50.98582,
+        "longitude": -1.3889568
+    }
+}

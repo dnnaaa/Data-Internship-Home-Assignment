@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "GoFormz is a San Diego-based startup leading the mobile data capture industry. We empower businesses to replace paper forms with web and mobile-based digital forms that provide global access to the collected data. We are currently looking for a proactive and proven Site Reliability Engineer to add to our growing team.As&nbsp;Site Reliability Engineer, you will drive the optimization, efficiency, and reliability of our 100% cloud infrastructure and technologies. The successful candidate will be skilled at navigating and communicating through platform issues in order to calmly and systematically identify root cause and apply remediation steps.The Details:Work with multiple departments to identify, isolate, and resolve issues impacting the company\u2019s platform performance and uptimeMonitor, maintain, coordinate and extend the company\u2019s existing production monitoring systemsManage on-call rotation schedule, procedures, and performanceCollaborate on the development of after-incident post mortemsDevelop tools and playbooks to resolve production issues more efficiently and quicklyReview performance metrics and identify opportunities to improve the end user experienceThe Must Haves:Azure Cloud technologiesKubernetesAzure automation and runbooksAzure Monitor &amp; Log AnalyticsAdept with Powershell scripting, automation of complex administrative tasks, automated installation and configuration of software/rolesCloud VM managementIncident problem management and trend analysis experienceHigh degree of ownership and accountabilityThe Nice to Haves:Azure Active DirectoryRaygun Error LoggingAzure Security CenterAzure SentinelExperience managing and maintaining code repos, build systems, and CI/CD pipelinesCan write tooling and code to interact with REST APIsSQL/Mongo AdministrationThe Benefits:We pay well- at or above market!. Plus, you\u2019ll get equity in the company.Employee medical and dental paid by the company; you just cover vision.4 weeks (160 hours) accrued paid vacation in your first year.Options to work from home or from our vibrant office in downtown San Diego where we provide complimentary parking or a monthly MTS pass.We care about your physical health. Our office is equipped with automatic sit/stand desks, plus you\u2019ll get a company-paid membership to the Broadway Athletic and Swim Club located in the same building.Everyone has the best hardware for doing their particular job. You tell us what that is.We have a fantastic team that gets stuff done and is fun to work with!The environment is fast-paced, so you will see the results of your work immediately.You will have plenty of opportunities to use and learn cutting-edge technologies.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-01T20:49:51.000Z"
+    },
+    "company": {
+        "name": "GoFormz",
+        "link": "https://www.linkedin.com/company/goformz"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Diego",
+        "region": "CA",
+        "postal_code": "92161",
+        "street_address": null,
+        "latitude": 32.71576,
+        "longitude": -117.16382
+    }
+}

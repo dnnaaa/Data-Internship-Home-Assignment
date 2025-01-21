@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Development Engineer",
+        "industry": "Retail,Consumer Goods,Internet",
+        "description": "Are you interested in working in real-time, highly concurrent, event driven systems that interface with real world devices? Are you driven to build highly resilient systems that continue to operate even through unanticipated real-world interactions? If all of this interests you, then you are likely a great fit for a Sr. Software Development Engineer for WES/Robotics.As a Senior Software Engineer in the WES/Robotics team, you will beWorking with a broad range of devices and services on the warehouse floor designed to improve the quality of life of the operators and efficiency and operations of the warehouseWorking with a highly concurrent event driven architecture built on microservices and running on KubernetesWork with our robotics system that is rolling out to our fulfillment centersProblem solving on optimizing paths, guiding real-time robotics routes, routing orders to operator stations to reduce robot travel times and increase the overall throughput of the systemand much moreYou will be working with a skilled team of engineers who have a passion for collaboration, problem solving, and highly scalable real-time systems. If this all sounds fun, you are a perfect fit for our team. You must haveBachelors in CS or related degree / experienceStrong background with .NET Core, C#, Kubernetes / Docker, OOA / OOD, Relational/non-relational DBs, REST API, Connection Pool / Data ReaderStrong experience with Distributed Systems, Microservices, and SOADDD and event driven architectures a plus#MOAbout IHerbiHerb is a leading global e-commerce retailer with an emphasis on providing an exceptional selection of nutritional and wellness products for the past 25 years. With over 30,000 products shipped to over 180 countries, we provide the best overall value for natural products through an innovative and efficient supply chain process.Our teams have a strong sense of commitment and pride in their work, which has allowed us to grow, even during the recent pandemic. At iHerb, our purpose is to empower people to enhance their health, happiness, and well-being \u2014 that starts with valuing our team members by providing a positive work environment with competitive benefits. Our five shared values unite our team members across the globe and provide a stable foundation. These values speak to who we are, the culture we\u2019re building, and how every single team member contributes to our larger company vision.iHerb's Shared ValuesFocus on the Customer Empower Our People Be Entrepreneurial &amp; Pivot Quickly Embrace Diversity &amp; Inclusion Strive for SimplicityIHerb BenefitsAt iHerb, we are dedicated to offering programs designed to help our employees and their families stay healthy, live well and plan for the financial future. Built on a strong foundation, our programs provide options and upgrades with flexibility, protection, and security in mind. Below is a snapshot of the benefits we offer our team members. For a more comprehensive listing, visit www.iHerbBenefits.com.Medical Care Starting in 2021, iHerb covers 100% of the associated cost for medical benefitsDental and Vision benefitsSafe Harbor 401(k) + company match (100% of the first 6% of the employee\u2019s contribution)Company-paid Term Life InsuranceShort and Long Term DisabilityFlexible Spending Account (for qualifying expenses)Pet InsuranceVoluntary Supplemental BenefitsEducation Reimbursement ProgramsProfessional Development and Job TrainingWellness Programs with opportunity to earn up to $300 per yearWe strive for innovation, targeted at delivering a customer-centric experience while transforming the online shopping experience. We change direction and define ourselves in the idea that individually we are incredible but united our growth is infinite and paramount to our success. iHerb strives to be the global industry leader!iHerb is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status. iHerb provides equal employment opportunities to all applicants for employment and prohibits discrimination and harassment.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T07:42:29.000Z"
+    },
+    "company": {
+        "name": "iHerb, LLC",
+        "link": "https://www.linkedin.com/company/iherb"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Irvine",
+        "region": "CA",
+        "postal_code": "92717",
+        "street_address": null,
+        "latitude": 33.68591,
+        "longitude": -117.82472
+    }
+}

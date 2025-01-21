@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+        "description": "We are an architecture R&amp;D team at HP Inc chartered with developing forward-looking and innovative technology for human-centered design and applications to the PC ecosystem. As part of this team, you will be experimenting with new ideas in machine-learning and edge infrastructure to implement, optimizing and productize ML models and solutions for resource-constrained devices. You are a collaborator who learns from and enables others to mutually grow. You have the tenacity to visualize, develop and ship cutting edge solutions and enthusiastic to contribute to best in class products that impact the lives of people around the globe.Minimum QualificationsBachelor's, Computer Engineering and/or Computer Science and/or Electrical Engineering5+ years of Software Engineering experience.Extensive programming experience using C, C++ &amp; Python.Familiarity with any of the deep learning compiler frameworks TVM, Glow or XLAExperience in developing solutions for deep learning on embedded and edge devices (shipped product experience desired)Experience with debugging, profiling &amp;optimizing SW/DNN for resource-constrained devicesPreferred QualificationsKnowledge of neural networks, with hands-on experience using ML frameworks such as TensorFlow or PyTorchExperience with TDD development solutions like GoogleTest etc.Experience with Source Code and Configuration management tools, such as GitStrong debugging and analysis skills, for root causing complex issuesKnowledge of Convolutional Neural Networks (CNNs), RNN/LSTMsHands-on experience with code generation implementation/optimization leveraging compiler frameworks such as LLVM, GCC, or machine learning compilers such as TVM, Glow, XLA or TensorFlow.Experience developing (real-time) embedded software and firmware, preferably on-device MLPrevious experience working in an Agile environment, and collaborating with multi-disciplinary teamsDesired Qualifications (one Or More)Hands-on experience with ML in robotics or autonomous systems projectsExperience with DSP programmingHands-on proficiency with RustEnd-to-system firmware development including power-management, boot loaders, scheduling, RTOS and/or bare-metal implementationsExperience designing secure software for embedded Microcontrollers (RISC-V, ARM, PIC, etc.) in a production environmentAbout HPYou\u2019re out to reimagine and reinvent what\u2019s possible\u2014in your career as well as the world around you.So are we. We love taking on tough challenges, disrupting the status quo, and creating what\u2019s next. We\u2019re in search of talented people who are inspired by big challenges, driven to learn and grow, and dedicated to making a meaningful difference.HP is a technology company that operates in more than 170 countries around the world united in creating technology that makes life better for everyone, everywhere.Our history: HP\u2019s commitment to diversity, equity and inclusion - it's just who we are.From the boardroom to factory floor, we create a culture where everyone is respected and where people can be themselves, while being a part of something bigger than themselves. We celebrate the notion that you can belong at HP and bring your authentic self to work each and every day. When you do that, you\u2019re more innovative and that helps grow our bottom line. Come to HP and thrive!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-11T14:07:26.000Z"
+    },
+    "company": {
+        "name": "HP",
+        "link": "https://www.linkedin.com/company/hp"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Spring",
+        "region": "TX",
+        "postal_code": "77387",
+        "street_address": null,
+        "latitude": 30.079731,
+        "longitude": -95.41769
+    }
+}

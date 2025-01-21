@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Engineer",
+        "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+        "description": "OM1 is on a mission to improve health outcomes by unlocking the power of data. We are a healthcare data and technology company focused on improving real world clinical data and outcomes, accelerating medical research and personalizing healthcare. Our interdisciplinary team uses expertise in medicine, software, Big Data, machine learning, public health and mathematics to transform records from a diverse set of sources into enriched, research grade data. This data allows us to generate unique insights in a variety of disease areas.As a Data Engineer, you\u2019ll build out and enhance big-data pipelines, code data-oriented product features, and analyze our complex data assets. The ideal candidate is a smart, creative, and curious analytical thinker who demonstrates strong software engineering skills and an excellent aptitude for data analysis. This is a key role within our Engineering team with responsibility for driving our high standards!Responsibilities Build, automate, and improve big-data pipelines Code, test and deliver data-oriented product features Integrate new data sources into our data asset Model, enhance and enrich database schemas and underlying data Craft scalable backend software and tools using modern software engineering practices Analyze and interpret data flows, attributes, and quality Requirements Strong programming skills, preferably Python, Scala, Java, or similar Excellent SQL skills Solid understanding of software engineering principles Comfort working in an Agile/Scrum environment with continuous delivery A strong desire to advance healthcare and improve patient outcomes Excellent attention to detail NICE TO HAVE Familiarity with cloud-based platforms such as AWS, Databricks, and/or Snowflake DB Data processing experience with Python, Scala, Spark, and/or Airflow Automated unit and integration testing experience Experience with CI/CD tools such as Jenkins Background in medical records and health insurance claims Experience working on systems with strong security and privacy requirements OM1 is an equal employment opportunity employer and considers qualified applicants without regard to gender, sexual orientation, gender identity, religion, race, veteran or disability status. At OM1 ensuring that people feel respected, valued, and included is essential to our success. We are committed to working together to provide a work environment that embraces the principles of diversity, equity, and inclusion.Direct applicants only - No agencies",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-08T11:31:14.000Z"
+    },
+    "company": {
+        "name": "OM1, Inc.",
+        "link": "https://www.linkedin.com/company/om1-inc."
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 82700,
+        "max_value": 180300,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

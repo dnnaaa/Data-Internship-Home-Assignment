@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer I",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "About NCRNCR Corporation (NYSE: NCR) is a leading software- and services-led enterprise provider in the financial, retail and hospitality industries. NCR is headquartered in Atlanta, Georgia, with 36,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries.Software Engineer - Dot Net developerLocation- Addison, TXPosition Summary &amp; Key Areas Of ResponsibilityWorking on the NCR Payments Gateway Team by working with team of software engineers to provide new features and functionality to the existing and next generation applicationsSupporting production by triaging and managing hot fix releases and defects throughout the development life cycle including testing and deployment.Facilitate requirements refinement and design sessions and translate information gathered in those sessions into business processes, system design documents, and modelsWorking with various communication and security protocols to improve the quality of the product.QualificationsREQUIRED (0-3 Years of Experience)C#.NET DevelopmentWeb UI Development (HTML, CSS, etc.)Database Development (MSSQL, TSQL)Stored Procedures, Triggers, Joins, Unions, Analyzing Execution Plans, Query Debugging, Creation and Maintenance of Indexes, Replication MethodologiesObject-Oriented ProgrammingAutomated Unit Testing (NUnit, etc.) and understanding of QAAgile methodologies and frameworks (Scrum, Kanban, Lean, etc.)Multi-ThreadingGarbage CollectionMemory ManagementPreferredPayment Processing SystemsReal Time Transaction Processing SystemsWindows and/or Linux OS AdministrationScripting Languages (Powershell, Python, Bash, etc)Design Patterns (Pub/Sub, Asynchronous/Synchronous, Singleton, Factory, Broker, MEP (Message Exchange Patterns), etc.)Nginx/KestralISTIO/Service MeshVisual Studio 2019 or Eclipse IDEPuttyPostmanFiddlerGITBasic Networking and Understanding of Load Balancing AlgorithmsBusiness Driven Development (BDD) and Test Driven Development (TDD) PracticesSOLID Programming PrinciplesDelivering Enterprise Level SolutionsStrong communication skills and desire to learn.Offers of employment are conditional upon passage of screening criteria applicable to the job.Full Time Employee Benefits IncludeMedical InsuranceDental InsuranceLife InsuranceVision InsuranceShort/Long Term DisabilityPaid Vacation401kEEO StatementIntegrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.Statement to Third Party AgenciesTo ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T11:25:14.000Z"
+    },
+    "company": {
+        "name": "NCR Corporation",
+        "link": "https://www.linkedin.com/company/ncr-corporation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": "no requirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Addison",
+        "region": "TX",
+        "postal_code": "75001",
+        "street_address": null,
+        "latitude": 32.968605,
+        "longitude": -96.83004
+    }
+}

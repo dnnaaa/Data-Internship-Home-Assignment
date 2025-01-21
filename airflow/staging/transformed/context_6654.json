@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist - Algorithms",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "At Lyft, our mission is to improve people\u2019s lives with the world\u2019s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.Data Science is at the heart of Lyft\u2019s products and decision-making. As a member of the Science team, you will work in a dynamic environment, where we embrace moving quickly to build the world\u2019s best transportation. Data Scientists take on a variety of problems ranging from shaping critical business decisions to building algorithms that power our internal and external products. We\u2019re looking for passionate, driven Data Scientists to take on some of the most interesting and impactful problems in ridesharing.As a Data Scientist, Algorithms, you will be developing mathematical models underpinning the platform\u2019s core services. Compared to other technology companies of a similar size, the set of problems that we tackle is incredibly diverse. They cut across optimization, prediction, modeling, inference, transportation, and mapping. We are hiring motivated experts in each of these fields. We're looking for someone who is passionate about solving mathematical problems with data, and are excited about working in a fast-paced, innovative and collegial environment.You will report to a Data Science Manager.ResponsibilitiesPartner with Engineers, Product Managers, and Business Partners to frame problems, both mathematically and within the business contextPerform exploratory data analysis to gain a deeper understanding of the problemDevelop and fit statistical, machine learning, or optimization modelsWrite production model code; collaborate with Software Engineers to implement algorithms in productionDesign and implement both simulated and live experimentsAnalyze experimental and observational data; communicate findings; facilitate launch decisionsExperienceM.S. or Ph.D. in Statistics, Operations Research, Mathematics, Computer Science, or other quantitative fields or related work experience5+ years professional experience in a technology company setting involving a product Passion for solving unstructured and non-standard mathematical problemsEnd-to-end experience with data, including querying, aggregation, analysis, and visualizationProficiency with Python, or another interpreted programming language like R or MatlabAbility to collaborate and communicate with others to solve a problemBenefitsGreat medical, dental, and vision insurance optionsMental health benefitsIn addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off401(k) plan to help save for your future18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligiblePre-tax commuter benefitsLyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership ProgramLyft is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-05T14:21:10.000Z"
+    },
+    "company": {
+        "name": "Lyft",
+        "link": "https://www.linkedin.com/company/lyft"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 133000,
+        "max_value": 191000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

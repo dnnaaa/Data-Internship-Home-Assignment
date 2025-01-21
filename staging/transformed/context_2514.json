@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Position:&nbsp;AI/ML EngineerLocation:&nbsp;Pleasanton, CA Duration:&nbsp;12 Months Contract with Extendable Job DescriptionThe AI/ML Engineer shall lead the Artificial Intelligence/Machine Learning Modeling and Engineering team.&nbsp;The consultant will play the role of technical lead and provide professional services to support the long term IT strategy and planning to include high level analysis, professional reports and presentations, and mentoring, support and training.The tasks for the AI/ML Engineer include, but are not limited to, the following:Provide technical leadership, develop vision, gather requirements and translate client user requirements into technical architecture.Design, build and scale Machine Learning systems across multiple domains.Design and implement NLP algorithmsDesign and implement an integrated Big Data platform and analytics solution Design and implement data collectors to collect and transport data to the Big Data Platform.TECHNICAL KNOWLEDGE AND SKILLS:Consultant resources shall possess most of the following technical knowledge and experience:Provide technical leadership, develop vision, gather requirements and translate client user requirements into technical architecture.Strong Background in Statistical modeling, NLP and Machine Learning.Expertise in various facets of ML and NLP, such as classification, feature engineering, information extraction, clustering, semi-supervised learning, topic modeling and ranking.Strong Hands-on Experience in building, deploying and productionizing ML models using software such as Spark MLLib, TensorFlow, PyTorch, Python Scikit-learn etc. is mandatoryAbility to evaluate and choose best suited ML algorithms, perform feature engineering and optimize Machine Learning Models is mandatoryStrong fundamentals in algorithms, data structures, statistics, predictive modeling, &amp; distributed systems is mustStrong Experience with Data Science Notebooks like RStudio, Jupyter, Zeppelin, PyCharm etc. Design and implement an integrated Big Data platform and analytics solution Design and implement data collectors to collect and transport data to the Big Data Platform.Good to have but not mandatory 4+ years of hands-on Development, Deployment and production Support experience in Hadoop environment.4-5 years of programming experience in Java, Scala, Python.&nbsp;Proficient in SQL and relational database design and methods for data retrieval.Good to have but not mandatory building data pipelines using Hadoop components Sqoop, Hive, Spark, Spark SQL, HBase.Good to have but not mandatory experience with developing Hive QL, UDF\u2019s for analyzing semi structured/structured datasets.Good to have but not mandatory experience ingesting and processing various file formats like Avro/Parquet/Sequence Files/Text Files etc. Hands-on experience working in Real-Time analytics like Spark/Kafka/StormMust have working experience in the data warehousing and Business Intelligence systems.Expertise in Unix/Linux environment in writing scripts and schedule/execute jobs. Successful track record of building automation scripts/code using Java, Bash, Python etc. and experience in production support issue resolution process. MUST HAVE SKILLS:Machine Learning, Deep Learning, NLPTensorFlow, Scipy, PyTorch, OpenCV, OCRNumpy, SKlearn, PandasPython, Spark, Hive, SQLProductionize model",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-05T18:27:21.000Z"
+    },
+    "company": {
+        "name": "Saicon",
+        "link": "https://www.linkedin.com/company/saicon"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Pleasanton",
+        "region": "CA",
+        "postal_code": "94588",
+        "street_address": null,
+        "latitude": 37.658436,
+        "longitude": -121.877
+    }
+}

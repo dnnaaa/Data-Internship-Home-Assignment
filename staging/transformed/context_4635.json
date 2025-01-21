@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Banking",
+        "description": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results, dedicated to quality, strength and integrity, and possess the drive to succeed, then we are your employer of choice.Regions is dedicated to taking appropriate steps to safeguard and protect private and personally identifiable information you submit. The information that you submit will be collected and reviewed by associates, consultants, and vendors of Regions in order to evaluate your qualifications and experience for job opportunities and will not be used for marketing purposes, sold, or shared outside of Regions unless required by law. Such information will be stored for a set period of time. You may review, modify, or update your information by visiting and logging into the careers section of the system.Job DescriptionAt Regions, the Data Scientist works with small teams of data scientists, analysts and visualization experts contributing independently to solve high complexity business problems. The ideal candidate has a depth of knowledge in quantitative analytic methods, data management, visualization, and programming skills suitable to drive data driven decisions. Researches, models, implements and validates algorithms (predictive and prescriptive) to analyze diverse sources of data to achieve targeted outcomes.Primary ResponsibilitiesWorks with large, structured, and un-structured datasetsUses quantitative and analytical techniques to accelerate profitable growth and customer engagement - unlocking value across all functional areas of businessUses Big Data tools (Hadoop, Spark, H2O, CDSW, Domino Labs, etc.) to build data analytics solutionsBuilds machine learning and Artificial Intelligence (AI) models from development through testing and validationDesigns rich data visualizations to communicate complex ideas to business leaders and executivesDraws insights from data to make quick, well informed decisions with available informationPrimarily focuses on daily deliverables of routine and defined outputs, while at the same time developing knowledge of the broader context in which the work is being performedThis position is exempt from timekeeping requirements under the Fair Labor Standards Act and is not eligible for overtime pay.RequirementsBachelor's degree and four (4) years of experience Or Master's degree and two (2) years of experience in a quantitative/analytical/STEM field One (1) year of working experience in Machine Learning, Deep Learning, or Artificial IntelligenceOne (1) year of working programming experience in Python, Ruby, R, Matlab, Scala, or JavaOne (1) year of hands-on experience with Big Data technologiesPreferencesBackground in banking and/or other financial servicesExperience in libraries such as TensorFlow, Pytorch, or KerasExperience in Agile Software DevelopmentKnowledge in Google Analytics and/or Adobe DigitalSkills and CompetenciesStrong business acumen with the ability to communicate with both business and Information Technology (IT) leadersDeep understanding of statistical and predictive modeling concepts, machine learning approaches, clustering and classification techniques, and recommendation and optimization algorithmsExpertise in analyzing large, complex, multi-dimensional datasets using a variety of tools like Python, R, Statistical Analysis System (SAS), or Statistical Package for the Social Sciences (SPSS)Comfortable with both relational databases and Hadoop-based data mining frameworksAdvanced Structured Query Language (SQL) skills Proficient in visualization tools like Power Business Intelligence (BI), TableauStrong communication skills through data visualizations, written and oral presentationsPosition TypeFull timeBenefits InformationRegions offers a benefits package that is flexible, comprehensive and recognizes that \"one size does not fit all\" for associates. Listed below is a synopsis of the benefits offered by Regions for informational purposes, which is not intended to be a complete summary of plan terms and conditions.Paid Vacation/Sick Time401K with Company MatchMedical, Dental and Vision BenefitsDisability BenefitsHealth Savings AccountFlexible Spending AccountLife InsuranceParental LeaveEmployee Assistance ProgramAssociate Volunteer ProgramPlease note, benefits and plans may be changed, amended, or terminated with respect to all or any class of associate at any time. To learn more about Regions\u2019 benefits, please click or copy the link below to your browser.https://www.regions.com/welcometour/benefits.rfLocation DetailsRegions Center - BirminghamLocation:Birmingham, AlabamaBring Your Whole Self to WorkWe have a passion for creating an inclusive environment that promotes and values diversity of race, color, national origin, religion, age, sexual orientation, gender identity, disability, veteran status, genetic information, sex, pregnancy, and many other primary and secondary dimensions that make each of us unique as individuals and provide valuable perspective that makes us a better company and employer. More importantly, we recognize that creating a workplace where everyone, regardless of background, can do their best work is the right thing to do.OFCCP Disclosure: Equal Opportunity Employer/Disabled/Veterans",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T00:11:55.000Z"
+    },
+    "company": {
+        "name": "Regions Bank",
+        "link": "https://www.linkedin.com/company/regions-financial-corporation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Birmingham",
+        "region": "AL",
+        "postal_code": "35226",
+        "street_address": null,
+        "latitude": 33.522858,
+        "longitude": -86.80771
+    }
+}

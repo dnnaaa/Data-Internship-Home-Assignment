@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Industrial Automation",
+        "description": "Job DescriptionInductive Automation, the leader in cutting-edge software for the industrial sector and beyond, is looking to add talented people to our rapidly growing team!We are a unique, innovative, and fun company with a strong mission: to empower our customers to swiftly turn great ideas into reality by removing all technological and economic obstacles. We have a huge passion for our product and our customers; no matter what role you might play in the company, you can sense that there is something special about what we do and who we are.We\u2019re looking for a Software Engineer to join our Information Systems department as we design, build, test, and support the applications and systems that keep our organization moving forward. You\u2019ll partner with stakeholders from other business units like Software Engineering, Sales, Support, Finance, and Marketing to develop new solutions for complex business needs, enhance existing applications and services, and improve how our systems facilitate the processes of the business.&nbsp;ResponsibilitiesCollaborates with team members to design, develop, maintain, and enhance software solutions built in a variety of technologiesWorks with design teams, project owners, and stakeholders to understand the needs, functionality, and user flow of requested featuresEnsures features are well tested, documented, and deployed safely with no interruptions to production systemsWrites code that is traceable in production, to provide expedient bug tracing and quick resolutionsParticipates in cross-functional discussions to clarify objectives and propose solutionsRequirementsBachelor Degree in Computer Science, Computer Engineering, or equivalent experienceStrong Python experienceExperience writing complex SQL queries for normalized dataExcellent communication and interpersonal skillsExperience in gathering and analyzing requirementsExcellent technical troubleshooting skillsFamiliarity with Web technologies (HTML5, JavaScript, CSS)Familiarity with Linux (Ubuntu Server and Desktop)&nbsp;Skills Not Required, But a Plus2-3 years experience developing customer-facing softwareExperience in full-stack development of internal or customer-facing systemsExperience in developing and interacting with RESTful APIsExperience with MySQL server and normalized database designExperience with optimization of complex SQL queriesExperience in gathering and analyzing requirements as part of a development cycleExperience with developing in IgnitionFamiliarity with JavaExperience with Agile development (Kanban or Scrum)",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T17:08:11.000Z"
+    },
+    "company": {
+        "name": "Inductive Automation",
+        "link": "https://www.linkedin.com/company/inductive-automation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 76900,
+        "max_value": 97700,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Folsom",
+        "region": "CA",
+        "postal_code": "95763",
+        "street_address": null,
+        "latitude": 38.681324,
+        "longitude": -121.163734
+    }
+}

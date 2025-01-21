@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Founding Full-stack Software Engineer",
+        "industry": "",
+        "description": "Skills:&nbsp;Django, Python, PostgreSQL, ReactAbout usWe care a ton about impact - which is why we're tackling what we believe to be one of the biggest problems out there today. The lack of supply in behavioral health means that those who need it most can no longer get access to care. We see this as a once in a lifetime opportunity to fix a broken industry, and we want you on this journey with us! Read more about what we're doing here:&nbsp;https://bit.ly/juniper-recruitingAbout the roleWe are excited to hire the first few software engineers to join our team! We\u2019re looking for mission-driven engineers who care about creating positive impact (this is the most important aspect!), love problem-solving, and will thrive in the fast-paced start-up life. You will be one of the first engineers to join our team, and will lead product and engineering decisions. Responsibilities include:Owning end-to-end implementation of projects, including initial scoping of features, design of product, architecture of the database, and development of the final deliverableWorking directly with customers to understand their needs and to inform product design decisionsCollaborating with other teammates across a wide range of functions, including mentoring of more junior engineersLearning new skills and technologies as required to solve different engineering challenges, and maintaining flexibilityUpholding security requirements and maintaining compliance with HIPAA security regulationsAbout YouFull stack engineer with 1+ years of software experience1+ years working with Python1+ years working with front-end frameworksBonusExperience working in health-care or other highly regulated industriesExperience with ReactExperience with React Native or mobile developmentWe\u2019ll be based in New York City post pandemic and have a preference for in person, but are willing to consider remote in certain timezones.TechnologyBackend: Django / Python. Frontend: React.Interesting technical problem: we're building out a behavioral health \"operating system\" (aka an internal API) for us to rapidly prototype and deploy various modules on (e.g., payments, billing, financing, but also things like unifying patient intake). Figuring out the interfaces is key here - and building it in a way that's scalable to 6.5M potential users should be fun.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:35:08.000Z"
+    },
+    "company": {
+        "name": "Juniper Behavioral Health",
+        "link": "https://www.linkedin.com/company/juniperplatform"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

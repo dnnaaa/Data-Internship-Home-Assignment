@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Electrical/Electronic Manufacturing,Machinery,Mechanical or Industrial Engineering",
+        "description": "Born out of MIT, VulcanForms is commercializing the first fully scalable industrial metal additive manufacturing (AM) solution. Building the world\u2019s most powerful and advanced metal AM system is the first step towards our vision of lights-out, highest quality metal AM mass production. We are a team of leading technology and operational experts with decades of experience in advanced manufacturing, materials, automation, and robotics. We are continuously seeking contributors who demonstrate outstanding integrity, intelligence, hunger, accountability, and a passion for learning.Job SummaryVulcanForms is currently seeking a Machine Learning Engineer with a focus on operations to join our Machine Learning and Data Science team in Burlington, MA. As a machine learning engineer, you will develop and maintain ML pipelines, deploy, and monitor ML models / data analytics in production for our cutting-edge metal Additive Manufacturing factory. You will have a unique opportunity to push the frontier of ML applications in additive manufacturing.Essential Functions And Responsibilities Build, maintain and manage end-to-end ML training and deployment pipelines. Deploy, monitor, and optimize ML models and data analytics in the edge, on-premises and in the cloud for Additive Manufacturing. Develop software that integrate ML pipelines within the additive manufacturing process. Working with our additive manufacturing and process control experts to identify and solve technical pain-points to expand the application of Machine Learning and data analysis in AM. Required Qualifications Master of Science degree in Computer Science, Data Science, or related field with 1+ years of relevant work experience, or Bachelor of Science degree in relevant field with 3+ years of relevant work experience, or Ph.D. in relevant field Hands-on experience training, and deploying machine learning models Familiarity with at least one of the Deep Learning frameworks (I.e., TensorFlow, PyTorch) Proficient in Python and its Machine Learning stacks Strong programming skills, familiarity with software development cycles, solid understanding of data structures and algorithms This position must satisfy ITAR compliance requirements, therefore candidates must be U.S. Citizens, or lawful Permanent Residents of the U.S. (Green Card Holders) Preferred Qualifications Ph. D. in relevant field Experience of deploying deep learning models for low-latency applications and in the edge Experience with Docker or other containerization technologies Experience with microservices Experience with C++ A desire to stay current with open-source ML ecosystems Self-motivated, capable of setting and reaching ambitious goals Team player with excellent communication skills Additive Manufacturing (AM) industry experience Experience working in a fast-paced startup company environment Benefits Medical, dental, vision, and life insurance available to you starting on your first day of employment Generous time off package including vacation PTO, sick PTO, and 11 company-paid federal holidays Flexible work schedule 401(k) with company match and stock options.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-25T05:08:45.000Z"
+    },
+    "company": {
+        "name": "VulcanForms Inc.",
+        "link": "https://www.linkedin.com/company/vulcanforms-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Burlington",
+        "region": "MA",
+        "postal_code": "01803",
+        "street_address": null,
+        "latitude": 42.504986,
+        "longitude": -71.19583
+    }
+}

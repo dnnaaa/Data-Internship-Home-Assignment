@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Job Title:  Machine Learning Software Engineer, Lead Software Engineer, ML/AI Engineer, Senior Software EngineerJob Location:  Boston, MA preferred, but remote is okayJob Salary:  Flexible and DOE (target $150-185k base)Requirements 5+ years Software Engineering experience 3+ years Machine Learning and AI experience 3+ years Cloud platform experience Strong Python Development experience Strong knowledge of data structures and algorithmsYou will have the opportunity to work on challenging Machine Learning and AI projects with the goal to improve the everyday life of our members. As a SR/Lead, you may direct a small team of engineers. You will collaborate with data science, analyst, business and IT teams to design, implement, and deploy Machine Learning and AI services using Python, PySpark, Azure services, Databricks, Terraform, and other open-source software. You will be expected to lead by example, develop plans, designs, code, and documentation, and perform code reviews, testing, and debugging. You will embrace and enforce best practices in our data science community with automated, repeatable data pipelines.What You Will Be Doing Creating templates for data scientists, embracing leading-edge modeling techniques Establishing a Feature Store with tens of thousands of features available to use in predictive models Defining monitoring, auditing, data lineage, and dependency tracking for data pipelines to improve quality Integrating ethical AI bias monitoring and drift analysis into modeling processing Standardizing the definitions of clinical, financial, and actuarial features for use across the business Some tools we utilize: Python, Pyspark, Azure Databricks, Azure Data Factory, Azure DevOps, Kubernetes, CosmosDB, Kafka, Pulsar, Terraform, SciKit Learn, SparkML, Tensorflow, Horovod, Petastorm...What You Need for this Position Ability to build and deploy ML models on Azure. Understand best practices for effective predictive models, including cluster management and algorithms. Ability to thrive in a fast-paced agile environment. Ability to collaborate with team members and coach/mentor junior team members.So, if you are a Machine Learning Engineer with experience, please apply today!Email Your Resume In Word ToLooking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:Kyle.Martin@Optello.comPlease do NOT change the email subject line in any way. You must keep the JobID: linkedin : KM3-1642533 -- in the email subject line for your application to be considered.***Kyle Martin - Recruiting Manager - OptelloApplicants must be authorized to work in the U.S.Optello is proud to be an Equal Opportunity EmployerAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T13:12:11.000Z"
+    },
+    "company": {
+        "name": "Optello",
+        "link": "https://www.linkedin.com/company/optello-us"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

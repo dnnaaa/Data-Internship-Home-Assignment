@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Management Consulting",
+        "description": "Site Reliability EngineerREMOTE Job DescriptionWe are looking for a strong site reliability engineer (SRE) to develop and own our system's delivery automation, security, high availability, and performance in service of our customers and end-users. This SRE would be the first one hired at CertifID and responsible for bringing automation, reliability, and security to our software delivery pipelines and infrastructure to enable more rapid delivery cycles with high visibility and insights in real-time while maintaining the quality of the product delivered.Specifically, we are searching for someone who brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with a cross-functional team to develop real-world solutions and positive user experiences at every interaction in a healthy and rapid development environment.&nbsp;Objectives of this RoleWith a focus on security, in coordination with the Engineering Lead:Run the production environment by monitoring availability and taking a holistic view of system health.Build software and systems to manage platform infrastructure and applications.Improve reliability, quality, and time-to-market of our suite of software solutions.Measure and optimize system performance to push our capabilities forward, getting ahead of customer needs, and innovate to improve continually.Provide primary operational support and engineering for the CertifID platform, comprising multiple distributed software applicationsSupport sustainable systems and services through automation and uplifts throughout the delivery pipeline, such as IaC, to break vendor lock-in as much as is practical.Participate in system design consulting, platform management, and capacity planning.Gather and analyze metrics from operating systems and applications to assist in performance tuning, fault finding, and security.Partner with the product team to improve services through rigorous testing and release procedures.Assist the Engineering Lead in maintaining, implementing, and enforcing our security posture.&nbsp;Required Skills and QualificationsBachelor's degree in computer science or other highly technical and scientific disciplines,or equivalent experience.Experience in Information Systems Security, in a security-focused environment.Ability to program (structured and OO) with one or more high-level languages.Experience with IaC, such as Hashicorp's Terraform.Experience with distributed storage technologies like NFS, HDFS, Ceph, S3, and dynamic resource management frameworks (Mesos, Kubernetes, Yarn).A proactive approach to spotting problems, areas for improvement, and performance bottlenecks.Strong communication, task management, and interpersonal skills.Experience in cloud platforms and systems architecture.&nbsp;Preferred QualificationsOne or more cloud platform certifications with a preference towards Azure.Coding experience beyond simple scripts, with a preference for C#.An active CISSP certification.&nbsp;Why you want to join:Opportunity to own this domain.Opportunity for equity.Flextime.Benefits (Health, Dental, Vision).401k matchingYou want to build something that has a positive impact on the world.Work alongside a bright, passionate, and experienced team.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-01T01:29:16.000Z"
+    },
+    "company": {
+        "name": "MSH",
+        "link": "https://www.linkedin.com/company/talentmsh"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Texas",
+        "region": "United States",
+        "postal_code": "76522",
+        "street_address": null,
+        "latitude": 31.463793,
+        "longitude": -99.333275
+    }
+}

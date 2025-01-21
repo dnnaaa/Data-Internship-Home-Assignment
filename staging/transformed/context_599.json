@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer II",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "About NCRNCR Corporation (NYSE: NCR) is a leading software- and services-led enterprise provider in the financial, retail and hospitality industries. NCR is headquartered in Atlanta, Georgia, with 36,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries.TITLE: SW Engineer IILOCATION: Dallas, TXPosition Summary &amp; Key Areas of ResponsibilitySummaryAre you ready to work on a new set of market leading products poised to make a splash inthe industry? You can as a Software Engineer within NCR Hospitality Division.NCR Hospitality Solutions is an entrepreneurial team focused on building innovative omnichannel solutions for quick and table service restaurants. In this role, you will join a teambuilding Point of Sale products augmented by a web-based Back Office and customer facinguser interface. You will be hands on and enjoy creating new products. You desire to work ina team of full stack developers and love working in an Agile environment. We\u2019re looking forsomeone who values and cares about the big picture but can execute today. Join us on theground floor of The New NCR \u2013 a software and services innovator. We offer greatopportunities and an attractive compensation package including bonus and the chance towork on a team of stellar people.Areas of Responsibility Implements new product features and implements modifications to existing productfeatures to include technical documentation. Builds and executes unit tests for new or existing application code Works with Customer Care team members to resolve problems with releasedsoftware. Exhibits very high personal commitment to quality, software engineering bestpractices, and protection of sensitive consumer information Attends daily scrum meetings, sprint planning, work estimates Ability to drive issues to effective resolution and to find solutions to challenging,time-critical problems Collaborates with other team members and Senior members of the team.Basic Qualifications Bachelor\u2019s Degree in Computer Science or related field 1-2 years of experience in software architecture, design, and development Proficient in agile processes and methods, particularly Scrum Experience building loosely coupled software components and services that arescalable, high quality, and extensible 1-2 years of experience with C#, C++, ASP.NET, XML, JSON, and RelationalDatabase experience Proficiency in automated unit test development practices and design methodologies RESTful web services and OAUTH2 authentication Applications, Database and SQL performance tuning experienceConsumer Sensitive (Confidential) Data modeling concepts and best practices Excellent written and verbal communication skillsPreferred Qualifications Cloud POS experience Point of Sale, Hospitalty/Retail, eCommerce, or payment processing applications Message Queuing technologies (MSMQ, RabbitMQ, Kafka, ActiveMQ) High volume, high availability solutions PCI compliance, secure development, and data encryption techniquesOffers of employment are conditional upon passage of screening criteria applicable to the job.Full Time Employee Benefits IncludeMedical InsuranceDental InsuranceLife InsuranceVision InsuranceShort/Long Term DisabilityPaid Vacation401kEEO StatementIntegrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.Statement to Third Party AgenciesTo ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T18:38:59.000Z"
+    },
+    "company": {
+        "name": "NCR Corporation",
+        "link": "https://www.linkedin.com/company/ncr-corporation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 68200,
+        "max_value": 98800,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fort Worth",
+        "region": "TX",
+        "postal_code": "76116",
+        "street_address": null,
+        "latitude": 32.749905,
+        "longitude": -97.33034
+    }
+}

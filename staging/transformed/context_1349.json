@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Vehicle Diagnostics Software Engineer",
+        "industry": "Electrical/Electronic Manufacturing,Automotive,Mechanical or Industrial Engineering",
+        "description": "About XosDescriptionXos is an innovative electric vehicle company on a mission to decarbonize transportation. Our zero-emission commercial vehicles and next-generation technologies empower fleets of Fortune 500 companies and positively impact our environment. The market is growing. The need is rising. The time is now.At Xos, we design vehicles from scratch, invent efficient and durable battery systems, write software to control the vehicle and its interactions with the driver, and entice fleet owners into an electrified future with groundbreaking service.We are a team of passionate doers that have banded together to do our part in the battle for a cleaner planet. We\u2019re go-getters, change-makers, and future-creators. Will you join us?The RoleWe are looking for a vehicle diagnostics software engineer who will work on developing diagnostics software for fault management and service test communications based on industry-standard protocols (J1939, J1708) for commercial vehicles. This person will perform testing and validation of the software both on the bench (HIL) and in the vehicle and communicates cross-functionally on design directions and requirements. An ideal candidate will have confidence in his ability to contribute significantly and independently to the vehicle-build as well as bring innovative ideas to the team.RequirementsB.S in Electrical Engineering or Mechanical Engineering or related discipline (M.S preferred)3+ years of relevant experience in commercial vehicle diagnostics, software development or testingKnowledge in control system theory and applicationsExperience in vehicular communication networks such as CAN, CAN FD, and LINUnderstanding of CAN bus messaging protocols such as J1939, and UDSExperience with MATLAB, Simulink and StateflowProficient in embedded C code programmingFamiliar with measurement, calibration and diagnostic tools such as ETAS INCA and Vector CANalyzerExperience with validation hardware and Hardware-in-the-loop (HIL) systems and test bench setups.Familiar with version control tools such as Git or SVNExperience with change management tools such as JIRABenefitsXos, Inc. is committed to offering competitive wagesThe Company offers medical coverage, paid 100% by the employer for employees with dependent coverage partially off-set by the employerDental, Vision, and Life plans are also offered through the Company's health packageGenerous PTO, sick, vacation, and holiday payXos, Inc is committed to hiring and retaining a diverse workforce. We are an Equal Opportunity/Affirmative Action Employer and will consider all qualified applicants for employment without regard to race, color, religion, gender, pregnancy, sex, sexual orientation, gender identity, gender expression, national origin, age, genetic information, protected veteran status, disability, or any other basis protected by local, state, or federal law.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-26T08:42:25.000Z"
+    },
+    "company": {
+        "name": "Xos Trucks",
+        "link": "https://www.linkedin.com/company/xostrucks"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Los Angeles",
+        "region": "CA",
+        "postal_code": "90101",
+        "street_address": null,
+        "latitude": 34.05224,
+        "longitude": -118.24335
+    }
+}

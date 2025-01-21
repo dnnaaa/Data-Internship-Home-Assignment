@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Projects The Candidate Will Be Working OnProvide support for production AWS cloud environments for a state government customer.Ideal BackgroundHealthcare is a plus, but the ideal background is several years experience working in AWS supporting production workloads.Team And Team SizeCurrent team is 8 members with a mixture of people being on and offshore. All the team members are DevOps engineers that are supporting the production environments. Top ResponsibilitiesWork closely with the product support teams to be able to troubleshoot production issues.Be able to deploy new releases or hotfixes to a Linux environmentAble to create new automation jobs to assist with common tasks.Be able to manage an Oracle database so that new scripts can be run against it as well as perform ad-hoc queriesAbility to manage users/role on AD, Oracle Database, Operating SystemAbility to triage infrastructure issues on Prod.Support all production services (o EC2, EBS, S3, EFS, Cloudfront, WAF, ALB, SecretsManager,Cloudtrail, Cloudwatch, DynamoDb, Redis, SQS, SES, SNS, IAM, Inspector, Gaurdduty, Workspaces, Certificate Manager, DIrectory Services, Lambda, AWS Batch, Step Function, VPC, SG, NACL, Disaster Recovery, KMS, Oracle)Skills/attributes RequiredLinux hands on, comfortable with command line (3+ years)AWS management (3+ years)Oracle (2+ years)Skills/attributes PreferredThe more experience with AWS setting up and managing services the better.Working TimeAbility to work night shifts would be ideal.Interview ProcessHow many rounds? 2 - 1 technical, 1 managerVideo, phone, or in person? Video/phoneHow technical will the interviews be? Very",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-03T00:01:13.000Z"
+    },
+    "company": {
+        "name": "Horizontal Talent",
+        "link": "https://www.linkedin.com/company/horizontal-talent"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Reston",
+        "region": "VA",
+        "postal_code": "22096",
+        "street_address": null,
+        "latitude": 38.960186,
+        "longitude": -77.3545
+    }
+}

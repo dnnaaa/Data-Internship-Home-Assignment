@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Staff Site Reliability Engineer, Storage",
+        "industry": "Automotive,Renewables &amp; Environment,Utilities",
+        "description": "Role Tesla is currently looking for a seasoned Site Reliability Engineer (SRE) to join the Platform Storage team to build the Tesla's next gen object storage platform that will be the foundation of all the critical data and services we build.ResponsibilitiesOwn the object storage platformA strong ability to identify performance and scaling bottlenecks at design time is a must have.Influence architectural decisions with focus on security, scalability and high-performance.Setup and maintain monitoring, metrics &amp; reporting systems for fine-grained observability and actionable alerting.Work with various internal teams to develop technology and capacity roadmaps.RequirementsStrong understanding and demonstrated expertise of running object storage solutions at scale.BS or MS degree in Computer Science or Engineering, or equivalent experience.5+ years of managing services in a distributed, internet-scale *nix environment.Experience designing solutions for high throughput / low latency storage environments.Understanding of loadbalancing and traffic routing.Ability to prioritize tasks and work independently.Advanced or expert-level Linux administration.Advanced experience with configuration management systems such as Ansible, Puppet or Terraform.Demonstrable knowledge of TCP/IP, Linux operating system internals, filesystems, disk/storage technologies and storage protocols.Experience with AWS, or other cloud infrastructure providers.Fundamental understanding of how kubnernetes works.Proficiency in a high-level language like Python, Go, Ruby and/or JavaExcellent communication skills to collaborate with teams globally Ability to manage competing priorities, and work well under pressureKnowledge of big data platforms such as Hadoop a plus.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-27T20:00:07.000Z"
+    },
+    "company": {
+        "name": "Tesla",
+        "link": "https://www.linkedin.com/company/tesla-motors"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 74200,
+        "max_value": 106000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fremont",
+        "region": "CA",
+        "postal_code": "94537",
+        "street_address": null,
+        "latitude": 37.5502,
+        "longitude": -121.98083
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Enterprise Software Engineer",
+        "industry": "Computer Software,Automotive,Information Technology and Services",
+        "description": "Who We AreArgo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world\u2019s largest automakers, we\u2019re building self-driving technology that is engineered to scale globally and transform mobility for millions.Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.Meet The TeamYou will join a senior development team responsible for the growth and deployment of global tools to support the corporate and production systems. This role will be focused on building new software solutions to provide advanced technology systems across the enterprise. You will have the opportunity to creatively design solutions and solve complex problems with code.What You\u2019ll DoBuild software based in a variety of common languages, JavaScript, Python, JavaLeverage web based languages and frameworks such as TypeScript, React, and Vue.js to create reports, dashboards, and web-based applicationsCollaborate with internal teams and customers to identify new products and services, requirements, features, and interfacesBe a key contributor to the team\u2019s code baseWhat You'll Need To SucceedDegree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field7+ years experience in software engineeringExperience with TypeScript and/or JavaScript and frontend frameworks (e.g.: React, Vue.js)Experience with SQL and NoSQL databases, including PostgreSQL and MongoDBDeep familiarity with several core development languages, JavaScript, Python, JavaHands on development in Python, Go, or Java to create production level services that incorporate CI/CDExperience in using infrastructure as codeHigh level of comfort in Linux and OSX platforms and development toolsFamiliarity working in an end to end CI/CD pipelineGood communication skills -- verbal and writtenExcellent documentation processNice To HavesHands on experience with Docker, Kubernetes, Jenkins, Terraform, Ansible, Ansible Tower, CloudWhat We Offer YouHigh-quality individual and family medical, dental, and vision insuranceCompetitive compensation packagesEmployer-matched 401(k) retirement plan with immediate vestingEmployer-paid group term life insurance and the option to elect voluntary life insurance Paid parental leave Paid medical leaveUnlimited vacationComplimentary daily lunches, beverages, and snacksPre-tax commuter benefitsMonthly wellness stipend Professional development reimbursementEmployee assistance programDiscounted programs that include legal services, identity theft protection, pet insurance, and moreCompany and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiativesOur BackgroundArgo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world\u2019s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers\u2019 global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T18:43:28.000Z"
+    },
+    "company": {
+        "name": "Argo AI",
+        "link": "https://www.linkedin.com/company/argo-ai"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 84,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 88900,
+        "max_value": 145000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Pittsburgh",
+        "region": "PA",
+        "postal_code": "15235",
+        "street_address": null,
+        "latitude": 40.44217,
+        "longitude": -79.99496
+    }
+}

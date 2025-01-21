@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DevOps / Site Reliability Engineer",
+        "industry": "",
+        "description": "DescriptionAt Planning Center, we build powerful web and mobile applications for churches. Each of our eight products has a dedicated team of designers and developers committed to refining and expanding that product in response to real customer needs. Our customers include over 90 of the 100 largest churches in the country, and tens of thousands of small community churches. We strive to make day-to-day operations easier for all of them.We\u2019re a development driven company, founded and led by a developer. Over half our staff are either devs or designers who code! We are constantly trying to improve our practices and we are looking for a Platform/Site Reliability engineer to help us.About the workWe are heavily incorporated in the AWS ecosystem.Our core infrastructure technologies include Aurora (MySQL), Redis, Memcached, Elasticsearch, DynamoDB, Docker, ECS, EC2, Lambda, S3, SNS, CloudFormation, and Datadog. At the application layer it includes Ruby on Rails and React.Some tasks you could be working on?Increasing our alert coverage and creating informative dashboards in DatadogAnalyzing query performance in Aurora and recommending improvementsCreating new developer tools to help streamline our processesDeploy a service to ECS or LambdaProduce and maintain documentation on installations, incidents, and proceduresHelp with log collection and analysisTroubleshoot application performance issuesWe run an on-call rotation so you will have to feel comfortable with participating in the rotation once you're up to speed on things. Our schedule is approximately 1 week on, 6 weeks off.About youWe are looking for experienced candidates only for this role.You may be a good fit if you have:Professional experience doing this work as at least a portion of your jobAt least some familiarity with the technologies in our hosting stack (but you don't need to be an expert in all of them)Experience with relational databasesExperience working in the UNIX environmentA basic understanding of networking conceptsAt least some programming experienceWe are looking for candidates that excel in self direction, and enjoy seeing projects through to completion.If some of our stack will be new to you, don't let that stop you. Technology changes fast and we are always interested in people who can learn new technologies!While not required, this would help you stand out:Capable of writing or editing Ruby and/or Go applicationsFamiliar with Datadog APM and MonitoringRequirementsLive and eligible to work in the United States.Must be willing to travel four times each year to connect with the rest of the team in person (not during a pandemic).BenefitsWe love our people and want this to be the best place for them to work. In addition to a competitive salary (starting between&nbsp;$110,400 - $147,200&nbsp;depending on expertise), we offer:Full health, dental, and vision coverageCompany contribution to a 401(k)Mobile phone stipendCo-working stipendHealth stipend for counseling or a gym membershipCharitable giving matchPaid maternity, paternity, or bonding leavePaid vacation and holidaysPaid Fridays off in the summerContinual education allowance for books, videos, or conferencesGearWe'll provide all the things you need to get your job done. That includes a laptop, monitor, standing desk, and chair.Work from Anywhere in the USAWe are dedicated to hiring the best talent available; part of working at Planning Center is the option to work remote! We fly our remote team into the office once every quarter, so you can enjoy the nice California weather and connect with the rest of the team (75% of which is remote).If you've applied in the past, feel free to apply again!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-19T04:28:08.000Z"
+    },
+    "company": {
+        "name": "Planning Center",
+        "link": "https://www.linkedin.com/company/planningcenter"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Diego",
+        "region": "CA",
+        "postal_code": "92161",
+        "street_address": null,
+        "latitude": 32.71576,
+        "longitude": -117.16382
+    }
+}

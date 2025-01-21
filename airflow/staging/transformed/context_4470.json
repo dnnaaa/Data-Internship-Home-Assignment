@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Data Engineer",
+        "industry": "Computer Software",
+        "description": "Machine Learning Data EngineerAustin, TXLong term Job Summary:As a part of our Decision Sciences group, you will work with our clients to help define solutions for institutionalizing data-driven decision making in a cost effective and scalable manner. The focus is not only in driving analytical outcomes but defining approaches to automate the operationalizing of the predictions within our client applications. The Machine Learning (ML) Engineer, with an interest in a variety of disciplines, will strive to build frameworks and supporting utilities to enhance the experience of our data scientists.Responsibilities:Develop and support a platform that enables data scientists to rapidly develop, train, and experiment with machine learning models. Collaborate with other engineers and data scientists to design high performance architectures to support development of machine learning models, data wrangling and data provisioning pipelines and metadata rich data lake repositories.Implement POCs and make recommendations for new ML accelerator toolsRequired Skills:Strong programming experience building data integration frameworks using Python (on-prem)Strong experience with ETL patterns to support data science is requiredExperience with AWS or Azure ML stack is desiredIndustry experience as a Machine Learning EngineerStatistical background is a nice to haveBachelor\u2019s Degree or foreign equivalent in Computer Science, Electrical Engineering, Mathematics, Computer Applications, Information Systems or Engineering is required.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-18T18:16:23.000Z"
+    },
+    "company": {
+        "name": "ConnectTel, Inc.",
+        "link": "https://www.linkedin.com/company/connecttel"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

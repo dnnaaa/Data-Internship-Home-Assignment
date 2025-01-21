@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "An exciting opportunity with a technology platform catered for data-driven decision-making.About the role:Working with a team of experienced engineers who work to turn ideas into business wins. Help with everything in the team from Data ETLs to model serving to test reporting. A typical day will include data science modelling, data cleaning, ETL and analytics. Requirements:Experienced with big data processing -&nbsp;Apache Spark, SQL and ScalaCompetent using search technologies \u2013 Lucene / SoirExtensive Python knowledge and applicationHands on experience with gradient boosted trees (XGBoost &amp; MML) and deep learning (TensorFlow &amp; Keras)Bachelors or higher degree in Computer Science from a top universityMinimum 3 years\u2019 experience of programming work experienceAt least 1 year of Data Science, Data Engineering or Machine Learning ExperienceBenefits:Competitive salaryComprehensive health insurance401 (k) retirement planPaid company holidays and unlimited PTO",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T07:52:29.000Z"
+    },
+    "company": {
+        "name": "X4 Technology ",
+        "link": "https://uk.linkedin.com/company/x4-technology"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "Texas Metropolitan Area",
+        "postal_code": "78723",
+        "street_address": null,
+        "latitude": 30.276316,
+        "longitude": -97.70931
+    }
+}

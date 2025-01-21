@@ -1,0 +1,40 @@
+version: '3.7'
+
+services:
+  airflow-webserver:
+    image: apache/airflow:2.8.0
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__CORE__DAGS_FOLDER=/opt/airflow/dags
+      - AIRFLOW__CORE__FERNET_KEY=eD4wuRXjB4HSzS8agQkM3t9mO3A1Zoep82HJ9rv4cF4=
+    volumes:
+      - ./dags:/opt/airflow/dags  
+      - ./airflow:/opt/airflow    
+      - ./source:/opt/airflow/source  
+    ports:
+      - "8080:8080"
+    command: webserver
+
+  airflow-scheduler:
+    image: apache/airflow:2.8.0
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__CORE__DAGS_FOLDER=/opt/airflow/dags
+      - AIRFLOW__CORE__FERNET_KEY=eD4wuRXjB4HSzS8agQkM3t9mO3A1Zoep82HJ9rv4cF4=
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./airflow:/opt/airflow
+      - ./source:/opt/airflow/source  
+    command: scheduler
+
+  airflow-init:
+    image: apache/airflow:2.8.0
+    entrypoint: ["airflow", "db", "init"]
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__CORE__DAGS_FOLDER=/opt/airflow/dags
+      - AIRFLOW__CORE__FERNET_KEY=eD4wuRXjB4HSzS8agQkM3t9mO3A1Zoep82HJ9rv4cF4=
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./airflow:/opt/airflow
+      - ./source:/opt/airflow/source

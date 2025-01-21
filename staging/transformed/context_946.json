@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Role: Software EngineerLocation: Menlo Park, CAOur client is shaping the future of Ads in a world that is becoming increasingly privacy aware by giving users control over their data and experience and by gaining their trust. Your work will help define the future of online advertising, and meaningfully impact on all stakeholders: users, advertisers and regulators.Responsibilities:- Drive project technical direction and effectively communicate complex features and systems in detail.- Work closely with product, design and other cross functional teams to define and refine project specifications.- Technical design, implement and test (unit and end to end) complex project features and ensure hitting the project release timeline.- Design and develop front-end interfaces, underlying APIs, or backend systems across a number of programming languages such as JavaScript, Python, PHP (Hack) or C++- Create consumer products and features on a large scale- Master development standards from developing to releasing code in order to take on tasks and projects with increasing levels of complexity- Partner closely with infrastructure and operations teams to build and scale back-end servicesDay to day activities include but not limited to:- Collaborating with TL, Design and other teams to implement the desktop UI. Skills used: React, javascript, GraphQL, Hack (Php)- Collaborating with TL, Design and other teams to implement the Mobile UI. Skills used: Bloks (a mobile Framework with syntax similar to Hack (php), general UI knowledge- Working on adding data pipelines to aggregate data and create dashboards for the product. Skills used: SQL, Spark- Working on mid layer API connecting the backend ML data to topic control APIs used by the UI. Skills used: PHP, general ML knowledgeMinimum Qualifications:- Experience leading projects with industry-wide impact- Experience communicating and working across functions to drive solutions- Experience in influencing senior engineers across organizations- Proven track record of delivering complex projects within a challenging timeline.- Experience in driving large cross-functional/industry-wide engineering efforts- Proficient on React/Vue/Angular and/or other morden JavaScript framework/libraries.Preferred Qualifications:- Experience shipping products to millions of customers or have started a new line of product- Experience building and scaling large products or systems- Experience with building privacy and ads related products is a big plus.Education/Experience:\u2022 Bachelor's degree in computer science, software engineering or relevant field required.Note:- Experience with database, Full Stack, UI, and API experience- Want a quick learner so they can ramp up quicklyWarm Regards,&nbsp;Simran KhandujaDigital Intelligence Systems, LLC (DISYS)1301 Fannin St, Suite 1600Houston, TX 77002Phone: 562-453-3983| www.disys.comEmail: Simran.khanduja@disys.com",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-20T00:47:52.000Z"
+    },
+    "company": {
+        "name": "DISYS",
+        "link": "https://www.linkedin.com/company/disys"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 71000,
+        "max_value": 133000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Menlo Park",
+        "region": "CA",
+        "postal_code": "94029",
+        "street_address": null,
+        "latitude": 37.45322,
+        "longitude": -122.18322
+    }
+}

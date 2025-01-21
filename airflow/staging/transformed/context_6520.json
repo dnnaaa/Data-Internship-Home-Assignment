@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "It's fun to work in a company where people truly BELIEVE in what they're doing! We're committed to bringing passion and customer focus to the business.Machine Learning EngineerIn the time it takes you to read this job description, roughly 1,380 emergencies will be handled by RapidSOS.RapidSOS is hiring! Join an advanced emergency technology start-up in transforming emergency response for hundreds of millions of people globally.In partnership with public safety, RapidSOS has created the world\u2019s first emergency response data platform that securely links life-saving data from 350M+ connected devices directly to 911 and first responders in an emergency. Through the platform, we\u2019re providing intelligent data that supports over 4,800 Emergency Communications Centers, protecting 90%+ of people in the US, across 150 million emergencies annually.Partnering with innovative companies recognized as RapidSOS Ready, we\u2019re striving to reach everyone. Together, we\u2019re empowering a faster and smarter response by sending first responders critical data like your exact location, real-time health information, and crash data. We\u2019re united in our commitment to a safer, stronger future where technology and people work seamlessly together to save lives.RapidSOS is backed by top venture capital firms and the former C-suite of Apple, AT&amp;T, Verizon, Vodafone, Virgin Group, Lucent, Raytheon, the FCC, Harvard Data Initiative, and MIT.Video: RapidSOS 3-Min Summary VideoRapidSOS In The Last 18 Months Launched in multiple countries internationally  Doubled team size  Grew revenue 10x+  Raised $100M+  Managed 200M+ emergencies (on average 400K/day)  Helped save thousands of lives What This Role Is AboutAt RapidSOS, we rely on insightful data to power our systems and solutions. We are looking for a motivated Machine Learning Engineer to join our team who will identify ways to make the Data Science organization more effective at ensuring data availability, quality, and consistency. You will work collaboratively with other data scientists, product managers, and our engineering teams to build a platform that provides life-saving data to dispatchers, currently covering over 92% of the US population.What You\u2019ll Do Manage processing of data ingestion and pipelining; ensure all critical data sources are being ingested into the data warehouse  Research publicly available sources and public APIs to incorporate and enrich the data that we use in our intelligent data platform  Automate and productize analytical processes and data pipelines.  Implement data models to support the backend of our products  Collaborate with the data science team, machine learning engineers, and product stakeholders to ensure the end-to-end success of RapidSOS solutions What We\u2019re Looking For In Our Ideal Candidate 3+ years of experience in data engineering  BS or higher in Computer Science or similarly quantitative/technical field or equivalent experience  Experience with any of the following technologies: Hadoop, Spark, ElasticSearch, relational SQL and NoSQL databases  Experience working with big data sets and the AWS ecosystem  Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.  Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc. What We Offer The chance to work with a passionate team on solving one of the largest challenges globally  Competitive salary and benefits and equity participation  A dynamic, flexible and fun start-up work environment with a highly talented team If you're curious to learn more about RapidSOS, you can check out our full press list !If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-26T01:29:20.000Z"
+    },
+    "company": {
+        "name": "RapidSOS",
+        "link": "https://www.linkedin.com/company/rapidsos"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

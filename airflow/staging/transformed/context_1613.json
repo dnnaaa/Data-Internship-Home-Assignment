@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer I",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "Company Description:Flashpoint delivers actionable intelligence that empowers organizations of all sizes to take rapid, decisive actions to protect against threats. The company's technology, advanced data collections, and human-powered analysis uniquely enable teams to mitigate threats related to cybersecurity, fraud, insider threats, corporate and physical security, executive protection, and third-party risk. For more information, visit https://www.flashpoint-intel.com/ or follow us on Twitter at @FlashpointIntel.What we look for:Our best engineers are collaborative and selfless. They enjoy writing code but they prioritize mentoring and supporting others. They leave code cleaner than when they found it but don't insist on particular patterns. They optimize for simplicity and readability. They are involved in the full lifecycle of software development: understanding the requirements, designing the solution, writing the code, testing the code, testing the integration, deploying it to production, and monitoring the deployment. They are fully engaged in the problem domain.What you will do:As an engineer on the Flashpoint Threat Operations team, you will work closely with the Flashpoint intelligence analysts to support their needs in an ever changing environment. You must take care that the team's applications are reliable, responsive, simple, and predictable.Your main technical responsibilities will include: Build, maintain, and document applications that consume streaming data Build, maintain, and document customer-facing UIs and APIs Design small projects lasting from one to three months. Design testing strategies for your apps, including integration, performance, functional, and failure scenarios Collaborate with the product team as well as cyber threat, fraud, and security experts to understand the problems that customers want to solve Collaborate with the data and operations teams to design infrastructure that supports the applications you will be building Identify opportunities for automation and drive process improvements Technologies you will work with:The core responsibility of a delivery engineer is to build and maintain well-running APIs. This means you must work with: Streaming pipelines using tools like Kafka, AWS MSK, and Google PubSub Cloud providers like AWS and GCP Javascript frameworks like React and Redux Containers technologies like Docker and Kubernetes Python web frameworks like Flask and Django Python testing frameworks like pytest Search databases like Elasticsearch and Solr Key/Value stores like Redis, Cassandra, and BigTable Monitoring tools like ElasticAPM, Prometheus, and Grafana Our developers succeed when they know how their work fits in within the entire infrastructure. They integrate their work with the data team's or operation team's stack. Therefore, engineers on all of our teams have a chance to work with a varied list of technologies, like: API frameworks like GraphQL and OpenAPI Configuration management and IaC tools like Ansible, Puppet, Chef, and Terraform What you will bring: 1-5 years experience as a software engineer Proficiency in Python or Javascript Why Flashpoint is a Great Place to Work: Diversity.  Flashpoint is committed to fostering, cultivating and preserving a culture of diversity, inclusion, belonging, and equity. We recognize that diversity is key to achieving our vision. We believe that every person and their experiences contribute to building a work environment and a product that will change the world. Culture and Belonging.  Our company's culture isn't something you join, it's something you build and shape, and each person's unique backgrounds and experiences contribute to who Flashpoint is and will become. You will have ample opportunities to connect with coworkers through various communication channels and company-funded events: dietary &amp; allergy conscious catered lunches, book clubs, happy hours, committees and much more.  Benefits. We offer a competitive salary and benefits package, including unlimited PTO, 401(K), mental health and wellness benefits, commuter benefits, and generous parental leave policies. Perks. Flashpoint understands that personal wellness is one of the keys to a happy, healthy and productive work environment. That's why we also prioritize health and wellness perks like gym reimbursements and daily meditation, well-stocked kitchens, cool cultural initiatives and inclusive employee events. Career Growth. Flashpoint is invested in the growth of our team members and understands that frequent, two-way feedback is critical to that growth. We encourage regular one-on-ones with your manager, a regular schedule of performance reviews, learning and development opportunities, and guidance through formalized career paths; whether that be towards being a great manager, being a great individual contributor, or a lateral move to gain breadth of knowledge and experience.  A Great Place to Work. Literally. According to the 99% of employees surveyed, Flashpoint earned designation as a Great Place to Work-Certified\u2122 Company for 2021. 100% of employees agree that new hires are made to feel welcome and appreciated. If you are interested in learning more, please check out our Certified Profile.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-04T05:09:50.000Z"
+    },
+    "company": {
+        "name": "Flashpoint",
+        "link": "https://www.linkedin.com/company/flashpoint-intel"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 109000,
+        "max_value": 167000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer (Intern)",
+        "industry": "Computer Software",
+        "description": "We Are Hiring For a Variety Of Roles, IncludingWe are looking for passionate, motivated software engineering interns who are excited to build their experience as they develop tools to power the next generation of cloud applications. Distributed systems Machine learning Frontend Observability Production serving Ecosystem C++ Reinforcement LearningAbout AnyscaleAnyscale provides an application development platform for developers to build distributed applications. We\u2019re commercializing a popular open source project called Ray , which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Our goal is to build a standardized platform for distributed computing. Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan, and the four of them have co-founded Anyscale. The company raised a $20.6M Series A and a $40M Series B funding from Andreessen Horowitz (a16z), NEA, Foundation Capital, Intel Capital, Ant Financial, Amplify Partners, 11.2 Capital, and The House Fund.With Ray , we're making it easy to program at any scale (from your laptop to the datacenter) by providing easy-to-use, general-purpose, and high-performance tools. In addition, we are building a rich ecosystem of libraries (for reinforcement learning, hyperparameter search, experiment management, machine learning training, prediction serving, and more) on top of the core distributed system so that users can rapidly build sophisticated applications. Help us build the future of software development.As Part Of This Role, You WillDevelop high quality software to empower software developers and simplify programmingWork with a team of leading distributed systems and machine learning expertsCommunicate your work to a broader audience through talks, tutorials, and blog postsHelp us to build and shape a world class companyWe'd Love To Hear From You If YouAre passionate about machine learning and distributed systemsAre interested in working at a startup and making an impactHave relevant software engineering internship experiences at tech companies Have side projects that showcase their passion for programming outside of the classroom setting Are a at least a rising juniorAbout AnyscaleAnyscale provides an application development platform for developers to build distributed applications. We\u2019re commercializing a popular open source project called Ray , which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Our goal is to build a standardized platform for distributed computing. Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan, and the four of them have co-founded Anyscale. The company raised a $20.6M Series A and a $40M Series B funding from Andreessen Horowitz (a16z), NEA, Foundation Capital, Intel Capital, Ant Financial, Amplify Partners, 11.2 Capital, and The House Fund.With Ray , we're making it easy to program at any scale (from your laptop to the datacenter) by providing easy-to-use, general-purpose, and high-performance tools. In addition, we are building a rich ecosystem of libraries (for reinforcement learning, hyperparameter search, experiment management, machine learning training, prediction serving, and more) on top of the core distributed system so that users can rapidly build sophisticated applications. Help us build the future of software development.Anyscale Inc. is an Equal Opportunity Employer. Candidates are evaluated without regard to age, race, color, religion, sex, disability, national origin, sexual orientation, veteran status, or any other characteristic protected by federal or state law.",
+        "employment_type": "INTERN",
+        "date_posted": "2021-09-21T03:19:17.000Z"
+    },
+    "company": {
+        "name": "Anyscale",
+        "link": "https://www.linkedin.com/company/joinanyscale"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

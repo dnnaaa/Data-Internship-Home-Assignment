@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Silicon Validation Software Engineer: Linux Driver and Kernel Developer",
+        "industry": "Consumer Electronics",
+        "description": "Summary Imagine what you could do here!  At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly.  Bring passion and dedication to your job and there's no telling what you could accomplish.  Dynamic, smart people and inspiring, innovative technologies are the norm here.  The people who work here have reinvented entire industries with all Apple Hardware products.  The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it.  Join us to help deliver the next groundbreaking Apple product.  Are you passionate about changing the world?  Join our growing Silicon Validation team.  We have a critical impact on getting high quality functional products to millions of customers quickly and we are hiring all levels from junior to senior roles.  As part of the silicon validation team, you will develop Linux device drivers and user-land tests for exercising and testing the various subsystems in complex SoCs. Key Qualifications Experienced in embedded Linux kernel development experienceExpertise with Linux, USB or USB4, and PCIeSolid knowledge of Linux kernel internals (process scheduler, memory management, concurrency/synchronization, memory allocation, file systems) and networking or storage subsystems architectureYou bring extensive device driver development and support (one or more of USB, network, graphics, video, mtd, storage, power management)You have strong debugging skills in kernel contextExperience with exercising/validation of system from user space, knowledge of user space APIPorted/maintained Linux distribution for a platformSkilled C programmerFamiliarity with ARM architecture a plus Description - You will work closely with designers and architects to understand functional IP blocks and their use-cases  - You will be implementing BSP and doing software bringup on pre and post-silicon platforms - You will be developing Linux device drivers and user-land tests for exercising and testing the various subsystems in complex SoCs- You will debug and root-cause a variety of hardware and software issues Education &amp; Experience BS or MS in Electrical Engineering, Computer Science, or relevant discipline is required. Role Number: 200267919",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T06:29:24.000Z"
+    },
+    "company": {
+        "name": "Apple",
+        "link": "https://www.linkedin.com/company/apple"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

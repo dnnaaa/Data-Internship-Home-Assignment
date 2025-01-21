@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer (Remote)",
+        "industry": "Outsourcing/Offshoring",
+        "description": "Job Title: Software Engineer &nbsp;Location: Alpharetta GA&nbsp;Job Description:Project Information:Contractor will be working on a platform that contain 26 products.Contractor will be working on a team of 15-20 developers with sub teams of 3Apply the principles of computer science and mathematical analysis to the design, development, testing, and evaluation of the software and systems that make computers work. Designs, develops and tests operating systems-level software, compilers, and network distribution software for medical, industrial, military, communications, aerospace, business, scientific and general computing applications.&nbsp;Education/ExperienceBachelors degree in computer science, software engineering or relevant field required8-10 years experience requiredLarge scale Integration experience a plus&nbsp;Responsibility level\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exercises independent judgment with minimal direction from supervisor&nbsp;SkillsThis is a Spring Java developer on an enterprise Web Application ,Required Spring, Tomcat, MySQL, JSP, Spring MVC, JavaScript, HTML, CSS, jQuery, React, Angular, AJAX, Soap web service, JEE, Design PatternsCapable of learning and working on a complex system quicklyVerbal and written communication skills, problem solving skills, customer service and interpersonal skills (Required)Strong ability to work independently and manage one's time (Required)Strong mentoring skills necessary to provide support and constructive performance feedback (Required)Strong knowledge of the full software development lifecycle: from business/systems analysis, through requirements gathering and functional specification authoring, to development, testing and delivery (Required)Strong ability to troubleshoot issues and make system changes as needed to resolve issue&nbsp;Major Job Duties and Responsibilities:&nbsp;&nbsp;Write Application code with highest quality, secure and unit tested. All code must follow the coding and security standards.Coordinate with others within the team and organization for the betterment of the products we are tasked with delivering.This includes being aware of development efforts in other components that might impact application.Clearly express your ideas and solutions to team members, other departments and managers.Develop standards and guidelines to guide the use and acquisition of software and to protect vulnerable information.Training and guiding junior developer.Solving production issues.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-14T17:05:28.000Z"
+    },
+    "company": {
+        "name": "StaffChase",
+        "link": "https://www.linkedin.com/company/staffchase"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": "OccupationalExperienceRequirements"
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Alpharetta",
+        "region": "GA",
+        "postal_code": "30022",
+        "street_address": null,
+        "latitude": 34.075615,
+        "longitude": -84.29455
+    }
+}

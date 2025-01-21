@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - Backend Services",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "What You\u2019ll Do As a Software Engineer in the Firmware department, you will be contributing to the development of Leia Inc\u2019s core technology consisting of display systems, camera systems, and APIs for developers.\u00a0 Your responsibilities will include (but are not limited to): Contributions to all phases of software engineering lifecycle.\u00a0Requirements gathering, project planning, system testing, system prototyping, and troubleshooting of existing systemParticipate in scrum/agile activities (eg. stand ups, sprint planning)Documents requirements, system architecture, test plan and test cases.Participate in the research, recommendation and architecture discussion.Projects you might work on:4V Camera App using Camera2 APIToF camera Android integrationSensor FusionHead Tracking This is a position based at Leia Inc\u2019s headquarters in Menlo Park. What You\u2019ll Have Experience with Android application developmentExperience with camera2 API and third party APIExperience with OpenGL graphic programmingStrong communication and team player\u00a0\u00a0Minimum BS degree in EE, CE, CS or equivalent experience\u00a0\u00a0 Nice to Haves C++ developmentExperienced with multi-core/multi-CPU environmentsBuilding API interfaces for external app integration\u00a0\u00a0 Light up Life At Leia we are working at the forefront of display technology \u2014 making screens come to life in richer, deeper, and more beautiful ways. We apply our proprietary nanotechnology to give any display the ability to produce Lightfield, immersive \u201cholographic\u201d content \u2014 no glasses, no tracking, no fuss. Come join a team that\u2019s ready to redefine the digital experiences of tomorrow! What We Offer In order to assemble top talent to help realize this mission Leia offers our employees: Competitive Compensation PackageMedical, Dental, and Vision PlanRetirement Savings Plan 401(k)Catered lunch and dinner daily (Dependent on Location)Stocked kitchen with healthy (and unhealthy) snacks and beveragesOnsite workout facility (Dependent on Location)  Leia Inc. is an Equal Opportunity Employer. Candidates are evaluated without regard to age, race, color, religion, sex, disability, national origin, sexual orientation, veteran status, or any other characteristic protected by federal or state law.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-30T05:20:52.000Z"
+    },
+    "company": {
+        "name": "Leia Inc.",
+        "link": "https://www.linkedin.com/company/leia-inc-"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 81300,
+        "max_value": 171000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Los Angeles",
+        "region": "CA",
+        "postal_code": "90101",
+        "street_address": null,
+        "latitude": 34.05224,
+        "longitude": -118.24335
+    }
+}

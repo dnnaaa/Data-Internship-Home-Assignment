@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Computer Software",
+        "description": "Job Title: Site Reliability EngineerReports To: Site Reliability Engineering ManagerJob Duties Work collaboratively with software engineering to specify, deploy, and operate our systems.  Help automate \u201call the things\u201d and streamline our operations and processes.  Build and maintain tools for deployment, monitoring and operations.  Troubleshoot and resolve issues in our dev, test and production environments. Technical Skill Requirements Knowledge of and experience with Amazon Web Services and Microsoft Azure infrastructure configuration and maintenance. This includes the ability to perform basic maintenance, troubleshoot instance and networking issues, and create new infrastructure using the UI, CLI, and via IaC (infrastructure as code).  Ability to perform Linux systems administration. Including system updates, restarts, performance monitoring and troubleshooting.  Ability to use puppet and other tools for system deployment and configuration management.  Ability to use terraform, cloudformation, or other tools for infrastructure deployment and management (IaC).  Ability to effectively use git for day-to-day tasks involving DevOps, configuration management, and infrastructure as code development.  Understanding of core Internet services and protocols, such as DNS, email, and web services.  Understanding of programming languages used in web applications, such as Python, Ruby, and PHP.  Understanding of database technologies and management, including MySQL and Postgres. Ability to interact with other teams and/or customers in a professional manner.https://www.forsta.com/privacy.html",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-14T05:28:16.000Z"
+    },
+    "company": {
+        "name": "Forsta",
+        "link": "https://www.linkedin.com/company/forstainfo"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Portland",
+        "region": "OR",
+        "postal_code": "97268",
+        "street_address": null,
+        "latitude": 45.516018,
+        "longitude": -122.68143
+    }
+}
