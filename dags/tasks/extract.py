@@ -1,5 +1,6 @@
 from airflow.decorators import task
 from utils.logger import get_logger
+from utils.data_extractor import extract_from_csv
 
 logger = get_logger(__name__)
 
@@ -10,3 +11,5 @@ def extract_data():
     Returns:
         pd.DataFrame: Raw data extracted from jobs.csv
     """
+
+    extract_from_csv()
