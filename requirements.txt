@@ -1,2 +1,6 @@
 --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.8.0/constraints-3.8.txt"
 apache-airflow==2.8.0
+pytest
+bs4
+sqlite3
+git-flow
