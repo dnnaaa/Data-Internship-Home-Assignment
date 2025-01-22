@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore the files in the staging/extracted/
+staging/extracted/*
+staging/transformed/*
+
+# Do not ignore the folder itself
+!staging/extracted/
+!staging/transformed/
+
 # C extensions
 *.so
 /.idea
