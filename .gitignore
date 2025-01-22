@@ -7,6 +7,10 @@ __pycache__/
 staging/extracted/*
 staging/transformed/*
 
+# But keep the .gitkeep file to track the empty directory
+!staging/extracted/.gitkeep
+!staging/transformed/.gitkeep
+
 # Do not ignore the folder itself
 !staging/extracted/
 !staging/transformed/
