@@ -1,6 +1,5 @@
 ## DNA Engineering Data Assignment
 # Zahra EL HADDI
-# Implementation of an ETL pipelien using Airflow for extracting data from a csv file, cleaning and processing data and storing the processed data to a sqlite database 
 
 ## Table of content
 - [Overview](#overview)
@@ -19,7 +18,7 @@ This project addresses the following objectives:
 - Showcase successful execution with evidence of the pipeline's results.
 
 The project is structured as follows:
-
+```plaintext
 Data-Internship-Home-Assignment/
 ├── dags/
 │   ├── etl_dag.py            # Main DAG script that orchestrates the ETL process
@@ -56,53 +55,70 @@ Data-Internship-Home-Assignment/
 │   └── conftest.py          # Configuration file for fixtures used in tests
 |
 └── requirements.txt         # Project dependencies (Added pytest, git-flow, sqlite3, bs4)
+```
+
 
 ## Starting Airflow
-![Starting Airflow Scheduler and Webserver using the command airflow standalone](result_images/start_airflow.png)
+![Starting Airflow Scheduler and Webserver using the command airflow standalone](results_images/start_airflow.png)
 
 
 ## Code Refactoring
-The original ETL pipeline was a single, monolithic script (dags/etl.py). This made it difficult to read, maintain, and scale. The code has been refactored into modular components:
+The original ETL pipeline was a single, monolithic script (dags/etl.py). This made it difficult to read, maintain, and scale. The code has been refactored into modular components: 
 
-*DAG Script*: etl_dag.py orchestrates the tasks.
-![Refactored Airflow Dag Executed Successfully](result_images/Dag_execution.png)
 
-*Task Scripts*: Each task (Extract, Transform, Load) has its own Python file in tasks/.
-*Database Initialization*: A separate script, init_database.py, handles database creation.
-By adhering to clean code principles, the project is now modular, readable, and easy to maintain.
+- *DAG Script*: etl_dag.py orchestrates the tasks. 
+
+![Refactored Airflow Dag Executed Successfully](results_images/Dag_execution.png)
+
+- *Task Scripts*: Each task (Extract, Transform, Load) has its own Python file in tasks/. 
+
+- *Database Initialization*: A separate script, init_database.py, handles database creation. 
+
+- By adhering to clean code principles, the project is now modular, readable, and easy to maintain.
 
 **ETL Tasks**
 **Extract Job**
-Objective: Extract data from source/jobs.csv, isolate the context column, and save each item as a text file in staging/extracted/.
-Result: The extracted files were successfully created.
+Objective: Extract data from source/jobs.csv, isolate the context column, and save each item as a text file in staging/extracted/. 
 
-![extracted files stored into staging/extracted successfully](result_images/extracted.png)
+Result: The extracted files were successfully created. 
+
+
+![extracted files stored into staging/extracted successfully](results_images/extracted.png)
 
 
 **Transform Job**
 Objective: 
-Read the text files from staging/extracted/.
-Clean the job descriptions.
-Transform the data into the specified schema.
-Save the transformed data as JSON files in staging/transformed/.
-Result: Transformed JSON files were successfully created with the desired schema.
+Read the text files from staging/extracted/. 
 
-![Transformed files stored into staging/transformed successfully](result_images/transformed.png)
+Clean the job descriptions. 
+
+Transform the data into the specified schema. 
+
+Save the transformed data as JSON files in staging/transformed/. 
+
+Result: Transformed JSON files were successfully created with the desired schema. 
+
+
+![Transformed files stored into staging/transformed successfully](results_images/transformed.png)
 
 
 **Load Job**
-Objective: Load the transformed JSON files from staging/transformed/ into a SQLite database.
+Objective: Load the transformed JSON files from staging/transformed/ into a SQLite database. 
+
 Result: The SQLite tables were successfully populated.
 
-![Data Inserted into SQlite tables successfully](result_images/DataInsertedTosqliteTables.png)
+![Data Inserted into SQlite tables successfully](results_images/DataInsertedTosqliteTables.png)
 
 
 ## Unit Testing
-All tasks were unit tested using pytest. The tests ensure:
+All tasks were unit tested using pytest. The tests ensure: 
 
-The Extract job correctly extracts data from the CSV file.
-The Transform job produces JSON files matching the specified schema.
-The Load job inserts data accurately into the SQLite database.
+- The Extract job correctly extracts data from the CSV file. 
+
+- The Transform job produces JSON files matching the specified schema. 
+
+- The Load job inserts data accurately into the SQLite database. 
+
 
 To run the tests:
 pytest tests/
@@ -110,13 +126,26 @@ pytest tests/
 
 ## Git Best Practices
 **Commit Messages**:
+
 Used descriptive commit messages following the format: <type>: <description>.
-Examples:
-feat: add extraction task for ETL pipeline
-fix: resolve schema validation in transform job
-test: add unit tests for load task
-*Small, Logical Commits*: Ensured each commit was small and focused on a single change.
-*Branching Strategy*: Used GitFlow for branching.
+
+Examples: 
+
+
+feat: add extraction task for ETL pipeline 
+
+
+fix: resolve schema validation in transform job 
+
+
+test: add unit tests for load task 
+
+
+*Small, Logical Commits*: Ensured each commit was small and focused on a single change. 
+
+
+*Branching Strategy*: Used GitFlow for branching. 
+
 
 
 ## Conclusion
