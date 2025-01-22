@@ -1,77 +1,10 @@
-from datetime import timedelta, datetime
-
-from airflow.decorators import dag, task
-from airflow.providers.sqlite.hooks.sqlite import SqliteHook
-from airflow.providers.sqlite.operators.sqlite import SqliteOperator
-
-TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    title VARCHAR(225),
-    industry VARCHAR(225),
-    description TEXT,
-    employment_type VARCHAR(125),
-    date_posted DATE
-);
-
-CREATE TABLE IF NOT EXISTS company (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    name VARCHAR(225),
-    link TEXT,
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS education (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    required_credential VARCHAR(225),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS experience (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    months_of_experience INTEGER,
-    seniority_level VARCHAR(25),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS salary (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    currency VARCHAR(3),
-    min_value NUMERIC,
-    max_value NUMERIC,
-    unit VARCHAR(12),
-    FOREIGN KEY (job_id) REFERENCES job(id)
-);
-
-CREATE TABLE IF NOT EXISTS location (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    job_id INTEGER,
-    country VARCHAR(60),
-    locality VARCHAR(60),
-    region VARCHAR(60),
-    postal_code VARCHAR(25),
-    street_address VARCHAR(225),
-    latitude NUMERIC,
-    longitude NUMERIC,
-    FOREIGN KEY (job_id) REFERENCES job(id)
-)
-"""
-
-@task()
-def extract():
-    """Extract data from jobs.csv."""
-
-@task()
-def transform():
-    """Clean and convert extracted elements to json."""
-
-@task()
-def load():
-    """Load data to sqlite database."""
-    sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
+from datetime import datetime, timedelta
+from airflow.decorators import dag
+#from airflow.providers.sqlite.operators.sqlite import SqliteOperator
+from tasks.extract import extract
+from tasks.transform import transform
+from tasks.load import load
+from tasks.init_database import init_database 
 
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
@@ -81,7 +14,7 @@ DAG_DEFAULT_ARGS = {
 
 @dag(
     dag_id="etl_dag",
-    description="ETL LinkedIn job posts",
+    description="ETL for job posts",
     tags=["etl"],
     schedule="@daily",
     start_date=datetime(2024, 1, 2),
@@ -89,14 +22,37 @@ DAG_DEFAULT_ARGS = {
     default_args=DAG_DEFAULT_ARGS
 )
 def etl_dag():
-    """ETL pipeline"""
-
-    create_tables = SqliteOperator(
-        task_id="create_tables",
-        sqlite_conn_id="sqlite_default",
-        sql=TABLES_CREATION_QUERY
+    """ETL pipeline with database initialization"""
+    
+    # Define paths
+    SQL_FILE_PATH = "sqlQueries/create_tables.sql"  
+    DB_PATH = "database/jobs.db"  
+    
+    # Task 1: Initialize database
+    init_db = init_database(
+        sql_path=SQL_FILE_PATH,
+        db_path=DB_PATH
     )
 
-    create_tables >> extract() >> transform() >> load()
+    # Task 2: Initialize database
+    extract_task = extract(
+        csv_file_path='source/jobs.csv',
+        output_dir='staging/extracted'
+    )
+    
+    # Task 3: Transform data
+    transform_task = transform(
+        input_dir='staging/extracted',
+        output_dir='staging/transformed'
+    )
+    
+    # Task 4: Load data to sqlite database
+    load_task = load(
+        input_dir='staging/transformed',
+        database_path='database/jobs.db'
+    )
+    
+    # Set up task dependencies
+    init_db >> extract_task >> transform_task >> load_task
 
 etl_dag()
