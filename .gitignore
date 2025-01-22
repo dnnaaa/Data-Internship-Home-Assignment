@@ -3,6 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore the files in the staging/extracted/
+staging/extracted/*
+staging/transformed/*
+
+# But keep the .gitkeep file to track the empty directory
+!staging/extracted/.gitkeep
+!staging/transformed/.gitkeep
+
+# Do not ignore the folder itself
+!staging/extracted/
+!staging/transformed/
+
 # C extensions
 *.so
 /.idea
