@@ -2,12 +2,12 @@ from datetime import timedelta, datetime
 from airflow.decorators import dag
 from airflow.providers.postgres.operators.postgres import PostgresOperator
 
-# Import tasks from the tasks folder (assuming the tasks are defined in a module)
+# Import tasks from the tasks folder 
 from tasks.extract import extract_task
 from tasks.transform import transform_task
 from tasks.load import load_task
 
-# SQL to create the tables (adjust if necessary)
+# SQL to create the tables 
 TABLES_CREATION_QUERY = """
 -- Create Job Table
 CREATE TABLE IF NOT EXISTS job (
@@ -73,10 +73,10 @@ DAG_DEFAULT_ARGS = {
 }
 
 @dag(
-    dag_id="def23",
+    dag_id="etl_dag",
     description="ETL LinkedIn job posts",
     tags=["etl"],
-    schedule="@daily",  # Adjust the schedule as needed
+    schedule="@daily",  
     start_date=datetime(2024, 1, 2),
     catchup=False,
     default_args=DAG_DEFAULT_ARGS
@@ -84,11 +84,11 @@ DAG_DEFAULT_ARGS = {
 def etl_dag():
     """ETL pipeline for LinkedIn job posts"""
     
-    # Task to create tables in PostgreSQL
+    
     create_tables_task = PostgresOperator(
         task_id="create_tables",
-        postgres_conn_id="postgres_db_connection",  # Make sure this connection is configured in Airflow UI
-        sql=TABLES_CREATION_QUERY  # SQL query to create tables
+        postgres_conn_id="postgres_db_connection",  
+        sql=TABLES_CREATION_QUERY  
     )
 
     # Define task dependencies (ensure extract, transform, and load tasks are defined in tasks module)

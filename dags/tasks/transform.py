@@ -13,15 +13,15 @@ def transform_task():
     for file_name in os.listdir(input_dir):
         file_path = os.path.join(input_dir, file_name)
 
-        # Check if the file is empty
+       
         if os.path.getsize(file_path) == 0:
             logging.error(f"File {file_name} is empty. Skipping transformation.")
             continue
         
         try:
             with open(file_path, 'r') as f:
-                content = f.read().strip()  # Read and strip whitespace
-                if not content:  # Check if file is empty after stripping
+                content = f.read().strip()  
+                if not content: 
                     logging.error(f"File {file_name} is empty. Skipping transformation.")
                     continue
 
@@ -33,14 +33,13 @@ def transform_task():
                     logging.error(f"File {file_name} contains 'nan'. Skipping transformation.")
                     continue
 
-                # Attempt to parse JSON
+               
                 try:
                     data = json.loads(content)
                 except json.JSONDecodeError as e:
                     logging.error(f"File {file_name} contains invalid JSON: {str(e)}. Skipping transformation.")
                     continue
 
-                # Perform the transformation
                 transformed_data = {
                     "job": {
                         "title": data.get("title"),
@@ -77,7 +76,7 @@ def transform_task():
                     },
                 }
 
-                # Write the transformed data to an output file
+                
                 output_path = os.path.join(output_dir, f"transformed_{file_name}")
                 with open(output_path, 'w') as f:
                     json.dump(transformed_data, f, indent=4)
@@ -85,6 +84,4 @@ def transform_task():
         except Exception as e:
             logging.error(f"An error occurred while processing file {file_name}: {str(e)}. Skipping transformation.")
             continue
-
-    # Return a success message or status
     return "Transformation completed successfully."

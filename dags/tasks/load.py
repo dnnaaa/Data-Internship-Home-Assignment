@@ -8,8 +8,7 @@ from airflow.providers.postgres.hooks.postgres import PostgresHook
 def load_task():
     """Load data to PostgreSQL database."""
     input_dir = "staging/transformed"
-    
-    # Use the PostgresHook to connect to PostgreSQL
+
     postgres_hook = PostgresHook(postgres_conn_id="postgres_db_connection")
     conn = postgres_hook.get_conn()
     cursor = conn.cursor()
@@ -23,7 +22,6 @@ def load_task():
                 with open(file_path, 'r') as f:
                     data = json.load(f)
 
-                # Insert data into job table and retrieve the job_id
                 job_data = data["job"]
                 cursor.execute("""
                     INSERT INTO job (title, industry, description, employment_type, date_posted)
@@ -37,10 +35,8 @@ def load_task():
                     job_data.get("date_posted")
                 ))
 
-                # Fetch the job_id of the newly inserted job
                 job_id = cursor.fetchone()[0]
 
-                # Insert related data into other tables
                 company_data = data["company"]
                 cursor.execute("""
                     INSERT INTO company (job_id, name, link)

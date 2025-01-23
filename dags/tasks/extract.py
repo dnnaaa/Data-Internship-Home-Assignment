@@ -5,7 +5,7 @@ from airflow.decorators import task
 @task()
 def extract_task():
     """Extract data from jobs.csv."""
-    # Update the input path to the container path
+    
     input_path = '/usr/local/airflow/dags/jobs.csv'
 
     # Read the CSV file
@@ -20,5 +20,5 @@ def extract_task():
         output_path = os.path.join(output_dir, f"context_{idx}.txt")
         with open(output_path, 'w') as f:
             f.write(str(context))
-        # Assuming context contains float or non-string data
+        
 
