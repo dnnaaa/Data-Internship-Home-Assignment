@@ -8,19 +8,19 @@ def test_transform_task(tmpdir):
     input_dir = str(tmpdir)
     output_dir = str(tmpdir)
 
-    # Create a mock input file
+    
     input_file = tmpdir.join("context_0.txt")
     input_file.write(json_content)
 
-    # Mock file operations
+    
     with patch("builtins.open", mock_open(read_data=json_content)) as mock_file:
         transform_task()
 
-        # Verify the mock was called with the correct file paths
+        
         mock_file.assert_any_call(str(input_file), "r")
         mock_file.assert_any_call(f"{output_dir}/transformed_context_0.txt", "w")
 
-        # Verify the transformed content
+       
         expected_output = {
             "job": {
                 "title": "Software Engineer",

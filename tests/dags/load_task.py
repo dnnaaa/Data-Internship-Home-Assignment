@@ -45,16 +45,16 @@ def test_load_task(tmpdir):
     input_file = tmpdir.join("transformed_context_0.txt")
     input_file.write(json_content)
 
-    # Mock PostgreSQL connection and cursor
+
     mock_conn = MagicMock()
     mock_cursor = MagicMock()
-    mock_cursor.fetchone.return_value = [1]  # Simulate job_id
+    mock_cursor.fetchone.return_value = [1]  
 
     with patch("airflow.providers.postgres.hooks.postgres.PostgresHook.get_conn", return_value=mock_conn):
         mock_conn.cursor.return_value = mock_cursor
         load_task()
 
-        # Verify the database operations
+        
         mock_cursor.execute.assert_any_call(
             """
             INSERT INTO job (title, industry, description, employment_type, date_posted)
