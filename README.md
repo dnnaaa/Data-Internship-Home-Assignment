@@ -1,11 +1,27 @@
+## Results of the Assignment
+
+For this project, I used **Docker** to run Apache Airflow in a Windows environment. Instead of SQLite, I opted for **PostgreSQL** as the database for better scalability and performance.
+
+### Key Highlights:
+- **Docker Setup**: Docker was used to containerize the Airflow environment, ensuring consistency across different systems.
+- **PostgreSQL Integration**: PostgreSQL was chosen as the database to handle the ETL pipeline data, replacing the default SQLite.
+- **DAG Execution**: The DAGs were successfully executed, and the ETL pipeline was implemented as per the assignment requirements.
+
+### Links and Visuals:
+- **Pitch for DAG Execution**: [Link to Pitch](#) *(Replace with your actual link)*
+- **Airflow UI Screenshot**:  
+  ![Airflow UI](path_to_airflow_ui_image.png) *(Replace with your actual image path)*
+- **PostgreSQL Tables**:  
+  ![PostgreSQL Tables](path_to_postgresql_tables_image.png) *(Replace with your actual image path)*
+
+---
+
 ## DNA Engineering Data Assignment
 
 Build an ETL pipeline using Apache Airflow.
 
 `Apache Airflow` is an open-source platform for developing, scheduling, and monitoring batch-oriented workflows.
 Airflow’s extensible Python framework enables you to build workflows connecting with virtually any technology. A web interface helps manage the state of your workflows. Airflow is deployable in many ways, varying from a single process on your laptop to a distributed setup to support even the biggest workflows.
-
-Airflow Docs: https://airflow.apache.org/docs/
 
 ## Table of content
 
