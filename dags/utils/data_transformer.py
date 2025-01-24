@@ -66,10 +66,8 @@ def transform_job(job_data):
     )}
 
 
-def transform_and_save_job():
+def transform_and_save_job(input_file = "staging/extracted/pure_jobs.json.txt",output_dir = "staging/transformed"):
     # Configure paths
-    input_file = "staging/extracted/pure_jobs.json.txt"
-    output_dir = "staging/transformed"
     os.makedirs(output_dir, exist_ok=True)
     output_file = os.path.join(output_dir, "all_jobs.json")
 
