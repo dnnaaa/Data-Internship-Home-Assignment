@@ -3,9 +3,9 @@ import json
 import os
 
 
-def extract_from_csv():
+def extract_from_csv(input_file = 'source/jobs.csv',output_dir = 'staging/extracted'):
         # Read CSV with proper type handling
-        df = pd.read_csv('source/jobs.csv',
+        df = pd.read_csv(input_file,
                         header=None,
                         names=['id', 'job_data'],
                         dtype={'id': 'Int64'})
@@ -14,7 +14,7 @@ def extract_from_csv():
         valid_jobs = df.dropna(subset=['id', 'job_data'])
 
         # Create output directory
-        output_dir = 'staging/extracted'
+        # output_dir = 'staging/extracted'
         os.makedirs(output_dir, exist_ok=True)
 
         # Process and save clean JSON data
