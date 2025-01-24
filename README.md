@@ -8,11 +8,15 @@ For this project, I used **Docker** to run Apache Airflow in a Windows environme
 - **DAG Execution**: The DAGs were successfully executed, and the ETL pipeline was implemented as per the assignment requirements.
 
 ### Links and Visuals:
-- **Pitch for DAG Execution**: [Link to Pitch](#) *(Replace with your actual link)*
+- **Pitch for Docker container**: 
+  ![Airflow UI](https://github.com/2000aliali/Data-Internship-Home-Assignment/blob/main/images/image.png)
+  ![Airflow UI](https://github.com/2000aliali/Data-Internship-Home-Assignment/blob/main/images/docker2.png)
 - **Airflow UI Screenshot**:  
-  ![Airflow UI](path_to_airflow_ui_image.png) *(Replace with your actual image path)*
+  ![Airflow UI](https://github.com/2000aliali/Data-Internship-Home-Assignment/blob/main/images/airflow1.png)
 - **PostgreSQL Tables**:  
-  ![PostgreSQL Tables](path_to_postgresql_tables_image.png) *(Replace with your actual image path)*
+  ![PostgreSQL Tables](https://github.com/2000aliali/Data-Internship-Home-Assignment/blob/main/images/postgresql1.png) 
+  ![PostgreSQL Tables](https://github.com/2000aliali/Data-Internship-Home-Assignment/blob/main/images/postgressql2.png) 
+
 
 ---
 
@@ -50,7 +54,7 @@ python -m venv venv
 
 On Linux
 
-```bash
+```bashpng
 source venv/bin/activate
 ```
 
