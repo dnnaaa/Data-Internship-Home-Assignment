@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "",
+        "description": "<p>Cohesion is a leading Intelligent Buildings software solution that is disrupting how buildings operate and how people engage with buildings – from real estate owners/investors, operators, building engineers, to tenants and visitors. Our cutting-edge converged IoT-enabled platform brings together building systems, building software, and business applications into a single portal for on web and mobile platforms to forge the path to autonomous buildings.</p><p><br></p><p><br><br>Cohesion is looking for talented software engineers that specialize in .Net to join our rapidly growing startup in our Chicago office located in the Loop. In this position, you will work in a scrum team that is responsible for iterating on new and existing product micro-services and ensuring quality code through automated testing. You will have the opportunity to work with our integration partners and building implementation teams to facilitate smooth onboarding for our rapidly growing portfolio of client</p><p><br></p><p><strong>s.<br><br>What You'l</strong></p><p>l Do<br>• Iterative development on new and existing product based micro-services in a scrum </p><p>team.<br>• Collaborate with the engineering department to discuss current and future archite</p><p>cture.<br>• Write automated tests to ensure code quality and functio</p><p>nality.<br>• Encapsulate tools and reusable code as shared libraries to be used across all micro-s</p><p>ervices.<br>• Integrate with multiple vendors to help facilitate client on</p><p>boarding.<br>• Improve SDLC to increase efficiency of product</p><p> releases.<br>•Create proof of concepts for new tools and technologies to facilitate produc</p><p>t planning.<br>•Participate in sprint reviews to demonstrate and take pride in your </p><p><br></p><p><strong>sprint work.<br><br>Required </strong></p><p>Qualifications<br>• Proficiency in .Net Core 2.1/3.1 framework and C</p><p># 8.0 language.<br>• One or more years of experience working on a micro-service </p><p>driven platform.<br>• Intimate knowledge of design and architecture paradigms such as Domain-Driven Design, Event-Driven Archite</p><p>cture, CQRS, etc.<br>• Experience implementing ORM tools such as Entity Framewo</p><p>rk Core or Dapper.<br>• Background using relational and </p><p>document databases.<br>• Skilled with Git repositories, su</p><p>ch GitHub or GitLab.<br>• Experience using cloud providers to maintain and </p><p>create new resources.<br>• Excellent communication skills with a </p><p>team-oriented mindset.<br>• Superior organizational and </p><p>time management skills.<br>• Position requires flexibility to work outside of non-traditional business hours as requir</p><p><br></p><p><strong>ed to perform job duti</strong></p><p>es<br><br>Desired Qualifications<br>• Bachelor’s Degree in Computer Science and/or two o</p><p>r more years of experience.<br>• Proficiency with the NodeJs framework an</p><p>d JavaScript and TypeScript.<br>• Funct</p><p>ional programming experience.<br>• Familiari</p><p>ty with time-series databases.<br>• Understandin</p><p>g of IoT platforms and devices.<br>• High-level knowledge of Building </p><p>Automation Systems and n</p><p>etworks.<br>• Experience with Azure.</p><p><br></p><p><strong><br>• Proficient at using Kubernetes</strong></p><p>.<br><br>What You Can Expect From Cohesion<br>Cohesion is proud to offer a comprehensive benefits package to eligible, full-time employees in the United States. Our benefits are designed to invest in our employees— and their family’s —well-being, including investments in the</p><p><br></p><p>ir health, happiness, and well-being.<br><br>• Receiving a competitive compensation package, including bonus, medical/</p><p>dental/vision insurance, and 401k match<br>• Rece</p><p>iving a monthly cell phone reimbursement<br>• Comprehensive wellness stipend progra</p><p>m (eligible after 6 months of employment)<br>• Enjoying a responsible unlimited PTO program to help employees maintain work</p><p>-life balance after 3 months of emplo</p><p>yment<br>• 2-way flexibili</p><p>ty of work schedules<br>• Dressing for your day<br>• Working in an open environment with creative opti</p><p>onal brainstorming sessions for all employees<br>• Participating in one all-employee lunch per </p><p>month and one all-employee break</p><p><br></p><p>fast per month<br>• Enjoying family leave benefits<br><br>At Cohesion, we see diversity and inclusion as a source of strength. We believe building trust and innovation are best achieved through diverse thought and practice. Individuals seeking employment at Cohesion are considered without regard to race, religion, color, national origin, gender identity and expression, sexual orientation, gender identity and expression, age, mari</p>tal status, veteran status, or disability status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T17:23:00.000Z"
+    },
+    "company": {
+        "name": "cohesion",
+        "link": "https://www.linkedin.com/company/cohesionib"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Chicago",
+        "region": "IL",
+        "postal_code": "60654",
+        "street_address": null,
+        "latitude": 41.88323,
+        "longitude": -87.6324
+    }
+}

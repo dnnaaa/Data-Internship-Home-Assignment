@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "<br>Hi, <br><br>We are have an opportunity for the below job. We will request you to revert back with your resume. <br><br>Position: Data Scientist<br>Location: Plano TX (Currently Remote – Will be Onsite until the further announcement.<br>Duration: Long Term<br>Job Description:<br><br>Duties to Perform<br>•\tBuild proof-of-concept models using a prototype infrastructure<br>•\tBring proof-of-concept models into production using prototype infrastructure<br>•\tCommunicate shortcomings or improvements to multi-language API for database interaction<br>•\tBuild proof-of-concept feature engineering batch and streaming jobs <br>•\tCreate and present Powerpoint decks describing work to both technical and non-technical audiences<br>•\tAssist in design and brainstorming sessions for prototype capabilities<br><br>Required Skill & Experience<br>•\tExpert in Azure Cloud (*Machine Learning*: Event Hub/Streaming Analytics, HDI, DB, Azure ML, Azure Log Analytics, Databricks)<br>•\tStrong statistics and machine learning fundamentals<br>•\tDemonstrated experience putting models into real-time production <br>•\tExperience with Python required; R, Scala, and (Java nice to have)<br>•\tExperience with Spark DataFrame and SQL API's required.  Spark streaming/structured streaming are nice to have<br>•\tExperience with Azure Cloud<br>•\tExperience with Databricks(Spark, Delta Lake, MLFlow)<br>•\tExperience with H2O Driverless AI<br>•\tExperience with Kafka/Azure Event Hub<br>•\tStrong Team Player<br>•\tStrong problem-solving skills<br>•\tStrong communication skills and the ability to describe shortcomings in system design<br>•\tA strong desire and ability to learn new tools and technologies.<br>•\tAirflow experience is nice to have<br><br>Technical Environment<br>•\tAzure<br>•\tSQL / Mongo DB<br>•\tPython / Pyspark<br>•\tKafka / EventHub<br>•\tLinux and Shell Scripting<br>•\tPossibly R, Scala and Java<br>•\tDatabricks<br>•\tAzure data production and consumption tools (Event Hub, Azure Functions, Streaming Analytics,<br><br>Regards,<br>Suganya <br><br>What's app :91 9043392040. <br>",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-13T13:59:23.000Z"
+    },
+    "company": {
+        "name": "To be disclosed",
+        "link": "https://www.linkedin.com/company/to-be-disclosed"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": "",
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Plano",
+        "region": "TX",
+        "postal_code": "75093",
+        "street_address": null,
+        "latitude": 33.019695,
+        "longitude": -96.697586
+    }
+}

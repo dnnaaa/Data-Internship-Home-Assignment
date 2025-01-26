@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Computer Hardware,Electrical/Electronic Manufacturing,Semiconductors",
+        "description": "<br><br><strong>Our vision is to transform how the world uses information to enrich life for all. </strong>Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.<br><br>The Smart Manufacturing and AI team at Micron Technology is looking for an ambitious Machine Learning Engineer. Are you curious, high velocity, and ready to solve complex problems? Do you dream in data science and machine learning models? If so, we want you to join us! Our mission is to enable to deliver industry-winning machine learning solutions to power Micron’s dominance in the highly competitive memory solutions market. Qualified applicants will have experience in a variety of data and cloud technologies and have extensive practice modeling data, querying, and deploying scalable pipelines to execute machine learning models. You will collaborate with Data Scientists, ML Engineers, Data engineers- and expert users to build and deploy scalable AI/ML solutions that drive value and insight from Micron’s manufacturing processes and systems. <br><br> <br><br><strong>Responsibilities include, but not limited to:</strong> <br><ul><li>Build and maintain data/solution pipelines that feed machine learning models  </li><li>Work in a technical team through development, deployment, and application of applied analytics, predictive analytics, and prescriptive analytics using machine learning and artificial intelligence  </li><li>Design and optimize data structures in data management systems (Hadoop, Snowflake, and Cloud platforms) to enable AI/ML solutions. </li><li>Build custom software components and analytics applications  </li><li>Create/Maintain CI/CD pipelines of machine learning solutions in the cloud  <br></li></ul><strong>Education Qualifications:</strong> <br><ul><li>Technical Degree required. Computer Science or Statistics background is highly desired  </li><li> <br></li></ul><strong>Minimum Qualifications:</strong> <br><ul><li>3+ years of experience in building and executing end-to-end ML systems automating training, testing, and deploying Machine Learning models  </li><li>6+ years of experience with machine learning frameworks (TensorFlow, PyTorch, scikit-learn, etc.) </li><li>2+ years of experience with designing\\implementing Machine Learning Operations (ML Ops) which includes CI\\CD, Active Learning, Continuous Monitoring, Automated Model Deployment, and Inference Pipeline Automation. </li><li>Familiarity with software architecture (data structures, data schemas, etc.) </li><li>Software development skills and the desire to work on cutting edge development in a Cloud environment  </li><li>Strong scripting and programming skills in one of the following, Python or Java  </li><li>Experience developing Machine Learning or A.I. solutions with either Python, AWS, AZURE, GCP  </li><li>Outstanding analytical thinking, interpersonal, oral and written communication skills  </li><li>Proficiency in the Microsoft Office suite  </li><li>Ability to prioritize and meet critical project timelines in a fast-paced environment  </li><li>Self-motivated and team-oriented  <br></li></ul> <br><br><strong>Preferred:</strong> <br><ul><li>Deep knowledge of math, probability, statistics, and algorithms  </li><li>Demonstrated ability to study and transform data science prototypes into production solutions  </li><li>Knowledge of computer vision and/or signal processing including techniques for classification and feature extraction</li><li>Experience with continuous integration/continuous delivery (CI/CD) tools (Jenkins, Git, Docker, Kubernetes)  </li><li>3+ years of strong working knowledge of databases (Oracle, MSSQL, Snowflake, or BigQuery)   </li><li>3+ years building scalable ETL pipelines with big data processing and/or developing applications and data sources  <br></li></ul><strong><u>About Micron Technology, Inc.<br><br></u></strong>We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life <em>for all</em>. With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products through our Micron® and Crucial® brands. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence and 5G applications that unleash opportunities — from the data center to the intelligent edge and across the client and mobile user experience.<br><br>To learn more, please visit micron.com/careers<br><br>Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.<br><br>Please note that in order to assist in providing a safe and healthy workplace for all Micron team members, new employment offers for U.S.-based jobs are contingent upon the applicant’s provision of a copy of their COVID-19 vaccination card to Micron on a confidential basis prior to their scheduled start date confirming that they have completed the COVID-19 vaccination process, subject to any written request for a medical or religious accommodation and to the extent permitted by applicable law.<br><br>For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at hrsupport_na@micron.com or 1-800-336-8918<br><br>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T20:07:51.000Z"
+    },
+    "company": {
+        "name": "Micron Technology",
+        "link": "https://www.linkedin.com/company/micron-technology"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "USD",
+        "min_value": 80600,
+        "max_value": 103000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boise",
+        "region": "ID",
+        "postal_code": "83712",
+        "street_address": null,
+        "latitude": 43.61579,
+        "longitude": -116.20158
+    }
+}
