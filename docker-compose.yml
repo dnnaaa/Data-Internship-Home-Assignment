@@ -11,6 +11,7 @@ services:
       - ./source:/opt/airflow/data/source:rw
       - ./staging:/opt/airflow/data/staging:rw
       - ./data:/opt/airflow/data:rw
+      - ./tests:/opt/airflow/tests
     ports:
       - "8080:8080"
     command: >

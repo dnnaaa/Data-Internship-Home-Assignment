@@ -10,3 +10,5 @@ def extract():
     for index, row in df.iterrows():
         with open(f'/opt/airflow/data/staging/extracted/{index}.txt', 'w') as f:
             f.write(str(row['context']))
+
+            

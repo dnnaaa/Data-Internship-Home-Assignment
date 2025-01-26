@@ -48,7 +48,7 @@ def extract_seniority_level(title, description, months_of_experience):
     if months_of_experience is not None:
         if months_of_experience >= 60:
             return 'Senior'
-        elif months_of_experience < 24:
+        elif months_of_experience < 60:
             return 'Junior'
     return None
 @task()

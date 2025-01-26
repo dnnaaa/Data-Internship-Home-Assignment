@@ -160,6 +160,7 @@ The desired schema from the transform job:
     "job": {
         "title": "job_title",
         "industry": "job_industry",
+        
         "description": "job_description",
         "employment_type": "job_employment_type",
         "date_posted": "job_date_posted",
