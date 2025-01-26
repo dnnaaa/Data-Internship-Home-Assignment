@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Computer Software,Computer &amp; Network Security",
+        "description": "Senior Site Reliability Engineer - Austin, TX or Remote   Lawrence Harvey is partnering with a cloud-based SaaS leader in the Mobile Infrastructure space that is actively looking for a Senior Site Reliability Engineer to join their talented Infrastructure Engineering team.   In this role, you will be responsible for managing, building, supporting, and maintaining their internal cloud infrastructure by automating infrastructure as code (IaC). In addition, you will have the chance to work cross-functionally with other engineering teams including the security and cloud engineering teams.   Skills Required  - Linux engineering background.   \n  - Previous Infrastructure / Site Reliability Engineering experience.   \n  - Ability to code using either Python or Java.   \n  - Cloud Experience (AWS or Azure).   \n  - Container and/or orchestration platforms including Docker and Kubernetes.   \n  - Configuration management and automation tools including Puppet and Terraform.   \n   If this position is of interest, please email me at d.white@lawrenceharvey.com.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-13T13:17:05.000Z"
+    },
+    "company": {
+        "name": "Lawrence Harvey",
+        "link": "https://uk.linkedin.com/company/lawrence-harvey"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "Texas Metropolitan Area",
+        "postal_code": "78723",
+        "street_address": null,
+        "latitude": 30.276316,
+        "longitude": -97.70931
+    }
+}

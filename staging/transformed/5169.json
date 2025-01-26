@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "The Site Reliability Engineer for Productivity Services is responsible for the technical design and operations of productivity solutions used globally by employees and partners. These solutions will enable the workforce to create, share, and collaborate on content from anywhere at anytime built upon the Microsoft 365 and Azure platforms. This technical leadership role is expected to apply a software engineering mindset to system administration topics elevating the availability, reliability, and security of solutions while reducing operational costs.      STAND 8 provides end to end IT solutions to enterprise partners across the United States and with offices in Connecticut, Atlanta, New York, Raleigh, and more.      SPECIFIC SOLUTIONS INCLUDE     - O365 (SharePoint, OneDrive, Teams)   \n  - File storage and sharing (Net-fillers, DFS, Dropbox, G-suite, BOX)   \n  - Document creation (Word, Excel, PowerPoint)   \n  - Video, audio, and text chat (MS Teams)   \n  - Content Migration (Metalogix, ShareGate, SPMT, Migration manager)   \n  - Application deployment (Azure/AWS/physical infrastructure)   \n  - Azure administration   \n  - Write code and scripts to automate everything possible.      \nResponsibilities     - Lead the technical design, implementation, and operation of productivity solutions with an emphasis on Cloud and network drive migration to O365 storage (SharePoint and OneDrive)   \n  - Design and implementation of application workflow and data connectors migration to O365 storages from Network shares / Cloud storages (Box, Dropbox, G-Suite)   \n  - Contribute to the site reliability engineering center of excellence including the creation of standard artifacts, best practices, and learning plans   \n  - Participate as a standing member of the engineering review board to evaluate trade studies, approve solution designs, and maintain the overall workplace system architecture   \n  - Development of SharePoint, OneDrive design   \n  - Participate in the weekly agile process to resolve technical impediments and assist in user story definition and sizing      \nQualifications/Requirements     - 5+ years\u2019 experience designing, implementing, and operating Microsoft 365 services at enterprise scale   \n  - 5+ years\u2019 experience programming including shell scripting (PowerShell)   \n  - 5+ years\u2019 experience designing scalable and reliable enterprise solutions including considerations for multi-tier software architectures, networking, and security   \n  - 3+ years\u2019 experience with cloud-based infrastructure and platform services including identity and access management (Azure)   \n  - Experience with data loss prevention, archiving, eDiscovery, and compliance preferred   \n  - Bachelor\u2019s degree in computer-related field preferred or equivalent years of experience      \nDESIRED CHARACTERISTICS      - Ability to communicate effectively both written and verbally to stakeholders and engineers   \n  - Ability to build effective cross-functional relationships in support of delivering enterprise-wide solutions   \n  - Ability to execute within a fast-paced agile process",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T01:48:10.000Z"
+    },
+    "company": {
+        "name": "STAND 8 Technology Services",
+        "link": "https://www.linkedin.com/company/westand8"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Englewood Cliffs",
+        "region": "NJ",
+        "postal_code": "07632",
+        "street_address": null,
+        "latitude": 40.880516,
+        "longitude": -73.951256
+    }
+}

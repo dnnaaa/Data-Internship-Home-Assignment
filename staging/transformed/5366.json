@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer, Machine Learning Platform",
+        "industry": "Computer Software,Consumer Services,Information Technology and Services",
+        "description": "Job Description      Software Engineer, Machine Learning Platform      About The Role      Collaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.      About The Team      Uber is on the lookout for top-notch software engineers to join our Machine Learning Platform (Michelangelo) team. This role involves building and managing robust distributed systems, and solve infrastructure challenges to empower Uber\u2019s product engineering and data science teams with latest technologies in large scale Artificial Intelligence.      For More Information On The Michelangelo Machine Learning Platform, See Our Select Blog Posts      The Michelangelo team works on software and services that democratizes and empowers teams in Uber to use the technology. You will be part of a team of strong software and systems engineers, executing in a fast paced environment.     - Meet Michelangelo: Uber\u2019s Machine Learning Platform   \n  - Productionizing Distributed XGBoost to Train Deep Tree Models with Large Data Sets at Uber   \n  - Michelangelo PyML: Introducing Uber\u2019s Platform for Rapid Python ML Model Development   \n  - Continuous Integration and Deployment for Machine Learning Online Serving and Models   \n  - Meet Horovod: Uber\u2019s Open Source Distributed Deep Learning Framework for TensorFlow   \n  - Elastic Distributed Training with XGBoost on Ray      \nOn This This Team You Will     - Design and deliver software and tools as part of our state-of-the-art Machine Learning platform.   \n  - Systems architecture design, including management of upstream and downstream dependencies.   \n  - Provide technical leadership, influence and partner with fellow engineers to architect, design and build infrastructure that can stand the test of scale and availability, while reducing operational overhead.   \n  - Drive efficiencies in systems and processes through automation: capacity planning, configuration management, performance tuning, monitoring and root cause analysis.   \n  - Participate in periodic on-call rotations and be available for critical issues.   \n  - Collaborate with platform, product and security engineering teams, and enable successful use of infrastructure and foundational services.      \nMinimum Qualifications      Bachelor\u2019s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 1-year full-time Software Engineering work experience, WHICH INCLUDES 1-year total technical software engineering experience in one or more of the following areas:     - Programming language (e.g. C, C++, Java, Python, or Go)      \nNote the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education & full-time work experience indicated.      Preferred      Technical skills:     - 2+ years of professional experience with software engineering in production.   \n  - MS in Computer Science or a related technical field, or equivalent experience.   \n  - Understanding of Computer Science fundamentals.   \n  - Understanding of scalable and reliable architectural patterns and practices.   \n  - Experience with and good working knowledge of networking, Linux, Docker, databases, Hadoop, Hive, Spark.   \n  - Experience in building and managing distributed systems and high-throughput services.   \n  - Systematic problem solving approach and knowledge of algorithms, data structures and complexity analysis.   \n  - Grit, drive and a strong feeling of ownership coupled with collaboration and leadership.   \n  - Experienced production user of Deep Learning frameworks such as Apache SparkML, XGBoost, Ray, Tensorflow, PyTorch, Keras, etc.   \n  - Power-user Linux knowledge and willingness to explore Linux internals.   \n  - Experience in managing dependencies in data science packages.   \n  - Experience in high performance computing.      \nAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!      We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let\u2019s move the world forward, together!      Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.      If you have a disability or special need that requires accommodation, please let us know by completing this form.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-21T10:06:24.000Z"
+    },
+    "company": {
+        "name": "Uber",
+        "link": "https://www.linkedin.com/company/uber-com"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

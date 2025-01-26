@@ -1,0 +1,22 @@
+version: '3.8'
+services:
+  airflow:
+    build: .
+    restart: always
+    environment:
+      AIRFLOW_CORE_LOAD_EXAMPLES: 'False'
+      AIRFLOW_CORE_EXECUTOR: 'SequentialExecutor'
+    volumes:
+      - ./dags:/opt/airflow/dags:rw
+      - ./source:/opt/airflow/data/source:rw
+      - ./staging:/opt/airflow/data/staging:rw
+      - ./data:/opt/airflow/data:rw
+      - ./tests:/opt/airflow/tests
+    ports:
+      - "8080:8080"
+    command: >
+      bash -c "
+      airflow db init &&
+      airflow users create --username admin --firstname Admin --lastname User --role Admin --email admin@example.com --password admin &&
+      airflow webserver & airflow scheduler
+      "

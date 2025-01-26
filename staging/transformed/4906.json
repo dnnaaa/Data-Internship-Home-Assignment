@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "Computer Software",
+        "description": "Job Title: Senior Software Engineer      Location: Philadelphia, PA or New York, NY      Required Technology And Skills     - 5 years of software development experience with focus on web-based applications and full-stack development for both customer facing UI and backend services   \n  - Experience developing software in LAMP stack with PHP preferable utilizing Symfony.   \n  - Experience developing with a UI framework, Ember.js preferred or React and Anuglar    \n  - Experience with Linux configuration   \n  - Some experience with different PHP runtimes    \n  - Hands on experience with relational databases \u2013 MySQL preferred. Prefer database design and query development   \n  - Experience maintaining and improving distributed systems      \nNice To Have Skills     - Experience developing a REST API.   \n  - Knowledge of Docker and containers.   \n  - Experience working with AWS services    \n  - Experience with CI/CD preferred Jenkins      \nSalary And Compensation     - $120,000-$140,000   \n  - Bonus      \nBenefits And Perks     - Ability to work remote   \n  - 401K match      \nClient     - Our client is a Fortune 500 firm that specialize in software solutions for the edtech and health tech space      \nPlease email jpillion@talener.com for more information or to apply.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T22:41:54.000Z"
+    },
+    "company": {
+        "name": "Talener",
+        "link": "https://www.linkedin.com/company/talener"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Philadelphia",
+        "region": "PA",
+        "postal_code": "08051",
+        "street_address": null,
+        "latitude": 39.95106,
+        "longitude": -75.16562
+    }
+}

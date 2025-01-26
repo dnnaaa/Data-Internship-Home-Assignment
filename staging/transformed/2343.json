@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "Must-haves:- At least 2 years' experience as a Data Scientist- 2-5 years\u2019 experience with MS Excel (Charts, Pivot Tables)- 2-5 years\u2019 experience with MS PowerPoint- 1-2 years\u2019 experience with Tableau- 2-5 years' experience writing SQL queries&amp;nbsp;Plusses:- Experience with Power Query- Experience with Power Pivot for Excel&amp;nbsp;Day-to-Day:This position is 100% onsite in Stamford, CT. NO remote opportunities are available. Insight Global is looking for a Data Scientist to join a large telecommunications company in Stamford, CT. This person will be joining a new organization within the company and will be a part of the Reporting & Analytics team. They will be responsible for identifying trends, writing SQL queries, mining complex data, and managing statistical data. About 60-70% of their day will be spent analyzing data using different data mining techniques such as clustering, regression analysis, decision trees and support vector machines. The remaining 30-40% of their day will be spent analyzing geographical data surrounding company competitors to assess the different services that are being offered and then creating models using Tableau based on the company\u2019s needs.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-02T13:21:04.000Z"
+    },
+    "company": {
+        "name": "Insight Global",
+        "link": "https://www.linkedin.com/company/insight-global"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Stamford",
+        "region": "CT",
+        "postal_code": "06928",
+        "street_address": null,
+        "latitude": 41.051926,
+        "longitude": -73.539474
+    }
+}

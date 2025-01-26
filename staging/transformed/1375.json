@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "OPPORTUNITY:&amp;nbsp;Clip Automation is looking for a hands-on Software Engineer responsible for design, development, testing, and deploying our enterprise software on the cloud. If you are a highly organized, software-savvy individual with experience in fast-paced, startup-to high-growth-phase technology companies, let\u2019s talk!&amp;nbsp;&amp;nbsp;   This is an opportunity to be a part of the exciting early stages of a Silicon Valley-based startup that has massive growth and venture potential. Founded by former Apple engineers, we help companies drive innovation and unlock efficiencies by digitizing and automating manufacturing operations. We provide cloud and edge platforms that leverage AI, ML and IOT.&amp;nbsp;McKinsey projects that Manufacturing and Healthcare can save $2.3 trillion over the next 10 years using a productivity-driven model.   We are looking for a collaborative self-starter who is passionate about solving complex problems and building disruptive software in a relatively undefined market.&amp;nbsp;&amp;nbsp;   This role is based in Palo Alto, CA but is fully remote until further notice.&amp;nbsp;Candidates based in the SF Bay Area are highly preferred as you will be working on-site with work from home flexibility post-pandemic.   DUTIES / RESPONSIBILITIES:   The essential functions include, but are not limited to the following:  - Full development life-cycle design from project requirement to deployment.   \n  - You will produce high quality software that is unit tested, code reviewed, and checked in regularly for continuous integration.   \n  - You will develop multi-tier scalable, high-volume performing, and reliable applications that operate 24x7.   \n  - Own and manage the cloud infrastructure and deployments for Clip&amp;nbsp;   \n  - Containerize existing applications&amp;nbsp;&amp;nbsp;   \n  - Drive innovation and bring new technologies to make deployment faster and robust   \n  - Build infrastructure to facilitate rapid deployments to production   \n  - Documenting findings and recommendations for improvement   \n  - Work with onshore and offshore development teams to resolve problems fast&amp;nbsp;   \n&amp;nbsp;&amp;nbsp;REQUIRED SKILLS / ABILITIES:&amp;nbsp;  - Bachelor's degree in Computer Science or related technical discipline   \n  - 2+ years of Software Development experience, ideally in a growth-stage environment   \n  - Experience developing applications using Python,Java, OpenCV, Flask, RabbitMQ, Kafka, MySQL and Postgres   \n  - Experience in deploying AWS services: EC2, ECS, EKS, S3, Lambda,Cognito, IAM, RDS, VPC, Elastic Search, API/IP/NAT Gateway, and CloudWatch   \n  - Strong Experience with Unix/Linux   \n  - Experience with virtualization and containerization platforms (Docker), container orchestration tools (Kubernetes).   \n  - Experience with Agile development processes. Jira, Bitbucket is a&amp;nbsp;plus   \n   Travel:&amp;nbsp;Domestic and International.&amp;nbsp;As required by business needs.&amp;nbsp;&amp;nbsp;&amp;nbsp;At Clip we offer a competitive benefits package that includes Health, Dental, Vision, Life Insurance, 401(k) and Unlimited PTO.&amp;nbsp;Clip is an equal opportunity employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-09T23:11:19.000Z"
+    },
+    "company": {
+        "name": "Clip Automation",
+        "link": "https://www.linkedin.com/company/clip-automation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

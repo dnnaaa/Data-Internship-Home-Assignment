@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer (Intern)",
+        "industry": "Computer Software",
+        "description": "We Are Hiring For a Variety Of Roles, Including      We are looking for passionate, motivated software engineering interns who are excited to build their experience as they develop tools to power the next generation of cloud applications.        -  Distributed systems   \n  -  Machine learning   \n  -  Frontend   \n  -  Observability   \n  -  Production serving   \n  -  Ecosystem   \n  -  C++   \n  -  Reinforcement Learning         \nAbout Anyscale      Anyscale provides an application development platform for developers to build distributed applications. We\u2019re commercializing a popular open source project called Ray , which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Our goal is to build a standardized platform for distributed computing. Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan, and the four of them have co-founded Anyscale. The company raised a $20.6M Series A and a $40M Series B funding from Andreessen Horowitz (a16z), NEA, Foundation Capital, Intel Capital, Ant Financial, Amplify Partners, 11.2 Capital, and The House Fund.      With Ray , we're making it easy to program at any scale (from your laptop to the datacenter) by providing easy-to-use, general-purpose, and high-performance tools. In addition, we are building a rich ecosystem of libraries (for reinforcement learning, hyperparameter search, experiment management, machine learning training, prediction serving, and more) on top of the core distributed system so that users can rapidly build sophisticated applications. Help us build the future of software development.      As Part Of This Role, You Will        - Develop high quality software to empower software developers and simplify programming   \n  - Work with a team of leading distributed systems and machine learning experts   \n  - Communicate your work to a broader audience through talks, tutorials, and blog posts   \n  - Help us to build and shape a world class company         \nWe'd Love To Hear From You If You        - Are passionate about machine learning and distributed systems   \n  - Are interested in working at a startup and making an impact   \n  - Have relevant software engineering internship experiences at tech companies    \n  - Have side projects that showcase their passion for programming outside of the classroom setting    \n  - Are a at least a rising junior         \nAbout Anyscale      Anyscale provides an application development platform for developers to build distributed applications. We\u2019re commercializing a popular open source project called Ray , which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Our goal is to build a standardized platform for distributed computing. Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan, and the four of them have co-founded Anyscale. The company raised a $20.6M Series A and a $40M Series B funding from Andreessen Horowitz (a16z), NEA, Foundation Capital, Intel Capital, Ant Financial, Amplify Partners, 11.2 Capital, and The House Fund.      With Ray , we're making it easy to program at any scale (from your laptop to the datacenter) by providing easy-to-use, general-purpose, and high-performance tools. In addition, we are building a rich ecosystem of libraries (for reinforcement learning, hyperparameter search, experiment management, machine learning training, prediction serving, and more) on top of the core distributed system so that users can rapidly build sophisticated applications. Help us build the future of software development.      Anyscale Inc. is an Equal Opportunity Employer. Candidates are evaluated without regard to age, race, color, religion, sex, disability, national origin, sexual orientation, veteran status, or any other characteristic protected by federal or state law.",
+        "employment_type": "INTERN",
+        "date_posted": "2021-09-21T03:19:17.000Z"
+    },
+    "company": {
+        "name": "Anyscale",
+        "link": "https://www.linkedin.com/company/joinanyscale"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

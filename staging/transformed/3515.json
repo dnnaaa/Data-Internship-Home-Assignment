@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services,Hospital &amp; Health Care",
+        "description": "Job Title: Data ScientistLocation: Dallas, TXJob type: Long term W2   Skills: R, Python, SQL, Healthcare industry experience.What we\u2019re looking for...     - A Master's Degree in Computer Science, Statistics, Math, Economics, Engineering, Data Science, or related field.   \n  - Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.   \n  - Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.   \n  - Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.   \n  - Excellent problem solving and critical thinking capabilities.   \n  - Experience in large-scale data science projects and delivering from end to end.   \n  - Strong problem-solving skills with an emphasis on product development.   \n  - Excellent written and verbal communication skills for coordinating across teams.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-13T16:08:40.000Z"
+    },
+    "company": {
+        "name": "Ebusiness Technologies Corp.",
+        "link": "https://www.linkedin.com/company/ebusiness-technologies-corp"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas-Fort Worth Metroplex",
+        "region": null,
+        "postal_code": "75049",
+        "street_address": null,
+        "latitude": 32.7513,
+        "longitude": -97.08263
+    }
+}

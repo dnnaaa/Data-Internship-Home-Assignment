@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - Front End UI",
+        "industry": "Computer Software,Internet,Financial Services",
+        "description": "Software Engineer Front End / UI      You       An experienced Full Stack Developer with a passion for UI.      Responsibilities & Goals      - Own features to create widgets and a hosted UI environment for client financial institutions to provide bill pay to their customers, with minimal oversight    \n    - Have a deep understanding of the systems: Know the end-to-end processing of a payment presented to the system (component flow), the DTO model, the API and the details of the widgets and web service    \n   - Deliver on-quality, on-time features and tasks assigned, and produce platform live with 1-2 customers by end of year    \n   - Provide insight into our customers    \n       Requirements      - 5+ years of software development experience    \n   - \u2018Full Stack\u2019 developer with emphasis on web services and UI    \n   - Experience with responsive web apps and mobile development    \n   - Experience with Javascript tech (React JS)    \n   - Experience with Cloud Environment (AWS)    \n    - Experience with DevOps and configuring build environment    \n   - High tolerance for ambiguity    \n   - Thrives in a fast paced work environment    \n   - Seeks to understand the whole of how things work beyond their functional area    \n   - Stoked by solving customer issues    \n    - Strong written and verbal communication skills    \n   - Self-starter with the ability to own broad feature areas independently    \n   - BA/BS degree in Computer Science or related major with strong academic record    \n   - Willingness to work in a highly collaborative environment where the belief is that great ideas can come from anywhere    \n       Recommended But Not Required      - Experience in payments industry    \n   - Experience with our tooling/tech stack    \n   - Experience in small company environment    \n   - Client facing work",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-20T05:43:54.000Z"
+    },
+    "company": {
+        "name": "BillGO",
+        "link": "https://www.linkedin.com/company/billgopayments"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fort Collins",
+        "region": "CO",
+        "postal_code": "80521",
+        "street_address": null,
+        "latitude": 40.58897,
+        "longitude": -105.08246
+    }
+}

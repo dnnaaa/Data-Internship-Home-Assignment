@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Staffing and Recruiting,Human Resources",
+        "description": "Role & Responsibilities     -  Monitoring and Tracing   \n  -  Performance monitoring   \n  -  Deploy systems in production   \n  -  Documenting reviews      \nSkills & Qualifications     -  AWS   \n  -  Lambda   \n  -  Microservers   \n  -  CI/CD Pipeline Experience      \nBenefits     -  Standard benefits   \n  -  Remote",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T21:19:44.000Z"
+    },
+    "company": {
+        "name": "Jefferson Frank",
+        "link": "https://www.linkedin.com/company/jefferson-frank"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Denver",
+        "region": "CO",
+        "postal_code": "80247",
+        "street_address": null,
+        "latitude": 39.738453,
+        "longitude": -104.984856
+    }
+}

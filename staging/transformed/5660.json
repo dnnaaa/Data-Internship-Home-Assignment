@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "Job Description: Production Support / Application Support, Linux / Windows / SQL \u2013 Expert ;Desired Skills:SQL experts in Unix/Linux Production Support profiles.&amp;nbsp;SQL is the main deciding factor  - Unix \u2013 8/10   \n  - Windows \u2013 How to login, IIS, Services, Security policy, Computer management \u2013 8/10   \n  - SQL \u2013 Strong knowledge (Writing queries, Stored procedure trouble-shooting, Statistics, DDL, DML knowledge, transact-SQL, Oracle) \u2013 9/10   \n  - Monitoring \u2013 8/10   \n  - Analytical \u2013 Needs to understand production issue scenarios and approach to engage and resolve \u2013 8/10   \n  - Communication \u2013 8/10   \n&amp;nbsp;Good to have:  - Scheduling tools \u2013 7/10   \n  - Security Certificate Management \u2013 7/10   \n  - SFTP, SSH protocol \u2013 7/10   \n  - Linux \u2013Advanced   \n  - SQL \u2013 Advanced   \n  - Windows \u2013 Advanced   \n  - Scripting (such as Shell/Perl or PowerShell)   \n  - Knowledge of production application environments and components including database design and performance (such as Oracle, MS SQL); virtual servers (such as VMWare); monitoring platforms (such as Geneos); application resiliency automation; scheduling tools (such as Autosys); load balancing (such as DR pairs, CNAMES, A-Record); transmission protocols (such as SFTP, NDM); Messaging tools (such as MQ, KAFKA)   \n  - BS or MS in Computer Science highly desired   \n  - Service Now \u2013 a plus   \n  - Investment Banking Financial Services (such as institutional markets, post trade technology, prime brokerage and fund services) a plus.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-23T19:31:41.000Z"
+    },
+    "company": {
+        "name": "Securepeoplebase, Inc",
+        "link": "https://www.linkedin.com/company/securepleoplebase-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas",
+        "region": "TX",
+        "postal_code": "75342",
+        "street_address": null,
+        "latitude": 32.777977,
+        "longitude": -96.79621
+    }
+}

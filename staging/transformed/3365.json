@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer, Security",
+        "industry": "Computer Software,Consumer Goods",
+        "description": "Company DescriptionWish is a mobile e-commerce platform that flips traditional shopping on its head. We connect hundreds of millions of people with the widest selection of delightful, surprising, and\u2014most importantly\u2014affordable products delivered directly to their doors. Each day on Wish, millions of customers in more than 160 countries around the world discover new products. For our over 1 million merchant partners, anyone with a good idea and a mobile phone can instantly tap into a global market.&amp;nbsp;   We're fueled by creating unique products and experiences that give people access to a new type of commerce, where all are welcome. If you\u2019ve been searching for a supportive environment to chase your curiosity and use data to investigate the questions that matter most to you, this is the place.   Job DescriptionThe Security team is responsible for the security and integrity of the Wish platform and corporate environment which is paramount to our success. We work to secure and protect Wish\u2019s assets such as customer or payment information, and handle potential data breaches or develop tools in partnership with other technical teams. As a Senior Site Reliability Engineer in Security, you will work with our team to assess risk and relative priority of security initiatives, and lead execution on those initiatives.   What you'll be doing:  - Help establish security best practices across the company.   \n  - Analyze our security posture, identify gaps, and work closely with other teams to ensure strong operational security.   \n  - Lead complex security projects from design through implementation and maintenance.   \n  - Provide ongoing maintenance and improve system health and reliability of security services.   \n  - Participate in design and implementation reviews of security and infrastructure projects.   \n  - Monitor and participate in external security forums, conferences, education, etc.   \n  - Lead and mentor junior security engineers and analysts.   \n  - Participate in low volume on-call rotation.   \n   Qualifications  - 5+ years of experience working on or with security teams.   \n  - Experience with SRE/DevOps tasks, including deploying and maintaining production services.   \n  - Strong knowledge of security topics including network and application security, infrastructure hardening, security baselines, and web server / database security.   \n  - Knowledgeable in modern configuration management tools (i.e Salt, Ansible, Fabric, etc.) and CI/CD systems.   \n  - Experience with AWS or other cloud environments.   \n  - Excellent technical writing and documentation skills.   \n   Nice to have:  - B.S. degree in Computer Science.   \n  - Experience working with container technology including Docker and Kubernetes.   \n  - Knowledge of network based, system level, and application layer attacks and mitigation methods.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T22:38:58.000Z"
+    },
+    "company": {
+        "name": "Wish",
+        "link": "https://www.linkedin.com/company/wishshopping"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

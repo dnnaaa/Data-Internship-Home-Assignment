@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Real Estate",
+        "description": "Position: Data Scientist/ Machine Learning Engineer Location: Tustin, CAPosition Summary: The data services technology team at New American Funding has an engineering job opening to further expand the data-driven decision-making initiatives it leads. Given the growing nature of the department, this position calls for individuals who can perform exploratory data analysis as well as developing / deploying machine learning models and corresponding data pipelines.Responsibilities:  - Performing data wrangling tasks like cleaning, normalizing or standardizing data,   \n  - Creating ETL processes for data loading / transformation,   \n  - Building dashboards for data visualization,   \n  - Creating data pipelines,   \n  - Building, testing and deploying machine learning models   \n&amp;nbsp;Qualifications:  - Have strong analytical and problem-solving skills,   \n  - Should be well-versed in either developing the required code base for the above said tasks or use automated tools,   \n&amp;nbsp;Desired Education/Experience:  - Have completed several projects where they have contributed to the problem solving, data preparation, analysis and use of machine learning.   \n  - Familiar with statistical concepts.   \n  - BA in computer science or similar majors.   \n  - A minimum of 2 years of related experience.   \nWork Authorization: Must be able to verify identity and employment eligibility to work in the U.S.Other Duties: This job profile is not intended to be an all-inclusive list of job duties and responsibilities, as one may perform additional related duties as assigned in order to meet the needs of the organization.Physical Demands: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Must be able to lift up to ten pounds. Primary functions require sufficient physical ability and mobility to work in an office setting; to stand or sit for prolonged periods of time; to occasionally stoop, bend, kneel, crouch, reach, and twist; to lift, carry, push, and/or pull light to moderate amounts of weight; to operate office equipment requiring repetitive hand movement and fine coordination including use of a keyboard; and to verbally communicate to exchange information. VISION: See in the normal visual range with or without correction. HEARING: Hear in the normal audio range with or without correction.[EOE/M/F/D/V. Drug-free workplace.]",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T16:09:46.000Z"
+    },
+    "company": {
+        "name": "Zigzy",
+        "link": "https://www.linkedin.com/company/zigzy"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Tustin",
+        "region": "CA",
+        "postal_code": "92781",
+        "street_address": null,
+        "latitude": 33.742073,
+        "longitude": -117.81977
+    }
+}

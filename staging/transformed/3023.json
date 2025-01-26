@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DevOps Engineer",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Years of Experience  7 years      Education Requirements  Bachelor\u2019s Degree      Position Description  CI/CD Engineer is responsible for the set-up, maintenance, and ongoing development of continuous build/integration infrastructure.      Requirements      Responsibilities       - Create and maintain fully automated CI build processes for multiple environments   \n   - Write build and deployment scripts   \n   - Support CI/CD tools integration/ operations/ change management, and maintenance   \n   - Support full automation of CI/Testing   \n   - Develop policies, standards, guidelines, governance and related guidance for both CI/CD operations and for work of developers   \n   - On-board/ train and support developers from source control, through build automation, merge resolution, CI, test automation, deployment based on tools usage and policies, standards   \n   - Enable DevOps by moving code from Dev/Test to Staging and Production. Troubleshoot issues along the CI/CD pipeline   \n   - Good understanding of Quality Control and Test Automation in Agile-based Continuous Integration environments   \n       Required Skills      - 3-5 years of experience building DevSecOps pipelines for implementing CI/CD for cloud applications.   \n   - Possess deep expertise in scripting languages like Bash, Python and Groovy and are very skilled in troubleshooting deployment issues on AWS.   \n   - Have minimum 3 years of experience managing resources on AWS.   \n   - Possess deep expertise in many tools from the DevSecOps tool chain.   \n   - Working knowledge of fundamental Linux systems administration.   \n   - Working knowledge of fundamental Windows Systems administration.    \n   -  Certifications  AWS Solutions Architect (Associate) or Developer (Associate)    \n   - Must be able to obtain a public trust security clearance   \n       Preferred Skills     - Previous experience with VA and working on VA legacy systems for Education Service         \nSoft Skills      -  Organizational Skills  Can plan and prioritize work. Follows tasks to their logical conclusion and makes sure that everything has been done to the right standard. Good attention to detail.   \n   -  Team Work  Able to enthuse and maintain project interest. Comfortable working both individually and as part of a team. Prepared to challenge ideas within a group in a constructive way.    \n   -  Communications  Ability to communicate clearly and efficiently to team members and clients, verbally and in writing. Able to present ideas in a variety of ways depending upon audience and context. Excellent active listening skills.   \n   -  Quantitative Management  Ability to determine process measures and track to determine process effectiveness and efficiency.    \n   -  Results oriented Able to drive things forward regardless of personal interest in the task.   \n       Benefits      SES provides a competitive salary and the following benefits      - Medical   \n   - Dental   \n   - Vision   \n   - AD&D   \n   - STD   \n   - LTD   \n   - Company paid Life Insurance   \n   - 401k with employer contribution   \n   - Paid Time Off",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-06T15:59:48.000Z"
+    },
+    "company": {
+        "name": "SES Corporation",
+        "link": "https://www.linkedin.com/company/ses-corporation"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Chantilly",
+        "region": "VA",
+        "postal_code": "22022",
+        "street_address": null,
+        "latitude": 38.888687,
+        "longitude": -77.417496
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Consumer Services",
+        "description": "Sophus IT is looking for dynamic and driven professionals to join a rapidly growing high-performance team. Our client is a leading provider of digital Global System for Mobile Communications/General Packet Radio Service (GSM/GPRS) wireless voice and data technology standards. Site Reliability Engineer, ACE Platform Engineering will support critical API Platform, DevOps and other activities for the Digital Services Group.   - Position duties and responsibilities include, but are not limited to:    \n  - Provide consulting services for improved system stability, availability, performance and reliability.   \n  - Assist in determining the impact of operational issues and provide input into their resolution via data extraction and quantification.   \n  - Work through day-to-day support issues, ensure effective and timely resolution of issues in production environment, troubleshoot customer impacting issues.   \n  - Forecast and plan for rapidly growing environment.   \n  - Support multiple applications, specifically running Solo Gloo/Kubernetes/PCF/GCP/Java based systems in an enterprise environment.   \n  - Supporting Gloo running on Kubernetes, Grafana, Prometheus, Cassandra, Postgres, Spring Boot or Java based applications running on PCF and WebLogic.   \n  - Apply monitoring and creating complex alerts and dashboards for production systems.   \n  - Provide capacity analysis, tuning analysis for Cloud applications in a LINUX and container platform.   \n  - Available to provide 24X7 on call support on a rotating basis with other team members.   \n  - Lead efforts in troubleshooting, recovery, and root cause investigation.   \n  - Perform analysis of user requirements and problems to automate or improve systems and review system capabilities, workflow, and scheduling limitations.   \n  - Able to follow and develop detailed work plans, schedules, project estimates, resource plans, and status reports.   \n  - Facilitate DR (Disaster Recovery) exercises to ensure that the team are fully prepared in any event.   \n  - Lead root cause analysis session to understand what causes issues in Production and come up with solutions that will prevent them from happening in the future.   \n  - Ensure documentation is created and remain updated for any related work.   \n  - Strong understanding of UNIX operating systems and any scripting language.   \n  - Evaluates product and service solutions.   \n Skill requirements:   - Strong experience with infrastructure and support.   \n  - Strong experience with Linux OS.   \n  - Strong experience with Kubernetes and Gloo edge (solo.io)   \n  - Experience with Cloud Native Applications.   \n  - Experience with REST or SOAP API support.   \n  - Experience with tools like: NGINX, Docker, PostMan, SOAP UI, ELK, App Dynamics, CI/CD tools and GITLab   \n  - Good Experience in performance measures and tuning, capacity planning and management, contingency and disaster recovery   \n  - Strong scripting knowledge and experience.   \n  - Good understanding of networking and routing.   \n PRIMARY REQUIREMENTS:   - Master\u2019s degree in Information Technology, Computer Science, Computer Information Systems, Computer Applications, related field or its equivalent and 3 years of relevant work experience.   \n  - ALTERNATIVE REQUIREMENTS: Applicant must have Bachelor\u2019s degree in Information Technology, Computer Science, Computer Information Systems, Computer Applications, related field or its equivalent and 5 years of relevant work experience.   \n  - Will accept applicant with any suitable combination of education, training or experience. Will accept 3 year bachelor\u2019s degree + 3 year master\u2019s degree in related field as determined to be equivalent to a U.S.   \n  - Master\u2019s degree as determined by a qualified evaluation service.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-10-14T21:06:38.000Z"
+    },
+    "company": {
+        "name": "Sophus IT Solutions",
+        "link": "https://www.linkedin.com/company/sophusitsolutions"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Bellevue",
+        "region": "WA",
+        "postal_code": "98007",
+        "street_address": null,
+        "latitude": 47.6137,
+        "longitude": -122.19093
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer, Machine Learning",
+        "industry": "Computer Software",
+        "description": "Are you passionate about machine learning and looking for an opportunity to make an impact in healthcare?      Fathom is on a mission to understand and structure the world\u2019s medical data, starting by making sense of the terabytes of clinician notes contained within the electronic health records of health systems.      We are seeking extraordinary Machine Learning Engineers to join our team, developers and scientists who can not only design machine-based systems, but also think creatively about the human interactions necessary to augment and train those systems.      Please note, this position has a minimum requirement of 3+ years of experience. For earlier career candidates, we encourage you to apply to our SF and/or Toronto locations.      As a Machine Learning Engineer You Will     - You will develop NLP systems that help us structure and understand biomedical information and patient records   \n  - You will work with a variety of structured and unstructured data sources   \n  - You will imagine and implement creative data-acquisition and labeling systems, using tools & techniques like crowdsourcing and novel active learning approaches   \n  - You will work with the latest NLP approaches (BERT, Transformer)   \n  - You will train your models at scale (Horovod, Nvidia v100s)   \n  - You will use and iterate on scalable and novel machine learning pipelines (Airflow on Kubernetes)   \n  - You will read and integrate state of the art techniques into Fathom\u2019s ML infrastructure such as Mixed Precision on Transformer networks      \nWe\u2019re Looking For Teammates Who Bring     - 3+ years of development experience in a company/production setting   \n  - Experience with deep learning frameworks like TensorFlow or PyTorch   \n  - Industry or academic experience working on a range of ML problems, particularly NLP   \n  - Strong software development skills, with a focus on building sound and scalable ML   \n  - Excitement about taking ground-breaking technologies and techniques to one of the most important and most archaic industries   \n  - A real passion for finding, analyzing, and incorporating the latest research directly into a production environment.   \n  - Good intuition for understanding what good research looks like, and where we should focus effort to maximize outcomes.      \nBonus Points If You Have Experience With     - Developing and improving core NLP components\u2014not just grabbing things off the shelf   \n  - Leading large-scale crowd-sourcing data labeling and acquisition (Amazon Turk, Crowdflower, etc.)",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-30T17:06:49.000Z"
+    },
+    "company": {
+        "name": "Fathom",
+        "link": "https://au.linkedin.com/company/fathom-applications"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

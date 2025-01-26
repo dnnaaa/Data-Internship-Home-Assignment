@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services",
+        "description": "The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.&amp;nbsp;&amp;nbsp;Responsibilities  - Analyze raw data: assessing quality, cleansing, structuring for downstream processing   \n  - Design accurate and scalable prediction algorithms   \n  - Collaborate with the engineering team to bring analytical prototypes to production   \n  - Generate actionable insights for business improvements   \n  - Develop company A/B testing framework and test model quality.   \nQualifications  - Bachelor's degree or equivalent experience in a quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)   \n  - Experience using statistical computer languages (Python & SLQ) to manipulate data and draw insights from large data sets.   \n  - 6+ months of A/B Testing   \n  - Experience utilizing visualization tools to take advantage of the growing volume of available information (Power BI preferred)",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-06T18:09:40.000Z"
+    },
+    "company": {
+        "name": "Apex Systems",
+        "link": "https://www.linkedin.com/company/apex-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Seattle Area",
+        "region": null,
+        "postal_code": "98109",
+        "street_address": null,
+        "latitude": 47.591396,
+        "longitude": -122.33279
+    }
+}

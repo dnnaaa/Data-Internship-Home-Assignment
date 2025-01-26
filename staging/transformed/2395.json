@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DevOps Engineer",
+        "industry": "Health, Wellness and Fitness",
+        "description": "This position will be responsible for helping with the teams move to automation. This will include both Infrastructure as Code and SecDevOps.   This individual will be responsible for maintaining existing code, creating new automation and corresponding documentation.   The position will focus Application Delivery Networking, which includes Load Balancing, Smart DNS and Security Offerings.   Required Qualifications     - 2+ years of development and maintenance experience in Ansible OR Tower.   \n  - 2+ years of development and maintenance experience in Git.   \n  - 2+ years of development and maintenance experience in REST Interfaces.   \n   Preferred Qualifications     - It would be nice if the candidate had experience with Load Balancing, Networking or Private Key Infrastructure.   \n  - Experience in:   \n  - Cloud platform experience: AWS/AZURE/GCP   \n  - Declarative Onboarding using AS3   \n  - Database Experience   \n  - Octopus   \n  - Bash   \n  - VSCode\\Python\\PHP   \n  - Node.js   \n  - React.js   \n  - SNOW   \n   Education     - A degree in information technology or matching job experience.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-03T01:33:47.000Z"
+    },
+    "company": {
+        "name": "CVS Health",
+        "link": "https://www.linkedin.com/company/cvs-health"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Hartford",
+        "region": "CT",
+        "postal_code": "06156",
+        "street_address": null,
+        "latitude": 41.765774,
+        "longitude": -72.673355
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Management Consulting",
+        "description": "We have an exciting opportunity available for a Machine Learning Engineer within our PwC Waterfall or Cape Town office. You will design and build new Data Science/Machine Learning (\u201cML\u201d) software solutions while participating in all phases of the software development lifecycle. Your ultimate goal is to create high-quality software solutions that meet clients needs.   Requirements:  - BSc, BEng, or BIT degree, preferably with Postgraduate degrees, strong foundational Computer Science knowledge required   \n  - Experience in the design, development and deployment of Machine Learning solutions   \n  - Minimum 4 years total working experience with 2+ years of experience in developing Machine Learning solutions   \n  - Extensive Python development experience with experience in creating ML pipelines   \n  - Extensive knowledge of Docker/containerisation, experience with deployment on Kubernetes will be highly advantageous   \n  - Database design patterns & object relational mapping in Python   \n  - Experience with Git & collaborative software development   \n  - Test driven development   \n  - Experience in MLOps will be highly advantageous   \n   Responsibilities:  - Assist in designing and implementing functional application requirements for client-facing and internal ML solutions   \n  - Ownership of the delivery of functional aspects of an application design in line with functional specification as part of a larger multi-disciplinary team   \n  - Guidance and upskilling of junior ML team members on various aspects of the machine learning development lifecycle   \n  - Guidance to wider team members on various aspects of the ML application development lifecycle   \n  - Collaborate with Data Engineers to ensure data and data structures cater for solution needs   \n  - Collaborate with UX/UI designers to specify UI requirements for application designs   \n  - Collaborate with Front-End developers to ensure accurate delivery of UI application specifications   \n  - Build of efficient back-end application features   \n  - Manage application testing and bug fixes   \n  - Prepare technical documentation   \n  - Implement software enhancements and suggest improvements   \n  - Review code from other developers and team members   \n   Please apply via LinkedIn.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-11T14:00:16.000Z"
+    },
+    "company": {
+        "name": "PwC South Africa",
+        "link": "https://za.linkedin.com/company/pwc-south-africa"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "ZA",
+        "locality": "Johannesburg Metropolitan Area",
+        "region": null,
+        "postal_code": null,
+        "street_address": null,
+        "latitude": -25.93775,
+        "longitude": 27.92642
+    }
+}

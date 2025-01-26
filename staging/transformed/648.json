@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Systems Engineer",
+        "industry": "Computer Software",
+        "description": "Job descriptionThe Systems Engineer will be responsible for the oversight and administration of Keycentrix\u2019s IT assets, both hardware and software. This position will provide solution architecture, development and deployment for Keycentrix internal users. The position requires strong troubleshooting and diagnostic skills, the ability to research, design, and implement new solutions from the ground up, as well as strong communication and leadership skills.Essential Job Responsibilities:\u00b7 Develops IT solutions for Keycentrix\u2019s internal customers. Provides IT architecture solutions to meet our critical business needs.\u00b7 Administers the installation and operation of all Keycentrix LAN/WAN related network services and security and control measures\u00b7 Troubleshoots and resolves LAN/WAN performance, connectivity and related network problems\u00b7 Performs installations, upgrades, and support of computer hardware and software for internal customers\u00b7 Oversees IT projects ensuring smooth and successful execution\u00b7 Collaborates with internal customers and vendors on all projects, timelines and budgets\u00b7 Advises and supports all company policies and procedures pertaining to IT administration\u00b7 Communicates effectively with all internal customers, ensuring customer satisfaction and strong business relationships.\u00b7 Oversees the documentation of all Keycentrix systems and procedures within the scope of IT architecture, installation, support and operations\u00b7 Performs any assigned tasks associated with support of external Keycentrix customers as directed\u00b7 Trains and may provide work direction to IT Technician(s)Qualifications:\u00b7 Solid technical skills and experience with a variety of network protocols, software, and hardware involved in LAN and WAN operations\u00b7 Strong troubleshooting, analytic and diagnostic skills\u00b7 IT architecture skills\u00b7 Strong project planning skills\u00b7 Ability to perform high-level root cause analysis of technical issues\u00b7 Ability to communicate effectively with technical and non-technical users\u00b7 Self-starter but able to work with and lead/mentor others\u00b7 Availability to perform on-call work when necessary\u00b7 Excellent communication skills\u00b7 Project management experience\u00b7 Disaster recovery and planning experience\u00b7 Minimum 3 years of experience in at least 7 of the following areas:\u00b7 TCP/IP networking\u00b7 WAN, LAN, WLAN\u00b7 Standard network protocols (HTTP(S), FTP, SMTP, SSL, BGP, EIGRP, etc.)\u00b7 VLANs\u00b7 VMware virtual server and workstation environments\u00b7 Active Directory environments (2012 and above)\u00b7 Microsoft Operating Systems (Server and Desktop)\u00b7 VPN and remote access methodologies\u00b7 Server and desktop hardware installation, configuration, and support skills\u00b7 SonicWall firewall and network security experience\u00b7 Backup and DR solutions, specifically VeeamOther Preferred Skills\u00b7 CCNA or CCNP certification\u00b7 MCSE, MCSA certification\u00b7 Network design/architecture experience\u00b7 VOIP telephony solutions\u00b7 Microsoft Cloud solutions (SharePoint, Office 365)\u00b7 SAN, NAS storage solution experience (specifically with Nimble, EqualLogic, NetApp, EMC)\u00b7 Experience with network monitoring and performance tuning\u00b7 Linux (Ubuntu, Red Hat, CentOS)\u00b7 SQL databases (SQL Server, PostgreSQL, Oracle)\u00b7 Docker, Kubernetes, or other container solutionsEducation or Certifications:\u00b7 Bachelor\u2019s degree in Computer Science desired; or commensurate degree and experience combinationAbout Keycentrix\u2122Keycentrix is a software and technology company based in Wichita, Kansas. For over 40 years, we have provided powerful and affordable software that helps Independent Retail and Mail-order Pharmacies thrive. We also provide best-in-class software solutions for Specialty Pharmacies with Newleaf\u00ae software, allowing pharmacies to run better, smarter, and faster, while maintaining high-touch care for the communities and patients served. Learn more about our full range of software and IT services at keycentrix.com.We are proud to announce that we recently won the prestigious 2019 Surescripts White Coat Award\u2122 for e-prescriptions accuracy. https://www.pharmacytimes.com/news/keycentrix-wins-surescripts-2019-white-coat-award-for-prescription-accuracyKeycentrix is a member of the Cochener Garvey Capital Partners, Inc. family of businesses. www.cgcpi.com.Keycentrix is committed to providing equal opportunity in employment for all people without regard to the following: race, color, religion, age, gender, sexual orientation, marital status, gender identity, national origin, physical or mental disability, service in the military, or any other attribute or characteristic protected by law.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T21:47:56.000Z"
+    },
+    "company": {
+        "name": "keycentrix, LLC",
+        "link": "https://www.linkedin.com/company/keycentrix"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Wichita",
+        "region": "KS",
+        "postal_code": "67203",
+        "street_address": null,
+        "latitude": 37.686024,
+        "longitude": -97.33557
+    }
+}

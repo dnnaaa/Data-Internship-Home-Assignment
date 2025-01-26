@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Leisure, Travel &amp; Tourism",
+        "description": "Data Scientist&amp;nbsp;The successful candidate will be responsible for developing and maintaining machine learning and predictive modeling algorithms to provide business insights and identify opportunities to improve current business processes or new avenues that should be explored. This individual will work closely with data engineers, analysts, software developers and SME\u2019s within the business to deliver new and exciting products and services. The main objectives are to leverage data science techniques and machine learning to drive operational efficiency and effectiveness by enabling proactive data-driven decisions across the organization. This includes fostering collaboration, building partnerships, co-developing products, sharing knowledge, providing insights and valuable predictive information to business teams and leaders to highlight potential risks and opportunities that initiate the drive for change.    Key Responsibilities:  - Use and follow best practices to develop statistical and machine learning techniques to build bespoke models to address the needs of our customers and business.    \n  - Build and maintain descriptive, predictive, and prescriptive models to streamline existing processes and identify market opportunities for new products and services.   \n  - Assemble and derive value from large, multi-dimensional datasets that meet functional/non-functional business requirements.   \n  - Integrate and curate data from a wide range of internal and external sources to develop detailed reports and datasets for predictive modeling.   \n  - Use data visualization tools to explain your results simply and succinctly to technical, non-technical, and senior management.   \n  - Leverage cloud technologies to deploy and operationalize machine learning endeavors.   \n  - Dissect and solve complex business problems using analytical and quantitative approaches to identify patterns and correlations in large, complex datasets.   \n   Required Skills and Experience  - Minimum of 3 years hands-on experience in a data science role.   \n  - Minimum 2 years of intensive experience with cloud-based Big Data, BI, ML and Analytics technologies, preferably AWS.   \n  - Strong expertise with Big Data tools such as Databricks/Spark, Amazon Athena, etc.   \n  - Experience with event driven architectures and implementing analytics on data streams utilizing pub/sub technologies such as Kafka and Amazon Kinesis.   \n  - Strong capabilities in scripting languages such as Python, R, Scala, etc.   \n  - Strong experience with statistical analysis, statistical modeling, and machine learning techniques.    \n  - Experience with operationalizing Machine Learning using tools like Sagemaker.   \n  - Experience with Data Visualization tools such as Tableau.    \n  - Strong interpersonal and communication skills with Agile/Scrum experience.   \n  - Strong problem solving and critical thinking skills with a proven record for identifying and diagnosing problems, and solving complex problems with simple, logical solutions.   \n  - Outstanding verbal, written, presentation, facilitation, and interaction skills, including ability to effectively communicate technical and non-technical information and concepts to multiple organization levels.   \n   &amp;nbsp;Required Education&amp;nbsp;A bachelor's degree or higher in Computer Science, or other quantitative discipline such as statistics, mathematics, physics or engineering.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-21T19:09:50.000Z"
+    },
+    "company": {
+        "name": "Hertz",
+        "link": "https://www.linkedin.com/company/hertz"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Chicago Area",
+        "region": null,
+        "postal_code": "60618",
+        "street_address": null,
+        "latitude": 41.948055,
+        "longitude": -87.655754
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "lead site reliability engineer- Starbucks Technology",
+        "industry": "Consumer Goods,Food &amp; Beverages,Retail",
+        "description": "Job Summary And Mission      If you\u2019ve got what it takes to help transform one of the most iconic brands in the world into a lean, efficient and highly automated platform, we\u2019d like to talk to you.      As a Lead Site Reliability Engineer - Starbucks Technology, you will be responsible for engineering solutions to address day-to-day maintenance, administration, and reliability of Internet-based enterprise systems. On an ongoing basis, this position will identify root causes of operational issues in order to resolve them. As required, this position will help engineering teams improve quality, reduce time to market, and make web applications faster and more reliable.      This role requires your A-Game: deep technical proficiency in both enterprise-scale systems as well as next gen cloud native applications are required. So, if you believe, like we do, that a cup of coffee can change a life and change our world, come check us out and help us deliver that same amazing experience to our customers around the globe.      Summary Of Key Responsibilities     -  Automate repetitive tasks (Eliminate toil)   \n  -  Seek opportunities and implement solutions to improve site reliability (reducing Mean Time to Diagnosis, Mean Time to Resolution, System Self-healing, etc.)   \n  -  Participate in On-Call production support   \n  -  Support Software Releases (CI/CD pipeline support, infrastructure, automation, process improvement.)   \n  -  Vulnerability Management (Patching systems and implementing security controls in compliance with Starbucks Global Security)   \n  -  Create and maintain systems and infrastructure documentation   \n  -  Plan and execute on prioritized project tasks   \n  -  Provide technical guidance and training to junior team members      \nModels and acts in accordance with Starbucks guiding principles.      Summary Of Experience     -  Coding and Operations experience (8+ years combined)   \n  -  Designing, supporting and deploying mission critical products or services (5+ years)   \n  -  Operating complex, large-scale Enterprise guest-facing Applications or web sites (5+ years)   \n  -  Deploying containerized workloads into Kubernetes (3+ years)   \n  -  Public cloud experience such as Azure, AWS, GCP (5+ years)   \n  -  Writing and maintaining Configuration as Code (3+ years)   \n  -  Worked in an environment that implemented Agile or LEAN principals (3+ years)      \nBasic Qualifications     -  4-8 years of professional industry experience with software engineering   \n  -  2-3 years of software engineering and design at high volume or large scale   \n  -  Bachelor\u2019s degree in Engineering, Computer Science, Computer Information Systems, or related field.      \nPreferred Qualifications     -  Aptitude to pick up new technologies and trends.   \n  -  Experience with a variety of build, deployment, and CI tools such as Jenkins, Webpack, Ansible, Puppet, and Octopus Deploy.   \n  -  Experience automating deployments with Github.   \n  -  Experience in designing, implementing and managing Kubernetes.   \n  -  Experience in writing, debugging, and maintaining Helm Charts.   \n  -  Experience with Docker and have experience in establishing container image repositories, building Docker files, container images, and using Docker in establishing continuous integration/continuous deployment (CI/CD) deployment pipelines.   \n  -  Experience with tools enabling automated testing and integration.   \n  -  Expertise in Linux and Windows system installation, configuration, administration, troubleshooting, performance tuning, preventative maintenance, capacity planning, monitoring, and security procedures.   \n  -  Experience installing and configuring Azure services using Terraform.   \n  -  Experience in at least two relevant scripting or programming languages (Go, Python, Ruby, Perl, Shell, PowerShell, etc.)   \n  -  Experience hardening and maintaining secure systems (Safe Harbor or PCI experience a plus!)   \n  -  Proven ability to participate with other functional teams in systems integration and design including writing operational specifications, test plans and requirements management with attention to detail   \n  -  Ability to produce system documentation, including writing requirements, operational specifications, system architecture, test plans and as-built documentation, all with attention to detail   \n  -  Ability to build strong relationships and influence others across the organization   \n  -  Demonstrated knowledge of Agile/Lean methodologies   \n  -  Experience working with ITIL and Service Management best practices is a plus      \nCore Competencies      Puts the Customer First: Has a relentless focus on the customer. Understands what the customer wants and how to best deliver the experience.      Works Well with Others: Listens and communicates well with others within and outside of Starbucks. Creates a team environment that is positive and productive.      Leads Courageously: Takes personal responsibility to do the right thing and persists in times of challenge or uncertainty. Adapts quickly to change and makes timely, thoughtful decisions.      Develops Continuously: Continuously seek opportunities to improve self and others. Leads with trust, honesty and commitment to hire, coach and develop partners to achieve their potential.      Achieves Results: Understands what drives overall business success and is accountable to prioritize and deliver quality results. Demonstrates knowledge of core products and processes to get results. Anticipates obstacles and takes action to prevent or minimize their impact.      Starbucks and its brands are an equal opportunity employer of all qualified individuals, including minorities, women, veterans and individuals with disabilities. Starbucks will consider for employment qualified applicants with criminal histories in a manner consistent with all federal, state, and local ordinances.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-02T06:09:45.000Z"
+    },
+    "company": {
+        "name": "Starbucks",
+        "link": "https://www.linkedin.com/company/starbucks"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

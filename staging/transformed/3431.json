@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "This is an amazing opportunity to join a rapidly growing company that offers great benefits and growth opportunities.   Minimum Qualifications:  - 3+ years of experience developing and applying deep&amp;nbsp;learning&amp;nbsp;models    \n  - 1+ year programming experience with Python and Python&amp;nbsp;machine&amp;nbsp;learning&amp;nbsp;frameworks (e.g., TensorFlow, PyTorch, Sklearn, NLTK)&amp;nbsp;   \n   Nice If You Have:  - Graduate degree or publication record in a relevant field&amp;nbsp;   \n  - Strong knowledge of CS fundamentals (compilation, assembly / low-level programming, operating systems, etc.)   \n  - Familiarity with common approaches in NLP (word embeddings, language models, sequence-to-sequence models, syntax parsing, etc.)   \n  - Applied research experience   \nClearance / US Citizen:  - Active DoD Secret security clearance required&amp;nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T19:47:13.000Z"
+    },
+    "company": {
+        "name": "StevenDouglas",
+        "link": "https://www.linkedin.com/company/stevendouglashq"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Arlington",
+        "region": "VA",
+        "postal_code": "22210",
+        "street_address": null,
+        "latitude": 38.890762,
+        "longitude": -77.084755
+    }
+}

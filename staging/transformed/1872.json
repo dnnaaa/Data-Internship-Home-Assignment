@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Data Engineer",
+        "industry": "Broadcast Media",
+        "description": "Job Title: Senior Data Engineer   Location: Alexandria, VA   Salary Range: $120k - $150k   Requirements: ETL/ELT, SQL, AWS/Google Cloud, Linux/Unix, Spark (preferred), NoSQL (preferred), Machine Learning concepts (preferred)      Based in beautiful Alexandria, VA, we are one of the hottest media analytics and software start-ups in the DC area. Due to growth, we are actively seeking to hire a Senior Data Engineer to join our team. The ideal candidate will have at least 5 years of experience with data pipelines (built with Python), ETL experience, a strong SQL background, experience with AWS or Google Cloud, and strong Unix/Linux fundamentals. Any experience with Spark, NoSQL, and Machine Learning would be a huge plus. If this sounds like you, please apply now or send your resume to shiv.warrier@cybercoders.com!      What You Will Be Doing     - Lead design and development of data pipelines   \n  - Deliver features on a cadence within an agile framework   \n  - Contribute to the definition of user stories   \n  - Collaborate with other members of the team, including offshore, on development integration   \n  - Write unit tests and maintain high code quality, per both static code analysis team standards   \n  - Be available on a rotating schedule for production issues      \nWhat You Need for this Position      Must-Have     - BS in Computer Science or equivalent   \n  - 5+ years of experience in software/data engineering   \n  - Expertise in ETL/ELT techniques   \n  - Expertise in SQL   \n  - Experience working with AWS or Google Cloud   \n  - Strong Unix/Linux fundamentals      \nNice To Have     - Experience with data processing frameworks e.g. Spark   \n  - Experience with NoSQL column-store databases   \n  - Exposure to machine learning concepts      \nExposure to ad tech concepts terminology      What's In It for You     - Competitive salary with high bonus potential   \n  - Collaborative and creative atmosphere, with inspired leadership   \n  - Career advancement opportunities   \n  - Recognition and reward for outstanding performance   \n  - Great medical, dental; vision Insurance packages   \n  - Competitive 401K with company match to plan for the long term   \n  - Unlimited paid-time-off   \n  - Transportation benefits, cell phone reimbursement   \n  - Casual dress all day, every day      \nSo, if you are a Senior Data Engineer with experience, please apply today!      Email Your Resume In Word To      Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:      Shiv.Warrier@CyberCoders.com     - Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : SW3-1634173 -- in the email subject line for your application to be considered.***      \nShiv Warrier - Sr. Executive Recruiter - CyberCoders      Applicants must be authorized to work in the U.S.      CyberCoders, Inc is proud to be an Equal Opportunity Employer      All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.      Your Right to Work - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-31T07:18:05.000Z"
+    },
+    "company": {
+        "name": "CyberCoders",
+        "link": "https://www.linkedin.com/company/cybercoders"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": "$",
+        "min_value": 120000,
+        "max_value": 150000,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Alexandria",
+        "region": "VA",
+        "postal_code": "22336",
+        "street_address": null,
+        "latitude": 38.804665,
+        "longitude": -77.04362
+    }
+}

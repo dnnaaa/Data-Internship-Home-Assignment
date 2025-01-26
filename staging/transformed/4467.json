@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer ( C#/.NET &amp; Angular) - Direct-hire - REMOTE",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Job Description      Job Title: Software Engineer (C# / .NET)      Job Type: Direct-hire      Location: Remote      Job Summary      The Software Engineer analyzes user needs and uses various programming languages to develop, improve, test and/or maintain software that meets user needs. These responsibilities require this team member to take an active role in design and code reviews, assist with delivery estimates and provide feedback about all aspects of the process.      Preferred Qualifications     - A strong foundation in programming fundamentals, design patterns, data structures, object-oriented design principles, unit testing, and modern version control flows   \n  - 2 years of development experience in a multilayered \u201c n-tier\u201d style architecture   \n  - Comfort with one or more of the following languages: C# (or other .NET language), JavaScript (either back-end, e.g., NodeJS, and/or front-end, such as Angular, React, or Vue), Java (or other JVM-based language), PHP, Python, Ruby, Progress, Erlang/Elixir, or others like these.   \n  - Experience working with some form of distributed technology like gRPC, GraphQL, or REST over HTTP.   \n  - Understanding of and experience working in a continuous integration and continuous delivery environment   \n  - Experience working with software automation frameworks to do functional testing   \n  - Experience developing applications in a cloud environment, such as AWS or Azure   \n  - Experience using DevOps-focused technologies, such as Docker, Terraform or CircleCI   \n  - Comfort working on the command line   \n  - Portfolio and code samples you can share   \n  - Experience working with functional programming   \n  - Willingness to learn new languages and technologies   \n  - Awareness to identify and pay off technical debt, as well as realizing and removing code smells early during development and code review      \nResponsibilities     - Solve problems by crafting software solutions using maintainable, testable and modular code   \n  - Collaborate within a team by participating in code reviews, pairing sessions, architecture discussions and planning ceremonies   \n  - Write robust, testable code, along with unit, functional, acceptance and/or user tests to validate every change   \n  - Challenge your fellow team members to grow and enhance our team with new, diverse talent   \n  - Mentor interns and other software engineers to grow their technical skills",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T22:19:00.000Z"
+    },
+    "company": {
+        "name": "Talution Group",
+        "link": "https://www.linkedin.com/company/talution-group"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Detroit",
+        "region": "MI",
+        "postal_code": "48242",
+        "street_address": null,
+        "latitude": 42.33294,
+        "longitude": -83.04784
+    }
+}

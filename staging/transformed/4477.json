@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Staffing and Recruiting",
+        "description": "NO CTC   Job Description   - Critically assess and challenge models on conceptual soundness, assumptions and limitations, data, developmental evidence in support of modeling choices, performance, implementation and documentation   \n  - Understand the core methodology in AI solutions and the context in which it will be deployed so as to find risks/gaps   \n  - Develop efficient methodologies to detect and to quantify risks/gaps in AI solutions   \n  - Suggest alternative approaches or controls to mitigate risks/gaps identified   \n  - Develop and implement testing plans and testing code in order to challenge models through empirical analyses and to verify model implementation   \n  - Create metrics to quantify risks/gaps specific to each AI solution and define thresholds after consulting with all stakeholders   \n  - Monitor metrics for breach of thresholds   \n  - Look for unexpected risks / unintended consequences of an AI solution over its life cycle   \n  - Assist in evaluating AI Solutions during Tollgate, Risk Assessment & Deployment Signoff process   \n  - Write technical reports for distribution and presentation to model developers, senior management, and audit   \nRequirements:  - Ph.D/Masters/Bachelors degree in a quantitative field such as Mathematics, Physics, Finance, Engineering or Statistics   \n  - 6+ years of professional experience as a Data Scientist or related roles   \n  - Hands-on experience with Statistical Modeling/Machine Learning/Deep Learning techniques is must   \n  - Should be well-versed in programming languages of R/Python/SAS and be familiar with Deep Learning Frameworks like Tensorflow/Pytorch   \n  - Sound knowledge of financial instruments and financial risk/operational risk management principles is must   \n  - Ability to understand and implement techniques discussed in AI research papers (academic and technical)   \n  - Candidates must have any of financial certifications like CFA, FRM   \n   Top 3 required IT/Technical skill-sets:  - Hands-on experience with Statistical Modeling/Machine Learning/Deep Learning techniques is must   \n  - Should be well-versed in programming languages of R/Python/SAS and be familiar with Deep Learning Frameworks like Tensorflow/Pytorch   \n  - Sound knowledge of financial instruments and financial risk/operational risk management principles is must   \n      ******REMOTE UNTIL FURTHER NOTICE*******",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-18T20:45:27.000Z"
+    },
+    "company": {
+        "name": "Mitchell Martin Inc.",
+        "link": "https://www.linkedin.com/company/mitchell-martin"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Charlotte Metro",
+        "region": null,
+        "postal_code": "28209",
+        "street_address": null,
+        "latitude": 35.225204,
+        "longitude": -80.83933
+    }
+}

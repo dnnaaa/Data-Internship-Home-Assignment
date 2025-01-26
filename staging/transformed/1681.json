@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Staffing and Recruiting",
+        "description": "NO CTC   Job DescriptionThis role with the Funding team within Corporate Treasury entails development and maintenance of data analytics and visualization tools that provide business insights, meet management reporting needs, and automate business tasks. The job involves coordination with teams within the Corporate Treasury and Technology organizations to identify business requirements, and to deliver tools that satisfy those requirements.   The developer will build data pipelines by sourcing data from various upstream systems, and housing it within a relational database, in a format that facilitates consumption by front-end tools. The data pipeline will be developed using a combination of technologies, including Python, Oracle, and AMPS. The developer will also create data analytics and visualization tools using Python, Microsoft Excel, and Tableau.   Required Skills:  - 5 years of overall development experience   \n  - 2 years building data pipelines and visualization tools   \n  - 2 years of Python, and data analytics using Pandas   \n  - 2 years of Oracle SQL development   \n  - 1 year programming Microsoft Excel VBA, charts, pivot and data tables   \nNice to have:  - Experience in R programming   \n  - Experience building Tableau visualizations   \n  - Experience with Git version control, Perl, and Linux   \n  - Familiarity with Oracle analytics, performance tuning, and administration   \nEducation:&amp;nbsp;  - At minimum a bachelors degree in Engineering, Computer/Data Science, or a quantitative discipline   \n      *****REMOTE UNTIL FURTHER NOTICE*****",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-29T18:18:53.000Z"
+    },
+    "company": {
+        "name": "Mitchell Martin Inc.",
+        "link": "https://www.linkedin.com/company/mitchell-martin"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Charlotte Metro",
+        "region": null,
+        "postal_code": "28209",
+        "street_address": null,
+        "latitude": 35.225204,
+        "longitude": -80.83933
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Sr. Software Engineer",
+        "industry": "Pharmaceuticals,Biotechnology",
+        "description": "Certara is hiring an Product Manager to support our Software Division! This position can be based out of any of our US offices, or full time remote.      At Certara, we accelerate medicines to patients by partnering with life science innovators.       Our Integrated And Proprietary End-to-end Platform With Biosimulation, Regulatory Science, And Market Access Solutions Combined With Our Strong Team Of Scientists And Subject Matter Experts Enable Our Clients To Have      In the past 6 years, over 90% of companies that received new drug approvals by the FDA used our software or services.     - informed decision-making & reduced clinical trial burden   \n  - higher R&D productivity   \n  - improved patient outcomes & increased patient access to medicines   \n  - accelerated regulatory approval      \nCertara is a global team that fosters and nurtures a diverse and inclusive culture. We are proud to be an Equal Opportunity Employer. The collective sum of our individual differences, life experiences, knowledge, innovation, self-expression, and unique capabilities and talent represents a significant part of our culture, our reputation and our achievement.      Together with our partners, we use biosimulation and technology-enabled services to transform drug discovery and development across all therapeutic areas and innovative therapies.      Responsibilities     - Participate in the definition, design, coding, testing and debugging of software platform/products/toolkits, either new or existing.   \n  - Support the implementation of new and improvements to current software development processes and technologies.   \n  - Conduct feasibility of proposed designs to determine their ability to function as intended.   \n  - Write and maintain documentation throughout all phases of software development   \n  - Contribute to software architecture design   \n  - Participate in code reviews, scrum-related meetings and standups on a daily basis   \n  - Interact with development team members (both Certara employees and contractors) on project scope, activities, timeline and risks.   \n  - Mentor and coach team members on software development best practices and standards      \nQualifications      Education, Experience, Training, and Knowledge:     - BS or MS in Computer Science or similar engineering discipline, or equivalent experience.   \n  - 10+ years of software development experience, including software analysis, design, and delivery with a focus on Microsoft technologies, including desktop, web-based, and client-server applications   \n  - 5+ years w/ Relational Database Experience   \n  - 5+ year JavaScript   \n  - 5+ year Typescript   \n  - 5+ Year Angular 5 or greater, experience with the latest Angular versions    \n  - Experience leading a team, on shore or off shore    \n  - Experience with NPM and Angular CLI in building Angular applications   \n  - Experience with Cloud Technologies   \n  - Experience with Unit Test Technologies   \n  - Understanding of SOLID Principles   \n  - Requires knowledge of and/or experience with Clean Code   \n  - Preferable knowledge of and/or experience with Test Driven Development   \n  - Must be self-thinker able to build solutions from general requirements without exacting specifications   \n  - Proven knowledge and experience in agile development methodologies, techniques, and approaches   \n  - Experience developing scientific/statistical software is preferred   \n  - Excellent experience in SDLC Methodologies, Agile, SCRUM, SDLC / Waterfall      \nSkills & Abilities  - Excellent communication skills (written and verbal)   \n  - Excellent analysis, trouble-shooting and debugging skills   \n  - Strong critical thinking, problem solving, planning and organizing, and decision-making skills   \n  - Familiarity with reporting requirements for Clinical/Pre-Clinical Pharmacology, DMPK, or Clinical/Preclinical Pharmacokinetics departments   \n  - Familiarity with various operating systems   \n  - Required:   \n  - C#   \n  - NET Core 2.0   \n  - Relational Database Experience (Oracle, MS SQL Server, MySQL, etc)   \n  - LINQ   \n  - REST   \n  - Angular 5+   \n  - Angular CLI   \n  - Typescript   \n  - Javascript   \n  - HTML, CSS, (LESS, SASS)   \n  - Karma/Jasmine   \n  - NPM   \n  - Node.js   \n  - AWS Lambda functions   \n  - Writing Unit Tests (.NET & angular or typescript)   \n  - Visual Studio   \n  - GIT (github)   \n  - Nice to have:   \n  - AWS Elastic Beanstalk   \n  - AWS RDS   \n  - AWS S3   \n  - AWS EC2   \n  - Docker (for local development)   \n  - Docker (for production role out)   \n  - Visual Studio Code   \n  - Jenkins   \n  - Powershell   \n  - SonarCube   \n  - Perforce      \nCertara bases all employment-related decision on merit, taking into consideration qualifications, skills, achievement, and performance. We treat all applicants and employees without regard to personal characteristics such as race, color, ethnicity, religion, sex, sexual orientation, age, nationality, marital status, pregnancy, physical or mental condition, genetic information, military service, or other characteristic protected by law.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-02T05:37:46.000Z"
+    },
+    "company": {
+        "name": "Certara",
+        "link": "https://www.linkedin.com/company/certara"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 120,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

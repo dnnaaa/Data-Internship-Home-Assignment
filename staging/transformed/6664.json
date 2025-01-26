@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Banking,Financial Services",
+        "description": "App Support Lead      Whippany, NJ      As a Barclays App Support Lead you will be working in the Fraud Landscape in Cards & Payments Run the Bank Team within Dedicated Services organization and will be directly accountable for providing L2 application support. You will get the opportunity to provide SME assistance to other Technology & Operations Teams, driving project engagement to onboard new changes into production and continually identify opportunities to automate and make Cards & Payments Technology estate reliable.      Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We've helped millions of individuals and businesses thrive, creating financial and digital solutions that the world now takes for granted. An important and growing presence in the USA, we offer careers providing endless opportunity.      What will you be doing?        -  Driving complex and major incidents to resolution by owning the e2e incident   \n  -  Putting together Technical Incident Post Mortem (TIPM) documents for major incidents   \n  -  Owning the problem management function and working on to reduce the open problems by implementing fixes, working with component teams   \n  -  Reviewing functional requirements, HLD, SDR and providing point of view by collaborating with the project teams   \n  -  Reviewing test strategy, test cases & test results and providing inputs   \n  -  Contributing in Operational Acceptance Testing (and Execute wherever possible) to ensure the new systems are production-ready   \n  -  Ensuring systems are built resilience-ready and collaborate with project to complete the mandatory resilience testing for each component   \n  -  Providing early life support of new projects         \nWhat We\u2019re Looking For        -  Excellent domain knowledge in banking or financial sector (within Fraud Technology) with an exposure to Agile Delivery for large scale and complex real-time systems   \n  -  Cloud Technologies such as AWS and/or RedHat OpenShift with orchestration/ automation tools such as Jenkins and Chef   \n  -  Support experience for apps written in Java/ J2EE and code-debugging skills; ability to perform analytics investigations on diagnostics thread-dumps, memory dumps   \n  -  Knowledge on monitoring tools such as AppDynamics, Kibana, Netcool, ITRS Geneos         \nSkills That Will Help You In The Role        -  Experience writing & reading Shell, PL/SQL scripts   \n  -  Experience in NoSQL based native-cloud database such as Aerospike or Cassandra   \n  -  Knowledge of enterprise RDBMS databases such as Oracle and SQL Server   \n  -  Working knowledge of Network Technologies such as Load Balancers & Firewalls         \nWhere will you be working?      At Barclays, we are proud to be redefining the future of finance and here at Whippany we are defining the future of the workplace and the future of the way we work and live. We are creating a unique community, one of four strategic tech-enabled hubs that will redefine opportunity for everyone who works here. Whatever you do at Whippany, you\u2019ll have every chance to build a world-class career in this world-class environment.      90282603",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04T17:16:40.000Z"
+    },
+    "company": {
+        "name": "Barclays",
+        "link": "https://uk.linkedin.com/company/barclays-bank"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Whippany",
+        "region": "NJ",
+        "postal_code": "07981",
+        "street_address": null,
+        "latitude": 40.824894,
+        "longitude": -74.41804
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Computer Software",
+        "description": "Artifact is looking for data scientists and NLP researchers at various skill levels to join our growing team.      Key ML Focus Areas     - Natural language processing   \n  - Natural language understanding   \n  - Knowledge Graphs and Graph Neural Networks      \nWhat You'll Be Doing  - By using massive amounts of historical and realtime qualitative data, you will help research, develop and automate models for semantic understanding, text similarities, clustering, sentiment and emotion, and expressive summarization.   \n  - One example: Build / Enhance our end-to-end solution that analyzes historical customer conversations and answers user questions as a summarized insight. Beyond answering, allow the user to facet and pivot the data while updating the summary insight dynamically.   \n  - Work with product management and design roles to understand and empathize with end customer needs.   \n  - Build end-to-end ML solutions spanning from data access (SQL) to model endpoint (API / batch service) and deploy to cloud based staging environments (Kubernetes on GCP) by collaborating with software engineers.   \n  - Collaborate with our academic partners and research new ML techniques / enhancements and publish blogs or journal / conference papers.   \n  - Open source code or software that will benefit the larger community of ML practitioners.      \nIdeal Candidate     - Has solid fundamentals in approaching and solving ML / DS problems. Think: \"data source\", \"data lineage\", \"data transformation\", \"data age and relevance\", \"model consumption\", \"post consumption action\" etc.   \n  - Leans towards action and experimentation with a priority towards rapid prototyping.   \n  - Approaches problems from a first principles mindset and question assumptions.   \n  - Has dived deep and spent a good amount of time solving \"one\" ML problem.   \n  - Is naturally curious and willing to take a step to learn something they don\u2019t have experience in.   \n  - Has experience with SQL, Python, NLTK or Spacy or other NLP libraries, PyTorch or JAX or TensorFlow. DGL and data visualization experience is a plus.      \nExperience Bonus     - Masters Degree or PhD in Computational Linguistics, Engineering, Statistics or related field   \n  - Previous experience/education in syntax, semantics and morphology   \n  - Experience with semantic understanding and summarization of short phrases across a heterogenous corpus.   \n  - Experience collaborating with software development teams, data scientists, business intelligence or other technical roles      \nCompany Benefits     - No-cost insurance premiums: We cover the cost of your medical, dental, and vision insurance premiums.   \n  - Flexible insurance options: We offer EPO, POS, FSA plans, and HDHP coverage for you to choose from. Everyone\u2019s situation is different.   \n  - 401k plan: We want you to be physically, emotionally, and financially secure.   \n  - Corporate expense card: Every employee gets a corporate expense card to use, because you\u2019re an adult. (Unless you\u2019re a child prodigy, and then we\u2019ll talk about it.)   \n  - Brand new equipment: We\u2019ll pay for your work equipment and machines.   \n  - Flexible work environment: We\u2019re a distributed company. We know schedules and environments are different for everyone. We don\u2019t hold office hours, we just trust you\u2019ll make appropriate agreements with your team.   \n  - Monthly activity: Expense up to $100 each month on activities (dinner, movie, skiing, boating, golfing, etc.)   \n  - Office snack: Expense up to $25 each month on snacks for your home office.   \n  - Library card: Expense your Audible Premium membership or spend up to $15 each month on books.   \n  - Cell phone reimbursement: Expense up to $100 each month on your phone bill.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T05:16:41.000Z"
+    },
+    "company": {
+        "name": "Artifact",
+        "link": "https://www.linkedin.com/company/artifact-insights"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Utah",
+        "region": "United States",
+        "postal_code": "84655",
+        "street_address": null,
+        "latitude": 39.323776,
+        "longitude": -111.67822
+    }
+}

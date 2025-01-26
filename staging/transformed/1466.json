@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Computer Software",
+        "description": "Automation Engineer / Original Machine Learning Engineer      Fort Collins, Colorado, USA, 80528      Location: Fort Collins, CO      Duration: 6 Months             Required Skills           - 7+ years of professional work experience optimizing DL/ML models for commercial deployment   \n  - 7+ years of bench-marking, testing, and debugging models for most efficient performance on x86 CPU and Nvidia GPU architectures   \n  - Hands-on experience using scripting languages such as Python, C/C++   \n  - Familiarity with hardware architectures beyond CPU and GPU (e.g., TPU, VPU, FPGA, etc.)   \n  - Experience with most popular Deep Learning frameworks (e.g., PyTorch, TensorFlow, etc.) and Machine Learning Techniques   \n  - Proven track record of successful implementation and deployment of DL/ML models at scale   \n  - Familiarity with general test automation for complex systems in public/private cloud   \n      TPU, VPU, FPGA,PyTorch, TensorFlow,GPU architectures, Python, C/C++,DL/ML models,x86 CPU",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-25T16:54:58.000Z"
+    },
+    "company": {
+        "name": "Collabera Inc.",
+        "link": "https://www.linkedin.com/company/collabera"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 84,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Fort Collins",
+        "region": "CO",
+        "postal_code": "80521",
+        "street_address": null,
+        "latitude": 40.58897,
+        "longitude": -105.08246
+    }
+}

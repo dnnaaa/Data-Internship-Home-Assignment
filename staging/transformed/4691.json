@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Developer",
+        "industry": "Construction,Food &amp; Beverages,Transportation/Trucking/Railroad",
+        "description": "Position Summary      The Programmer/Analyst will be responsible for web application development in VB.Net or C# and experience writing queries in a relational database. This position will assist a small team of developers in coding and modifying custom business applications and reports.      Position Responsibilities May Include, But Not Limited To     - Design, develop and implement business applications using current technologies.   \n  - Develop design documents such as technical specifications, functional requirements, object modules, system test plans, technical and user documentation.   \n  - Ensure successful completion of projects.    \n  - Provide support to maintain existing Intranet, Extranet and Internet sites and applications   \n  - Document process flows.   \n  - Participate in team code reviews.   \n  - Develop small to medium scale applications with low complexity.   \n  - Other projects or duties as assigned.      \nQualifications     -  Associate\u2019s degree in Information Systems, Management Information System, Computer Science with at least 6 months of work experience or course work in software development.   \n  -  Exposure to JavaScript and HTML   \n  -  Exposure to development language such as .NET or Java   \n  -  Exposure to database design   \n  -  Exposure to multi-tier development, process flows, use cases, UML   \n  -  Strong debugging skills   \n  -  Understanding of Object Orientated Principles   \n  -  Exposure to SDLC (Software Development Life Cycle) principles   \n  -  Ability to set and meet deadlines on projects   \n  -  The ability to communicate effectively through written and verbal communication, including strong presentation skills and the ability to communicate technical \u2018speak\u2019 to a non-technical audience   \n  -  Desire to pursue career in Application Development   \n  -  Ability to self-teach new IT technologies   \n  -  This position must pass a post-offer background and drug test.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T00:06:23.000Z"
+    },
+    "company": {
+        "name": "Performance Foodservice",
+        "link": "https://www.linkedin.com/company/performance-foodservice"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 6,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "La Crosse",
+        "region": "WI",
+        "postal_code": "54602",
+        "street_address": null,
+        "latitude": 43.808765,
+        "longitude": -91.25186
+    }
+}

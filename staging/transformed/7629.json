@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Mid Software Engineer (Java backend/React)  ",
+        "industry": "Information Technology and Services,Consumer Services",
+        "description": "- looking to bring on 2 full stack engineers to help build their inventory service   \n  - More into back-end focused using Java 11-14 (bonus if they are willing to learn Golang)   \n  - Front end experience with preferably React.js is ideal; secondary would be Angular/Vue.js   \n  - Wanted folks w/public cloud experience in a production setting (Azure preferred, AWS).",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-10-05T17:48:58.000Z"
+    },
+    "company": {
+        "name": "Zemantics Inc.",
+        "link": "https://www.linkedin.com/company/zemantics-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

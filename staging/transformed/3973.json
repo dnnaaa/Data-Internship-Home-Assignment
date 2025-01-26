@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer - Golang",
+        "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+        "description": "We are looking for a dedicated, hard-working Sr. Software Engineer with expertise in Golang to complement our existing engineering staff. This position can be based out of our Lake Mary, FL location, or remote.       We are a group that is passionate about making the Internet a safer place by helping identify the \u201cwho\u201d behind malicious activity. As a Software Engineer at Team Cymru, you will be at the forefront of threat intelligence and surrounded by highly experienced professionals in the field of Internet Security.      The right individual will share our passion and Mission to Save and Improve Human Lives by making the Internet safer. Team Cymru is THE LEADER in Internet intelligence providing unparalleled global coverage and insight to better monitor, analyze, and predict online activity.      The skills you need        - 5+ years&amp;rsquo; experience in enterprise software engineering   \n  - 5+ years&amp;rsquo; experience with Linux   \n  - 1+ years&amp;rsquo; experience with Golang   \n  - 1+ years&amp;rsquo; experience writing and using automated tests   \n  - 1+ years&amp;rsquo; experience as a team lead, leading 3+ other engineers   \n  - Experience with Agile Software Development methodologies   \n  - Experience creating highly concurrent systems   \n  - Deep understanding of fundamental Internet concepts   \n  - Ability to work effectively with various technical and non-technical departments   \n  - Ability to work effectively with geographically distributed teams   \n  - Ability to create and maintain SQL Database schemas   \n  - Ability to assess and improve SQL Query performance   \n  - Ability to use git for version control and code maintenance   \nThe attitude you need        - Passion for Software Development   \n  - Not afraid of asking questions   \n  - Enjoy learning and overcoming challenges    \n  - Place high value on collaboration and team success    \n  - Communication: early and often   \nYour day-to-day will involve        - Writing code   \n  - Planning development cycles for team   \n  - Distilling concrete requirements from higher level strategic goals   \n  - Guiding and tasking the team to meet deliverables   \n  - Providing technical mentorship   \n  - Tracking deliverables and coordinating with various teams and stakeholders   \n  - Performing code reviews with the team   \nTechnologies you will be working with        - Golang   \n  - CentOS   \n  - PostgreSQL   \n  - ElasticSearch   \n  - Kafka   \n  - Kubernetes   \n  - Scala   \n  - Min.io   \n  - Ansible   \n  - Jenkins   \n  - Atlassian stack: JIRA, Confluence, Bitbucket   \nWhat We Offer        - Competitive pay   \n  - Medical, Dental, Vision Insurance   \n  - Substantial PTO   \n  - Company-matched 401(k) plan   \nThe most important benefit of working at Team Cymru is the privilege of being part of a company that works every day towards accomplishing our Mission: To Save and Improve Human Lives.               This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee. Duties, responsibilities and activities may change, or new ones may be assigned at any time with or without notice.       Team Cymru is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T07:31:39.000Z"
+    },
+    "company": {
+        "name": "Team Cymru",
+        "link": "https://www.linkedin.com/company/team-cymru"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Lake Mary",
+        "region": "FL",
+        "postal_code": "32795",
+        "street_address": null,
+        "latitude": 28.759052,
+        "longitude": -81.31781
+    }
+}

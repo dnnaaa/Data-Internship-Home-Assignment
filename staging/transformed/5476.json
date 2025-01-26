@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer c# .Net (with Azure)",
+        "industry": "Information Technology and Services,Computer Software",
+        "description": "Project Description:   Tax and Accounting group within the client. The mission of this engagement is to improve reliability, availability and performance of the flagship produce - CCH Axcess.Axcess is a product suite made out of number of products that serve the accounting clients. The clients of company that use this product are the accountants and accounting firms.   Responsibilities:     - - Perform analysis and Design, transform high-level design into low-level design, and implementation.   \n  - - To collaborate with an agile team that is passionate about utilizing emerging technologies and delivering high quality and timely code.   \n  - - Good understanding and experience following design patterns, test-driven development and continuous integration practices   \n  - - Build automated, scalable services and systems to power our growing Azure cloud infrastructure   \n  - - Software prototyping and construction - Design, Build, and Modify existing business tier components, Web applications, and database objects using Microsoft platform technologies (.NET Web API) and Azure.   \n  - - Work with Quality Assurance Team on issue reporting, resolution, and change control   \n  - - Support and Troubleshooting - Assist Operations Team with any environment issues during application deployment across Development, QA, Staging, and Production environments.   \n  - - Assist other cross teams with troubleshooting problems that may arise from applications or integration of various components.   \n   Skills Description:  - C# .Net, ASP .Net, TFS, Git, Cloud Experience (Azure, GCP, AWS), Solid experience building REST APIs",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-24T01:28:06.000Z"
+    },
+    "company": {
+        "name": "Luxoft",
+        "link": "https://ch.linkedin.com/company/luxoft"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

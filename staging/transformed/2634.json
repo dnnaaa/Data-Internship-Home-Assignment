@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Company Description      About us, but we\u2019ll be brief      We are thrilled to share that FORTUNE has named Experian one of the 100 Best Companies to Work For. In addition, for the last five years we\u2019ve been name in the top 100 \u201cWorld\u2019s Most Innovative Companies\u201d by Forbes Magazine.      Experian Consumer Services \u2013 Careers That Define \u201cWhat\u2019s the Next Big (Data) Thing\u201d for Consumers?      What could be more exciting \u2013 personally and professionally \u2013 than being part of a \u201cdisruptive\u201d business? Consider taking your career to the next level by joining the Leader that continues to disrupt the competition. As the \u201cdisruptor\u201d and market leader we pride ourselves on building new markets, leading the pack through continuous evolution and innovation. It\u2019s a position Experian Consumer Services has enjoyed for more than a decade and we\u2019re always looking for the talent that can help expand that lead.      When you\u2019re the leader, it\u2019s always urgent, important and market-changing. We think that defines the true \u201cdisruptive\u201d business. Join us and create some chaos for the competition.      Job Description      What you\u2019ll be doing     - Partner with various departments (e.g. Product, Engineering, etc.) to frame problems, both mathematically and within the business context   \n  - Partner with Product and Engineering teams to bring models to production and support their ongoing operation and troubleshooting   \n  - Debug, maintain, tune, and improve model behavior and performance with live data   \n  - Oversee and facilitate the training of a range of Machine Learning models   \n  - Evaluate the quality of the trained models, using existing and new measures   \n  - Report on the current and historical state of our models\u2019 performance, along with issues and progress   \n  - Incident resolution: Low accuracy troubleshooting, mis-categorization issue analysis   \n  - Maintenance and improvement of the existing model development pipeline   \n  - Produce ad-hoc analysis/investigations on the modelling pipeline   \n  - Document parts of the modeling/testing process   \n  - Support development, enhancement, and maintenance of training datasets      \nQualifications      What your background looks like     - At least 1 year on the job experience with Text Analytics and NLP (natural language processing) techniques and sparse data   \n  - Advanced degree in economics, statistics, physics, math, or another quantitative field   \n  - Strong business acumen with ability to clearly articulate research goals and results to technical and business audiences   \n  - Strong grasp of probability, statistical inference, optimization algorithms, linear algebra, and calculus.   \n  - Understanding of how and when to apply different Machine Learning algorithms   \n  - Ability to write production-level code in Python or other languages, as well as proficiency with SQL   \n  - Strong grasp of Pandas, NumPy, SciPy and Scikit-Learn Python packages, as well as other analytics packages in Python, or Spark   \n  - Demonstrable analytical and problem-solving abilities, coupled with an enquiring mind and the ability to learn quickly   \n  - Experience or familiarity designing and running both simulated and live experiments (A/B and multivariate tests) to drive KPI improvemen   \n  - Experience or familiarity building supervised and unsupervised models using statistical or machine learning approaches   \n  - Ability to creatively problem-solve, and to thrive in a highly collaborative, multidisciplinary environment   \n  - Measure and optimize products and business processes; to identify opportunities, assess risk potentials and explain trends; to drive audience and revenue growth   \n  - Holistic and end to end approach to data, including querying, aggregation, deep analysis, visualization and models; communicate and present findings/actionable insights to audiences at varying levels of technical sophistication   \n  - Assist in data requirements gathering and data validations to improve data platforms   \n  - Flexible and adaptable to learn and understand new technologies   \n  - Efficiently manage his/her own project queue and develop streamlined workflows      \nAdditional Preferred Experience     - Prior professional experience in the financial industry   \n  - Ph.D. in economics, statistics, physics, math, or another quantitative field   \n  - Ability to initiate and drive projects from ideation to implementation   \n  - Prior professional experience building deep-learning models and familiarity with the popular frameworks (TensorFlow or PyTorch is a huge bonus)   \n  - Experience with deep learning and other advanced modeling approaches to extract and automate insights from data   \n  - Understanding of current trends in machine learning interpretability and transparency      \nExperian is proud to be an Equal Opportunity and Affirmative Action employer. Our goal is to create a thriving, inclusive and diverse team where people love their work and love working together. We believe that diversity, equity and inclusion is essential to our purpose of creating a better tomorrow. We value the uniqueness of every individual and want you to bring your whole, authentic self to work. For us, this is The Power of YOU and it ensures that we live what we believe.      Additional Information      All your information will be kept confidential according to EEO guidelines.      Experian is proud to be an Equal Opportunity and Affirmative Action employer. Our goal is to create a thriving, inclusive and diverse team where people love their work and love working together. We believe that diversity, equity and inclusion is essential to our purpose of creating a better tomorrow. We value the uniqueness of every individual and want you to bring your whole, authentic self to work. For us, this is The Power of YOU and it ensures that we live what we believe.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-05T11:57:51.000Z"
+    },
+    "company": {
+        "name": "Experian",
+        "link": "https://www.linkedin.com/company/experian"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Costa Mesa",
+        "region": "CA",
+        "postal_code": "92626",
+        "street_address": null,
+        "latitude": 33.663857,
+        "longitude": -117.90476
+    }
+}

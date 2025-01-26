@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "The Role      Cedar is a patient payment and engagement platform that elevates the total patient experience beyond clinical care. The platform leverages data science and technology to deliver modern intelligence to health providers and payers, and simplify the healthcare experience for patients.      Cedar is growing rapidly and data is at the core of everything we do! We build analytics for our clients and our teams to inform the product development process. We tell stories about all aspects of the patient journey and use quantitative analyses to explain patient behavior. We run experiments to test our various hypotheses and iterate using our results. We build models to drive better decision-making, both within our organization and for our clients in the healthcare industry.      As the scale of the data that we collect has grown, we are looking for a Data Scientist with a passion for tool development to join our Data Science Team! This role will be central in our efforts in scaling our data science tooling to support our organizations growth. This is a great opportunity to work in a non-siloed, collaborative meritocracy on challenging problems with other scientists and engineers.     -  Cedar is committed to a flexible work environment, so this as well as many of our roles are remote friendly.      \nResponsibilities     - Building and optimizing the process of deploying scalable and reusable statistical data science libraries to support experiments, machine learning models and product analyses.   \n  - Collaborate with data engineers in building tools to standardize and streamline analysis, and designing and deploying new experimentation, data science and machine learning pipelines.   \n  - Collaborate with the platform team to deploy new tooling to support the ongoing data science efforts.      \nSkills And Experience     - 2+ years experience as a data scientist.   \n  - 2+ years experience of software engineering best practices.   \n  - Experience working with relational databases, such as PostgreSQL, or MySQL   \n  - Experience with Python and ORM tools such as SQL Alchemy   \n  - Sound knowledge of statistical algorithm implementations.   \n  - Demonstrates a passion for breaking down and understanding complex systems.   \n  - A great teammate with excellent communication and listening skills.   \n  - Ability to thrive in an entrepreneurial environment, comfortable with ambiguity   \n  - Strong computer science fundamentals   \n  - Encompass Cedar\u2019s core values: mission driven, no mediocrity, use good judgement, and growth mindset.   \n  - Excited about Cedar\u2019s mission of improving the healthcare financial experience   \n  - Eligible to work in the United States      \nPrefered Skills And Experiences     - Experience with AWS data services/tools such as Sagemaker, Redshift, S3, Athena, Glue is preferred.      \nWhat do we offer to the ideal candidate?     - An opportunity to work on a platform that is scaling very rapidly, engaging with millions of patients per year and growing at a rate of 360% YoY as of January 2021   \n  - A chance to join a high-growth company at an early stage   \n  - The ability to impact the growth of our company, we value all comments and suggestions   \n  - Transparency across teams and interaction with multiple departments   \n  - Competitive pay, employer-paid healthcare, stock options      \nApplicants must be currently authorized to work in the United States on a full-time basis. Cedar will not hire any applicants for Data Scientist position who are present in the United States on an F-1",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Cedar",
+        "link": "https://www.linkedin.com/company/cedar-inc."
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

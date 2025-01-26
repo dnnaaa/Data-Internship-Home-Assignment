@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "LooperRoom Inc. is looking to hire a Software Engineer with experience in app. development. Our quest is to become the leading resource for overall mental wellness. As a Machine Learning AI Software Engineer with LooperRoom, you will be uniquely positioned to contribute to our mission to provide individuals who can benefit from mental health but may not currently utilize mental health services.   Here's what you will do: Develop and perform research to advance AI state-of-the-art. Communicate with internal and external partners on R&D project details, goals, and outcomes. Engage in team collaborations to meet goals.   Here's what we'd like to see in you:Bachelor's degree in Computer Science or related technical field or equivalent practical experience.   -  Experience with Mobile App Development (Android/IOS).   \n  -  Knowledge of Rest API, GraphQL, Websocket, JavaScript, NodeJS, Visual Studio Code, React     Native, Android Studio, Expo Go.   \n  - Python, Clojure, NLP, Machine Learning, Deep Learning.   \n  -  Google Firebase, MS Azure.   \n  -  Experience or knowledge with databases.   \n  -  Experience in developing a chatbot (optional).   \n  - Software engineering experience in design, coding, testing, deployment, and support.   \n   Bonus:     - 2 years of work or educational experience in Machine Learning or Artificial Intelligence.    \n  - 1 year of relevant work experience, including software development.   \n  - Prior work with Natural Language Processing, text understanding, classification, pattern recognition, recommendation systems, targeting systems, ranking systems or similar.    \n  - Someone that can quickly prototype new ideas/technologies to create proof of concept and demos.   \n  - Knowledge of cognitive computing technology such as ontology.   \n  - Good understanding of Machine Learning such as regression, classification, and Deep Learning techniques (CNN, RNN/LSTM).   \n  - Natural Language Processing (NLP) experience (Text Preprocessing, Language Model, BoW, TF-IDF, Word Embedding).   \n  - Experience with NLP Preprocessing techniques (BERT, Reformer, GPT2(Generative Pre-Training), GLUE (General Language Understanding Evaluation)    \n  - Experience in NLTK, TensorFlow with NLP.   \n   Culture fit:   Motivated: On a quest to be the best? We work best with people who are driven and resourceful. Are you the sort of person that will independently find interesting and useful things to do?    Innovative: We\u2019re a creative group introducing new ideas, are you open to learning?   Nurturing: We embrace diversity that everyone brings to the table. we believe in the \u201cwhole self\u201d approach to inspire creativity and shape innovation.    Dedicated: We\u2019re committed to making a positive impact on those we meet. We inspire to provide a rewarding, supportive, and exciting experience for all. Are you ready for a new adventure?",
+        "employment_type": "TEMPORARY",
+        "date_posted": "2021-07-30T00:26:45.000Z"
+    },
+    "company": {
+        "name": "LooperRoom, Inc.",
+        "link": "https://www.linkedin.com/company/looperroom-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Newport Beach",
+        "region": "CA",
+        "postal_code": "92661",
+        "street_address": null,
+        "latitude": 33.60877,
+        "longitude": -117.87336
+    }
+}

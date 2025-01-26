@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "",
+        "description": "We are looking for a hardworking, innovative, and goal driven Senior Software Engineer to join our Enterprise Information Management team for a new HTML & Angular project. The ideal candidate will have excellent front-end and Angular development skills, including developing new user interfaces from scratch. Candidates should possess complementary skills on the back-end API and database layers.   Remote candidates are acceptable, with a preference for local candidates in the Las Vegas or Henderson, NV area.      Responsibilities:\u2022\tDevelop quality Enterprise Information Management software utilizing Microsoft software development languages and tools.\u2022\tCreate software designs for enhancements or features based on best practices.\u2022\tParticipates in code and design reviews. Makes updates based on review recommendations.\u2022\tKeeps current on latest Microsoft development products.\u2022\tProvide support and maintenance on existing applications with the assistance of more experienced engineers as needed.\u2022\tDocuments and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code with the assistance of more experienced engineers as needed.\u2022\tDemonstrate code quality through proper unit and other testing.\u2022\tBreak down user stories into component tasks and provide estimates with the assistance of more experienced engineers as needed.\u2022\tWork in a collaborative development environment with a team of developers.      The above statements are intended only to describe the general nature of the job, and should not be construed as an all-inclusive list of position responsibilities.   Requirements:\u2022\tPrevious Software Engineering experience (6+ years).\u2022\tFront End Development  o HTML5 (5+ years). o CSS3 (5+ years). o Angular 6+ (4+ years).\u2022\tBack End Development  o .Net/.Net Core/C#/EF/MSSQL experience (5+ years). o C# (5+ years). o ASP.NET (5+ years). o SQL Server 2008/12/16+ (6+ years).\u2022\tVisual Studio 2015+ / Visual Studio Code (5+ years).\u2022\tObject Oriented Programming (OOP) and software patterns.\u2022\tBasic understanding of agile software development principles and techniques. Understand iterative software development.\u2022\tBasic understanding of the software development lifecycle and multiple software development approaches.\u2022\tDesire to be part of a highly productive, fast-paced team.\u2022\tFour-year college degree or equivalent. \u2022\tOrganized and detail-oriented.\u2022\tWorking knowledge of Git version control system.\u2022\tExperience working on a Scrum team      Preferred:\u2022\tKnowledge of third-party JavaScript libraries (RxJS, Ngrx, Angular Material, etc)\u2022\tKnowledge of credit union and/or banking industry.   The above statements are intended only to describe the general nature of the job, and should not be construed as an all-inclusive list of position responsibilities.   Employee Polygraph Protection ActEqual Employment Opportunity Family and Medical Leave Act   Alogent is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-14T17:08:53.000Z"
+    },
+    "company": {
+        "name": "Alogent",
+        "link": "https://www.linkedin.com/company/alogent-corp"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 72,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

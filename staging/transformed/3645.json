@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Defense &amp; Space,Aviation &amp; Aerospace,Military",
+        "description": "Overview      Why is MTSI known as a Great Place to Work?  - Interesting Work: Our co-workers support some of the most important and critical programs to our national defense and security.    \n  - Values: Our first core value is that employees come first. We challenge our co-workers to provide the highest level of support and service, and reward them with some of the best benefits in the industry.    \n  - 100% Employee Ownership: we have a stake in each other's success, and the success of our customers. It's also nice to know what's going on across the company; we have company wide town-hall meetings three times a year.    \n  - Great Benefits:    \n  - 20 days PTO/year + 10 holidays/year   \n  - Flexible schedules   \n  - 6% 401k match with immediate vesting   \n  - Semi-annual bonus eligibility (July and December)   \n  - Company funded Employee Stock Ownership Plan (ESOP) - a separate qualified retirement account   \n  - Up to $10,000 in annual tuition reimbursement   \n  - Optional zero deductible Blue Cross/Blue Shield health insurance plan   \n  - Track Record of Success: We have grown every year since our founding in 1993      \nFor additional company information, please visit: www.mtsi-va.com      Modern Technology Solutions, Inc. from MTSI on Vimeo.      Responsibilities     - Maintain Development LAN services including Confluence, Jira, GitLab, and Artifactory   \n  - Manage user accounts across Linux-based DevLAN   \n  - Maintain, update, and secure services running on DevLAN   \n  - Create scripts to assist with system/network administration   \n  - Ensure periodic backups are being performed correctly   \n  - Enforce network security practices   \n  - Perform periodic updates to Linux distro   \n  - Maintain network and switch security   \n  - Manage lab resources across multiple different projects and changing priorities   \n  - Work with developers to ensure clear tasking to achieve project goals   \n  - Ensure approved RMF procedures are being complied with   \n  - This position will require overnight travel up to 10 percent of the time. Trip durations may range from overnight to several weeks.      \nQualifications     - Associates degree   \n  - 5+ years' experience in Linux system and network administration   \n  - Strong planning and organizational skills   \n  - Scripting using Bash, Python, etc.   \n  - Ability to manage GitLab, Confluence, Jira, and Artifactory   \n  - Experience with Git repositories and GitLab   \n  - Experience with Docker, Docker compose, and Docker registries   \n  - Strong background in networking to include configuration of switch/router port security and VLANs   \n  - Demonstrated ability to understand enterprise level systems   \n  - Demonstrated ability to shift from one project to another in an dynamic work environment   \n  - Top Secret / SCI. Clearance must be at least 1 year away from next 5 year update.      \nDesired Experience     - Bachelor\u2019s degree   \n  - 10+ years\u2019 experience in Linux system and network administration   \n  - Strong problem-solving skills   \n  - Competence in software system design   \n  - Familiarity with SQL and database design   \n  - Familiarity with Nginx and proxies   \n  - Familiarity with infrastructure-as-code (IaC) tools (e.g. Ansible)   \n  - Management of Virtual Machines, VM Ware, and Virtual Box   \n  - Familiarity with RMF compliance processes and implementation   \n  - Strong motivation to expand knowledge and skills   \n  - Ability to approach classical problems with new ideas and innovation",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T06:03:19.000Z"
+    },
+    "company": {
+        "name": "Modern Technology Solutions, Inc. (MTSI)",
+        "link": "https://www.linkedin.com/company/mtsi"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 120,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Colorado Springs",
+        "region": "CO",
+        "postal_code": "80908",
+        "street_address": null,
+        "latitude": 38.835224,
+        "longitude": -104.8198
+    }
+}

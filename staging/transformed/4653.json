@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Cloud Data Engineer (AWS, Azure, GCP)",
+        "industry": "Accounting,Information Technology and Services,Management Consulting",
+        "description": "Are you an experienced, passionate pioneer in technology - a solutions builder, a roll-up-your-sleeves technologist who wants a daily collaborative environment, think-tank feel and share new ideas with your colleagues - without the extensive demands of travel? If so, consider an opportunity with our US Delivery Center - we are breaking the mold of a typical Delivery Center.      Our US Delivery Centers have been growing since 2014 with significant, continued growth on the horizon. Interested? Read more about our opportunity below ...      Work You'll Do/Responsibilities     -  Work with the team to evaluate business needs and priorities, liaise with key business partners and address team needs related to data systems and management.    \n  -  Translate business requirements into technical specifications; establish and define details, definitions, and requirements of applications, components and enhancements.    \n  -  Participate in project planning; identifying milestones, deliverables and resource requirements; tracks activities and task execution.    \n  -  Generate design, development, test plans, detailed functional specifications documents, user interface design, and process flow charts for execution of programming.    \n  -  Develop data pipelines / APIs using Python, SQL, potentially Spark and AWS, Azure or GCP Methods.    \n  -  Use an analytical, data-driven approach to drive a deep understanding of fast changing business.    \n  -  Build large-scale batch and real-time data pipelines with data processing frameworks in AWS, Azure or GCP cloud platform.       \n The Team       From our centers, we work with Deloitte consultants to design, develop and build solutions to help clients reimagine, reshape and rewire the competitive fabric of entire industries. Our centers house a multitude of specialists, ranging from systems designers, architects and integrators, to creative digital experts, to cyber risk and human capital professionals. All work together on diverse projects from advanced preconfigured solutions and methodologies, to brand-building and campaign management.      We are a unique blend of skills and experiences, yet we underline the value of each individual, providing customized career paths, fostering innovation and knowledge development with a focus on quality. The US Delivery Center supports a collaborative team culture where we work and live close to home with limited travel.      Required       Qualifications   -  3+ years of experience in data engineering with an emphasis on data analytics and reporting.    \n  -  3+ years of experience with at least one of the following cloud platforms: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), others.    \n  -  3+ years of experience in SQL, data transformations, statistical analysis, and troubleshooting across more than one Database Platform (Cassandra, MySQL, Snowflake, PostgreSQL, Redshift, Azure SQL Warehouse, etc.).    \n  -  3+ years of experience in the design and build of data extraction, transformation, and loading processes by writing custom data pipelines.    \n  -  3+ years of experience with one or more of the follow scripting languages: Python, SQL, Kafka and/or other.    \n  -  3+ years of experience designing and building solutions utilizing various Cloud services such as EC2, S3, EMR, Kinesis, RDS, Redshift/Spectrum, Lambda, Glue, Athena, API gateway, etc.    \n  -  Bachelor's degree or equivalent work experience.    \n  -  Travel up to 20% (While 20% of travel is a requirement of the role, due to COVID-19, non-essential travel has been suspended until further notice).    \n  -  Must live a commutable distance, or relocate, to one of the following cities: Atlanta, GA; Austin, TX; Charlotte, NC; Cincinnati, OH; Cleveland, OH; Detroit, MI; Gilbert, AZ; Indianapolis, IN; Kansas City, MO; Lake Mary, FL; Mechanicsburg, PA; Miami, FL; Nashville, TN; Phoenix, AZ; Pittsburgh, PA; St. Louis, MO; Tallahassee, FL; Tampa, FL    \n  -  Must be willing to live and work in one of our Center locations:   \n  -  Lake Mary, FL (Orlando area)    \n  -  Mechanicsburg, PA (Harrisburg area)    \n  -  Gilbert, AZ (Phoenix area)    \n  -  Limited immigration sponsorship may be available       \nPreferred     -  AWS, Azure and/or Google Cloud Platform Certification.    \n  -  Master's degree or higher.    \n  -  Expertise in one or more programming languages, preferably Scala, PySpark and/or Python.    \n  -  Experience working with either a Map Reduce or an MPP system on any size/scale.    \n  -  Experience working with agile development methodologies such as Sprint and Scrum.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T00:00:49.000Z"
+    },
+    "company": {
+        "name": "Deloitte",
+        "link": "https://www.linkedin.com/company/deloitte"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Miami",
+        "region": "FL",
+        "postal_code": "33299",
+        "street_address": null,
+        "latitude": 25.775084,
+        "longitude": -80.1947
+    }
+}

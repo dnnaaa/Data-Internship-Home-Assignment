@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning research Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "ML Research EngineerAccount Name: Generally IntelligentLOCATION: San Francisco, CA, US&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;   Full TimeABOUT the roleIn this role you\u2019ll work with our researchers to do cutting-edge deep learning research\u2014conducting experiments, creating infrastructure, and developing tooling & visualizations\u2014with the goal of developing more human-like machine intelligence.Example projects  - Implement a self-supervised network using contrastive and reconstruction losses.   \n  - Create a library on top of PyTorch to enable efficient network architecture search.   \n  - Implement networks from newly published papers.   \n  - Run massively parallel experiments to understand all variants of an architecture.   \n  - Develop more realistic simulations for training our agents.   \n  - Create visualizations to help us deeply understand what our networks learn and why.   \nBenefits:  - Work directly on creating software with human-like intelligence.   \n  - Generous compensation, equity, and benefits.   \n  - $20K+ yearly budget for self-improvement: coaching, courses, conferences, etc.   \n  - Actively co-create and participate in a positive, intentional team culture.   \n  - Spend time learning, reading papers, and deeply understanding prior work.   \n  - Frequent team events, dinners, off-sites, and hanging out.   \nABOUT you  - Passionate about understanding the fundamentals of intelligence.   \n  - Very comfortable writing Python.   \n  - Excited to be a world-class ML engineer.   \n  - A fan of pair programming.   \n  - Passionate about engineering best practices.   \n&amp;nbsp;&amp;nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T20:41:15.000Z"
+    },
+    "company": {
+        "name": "Jabient Inc",
+        "link": "https://www.linkedin.com/company/jabientinc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

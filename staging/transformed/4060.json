@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer II",
+        "industry": "Electrical/Electronic Manufacturing,Logistics and Supply Chain,Machinery",
+        "description": "In this role, you should have excellent problem-solving skills and thorough knowledge of Android Device Architecture. Communication and documentation are key to this role as you will be working directly with the architecture and management teams.     - Understanding of Android Device Architecture. Focused on Kernel, HAL, Debug   \n  - Read requirements predominantly related to Hardware peripherals, Integrate, provide HAL interface to Application   \n  - We expect at least 50-60% of tasks will be related to coding   \n  - Previous knowledge on any device development is a plus      \nPreferred Education     - Bachelor's Degree required or equivalent experience   \n  - Minimum of 5+ years of experience      \nKey Skills And Competencies     - Device Driver and Hardware Abstraction Layer development   \n  - Knowledge of Linux Kernel, Bootloaders   \n  - Hands on Experience in development using any one of the languages C,C++, JAVA   \n  - Excellent communication skills   \n  - Experience with Android Development   \n  - Demonstrated technical experience   \n  - Demonstrated experience working independently and collaboratively on projects   \n  - Demonstrated experience trouble shooting   \n  - Broad knowledge of applicable IT systems/applications   \n  - Experience developing new systems and tools   \n  - Experience in documenting and maintaining up to date systems procedures   \n  - Advanced analytical skills",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-17T23:18:35.000Z"
+    },
+    "company": {
+        "name": "Zebra Technologies",
+        "link": "https://www.linkedin.com/company/zebra-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Miramar",
+        "region": "FL",
+        "postal_code": "33004",
+        "street_address": null,
+        "latitude": 25.97377,
+        "longitude": -80.323616
+    }
+}

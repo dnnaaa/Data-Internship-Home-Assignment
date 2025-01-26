@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Member of Technical Staff - DevOps and Site Reliability Engineer (SRE)",
+        "industry": "Information Technology and Services,Computer Software,Financial Services",
+        "description": "Job Description       DevOps and Site Reliability Engineer (SRE) - Oracle SAAS Infrastructure Services Team       Oracle is a leader in enterprise cloud applications powering many of the world\u2019s largest organizations, and we\u2019re in the process of revolutionizing our application user experiences with our new Redwood user interface components and enterprise-scale backend services . We are on a quest to provide the most productive platform with extremely fast, secure, and extensible REST services to back these user experiences. Our goal is to create a universal services and transaction service s that is metadata-oriented and is simple to uptake, test, debug, and monitor. These services must be highly scalable and dynamic to meet the varying work loads for our customers.      We have many large scale customers who are ready to work with you on this fabulous journey. We\u2019re looking for talented DevOps/SRE engineers to build, deploy and monitor the service on Oracle Cloud. If you have experience as a DevOps engineer supporting CI/CD, rollout, patching, monitoring enterprise scalable micro services using cloud native infrastructure please contact us right away.      What You'll Do     -  Bringing in the right \u201cDevOps\u201d mindset among the teams developing software, conducting training on tools and processes that makes software development and testing easier.    \n  -  Participate in the entire software Lifecycle \u2013 development, testing, CI and production operations of critical cloud native microservices    \n  -  Automate release and deployment process from development to production rollout following CI/CD process using standard DevOps toolset    \n  -  Solve complex problems related to infrastructure cloud services and build automation to prevent problem recurrence.    \n  -  Take ownership of maintaining and managing the environments. Maintain separation between Dev, UAT, stage and production environments.    \n  -  Monitoring, orchestration, and configuration management experience in cloud infrastructure    \n  -  Serve as part of a 24x7 On Call rotation in support of the SAAS Infrastructure Service Suite with the engineering team    \n  -  Act as ultimate escalation point for complex or critical issues that have not yet been documented as Standard Operating Procedures (SOPs).    \n  -  Work with customers and ISVs and service developers to troubleshoot issues in production systems.    \n  -  Mentor new employees and constantly improve the process of knowledge sharing across the team       \nRequired Knowledge And Skills     -  B.S., M.S. in Computer Science, Electrical Engineering with 2-3 years of professional experience in Cloud Infrastructure and Cloud Solutions    \n  -  Professional work experience working on complex applications/services with DevOps Experience.    \n  -  Strong knowledge of Linux/UNIX Shell scripting, package management etc    \n  -  Hands on experience working with standard DevOps tools Kubernetes, Docker, Istio, Grafana, Helm Charts, Terrafarm    \n  -  Experience with Build A utomation tools like Maven, ANT, Gradle, Jenkins and bug tracking tools like JIRA    \n  -  Source control tools like Git, GitHub, SVN or equivalent    \n  -  Container administration and development utilizing Kubernetes, Docker, Mesos, or similar    \n  -  Excellent Java development experience (JDK 9 or above)    \n  -  Knowledge of Monitoring technologies (Enterprise Manager, Thousand Eyes, Prometheus) will be an advantage.    \n  -  Teamwork is key here. We are looking for developers who believe in the value of cross team collaboration.    \n  -  Excellent oral and written communication skills.    \n  -  Self motivated to continuously learn and improve.       \nDesign, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.      As a member of the software engineering division, you will apply basic to intermediate knowledge of software architecture to perform software development tasks associated with developing, debugging or designing software applications or operating systems according to provided design specifications. Build enhancements within an existing software architecture and occasionally suggest improvements to the architecture.      Duties and tasks are standard with some variation; displays understanding of roles, processes and procedures. Performs moderately complex problem solving with assistance and guidance in understanding and applying company policies and processes. BS degree or equivalent experience relevant to functional area. 1 year of software engineering or related experience.      About Us      Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It\u2019s when everyone\u2019s voice is heard and valued, that we are inspired to go beyond what\u2019s been done before. That\u2019s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.      Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T18:25:27.000Z"
+    },
+    "company": {
+        "name": "Oracle",
+        "link": "https://www.linkedin.com/company/oracle"
+    },
+    "education": {
+        "required_credential": null
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Redwood City",
+        "region": "CA",
+        "postal_code": "94064",
+        "street_address": null,
+        "latitude": 37.4805,
+        "longitude": -122.21528
+    }
+}

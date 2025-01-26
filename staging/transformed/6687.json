@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Minimum Qualifications  - Must have experience on DevOps tools    \n  - Bachelor\u2019s Degree in related field preferred; proven industry experience.   \n  - 8+ years of software engineering, site reliability, architecture experience.   \n  - Experience supporting a 24 x 7 global operations environment with on-call responsibilities for production support.   \n  - Experience in supporting Disaster Recovery procedures   \n  - Experience in developing software applications using agile methodologies.   \n  - Experience in identifying application/infrastructure risks and mitigation strategy and the ability to work with a team to ensure risks are mitigated.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-30T19:18:09.000Z"
+    },
+    "company": {
+        "name": "IntraEdge",
+        "link": "https://www.linkedin.com/company/intraedge"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Phoenix",
+        "region": "AZ",
+        "postal_code": "85009",
+        "street_address": null,
+        "latitude": 33.448204,
+        "longitude": -112.072586
+    }
+}

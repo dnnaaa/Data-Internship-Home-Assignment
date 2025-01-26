@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Project Engineer",
+        "industry": "Automotive,Transportation/Trucking/Railroad",
+        "description": "Position Overview      Navistar Vehicle and Powertrain Controls Software team is responsible for electronic controls and software requirements, design, coding, testing, software integration and releases.      This position is part of Application algorithm team developing Controls and Software logic for all Navistar owned ECU applications including Engine Controls, Body Controls, Chassis Controls, and Predictive Cruise Controls etc.      The Engineer will also have exposure to or participate in the development of closed loop vehicle HIL system that is a critical tool in controls development and test.      Roles And Responsibilities     - Development of Controls requirements and controls DFMEA   \n  - Development of controls software requirements, design, simulation, and tests of various electronic control systems   \n  - Development of controls algorithms utilizing embedded software development process   \n  - Development of appropriate documentation to support process compliance   \n  - Utilization of controls software tools and processes   \n  - Functional verification/testing of developed design using data-replay/plant based closed-loop simulation techniques/ proto software test at HIL/engine dyno/vehicle   \n  - Analysis and reviews of controls requirements, software design/algorithms, software test results for Navistar in house and vendor software   \n  - Work in a team and contribute to the continuous improvement activities through participation in Lean projects, KPAC, process improvements etc.   \n  - Problem solving and implementing solutions to the controls software issues      \nBasic Requirements     - Bachelor\u2019s degree in Engineering or Engineering Technology   \n  - At least 8 years of experience in product design/development   \n  - At least 1 year leading others in engineer/design activities      \nOR     - Master\u2019s degree in Engineering or Engineering Technology   \n  - At least 6 years of experience in product design/development   \n  - At least 1 year leading others in engineer/design activities      \nOR     - PhD in Engineering or Engineering Technology    \n  - At least 3 years of experience in product design/development   \n  - At least 1 year leading others in engineer/design activities      \nAdditional Requirements     - Qualified candidates, excluding current Navistar employees, must be legally authorized on an unrestricted basis (US Citizen, Legal Permanent Resident, Refugee or Asylee) to be employed in the United States. Navistar does not anticipate providing employment related work sponsorship for this position (e.g., H-1B status      \nDesired Skills     - Embedded software development experience   \n  - Experience with Engineering tool MatLab, Simulink, MS Visio, INCA calibration tool, Software configuration management tools   \n  - Experience with Software programming language such as C/C++, embedded software development and testing tools (Canalyzer, HILs etc.)   \n  - Experience with plant model, simulation and integration of HIL environments   \n  - Experience with Functional simulation of developed design using data-replay or plant based closed-loop simulation techniques   \n  - Experience with Vehicle, Powertrain or Engine Controls System design    \n  - Experience with requirement documentation and system engineering   \n  - Experience with engineering and quality design and development methodologies: (8D, FMEA, DVP&R)   \n  - Experience in functional areas, such as Cybersecurity, Electric Vehicle Electronics, Autonomous Electronics (Radar, Lidar, Camera, Autonomous processor, etc..), Functional Safety (ISO26262), Vehicle Communications and Network, AUTOSAR Software, Telematics Software, Instrument Cluster software   \n  - CAN and/or J1939 and/or ISO 14229 UDS experience      \nCompany Overview      Navistar is a purpose-driven company, reimagining how to deliver what matters to create more cohesive relationships, build higher-performing teams and find solutions where others don't.      Navistar is the Lisle, Illinois-based parent company of International\u00ae brand commercial trucks and engines, IC Bus\u00ae brand school and commercial buses, all-makes OnCommand\u00ae Connection advanced connectivity services, aftermarket parts brands Fleetrite\u00ae, ReNEWed\u00ae and Diamond Advantage\u00ae and Brazilian manufacturer of engines and gensets MWM Motores Diesel e Geradores.      With a history of innovation dating back to 1831, Navistar has more than 12,000 employees worldwide and is part of TRATON SE, a global champion of the truck and transport services industry.      Reimagining How To Deliver What Matters      Visit us at www.Navistar.com to discover more about our organization      Navistar is an Equal Opportunity Employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.      #ridewithnavistar",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-12T04:19:00.000Z"
+    },
+    "company": {
+        "name": "Navistar Inc",
+        "link": "https://www.linkedin.com/company/navistar-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Lisle",
+        "region": "IL",
+        "postal_code": "60532",
+        "street_address": null,
+        "latitude": 41.80125,
+        "longitude": -88.07478
+    }
+}

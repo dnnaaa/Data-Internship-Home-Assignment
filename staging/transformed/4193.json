@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "ORM Technologies is an Advanced Analytics SaaS company located in Dallas, Texas that delivers innovative software solutions to B2B sales and marketing organizations.&amp;nbsp;Through our innovative suite of software and consulting services our customers analyze their historic sales and marketing performance, predict future sales, and optimize for their next best action.   If you are a data scientist who is up to the challenge of building the future of web-based advanced analytics applications, ORM Technologies is the place for you! The right fit for this position should be excited about working in a start-up environment, meticulous in their tasks, and highly motivated to accomplish team goals. You will have the opportunity to directly contribute to our applications which provide real and measurable value to our customers\u2019 bottom line.&amp;nbsp;   Role and Responsibilities  - Own the development lifecycle for machine learning models from ideation to production.   \n  - Build and maintain both supervised and unsupervised machine learning models. Examples of models include customer segmentation, propensity to buy, and sales forecasts.   \n  - Execute on end-to-end data science projects (ideation, data engineering, modeling, interpretation, visualization).   \n  - Clean, Analyze, manipulate, and process large sets of Sales and Marketing data.   \n  - Collaborate with software developers, data engineers, and business stakeholders to build meaningful machine learning models then productize the model.   \n  - Keep up to date on new technologies and trends in data science, MarTech, and Sales Tech.   \n  - Develop data science best practices to enable model consistency, accuracy, and knowledge transfer among peers and customers.   \n  - Communicate model methodology and results to both technical and non-technical audiences.   \n  - Compare models using statistical performance metrics, such as loss functions or ROC.   \n  - Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest.   \n  - Sense of urgency necessary to meet goals, objectives, and deadlines.   \n  - Work as part of a small, agile development team.   \n   Skills & Requirements  - MS in Statistics, Operations Research, Applied Mathematics, Business Analytics, Data Science, or another technical field.   \n  - Strong statistics knowledge with excellent programming skills in R.   \n  - 2-5 years of work experience developing data science projects or products.   \n  - Strong problem-solving skills and intellectual curiosity.   \n  - Ability to translate business requirements into technical action items.   \n  - Excellent oral and written communication skills.   \n  - Basic knowledge of version control tools like git.   \n   Other Desirable Skills  - Ph.D. in Statistics, Operations Research, Applied Mathematics, or another technical field.   \n  - Knowledge of GAMS, Gurobi, or other mathematical programming languages.   \n  - Knowledge of Ruby on Rails.   \n  - Experience with B2B sales data from CRM platforms like Salesforce.com.   \n  - Experience with B2B marketing data from marketing automation platforms like Marketo, HubSpot, or Eloqua.   \n   How to ApplyIf you are interested in joining the team, please submit your resume and cover letter to jobs@orm-tech.com.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T12:51:32.000Z"
+    },
+    "company": {
+        "name": "ORM Technologies",
+        "link": "https://www.linkedin.com/company/orm-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas",
+        "region": "TX",
+        "postal_code": "75342",
+        "street_address": null,
+        "latitude": 32.777977,
+        "longitude": -96.79621
+    }
+}

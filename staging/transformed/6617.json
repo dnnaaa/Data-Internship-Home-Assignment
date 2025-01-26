@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer I",
+        "industry": "Information Technology and Services,Insurance,Financial Services",
+        "description": "Description      Designs, develops and troubleshoots basic software programs for computer based systems.     - Participates in the development and review of specifications to gain an understanding of application changes.   \n  - Completes basic program changes to translate specifications and / or requirements into code.   \n  - Applies basic technical skills to produce deliverables (i.e. specifications, program changes, unit test scripts, documentation, etc.).   \n  - Provides documentation to support program changes.   \n  - Plans, documents, and executes unit test plans to ensure all code changes meet requirements / specifications.   \n  - Supports programming changes during quality assurance, user acceptance testing, and post implementation to ensure integrity of application.   \n  - Monitors progress against task estimates to provide status.   \n  - Complies with standards and procedures to ensure development consistency (e.g. programming standards, change management, version control).   \nRequirements     - Bachelor's Degree in Computer-related discipline or equivalent work experience   \n  - Using one or more programming language(s).      \nOur Commitment      Paychex is dedicated to fostering a culture of intentional Inclusion and Diversity (I&D). Our valued employees and commitment to I&D is the essence of our internal and external success. Inclusivity is a key value of our corporate culture and is exemplified through our reputation as a top employer for employee development, diversity, and ethics, as well as a focus on fairness in recruitment, selection, and decision making.      Click here for more information on our corporate social responsibility.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T00:21:13.000Z"
+    },
+    "company": {
+        "name": "Paychex",
+        "link": "https://www.linkedin.com/company/paychex"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Nashville",
+        "region": "TN",
+        "postal_code": "37221",
+        "street_address": null,
+        "latitude": 36.166344,
+        "longitude": -86.77907
+    }
+}

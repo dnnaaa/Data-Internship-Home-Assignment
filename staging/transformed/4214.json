@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Computer Software",
+        "description": "Requirements  - Master's Degree in Applied Mathematics, Physics, Computer Science, Statistics or related technical field   \n  - 8-10&amp;nbsp;years   \n  - Healthcare experience preferred.   \n   Skills, Abilities, Experience  - Advanced knowledge in data science tools (Python, R, Linux, etc.)   \n  - Advanced SQL skills (MS SQL Server, Snowflake, etc.)   \n  - Advanced Microsoft Excel knowledge   \n  - Proficiency in data visualization tools (Domo, Tableau, Power BI, etc.)   \n  - Effective communication skills   \n  - Forward-thinking, curious, creative   \n  - Able to lead people or projects   \n  - Aware of current marketplace trends   \n  - Able to collect and analyze complex information, problem solve and make decisions   \n  - Strong skills in inspiring the win-win-win   \n  - Able to work independently",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-17T16:12:00.000Z"
+    },
+    "company": {
+        "name": "Peer Consulting Resources Inc.",
+        "link": "https://www.linkedin.com/company/peer-consulting"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Oakland",
+        "region": "CA",
+        "postal_code": "94612",
+        "street_address": null,
+        "latitude": 37.80483,
+        "longitude": -122.27248
+    }
+}

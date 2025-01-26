@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Our healthcare client is looking for a Senior Software Engineer to join their team!    The Project: Working on a service layer that converts native API mostly built in JSON format to a HL7 FHIR API to interconnect health systems.   Your Background: Experience developing software with Java. FHIR knowledge is a plus   Job Responsibilities:  - Serve as a senior software developer for the software platform developing FHIR-based REST APIs.   \n  - Allocated time, on average:   \n  - 75% of the time coding   \n  - 25% of the time collaborating with solution architects/BA/QA on overall software implantation design and best practices   \n  - Provide input on software solution designs   \n  - Work across all teams as a subject matter expect   \n  - Mentor junior software developers on coding designs and best practices   \n      Required Skills:  - 6+ years of experience with hands on development with C# or Java   \n  - 8+ years of experience dev   \n  - 2+ years of experience EHR clinical integrations   \n  - 2+ years of experience with integrating services into a cloud architecture   \n  - 2+ years of experience working with Docker containers   \n  - Experience working in Agile environment   \n   We cannot provide sponsorship upon conversion   What skills/attributes are preferred (will set a candidate apart)?  - 2+ years of experience with good understanding on FHIR standard   \n  - 2+ years of experience developing RESTFUL APIs   \n  - The ability to execute existing queries as well as write SQL queries of varying complexity   \n  - Experience with GIT for code repository   \n  - Experience with Jenkins for deployment automation   \n  - Understanding of software development processes and methodologies   \n  - Collaborate in team environment",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-25T17:37:32.000Z"
+    },
+    "company": {
+        "name": "Apex Systems",
+        "link": "https://www.linkedin.com/company/apex-systems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Raleigh",
+        "region": "NC",
+        "postal_code": "27699",
+        "street_address": null,
+        "latitude": 35.781303,
+        "longitude": -78.64168
+    }
+}

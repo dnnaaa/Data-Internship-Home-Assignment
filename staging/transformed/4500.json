@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "GlobalSource IT has a Direct Client in the Chicago, IL area that is in the need of some strong Machine Learning Engineers for their applications team. They are a Microsoft-based shop and are looking to constantly improve upon their development efforts using TensorFlow/Keras frameworks. This role would look to work with the Data and Applications teams to help create data analysis solutions for customer data as well as best practices models for each area. Other technologies would include .Net Stack, C#, Python, SQL, Azure, Hadoop/NoSQL, and data modeling. These roles can be from Engineer to Architect level of experience. They are also open to 6+ Month Contracts or Contract to Hire options, and are remote roles if not local to Chicago.      - Must have 3+ years of experience in Machine Learning Engineers roles to create best practice Data Models/Analytic solutions   \n  - Strong experience with either TensorFlow or Keras frameworks for Machine Learning   \n  - Hands-on work with Python, R, or C# along with .Net Stack applications for development   \n  - Ability to work with multiple lines of business and data sets to create best practices or recommend best models for prediction/forecasting efforts   \n   *** If you're interested in this opportunity please send your Updated Resume (WORD) and Expected Rate (Remote) to the attached email or jasonz@globalsourceit.com ***",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-11T15:30:56.000Z"
+    },
+    "company": {
+        "name": "GlobalSource IT",
+        "link": "https://www.linkedin.com/company/globalsource-it"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Chicago",
+        "region": "IL",
+        "postal_code": "60654",
+        "street_address": null,
+        "latitude": 41.88323,
+        "longitude": -87.6324
+    }
+}

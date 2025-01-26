@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer - Robotics",
+        "industry": "Electrical/Electronic Manufacturing,Industrial Automation,Mechanical or Industrial Engineering",
+        "description": "About RIOS      RIOS is a technology company helping global customers automate their factories, warehouses, and supply chain operations by deploying a new class of AI-powered and dexterous robots. RIOS robots handle hard-to-automate tasks, typically requiring human-level dexterity, in unstructured environments. RIOS is headquartered in Palo Alto, CA and has a pilot facility in San Carlos, CA. More information is available at www.rios.ai.      The Role      RIOS is looking for a Machine Learning Engineer that can work with and collect RIOS datasets, run experiments, and develop and apply new and/or different models to various customer use cases.      Requirements     - Work daily on developing advanced algorithms using modern ML methods   \n  - Test and deploy models on custom & cloud hardware   \n  - Work on ML systems for data collection, management and training   \n  - Validate and test algorithms that push hardware and technology limits to solve real-world problems   \n  - Work with a multidisciplinary team to solve previously unsolvable problems   \n  - Leveraging and utilizing abstraction & scoping in software development to enable scalable systems      \nAttributes Of Desired Candidates Include     - B.S. or M.S. with industrial experience (or equivalent) in Robotics, Computer Science, Machine Learning, or related field   \n  - Experience training custom/in-house datasets with State-of-the-Art models   \n  - Familiarity with algorithms and real world performance on GPUs   \n  - High degree of familiarity with ML/DL frameworks: TensorFlow, PyTorch, Theano, Keras, MXNet, Scikit Learn, etc.   \n  - Familiarity with databases such as SQL, NoSQL, and cloud solutions   \n  - Expert proficiency working with Python (C++ a plus)   \n  - Understanding of data typing and interaction with learning frameworks   \n  - Experience developing in containerized environments (e.g., Docker)   \n  - Attention to details such as documentation, version control and reproducibility   \n  - Familiarity with ROS (Robot Operating System)      \nPerks     - Competitive salary package & Stock options for every employee   \n  - Healthcare + dental + vision insurance plans   \n  - 401(k) plan   \n  - Free lunch   \n  - Flexible time off & paid holidays   \n  - Social events + happy hours + team parties",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-09T16:40:06.000Z"
+    },
+    "company": {
+        "name": "RIOS Corporation",
+        "link": "https://www.linkedin.com/company/rios-ai"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

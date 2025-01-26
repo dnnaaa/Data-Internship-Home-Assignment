@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Engineer - 100% Remote",
+        "industry": "Information Technology and Services",
+        "description": "Job Title:&amp;nbsp;Data EngineerPosition Type: Contract until December 2021 (2.5 Months)Location: 100% remote, no travel, prefer Central or East Coast location since a lot of the team onshore work East Coast. Primary Skills: 5+ years of developer/data engineer experience working specifically in Azure Python, Scala, SQL and/or Databricks hands on experience Requirements:   - At least 5+ years of developer/data engineer experience working specifically in Azure.   \n  - Must have python, scala, SQL and/or databricks hands on experience.   \n  - Should be independent worker but collaborate with necessary peers and deliver results incrementally by taking full ownership of tasks.   \n&amp;nbsp;Daily duties: 1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Gen 1 to Gen 2 transitiona)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Majority of their data pipelines are using Azure Data Lake Storage Gen 1 which is going to be deprecated by Microsoftb)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hence they need to migrate this to ADLS Gen 2 versionc)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Approximately, 155 data pipelines will be impacted from an ingestion pov and another 30 pipelines will also need to be updated in Refined data process   2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Data Quality automationa)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Today, they have several notebooks and scripts that perform aggregate quality checks for multiple sourcesb)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Some of these need to be upgraded to use more current pipeline run information and also needs automationc)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;They will utilize ADLSg2 to store this metadata for reporting and analysis    3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Functions optimization and Vacuum implementationa)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;There are Azure Functions based processes that needs update and optimization as each of them are running independentlyb)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Opportunity to modularize some of these functions and as a result reduce overhead on system resources&amp;nbsp;",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-10-05T17:39:17.000Z"
+    },
+    "company": {
+        "name": "Staffing Technologies",
+        "link": "https://www.linkedin.com/company/staffing-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

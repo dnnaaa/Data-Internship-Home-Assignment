@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Hospital &amp; Health Care",
+        "description": "As a Site Reliability Engineer you will be hands on in building, maintaining and scaling Current Health's internal and customer-facing services. This will include:            - Improving and maintaining the availability, performance, security, and scalability of the platform   \n   - Build new and maintain existing platform infrastructure through the use of Infrastructure as Code, Configuration as Code, CI/CD, and custom tooling   \n   - Working with software engineering teams on new system designs or rearchitecting existing services to meet new requirements   \n   - Providing education, documentation, support, and tooling to enable the software engineering teams in taking full ownership of their services from inception, through development, to production operations   \n    Requirements:      What experience would I need?            - Broad commercial experience in AWS services, Linux, networking, infrastructure as code, configuration as code, and managing distributed systems.   \n   - Development experience in at least one modern high level programming language (eg. Java, Python, JavaScript/TypeScript, Go)   \n   - Experience with service and micro-service based distributed architectures   \n   - An eye for both high level infrastructural/architectural optimisation opportunities and low level code and data level ones   \n   - An ability to methodically tackle problems with a large number of unknowns   \n   - An eye for detail from infrastructural to the code level   \n             What tech will I be using?         Infrastructure & Configuration: Terraform, Puppet, Serverless Framework / CDK         Languages: Java, Python, TypeScript, Go         Operating Systems: Ubuntu LTS         Runtimes: Docker/Nomad on AWS EC2, AWS ECS (Fargate), AWS Lambda         Datastores: RDS PostgreSQL, Couchbase, DynamoDB, Elasticache (Redis), S3         Messaging: RabbitMQ, SNS/SQS, Kinesis         Benefits:                     - 401k contribution up to a maximum of 3% on base salary   \n   - 70% contribution towards Health, Optical and dental plans including partner and family.   \n   - 1 x Life & AD&D Insurance   \n   - Holidays: 33 days per year inclusive of public holidays   \n   - Flexible, autonomous working environment   \n   - Travel expenses covered   \n   - Spec your own environment   \n   - Employee Assistance Program   \n   - Team events   \n   - Monthly snack box",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-18T16:36:31.000Z"
+    },
+    "company": {
+        "name": "Current Health",
+        "link": "https://www.linkedin.com/company/currenthealth"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

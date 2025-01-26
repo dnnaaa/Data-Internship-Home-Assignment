@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Cloud Infrastructure Engineer",
+        "industry": "Marketing and Advertising,Computer Software,Financial Services",
+        "description": "Our customer\u2019s mission is to create groundbreaking sport innovations, by making their products more sustainable, building a creative and diverse global team, and making a positive impact in communities where we live and work. Their purpose is to bring inspiration and innovation to unite the world through sport to create a healthy planet, active communities, and an equal playing field for all.      We are seeking an innovative and highly motivated Cloud Infrastructure Engineer on a contract basis to join our effort to be a premier online destination for all things in our company.     - This role will be remote while COVID restrictions are in place. The expectation is to be onsite at our Customer\u2019s Beaverton, OR location once it is deemed safe to do so.**      \nWhat You\u2019ll Do     - Build and maintain shared Ubuntu Linux and Docker images for use across the enterprise.   \n  - Build and maintain shared cloud infrastructure tooling.   \n  - Maintain custom tools for creating application machine images.   \n  - Write reusable, tested, and efficient software code and scripts.   \n  - Write automated tests to validate changes, and manually test those changes.   \n  - Troubleshoot and resolve technical problems and code defects.   \n  - Use a variety of tools to manage source code, builds, and deployments.   \n  - Provide technical support for tools and systems owned by the team.   \n  - Be an active participant in team meetings and processes, like design and code reviews. Candidates should have the following experience and skills:      \nThe Ideal Candidate Must Have     - Bachelor's degree, preferably in Computer Science, Engineering or Information Technology, or equivalent experience.   \n  - Professional experience working as a software engineer, system administrator, network administrator, or other related position.   \n  - Extensive experience with Linux operating system, scripting, and tools.   \n  - Experience writing Python computer programming language.   \n  - Strong verbal and written communication skills to communicate effectively with business partners and other engineers.   \n  - History of continual learning about technical subjects.   \n  - Experience with configuration management tools like Puppet or Chef.   \n  - Experience with tools like Git, Jenkins, and Artifactory.   \n  - Experience with Continuous Integration and Continuous Delivery pipelines. Knowledge of or experience with some of the following:   \n  - Information security best practices.   \n  - Public cloud infrastructure like AWS or Microsoft Azure.   \n  - Infrastructure as code using tools like CloudFormation or Terraform.   \n  - Container technologies like Docker, Kubernetes, ECS, or EKS.   \n  - Monitoring tools like New Relic or SignalFx.   \n  - Log aggregation tools like Splunk.      \nEducation     - Bachelor's Degree preferred.      \nHours & Location:      - M-F, 40 hours/week. This role will be remote while COVID restrictions are in place. The expectation is to be onsite at our Customer\u2019s Beaverton, OR location once it is deemed safe to do so.      \nPerks are available through our 3rd Party Employer of Record:     - Health Benefits: Medical, Dental, Vision, Life (including spouse & child), 401k, STD/LTD, AD&D, and Commuter Benefits program.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-08T03:17:43.000Z"
+    },
+    "company": {
+        "name": "The Mom Project",
+        "link": "https://www.linkedin.com/company/the-mom-project"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Beaverton",
+        "region": "OR",
+        "postal_code": "97007",
+        "street_address": null,
+        "latitude": 45.486595,
+        "longitude": -122.795616
+    }
+}

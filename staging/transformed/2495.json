@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Biotechnology,Pharmaceuticals,Research",
+        "description": "The Company    Our client is a digital drug discovery company whose mission is to develop leading Machine Learning technology to serve customers and corporate partners in the healthcare, life sciences, biopharmaceutical, diagnostics, and precision medicine industries.   The team, which has grown steadily since its founding in 2016, is distributed and based around New York, Boston, and Toronto. The ML platform has been engineered to provide solutions and services focused on the large-scale predictive analytics of complex biomedical data across preclinical discovery.   The Role    As a Data Scientist focusing on imaging, you will work alongside expert Data Scientists to expand the image processing capabilities for the in vivo phenotyping platform based on embryonic zebrafish. You will also contribute to Data Science projects in genomics, clinical outcomes analysis, and chemoinformatics. Specifically, you will: &amp;nbsp;  - Expand the Python-based image and video processing framework, using quantitative analysis and computer vision techniques to identify specific characteristics in embryonic zebrafish   \n  - Work with the Data Science team and the VP of Research to expand the capabilities of the ML framework, and address needs that arise for client projects across preclinical drug discovery   \n  - Actively participate in feedback sessions to help guide the development of the ML platform   \n      You need      - Expert knowledge of image processing (PhD degree preferred)   \n  - Knowledge of tools, concepts, and methodologies of analytics and machine learning   \n  - Skilled in the use of Python   \n  - Experience in dealing with high dimensional data (e.g. data fusion, feature transformation, feature selection)",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04T07:54:49.000Z"
+    },
+    "company": {
+        "name": "Vivid Technology ",
+        "link": "https://uk.linkedin.com/company/vivid-technology"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

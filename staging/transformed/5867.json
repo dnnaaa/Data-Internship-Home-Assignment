@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer, Application Development - Austin, TX",
+        "industry": "Marketing and Advertising,Online Media,Internet",
+        "description": "The future of the open web is measured media. LockerDome is an ad platform with a brain, designed specifically for modern advertising. At the core of our ad platform is Neo, LockerDome's proprietary AI, which uses machine learning to process billions of data points and make intelligent decisions at lightning speed. Learn more at lockerdome.com.      As an Application Developer on the Engineering & Product team, you will be expected to write clean and maintainable code, building tools that will be used by thousands of brands and publishers, and reaching millions of end users.      This position will be part of our Austin-based team. Candidates residing in (or near) Austin, TX are preferred.      Your Skills Should Include     -  In-depth knowledge of JavaScript and Node.js   \n  -  Experience with responsive web design using CSS and Sass   \n  -  Ability to learn new skills and information sets quickly   \n  -  Ability to solve unique or complex problems and provide actionable guidance      \nSkills That Are a Plus     -  Experience with C++, particularly with a low-level performance focus   \n  -  Familiarity with Redis or other key-value databases   \n  -  Familiarity with high-performance, distributed systems      \nResponsibilities     -  Build web applications using LockerDome\u2019s in-house JavaScript framework, Coral   \n  -  Improve and streamline the data flow pipeline for our in-house machine learning algorithms   \n  -  Iterate on LockerDome\u2019s data and analytics dashboard   \n  -  Streamline and automate processes and procedures across the company",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-25T17:40:38.000Z"
+    },
+    "company": {
+        "name": "LockerDome",
+        "link": "https://www.linkedin.com/company/lockerdome"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "St Louis",
+        "region": "MO",
+        "postal_code": "63121",
+        "street_address": null,
+        "latitude": 38.635357,
+        "longitude": -90.20099
+    }
+}

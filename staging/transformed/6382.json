@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DevOps Engineer - REMOTE",
+        "industry": "Internet",
+        "description": "Company Description      Medable's mission is to get effective therapies to patients faster. We provide an end-to-end, cloud-based platform with a flexible suite of tools that allows patients, healthcare providers, clinical research organizations and pharmaceutical sponsors to work together as a team in clinical trials. Our solutions enable more efficient clinical research, more effective healthcare delivery, and more accurate precision and predictive medicine. Our target audiences are patients, providers, principal investigators, and innovators who work in healthcare and life sciences.      Our vision is to accelerate the path to human discovery and medical cures. We are passionate about driving innovation and empowering consumers. We are proactive, collaborative, self-motivated learners, committed, bold and tenacious. We are dedicated to making this world a healthier place.      Job Description     - Develop a roadmap to the Engineering team for the Application and Infrastructure monitoring and availability   \n  - Identify innovative ways to research logs to uncover and report defects as well as to validate the Application   \n  - Incorporate best practices for the High Availability and Reliability of the Application & Infrastructure   \n  - Meet the compliance requirements for the Software development process    \n  - Continuously improve the monitoring process to meet Service level Objectives   \n  - Participate and optimize the On-call rotation process   \n  - Implement tools and Develop Automation scripts for the smooth CI/CD of the software releases   \n  - Identify critical metrics to monitor and alert on the issues with software Applications   \n  - Use Tools to Apply data modeling and predictive analysis to anticipate issues   \n  - Work closely with the teams to resolve production issues and perform root cause analysis of the incidents   \n  - Document solutions, SRE architectural patterns, and best practices   \n  - Other duties as assigned      \nQualifications     - 5+ years of experience in managing SRE operations in a complex Production environment   \n  - Experience with Automation using Python/Go programming or equivalent   \n  - Experience with YAML, JSON, bash shell scripting, and Linux command-line utilities   \n  - Experience in working with any of the configuration management tools: Ansible, Chef, Puppet, Salt   \n  - Experience working with CI/CD tools such as Jenkins, Gitlab or equivalent and Artifactory, Fastlane for both web and Mobile Platforms    \n  - Knowledge of working with Infrastructure-as-Code tools such as Terraform, CloudFormation, Google Cloud Deployment Manager   \n  - Experience working with Docker and Kubernetes monitoring and debugging   \n  - Experience with Monitoring solutions such as Datadog, Prometheus, Grafana or equivalent, etc.   \n  - Experience working with Log management using Tools   \n  - Experience with implementing Security Best practices   \n  - Solid troubleshooting experience in a large scale production environment   \n  - Expertise in AWS and GCP cloud Infrastructure and the related services       \nAdditional Information      All your information will be kept confidential according to EEO guidelines.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-27T04:01:23.000Z"
+    },
+    "company": {
+        "name": "Medable, Inc",
+        "link": "https://www.linkedin.com/company/medable-inc-"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Palo Alto",
+        "region": "CA",
+        "postal_code": "94310",
+        "street_address": null,
+        "latitude": 37.445103,
+        "longitude": -122.16036
+    }
+}

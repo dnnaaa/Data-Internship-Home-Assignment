@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Associate Software Engineer, Full Stack",
+        "industry": "Information Technology and Services,Computer Software,Internet",
+        "description": "Job Description      Department: Engineering      Reports To: VP of Engineering      Yardstik is a new venture-backed software company based in Minneapolis that was recently recognized as a Best Place to Work and received Minne Inno\u2019s Fire Award in the \u201cGrowing\u201d category. We\u2019re on a mission to bring more security and safety to the internet economy. The world of background screening, certification, and training has lacked innovation and we\u2019re here to change that for our customers.      The team we have in place brings dozens of years of experience in SaaS and helping start-ups become forever companies. We\u2019re looking for awesome people to come help us reach new heights and fulfill our mission.      Here\u2019s the high-level      Yardstik is looking for a talented Full Stack Associate Software Engineer to help build out our platform. Your duties will include collaborating with other engineers to implement new features for our UI (react, express, node), internal and external back-end APIs (Ruby on Rails, Postgres), along with various other microservices (Typescript, NestJS) that comprise the Yardstik platform using modern cloud technologies (AWS, Docker).      You are the right candidate for this role if you have completed training in software engineering and have the skills to hit the ground running. You must be a self-starter who is eager to learn, comfortable with uncertainty, and can demonstrate knowledge of programming and development practices.      Our technology stack and development processes include the following:  - Backend & Platform   \n  - Restful APIs, GraphQL   \n  - AWS, k8s   \n  - Ruby-on-Rails, Typescript,    \n  - Express, Node   \n  - Postgres, Redis, RabbitMQ   \n  - SPAs, Microservices   \n  - Client-Side   \n  - React, SASS   \n  - Material UI   \n  - React Testing Library, Jest   \n  - Dev Process   \n  - Scrum-based agile approach with Continuous Delivery   \n  - Modern use of tools and documentation; GitHub, Clubhouse.io, OpenAPI 3.0      \nHere's what\u2019s expected of you:     - Perform coding, debugging testing & troubleshooting   \n  - Implementing unit, integration, and end-to-end testing   \n  - Self-motivated ability to learn new technologies and skills   \n  - Participate in code reviews by receiving & providing feedback   \n  - Participate in Scrum Process as member of the Team      \nYour experience might look something like this:     - a background in the frontend, backend, or full-stack development   \n  - an ability to take initiative and learn new technologies   \n  - joy for being part of a highly collaborative, remote-friendly work environment   \n  - an affinity for wearing many hats from an engineering perspective   \n  - a passion for working in a fast-paced and rewarding startup environment      \nTechnical Qualifications:     - Proficiency in at least 1 high-level software development language   \n  - Formal software engineering education, related experience, or a combination of both   \n  - Experience with data storage technologies   \n  - Passionate about problem solving   \n  - Capacity to learn quickly      \nWhat we Offer:     - Company Health Insurance Plan   \n  - 401k Retirement Plan   \n  - Health Savings Account   \n  - Liberal Vacation Policy   \n  - Opportunity to accelerate your career   \n  - Company stock options and the education to understand what those mean for you.      \nEqual Employment Opportunity      Yardstik is an equal opportunity employer. All employment decisions are based on business needs, job requirements, and individual qualifications without regard to age, color, disability, equal pay/compensation, genetic information, national origin, pregnancy, race, religion, retaliation, sex (including sexual orientation and gender identity), sexual harassment or veteran status. Yardstik will not tolerate discrimination or harassment based on any of these characteristics.      Powered by JazzHR      kKYTXv34XO",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T07:16:42.000Z"
+    },
+    "company": {
+        "name": "Yardstik",
+        "link": "https://www.linkedin.com/company/yardstik"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Edina",
+        "region": "MN",
+        "postal_code": "55340",
+        "street_address": null,
+        "latitude": 44.91049,
+        "longitude": -93.34866
+    }
+}

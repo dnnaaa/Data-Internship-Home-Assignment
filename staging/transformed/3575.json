@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer (Remote - Europe)",
+        "industry": "Information Technology and Services",
+        "description": "About Kentik      Kentik is the network observability company. Many of the world\u2019s most recognizable brands rely on our SaaS platform to make sense of their networks, relying on our infinite granularity, automated insights, and insanely fast search to answer key business questions. Our rapidly growing, geographically distributed engineering team builds state-of-the-art products that are supported by a truly big data platform that processes trillions(!!) of records per day. To this end, our engineering culture emphasizes collaborative communication, openness to ideas, and practical solution design. To find out more, read our blog at kentik.com and follow us @kentikinc .      The true meaning of Kentik is visibility. We are committed to making sure everyone feels empowered to use their voice, has a sense of belonging and is represented at Kentik. We don\u2019t look for individuals who fit the culture, but those who will continue to add to the culture. We encourage everyone to apply, especially those individuals who are underrepresented in the industry: people of color, LGBTQI+ community, women, individuals with disabilities (both seen and unseen), veterans, people of any age or family status.      About The Role      Kentik, the leading Network Analytics platform, is looking for an experienced Site Reliability Engineer to join its SRE team. The SRE team is responsible for architecting, building, monitoring and maintaining the infrastructure and services that the Kentik platform runs on top of.      We operate a well-organized, well-instrumented platform, with an emphasis on results rather than process. We\u2019re expanding fast and offer enormous opportunities for employee growth.      We\u2019re looking for an experienced SRE with an eye for detail, able to collaborate in a global company and take Kentik to the next level, by utilizing their experience and knowledge.      Due to our oncall schedule (follow-the-sun), working hours in European time zones is a requirement for this position.      What To Expect     - A truly remote, global team and company across many countries and many time zones.   \n  - A real-time, scalable, microservices-based infrastructure, running on free software across multiple locations and all major cloud vendors.   \n  - Deep-diving into diverse topics, from NetFlow and IP routing, to database replication strategies or HTTP optimization.   \n  - Contribute code, code reviews and tools or patches to all kinds of existing code.   \n  - Take part in incident handling, compiling postmortems, RCAs, providing input at all stages.   \n  - Provide valuable feedback on team goals, projects, and processes. We believe in continuously improving our team.   \n  - Write design documents or collaborate on colleagues\u2019 docs to introduce new features or changes into our infrastructure.         \nYou may be a good fit if you have     - 4+ years of relevant SRE experience. Ideally you've worked in a microservices environment in the past and feel comfortable working with complex architectures.   \n  - Communication: Kentik is a remote-first company, so we're looking for a team player who is able to collaborate in an asynchronous environment via tools such as Email, Google Docs, Slack, Zoom, and Git.   \n  - HTTP experience: You know what TLS, nginx, HAProxy, or HTTP headers are.   \n  - Networking experience: Terms such as routes and iptables sound familiar.   \n  - An urge to document code, processes, and infrastructure in runbooks and wikis.   \n  - Infrastructure as code sounds like a good idea.   \n  - A preference to automate your way out of tedious and repetitive tasks - toil is bad.   \n  - Some familiarity with coding in Python, Ruby, or Go, while using Git to record your changes.   \n  - Experience with cloud architectures and technologies.         \nThe list is not exhaustive or in any way a checklist; we'll be happy to hear about any other skills or experience you may have!      Our tech stack     - Our core data engine and platform are primarily written in Go   \n  - We use Node.js + Express for application serving, and React as our primary UI framework   \n  - We also use some JS and Python for tooling/scripting   \n  - In addition to our own database, we use Postgres, Kafka, Mysql, and Redis   \n  - Internal and public APIs expose both rest/json and gRPC endpoints   \n  - Haproxy, Envoy for API traffic routing and balancing   \n  - Github for source control, PRs, issues   \n  - Jenkins for automated builds         \nHealthcare and Leave*     - Medical, Dental, and Vision that is 100% covered for employees & dependents   \n  - Health Reimbursement Account   \n  - Maternity/Paternity leave, medical leave to care for yourself or a loved one   \n  - Stock Options   \n  - Flexible time off   \n  - Vanguard 401(k)   \n  - Benefits are as listed for US employees. Local health insurance coverage and similar benefits are provided for employees outside of the US.         \nPerks and Reimbursement Programs     - $100 per month for wellness expenses and activities   \n  - Internet / Phone Reimbursement         \nCome work with us      We promise it will be worth it! You will be working at a fast-growing, well-funded startup, alongside world-class engineers and thought leaders as we build the future of network observability and digital operations. With a competitive salary and first-rate benefits on top of meaningful, challenging projects, we\u2019re sure you will enjoy joining our team!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T20:48:07.000Z"
+    },
+    "company": {
+        "name": "Kentik",
+        "link": "https://www.linkedin.com/company/kentik"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Engineer",
+        "industry": "Information Technology and Services,Computer Software",
+        "description": "Fully remote venture-backed company in the healthcare industry!      This Jobot Job is hosted by Chelsea Anderson      Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.      Salary $175,000 - $200,000 per year      A Bit About Us      We are a venture-backed company based in California inventing predictive analytics for healthcare leveraging the power of Artificial Intelligence. Action-ready insights are returned to enterprise healthcare data analysts to enable more effective early-intervention strategies that lead to improved revenues, better patient outcomes and lower overall costs of healthcare delivery.     - From a programming language perspective, we use Python, Scala, and NodeJS.   \n  -  For services and web applications, we use Flask (REST) and React with MySQL backends.   \n  - On the Data/Machine Learning side, we use a variety of big data technologies such as Airflow,    \n  - Big Query, Spark (DataProc), Google Cloud Storage, Google Pub/Sub, Cloud SQL, Tensorflow, KubeFlow, scikit-learn, XGBoost, Shap.   \n  - Google Cloud is our cloud partner. Our long-term strategy is to be multi-cloud.   \n  - Most of our infra is running on GKE and it\u2019s managed via Terraform.      \n      Why join us?        - Discretionary PTO   \n  - 401(k) Retirement Plan   \n  - Health + Vision + Dental Benefits   \n  - Employee Referral Program   \n  - Paid Parental Leave   \n  - Professional Development      \nJob Details     - You have contributed to the delivery of complex applications spanning the full ML operational lifecycle.   \n  - You are organized and able to explain your work, your challenges, your solutions, and the nature of your questions   \n  - You like and appreciate the entrepreneurial environment of an early-stage start-up      \nYour Background     - At least a BS in Computer Science or equivalent   \n  - 5+ years of software engineering experience with Python, SQL and other modern programming languages.   \n  - 3+ years as a software engineering   \n  - Hands-on engineering experience with modern software stacks, cloud-based DaaS and SaaS platforms, and architectures   \n  - Experience with modern development methodologies (Agile, Kanban, XP, etc.)   \n  - Experience supporting teams doing ML model prototyping, training and productionalization.   \n  - Experience with streaming and batch technologies such as Dask, Beam, Spark, etc.   \n  - Experience in healthcare informatics and data   \n  - Demonstrated technical project management skills   \n  - Experience managing teams   \n  - You are excited by the idea of using data to make the healthcare industry more efficient and effective.      \nInterested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-12T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Jobot",
+        "link": "https://www.linkedin.com/company/jobot"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Mateo",
+        "region": "CA",
+        "postal_code": "94406",
+        "street_address": null,
+        "latitude": 37.54715,
+        "longitude": -122.3144
+    }
+}

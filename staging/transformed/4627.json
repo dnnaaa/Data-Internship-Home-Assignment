@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Computer Software,Financial Services,Investment Management",
+        "description": "DevOps / Site Reliability Engineer - CS   AUSTIN, TX OR CHICAGO, IL /SCIATA \u2013 CONSULTING SERVICES /W2, 1099, AND C2C   We are actively recruiting for multiple DevOps / Site Reliability Engineers to join a Fortune 500 financial firm based out of either their Austin, TX or Chicago, IL office. We are combining these skillsets to come up with better ways of managing and operating applications within the organization.   What You'll Be Doing  - Identify opportunities to build innovative tools and solve unique operations problems on a large enterprise and mission critical applications   \n  - Create scripts to automate operational tasks & incorporate the solutions into infrastructure   \n  - Triage alerts & diagnose/resolve critical issues, manage implementation of changes   \n  - Develop tools, frameworks, and instrumentation to validate and increase rollout success for applications.   \n  - Coordinate capacity planning   \n  - Develop CI/CD orchestration systems to reduce friction for software delivery to production.   \n  - Real-Time troubleshooting of mission critical application workflows and incorporate feedback to product development.   \n  - Participate in on call support   \n   Preferred Technical Skills  - Linux or Windows system administration, troubleshooting and tuning.   \n  - Development experience in one or more programming languages such as .net, PowerShell, Java, Python, Bash.   \n  - Knowledge of one or more of SQL, NoSQL databases.   \n  - Knowledge of IP networking including TCP, UDP, DNS, DHCP, firewalls, IP routing, etc.   \n  - Knowledge of distributed systems and messaging architectures.   \n  - Working knowledge of Opensource tools Kafka, Splunk, Influx, Grafana, etc.   \n   Preferred Personal Attributes  - Strong customer orientation with an affinity to proactively own, communicate, and follow-through projects and issues   \n  - Extreme sense of ownership to resolve problems in a distributed environment   \n  - Gritty resolve to dig deeper into technical issues in a complex trading eco-system   \n  - A self-starter with the ability and confidence to independently resolve issues and bring results back to the team   \n   Note:- Seeking candidates in Austin, TX OR Chicago, IL or willing to relocate post covid!!!",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-18T20:14:59.000Z"
+    },
+    "company": {
+        "name": "Sciata",
+        "link": "https://www.linkedin.com/company/sciata"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Chicago",
+        "region": "IL",
+        "postal_code": "60654",
+        "street_address": null,
+        "latitude": 41.88323,
+        "longitude": -87.6324
+    }
+}

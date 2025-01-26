@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer I",
+        "industry": "Computer Software,Internet,Financial Services",
+        "description": "The engineering team at Root strives to be one of the most transformative engineering teams ever. We\u2019re changing the way an industry works by leveraging technology and data to build the best products possible. Even with our significant growth, we operate in small teams that are given ownership over projects and results. We\u2019ve found that the people closest to the problems are the best at solving them.      Our Tech Stack Includes      Ruby / Rails backend, RSpec for testing      Javascript / React Native frontend, Mocha for testing      Small amounts of native iOS and Android      Deployment to AWS ECS using containers      Buildkite for CI      We\u2019re scaling rapidly, and we recently launched a $6B IPO:      https://www.nasdaq.com/articles/root-insurance-ipo-poised-to-disrupt-the-insurance-market-2020-10-30      Our team excels at delivering software to solve the problems in front of us at Root: presently, a suite of world-class mobile, web, and server-based products obsessed with the customer experience. We\u2019ve shaped our team and process around this; we know that constant iteration and experimentation produce the best results.      For more information on engineering at Root see root.engineering      We divide the areas of responsibility for engineers into three major areas:      Technical: The skills and knowledge that make up an engineer\u2019s basic problem-solving toolbox.      Planning and Execution: The ability to plan and execute assigned work beyond basic technical solutions.      Working with Others: The ability to work effectively with other engineers and people in other functions.      Technical Skills      What we look for in a Software Engineer I:     - Excellent command of basic programming skills   \n  - Solid knowledge of 1 to 2 languages; familiar with others   \n  - Experienced with at least one common programming paradigm   \n  - Basic understanding of client-server architecture and web technologies   \n  - Fluent usage of version control tools   \n  - Basic knowledge of databases and SQL      \nPlanning and Execution     - Writes clean, functional, well-tested code   \n  - Completes medium pre-planned tasks in an efficient manner, making changes that touch multiple aspects of the application   \n  - Follows existing patterns and aims for consistency with the rest of the code   \n  - Able to take on small unplanned feature work and bugfixes   \n  - Starts understanding and taking business goals into account when making implementation decisions      \nWorking With Others     - Provides good feedback on other teammates\u2019 work in code reviews   \n  - Works with the engineering lead and teammates to answer questions about their work   \n  - Understands and implements feedback from peers into own work",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-16T03:52:56.000Z"
+    },
+    "company": {
+        "name": "Root Inc.",
+        "link": "https://www.linkedin.com/company/rootinsurance"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Columbus",
+        "region": "OH",
+        "postal_code": "43272",
+        "street_address": null,
+        "latitude": 39.96276,
+        "longitude": -82.99629
+    }
+}

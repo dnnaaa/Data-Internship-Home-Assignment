@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "DATA ENGINEER",
+        "industry": "",
+        "description": "Your Role:   Our quickly-growing small business specializes in expedited air courier services, from anywhere to everywhere in the world. We are looking for a BI specialist who is passionate about data, analytics, and true reporting.&amp;nbsp;Our data analytics BI warehouse and pipeline/engines are built on Sisense, TMS (Transportation Management System), and Priority ERP Accounting.&amp;nbsp;You will help us see more of our business, teach others in the company about analytics, and improve the use and reporting of our data.&amp;nbsp;You will become an integral part of providing data-driven insights that inform significant company decisions, and that can also be safely and reliably shared with customers.Your Responsibilities:   Monitor and corrections of all data platforms.   Build Elasticubes and Dashboards using Sisense.   Improve and develop new TMS and Priority ERP Accounting data models.   Generate efficient end-to-end reporting solutions (from data ingestion to customers).   Work with key business managers to define key metrics&amp;nbsp;and reporting requirements.   Maintain and improve our data ecosystem (ETL, DB technology, data optimizations).   Drive the adoption and effective use of our software tool within every team.   You are a good fit if you:   Have a solid understanding of data warehouse, ETL, Pipeline tools, and BI tools.   Have deep experience with Sisense or other advanced BI tool.   Know query optimization, indexing, SQL query optimization and analysis.   Familiar with Priority Accounting or a similar ERP.   Familiar with an advanced global TMS platform (Transportation Management System).   Are very proficient in JavaScript, Python, API, Frameworks & EDI.   Are familiar with the AWS ecosystem, have solid scripting skills, and write clean code.   Can communicate clearly and directly.   Your Education and Experience:   BA/BS in a quantitative field.   3-5+ years of work experience as a data engineer, or in a highly analytical role.   Experience writing SQL queries and using Sisense and a TMS.   Experience with programmatic scripting using JavaScript and Python.   Strong grasp of statistics and experience conducting rigorous data analyses.   Experience developing models and visualizations, including Excel.   Useful for you to have:   The capacity to juggle multiple priorities effectively within a fast-paced environment (critical).   Be&amp;nbsp;a highly motivated self-starter with the ability to execute plans independently (important).   Be able to learn new data-related tools and technologies to maintain and improve the overall&amp;nbsp;data management and BI strategy.   Be passionate about spreading the value of data throughout the company.   Communicate insights to a broad audience with varying levels of technical expertise.   Why work at CNW Global?   We are a fast moving, fun-loving, passionate group of people who really care about solving expedited air logistics emergencies for our customers. We work&amp;nbsp;for&amp;nbsp;them!&amp;nbsp;We empower our employees to drive our business and to suggest changes when we don't get it right. These are our values:Exceed Customer Expectations: we provide an exceptional experience on each and every challenge.Take Ownership: we are trusted to make decisions that are in the best interests of our customers. We think and act like owners. We care and are agile, and that makes all the difference in the world.Be Curious: We are curious, ask questions, seek to understand, and try new things.Do the Right Thing: We earn trust by being transparent, respectful and honest with each person with whom we interact.Get Results: Results fuel our excitement, and we know how our personal accomplishments tie to the success of the company.Our benefits:   We offer competitive compensation, generous benefits, free food and a very flexible vacation policy.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T00:04:22.000Z"
+    },
+    "company": {
+        "name": "Courier Network",
+        "link": "https://www.linkedin.com/company/cnw-courier-network"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York",
+        "region": "NY",
+        "postal_code": "10132",
+        "street_address": null,
+        "latitude": 40.713047,
+        "longitude": -74.00723
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer I",
+        "industry": "Computer Networking,Computer Software,Computer &amp; Network Security",
+        "description": "Why APCON?      At APCON, we are committed to setting the industry standard by engineering best-in-class network solutions. We're talented, driven, and willing to roll up our sleeves to make what seems impossible possible. As our industry grows, we are rapidly expanding and looking for talented, committed, and motivated employees to thrive in our fast-paced work environment. Join us and work with industry-leading hardware and software engineers as we develop some of the most innovative technologies shaping the future of network monitoring.      Purpose Of Job      The Software Engineer I will be responsible for writing Enterprise Application code in a team environment which includes research, design, debug, and test for next generation network management software systems while contributing to the existing product line.      Responsibilities     - Design, implement, debug, and test server-side software for network management software   \n  - Work closely with firmware design team   \n  - Work closely with the quality assurance group for testing   \n  - Responsible for creating written documentation for his/her own software development   \n  - Develop feature enhancements and provide development support for existing product lines   \n  - Works in both an independent and team member environment to meet multiple product release cycles      \nQualifications And Requirements     - Hands on experience developing applications in C/C++   \n  - Proficient in object oriented analysis, design and development techniques   \n  - Working knowledge of RPC, REST API or other programming interfaces   \n  - Knowledge of golang and QT framework a Plus   \n  - Experience working with databases like MySQL   \n  - Knowledge of Angular/JavaScript/HTML5 a Plus      \nCore Competencies     - Knowledge of Version Control practices, especially SVN   \n  - Ability to prioritize and be flexible in a fast-paced environment   \n  - Strong interpersonal skills; ability to communicate professionally across the organization   \n  - Ability to maintain a high level of confidentiality and professionalism   \n  - Ability to manage, and schedule time to meet deadlines      \nEducation     - BS degree (BSEE or BSCS strongly preferred, MSCS a plus) or the equivalent in training and experience   \n  - 2+ years of programming experience (C/C++, REST)      \nBenefits     - Medical, dental and vision insurance   \n  - Company-paid short and long term disability    \n  - Flexible spending accounts   \n  - Healthy work-life balance and generous paid time off program   \n  - Retirement savings match   \n  - Professional development program   \n  - Volunteer time off and employee assistance plan   \n  - Collaborative and innovative work environment   \n  - On-site exercise facility      \nAPCON is a drug-free workplace and EEO Employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, natural origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Offers are contingent on the successful completion of pre-employment drug and background screenings. Please note that we follow Federal Guidelines regarding prohibited substances, even for those legal at the state level.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-19T22:43:53.000Z"
+    },
+    "company": {
+        "name": "APCON",
+        "link": "https://www.linkedin.com/company/apcon"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas",
+        "region": "TX",
+        "postal_code": "75342",
+        "street_address": null,
+        "latitude": 32.777977,
+        "longitude": -96.79621
+    }
+}

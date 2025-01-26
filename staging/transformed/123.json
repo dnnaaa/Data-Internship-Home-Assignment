@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer In Test",
+        "industry": "Information Technology and Services",
+        "description": "Job Title\tSDET Engineerlocation- Atlanta, GA   Full Time/ Permanent hire   Experience Range - (in Yrs)\t8-10   Technical/Functional Skills   - 10+ years\u2019 experience working with web-based & cloud based software products/applications, APIs, Webservices and backend systems/applications   \n  - Ability to write code with knowledge of Computer Science fundamentals in object-oriented design, data structures, and algorithms.   \n  - Demonstrated experience in test framework design and development - Excellent communication, collaboration, reporting, analytical and problem solving skills   \n  - Strong knowledge of QA methodology and tools, with demonstrated experience in an SDET role   \n  - Experience working closely with development and business teams to present quality/test data, read business data, negotiate on the scope of test coverage/timing/resources, and to actively pull business requirements out of data/partners and distill them to test/risk strategy.   \n  - QE experience in J2EE technologies and databases(Relational & Non-relational) strongly preferred - Applied experience in QA/QE technologies using Git, Jenkins, Postman, JUnit, Soap UI, TestNG, Java, Selenium, Protractor, Cucumber; VersionOne, Jira; JMeter, Loadrunner, Jprofiler highly preferred   \n  - Experience with Scripting languages like Python,Ruby,Go,Shell, Perl, Bash, JavaScript or equivalent   \n  - Experience testing web services and APIs, GUIs, ETL for functionality,accessibility, regression, security, load, scalability, and high availability   \n  - Experienced in Agile or Scrum software development methodologies   \n  - Experience with white box and black box testing, building testing frameworks   \n  - Experience testing cloud based services / architecture (AWS, Azure, etc.)   \n  - Participate in Performance testing using LoadRunner,Jmeter   \n  - Strong analytical and trouble-shooting skills   \n  - Understanding of product release cycles, code repositories, branching, labeling, and packaging&amp;nbsp;&amp;nbsp;   \n   Experience Required  - Strong in Java(writing code),APIs/ Webservices, Cucumber, SOA, scripting knowledge, strong communication skills and being able to work with offshore and mentor team members   \n  - Strong knowledge needed in selenium/protractor.&amp;nbsp;   \n   Roles & Responsibilities  - Lead quality assurance testing for agile,cloud based web applications, APIs, Webservices, tools, and software features and projects   \n  - Define QA processes and methodologies and enforce them within the team   \n  - Define and implement automation based test strategies   \n  - Work on every aspect of automated testing that includes E2E,UI/Integration tests, responsive and break point testing, accessibility validation, API/functional tests, security and contract tests, performance and load tests   \n  - Develop in-house automation frameworks and tool evaluations to solve automation problems - Write, maintain, and execute test cases both automated and manual   \n  - Review and provide feedback on design and architectural documents for new features in the roadmap   \n  - Adhere to core testing principles set by team and group leadership - Identify opportunities for improved software development lifecycle with focus on automation and CICD   \n  - Can identify improvement opportunities and drive continuous improvement efforts from inception to implementation   \n  - Guide and mentor junior members of the team   \n  - Produce accurate estimates and participate in daily task tracking activities   \n  - Support continuous integration process improvement and innovation   \n  - Troubleshoot critical defects in software coding throughout the software development lifecycle - Work closely with the developers and engineers to achieve a high level of code coverage   \n  - Work closely with offshore teams to ensure hand-offs are seamless   \n  - Socialize and collaborate testing efforts with peers   \n  - Generic Managerial Skills   \n        - Key words to search in resume- J2EE, Automation QE, API, Junit, CICD, Protcator, Selenium",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-09T20:24:26.000Z"
+    },
+    "company": {
+        "name": "VARITE INC",
+        "link": "https://www.linkedin.com/company/varite"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 120,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

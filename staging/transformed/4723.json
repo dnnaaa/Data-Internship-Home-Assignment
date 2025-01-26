@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Operations Engineer, Contractor Private Cloud (VMware) ",
+        "industry": "Computer Software,Internet,Computer &amp; Network Security",
+        "description": "Operations Engineer, Contractor Private Cloud (VMware)&amp;nbsp;Responsibilities:  - Support the VMware IaaS platform and supporting infrastructure across the globe and ensure consistent availability.   \n  - This includes:   \n  - Using existing automation tools to perform day-to-day operations duties   \n  - Develop automation to continue to drive proactive detection and remediation of issues   \n  - Identify and tackle hardware/software issues with vendors   \n  - Respond to inquiries and requests from other teams   \n  - Facilitate ticket creation and ticket assignment   \n  - Enforce change control processes   \n  - Maintain good documentation and templates   \n&amp;nbsp;Requirements:  - 5+ years of experience supporting a 24x7 production environment   \n  - 5+ years of experience building and maintaining VMware vSphere 6.x platforms   \n  - 3+ years coding Python   \n  - Have working experience with Ansible, git, Jenkins, Atlassian products   \n  - Other Qualifications   \n  - Experience and knowledge in Linux support and administration   \n  - Experience running a fleet of servers, FC switches and storage   \n  - Experience with HashiCorp Vault is a plus   \n  - Must possess excellent written and verbal skills",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-20T00:13:04.000Z"
+    },
+    "company": {
+        "name": "Cypress HCM",
+        "link": "https://www.linkedin.com/company/cypress-hcm"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Pleasanton",
+        "region": "CA",
+        "postal_code": "94588",
+        "street_address": null,
+        "latitude": 37.691315,
+        "longitude": -121.89736
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Staffing and Recruiting",
+        "description": "Insight Global is looking for an eager, R&D focused Data Scientist to join one of our largest Enterprise clients within their Emerging Technology organization and specifically Collaborate with the various teams while an understanding the Quantum Computing initiative. Day to day, this position has responsibility for evaluating quantum accelerated optimization approaches as well as alternative quantum annealing algorithms for use in optimization scenarios. He/She will implement optimization algorithms on quantum annealing hardware and prototype quantum annealing applications for combinatorial optimization problems.   This role will consist of preparing and collecting data sets to be used for testing quantum annealing prototypes and evaluating alternative optimization approaches in comparison to quantum annealing approaches both in graph based and non-graph-based optimization scenarios.&amp;nbsp;      Must-haves   - 3+ years in relevant work experience    \n  - Hands on experience with Jupyter Notebooks    \n  - Knowledge working with Python    \n  - Experience with QUBO and alternative optimization algorithms.    \n  - Experience with embedding optimization problems into a topology appropriate for execution on a QPU.    \n  - A background in combinatorial optimization including working with graph structures.    \n  - The ability to critically evaluate the performance of algorithms.    \n  -  Masters Degree or higher, Preferably a PhD in similar concentration    \n&amp;nbsp;Plusses   - Experience with D-Wave quantum systems.    \n&amp;nbsp;",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-05T14:59:15.000Z"
+    },
+    "company": {
+        "name": "Insight Global",
+        "link": "https://www.linkedin.com/company/insight-global"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

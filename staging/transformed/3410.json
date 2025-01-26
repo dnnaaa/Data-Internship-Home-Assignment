@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Computer Software,Information Technology and Services",
+        "description": "RESPONSIBILITIES  - Work with leaders from Data Science, Product, and Engineering to solve customer challenges with advanced data analysis and machine learning   \n  - Partner with software engineering to deliver automated, optimized pipeline for production products   \n  - Write scalable Python code in a cloud environment   \n  - Optimize code for large data sets   \n  - Identify innovative ways to optimize the application development process   \n   QUALIFICATIONS FOR THIS JOB  - Bachelors, Masters, or PhD in a quantitative field such as Statistics, Computer Science, Economics, or Mathematics   \n  - 3 to 5 years of industry experience in predictive modeling, data science, and analysis   \n  - Strong expertise in Python, SQL, and related data science tools   \n  - Experience with Google Cloud & AI platform   \n  - Knowledge of Git or other version control tools   \n  - Familiarity with APIs   \n  - Experience in insurance or financial services is a plus   \n  - Strong analytical and problem-solving skills with an exploratory, curious mindset.   \n  - Relevant successful professional industry experience",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T21:40:45.000Z"
+    },
+    "company": {
+        "name": "Quest Groups LLC",
+        "link": "https://www.linkedin.com/company/quest-groups"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "Texas Metropolitan Area",
+        "postal_code": "78723",
+        "street_address": null,
+        "latitude": 30.276316,
+        "longitude": -97.70931
+    }
+}

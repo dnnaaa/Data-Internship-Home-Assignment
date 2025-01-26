@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "No C2CMust be a US Citizen or Green Card Holder   As an SRE, you will work with leading edge technologies both on-premise and in the cloud. Automation and superior software quality/performance and resiliency will be your mindset. You will be an expert resource in software and operational high-performance design patterns and support different development, architecture and operational teams from start to finish to create scalable and resilient highly available solutions for multiple locations.  Responsibilities   - Support development, architecture and operational teams for performance/capacity related issues associated with complex multi-tier distributed platforms during the SDLC and post-production.    \n  - Support/coordinate new Build/Run initiatives prior to production and assure product readiness including infrastructure recommendations, software/script development, load/chaos testing, optimization, SLO definition, capacity planning, and observation/alerting.    \n  - Support Self-Service performance testing helping teams overcome test scenario design challenges.    \n  - Review source code and identify bottlenecks. Identify opportunities to improve performance and scale.    \n  - Perform new POCs for newer technologies and architectural patterns to help teams make informed decisions.    \n  - Define new SLOs for services and applications. Perform workload analysis/help teams define testing scenarios to meet non-functional SLA requirements defined by the business.   \n  - Work to reduce/minimize ongoing runtime costs through efficient throttling/queuing/pooling/autoscaling across application and infrastructure tiers.    \n  - Proactively identify anomalies and opportunities in platforms in production to achieve greater performance/scale and recommend to impacted teams for future planning.   \n  - Define performance quality gates and support canary development CI/CD scenarios around performance for teams.   \n  - Support Performance Analytics, Testing and Observation infrastructure as needed.   \n  - Introduce and evaluate new technologies and tools for performance measurement, observation, profiling, debugging, simulation, etc.   \n    Required Skills and Qualifications  - Experience supporting/troubleshooting large scale multi-tier distributed on-premise and cloud applications.   \n  - Experience architecting, developing and setting up new infrastructure solutions for hybrid in-cloud/on-premise applications   \n  - Experience in Capacity Planning or Performance Engineering and leveraging predictive analytics to determine needed scaling patterns for platforms.   \n  - Experience programming in languages such as Java, NodeJS, Go, Python, Ruby, Bash, Perl and JavaScript    \n  - Experience in Web Development and/or Web Service creation    \n  - Demonstrable cross-functional knowledge with systems, storage, networking, security, and databases.   \n  - Experience with Linux commands and OS related performance utilities   \n  - Experience using observation tools such as Splunk or Dynatrace.   \nPreferred Qualifications  - Experienced Architect in GCP, Kubernetes, and Google AppEngine   \n  - Experience leveraging messaging frameworks such as Kafka or Pub/Sub solutions   \n  - Experience with LRU/MRU caching schemes and solutions leveraging MemCached or Redis for achieving scale/performance.   \n  - Experience developing basic SpringBoot services and using the Spring Framework.   \n  - Experience or familiarity in web development creating web sites using modern single page MVC frameworks.   \n  - Experienced in performance tracing/profiling using Google Developer Tools   \n  - Experience with Jetty, Tomcat/F5 Load Balancers, Apache Web Servers, and Adobe Experience Manager   \n  - Expertise in Adobe Experience Manager optimization   \n  - Experience with SQL and database scaling/replication schemes   \n  - Familiar with tools used for front end analysis such as Lighthouse, Page Speed Metrics, WebpageTest, GTMetrix and browser developer tools.    \n  - Experience using MongoDB/Atlas and Postgres   \n  - Experience with AngularJS, React and Vue   \n  - Experience tuning/optimizing runtime environments for Java (JVMs), Nodejs and Python for the best performance.   \n  - Experience with DevOps/Quality gating concepts, Canary deployments and automation associated with CI/CD deployments.   \n  - Experience in Enterprise Architecture integration patterns and domain model driven design addressing proper separation of concerns for an application/microservices and core web services.    \n  - Experience working in operations and/or performance engineering/testing.   \n  - Experience using observation tools StackDriver, Dynatrace, Splunk, Quantum Metrics, and Akamai solutions. Experience using cloud profiling tools and JVM tools like JProfiler/Java Flight Recorder.    \n  - Experience in Testing methodologies and metrics using tools like JMeter, NeoLoad, LoadRunner or other.   \n  - Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.   \n  - Experience with CI/CD methodologies and having Agile/DevOps mindset   \n  - A passion for automation with a desire to eliminate toil whenever possible.   \n  - A proactive approach to spotting problems, areas for improvement, and performance bottlenecks   \n  - Experience using GIT and industry build tools.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T21:12:16.000Z"
+    },
+    "company": {
+        "name": "neteffects",
+        "link": "https://www.linkedin.com/company/neteffects"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater St. Louis",
+        "region": null,
+        "postal_code": "63101",
+        "street_address": null,
+        "latitude": 38.62262,
+        "longitude": -90.192986
+    }
+}

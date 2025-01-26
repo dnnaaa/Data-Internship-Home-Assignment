@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Lead Software Development Engineer",
+        "industry": "Financial Services,Information Technology and Services,Internet",
+        "description": "Our Purpose      We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team \u2013 one that makes better decisions, drives innovation and delivers better business results.      Job Title      Lead Software Development Engineer      Overview      Be part of the Operations & Technology Fraud Products team developing new capabilities for MasterCard's Decision Management Platform, which serves as the core for multiple business solutions to combat fraud and validate cardholder identity. Our patented Java-based platform processes billions of transactions per month in tens of milliseconds using a multi-tiered, message-oriented approach for high performance and availability.     -  Would you like to develop industry leading solutions for fighting fraud?   \n  -  Are you motivated by speeding business solutions to market?   \n  -  Do you want to innovate, using cutting edge technologies on challenging business problems?      \nRole     -  Work closely with technical leads for assigned projects to assist in design and implementation tasks   \n  -  Assist with production support issues by acting as a subject matter expert in resolving incidents and problem tickets.   \n  -  Plan, design and develop technical solutions and alternatives to meet business requirements in adherence with MasterCard standards, processes and best practices.   \n  -  Participate in PoCs (Proof of Concept) and help the Department with selection of Vendor Solutions, Technologies, Methodologies and Frameworks.   \n  -  Conduct brownbag sessions on new and upcoming technologies, methodologies and application appropriate frameworks.   \n  -  Actively look for opportunities to enhance standards and improve process efficiency.   \n  -  Be an integral part of the Agile SAFe discover and elaboration sessions. Perform requirements and design reviews, peer code reviews and PCI security reviews to ensure compliance with MasterCard standards.      \nAll About You     -  Must be high-energy, detail-oriented, proactive and have the ability to function under pressure in an independent environment.   \n  -  Must provide the necessary skills to have a high degree of initiative and self-motivation to drive results.   \n  -  Must have knowledge about automation and cloud engineering principles.   \n  -  Possesses strong communication skills -- both verbal and written \u2013 and strong relationship, collaborative skills and organizational skills.   \n  -  Willingness and ability to learn and take on challenging opportunities and to work as a member of matrix based diverse and geographically distributed project team.   \n  -  Knowledge of software development processes including agile processes and test driven development   \n  -  Experience with the design and development of complex, multi-tier cloud native architectures.      \nEssential Skills Required     - Technical experience using Java/JEE   \n  - Spring Framework (including Spring Boot).   \n  - Strong Linux and shell scripting   \n  - Oracle & PL/SQL and advanced SQL scripting   \n  - IDE such as JBoss Developer Studio/IntelliJ      \nDesirable Skills     - Messaging \u2013 MQ and JMS   \n  - Business rules execution systems (e.g. IBM Operational Decision Manager (ODM - formerly ILOG))   \n  - Experience integrating vendor and open source products into an overall system   \n  - Experience in Pivotal Gemfire Grid      \nDue to COVID-19, most of our employees are working from home. We\u2019ve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely. We value the safety of each member of our community because we know we\u2019re all in this together.      Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.       If you require accommodations or assistance to complete the online application process, please contact reasonable.accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T06:22:45.000Z"
+    },
+    "company": {
+        "name": "Mastercard",
+        "link": "https://www.linkedin.com/company/mastercard"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "O'Fallon",
+        "region": "MO",
+        "postal_code": "63304",
+        "street_address": null,
+        "latitude": 38.808643,
+        "longitude": -90.69996
+    }
+}

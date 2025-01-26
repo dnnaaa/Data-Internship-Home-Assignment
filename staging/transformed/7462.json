@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Development Engineer In Test - Windows",
+        "industry": "Telecommunications",
+        "description": "Come to Seattle, WA, to Help Build Public Safety Solutions with Comtech!To learn more about Comtech Telecommunications&amp;nbsp;(CMTL), visit our website at&amp;nbsp;www.Comtech911.com.You can see the big picture and get excited about developing and maintaining applications that support emergency 9-1-1 (E911) systems. You also crave an opportunity to work with the best and brightest software development teams, in an environment that is rewarding and collaborative.&amp;nbsp;Your New OpportunityInitially, you will be working with world-class software test engineers to learn about the E911 domain and Comtech\u2019s E911 solutions. You will create automated test scripts and utilize your scripting/programing skills in WINDOWS environment. You will implement automation for E911 solution applications to be tested against new requirements. You will be testing all E911 solutions, by simulating call traffic in a test lab. Eventually, as a Software Development Engineer in Test, you will be able to identify innovative approaches for test automation that will boost productivity in functional test as well as performance test. Your position will be vital for the success of Comtech\u2019s software solutions related to E911 calls nationwide.&amp;nbsp;AS AN SDET - YOU WILL HAVE THE FOLLOWING EXPEIRENCE/SKILLS/EDUCATION:  - Professional experience as Automation Engineer especially in Windows software test automation development&amp;nbsp;(3+ years)   \n  - Experience in setting up complex test environments for functional and performance test.   \n  - Strong background in Power Shell scripting, Java, C#, and/or Python   \n  - Experience with automated testing types, tools and techniques (Unit, Functional, Load; JUnit, JMeter, Cucumber, Selenium, Ready API, SoapUI, Jasmine, Karma etc.)   \n  - Strong fundamental in TCP/IP stack.&amp;nbsp;Capable of troubleshoot network related issues using network commands.   \n  - Fundamental knowledge SQL, relational Database, NOSQL.   \n  - Bachelor degree in related field or equivalent education/experience   \n&amp;nbsp;ADDITIONAL VALUED CAPABILITIES INCLUDE:  - In-depth understanding of SIP protocol, TCP/IP and related network protocols   \n  - Experience developing automated tests in an OOP language   \n  - Experience with a cloud technology: Azure or AWS.&amp;nbsp;   \n  - Experience in containers/microservices.   \n  - Experience with performance test techniques and approaches.   \n  - Experience working in Telecommunications industry, familiar with wireless call flows and technology.   \n&amp;nbsp;Comtech is an Equal Opportunity Employer \u2013 M/F/Veteran/Disability/Sexual Orientation/Gender Identity",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-12T04:24:27.000Z"
+    },
+    "company": {
+        "name": "Comtech Telecommunications Corp.",
+        "link": "https://www.linkedin.com/company/comtech-telecommunications-corp"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Seattle",
+        "region": "WA",
+        "postal_code": "98133",
+        "street_address": null,
+        "latitude": 47.60323,
+        "longitude": -122.33028
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "",
+        "description": "We are Prediction Machine, a nascent quantitative trading firm.   We believe algorithmic portfolio management will undergo dramatic change in the coming years. We are here to be a part of this change. Every reinvention begins with a blank sheet of paper, and a willingness to reason from first principles.This is where Prediction Machine enters the picture. Our first move in this direction was a global search for talent. To paraphrase Elon Musk, we are building the team that will build the solution.   Our goal is to ship investment strategies that outperform because they leverage unusual data, or usual data in an unusual way, and rely on massive computational abilities to make plausible, sample-efficient estimates.   See more about us at https://www.predmachine.com      As a quant or a data scientist, you are expected to bring strong experience in building and deploying scalable machine learning algorithms. You will work with a team of motivated individuals on building trading algorithms and strategies, while being responsible for monitoring the health of your deployed algorithms. You will be expected to rigorously test your models for data integrity, statistical significance and numerical stability.   You are someone with;3+ years of experience in Python, SQL, machine learningMachine Learning training/inference with GPUs is a plus3+ years of experience in data processing libraries like pandas, numpy, scipy and pyAthena3+ years of experience in REST APIs, Flask, FastAPI2+ years of experience in AWS or any other cloud computing platformPrior experience in machine learning with large scale time series/financial/quantitative datasetsStrong demonstrated experience in deployment grade machine learningPrior experience in assessing code quality and building machine learning codebase with proper engineering fundamentalsExposure to interdisciplinary collaboration, especially involving domain expertiseExperience with AWS Athena and Redshift is a plusKnowledge of Pyspark or other distributed computing frameworks is a plusStrong oral and written communication skillsCapacity to operate independently and make sense of limited directions, especially capable to identify the underlying unknowns",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-20T20:40:58.000Z"
+    },
+    "company": {
+        "name": "Prediction Machine LLC",
+        "link": "https://www.linkedin.com/company/prediction-machine"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco Bay Area",
+        "region": null,
+        "postal_code": "94112",
+        "street_address": null,
+        "latitude": 37.39271,
+        "longitude": -122.042
+    }
+}

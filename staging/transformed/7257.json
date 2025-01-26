@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Computer Software,Marketing and Advertising,Research",
+        "description": "Founded in 2016, Windfall Data is on a mission to determine the net worth of everyone on the planet. The company helps nonprofit and for-profit organizations to more effectively identify, understand, and engage affluent consumers with the industry\u2019s most reliable and accurate dataset available. More than 750 organizations use Windfall Data to identify and engage their most promising constituents. As a company, we are growing quickly, and every member of our team has a tangible impact on the success of our business and our customers.   At Windfall, data is our product \u2014 and our machine learning models lie at the heart of everything we do. We are looking for an experienced machine learning engineer who is able to design and build out stable infrastructure to support our production models in collaboration with our team of data scientists.   Responsibilities  - Propose and implement a scalable ML modeling workflow for standardized use by our data scientists   \n  - Enhance and improve existing model infrastructure to support the growing demands of the data science organization   \n  - Develop internal tools to enable seamless configuration, fitting, and quality assurance of various classes of machine learning models   \n  - Collaborate closely with data science, engineering, and product to ensure infrastructure meets the needs of internal and external stakeholders   \n   Requirements  - Advanced degree in a quantitative discipline or compensating work experience   \n  - 5 or more years of machine learning engineering experience, including working with data scientists, constructing machine learning models and developing production-level code   \n  - Knowledge of various machine learning model structures, model performance metrics, and data visualizations for QA, including underlying mechanisms and use cases/tradeoffs   \n  - Expert knowledge of Python & SQL   \n  - Experience in Kubernetes, Airflow, Spark, Dataflow, and Postgres is a plus   \n  - Demonstrated experience with cloud computing, git, and software architecture   \n  - Collaborative, team-focused attitude with a strong desire to advance the product and learn new things   \n  - Self-starter with experience turning ambiguous ideas into actionable designs   \n  - Excellent written and verbal communication   \n  - Eligible to work within the United States   \n   Perks  - Small team = opportunity for a big impact&amp;nbsp;   \n  - Compensation includes equity and a competitive salary   \n  - Excellent company-sponsored benefits&amp;nbsp;   \n  - HQ at great location in downtown SF (Jackson Square), option for remote work within US   \n  -",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-03T04:22:02.000Z"
+    },
+    "company": {
+        "name": "Windfall",
+        "link": "https://www.linkedin.com/company/windfall-data"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

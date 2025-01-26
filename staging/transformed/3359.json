@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software",
+        "description": "Work with the #1 leader in cloud security! Aggressive base, weekly lunch, taco Tuesdays, Unlimited PTO, and much more!      This Jobot Job is hosted by Bashar Sbeini      Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.      Salary $120,000 - $150,000 per year      A Bit About Us      We are the #1 cloud security company worldwide! Our AI analytics allows us to lead in this industry with modern day cloud solutions.            Why join us?        -  Aggressive base   \n  -  Competitive dental/medical plan   \n  -  Flexible PTO   \n  -  Enjoy breakfast burritos every Tuesday!    \n  -  Weekly lunches provided   \n  -  Snacks   \n  -  Fun culture      \nJob Details     -  At least 5 years of experience developing, debugging, and maintaining cloud based services and solutions   \n  -  Experience in Python or C/C++ required   \n  -  Mastery in backend languages is highly desired(Golang, Rust, Java, Etc.)      \nInterested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T09:06:03.000Z"
+    },
+    "company": {
+        "name": "Jobot",
+        "link": "https://www.linkedin.com/company/jobot"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

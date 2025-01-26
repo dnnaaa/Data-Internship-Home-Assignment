@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Site Reliability Engineer",
+        "industry": "Staffing and Recruiting",
+        "description": "Job Description      My client is a global provider of legal, regulatory and business information and analytics that help customers increase productivity, improve decision making outcomes, and advance the rule of law around the world. They provide corporations with insights about their markets, benchmarking brands against competition, and strengthen legal infrastructure. They are currently working on a $50 million project migrating $5 billion worth of products to azure.      Required Skills & Experience     - 5+ years experience and proven background working in a technical, Cyber Security related position.   \n  - BSc Engineering/Computer Science/IT Security or relevant experience.   \n  - Industry certification such as CSSP, AWS Certified Security, CSSLP desirable   \n  - Use of orchestration tools such as Terraform, Ansible or CloudFormation   \n  - Previous Analytic and troubleshooting experience is required   \n  - Experience migrating application from on-premises to public cloud.   \n  - Experience with Blue-Green deployment methodologies.   \n  - Experience working with containerised workloads such as Docker and Kuebernetes.   \n  - Experience with Log Management tools e.g \u2013 Elastic Stack, Graylog or Splunk   \n  - Experience working with an enterprise RDBMS such as MySQL and/or Microsoft SQL Server.   \n  - Knowledge of change control and associated procedures.   \n  - Use of Secret Management services e.g - Hashicorp Vault   \n  - Experience with any high-level programming language.   \n  - Configuration Management tools \u2013 e.g. Ansible, Puppet, Chef or equivalents.   \n  - Professional experience of working within the public cloud \u2013 Azure, AWS or GCP.   \n  - Hands-on experience of Linux and Windows server including support and troubleshooting.   \n  - System and application monitoring \u2013 e.g. Prometheus, Grafana, Nagios etc.   \n  - Professional Experience with common source control tools \u2013 e.g Git, SVN   \n  - Cloud Architecture and system design to solve key business problems and facilitate team goals.   \n  - Strong and enthusiastic technologist, able to demonstrate a broad technical knowledge   \n  - Ability to act as a point of expertise, advise others in the team on best practise and impart knowledge.   \n  - Coding and scripting experience \u2013 e.g. Powershell, Bash, Python or equivalent    \n  - Continuous Integration/Delivery Tools \u2013 e.g. Gitlab, Github, Jenkins   \n  - Cloud Architecture and system design to solve key business problems and facilitate team goals.   \n  - Hands-on experience performing application static/dynamic security and penetration assessment with tools such as \u2013 SonarQube, CheckMarx, AppScan, BurpSuite, OWASP ZAP Proxy, WebInspect, Fortify, Veracode, Nessus etc.   \n  - Good understanding of defensive, corrective and detective controls and requirements   \n  - Knowledge of OWASP Top 10/ SANS Top 25, identify vulnerabilities via manual and automated testing methods and how to effectively remediate vulnerabilities associated with each. Ability to recognize and escalate Security issues   \n  - Exposure to application security testing (source code review and web/mobile application penetration tests)   \n  - Familiarity with different types of security vulnerabilities and tools for countermeasure   \n  - The candidate should be well versed in Information security principles at an Intermediate level   \n Desired Skills & Experience     - Desirable \u2013 AWS / Azure Certifications   \n The Offer     - Competitive Salary: Up to $55-65/hour, DOE      \nYou Will Receive The Following Benefits     - Medical Insurance & Health Savings Account (HSA)   \n  - 401(k)   \n  - Paid Sick Time Leave   \n  - Pre-tax Commuter Benefit      \nApplicants must be currently authorized to work in the United States on a full-time basis now and in the future.      Posted By: Noah Mackeprang",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-17T08:48:40.000Z"
+    },
+    "company": {
+        "name": "Motion Recruitment",
+        "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Los Angeles",
+        "region": "CA",
+        "postal_code": "90101",
+        "street_address": null,
+        "latitude": 34.05224,
+        "longitude": -118.24335
+    }
+}

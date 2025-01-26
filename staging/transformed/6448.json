@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Sr. Data Protection Security Engineer",
+        "industry": "Computer Software",
+        "description": "About the TeamWorkday is looking for an experienced Security Engineer who has an ability to independently research and tackle technical issues and handle events. The main responsibility of the role will be to lead an enterprise Data Loss Prevention (DLP) solution - CASB, Email and Endpoint - with integrated tools and applications across an array of corporate environments.   About the role  - Manage the enterprise Data Loss Prevention (DLP) tools environment, including but not limited to configuring policies, anomaly detection and patching.&amp;nbsp;   \n  - Monitor the use of DLP tools and ensure a consistent process of improvement is in place.   \n  - Create and maintain platform specific documentation.   \n  - Maintain DLP audit and compliance dashboards supporting continuous process improvement   \n  - Diagnose and analyze technical information from multiple sources.   \n  - Work with internal stakeholders, and business partners, to support the DLP technology (troubleshooting, upgrades, etc.)&amp;nbsp;   \n  - Collaborate with the business to identify sensitive, high value data (e.g. customer data, sensitive data, IP & source code) and ensure appropriate controls are in place to protect it.   \n  - Define, implement and support process and technology improvements related to preventing unauthorized disclosure, modification, removal or destruction of information.   \n  - Develop new rules and processes to enhance detection capabilities mitigating the risk of the insider threat and data loss.   \n  - Analyze and aggregate data loss prevention data to support the enhancement/tuning of existing policies and determine additional controls.   \n  - Investigate host, network and log-based security events.   \n  - Analyze global data loss prevention data to provide metric reporting.   \n  - Communicate security, data protection, data loss prevention related concepts to a broad range of technical and non-technical staff at multi-organizational levels.   \n   About you  - Bachelor's degree, or higher, in computer science or a related discipline.&amp;nbsp;   \n  - Minimum 5 years\u2019 experience working in a Security Operations, or related, role.   \n  - Data Loss Prevention and/or Cloud Access Security Broker (CASB) implementation and/or management experience desirable.&amp;nbsp;   \n  - Experience deploying data protection solutions in the cloud, and on-premise.   \n  - Proven background in security engineering, data protection, data lifecycle management, data loss prevention, or experience supporting these security-related solutions.   \n  - Proven experience with creating regular expressions, encoding and encryption.   \n  - Experience with RESTful APIs and automation.&amp;nbsp;   \n  - Experience identifying threats (IoCs and TTPs), vulnerabilities, and exploitations.   \n  - Knowledge of cryptographic implementations at media, file, and application levels.   \n  - Coding/Scripting experience (e.g. Python)&amp;nbsp;   \n  - Strong problem solving with demonstrated proactive correction capabilities   \n  - Comprehensive understanding of industry leading Data Loss Prevention technologies   \n  - Self-starter with an ability to navigate and collaborate effectively within a geographically complex and dispersed global corporation   \n  - Ability to work independently, manage work to ensure quality, on-time delivery.   \n  - Experience in data analysis anomaly detection (e.g. UEBA) preferred&amp;nbsp;   \n  - Experience and/or certification in cyber forensics desirable.   \n  - CISSP, CISA, CEH, OSCP, GIAC, GSEC or other industry recognized security certification(s) preferred, but not essential.   \n   Additional Job DescriptionAt Workday, we believe every potential recruit brings value to the table. Believe you are missing some of the skills and are hesitant to apply? We do not believe in the \u2018perfect\u2019 candidate and are happy to teach. So however you identify and whatever background you bring with you, apply and see what we are all about!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-30T23:53:48.000Z"
+    },
+    "company": {
+        "name": "Workday",
+        "link": "https://www.linkedin.com/company/workday"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "McLean",
+        "region": "VA",
+        "postal_code": "22101",
+        "street_address": null,
+        "latitude": 38.93759,
+        "longitude": -77.18378
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer, Test",
+        "industry": "Information Technology and Services,Computer Software",
+        "description": "At Genesys, we\u2019ve built the best cloud-based Customer Experience (CX) service offerings, which handles millions of interactions a day. Our infrastructure involves hundreds of services deployed across 9 environments globally, and we push out dozens of product builds per day using a top-notch CI/CD pipeline.      We are looking for a talented Software Engineer, Test to work with our Data Analytics team focusing on automated testing of big data processing and batch data actions.      Responsibilities     - Help develop new features for our platform service with quality built in.    \n  - Triage failed automated test executions and report defects when appropriate.    \n  - Participating in code reviews, direct collaboration, and open discussion of ongoing work.    \n  - Develop automation for new features and processes.    \n  - Assist development teams on testing best practices.    \n  - Determine whether to deploy new code to production regions.       \nRequirements     - A Bachelor of Science degree in Computer Science or related degree or equivalent in work experience.    \n  - Proficiency using Java.    \n  - Previous experience using test frameworks like Selenium and TestNG.    \n  - Understanding of cloud computing, ideally AWS.       \nNice To Have     - Agile/Scrum experience.    \n  - Best practices for CI/CD.    \n  - Proficiency using Python.    \n  - Experience testing RESTful API\u2019s    \n  - Experience with big data tools like Apache Spark.    \n  - Experience with Amazon Elastic MapReduce (EMR)    \n  - Experience using version control systems like GitHub and BitBucket.       \nBenefits     - Medical, Dental, and Vision Insurance    \n  - Telehealth coverage    \n  - Flexible work schedules and work from home opportunities    \n  - Development and career growth opportunities    \n  - Open Time Off    \n  - 401(k) matching program    \n  - Adoption Assistance    \n  - Infertility treatments       \nSee more Genesys benefits information at https://mygenesysbenefits.com/",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-01T00:51:21.000Z"
+    },
+    "company": {
+        "name": "Genesys",
+        "link": "https://www.linkedin.com/company/genesys"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Greater Indianapolis",
+        "region": null,
+        "postal_code": "46201",
+        "street_address": null,
+        "latitude": 39.76474,
+        "longitude": -86.16893
+    }
+}

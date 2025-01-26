@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Sr. Developer",
+        "industry": "Financial Services",
+        "description": "Position Summary:   This position is responsible for the delivery of high quality, secure code along with analysis, testing, support, documentation and troubleshooting. The Senior Developer is responsible for the knowledge and understanding of compliance within development and operational policies and procedures in support of PCI audit requirements.   Essential Functions:     - Develops multi-tenant platforms   \n  - Analyzes Business Processes and assist in identification of technical tasks.   \n  - Performs Technical lead role as assigned for specific development projects involving multiple technology components and team members.   \n  - Manages multiple short and long term development tasks in parallel within timeframes assigned.   \n  - Analyzes and troubleshoots issues, problems and alternatives. Develops and executes options and plans for resolution   \n  - Performs other duties as assigned   \n   Education and Experience:     - Bachelor\u2019s degree in Computer Science or related field required, four (4) years of working experience accepted in lieu of education requirement   \n  - Five (5) years\u2019 progressive experience in Software Development or related field required   \n  - Exposure to Financial Services Industry or Payments Processing Industry a plus   \n  - Strong background in Object Oriented Programming concepts and techniques   \n  - Background in both user experience and back end processes functions   \n  - Proficient in the C# programming language   \n  - Experience with n-Tier software systems; adept at middle-tier development involving business and data layers preferred   \n  - Experience with software design patterns is preferred   \n  - Exposure to cross-device mobile application development and/or mobile-optimized browser-based applications a plus   \n  - Microsoft .NET Framework, Microsoft MVC, and Microsoft WCF is required   \n  - Exposure to the following platforms/systems/writing languages, is a plus:   \n   Summary of Qualifications:     - Ability to effectively communicate with others and to assimilate and understand information, in a manner consistent with essential job functions   \n  - Strong organizational skills; ability to multi-task is essential   \n  - Ability to work under pressure; plan and follow implementations to stringent timeframes   \n  - Flexibility and willingness to work at a rapid pace without every detail documented and locked down.   \n  - Ability to understand and carry out oral and written instructions   \n  - Ability to compose simple to complex communications, written or verbal   \n  - Ability to manage multiple development tasks as part of a team, contributing system components to be integrated into a complete product or solution   \n  - Ability to interface with internal and external clients in a professional and understandable manner   \n  - Ability to understand business and technical processes to support business needs.   \n  - Ability to create accurate and understandable system documentation, specifications and user Requirements for complex functions and processes.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:38:45.000Z"
+    },
+    "company": {
+        "name": "CardWorks",
+        "link": "https://www.linkedin.com/company/cardworks"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Horsham",
+        "region": "PA",
+        "postal_code": "19044",
+        "street_address": null,
+        "latitude": 40.182846,
+        "longitude": -75.13714
+    }
+}

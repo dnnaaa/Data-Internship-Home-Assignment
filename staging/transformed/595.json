@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Test Engineer",
+        "industry": "Construction,Staffing and Recruiting,Hospital &amp; Health Care",
+        "description": "Our client has a high-profile position open for an experienced QA Tester. Your career will need to demonstrate extensive experience in advanced softwere testing projects, but functional and automated and in an Agile environment.       Excellent global company; flexible and employee-focused and expanding. This is an opportunity to advance your career in a permanent position. Job is onsite in Florida, or remote with occasional travel possible. Compensation open; depends on job fit. Contract duration initially then conversion to in-house full-time hire.      - Develop automation scripts   \n   - Work closely with development team to guide root cause analysis and keep improving automated quality processes.   \n   - Design and execute test strategies as part of an Agile scrum team.   \n   - Design, code, test, debug and document programs by using Agile development practices   \n   - Translate user stories and requirements to test cases   \n   - Participate in product design reviews to provide input on testability of functional requirements and product designs.   \n   - Collaborate with DevOps and continuous integration project leads to guide test automation infrastructure across multiple products.   \n       Required Skills      - 4+ years of Software Test Engineer experience   \n   - Ability to focus on deadlines and deliverables   \n   - A quick learner, a self-starter, able to work independently, and able to keep up with a fast-paced environment   \n   - Strong verbal, written, and interpersonal communication skills.   \n   - Experience in testing, knowledge of Automation Framework Design and implementation using selenium Tool is required   \n   - Experience working in both Agile and Waterfall methodologies   \n   - Experience working on cross functional teams.   \n   - Must understand version control software   \n   - Write writing clear, concise, and comprehensive test plans.   \n   - Experience using Azure DevOps   \n   - Experience with .NET framework and SQL Server   \n   - Knowledge of DevOps concepts and CI/CD tools   \n   - Experience using automation tools to test web services (REST, PCF )   \n   - Experience with SDLC and QA methodologies, including, Functional testing, E2E testing, Automation, Compatibility testing, Regression Testing and usability testing   \n   - Write and maintain test automation scripts",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-12T00:00:00.000Z"
+    },
+    "company": {
+        "name": "Gables Search Group",
+        "link": "https://www.linkedin.com/company/gables"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Jacksonville",
+        "region": "FL",
+        "postal_code": "32277",
+        "street_address": null,
+        "latitude": 30.325968,
+        "longitude": -81.65676
+    }
+}

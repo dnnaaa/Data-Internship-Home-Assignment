@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "",
+        "description": "HUED is a venture-backed early stage healthcare engagement platform tailored to improving quality of care for Black and Latinx populations. By reducing barriers that these communities face due to fear, distrust, comfortability and lack of access to quality medical care, HUED seeks to change the lives of 500,000 Black and Latino patients by 2025.&amp;nbsp;We are looking for a VP of Engineering. This role will establish company technology vision, strategies, and plans for growth. The VP of Engineering will build, improve and supervise our platform and quality assurance processes.&amp;nbsp;This is an exciting opportunity to be part of HUED\u2019s founding team.&amp;nbsp;Duties and Key responsibilities include:&amp;nbsp;&amp;nbsp;  - Develop the technical aspects of our company's strategy including but not limited to: hiring & building our in-house engineering team & managing outsourced developers/designers.   \n  - Create a timeline for development and deployment of technology services   \n  - Ensure system infrastructure is functioning and working efficiently   \n  - Build processes for data protection and quality assurance   \n  - Monitor and report on Key Performance Indicators and metrics   \n  - Reduce the risk of technological breaches and protect sensitive digital information   \n  - Respond to feedback from stakeholders and use it to make improvements or adjustments needed to our technology stack.   \n  - Make sure regulatory standards are met (e.g. HIPAA, GDPR, CCPA)   \n  - Oversee any changes in system architecture and ensure continued compliance (e.g. SOC 2)   \n  - Deploy and implement a disaster recovery plan in the event of a breach   \n  - Plan and implement appropriate use policies for employees   \n  - Communicate our technology strategy to our partners as well as investors   \n&amp;nbsp;Skills & Knowledge:&amp;nbsp;  - Ability to be a \u201cbig picture\u201d thinker   \n  - Excellent leadership, team building, and management skills   \n  - Able to multitask, prioritize, and manage time efficiently   \n&amp;nbsp;  - Able to build strong interpersonal relationships with peers, leaders, and other senior management throughout the company.   \n  - Encouraging to team and staff; able to mentor and lead   \n  - Excellent verbal and written communication skills   \n  - Enjoys being a polyglot and unafraid to dabble in new programming languages (or frameworks & tools).   \n&amp;nbsp;Education / Experience:&amp;nbsp;  - Bachelor\u2019s degree in information technology, computer science, or related field; Technology-related discipline preferred   \n  - Eight to ten years\u2019 experience in a software development role, information technology role, or related field; five years in management or leadership role preferred.   \n  - Experience with Mobile Application Development.   \n  - Preferable to have experience in building healthcare related products.   \n&amp;nbsp;Computer / Software / Technology Proficiency&amp;nbsp;  - Ruby on Rails, JavaScript, TypeScript, SQL or similar stack.   \n  - Databases: MySQL, PostgresQL, NoSQL (MongoDB, DynamoDB, Redis)   \n  - Code Versioning: Git (using GitHub)   \n  - Mobile Development: React Native, Xamarin or other cross-platform mobile development frameworks. Familiarity with Swift/Objective-C and Java for Android/Kotlin.   \n  - API Development: REST and GraphQL   \n  - Nice to have: DevOps experience leveraging AWS, Docker, Kubernetes or other IaaS or PaaS providers (e.g. Heroku)   \n&amp;nbsp;&amp;nbsp;If interested, please send resume to: engage@huedco.com&amp;nbsp;",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-03T01:40:49.000Z"
+    },
+    "company": {
+        "name": "HUED",
+        "link": "https://www.linkedin.com/company/huedco"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 96,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Atlanta",
+        "region": "GA",
+        "postal_code": "30355",
+        "street_address": null,
+        "latitude": 33.748547,
+        "longitude": -84.3915
+    }
+}

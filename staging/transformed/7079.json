@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "SFOX is looking for a Site Reliability Engineer passionate about blockchain based financial technology. We are looking for someone who shares our values, is a team player but can work independently, and who thrives in a dynamic environment.   RoleIn this role, you will build and maintain a real-time trading infrastructure alongside the backend and frontend engineers. The ideal candidate for this position is a tool builder. We are looking for a strong engineer who is passionate about applying that skill set to problems related to operations and system administration.   What you'll do  - Develop and maintain an SLA and error budget for hundreds of microservices   \n  - Engineer services aimed at infrastructure automation and high availability   \n  - Own and improve SFOX\u2019s continuous integration and deployment processes   \n  - Develop and maintain infrastructure and security strategy   \n  - Analyze potential risks of downtime and develop systems that will eliminate the issue   \n  - Work alongside the engineering team to improve the quality of their code & systems   \n   About you  - Undergraduate Degree in Computer Science and Engineering, or equivalent, required. Masters degree is a plus.   \n  - Five years of experience maintaining high availability services   \n  - Extensive experience with AWS, cloudflare, kubernetes, docker, and linux   \n  - Working knowledge of Google App Engine, kops, cloudformation, terraform, and circleci   \n  - Knowledge of security best practices   \n  - Experience with Bash, Python, YAML, Configuration and Secret Management   \n  - Intimate knowledge of building and maintaining database clusters, caches and proxies (redis, nginx, etc)   \n  - Passion for innovation, automation and for working in early stage startups   \n   We love  - Experience working with trading and market data   \n  - Experience in high-frequency or algorithmic trading   \n  - Experience in trading digital currency   \n  - Knowledge of computational mathematics, statistics, and machine learning   \n  - Understanding of digital currency trading market   \n  - Interest in Bitcoin, digital currency, and distributed ledger technology",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-27T15:39:48.000Z"
+    },
+    "company": {
+        "name": "SFOX",
+        "link": "https://www.linkedin.com/company/sfox"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "California",
+        "region": "United States",
+        "postal_code": "93266",
+        "street_address": null,
+        "latitude": 37.254673,
+        "longitude": -119.61728
+    }
+}

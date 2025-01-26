@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Junior Software Engineer",
+        "industry": "Machinery,Industrial Automation",
+        "description": "Job Description: &amp;nbsp;Looking for a talented and self-motivated Software Engineer. The ideal candidate will have experience developing and maintaining software in C++ and/or C#, ideally for machine controls and novel electro-mechanical systems.   Job Duties:  - Design, implement and debug C++ and C# code for machine controls and HMI (GUI), utilities and backend software.   \n  - Design, implement and debug PLC and/or motion controller code.   \n  - Implement test and simulation code. Execute test plans and write test reports.   \n  - Support, maintain, and document software functionality.   \n   Skills/Qualifications:&amp;nbsp;Required:   - Object-oriented Design and Development (OOD).   \n  - Experience with C++/C#.   \n  - Experience with Winforms and/or WPF development in Microsoft Visual Studio (or equivalent; Qt/Java).   \n  - Experience with software configuration management and source control systems (e.g. Mercurial or Git).   \n  - Must be able to work in a collaborative environment.   \n  - Strong analytical and communication skills.   \n&amp;nbsp;Strongly Desired:   - Experience with or aptitude towards software that controls and interfaces to hardware (analog and digital I/O).   \n  - Experience or understanding of Database systems, such as Microsoft SQL or similar.   \n  - Familiar with real-time concepts.   \n  - Background in, or solid understanding of Mechatronics and interfacing concepts.   \n  - Experience with additive Manufacturing / 3D Printing.   \n&amp;nbsp;Education/Experience:Required:   - B.S. degree in Software, Physics, Mechanical, Electrical, or related.&amp;nbsp; 0+ years of experience developing software.   \nDesired:   - M.S. degree preferred   \n&amp;nbsp;Travel:The expectation is up to 15%&amp;nbsp;Relocation:The relocation package is negotiable.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-02T16:02:51.000Z"
+    },
+    "company": {
+        "name": "Seurat Technologies",
+        "link": "https://www.linkedin.com/company/seurat-technologies"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Wilmington",
+        "region": "MA",
+        "postal_code": "01887",
+        "street_address": null,
+        "latitude": 42.558285,
+        "longitude": -71.163826
+    }
+}

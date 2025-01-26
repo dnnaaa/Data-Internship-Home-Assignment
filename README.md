@@ -51,6 +51,12 @@ deactivate
 
 ## Project Setup
 
+
+Build and start the Docker containers:
+
+```bash
+docker-compose up --build
+
 Export AIRFLOW_HOME before installing dependencies
 
 ```bash
@@ -103,7 +109,6 @@ airflow standalone
 
 - Access Airflow UI at: http://localhost:8080, and enter your login information
 
-
 ## Before we begin
 - In this assignment, you will be asked to write, refactor, and test code.
 - Make sure you respect clean code guidelines.
@@ -155,6 +160,7 @@ The desired schema from the transform job:
     "job": {
         "title": "job_title",
         "industry": "job_industry",
+        
         "description": "job_description",
         "employment_type": "job_employment_type",
         "date_posted": "job_date_posted",

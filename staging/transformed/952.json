@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - LT Workbench Backend",
+        "industry": "Computer Hardware",
+        "description": "At Lightelligence, our engineers have opportunities to grow and develop cutting-edge technology at the forefront of photonic computing. With a culture of internal mobility, there's opportunity to thrive in a variety of disciplines. This is a place for dreamers and doers to succeed.      Become a part of the AI revolution at Lightelligence, where we\u2019re building computational machines that are solving problems in ways that have never been done before!      As a Backend Software Engineer on LT Workbench you will be an integral part of Lightelligence's growing engineering organization and will drive the adoption of our accelerators and ML model-deployment best practices.      As part of the LT Workbench team, you will help build out a platform to allow other internal teams to quickly develop, experiment, iterate, and deploy new projects and ideas. The workbench will be a cloud-native web application and API that enables our scientists and engineers to...      - Perform driver and hardware benchmarks and compare and contrast results.    \n   - Analyze AI workloads from theoretical, software, and hardware perspectives.    \n   - Explore hardware architectures and provide performance estimates.    \n   - Provide informative and flexible visualizations for both models and hardware.    \n   - Provide easy access to an array of models and datasets for all of the above.    \n       What You\u2019ll Do At Lightelligence      - Work with a team to build our cloud-native LT Workbench API and CLI   \n   - Participate in all phases of development, from requirement gathering to deployment   \n   - Write unit tests, integration tests, and documentation for your code   \n   - Assist in building/optimizing our CI/CD pipelines   \n   - Design and deploy AWS cloud infrastructure   \n   - Shape the feature map of the LT Workbench project   \n       Requirements      Preferred Qualifications       If you meet 80% of the qualifications below or have other strengths that you think would benefit our team, we still encourage you to apply.      - Bachelor\u2019s Degree in a relevant discipline, such as Computer Science (or 3+ years relevant experience)   \n   - Excellent coding skills in at least one modern language (e.g., C#, Java, JavaScript, Python)   \n   - Hands-on experience with cloud-based development (any major cloud provider)   \n   - Hands-on experience with Database development (SQL and/or NoSQL)   \n   - Experience using Agile and test-driven development   \n    - Experience with PyTorch, TensorFlow, ONNX or other ML frameworks   \n    Bonus      - Hands-on experience developing with AWS   \n   - Proficiency with Python   \n   - Proficiency with Docker, Git, Unix, and/or Bash   \n   - ML Infrastructure experience   \n   - Modern front-end development experience (e.g., Javascript, HTML, CSS, React, Flask)   \n   - Experience delivering and maintaining open-source packages   \n       Benefits      We offer the following benefits       - Company subsidized health, vision and dental benefits   \n   - 3 weeks PTO and 1 week of paid sick leave   \n   - 401 (k) with an employer contribution   \n   - 9 Paid holidays   \n   - Flexibility - we offer a hybrid work environment   \n   - A great place to work!   \n       Lightelligence is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, and basis of disability or any other federal, state or local protected class.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-24T15:22:38.000Z"
+    },
+    "company": {
+        "name": "Lightelligence",
+        "link": "https://www.linkedin.com/company/lightelligence-ai"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

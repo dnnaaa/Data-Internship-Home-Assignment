@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist I",
+        "industry": "Information Technology and Services,Banking,Financial Services",
+        "description": "Job Description:      Candidate will assist model development groups with review and remediation of model development documentation prior to validation submission.     - Review model development documentation, identify gaps against the current model development required standards, and determine action items to remediate gaps   \n  - Communicate findings to model development teams   \n  - When required, work on champion model review and potential re-development/optimization and/or challenger model development   \n  - Track remediation progress   \n  - Liaison with model development and model risk management teams   \n  - Hands on role in tracking and advising on post deployment ongoing monitoring      \nRequired Skills     - 5+ years of hands on model risk management or banking model development experience.   \n  - Familiarity with model risk management standards and regulation (e.g., SR 11-7)   \n  - Attention to detail   \n  - Good communication skills.   \n  - Ability to work across multiple threads.   \n  - Good analytical skills to breakdown requirements and establish remediation plans.   \n  - Bachelor\u2019s Degree required (in quantitative field preferred)      \nPreferred Skills     - Familiarity with machine learning techniques and algorithms.   \n  - Experience in at least one of the following: Python, SAS, Java.   \n  - Chartered Financial Analyst (CFA), Financial Risk Manager (FRM), Project Management Professional (PMP) or history of AI/ML related journal publications.   \n  - Master's Degree in Statistics, Mathematics, Data Science, Engineering, Computer Science, Economics, or related quantitative field.      \nRequired Technical Skillsets     - Quantitative skills applied to modelling   \n  - Hands on experience with using machine learning techniques and algorithms and getting them to production (statistical models, ensemble and deep learning models).   \n  - Previous data science related work experience and domain expertise within the banking/financial sector   \n  - Strong theoretical understanding behind ML/AI modelling techniques and algorithms   \n  - Statistical computer languages (Python (preferred), R SAS, etc.)",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-21T21:42:41.000Z"
+    },
+    "company": {
+        "name": "Bank of America",
+        "link": "https://www.linkedin.com/company/bank-of-america"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Charlotte",
+        "region": "NC",
+        "postal_code": "28241",
+        "street_address": null,
+        "latitude": 35.223785,
+        "longitude": -80.84114
+    }
+}

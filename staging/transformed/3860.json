@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+        "description": "About StackPath      StackPath is a platform of secure Internet services built at the cloud's edge. StackPath services enable developers to build protection and performance into any cloud-based solution\u2014from apps, to games, web sites, and beyond\u2014without needing cloud security and delivery expertise of their own. More than 800,000 customers already use StackPath services, ranging from early-stage enterprises to Fortune 100 organizations. Headquartered in Dallas, Texas, StackPath has offices across the U.S. and around the world.      For more information follow StackPath at www.fb.com/stackpathllc and www.twitter.com/stackpath.      About The Role      The StackPath Site Reliability Engineering (SRE) team combines software, systems and network engineering to deploy and run a portfolio of high-performance edge services including CDN, WAF and Compute. SRE\u2019s daily focus is on the availability, change velocity, performance and capacity of customer-facing services and supporting internal systems.      On the SRE team you will have the opportunity to apply your experience against systems at scale \u2013 where a single week can involve shifting terabits of traffic between sites, deploying configuration changes to shave milliseconds off billions of requests, or enabling a new software feature on thousands of systems using automated tooling you designed and built.      This role will report to our: VP Site Reliability Engineering      Essential Duties And Responsibilities     - Respond to incidents during on-call duty   \n  - Respond to complex customer escalations, which often cross system, network and software boundaries   \n  - Design, develop and maintain internal service metrics (SLA, SLO, SLI) in cross-team collaborations   \n  - Design, develop and maintain dashboards, tooling, alarms and playbooks in collaboration with operations teams to support service-level objectives   \n  - Design, develop and maintain reusable monitoring and canary infrastructure   \n  - Design, execute and evaluate performance experiments   \n  - Collaborate with development teams to complete production readiness checklists prior to major feature launches   \n  - Collaborate with operations and engineering teams in determining root cause of major incidents, performance anomalies, or other customer-impacting issues      \nDesired Skills And Experience     - Experience with monitoring and alerting platforms (Prometheus and Alertmanager, Grafana, Zabbix, Nagios)   \n  - Experience with a Linux server environment   \n  - Experience with scripting languages (Python, Ruby, Perl)   \n  - Experience with systems programming languages (Go, C)   \n  - Experience with configuration management systems (Puppet, Ansible, Chef)   \n  - Expert-level proficiency in systems, network or software engineering   \n  - Excited about working on a remote-first engineering team   \n  - Proficient at troubleshooting complex systems   \n  - Production experience in a service provider environment   \n  - Comfortable with a software engineering workflow for collaboration and configuration management \u2014 branches, pull requests, merges, conflicts      \nProjects you might work on     - Product launches   \n  - Software and platform feature releases   \n  - Live streaming event planning and execution   \n  - Network reach and capability expansion   \n  - Network and system automation tooling development   \n  - Telemetry and monitoring system development   \n  - Defining service metrics (SLA, SLO, SLI) during new product development      \nThis Job Description Is Not Intended To Be All-inclusive.      StackPath is an Equal Opportunity Employer. EOE/AA M/F/D/V      If your experience and qualifications match our current needs, a member of our human resources team will contact you. We look forward to hearing from you.      StackPath collects and processes personal data submitted by job applicants in accordance with our Privacy Policy",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-14T01:30:50.000Z"
+    },
+    "company": {
+        "name": "StackPath",
+        "link": "https://www.linkedin.com/company/stackpath"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Dallas",
+        "region": "TX",
+        "postal_code": "75342",
+        "street_address": null,
+        "latitude": 32.777977,
+        "longitude": -96.79621
+    }
+}

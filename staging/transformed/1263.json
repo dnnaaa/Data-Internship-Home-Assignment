@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Embedded Software Engineer",
+        "industry": "Information Technology and Services,Semiconductors,Wireless",
+        "description": "Responsibilities:The Embedded System Engineer is responsible for developing on or deploying different test environments and capabilities on the platforms. They will develop and integrate tests. They will also need to be able to design and execute experiments to triage issues.Minimum Qualifications  - Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.   \n  - 1+ years Experience with Embedded System   \n  - 1+ years Software Engineering or related work experience.   \n  - 1+ years experience with Programming Language such as C, C++, Java, Python, etc.   \n  - Familiarity with debugging via JTAG interface   \n  - Hands-on Knowledge of Linux (installation, configuration and usage, distros)   \n  - Knowledge of Data center Servers. Storage solutions, and Peripherals   \n  - Ability to use oscilloscopes and logic analyzers   \n  - Experience with SOC architecture, design , verification, or validation   \n  - Strong Familiarity with Android.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-22T01:41:10.000Z"
+    },
+    "company": {
+        "name": "ALTEN",
+        "link": "https://fr.linkedin.com/company/alten"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Diego",
+        "region": "CA",
+        "postal_code": "92161",
+        "street_address": null,
+        "latitude": 32.71576,
+        "longitude": -117.16382
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer-App Store Frameworks",
+        "industry": "Consumer Electronics",
+        "description": "Summary       When this team introduced the App Store, it launched a cultural and economic      phenomenon that changed the way people live, work, and play. These      engineers continue to innovate the platform, now home to over 1.5 million apps      \u2014 each created using the team\u2019s own software development kit and related      services. All those apps mean the store takes billions of requests from more      than 500 million visitors every week, across iOS, macOS, tvOS, iPadOS, and      watchOS.      To deliver such a rich experience at this scale, the engineers build highperformance      systems backed up by persistent systemwide A/B testing. And to      help people discover apps they love, the team uses machine learning      techniques that include natural language processing to develop new      algorithms for personalization, search, and recommender systems. In a world      where apps have become essential in people\u2019s daily lives, the App Store team      has become essential to Apple\u2019s business.      Areas of work include macOS/iOS Engineering, Full-Stack Engineering, Front-End      Engineering, Back-End Engineering, Quality Engineering, Machine Learning      Engineering, Data Science, Data Engineering, Site Reliability Engineering, Commerce      Engineering, and Engineering Project Management.         The App Store engineering team is looking for a motivated and dedicated engineer to join our team! Help build the next generation App Store and continually enhance our current store. The App Store team empowers developers to create successful global businesses and customers to discover the best apps. Be a part of a innovative team making a difference.          Key Qualifications       Strong programming fundamentals and experience with Objective-C      Strong problem solving and critical thinking skills      You have a passion for quality and attention to detail      You bring a depth of experience working with large code bases      You are passionate about reaching millions of users across our many platforms      You love collaborating under tight deadlines and tackling problems with imaginative and elegant solutions.          Description       The App Store Frameworks team works cross-functionally throughout Apple to develop reliable daemons, great APIs for app installation, In-App Purchases, and On Demand Resources. Help design and implement APIs used by Apple employees and developers around the world. We actively investigate production issues to resolve bugs and enhance performance with each iOS/tvOS/macOS release. Scalability is always a top concern due to the massive user-base of iOS/tvOS/macOS customers. Reliability is crucial, and we\u2019re looking for engineers with a passion for architecting complex systems.          Education & Experience       Bachelors degree, or higher, in Computer Science or other relevant discipline          Role Number: 200210069",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-01T07:46:07.000Z"
+    },
+    "company": {
+        "name": "Apple",
+        "link": "https://www.linkedin.com/company/apple"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cupertino",
+        "region": "CA",
+        "postal_code": "95014",
+        "street_address": null,
+        "latitude": 37.319313,
+        "longitude": -122.02927
+    }
+}

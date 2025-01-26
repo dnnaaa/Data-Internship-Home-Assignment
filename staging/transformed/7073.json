@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Financial Services",
+        "description": "Job Title:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Sr. Windows SRE AdministratorDepartment:&amp;nbsp;&amp;nbsp;EIS \u2013 Traditional Services \u2013 Windows Group Location:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Nomura NYC ( currently remote )Start:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;As soon as possible.Overview:Nomura Windows group is a global team responsible for the maintenance and support of the Windows infrastructure systems used within the bank. The team plays a critical role and works closely with global counterparts in maintaining the production infrastructure and provide Windows related services to our clients.&amp;nbsp;This is an exciting role and the successful candidate\u2019s primary responsibility will be to provide support for the firm\u2019s Windows infrastructure. The team operates in a follow the sun support model. &amp;nbsp;The candidate must be a good team player, highly articulate, and be able to work well in a high pressure and technically challenging environment. The candidate should be passionate about supporting Windows based servers in highly virtualized environment. Good technical, communication and interpersonal skills are particularly important.&amp;nbsp;Windows requirements:&amp;nbsp;  - As a Windows SRE administrator, the candidate will expected to build software that will increase the efficiency of daily support.&amp;nbsp;This will also include updating runbooks and support procedures.   \n  - Knowledge of and Support of Operating System versions 2008, 2012 and 2019.   \n  - Knowledge of Active Directoy administration and the ability to modify GPOs   \n  - Candidate should be able to deploy and support MS Windows clusters.   \n  - The ability to create active directory administration script, and Windows OS support scripts,&amp;nbsp;via scripting languages (PowerShell&amp;nbsp;is highly preferable, while ability in Python, VBScript, Jscript/JavaScript to achieve the scripting objective here is also a big plus )   \n  - General support and administration of Anti-Virus such as Trend Micro and Windows Defender.   \n&amp;nbsp;Role / Principal Accountabilities\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Support and Manage Microsoft Windows based systems. \u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Responsible for looking at ways to improve and automate SRE items which include availability, latency, performance, efiiciency, and capacity planning\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Troubleshooting support and system performance issues.\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Handling of trouble tickets, user requests, proactive maintenance.\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Support weekend BCP / DR tests.\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Assisting application teams in post-configuration of new servers deployed.\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Candidate should have a good understanding of ITIL and Change management policies.\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Cordination with Infrastructure teams and Business IT managers to deliver projects on schedule.\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Implement engineered solutions to improve efficiency and stability of the infrastructure.\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Provide documentation for 1st line Operations team and maintain run books.\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Weekend oncall production support on a rotation basis.Skills & Experience Required:  - Familiarity with Site Reliability Engineering components   \n  - Deep understanding of Windows OS, Cloud and associated tools.   \n  - Deep understanding of active directory,&amp;nbsp;and how enterprise class identity and access management (IAM) is extended from on-premises environment to public cloud.   \n  - Cloud tools such as &amp;nbsp;Ansible, Kubernetes, and Docker are a plus.   \n  - Familiarity with Cyberark and Windows time services is a plus.   \n  - Strong understanding of Virtual (VMware) and physical networking configuration.   \n  - Strong ability to troubleshoot issues and provide resolution.   \n  - Ability and desire to learn and work independently as well as in a team   \n  - Project management and organizational skills.   \n  - Strong written and verbal communication skills are a must.   \n  - Analytical and disciplined approach to problem solving.   \n  - Ability to establish and maintain effective working relationship with in the infrastructure teams.   \n  - Previous experience with supporting a banking infrastructure is preferred.   \n&amp;nbsp;&amp;nbsp;Additional qualifications:&amp;nbsp;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hardware support for HP DL380 and Cisco B200 \u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TCP/IP, Networks and Firewalls.\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Client/Server systems\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Familiarity with Enterprise Monitoring systems is desirable\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Good understanding of Information Security policies.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-09-01T19:37:20.000Z"
+    },
+    "company": {
+        "name": "Nomura",
+        "link": "https://jp.linkedin.com/company/nomura"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "New York City Metropolitan Area",
+        "region": null,
+        "postal_code": "10021",
+        "street_address": null,
+        "latitude": 40.748295,
+        "longitude": -73.98556
+    }
+}

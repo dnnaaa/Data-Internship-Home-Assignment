@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Marketing and Advertising,Computer Software,Internet",
+        "description": "There is a lot that goes into building an Integrated Ministry Platform and Logos Bible Software. We are looking for a Site Reliability Engineer who can help us grow our Microsoft Azure cloud infrastructure. Join us as we make revolutionary technology for administration and discipleship for churches all over the world.      Requirements      What we are looking for      - 3+ years of Azure experience or equivalent Amazon AWS, Google Cloud, etc.   \n   - 3+ years of Windows Server experience (WS2016 and WS2019)   \n   - Linux experience in a mixed environment   \n   - Coding or scripting experience (PowerShell, Python, etc.) and a developer\u2019s mindset towards system administration (always looking to automate manual tasks)   \n   - Experience working with server automation (Puppet, Ansible, Chef, Teraform, etc.)   \n   - Basic familiarity with Networking, DNS, SSL certificates   \n   - Passion and vision for helping software developers tune and scale applications   \n    Responsible for      - Configuring infrastructure systems to provide load balancing, application firewalls, reverse proxying, and related services.   \n   - Implementing and maintaining systems that monitor networks, server health, and application performance.   \n   - Striving to deliver high availability and data redundancy throughout our platform.   \n   - Participating in our on-call rotation (typically 1 week out of 4)   \n       Benefits      - Unlimited vacation time   \n   - Health insurance plan   \n   - 401(k) retirement plan with employer matching   \n   - Free beverages and espresso   \n   - Remote Friendly!",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-04T03:50:44.000Z"
+    },
+    "company": {
+        "name": "Faithlife",
+        "link": "https://www.linkedin.com/company/faithlife"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Bellingham",
+        "region": "WA",
+        "postal_code": "98226",
+        "street_address": null,
+        "latitude": 48.754898,
+        "longitude": -122.47812
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Retail",
+        "description": "The Senior Reliability Engineer will drive the technical team efforts and work with other Reliability Engineers (RE), Product Managers, Software Engineers, and Architects to produce mission-critical infrastructure, tools, performance improvements, actionable and meaningful performance measurements, and communication to stakeholders.&amp;nbsp;The Senior RE is expected to work with management, peers, and customers to define and implement the technical vision, improve monitoring tools, error detections, defects elimination while improving Mean Time to Detection/Resolution, and overall service availability and customer satisfaction. The RE role provides an opportunity to blend system design and software engineering skills with a passion for troubleshooting and defects elimination to address an ever-changing applications and environments with scalability and reliability challenges.This is a full time remote opportunity.&amp;nbsp;&amp;nbsp;Responsibilities:&amp;nbsp;  - Improving and developing reliability platform, building out custom tools, infrastructure, and services. Automation of manual tasks to reduce toil.   \n  - Perform engineering and technical tasks as assigned by applying general engineering principles.   \n  - Perform independent research in support of technical tasks.   \n  - Contribute positively to open-source projects developed by the client and join existing communities. Navigate this broader ecosystem and structure projects with upstream/ downstream opportunities in mind.   \n  - Participate in an on- call rotation, have strong written communication skills, and be able to develop working relationships with coworkers.   \n  - Provide technical expertise and consultation through direct involvement to identify and resolve problems.   \n  - Work frequently with Product teams on shared goals and cross-team projects.   \n  - Bring experience, pragmatism, empathy, and composure to interactions with teams outside of the RE organization.   \n  - Work frequently with Product teams on shared goals and cross-team projects.   \n  - Balance planned and reactive work using basic project planning techniques and technical roadmaps.   \n  - Experience negotiating SLIs, SLOs, and SLAs with product owners.   \n  - Supervise service reliability, metrics, sustainability, technical debt, and operational toil for live services running at scale.   \n  - Work across multiple project teams simultaneously to support rapid development efforts.   \n  - Identify and integrate with third-party solutions where it makes the most sense.   \n  - Use data to understand the availability, reliability, and sustainability of our software.   \n&amp;nbsp;Minimum&amp;nbsp;Requirements-&amp;nbsp;     - Bachelor's Degree in&amp;nbsp;Computer Science, Software Engineering, Information Systems   \n  - 3-5 years of experience&amp;nbsp;   \n  - Valuable Technologies Like: Cloud computing, Web Services, Kubernetes, (Repository Management git/svn/), Ansible, Terraform, Virtualization, Docker Containers, Kafka, RabbitMQ, Redis, Netbox, Akamai/Apigee   \n  - Valuable Methodologies Like: Agile, SCRUM, Reliability Engineering, 12 factor apps, microservice architecture, public cloud architecture   \n  - Valuable Languages Like: React, Node, Kotlin, C#, Java, JavaScript, Linux shell, Powershell, SQL, HTML, CSS   \n  - Valuable Databases/OS Systems Like: Non-relational databases (NoSQL, Elasticsearch, CosmosDB), MySQL, Postgres, SQLServer, Oracle, DB2, Windows, Linux   \n  - Valuable Observability Tools Like:&amp;nbsp;Grafana, Prometheus, Victoria Metrics, Elasticsearch, Azure Monitor, APM Tools (NewRelic, DataDog, AppDynamics, etc)   \n  - Service Management Tools Like: Jira, Pivotal Tracker, Xmatters   \n  - Intellectual curiosity, problem solving, and openness is key to its success. Mindset for solving production systems issues and understanding root cause while providing \u201cDetective work\u201d and automating away toil \u2013 doesn't like boring repetitive tasks. Enjoys digging into new problems.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-17T17:16:49.000Z"
+    },
+    "company": {
+        "name": "Revel IT",
+        "link": "https://www.linkedin.com/company/revel-it"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Coraopolis",
+        "region": "PA",
+        "postal_code": "15108",
+        "street_address": null,
+        "latitude": 40.517517,
+        "longitude": -80.164444
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer - Remote",
+        "industry": "Information Technology and Services",
+        "description": "Our client has 2 large projects and is looking for Software Engineers to help support them.   &amp;nbsp;WHAT YOU\u2019LL DO&amp;nbsp;  - Build solutions that meet our customer\u2019s needs and are maintainable, cost-effective and responsive.   \n  - Partner with our product, design and infrastructure teams to build or enhance applications and services.&amp;nbsp;   \n  - Own the reliability of the application and services by partnering. operations and infrastructure to build, scale and monitor services and applications.   \n  - Design, develop, test, debug and maintain software code for our high-performance business applications.   \n  - Analyze and optimize User Interface and Backend Application code for efficiency.   \n   WHAT YOU'LL NEED  - At least 5 years of professional experience building high-performance, reliable systems in a complex, multi-tiered and distributed environment.   \n  - Design and implement services in a variety of programming languages including Nodejs, Golang.   \n  - Successful deployment of production code at scale.   \n  - Proven track record of writing maintainable code which includes unit tests, readable code and decent implementations of design patterns.   \n  - Expertise with learning new technologies and familiarity with our tech stack: JavaScript, Node.js, Go, React.js, ElasticSearch, NSQ, GraphQL and Postgres.   \n   To schedule an interview with our recruiter, please visit : https://calendly.com/lauren-jessup/vaco_needs",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-05T14:38:16.000Z"
+    },
+    "company": {
+        "name": "Vaco",
+        "link": "https://www.linkedin.com/company/vaco"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Senior Software Engineer - Payments",
+        "industry": "Internet",
+        "description": "Description:   Paysign is looking for an experienced expert-level software engineer to join our team in a critical      role. This position is responsible for building, maintaining, and troubleshooting core payments      transaction systems, APIs, and data, primarily using core Java technologies. In this role, you      will be designing and building new APIs for the core systems, supporting existing APIs, as well      as taking on ownership of code enhancements and projects related to these systems. Our      systems are high performing and highly available; therefore, you must have deep experience in      building and maintaining these kinds of world-class systems. We are looking for solid and experienced people ready to join a highly talented and focused engineering organization. Experience in the payments and/or financial transaction processing domains is required.               Essential Functions        - Be the expert on our core back-end systems (financial transaction processing)   \n  - Design, build, test, and support new and existing APIs for the core systems   \n  - Design, build, test, and support new/existing functionality in core systems   \n  - Building additional tools and applications as needed to support operations   \n  - Define, design, and build new code and systems for future capabilities   \n  - Troubleshoot and debug core applications   \n  - Assist with operational support for core systems   \n.      Requirements:     - Expert level Java Programmer   \n  - Deep understanding/experience with Payments/FinTech software, protocols, and processes   \n  - Proficient in other programming languages and tools (preferably C#, Go, Python, etc.)   \n  - Deep understanding of concurrency and transactions   \n  - Hands-on experience with high-volume transactional systems and clustered applications   \n  - Expert in reading, understanding, and internalizing existing codebases   \n  - Proficiency with database technologies (SQL, ORM)   \n  - Experience with both REST and SOAP API design and implementations   \n  - Commitment to testing at all levels of system engineering   \n  - A mindset of Operational Excellence   \n  - Excellent written, verbal, and interpersonal skills   \nEducation/Experience        - Bachelor's degree in a technical discipline such as computer science, information systems or related field, or equivalent related experience.   \nJob Type: Full-time, on-site               PM20",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T06:35:16.000Z"
+    },
+    "company": {
+        "name": "Paysign, Inc.",
+        "link": "https://www.linkedin.com/company/paysign"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Henderson",
+        "region": "NV",
+        "postal_code": "89009",
+        "street_address": null,
+        "latitude": 36.034096,
+        "longitude": -114.98445
+    }
+}

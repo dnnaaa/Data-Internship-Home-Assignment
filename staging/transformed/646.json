@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Sr. Software Engineer",
+        "industry": "Financial Services,Information Technology and Services",
+        "description": "Every day, Global Payments makes it possible for millions of people to move money between buyers and sellers using our payments solutions for credit, debit, prepaid and merchant services. Our worldwide team helps over 3 million companies, more than 1,300 financial institutions and over 600 million cardholders grow with confidence and achieve amazing results. We are driven by our passion for success and we are proud to deliver best-in-class payment technology and software solutions. Join our dynamic team and make your mark on the payments technology landscape of tomorrow.      Primary Responsibilities     -  Help maintain and extend existing applications written in Laravel 5/6/7, MySQL, Vue & jQuery   \n  -  Develop and maintain publicly consumable packages to make it easy to integrate to our services    \n  -  Architect and evolve evergreen projects using the latest versions of Laravel and Vue       \nRequired Skills/Knowledge     -  Extensive experience with PHP & Laravel 5.x and greater.    \n  -  Experienced in designing and maintaining MySQL databases    \n  -  Experience with testing and test-driven workflows (PHPUnit)    \n  -  Working with Git (Github) and common Git based workflows    \n  -  Advanced knowledge building RESTful APIs    \n  -  Comfortable developing in a Linux environment    \n  -  Motivated to contribute and release to open source software    \n  -  Comfortable in a fast paced, evolving environment    \n  -  Hands on, passionate and persistent    \n  -  Extremely comfortable with CLIs    \n  -  Strong JS skillset (Vue or React, Vanilla, ES6/7)    \n  -  Strong desire to evolve, progress, learn, and collaborate       \nBonus Skills/Knowledge     -  Docker    \n  -  AWS/Vapor    \n  -  Active and involved with the Laravel community    \n  -  Experience in the payment acceptance industry    \n  -  Familiar with PCI DSS       \nBenefits     -  The chance to make a huge impact on a business    \n  -  Direct involvement in all aspects of the product\u2019s development    \n  -  Ability to work on a forward focused tech-stack    \n  -  Competitive salary, based on experience.    \n  -  401K    \n  -  Health/Dental/Vision Insurance       \nGlobal Payments Inc. is an equal opportunity employer.      Global Payments provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex (including pregnancy), national origin, ancestry, age, marital status, sexual orientation, gender identity or expression, disability, veteran status, genetic information or any other basis protected by law. Those applicants requiring reasonable accommodation to the application and/or interview process should notify a representative of the Human Resources Department.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T21:48:32.000Z"
+    },
+    "company": {
+        "name": "Global Payments Inc.",
+        "link": "https://www.linkedin.com/company/global-payments"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Michigan",
+        "region": "United States",
+        "postal_code": "48832",
+        "street_address": null,
+        "latitude": 44.874798,
+        "longitude": -85.73098
+    }
+}

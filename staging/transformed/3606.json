@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "Marketing and Advertising,Information Technology and Services,Information Services",
+        "description": "We are seeking a site reliability engineer (SRE) to build and manage highly reliable data platform infrastructure and applications. Specifically, we are searching for someone who brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with world-class engineers to develop big data solutions and deliver positive user experiences at every interaction.   RESPONSIBILITIES:  - Build software and systems to manage platform infrastructure and applications   \n  - Continuous automation of operational processes   \n  - Provide primary operational support and engineering for suite of SaaS tools   \n  - Intervene and remediate when systems and services deviate significantly from normal levels   \n  - Work with release engineers to ensure that the software delivery pipeline is as efficient as possible   \n   PREFERRED PROFILE:  - 3-5 years of relevant experience in operating   \n  - BS/MS in Computer science or equivalent   \n  - medium-scale distributed system in a cloud environment   \n  - Experience in Kubernetes, Hadoop and Docker containers   \n  - Experience in (CI/CD) - Jenkins, Concourse tools   \n  - Experience in AWS Cloud, Server-less technologies   \n  - Experience in building and deploying automation using scripting/ programming languages",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-12T12:03:18.000Z"
+    },
+    "company": {
+        "name": "Artemis Consultants",
+        "link": "https://www.linkedin.com/company/artemis-consultants"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Orlando",
+        "region": "FL",
+        "postal_code": "32889",
+        "street_address": null,
+        "latitude": 28.53833,
+        "longitude": -81.378876
+    }
+}

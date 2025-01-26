@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "100% remote, Contract to Hire, W2 only   The #1 online wine retail store desires passionate Site Reliability Engineers who are fascinated with improving the customer experience by helping them discover great wines from all over the world.   Envisioned yourself yourself joining the team? Cheers, innovators!   Top Skills' Details  - AWS Cloud \u2013 setting up cloud formations, security groups, cloud watch metrics   \n  - Terraform & Kubernetes   \n  - Automation/CM with Ansible and Chef-Python Coding required   \n   Responsibilities will include, but not be limited to:  - Development of new applications and tools to automate key portions of our production infrastructure   \n  - Development of solutions for the automation of system provisioning and deployment   \n  - Research and implementation of new monitoring systems   \n  - Develop and deploy new tools for the automation of configuration management processes   \n  - Build internal tools for centralized infrastructure management",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-08-27T19:54:49.000Z"
+    },
+    "company": {
+        "name": "TEKsystems",
+        "link": "https://www.linkedin.com/company/teksystems"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Francisco",
+        "region": "CA",
+        "postal_code": "94121",
+        "street_address": null,
+        "latitude": 37.78008,
+        "longitude": -122.42016
+    }
+}

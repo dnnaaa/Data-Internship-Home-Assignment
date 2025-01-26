@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+        "description": "Worker Sub-Type      Regular      Job Description      THE POSITION      At BlackBerry, we develop state-of-the-art machine learning algorithms to solve long-standing problems in computer security. We discover novel ML techniques and applications, build systems to handle petabytes of ludicrously high dimensional data, and protect people from bad actors.      We\u2019re looking for a Machine Learning Engineer to work on a team of 20 scientists and engineers and\u202fautomate the\u202ftraining and evaluation\u202fof\u202fmodels underlying all of our security products across millions of endpoints as well as in the cloud.\u202fThis position will partner with many peer engineering, product, and research teams, so written and in-person communication skills are extremely important.      What You Will Do     - Build\u202fand maintain automated\u202ffeature engineering and machine learning training systems\u202fin Python    \n  - Build\u202fand maintain\u202fanalytics tools for use within our AWS cloud environment    \n  - Regularly contribute to documentation of our systems and tools as well as code reviews    \n  - Communicate with internal teams and stakeholders to understand project requirements          \nWHO ARE WE LOOKING FOR?     - Experience writing and maintaining Python (ideally on a collaborative team)    \n  - Experience performing analytics and developing tools using Python and Pandas    \n  - Experience with unit testing and\u202fversion control    \n  - Excellent written and verbal communication    \n  - Good understanding of the *nix command line    \n  - 0+ years in industry with a PhD or 3+ years with a Master\u2019s degree or 5+ years with a Bachelor\u2019s          \nABOVE AND BEYOND     - Experience automating infrastructure to perform feature extraction and selection    \n  - Experience automating infrastructure to train, evaluate, and deploy ML algorithms    \n  - Solid grasp of statistics including product evaluation techniques like AB(N) testing    \n  - Experience using AWS\u202f(S3, EC2, Glue Data Catalog, etc.)    \n  - Experience with serverless query-in-place technologies like Presto / Athena    \n  - Experience building and using Docker containers          \nJob Family Group Name      Product Development      Scheduled Weekly Hours      40",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-20T05:12:47.000Z"
+    },
+    "company": {
+        "name": "BlackBerry",
+        "link": "https://ca.linkedin.com/company/blackberry"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Boston",
+        "region": "MA",
+        "postal_code": "02118",
+        "street_address": null,
+        "latitude": 42.358994,
+        "longitude": -71.05863
+    }
+}

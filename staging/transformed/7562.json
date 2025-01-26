@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Engineer",
+        "industry": "Information Technology and Services",
+        "description": "Cloud Data Engineer                    Are you an experienced data engineer looking for a new challenge? SGI is helping a respected company recruit a Cloud Data Engineer. This is a remote, contract role!              If you were already working in this IT Management role, here are some of the things you would have done this week:        - Create scalable ETL and reporting solutions   \n  - Review, analyse, and evaluate the scope of business problems   \n  - Develop ETL and data warehousing solutions   \n  - Ensure data integrity, performance quality, and resolution of data load failures   \n  - Create detailed technical specification   \n       To succeed in this data capture position, you should be proficient in HDFS, HBase, YARN, SPARK, Oozie, and shell scripting and have a background in all aspects of software engineering with good skills in parallel data processing, data flows, REST APIs, JSON, XML, and microservice architecture. You will also need:        - Experience in RDBMS technologies and concepts   \n  - Experience working with Teradata, Netezza, Oracle, DB2 databases   \n  - An understanding of File Formats - ORC, Parquet, Avro File formats   \n  - Programming/scripting experience skills - UNIX shell, Python, Perl, and JavaScript   \n  - Experience working on large data sets with performance tuning and troubleshooting   \n       Other essential attributes include knowledge of Spark, Spark Streaming, Spark SQL, and Kafka, experience working with Databricks, Snowflake, Big Query, or Red Shift and as a data engineer, excellent communication skills, and the ability to work independently.             If this remote Cloud Data Engineer job excites and motivates you, please apply with SGI today.             Award-Winning International Recruitment Specialists Source Group International - bring together 3 recruitment businesses within Technology & Life Sciences. As a business, we believe in doing better every day. It's who we are; it's what unites us. Our inclusive and collaborative culture, commission structure, incentives, working environment, and opportunities to progress are exceptional.         Desired Skills and Experience      HDFS, HBase, YARN, SPARK, Oozie and shell scripting   Background in all aspects of software engineering with strong skills in parallel data processing, data flows, REST APIs, JSON, XML, and micro service architecture.   Hands on design and development in Java/Core Java related technologies   Hands on design and development experience on big data related technologies - Spark, Hadoop, Hive, MapReduce & Webservices   Hands on experience in RDBMS technologies and concepts   good knowledge of writing SQL and interacting with RDBMS and NoSQL database - HBase programmatically.   Hands on experience working with Teradata, Netezza, Oracle, DB2 databases   Strong understanding of File Formats - ORC, Parquet, Avro File formats.   Hands-on programming/scripting experience skills - UNIX shell, Python, Perl, and JavaScript.   Worked on large data sets and experience with performance tuning and troubleshooting.   Knowledge of Spark, Spark Streaming, Spark SQL, and Kafka is a plus.   Experience working in the healthcare domain is a plus   Ability to work in a fast-paced delivery environment   Strong communicator   Ability to work independently with minimum involvement from client SMEs   Experience working with Databricks, Snowflake, Big Query or Red Shift   Experience working on one or more cloud platforms such as GCP, AWS or Azure   Overall information technology experience   ETL and ELT tools   Experience as a data engineer",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-05T17:32:45.000Z"
+    },
+    "company": {
+        "name": "Source Technology",
+        "link": "https://uk.linkedin.com/company/source-technology-ltd"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Los Angeles",
+        "region": "CA",
+        "postal_code": "90101",
+        "street_address": null,
+        "latitude": 34.05224,
+        "longitude": -118.24335
+    }
+}

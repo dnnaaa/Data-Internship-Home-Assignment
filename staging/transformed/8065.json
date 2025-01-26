@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer",
+        "industry": "Computer Hardware",
+        "description": "Description:   SEMCON provides a highly qualified, professional, and responsive technical and managerial workforce to satisfy customer requirements that support the Federal Aviation Administration (FAA)&amp;apos;s mission, vision, goals. SEMCON's company culture aligns enriching career experiences, growth opportunities, and collaborative engagement for all SEMCON employees resulting in a company value being greater than the sum of our parts.                       Want to be part of our team?               We are searching for a Software Engineer to join our  NJ team in Egg Harbor Township supporting software design, development, maintenance, testing and interface of software with computer hardware systems. Experience in RedHat/CentOS or similar Linux Operating Systems is required.               The Software Engineer will have the knowledge, skills, abilities and/or Technical experience (either professional or educational) in all or some of the following areas:        - Languages: C/C++, Java, or similar object-oriented language   \n  - Platforms:  ActiveMQ , SOA, JMS   \n  - Operating Systems: Windows, Linux   \n  - Software: Familiarity with modern repositories such as Subversion or Git, and experience working with XML   \n  - Adaptability in a software environment   \n  - SQL or other databases is a plus   \n  - VMWare/Citrix virtual environments or equivalent is a plus   \n  - Experience in FAA/NAS Systems is a plus.   \n         Documentation skills, and excellent verbal and written communication skills are required.               Bachelor&amp;apos;s Degree in Engineering, Math, Computer Science, or other related discipline, and 3-5 years of experience and the ability to obtain a Security Clearance is required.                This position may require some travel (approx. 10-15-%).                SEMCON offers a competitive salary and complete benefits package which includes health benefits (medical, dental, vision and life), 401K with a generous employer match,  paid time off and paid holidays                .      Requirements:",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-10-18T06:06:51.000Z"
+    },
+    "company": {
+        "name": "Semcon",
+        "link": "https://se.linkedin.com/company/semcon"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Egg Harbor Township",
+        "region": "NJ",
+        "postal_code": "08234",
+        "street_address": null,
+        "latitude": 39.38301,
+        "longitude": -74.607956
+    }
+}

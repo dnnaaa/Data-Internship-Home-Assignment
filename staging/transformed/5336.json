@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Performance Software Engineer, Autopilot AI (Dojo)",
+        "industry": "Automotive,Renewables &amp; Environment,Utilities",
+        "description": "The Role      As a member of the Dojo machine learning team, you will be responsible for enabling Tesla\u2019s neural networks to train efficiently on our upcoming in-house custom-silicon supercomputer systems. Join a small team of experienced developers in optimizing and scaling the deployment of our Pytorch-derived neural networks on Tesla's custom massively-parallel Dojo accelerators. Work with many of the same great engineers who delivered Tesla\u2019s custom FSD computer. The ideal candidate has experience with writing software for large distributed systems.      Responsibilities     - Understand and model the end to end training performance of the Autopilot SW team's Pytorch-derived neural networks on the Dojo system.   \n  - Develop software that scales and improves training performance based on your analysis of bottlenecks   \n  - Collaborate with the Dojo HW team to understand current HW architecture and propose future improvements      \nRequirements     - BS in relevant field (Computer Science, Computer Engineering, etc.)   \n  - Comfortable with C++ and Python   \n  - Capable of delivering results with minimal oversight   \n  - Good communication skills      \nNice To Have     - Experience scaling neural network training systems or other large distributed systems   \n  - Familiarity with the internals of Pytorch   \n  - Performance analysis experience   \n  - Experience coding parallel programs   \n  - Able to work from Deer Creek (Palo Alto) office   \n  - Ready to start soon",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-26T23:59:33.000Z"
+    },
+    "company": {
+        "name": "Tesla",
+        "link": "https://www.linkedin.com/company/tesla-motors"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Palo Alto",
+        "region": "CA",
+        "postal_code": "94310",
+        "street_address": null,
+        "latitude": 37.445103,
+        "longitude": -122.16036
+    }
+}

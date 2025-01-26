@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Embedded Software Engineer",
+        "industry": "Telecommunications",
+        "description": "As a Software Engineer, you will work with a premier team developing and deploying new technologies on a next-generation satellite network.    The groundbreaking satellite network is redefining what is possible with satellite-based internet service requiring you to innovate, design, and develop in the world of secure software-defined satellite communication.   Viasat\u2019s unique position as a service provider and equipment manufacturer allows you to experience the whole life cycle of networking software development \u2013 all the way from design to deployment.   Requirements  - 5+ years of software engineering experience with coding and debugging skills in C, and C++ on Linux   \n  - Experience with encryption and authentication software   \n  - Experience with OpenSSL crypto libraries   \n  - Experience with bash and Python scripting in Linux   \n  - Possess a DevOps approach   \n  - Up to 20% travel to Carlsbad, CA if not currently in the area   \n   Preferences  - Deep knowledge of OS features like Multi-threading, synchronization, memory management, and networking on Linux or Linux-like Operating systems   \n  - Experience with Linux device driver design, development, and test, in addition to kernel crypto module   \n  - Experience with implementing REST APIs and working with JSON (preferably in C or C++)   \n  - Experience configuring/debugging embedded HTTP(S) servers   \n  - Background in data structures and algorithm design   \n  - Proficient in software development tools, source code control environment   \n  - Experience designing and implementing networking protocols at the phy, mac, transport, and application layers   \n  - Experience working in an Agile / Scrum development environment   \n  - Experience with modern updates to the C++ language (C++14)   \n  - Experience with ARM53 CPUs   \n  - Experience with ARM TrustZone   \n  - Experience with TLS protocols",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-23T06:12:03.000Z"
+    },
+    "company": {
+        "name": "Viasat Inc.",
+        "link": "https://www.linkedin.com/company/viasat"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Jose",
+        "region": "CA",
+        "postal_code": "95148",
+        "street_address": null,
+        "latitude": 37.334793,
+        "longitude": -121.888145
+    }
+}

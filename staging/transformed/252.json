@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Data Engineer",
+        "industry": "Information Technology and Services,Insurance",
+        "description": "Sorry, No Corp to Corp available with this opportunity.   Machine Learning Data EngineerJoin our team, work with us, work on challenging Machine Learning and AI projects with the goal to improve the everyday life of client\u2019s members. You will collaborate with data scientist, analyst, business, and IT teams to design, implement, and deploy Machine Learning and AI services using Python, PySpark, Azure services, Databricks, Terraform, and other open-source software. Develop plans, designs, code, and documentation, and to perform code reviews, testing, and debugging. You will embrace and enforce best practices in our data science community with automated, repeatable data pipelines.Some examples of how we add capabilities to Machine Learning Platform include:  - Creating templates for data scientists, embracing leading-   \n  - edge modeling techniques   \n  - Establishing a Feature Store with tens of thousands of features available to use in predictive models.   \n  - Defining monitoring, auditing, data lineage, and dependency tracking for data pipelines to improve quality.   \n  - Integrating ethical AI bias monitoring and drift analysis into modelling processing   \n  - Standardizing the definitions of clinical, financial, and actuarial features for use across the business   \nSome of the tools we use:  - Python, PySpark, Azure Databricks   \n  - Azure Data Factory, Azure DevOps, Azure Kubernetes&amp;nbsp;Service, CosmosDB, AppInsights, Kafka, Pulsar   \n  - Terraform   \n  - Open-source ML software, like SciKit Learn, SparkML, TensorFlow, Horovod, Petastorm   \n&amp;nbsp;Job Description  - Build and deploy ML models on Azure, using best practices in security, and Azure services.   \n  - Understand best practices for effective predictive models, including cluster management and algorithms, and evangelize with Data Scientists.   \n  - Thrive in a fast-paced agile environment, closely interacting with business analysts, software engineers, machine learning scientists, data engineers, and data scientists.   \n  - Put together production templates, review, and test ML code, and deploy it to Production.   \n&amp;nbsp;Role Essentials  - BS in Computer Science or related field   \n  - 3+ years of experience working on cloud platforms \u2013 Azure strongly preferred.   \n  - 5+ years of experience with Machine Learning and AI   \n  - 5+ years of software development experience, with significant Python experience   \n  - Solid knowledge of data structures and algorithms   \n  - Experience in production environments (ideally enterprise level). Directly responsible for creating production jobs.   \n  - Ability to learn new technologies and comprehend unfamiliar data domains and business processes quickly.   \n&amp;nbsp;Role Desirables  - Open-source contributions and portfolio of shipped code at GitHub   \n  - Experience with Azure, particularly Azure Data Factory (ADF), Spark, Git, and other software engineering tools.   \n  - Experience working with data scientists to streamline code, implement reliable production processes to score models, and/or building scalable, efficient processes to derive new data.   \n  - Familiar with healthcare applications, terminologies, and data   \n  - Passion projects with ML/AI/NLP, for example Kaggle competitions and Hackathons   \n&amp;nbsp;Role Bonus  - Working multiple tools together on the Azure platform (Databricks, ADF, AppInsights and other monitoring/logging tools) to deploy to production.   \n  - Experience in an enterprise production environment where they have hardened, refactored, or otherwise improved upon the training code from Data Scientists.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-07-08T14:26:40.000Z"
+    },
+    "company": {
+        "name": "Strategic Systems Inc",
+        "link": "https://www.linkedin.com/company/strategic-systems-inc."
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Cincinnati",
+        "region": "OH",
+        "postal_code": "45241",
+        "street_address": null,
+        "latitude": 39.1037,
+        "longitude": -84.51361
+    }
+}

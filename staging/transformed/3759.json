@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer / Node / 100% Remote",
+        "industry": "Computer Software,Information Services,Information Technology and Services",
+        "description": "We are Actively seeking a Software Engineer/Node to join our team on a permanent basis. In this position you will work on SCRUM team that is creating APIs written as microservices via NodeJS as AWS Lambda functions within a serverless architecture.&amp;nbsp;We offer 100% remote work, 100% paid health care, 401K with Match, Bonus, and an excellent opportunity for advancement.&amp;nbsp;Desired Skills&amp;nbsp;  - 3+ years of Software Engineering experience   \n  - Proficiency in JavaScript and TypeScript running on Node.js   \n  - Ability to create APIs written as microservices via NodeJS as AWS Lambda functions within a serverless architecture   \n  - Strong experience with SQL, MySQL or NoSQL database design and implementation?   \n  - Strong understanding of building and using REST APIs   \n  - Interest in moving into API architecture and design   \n  - Experience working in an agile development environment with remote team members",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-16T18:54:27.000Z"
+    },
+    "company": {
+        "name": "firstPRO 360",
+        "link": "https://www.linkedin.com/company/firstpro360"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 36,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}

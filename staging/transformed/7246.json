@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning/ML Engineer",
+        "industry": "",
+        "description": "Machine Learning/ML EngineerCool Minds LLCLocation: Austin, TX (Remote until Covid) and Candidates who can work in PST will be given the preference   Job Requirements:  - 5+ years of industry experience or a PhD and in addition, minimum 2 years industry experience in applied Machine learning.   \n  - Strong coding skills in Python/Java/Scala or equivalent   \n  - Experience with distributed data processing tools like Hive, Spark, Airflow and popular ML frameworks like Tensorflow or Pytorch is preferred   \n  - Solid understanding of engineering best practices and complexities of models in production   \n  - Experience developing and productionizing machine learning models is a plus   \n  - Experience with Docker, Kubernetes, Spark is a plus   \n  - Experience with distributed data processing tools like Hive, Spark, Airflow is a plus   \n  - Industry experience building end-to-end Machine Learning Infrastructure a bigplus.",
+        "employment_type": "CONTRACTOR",
+        "date_posted": "2021-09-07T20:03:02.000Z"
+    },
+    "company": {
+        "name": "Cool-Minds LLC",
+        "link": "https://www.linkedin.com/company/cool-mindsllc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 24,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Austin",
+        "region": "TX",
+        "postal_code": "78746",
+        "street_address": null,
+        "latitude": 30.264978,
+        "longitude": -97.7466
+    }
+}

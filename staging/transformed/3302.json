@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Site Reliability Engineer",
+        "industry": "",
+        "description": "Minimum Qualifications  - Experience in managing cloud native infrastructure setup   \n  - Passionate about security and have good understanding of industry best practices   \n  - Experience in programming languages like Python, Golang, and enjoying automating everything using code   \n  - Good skills and intuition on root cause issues in production environment   \n&amp;nbsp;Preferred Qualifications  - Experience in Terraform   \n  - Experience in database and network management   \n  - Experience in defining security policies and best practices   \n  - Experience in managing a large scale multi cloud environment   \n  - Knowledge of SOC, GDPR or ISO 27001 security compliance standards is a plus",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-10T20:05:41.000Z"
+    },
+    "company": {
+        "name": "Key Infotek LLC",
+        "link": "https://www.linkedin.com/company/key-infotek-llc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": null,
+        "seniority_level": null
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "San Jose",
+        "region": "CA",
+        "postal_code": "95148",
+        "street_address": null,
+        "latitude": 37.334793,
+        "longitude": -121.888145
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Machine Learning Engineer",
+        "industry": "Electrical/Electronic Manufacturing,Machinery,Mechanical or Industrial Engineering",
+        "description": "Born out of MIT, VulcanForms is commercializing the first fully scalable industrial metal additive manufacturing (AM) solution. Building the world\u2019s most powerful and advanced metal AM system is the first step towards our vision of lights-out, highest quality metal AM mass production. We are a team of leading technology and operational experts with decades of experience in advanced manufacturing, materials, automation, and robotics. We are continuously seeking contributors who demonstrate outstanding integrity, intelligence, hunger, accountability, and a passion for learning.      Job Summary      VulcanForms is currently seeking a Machine Learning Engineer with a focus on operations to join our Machine Learning and Data Science team in Burlington, MA. As a machine learning engineer, you will develop and maintain ML pipelines, deploy, and monitor ML models / data analytics in production for our cutting-edge metal Additive Manufacturing factory. You will have a unique opportunity to push the frontier of ML applications in additive manufacturing.      Essential Functions And Responsibilities      - Build, maintain and manage end-to-end ML training and deployment pipelines.      \n   - Deploy, monitor, and optimize ML models and data analytics in the edge, on-premises and in the cloud for Additive Manufacturing.   \n   - Develop software that integrate ML pipelines within the additive manufacturing process.   \n   - Working with our additive manufacturing and process control experts to identify and solve technical pain-points to expand the application of Machine Learning and data analysis in AM.   \n       Required Qualifications      - Master of Science degree in Computer Science, Data Science, or related field with 1+ years of relevant work experience, or Bachelor of Science degree in relevant field with 3+ years of relevant work experience, or Ph.D. in relevant field      \n   - Hands-on experience training, and deploying machine learning models   \n   - Familiarity with at least one of the Deep Learning frameworks (I.e., TensorFlow, PyTorch)   \n   - Proficient in Python and its Machine Learning stacks   \n   - Strong programming skills, familiarity with software development cycles, solid understanding of data structures and algorithms   \n   - This position must satisfy ITAR compliance requirements, therefore candidates must be U.S. Citizens, or lawful Permanent Residents of the U.S. (Green Card Holders)   \n       Preferred Qualifications      - Ph. D. in relevant field      \n   - Experience of deploying deep learning models for low-latency applications and in the edge   \n   - Experience with Docker or other containerization technologies   \n   - Experience with microservices   \n   - Experience with C++   \n   - A desire to stay current with open-source ML ecosystems   \n   - Self-motivated, capable of setting and reaching ambitious goals   \n   - Team player with excellent communication skills   \n   - Additive Manufacturing (AM) industry experience   \n   - Experience working in a fast-paced startup company environment   \n       Benefits      - Medical, dental, vision, and life insurance available to you starting on your first day of employment      \n   - Generous time off package including vacation PTO, sick PTO, and 11 company-paid federal holidays   \n   - Flexible work schedule   \n   - 401(k) with company match and stock options.",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-06-25T05:08:45.000Z"
+    },
+    "company": {
+        "name": "VulcanForms Inc.",
+        "link": "https://www.linkedin.com/company/vulcanforms-inc"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 12,
+        "seniority_level": "Junior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "Burlington",
+        "region": "MA",
+        "postal_code": "01803",
+        "street_address": null,
+        "latitude": 42.504986,
+        "longitude": -71.19583
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Data Scientist",
+        "industry": "Internet",
+        "description": "SummaryAs a Data Scientist at Fast, you will partner closely with product managers, engineering, design, marketing, sales, or other operational leaders to define core metrics/KPIs, generate actionable data insights from large datasets, build automated dashboards using data pipelines, and run experiments to measure impact of new initiatives.&amp;nbsp;Role  - Run complex data queries, analyze large datasets and run statistical analyses to continuously drive deeper understanding of our customers and product performance   \n  - Create dashboards and reports with effective data visualizations   \n  - Be a thought partner to business leaders in determining quantitative success and process improvement   \n  - Build data pipelines and create scripts to automate processes and reports   \n  - Build models to improve our understanding of user behavior and predict future performance&amp;nbsp;   \n   Requirements  - 3+ years of experience in quantitative analysis roles   \n  - Fluent in SQL and a scripting language (R, Python)   \n  - Knowledge of experimentation and statistical methods   \n  - BS in quantitative field or equivalent experience   \n  - Skilled with Looker, Jupyter Notebook and other data visualization tools   \n   Nice to Have  - 5+ years of experience in quantitative analysis roles   \n  - Advanced degree in quantitative field or equivalent experience   \n  - Knowledge of building data pipelines (e.g. dbt, airflow)   \n  - Experience in e-commerce industry   \n  - Previous mature startup experience",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-08-19T23:57:50.000Z"
+    },
+    "company": {
+        "name": "Fast",
+        "link": "https://www.linkedin.com/company/fast"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 60,
+        "seniority_level": "Senior"
+    },
+    "salary": {
+        "currency": null,
+        "min_value": null,
+        "max_value": null,
+        "unit": "YEAR"
+    },
+    "location": {
+        "country": "US",
+        "locality": "United States",
+        "region": null,
+        "postal_code": "99999",
+        "street_address": null,
+        "latitude": 39.50355,
+        "longitude": -99.0183
+    }
+}
