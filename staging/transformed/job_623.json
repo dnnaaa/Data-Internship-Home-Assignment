@@ -1,0 +1,35 @@
+{
+    "job": {
+        "title": "Software Engineer I (Java/Cloud)",
+        "industry": "Computer Software,Hospital &amp; Health Care",
+        "description": "<p>The successful candidate must be proficient in at least one programming language (i.e., Java/C#), understand OOP and RDBMS concepts. Must be able to learn and directly contribute to the design and delivery of applications.&nbsp;&nbsp;</p><p><br></p><p>•\tParticipate in the complete software development lifecycle, from requirements through testing.</p><p>•\tAssists in the construction, testing, and debugging of programs in accordance with engineering standards.</p><p>•\tMaintains and documents programs in accordance with engineering standards.</p><p>•\tMaintains technical specifications according to the changes introduced to the code and assist in development of new technical specifications.</p><p>•\tSuggest estimates of efforts required to implement assigned tasks according to the schedule defined by technical management.</p><p>•\tOther duties as required to support and meet the needs of the organization</p><p><br></p><p><strong>Requirements:</strong></p><p>•\tBachelor’s Degree in process or completed in related field of study or equivalent experience.</p><p>•\tUp to 4 years of software development experience.</p><p>•\tExperience with Java 8 or above&nbsp;</p><p>•\tExperience with 1 or more of the following:</p><p>\to\tWeb technologies (HTML5, JavaScript, JQuery, REST).</p><p>•\tExperience with one or more RDBMS (I.e., proficient in SQL).</p><p>•\tUnderstand OOP and RDBMS concepts.</p><p>•\tKnowledge of SDLC.</p><p>•\tGood interpersonal, communications skills and ability to work independently.</p><p>•\tStrong analytical and problem solving skills and proficient technical writing.</p><p>•\tWorking knowledge of Software Version Control systems.</p><p>•\tPreferred: Experience with microservices based architecture and AWS</p><p></p>",
+        "employment_type": "FULL_TIME",
+        "date_posted": "2021-07-15T18:40:34.000Z"
+    },
+    "company": {
+        "name": "MEDHOST",
+        "link": "https://www.linkedin.com/company/medhost"
+    },
+    "education": {
+        "required_credential": "bachelor degree"
+    },
+    "experience": {
+        "months_of_experience": 48,
+        "seniority_level": ""
+    },
+    "salary": {
+        "currency": "",
+        "min_value": "",
+        "max_value": "",
+        "unit": ""
+    },
+    "location": {
+        "country": "US",
+        "locality": "Nashville Metropolitan Area",
+        "region": null,
+        "postal_code": "37201",
+        "street_address": null,
+        "latitude": 36.172813,
+        "longitude": -86.78488
+    }
+}
