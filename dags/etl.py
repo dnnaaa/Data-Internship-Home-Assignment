@@ -88,37 +88,37 @@ def transform():
 
         transformed_data = {
             "job": {
-                "title": raw_data.get("job_title"),
-                "industry": raw_data.get("job_industry"),
-                "description": raw_data.get("job_description"),
-                "employment_type": raw_data.get("job_employment_type"),
-                "date_posted": raw_data.get("job_date_posted"),
+                "title": raw_data.get("title"),
+                "industry": raw_data.get("industry"),
+                "description": raw_data.get("description"),
+                "employment_type": raw_data.get("employmentType"),
+                "date_posted": raw_data.get("datePosted"),
             },
             "company": {
-                "name": raw_data.get("company_name"),
-                "link": raw_data.get("company_linkedin_link"),
+                "name": raw_data.get("hiringOrganization", {}).get("name", ""),
+                "link": raw_data.get("hiringOrganization", {}).get("sameAs", ""),
             },
             "education": {
-                "required_credential": raw_data.get("job_required_credential"),
+                "required_credential": raw_data.get("educationRequirements", {}).get("credentialCategory", ""),
             },
             "experience": {
                 "months_of_experience": raw_data.get("job_months_of_experience"),
-                "seniority_level": raw_data.get("seniority_level"),
+                "seniority_level": raw_data.get("experienceRequirements", {}).get("seniorityLevel", ""),
             },
             "salary": {
-                "currency": raw_data.get("salary_currency"),
-                "min_value": raw_data.get("salary_min_value"),
-                "max_value": raw_data.get("salary_max_value"),
-                "unit": raw_data.get("salary_unit"),
+                "currency": raw_data.get("estimatedSalary", {}).get("currency", ""),
+                "min_value": raw_data.get("estimatedSalary", {}).get("value", {}).get("minValue", ""),
+                "max_value": raw_data.get("estimatedSalary", {}).get("value", {}).get("maxValue", ""),
+                "unit": raw_data.get("estimatedSalary", {}).get("value", {}).get("unitText", ""),
             },
             "location": {
-                "country": raw_data.get("country"),
-                "locality": raw_data.get("locality"),
-                "region": raw_data.get("region"),
-                "postal_code": raw_data.get("postal_code"),
-                "street_address": raw_data.get("street_address"),
-                "latitude": raw_data.get("latitude"),
-                "longitude": raw_data.get("longitude"),
+                "country": raw_data.get("jobLocation", {}).get("address", {}).get("addressCountry", ""),
+                "locality": raw_data.get("jobLocation", {}).get("address", {}).get("addressLocality", ""),
+                "region": raw_data.get("jobLocation", {}).get("address", {}).get("addressRegion", ""),
+                "postal_code": raw_data.get("jobLocation", {}).get("address", {}).get("postalCode", ""),
+                "street_address": raw_data.get("jobLocation", {}).get("address", {}).get("streetAddress", ""),
+                "latitude": raw_data.get("jobLocation", {}).get("latitude", ""),
+                "longitude": raw_data.get("jobLocation", {}).get("longitude", ""),
             },
         }
 
@@ -195,8 +195,8 @@ def load():
 
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
-    "retries": 1,
-    "retry_delay": timedelta(minutes=1)
+    "retries": 3,
+    "retry_delay": timedelta(minutes=15)
 }
 
 @dag(
