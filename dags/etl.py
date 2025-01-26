@@ -74,9 +74,10 @@ os.makedirs(TRANSFORMED_DIR, exist_ok=True)
 def extract():
     """Extract data from jobs.csv."""
     df = pd.read_csv("source/jobs.csv")
+    df["context"] = df["context"].fillna("")
     for i, context in enumerate(df["context"]):
         with open(os.path.join(EXTRACTED_DIR, f"job_{i}.txt"), "w") as f:
-            f.write(context)
+            f.write(str(context))
 
 @task()
 def transform():
