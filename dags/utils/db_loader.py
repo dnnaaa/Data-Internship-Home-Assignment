@@ -82,7 +82,7 @@ def insert_related_data(conn: sqlite3.Connection, job_id: int, data: Dict[str, A
             safe_extract(data, ['location', 'longitude'])
         ))
 
-def load_jobs_to_database(input_file='staging/transformed/all_jobs.json',db_path='jobs_database.db'):
+def load_jobs_to_database(input_file='staging/transformed/all_jobs.json',db_path='staging/loaded/jobs_database.db'):
     # Configure paths
     # input_file = os.path.join('staging/transformed', 'all_jobs.json')
     # db_path = 'jobs_database.db'
