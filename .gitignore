@@ -135,3 +135,9 @@ airflow.cfg
 airflow.db
 webserver_config.py
 airflow-webserver.pid
+
+#test file
+tests/test_csv_processing.py
+
+.vscode/
+setup.py
